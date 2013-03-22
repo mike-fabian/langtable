@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<keyboards>
+  <keyboard>
+    <keyboardId>at(nodeadkeys)</keyboardId>
+    <description>German (Austria)</description>
+    <ascii>True</ascii>
+    <languages>
+      <language><languageId>de</languageId><rank>1000</rank></language>
+    </languages>
+  </keyboard>
+  <keyboard>
+    <keyboardId>be</keyboardId>
+    <description>Belgian</description>
+    <ascii>True</ascii>
+    <languages>
+      <language><languageId>nl</languageId><rank>500</rank></language>
+      <language><languageId>fr</languageId><rank>400</rank></language>
+      <language><languageId>de</languageId><rank>10</rank></language>
+    </languages>
+  </keyboard>
+  <keyboard>
+    <keyboardId>be(oss)</keyboardId>
+    <description>Belgian (alternative)</description>
+    <ascii>True</ascii>
+    <languages>
+      <language><languageId>nl</languageId><rank>500</rank></language>
+      <language><languageId>fr</languageId><rank>400</rank></language>
+      <language><languageId>de</languageId><rank>10</rank></language>
+    </languages>
+  </keyboard>
+  <keyboard>
+    <keyboardId>ch</keyboardId>
+    <description>German (Switzerland)</description>
+    <ascii>True</ascii>
+    <languages>
+      <language><languageId>de</languageId><rank>600</rank></language>
+      <language><languageId>fr</languageId><rank>400</rank></language>
+    </languages>
+  </keyboard>
+  <keyboard>
+    <keyboardId>ch(fr)</keyboardId>
+    <description>French (Switzerland)</description>
+    <ascii>True</ascii>
+    <languages>
+      <language><languageId>fr</languageId><rank>600</rank></language>
+      <language><languageId>de</languageId><rank>400</rank></language>
+    </languages>
+  </keyboard>
+  <keyboard>
+    <keyboardId>cz</keyboardId>
+    <description>Czech</description>
+    <ascii>False</ascii>
+    <languages>
+      <language><languageId>cs</languageId><rank>1000</rank></language>
+    </languages>
+  </keyboard>
+  <keyboard>
+    <keyboardId>de(deadacute)</keyboardId>
+    <description>German (dead acute)</description>
+    <ascii>True</ascii>
+    <languages>
+      <language><languageId>de</languageId><rank>1000</rank></language>
+    </languages>
+  </keyboard>
+  <keyboard>
+    <keyboardId>de(nodeadkeys)</keyboardId>
+    <description>German (eliminate dead keys)</description>
+    <ascii>True</ascii>
+    <languages>
+      <language><languageId>de</languageId><rank>1000</rank></language>
+    </languages>
+  </keyboard>
+  <keyboard>
+    <keyboardId>fr</keyboardId>
+    <description>French</description>
+    <ascii>True</ascii>
+    <comment>No identified maintainer, and very limited features.</comment>
+    <languages>
+      <language><languageId>fr</languageId><rank>0</rank></language>
+    </languages>
+  </keyboard>
+  <keyboard>
+    <keyboardId>fr(latin9)</keyboardId>
+    <description>French (legacy alternative)</description>
+    <ascii>True</ascii>
+    <comment>Has been created by the French Linux community to complement fr and allow typing symbols necessary in correct French (added in iso-8859-15, but not present in typewriters or iso-8859-1)</comment>
+    <languages>
+      <language><languageId>fr</languageId><rank>1000</rank></language>
+    </languages>
+  </keyboard>
+  <keyboard>
+    <keyboardId>fr(oss)</keyboardId>
+    <description>French (alternative)</description>
+    <ascii>True</ascii>
+    <comment>A refresh of fr(latin9) to take unicode changes into account.  Please make fr(oss) the default keyboard for French, as it is the most complete and modern. The xkb fr(latin9) is only there for historical purposes.  See: https://bugzilla.redhat.com/show_bug.cgi?id=485137#c0</comment>
+    <languages>
+      <language><languageId>fr</languageId><rank>1000</rank></language>
+    </languages>
+  </keyboard>
+  <keyboard>
+    <keyboardId>jp</keyboardId>
+    <description>Japanese</description>
+    <ascii>True</ascii>
+    <languages>
+      <language><languageId>ja</languageId><rank>1000</rank></language>
+    </languages>
+  </keyboard>
+  <keyboard>
+    <keyboardId>ru</keyboardId>
+    <description>Russian</description>
+    <ascii>False</ascii>
+    <languages>
+      <language><languageId>ru</languageId><rank>1000</rank></language>
+    </languages>
+  </keyboard>
+  <keyboard>
+    <keyboardId>us</keyboardId>
+    <description>English (US)</description>
+    <ascii>True</ascii>
+    <languages>
+      <language><languageId>en</languageId><rank>1000</rank></language>
+    </languages>
+  </keyboard>
+</keyboards>
