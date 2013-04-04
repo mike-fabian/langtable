@@ -43,6 +43,11 @@
       <locale><localeId>li_BE.UTF-8</localeId><rank>1</rank></locale>
     </locales>
     <languages>
+      <language><languageId>nl</languageId><rank>590</rank></language>
+      <language><languageId>fr</languageId><rank>400</rank></language>
+      <language><languageId>de</languageId><rank>5</rank></language>
+      <language><languageId>wa</languageId><rank>2</rank></language>
+      <language><languageId>li</languageId><rank>1</rank></language>
     </languages>
     <keyboards>
       <keyboard><keyboardId>be(oss)</keyboardId><rank>900</rank></keyboard>
