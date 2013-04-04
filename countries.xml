@@ -1,6 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <countries>
   <country>
+    <countryId>AE</countryId>
+    <englishName>United Arab Emirates</englishName>
+    <locales>
+      <locale><localeId>ar_AE.UTF-8</localeId><rank>1000</rank></locale>
+    </locales>
+    <languages>
+      <language><languageId>ar</languageId><rank>1000</rank></language>
+    </languages>
+    <keyboards>
+      <keyboard><keyboardId>ara</keyboardId><rank>1000</rank></keyboard>
+    </keyboards>
+    <timezones>
+      <timezone><timezoneId>Asia/Dubai</timezoneId><rank>1000</rank></timezone>
+    </timezones>
+  </country>
+  <country>
     <countryId>AT</countryId>
     <englishName>Austria</englishName>
     <locales>
@@ -26,12 +42,30 @@
       <locale><localeId>wa_BE.UTF-8</localeId><rank>2</rank></locale>
       <locale><localeId>li_BE.UTF-8</localeId><rank>1</rank></locale>
     </locales>
+    <languages>
+    </languages>
     <keyboards>
       <keyboard><keyboardId>be(oss)</keyboardId><rank>900</rank></keyboard>
       <keyboard><keyboardId>be</keyboardId><rank>0</rank></keyboard>
     </keyboards>
     <timezones>
       <timezone><timezoneId>Europe/Brussels</timezoneId><rank>1000</rank></timezone>
+    </timezones>
+  </country>
+  <country>
+    <countryId>BH</countryId>
+    <englishName>Bahrain</englishName>
+    <locales>
+      <locale><localeId>ar_BH.UTF-8</localeId><rank>1000</rank></locale>
+    </locales>
+    <languages>
+      <language><languageId>ar</languageId><rank>1000</rank></language>
+    </languages>
+    <keyboards>
+      <keyboard><keyboardId>ara</keyboardId><rank>1000</rank></keyboard>
+    </keyboards>
+    <timezones>
+      <timezone><timezoneId>Asia/Bahrain</timezoneId><rank>1000</rank></timezone>
     </timezones>
   </country>
   <country>
@@ -102,6 +136,38 @@
     </timezones>
   </country>
   <country>
+    <countryId>DZ</countryId>
+    <englishName>Algeria</englishName>
+    <locales>
+      <locale><localeId>ar_DZ.UTF-8</localeId><rank>1000</rank></locale>
+    </locales>
+    <languages>
+      <language><languageId>ar</languageId><rank>1000</rank></language>
+    </languages>
+    <keyboards>
+      <keyboard><keyboardId>ara(azerty)</keyboardId><rank>1000</rank></keyboard>
+    </keyboards>
+    <timezones>
+      <timezone><timezoneId>Africa/Algiers</timezoneId><rank>1000</rank></timezone>
+    </timezones>
+  </country>
+  <country>
+    <countryId>EG</countryId>
+    <englishName>Egypt</englishName>
+    <locales>
+      <locale><localeId>ar_EG.UTF-8</localeId><rank>1000</rank></locale>
+    </locales>
+    <languages>
+      <language><languageId>ar</languageId><rank>1000</rank></language>
+    </languages>
+    <keyboards>
+      <keyboard><keyboardId>ara</keyboardId><rank>1000</rank></keyboard>
+    </keyboards>
+    <timezones>
+      <timezone><timezoneId>Africa/Cairo</timezoneId><rank>1000</rank></timezone>
+    </timezones>
+  </country>
+  <country>
     <countryId>FR</countryId>
     <englishName>France</englishName>
     <locales>
@@ -126,6 +192,38 @@
     </timezones>
   </country>
   <country>
+    <countryId>IQ</countryId>
+    <englishName>Iraq</englishName>
+    <locales>
+      <locale><localeId>ar_IQ.UTF-8</localeId><rank>1000</rank></locale>
+    </locales>
+    <languages>
+      <language><languageId>ar</languageId><rank>1000</rank></language>
+    </languages>
+    <keyboards>
+      <keyboard><keyboardId>ara</keyboardId><rank>1000</rank></keyboard>
+    </keyboards>
+    <timezones>
+      <timezone><timezoneId>Asia/Baghdad</timezoneId><rank>1000</rank></timezone>
+    </timezones>
+  </country>
+  <country>
+    <countryId>JO</countryId>
+    <englishName>Jordan</englishName>
+    <locales>
+      <locale><localeId>ar_JO.UTF-8</localeId><rank>1000</rank></locale>
+    </locales>
+    <languages>
+      <language><languageId>ar</languageId><rank>1000</rank></language>
+    </languages>
+    <keyboards>
+      <keyboard><keyboardId>ara</keyboardId><rank>1000</rank></keyboard>
+    </keyboards>
+    <timezones>
+      <timezone><timezoneId>Asia/Amman</timezoneId><rank>1000</rank></timezone>
+    </timezones>
+  </country>
+  <country>
     <countryId>JP</countryId>
     <englishName>Japan</englishName>
     <locales>
@@ -139,6 +237,102 @@
     </keyboards>
     <timezones>
       <timezone><timezoneId>Asia/Tokyo</timezoneId><rank>1000</rank></timezone>
+    </timezones>
+  </country>
+  <country>
+    <countryId>KW</countryId>
+    <englishName>Kuwait</englishName>
+    <locales>
+      <locale><localeId>ar_KW.UTF-8</localeId><rank>1000</rank></locale>
+    </locales>
+    <languages>
+      <language><languageId>ar</languageId><rank>1000</rank></language>
+    </languages>
+    <keyboards>
+      <keyboard><keyboardId>ara</keyboardId><rank>1000</rank></keyboard>
+    </keyboards>
+    <timezones>
+      <timezone><timezoneId>Asia/Kuwait</timezoneId><rank>1000</rank></timezone>
+    </timezones>
+  </country>
+  <country>
+    <countryId>LB</countryId>
+    <englishName>Lebanon</englishName>
+    <locales>
+      <locale><localeId>ar_LB.UTF-8</localeId><rank>1000</rank></locale>
+    </locales>
+    <languages>
+      <language><languageId>ar</languageId><rank>1000</rank></language>
+    </languages>
+    <keyboards>
+      <keyboard><keyboardId>ara</keyboardId><rank>1000</rank></keyboard>
+    </keyboards>
+    <timezones>
+      <timezone><timezoneId>Asia/Beirut</timezoneId><rank>1000</rank></timezone>
+    </timezones>
+  </country>
+  <country>
+    <countryId>LY</countryId>
+    <englishName>Libya</englishName>
+    <locales>
+      <locale><localeId>ar_LY.UTF-8</localeId><rank>1000</rank></locale>
+    </locales>
+    <languages>
+      <language><languageId>ar</languageId><rank>1000</rank></language>
+    </languages>
+    <keyboards>
+      <keyboard><keyboardId>ara</keyboardId><rank>1000</rank></keyboard>
+    </keyboards>
+    <timezones>
+      <timezone><timezoneId>Africa/Tripoli</timezoneId><rank>1000</rank></timezone>
+    </timezones>
+  </country>
+  <country>
+    <countryId>MA</countryId>
+    <englishName>Morocco</englishName>
+    <locales>
+      <locale><localeId>ar_MA.UTF-8</localeId><rank>1000</rank></locale>
+    </locales>
+    <languages>
+      <language><languageId>ar</languageId><rank>1000</rank></language>
+    </languages>
+    <keyboards>
+      <keyboard><keyboardId>ara</keyboardId><rank>1000</rank></keyboard>
+    </keyboards>
+    <timezones>
+      <timezone><timezoneId>Africa/Casablanca</timezoneId><rank>1000</rank></timezone>
+    </timezones>
+  </country>
+  <country>
+    <countryId>OM</countryId>
+    <englishName>Oman</englishName>
+    <locales>
+      <locale><localeId>ar_OM.UTF-8</localeId><rank>1000</rank></locale>
+    </locales>
+    <languages>
+      <language><languageId>ar</languageId><rank>1000</rank></language>
+    </languages>
+    <keyboards>
+      <keyboard><keyboardId>ara</keyboardId><rank>1000</rank></keyboard>
+    </keyboards>
+    <timezones>
+      <timezone><timezoneId>Asia/Muscat</timezoneId><rank>1000</rank></timezone>
+    </timezones>
+  </country>
+  <country>
+    <countryId>QA</countryId>
+    <englishName>Qatar</englishName>
+    <locales>
+      <locale><localeId>ar_QA.UTF-8</localeId><rank>1000</rank></locale>
+    </locales>
+    <languages>
+      <language><languageId>ar</languageId><rank>1000</rank></language>
+    </languages>
+    <keyboards>
+      <keyboard><keyboardId>ara</keyboardId><rank>1000</rank></keyboard>
+    </keyboards>
+    <timezones>
+      <timezone><timezoneId>Asia/Qatar</timezoneId><rank>1000</rank></timezone>
     </timezones>
   </country>
   <country>
@@ -180,6 +374,86 @@
       <timezone><timezoneId>Asia/Magadan</timezoneId><rank>36</rank></timezone>
       <timezone><timezoneId>Asia/Kamchatka</timezoneId><rank>35</rank></timezone>
       <timezone><timezoneId>Asia/Anadyr</timezoneId><rank>34</rank></timezone>
+    </timezones>
+  </country>
+  <country>
+    <countryId>SA</countryId>
+    <englishName>Saudi Arabia</englishName>
+    <locales>
+      <locale><localeId>ar_SA.UTF-8</localeId><rank>1000</rank></locale>
+    </locales>
+    <languages>
+      <language><languageId>ar</languageId><rank>1000</rank></language>
+    </languages>
+    <keyboards>
+      <keyboard><keyboardId>ara</keyboardId><rank>1000</rank></keyboard>
+    </keyboards>
+    <timezones>
+      <timezone><timezoneId>Asia/Riyadh</timezoneId><rank>1000</rank></timezone>
+    </timezones>
+  </country>
+  <country>
+    <countryId>SD</countryId>
+    <englishName>Sudan</englishName>
+    <locales>
+      <locale><localeId>ar_SD.UTF-8</localeId><rank>1000</rank></locale>
+    </locales>
+    <languages>
+      <language><languageId>ar</languageId><rank>1000</rank></language>
+    </languages>
+    <keyboards>
+      <keyboard><keyboardId>ara</keyboardId><rank>1000</rank></keyboard>
+    </keyboards>
+    <timezones>
+      <timezone><timezoneId>Africa/Khartoum</timezoneId><rank>1000</rank></timezone>
+    </timezones>
+  </country>
+  <country>
+    <countryId>SY</countryId>
+    <englishName>Syria</englishName>
+    <locales>
+      <locale><localeId>ar_SY.UTF-8</localeId><rank>1000</rank></locale>
+    </locales>
+    <languages>
+      <language><languageId>ar</languageId><rank>1000</rank></language>
+    </languages>
+    <keyboards>
+      <keyboard><keyboardId>ara</keyboardId><rank>1000</rank></keyboard>
+    </keyboards>
+    <timezones>
+      <timezone><timezoneId>Asia/Damascus</timezoneId><rank>1000</rank></timezone>
+    </timezones>
+  </country>
+  <country>
+    <countryId>TN</countryId>
+    <englishName>Tunisia</englishName>
+    <locales>
+      <locale><localeId>ar_TN.UTF-8</localeId><rank>1000</rank></locale>
+    </locales>
+    <languages>
+      <language><languageId>ar</languageId><rank>1000</rank></language>
+    </languages>
+    <keyboards>
+      <keyboard><keyboardId>ara</keyboardId><rank>1000</rank></keyboard>
+    </keyboards>
+    <timezones>
+      <timezone><timezoneId>Africa/Tunis</timezoneId><rank>1000</rank></timezone>
+    </timezones>
+  </country>
+  <country>
+    <countryId>YE</countryId>
+    <englishName>Yemen</englishName>
+    <locales>
+      <locale><localeId>ar_YE.UTF-8</localeId><rank>1000</rank></locale>
+    </locales>
+    <languages>
+      <language><languageId>ar</languageId><rank>1000</rank></language>
+    </languages>
+    <keyboards>
+      <keyboard><keyboardId>ara</keyboardId><rank>1000</rank></keyboard>
+    </keyboards>
+    <timezones>
+      <timezone><timezoneId>Asia/Aden</timezoneId><rank>1000</rank></timezone>
     </timezones>
   </country>
   <country>
