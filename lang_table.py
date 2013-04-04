@@ -418,11 +418,11 @@ def make_ranked_list_concise(ranked_list, cut_off_factor=1000):
             break
     return ranked_list
 
-language_bonus = 1
 extra_bonus = 1000000
     
 def list_locales(concise=True, show_weights=False, languageId = None, countryId = None):
     ranked_locales = {}
+    language_bonus = 100
     if languageId in languages:
         for locale in languages[languageId].locales:
             if languages[languageId].locales[locale] != 0:
@@ -432,6 +432,7 @@ def list_locales(concise=True, show_weights=False, languageId = None, countryId 
                     ranked_locales[locale] *= languages[languageId].locales[locale]
                     ranked_locales[locale] *= extra_bonus
                 ranked_locales[locale] *= language_bonus
+    country_bonus = 1
     if countryId in countries:
         for locale in countries[countryId].locales:
             if countries[countryId].locales[locale] != 0:
@@ -440,6 +441,7 @@ def list_locales(concise=True, show_weights=False, languageId = None, countryId 
                 else:
                     ranked_locales[locale] *= countries[countryId].locales[locale]
                     ranked_locales[locale] *= extra_bonus
+                ranked_locales[locale] *= country_bonus
     ranked_list = dictionary_to_ranked_list(ranked_locales)
     if concise:
         ranked_list = make_ranked_list_concise(ranked_list)
@@ -450,6 +452,7 @@ def list_locales(concise=True, show_weights=False, languageId = None, countryId 
 
 def list_keyboards(concise=True, show_weights=False, languageId = None, countryId = None):
     ranked_keyboards = {}
+    language_bonus = 1
     if languageId in languages:
         for keyboard in languages[languageId].keyboards:
             if languages[languageId].keyboards[keyboard] != 0:
@@ -459,6 +462,7 @@ def list_keyboards(concise=True, show_weights=False, languageId = None, countryI
                     ranked_keyboards[keyboard] *= languages[languageId].keyboards[keyboard]
                     ranked_keyboards[keyboard] *= extra_bonus
                 ranked_keyboards[keyboard] *= language_bonus
+    country_bonus = 1
     if countryId in countries:
         for keyboard in countries[countryId].keyboards:
             if countries[countryId].keyboards[keyboard] != 0:
@@ -467,6 +471,7 @@ def list_keyboards(concise=True, show_weights=False, languageId = None, countryI
                 else:
                     ranked_keyboards[keyboard] *= countries[countryId].keyboards[keyboard]
                     ranked_keyboards[keyboard] *= extra_bonus
+                ranked_keyboards[keyboard] *= country_bonus
     ranked_list = dictionary_to_ranked_list(ranked_keyboards)
     if concise:
         ranked_list = make_ranked_list_concise(ranked_list)
