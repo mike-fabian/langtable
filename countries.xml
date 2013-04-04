@@ -197,6 +197,77 @@
     </timezones>
   </country>
   <country>
+    <countryId>IN</countryId>
+    <englishName>India</englishName>
+    <locales>
+      <locale><localeId>hi_IN.UTF-8</localeId><rank>400</rank></locale>
+      <locale><localeId>en_IN.UTF-8</localeId><rank>200</rank></locale>
+      <locale><localeId>bn_IN.UTF-8</localeId><rank>150</rank></locale>
+      <locale><localeId>te_IN.UTF-8</localeId><rank>140</rank></locale>
+      <locale><localeId>mr_IN.UTF-8</localeId><rank>130</rank></locale>
+      <locale><localeId>ta_IN.UTF-8</localeId><rank>120</rank></locale>
+      <locale><localeId>ur_IN.UTF-8</localeId><rank>110</rank></locale>
+      <locale><localeId>gu_IN.UTF-8</localeId><rank>100</rank></locale>
+      <locale><localeId>kn_IN.UTF-8</localeId><rank>90</rank></locale>
+      <locale><localeId>ml_IN.UTF-8</localeId><rank>85</rank></locale>
+      <locale><localeId>or_IN.UTF-8</localeId><rank>80</rank></locale>
+      <locale><localeId>pa_IN.UTF-8</localeId><rank>75</rank></locale>
+      <locale><localeId>as_IN.UTF-8</localeId><rank>70</rank></locale>
+      <locale><localeId>mai_IN.UTF-8</localeId><rank>65</rank></locale>
+      <locale><localeId>sat_IN.UTF-8</localeId><rank>60</rank></locale>
+      <locale><localeId>ks_IN.UTF-8</localeId><rank>55</rank></locale>
+      <locale><localeId>ks_IN.UTF-8@devanagari</localeId><rank>50</rank></locale>
+      <locale><localeId>kok_IN.UTF-8</localeId><rank>45</rank></locale>
+      <locale><localeId>sd_IN.UTF-8</localeId><rank>40</rank></locale>
+      <locale><localeId>sd_IN.UTF-8@devanagari</localeId><rank>35</rank></locale>
+      <locale><localeId>doi_IN.UTF-8</localeId><rank>30</rank></locale>
+      <locale><localeId>mni_IN.UTF-8</localeId><rank>25</rank></locale>
+      <locale><localeId>brx_IN.UTF-8</localeId><rank>20</rank></locale>
+      <locale><localeId>bho_IN.UTF-8</localeId><rank>6</rank></locale>
+      <locale><localeId>bo_IN.UTF-8</localeId><rank>5</rank></locale>
+      <locale><localeId>hne_IN.UTF-8</localeId><rank>4</rank></locale>
+      <locale><localeId>mag_IN.UTF-8</localeId><rank>3</rank></locale>
+      <locale><localeId>ar_IN.UTF-8</localeId><rank>2</rank></locale>
+      <locale><localeId>sa_IN.UTF-8</localeId><rank>0</rank></locale>
+    </locales>
+    <languages>
+      <language><languageId>hi</languageId><rank>400</rank></language>
+      <language><languageId>en</languageId><rank>200</rank></language>
+      <language><languageId>bn</languageId><rank>150</rank></language>
+      <language><languageId>te</languageId><rank>140</rank></language>
+      <language><languageId>mr</languageId><rank>130</rank></language>
+      <language><languageId>ta</languageId><rank>120</rank></language>
+      <language><languageId>ur</languageId><rank>110</rank></language>
+      <language><languageId>gu</languageId><rank>100</rank></language>
+      <language><languageId>kn</languageId><rank>90</rank></language>
+      <language><languageId>ml</languageId><rank>85</rank></language>
+      <language><languageId>or</languageId><rank>80</rank></language>
+      <language><languageId>pa</languageId><rank>75</rank></language>
+      <language><languageId>as</languageId><rank>70</rank></language>
+      <language><languageId>mai</languageId><rank>65</rank></language>
+      <language><languageId>sat</languageId><rank>60</rank></language>
+      <language><languageId>ks</languageId><rank>55</rank></language>
+      <language><languageId>kok</languageId><rank>45</rank></language>
+      <language><languageId>sd</languageId><rank>40</rank></language>
+      <language><languageId>doi</languageId><rank>30</rank></language>
+      <language><languageId>mni</languageId><rank>25</rank></language>
+      <language><languageId>brx</languageId><rank>20</rank></language>
+      <language><languageId>bho</languageId><rank>6</rank></language>
+      <language><languageId>bo</languageId><rank>5</rank></language>
+      <language><languageId>hne</languageId><rank>4</rank></language>
+      <language><languageId>mag</languageId><rank>3</rank></language>
+      <language><languageId>ar</languageId><rank>2</rank></language>
+      <language><languageId>ne</languageId><rank>1</rank></language>
+      <language><languageId>sa</languageId><rank>0</rank></language>
+    </languages>
+    <keyboards>
+      <keyboard><keyboardId>us</keyboardId><rank>950</rank></keyboard>
+    </keyboards>
+    <timezones>
+      <timezone><timezoneId>Asia/Kolkata</timezoneId><rank>1000</rank></timezone>
+    </timezones>
+  </country>
+  <country>
     <countryId>IQ</countryId>
     <englishName>Iraq</englishName>
     <locales>
