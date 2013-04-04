@@ -141,6 +141,29 @@
     </timezones>
   </language>
   <language>
+    <languageId>bn</languageId>
+    <iso639-1>bn</iso639-1>
+    <iso639-2-t>ben</iso639-2-t>
+    <iso639-2-b>ben</iso639-2-b>
+    <endonym>বাংলা</endonym>
+    <englishName>Bengali</englishName>
+    <locales>
+      <locale><localeId>bn_BD.UTF-8</localeId><rank>700</rank></locale>
+      <locale><localeId>bn_IN.UTF-8</localeId><rank>300</rank></locale>
+    </locales>
+    <countries>
+      <country><countryId>BD</countryId><rank>700</rank></country>
+      <country><countryId>IN</countryId><rank>300</rank></country>
+    </countries>
+    <keyboards>
+      <keyboard><keyboardId>us</keyboardId><rank>950</rank></keyboard>
+    </keyboards>
+    <timezones>
+      <timezone><timezoneId>Asia/Dhaka</timezoneId><rank>700</rank></timezone>
+      <timezone><timezoneId>Asia/Kolkata</timezoneId><rank>300</rank></timezone>
+    </timezones>
+  </language>
+  <language>
     <languageId>cs</languageId>
     <iso639-1>cs</iso639-1>
     <iso639-2-t>ces</iso639-2-t>
