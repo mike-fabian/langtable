@@ -33,6 +33,23 @@
     </timezones>
   </country>
   <country>
+    <countryId>BD</countryId>
+    <englishName>Bangladesh</englishName>
+    <locales>
+      <locale><localeId>bn_BD.UTF-8</localeId><rank>1000</rank></locale>
+    </locales>
+    <languages>
+      <language><languageId>bn</languageId><rank>990</rank></language>
+      <language><languageId>en</languageId><rank>10</rank></language>
+    </languages>
+    <keyboards>
+      <keyboard><keyboardId>us</keyboardId><rank>1000</rank></keyboard>
+    </keyboards>
+    <timezones>
+      <timezone><timezoneId>Asia/Dhaka</timezoneId><rank>1000</rank></timezone>
+    </timezones>
+  </country>
+  <country>
     <countryId>BE</countryId>
     <englishName>Belgium</englishName>
     <locales>
