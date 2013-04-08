@@ -135,6 +135,22 @@
     </timezones>
   </country>
   <country>
+    <countryId>CN</countryId>
+    <englishName>China</englishName>
+    <locales>
+      <locale><localeId>zh_CN.UTF-8</localeId><rank>1000</rank></locale>
+    </locales>
+    <languages>
+      <language><languageId>zh</languageId><rank>1000</rank></language>
+    </languages>
+    <keyboards>
+      <keyboard><keyboardId>cn</keyboardId><rank>1000</rank></keyboard>
+    </keyboards>
+    <timezones>
+      <timezone><timezoneId>Asia/Shanghai</timezoneId><rank>1000</rank></timezone>
+    </timezones>
+  </country>
+  <country>
     <countryId>DE</countryId>
     <englishName>Germany</englishName>
     <locales>
@@ -211,6 +227,22 @@
     </keyboards>
     <timezones>
       <timezone><timezoneId>Europe/Paris</timezoneId><rank>1000</rank></timezone>
+    </timezones>
+  </country>
+  <country>
+    <countryId>HK</countryId>
+    <englishName>Hong Kong</englishName>
+    <locales>
+      <locale><localeId>zh_HK.UTF-8</localeId><rank>1000</rank></locale>
+    </locales>
+    <languages>
+      <language><languageId>zh</languageId><rank>1000</rank></language>
+    </languages>
+    <keyboards>
+      <keyboard><keyboardId>cn</keyboardId><rank>1000</rank></keyboard>
+    </keyboards>
+    <timezones>
+      <timezone><timezoneId>Asia/Hong_Kong</timezoneId><rank>1000</rank></timezone>
     </timezones>
   </country>
   <country>
@@ -397,6 +429,23 @@
     </timezones>
   </country>
   <country>
+    <countryId>MO</countryId>
+    <englishName>Macau SAR China</englishName>
+    <locales>
+      <locale><localeId>zh_HK.UTF-8</localeId><rank>1000</rank></locale>
+      <locale><localeId>zh_MO.UTF-8</localeId><rank>0</rank></locale>
+    </locales>
+    <languages>
+      <language><languageId>zh</languageId><rank>1000</rank></language>
+    </languages>
+    <keyboards>
+      <keyboard><keyboardId>cn</keyboardId><rank>1000</rank></keyboard>
+    </keyboards>
+    <timezones>
+      <timezone><timezoneId>Asia/Macau</timezoneId><rank>1000</rank></timezone>
+    </timezones>
+  </country>
+  <country>
     <countryId>OM</countryId>
     <englishName>Oman</englishName>
     <locales>
@@ -502,6 +551,25 @@
     </timezones>
   </country>
   <country>
+    <countryId>SG</countryId>
+    <englishName>Singapore</englishName>
+    <locales>
+      <locale><localeId>zh_SG.UTF-8</localeId><rank>1000</rank></locale>
+      <locale><localeId>en_SG.UTF-8</localeId><rank>1000</rank></locale>
+    </locales>
+    <languages>
+      <language><languageId>en</languageId><rank>1000</rank></language>
+      <language><languageId>zh</languageId><rank>1000</rank></language>
+    </languages>
+    <keyboards>
+      <keyboard><keyboardId>us</keyboardId><rank>600</rank></keyboard>
+      <keyboard><keyboardId>cn</keyboardId><rank>400</rank></keyboard>
+    </keyboards>
+    <timezones>
+      <timezone><timezoneId>Asia/Singapore</timezoneId><rank>1000</rank></timezone>
+    </timezones>
+  </country>
+  <country>
     <countryId>SY</countryId>
     <englishName>Syria</englishName>
     <locales>
@@ -531,6 +599,22 @@
     </keyboards>
     <timezones>
       <timezone><timezoneId>Africa/Tunis</timezoneId><rank>1000</rank></timezone>
+    </timezones>
+  </country>
+  <country>
+    <countryId>TW</countryId>
+    <englishName>Taiwan</englishName>
+    <locales>
+      <locale><localeId>zh_TW.UTF-8</localeId><rank>1000</rank></locale>
+    </locales>
+    <languages>
+      <language><languageId>zh</languageId><rank>1000</rank></language>
+    </languages>
+    <keyboards>
+      <keyboard><keyboardId>cn</keyboardId><rank>1000</rank></keyboard>
+    </keyboards>
+    <timezones>
+      <timezone><timezoneId>Asia/Taipei</timezoneId><rank>1000</rank></timezone>
     </timezones>
   </country>
   <country>
