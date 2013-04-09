@@ -193,3 +193,59 @@
     en: ['us', 'gb']
     SG: ['us', 'cn']
      +: ['us']
+
+>>> test_language_country(show_weights=False, languageId="zh", scriptId = "Hant", countryId=None) # doctest: +NORMALIZE_WHITESPACE
+    zh: ['zh_CN.UTF-8', 'zh_TW.UTF-8', 'zh_HK.UTF-8', 'zh_SG.UTF-8']
+    None: []
+     +: ['zh_TW.UTF-8', 'zh_HK.UTF-8']
+    zh: ['cn']
+    None: []
+     +: ['cn']
+
+>>> test_language_country(show_weights=False, languageId="zh", scriptId = "Hans", countryId=None) # doctest: +NORMALIZE_WHITESPACE
+    zh: ['zh_CN.UTF-8', 'zh_TW.UTF-8', 'zh_HK.UTF-8', 'zh_SG.UTF-8']
+    None: []
+     +: ['zh_CN.UTF-8', 'zh_SG.UTF-8']
+    zh: ['cn']
+    None: []
+     +: ['cn']
+
+>>> test_language_country(show_weights=False, languageId="zh", scriptId = "Hans", countryId="SG") # doctest: +NORMALIZE_WHITESPACE
+    zh: ['zh_CN.UTF-8', 'zh_TW.UTF-8', 'zh_HK.UTF-8', 'zh_SG.UTF-8']
+    SG: ['zh_SG.UTF-8', 'en_SG.UTF-8']
+     +: ['zh_SG.UTF-8']
+    zh: ['cn']
+    SG: ['us', 'cn']
+     +: ['cn']
+
+>>> test_language_country(show_weights=False, languageId="zh", scriptId = "Hans", countryId="TW") # doctest: +NORMALIZE_WHITESPACE
+    zh: ['zh_CN.UTF-8', 'zh_TW.UTF-8', 'zh_HK.UTF-8', 'zh_SG.UTF-8']
+    TW: ['zh_TW.UTF-8']
+     +: ['zh_CN.UTF-8', 'zh_SG.UTF-8', 'zh_TW.UTF-8']
+    zh: ['cn']
+    TW: ['cn']
+     +: ['cn']
+
+>>> test_language_country(show_weights=False, languageId="zh", scriptId = "Hant", countryId="HK") # doctest: +NORMALIZE_WHITESPACE
+    zh: ['zh_CN.UTF-8', 'zh_TW.UTF-8', 'zh_HK.UTF-8', 'zh_SG.UTF-8']
+    HK: ['zh_HK.UTF-8']
+     +: ['zh_HK.UTF-8']
+    zh: ['cn']
+    HK: ['cn']
+     +: ['cn']
+
+>>> test_language_country(show_weights=False, languageId="zh", scriptId = "Hant", countryId="MO") # doctest: +NORMALIZE_WHITESPACE
+    zh: ['zh_CN.UTF-8', 'zh_TW.UTF-8', 'zh_HK.UTF-8', 'zh_SG.UTF-8']
+    MO: ['zh_HK.UTF-8']
+     +: ['zh_HK.UTF-8']
+    zh: ['cn']
+    MO: ['cn']
+     +: ['cn']
+
+>>> test_language_country(show_weights=False, languageId="zh", scriptId = "Hant", countryId="CN") # doctest: +NORMALIZE_WHITESPACE
+    zh: ['zh_CN.UTF-8', 'zh_TW.UTF-8', 'zh_HK.UTF-8', 'zh_SG.UTF-8']
+    CN: ['zh_CN.UTF-8']
+     +: ['zh_TW.UTF-8', 'zh_HK.UTF-8', 'zh_CN.UTF-8']
+    zh: ['cn']
+    CN: ['cn']
+     +: ['cn']
