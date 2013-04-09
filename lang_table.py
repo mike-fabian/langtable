@@ -419,9 +419,18 @@ def make_ranked_list_concise(ranked_list, cut_off_factor=1000):
     return ranked_list
 
 extra_bonus = 1000000
-    
-def list_locales(concise=True, show_weights=False, languageId = None, countryId = None):
+
+def list_locales(concise=True, show_weights=False, languageId = None, scriptId = None, countryId = None):
     ranked_locales = {}
+    skipCountry = False
+    if languageId and scriptId and countryId and languageId+'_'+scriptId+'_'+countryId in languages:
+        languageId = languageId+'_'+scriptId+'_'+countryId
+        skipCountry = True
+    elif languageId and scriptId and languageId+'_'+scriptId in languages:
+        languageId = languageId+'_'+scriptId
+    elif languageId and countryId and languageId+'_'+countryId in languages:
+        languageId = languageId+'_'+countryId
+        skipCountry = True
     language_bonus = 100
     if languageId in languages:
         for locale in languages[languageId].locales:
@@ -433,7 +442,7 @@ def list_locales(concise=True, show_weights=False, languageId = None, countryId 
                     ranked_locales[locale] *= extra_bonus
                 ranked_locales[locale] *= language_bonus
     country_bonus = 1
-    if countryId in countries:
+    if countryId in countries and not skipCountry:
         for locale in countries[countryId].locales:
             if countries[countryId].locales[locale] != 0:
                 if locale not in ranked_locales:
@@ -450,8 +459,17 @@ def list_locales(concise=True, show_weights=False, languageId = None, countryId 
     else:
         return ranked_list_to_list(ranked_list)
 
-def list_keyboards(concise=True, show_weights=False, languageId = None, countryId = None):
+def list_keyboards(concise=True, show_weights=False, languageId = None, scriptId = None, countryId = None):
     ranked_keyboards = {}
+    skipCountry = False
+    if languageId and scriptId and countryId and languageId+'_'+scriptId+'_'+countryId in languages:
+        languageId = languageId+'_'+scriptId+'_'+countryId
+        skipCountry = True
+    elif languageId and scriptId and languageId+'_'+scriptId in languages:
+        languageId = languageId+'_'+scriptId
+    elif languageId and countryId and languageId+'_'+countryId in languages:
+        languageId = languageId+'_'+countryId
+        skipCountry = True
     language_bonus = 1
     if languageId in languages:
         for keyboard in languages[languageId].keyboards:
@@ -480,7 +498,7 @@ def list_keyboards(concise=True, show_weights=False, languageId = None, countryI
     else:
         return ranked_list_to_list(ranked_list)
 
-def test_language_country(show_weights=False, languageId=None, countryId=None):
+def test_language_country(show_weights=False, languageId=None, scriptId=None, countryId=None):
     print(str(languageId)+": "
           +repr(list_locales(show_weights=show_weights,languageId=languageId))
           +'\n'
@@ -488,7 +506,7 @@ def test_language_country(show_weights=False, languageId=None, countryId=None):
           +repr(list_locales(show_weights=show_weights,countryId=countryId))
           +'\n'
           +" +: "
-          +repr(list_locales(show_weights=show_weights,languageId=languageId,countryId=countryId))
+          +repr(list_locales(show_weights=show_weights,languageId=languageId,scriptId=scriptId,countryId=countryId))
           +'\n'
           +str(languageId)+": "
           +repr(list_keyboards(show_weights=show_weights,languageId=languageId))
@@ -497,7 +515,7 @@ def test_language_country(show_weights=False, languageId=None, countryId=None):
           +repr(list_keyboards(show_weights=show_weights,countryId=countryId))
           +'\n'
           +" +: "
-          +repr(list_keyboards(show_weights=show_weights,languageId=languageId,countryId=countryId))
+          +repr(list_keyboards(show_weights=show_weights,languageId=languageId,scriptId=scriptId,countryId=countryId))
           )
     return
 
