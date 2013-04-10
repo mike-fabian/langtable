@@ -162,15 +162,15 @@ def read_languages_file(file):
                 elif languageElement.tag == 'names' and len(languageElement):
                     for nameTree in languageElement:
                         if nameTree.tag == 'name' and len(nameTree):
-                            languageIdforName = None
+                            languageIdName = None
                             name = None
                             for nameElement in nameTree:
                                 if nameElement.tag == 'languageId':
-                                    languageIdforName = nameElement.text
+                                    languageIdName = nameElement.text
                                 elif nameElement.tag == 'name':
                                     name = nameElement.text
                             if languageId != None and name != None:
-                                names[languageIdforName] = name
+                                names[languageIdName] = name
                 elif languageElement.tag  == 'locales' and len(languageElement):
                     for  localeTree in languageElement:
                         if localeTree.tag == 'locale' and len(localeTree):
@@ -448,20 +448,115 @@ def make_ranked_list_concise(ranked_list, cut_off_factor=1000):
             break
     return ranked_list
 
-def language_endonym(languageId = None, scriptId = None, countryId = None):
-    if languageId and scriptId and countryId and languageId+'_'+scriptId+'_'+countryId in languages:
-        return languages[languageId+'_'+scriptId+'_'+countryId].names[languageId+'_'+scriptId+'_'+countryId]
-    elif languageId and scriptId and languageId+'_'+scriptId in languages:
-        return languages[languageId+'_'+scriptId].names[languageId+'_'+scriptId]
-    elif languageId and countryId and languageId+'_'+countryId in languages:
-        return languages[languageId+'_'+countryId].names[languageId+'_'+countryId]
-    elif languageId in languages:
-        return languages[languageId].names[languageId]
+def country_name(countryId = None, languageIdQuery = None, scriptIdQuery = None, countryIdQuery = None):
+    if countryId in countries:
+        if languageIdQuery and scriptIdQuery and countryIdQuery:
+            icuLocaleIdQuery = languageIdQuery+'_'+scriptIdQuery+'_'+countryIdQuery
+            if icuLocaleIdQuery in countries[countryId].names:
+                return countries[countryId].names[icuLocaleIdQuery]
+        if languageIdQuery and scriptIdQuery:
+            icuLocaleIdQuery = languageIdQuery+'_'+scriptIdQuery
+            if icuLocaleIdQuery in countries[countryId].names:
+                return countries[countryId].names[icuLocaleIdQuery]
+        if languageIdQuery and countryIdQuery:
+            icuLocaleIdQuery = languageIdQuery+'_'+countryIdQuery
+            if icuLocaleIdQuery in countries[countryId].names:
+                return countries[countryId].names[icuLocaleIdQuery]
+        if languageIdQuery:
+            icuLocaleIdQuery = languageIdQuery
+            if icuLocaleIdQuery in countries[countryId].names:
+                return countries[countryId].names[icuLocaleIdQuery]
     return ''
 
-def country_name(countryId = None, languageId = None):
-    if countryId in countries and languageId in countries[countryId].names:
-        return countries[countryId].names[languageId]
+def language_name(languageId = None, scriptId = None, countryId = None, languageIdQuery = None, scriptIdQuery = None, countryIdQuery = None):
+    if not languageIdQuery:
+        # get the endonym
+        languageIdQuery = languageId
+        scriptIdQuery = scriptId
+        countryIdQuery = countryId
+    if languageId and scriptId and countryId:
+        icuLocaleId = languageId+'_'+scriptId+'_'+countryId
+        if icuLocaleId in languages:
+            if languageIdQuery and scriptIdQuery and countryIdQuery:
+                icuLocaleIdQuery = languageIdQuery+'_'+scriptIdQuery+'_'+countryIdQuery
+                if icuLocaleIdQuery in languages[icuLocaleId].names:
+                    return languages[icuLocaleId].names[icuLocaleIdQuery]
+            if languageIdQuery and scriptIdQuery:
+                icuLocaleIdQuery = languageIdQuery+'_'+scriptIdQuery
+                if icuLocaleIdQuery in languages[icuLocaleId].names:
+                    return languages[icuLocaleId].names[icuLocaleIdQuery]
+            if  languageIdQuery and  countryIdQuery:
+                icuLocaleIdQuery = languageIdQuery+'_'+countryIdQuery
+                if icuLocaleIdQuery in languages[icuLocaleId].names:
+                    return languages[icuLocaleId].names[icuLocaleIdQuery]
+            if languageIdQuery:
+                icuLocaleIdQuery = languageIdQuery
+                if icuLocaleIdQuery in languages[icuLocaleId].names:
+                    return languages[icuLocaleId].names[icuLocaleIdQuery]
+    if languageId and scriptId:
+        icuLocaleId = languageId+'_'+scriptId
+        if icuLocaleId in languages:
+            if languageIdQuery and  scriptIdQuery and countryIdQuery:
+                icuLocaleIdQuery = languageIdQuery+'_'+scriptIdQuery+'_'+countryIdQuery
+                if icuLocaleIdQuery in languages[icuLocaleId].names:
+                    return languages[icuLocaleId].names[icuLocaleIdQuery]
+            if languageIdQuery and  scriptIdQuery:
+                icuLocaleIdQuery = languageIdQuery+'_'+scriptIdQuery
+                if icuLocaleIdQuery in languages[icuLocaleId].names:
+                    return languages[icuLocaleId].names[icuLocaleIdQuery]
+            if  languageIdQuery and  countryIdQuery:
+                icuLocaleIdQuery = languageIdQuery+'_'+countryIdQuery
+                if icuLocaleIdQuery in languages[icuLocaleId].names:
+                    return languages[icuLocaleId].names[icuLocaleIdQuery]
+            if languageIdQuery:
+                icuLocaleIdQuery = languageIdQuery
+                if icuLocaleIdQuery in languages[icuLocaleId].names:
+                    return languages[icuLocaleId].names[icuLocaleIdQuery]
+    if languageId and countryId:
+        icuLocaleId = languageId+'_'+countryId
+        if icuLocaleId in languages:
+            if languageIdQuery and  scriptIdQuery and countryIdQuery:
+                icuLocaleIdQuery = languageIdQuery+'_'+scriptIdQuery+'_'+countryIdQuery
+                if icuLocaleIdQuery in languages[icuLocaleId].names:
+                    return languages[icuLocaleId].names[icuLocaleIdQuery]
+            if languageIdQuery and  scriptIdQuery:
+                icuLocaleIdQuery = languageIdQuery+'_'+scriptIdQuery
+                if icuLocaleIdQuery in languages[icuLocaleId].names:
+                    return languages[icuLocaleId].names[icuLocaleIdQuery]
+            if  languageIdQuery and  countryIdQuery:
+                icuLocaleIdQuery = languageIdQuery+'_'+countryIdQuery
+                if icuLocaleIdQuery in languages[icuLocaleId].names:
+                    return languages[icuLocaleId].names[icuLocaleIdQuery]
+            if languageIdQuery:
+                icuLocaleIdQuery = languageIdQuery
+                if icuLocaleIdQuery in languages[icuLocaleId].names:
+                    return languages[icuLocaleId].names[icuLocaleIdQuery]
+        elif language_name(languageId=languageId):
+            cname = country_name(countryId=countryId,
+                                 languageIdQuery=languageIdQuery,
+                                 scriptIdQuery=scriptIdQuery,
+                                 countryIdQuery=countryIdQuery)
+            if cname:
+                return language_name(languageId=languageId)+' ('+cname+')'
+    if languageId:
+        icuLocaleId = languageId
+        if icuLocaleId in languages:
+            if languageIdQuery and  scriptIdQuery and countryIdQuery:
+                icuLocaleIdQuery = languageIdQuery+'_'+scriptIdQuery+'_'+countryIdQuery
+                if icuLocaleIdQuery in languages[icuLocaleId].names:
+                    return languages[icuLocaleId].names[icuLocaleIdQuery]
+            if languageIdQuery and  scriptIdQuery:
+                icuLocaleIdQuery = languageIdQuery+'_'+scriptIdQuery
+                if icuLocaleIdQuery in languages[icuLocaleId].names:
+                    return languages[icuLocaleId].names[icuLocaleIdQuery]
+            if  languageIdQuery and  countryIdQuery:
+                icuLocaleIdQuery = languageIdQuery+'_'+countryIdQuery
+                if icuLocaleIdQuery in languages[icuLocaleId].names:
+                    return languages[icuLocaleId].names[icuLocaleIdQuery]
+            if languageIdQuery:
+                icuLocaleIdQuery = languageIdQuery
+                if icuLocaleIdQuery in languages[icuLocaleId].names:
+                    return languages[icuLocaleId].names[icuLocaleIdQuery]
     return ''
 
 extra_bonus = 1000000
