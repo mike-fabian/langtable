@@ -23,6 +23,7 @@
   <country>
     <countryId>AT</countryId>
     <names>
+      <name><languageId>de</languageId><name>Österreich</name></name>
       <name><languageId>en</languageId><name>Austria</name></name>
     </names>
     <locales>
@@ -41,6 +42,7 @@
   <country>
     <countryId>BD</countryId>
     <names>
+      <name><languageId>de</languageId><name>Bangladesh</name></name>
       <name><languageId>en</languageId><name>Bangladesh</name></name>
     </names>
     <locales>
@@ -60,6 +62,7 @@
   <country>
     <countryId>BE</countryId>
     <names>
+      <name><languageId>de</languageId><name>Belgien</name></name>
       <name><languageId>en</languageId><name>Belgium</name></name>
     </names>
     <locales>
@@ -87,6 +90,7 @@
   <country>
     <countryId>BH</countryId>
     <names>
+      <name><languageId>de</languageId><name>Bahrain</name></name>
       <name><languageId>en</languageId><name>Bahrain</name></name>
     </names>
     <locales>
@@ -105,6 +109,8 @@
   <country>
     <countryId>BY</countryId>
     <names>
+      <name><languageId>de</languageId><name>Belarus</name></name>
+      <name><languageId>de_CH</languageId><name>Weissrussland</name></name>
       <name><languageId>en</languageId><name>Belarus</name></name>
     </names>
     <locales>
@@ -127,6 +133,7 @@
   <country>
     <countryId>CH</countryId>
     <names>
+      <name><languageId>de</languageId><name>Schweiz</name></name>
       <name><languageId>en</languageId><name>Switzerland</name></name>
     </names>
     <locales>
@@ -153,6 +160,7 @@
   <country>
     <countryId>CN</countryId>
     <names>
+      <name><languageId>de</languageId><name>China</name></name>
       <name><languageId>en</languageId><name>China</name></name>
       <name><languageId>zh</languageId><name>中国</name></name>
       <name><languageId>zh_Hant</languageId><name>中華人民共和國</name></name>
@@ -173,6 +181,7 @@
   <country>
     <countryId>DE</countryId>
     <names>
+      <name><languageId>de</languageId><name>Deutschland</name></name>
       <name><languageId>en</languageId><name>Germany</name></name>
     </names>
     <locales>
@@ -198,6 +207,7 @@
   <country>
     <countryId>DZ</countryId>
     <names>
+      <name><languageId>de</languageId><name>Algerien</name></name>
       <name><languageId>en</languageId><name>Algeria</name></name>
     </names>
     <locales>
@@ -216,6 +226,7 @@
   <country>
     <countryId>EG</countryId>
     <names>
+      <name><languageId>de</languageId><name>Ägypten</name></name>
       <name><languageId>en</languageId><name>Egypt</name></name>
     </names>
     <locales>
@@ -234,6 +245,7 @@
   <country>
     <countryId>FR</countryId>
     <names>
+      <name><languageId>de</languageId><name>Frankreich</name></name>
       <name><languageId>en</languageId><name>France</name></name>
     </names>
     <locales>
@@ -260,6 +272,7 @@
   <country>
     <countryId>HK</countryId>
     <names>
+      <name><languageId>de</languageId><name>Hong Kong</name></name>
       <name><languageId>en</languageId><name>Hong Kong</name></name>
       <name><languageId>zh</languageId><name>中国香港特别行政区</name></name>
       <name><languageId>zh_Hant</languageId><name>中華人民共和國香港特別行政區</name></name>
@@ -280,6 +293,7 @@
   <country>
     <countryId>IN</countryId>
     <names>
+      <name><languageId>de</languageId><name>Indien</name></name>
       <name><languageId>en</languageId><name>India</name></name>
     </names>
     <locales>
@@ -353,6 +367,7 @@
   <country>
     <countryId>IQ</countryId>
     <names>
+      <name><languageId>de</languageId><name>Irak</name></name>
       <name><languageId>en</languageId><name>Iraq</name></name>
     </names>
     <locales>
@@ -371,6 +386,7 @@
   <country>
     <countryId>JO</countryId>
     <names>
+      <name><languageId>de</languageId><name>Jordanien</name></name>
       <name><languageId>en</languageId><name>Jordan</name></name>
     </names>
     <locales>
@@ -389,6 +405,7 @@
   <country>
     <countryId>JP</countryId>
     <names>
+      <name><languageId>de</languageId><name>Japan</name></name>
       <name><languageId>en</languageId><name>Japan</name></name>
     </names>
     <locales>
@@ -407,6 +424,7 @@
   <country>
     <countryId>KW</countryId>
     <names>
+      <name><languageId>de</languageId><name>Kuwait</name></name>
       <name><languageId>en</languageId><name>Kuwait</name></name>
     </names>
     <locales>
@@ -425,6 +443,7 @@
   <country>
     <countryId>LB</countryId>
     <names>
+      <name><languageId>de</languageId><name>Libanon</name></name>
       <name><languageId>en</languageId><name>Lebanon</name></name>
     </names>
     <locales>
@@ -443,6 +462,7 @@
   <country>
     <countryId>LY</countryId>
     <names>
+      <name><languageId>de</languageId><name>Libyen</name></name>
       <name><languageId>en</languageId><name>Libya</name></name>
     </names>
     <locales>
@@ -461,6 +481,7 @@
   <country>
     <countryId>MA</countryId>
     <names>
+      <name><languageId>de</languageId><name>Marokko</name></name>
       <name><languageId>en</languageId><name>Morocco</name></name>
     </names>
     <locales>
@@ -479,6 +500,7 @@
   <country>
     <countryId>MO</countryId>
     <names>
+      <name><languageId>de</languageId><name>Sonderverwaltungszone Macao</name></name>
       <name><languageId>en</languageId><name>Macau SAR China</name></name>
       <name><languageId>zh</languageId><name>中国澳门特别行政区</name></name>
       <name><languageId>zh_Hant</languageId><name>中華人民共和國澳門特別行政區</name></name>
@@ -500,6 +522,7 @@
   <country>
     <countryId>OM</countryId>
     <names>
+      <name><languageId>de</languageId><name>Oman</name></name>
       <name><languageId>en</languageId><name>Oman</name></name>
     </names>
     <locales>
@@ -518,6 +541,7 @@
   <country>
     <countryId>QA</countryId>
     <names>
+      <name><languageId>de</languageId><name>Katar</name></name>
       <name><languageId>en</languageId><name>Qatar</name></name>
     </names>
     <locales>
@@ -536,6 +560,7 @@
   <country>
     <countryId>RU</countryId>
     <names>
+      <name><languageId>de</languageId><name>Russland</name></name>
       <name><languageId>en</languageId><name>Russia</name></name>
     </names>
     <locales>
@@ -579,6 +604,7 @@
   <country>
     <countryId>SA</countryId>
     <names>
+      <name><languageId>de</languageId><name>Saudi-Arabien</name></name>
       <name><languageId>en</languageId><name>Saudi Arabia</name></name>
     </names>
     <locales>
@@ -597,6 +623,7 @@
   <country>
     <countryId>SD</countryId>
     <names>
+      <name><languageId>de</languageId><name>Sudan</name></name>
       <name><languageId>en</languageId><name>Sudan</name></name>
     </names>
     <locales>
@@ -615,6 +642,7 @@
   <country>
     <countryId>SG</countryId>
     <names>
+      <name><languageId>de</languageId><name>Singapur</name></name>
       <name><languageId>en</languageId><name>Singapore</name></name>
       <name><languageId>zh</languageId><name>新加坡</name></name>
       <name><languageId>zh_Hant</languageId><name>新加坡</name></name>
@@ -638,6 +666,7 @@
   <country>
     <countryId>SY</countryId>
     <names>
+      <name><languageId>de</languageId><name>Syrien</name></name>
       <name><languageId>en</languageId><name>Syria</name></name>
     </names>
     <locales>
@@ -656,6 +685,7 @@
   <country>
     <countryId>TN</countryId>
     <names>
+      <name><languageId>de</languageId><name>Tunesien</name></name>
       <name><languageId>en</languageId><name>Tunisia</name></name>
     </names>
     <locales>
@@ -674,6 +704,7 @@
   <country>
     <countryId>TW</countryId>
     <names>
+      <name><languageId>de</languageId><name>Taiwan</name></name>
       <name><languageId>en</languageId><name>Taiwan</name></name>
       <name><languageId>zh</languageId><name>台湾</name></name>
       <name><languageId>zh_CN</languageId><name>中华民国</name></name>
@@ -696,6 +727,7 @@
   <country>
     <countryId>YE</countryId>
     <names>
+      <name><languageId>de</languageId><name>Jemen</name></name>
       <name><languageId>en</languageId><name>Yemen</name></name>
     </names>
     <locales>
@@ -714,6 +746,7 @@
   <country>
     <countryId>ZA</countryId>
     <names>
+      <name><languageId>de</languageId><name>Südafrica</name></name>
       <name><languageId>en</languageId><name>South Africa</name></name>
     </names>
     <locales>
