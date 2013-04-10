@@ -4,6 +4,7 @@
 >>> from lang_table import list_keyboards
 >>> from lang_table import test_language_country
 >>> from lang_table import language_endonym
+>>> from lang_table import country_name
 
 >>> list_locales(languageId="de", countryId="BE") # doctest: +NORMALIZE_WHITESPACE
     ['de_BE.UTF-8']
@@ -283,3 +284,18 @@
 
 >>> print language_endonym(languageId="zh", scriptId="Hant", countryId="MO").encode("UTF-8") # doctest: +NORMALIZE_WHITESPACE
     繁體中文
+
+>>> print country_name(countryId="AE", languageId="ar").encode("UTF-8") # doctest: +NORMALIZE_WHITESPACE
+    الإمارات العربية المتحدة
+
+>>> print country_name(countryId="AE", languageId="de").encode("UTF-8") # doctest: +NORMALIZE_WHITESPACE
+    Vereinigte Arabische Emirate
+
+>>> print country_name(countryId="AE", languageId="en").encode("UTF-8") # doctest: +NORMALIZE_WHITESPACE
+    United Arab Emirates
+
+>>> print country_name(countryId="AE", languageId=None).encode("UTF-8") # doctest: +NORMALIZE_WHITESPACE
+
+>>> print country_name(countryId="TW", languageId="zh").encode("UTF-8") # doctest: +NORMALIZE_WHITESPACE
+    台湾
+
