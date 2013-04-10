@@ -5,8 +5,10 @@
     <iso639-1>af</iso639-1>
     <iso639-2-t>afr</iso639-2-t>
     <iso639-2-b>afr</iso639-2-b>
-    <endonym>Afrikaans</endonym>
-    <englishName>Afrikaans</englishName>
+    <names>
+      <name><languageId>af</languageId><name>Afrikaans</name></name>
+      <name><languageId>en</languageId><name>Afrikaans</name></name>
+    </names>
     <locales>
       <locale><localeId>af_ZA.UTF-8</localeId><rank>1000</rank></locale>
     </locales>
@@ -25,8 +27,10 @@
     <iso639-1>ara</iso639-1>
     <iso639-2-t>ara</iso639-2-t>
     <iso639-2-b>ara</iso639-2-b>
-    <endonym>العربية</endonym>
-    <englishName>Arabic</englishName>
+    <names>
+      <name><languageId>ar</languageId><name>العربية</name></name>
+      <name><languageId>en</languageId><name>Arabic</name></name>
+    </names>
     <locales>
       <locale><localeId>ar_EG.UTF-8</localeId><rank>300</rank></locale>
       <locale><localeId>ar_SD.UTF-8</localeId><rank>170</rank></locale>
@@ -100,8 +104,10 @@
     <iso639-1>as</iso639-1>
     <iso639-2-t>asm</iso639-2-t>
     <iso639-2-b>asm</iso639-2-b>
-    <endonym>অসমীয়া</endonym>
-    <englishName>Assamese</englishName>
+    <names>
+      <name><languageId>as</languageId><name>অসমীয়া</name></name>
+      <name><languageId>en</languageId><name>Assamese</name></name>
+    </names>
     <locales>
       <locale><localeId>as_IN.UTF-8</localeId><rank>1000</rank></locale>
     </locales>
@@ -122,8 +128,10 @@
     <iso639-1>be</iso639-1>
     <iso639-2-t>bel</iso639-2-t>
     <iso639-2-b>bel</iso639-2-b>
-    <endonym>беларуская</endonym>
-    <englishName>Belarusian</englishName>
+    <names>
+      <name><languageId>be</languageId><name>беларуская</name></name>
+      <name><languageId>en</languageId><name>Belarusian</name></name>
+    </names>
     <locales>
       <locale><localeId>be_BY.UTF-8</localeId><rank>980</rank></locale>
       <locale><localeId>be_BY.UTF-8@latin</localeId><rank>20</rank></locale>
@@ -145,8 +153,10 @@
     <iso639-1>bn</iso639-1>
     <iso639-2-t>ben</iso639-2-t>
     <iso639-2-b>ben</iso639-2-b>
-    <endonym>বাংলা</endonym>
-    <englishName>Bengali</englishName>
+    <names>
+      <name><languageId>bn</languageId><name>বাংলা</name></name>
+      <name><languageId>en</languageId><name>Bengali</name></name>
+    </names>
     <locales>
       <locale><localeId>bn_BD.UTF-8</localeId><rank>700</rank></locale>
       <locale><localeId>bn_IN.UTF-8</localeId><rank>300</rank></locale>
@@ -168,8 +178,10 @@
     <iso639-1>cs</iso639-1>
     <iso639-2-t>ces</iso639-2-t>
     <iso639-2-b>cze</iso639-2-b>
-    <endonym>čeština</endonym>
-    <englishName>Czech</englishName>
+    <names>
+      <name><languageId>cs</languageId><name>čeština</name></name>
+      <name><languageId>en</languageId><name>Czech</name></name>
+    </names>
     <locales>
       <locale><localeId>cs_CZ.UTF-8</localeId><rank>900</rank></locale>
     </locales>
@@ -188,8 +200,10 @@
     <iso639-1>de</iso639-1>
     <iso639-2-t>deu</iso639-2-t>
     <iso639-2-b>ger</iso639-2-b>
-    <endonym>Deutsch</endonym>
-    <englishName>German</englishName>
+    <names>
+      <name><languageId>de</languageId><name>Deutsch</name></name>
+      <name><languageId>en</languageId><name>German</name></name>
+    </names>
     <locales>
       <locale><localeId>de_DE.UTF-8</localeId><rank>600</rank></locale>
       <locale><localeId>de_AT.UTF-8</localeId><rank>200</rank></locale>
@@ -220,8 +234,9 @@
     <iso639-1>en</iso639-1>
     <iso639-2-t>eng</iso639-2-t>
     <iso639-2-b>eng</iso639-2-b>
-    <endonym>English</endonym>
-    <englishName>English</englishName>
+    <names>
+      <name><languageId>en</languageId><name>English</name></name>
+    </names>
     <locales>
       <locale><localeId>en_US.UTF-8</localeId><rank>900</rank></locale>
       <locale><localeId>en_GB.UTF-8</localeId><rank>500</rank></locale>
@@ -293,6 +308,7 @@
       <timezone><timezoneId>America/Winnipeg</timezoneId><rank>100</rank></timezone>
       <timezone><timezoneId>America/Dawson</timezoneId><rank>100</rank></timezone>
       <timezone><timezoneId>Australia/Brisbane</timezoneId><rank>100</rank></timezone>
+      <timezone><timezoneId>America/Regina</timezoneId><rank>100</rank></timezone>
       <timezone><timezoneId>America/Blanc-Sablon</timezoneId><rank>100</rank></timezone>
       <timezone><timezoneId>America/Atikokan</timezoneId><rank>100</rank></timezone>
       <timezone><timezoneId>America/Halifax</timezoneId><rank>100</rank></timezone>
@@ -306,10 +322,9 @@
       <timezone><timezoneId>America/Goose_Bay</timezoneId><rank>100</rank></timezone>
       <timezone><timezoneId>Europe/Dublin</timezoneId><rank>100</rank></timezone>
       <timezone><timezoneId>Africa/Lagos</timezoneId><rank>100</rank></timezone>
-      <timezone><timezoneId>America/Inuvik</timezoneId><rank>100</rank></timezone>
       <timezone><timezoneId>Australia/Hobart</timezoneId><rank>100</rank></timezone>
       <timezone><timezoneId>Australia/Adelaide</timezoneId><rank>100</rank></timezone>
-      <timezone><timezoneId>America/Regina</timezoneId><rank>100</rank></timezone>
+      <timezone><timezoneId>America/Inuvik</timezoneId><rank>100</rank></timezone>
       <timezone><timezoneId>America/Vancouver</timezoneId><rank>100</rank></timezone>
       <timezone><timezoneId>America/Cambridge_Bay</timezoneId><rank>100</rank></timezone>
       <timezone><timezoneId>America/Montreal</timezoneId><rank>100</rank></timezone>
@@ -330,8 +345,10 @@
     <iso639-1>fr</iso639-1>
     <iso639-2-t>fra</iso639-2-t>
     <iso639-2-b>fre</iso639-2-b>
-    <endonym>français</endonym>
-    <englishName>French</englishName>
+    <names>
+      <name><languageId>en</languageId><name>French</name></name>
+      <name><languageId>fr</languageId><name>français</name></name>
+    </names>
     <locales>
       <locale><localeId>fr_FR.UTF-8</localeId><rank>500</rank></locale>
       <locale><localeId>fr_CA.UTF-8</localeId><rank>200</rank></locale>
@@ -366,8 +383,10 @@
     <iso639-1>ja</iso639-1>
     <iso639-2-t>jpn</iso639-2-t>
     <iso639-2-b>jpn</iso639-2-b>
-    <endonym>日本語</endonym>
-    <englishName>Japanese</englishName>
+    <names>
+      <name><languageId>en</languageId><name>Japanese</name></name>
+      <name><languageId>ja</languageId><name>日本語</name></name>
+    </names>
     <locales>
       <locale><localeId>ja_JP.UTF-8</localeId><rank>1000</rank></locale>
     </locales>
@@ -386,8 +405,10 @@
     <iso639-1>ru</iso639-1>
     <iso639-2-t>rus</iso639-2-t>
     <iso639-2-b>rus</iso639-2-b>
-    <endonym>русский</endonym>
-    <englishName>Russian</englishName>
+    <names>
+      <name><languageId>en</languageId><name>Russian</name></name>
+      <name><languageId>ru</languageId><name>русский</name></name>
+    </names>
     <locales>
       <locale><localeId>ru_RU.UTF-8</localeId><rank>800</rank></locale>
       <locale><localeId>ru_UA.UTF-8</localeId><rank>100</rank></locale>
@@ -425,8 +446,10 @@
     <iso639-1>zh</iso639-1>
     <iso639-2-t>zho</iso639-2-t>
     <iso639-2-b>chi</iso639-2-b>
-    <endonym>中文</endonym>
-    <englishName>Chinese</englishName>
+    <names>
+      <name><languageId>en</languageId><name>Chinese</name></name>
+      <name><languageId>zh</languageId><name>中文</name></name>
+    </names>
     <locales>
       <locale><localeId>zh_CN.UTF-8</localeId><rank>900</rank></locale>
       <locale><localeId>zh_TW.UTF-8</localeId><rank>20</rank></locale>
@@ -457,8 +480,10 @@
     <iso639-1>zh</iso639-1>
     <iso639-2-t>zho</iso639-2-t>
     <iso639-2-b>chi</iso639-2-b>
-    <endonym>简体中文 (中国)</endonym>
-    <englishName>Simplified Chinese (China)</englishName>
+    <names>
+      <name><languageId>en</languageId><name>Simplified Chinese (China)</name></name>
+      <name><languageId>zh_CN</languageId><name>简体中文 (中国)</name></name>
+    </names>
     <locales>
       <locale><localeId>zh_CN.UTF-8</localeId><rank>900</rank></locale>
     </locales>
@@ -477,8 +502,10 @@
     <iso639-1>zh</iso639-1>
     <iso639-2-t>zho</iso639-2-t>
     <iso639-2-b>chi</iso639-2-b>
-    <endonym>繁體中文 (中華人民共和國香港特別行政區)</endonym>
-    <englishName>Traditional Chinese (Hong Kong)</englishName>
+    <names>
+      <name><languageId>en</languageId><name>Traditional Chinese (Hong Kong)</name></name>
+      <name><languageId>zh_HK</languageId><name>繁體中文 (中華人民共和國香港特別行政區)</name></name>
+    </names>
     <locales>
       <locale><localeId>zh_HK.UTF-8</localeId><rank>900</rank></locale>
     </locales>
@@ -497,8 +524,10 @@
     <iso639-1>zh</iso639-1>
     <iso639-2-t>zho</iso639-2-t>
     <iso639-2-b>chi</iso639-2-b>
-    <endonym>简体中文</endonym>
-    <englishName>Simplified Chinese</englishName>
+    <names>
+      <name><languageId>en</languageId><name>Simplified Chinese</name></name>
+      <name><languageId>zh_Hans</languageId><name>简体中文</name></name>
+    </names>
     <locales>
       <locale><localeId>zh_CN.UTF-8</localeId><rank>900</rank></locale>
       <locale><localeId>zh_SG.UTF-8</localeId><rank>100</rank></locale>
@@ -520,8 +549,10 @@
     <iso639-1>zh</iso639-1>
     <iso639-2-t>zho</iso639-2-t>
     <iso639-2-b>chi</iso639-2-b>
-    <endonym>繁體中文</endonym>
-    <englishName>Traditional Chinese</englishName>
+    <names>
+      <name><languageId>en</languageId><name>Traditional Chinese</name></name>
+      <name><languageId>zh_Hant</languageId><name>繁體中文</name></name>
+    </names>
     <locales>
       <locale><localeId>zh_TW.UTF-8</localeId><rank>20</rank></locale>
       <locale><localeId>zh_HK.UTF-8</localeId><rank>19</rank></locale>
@@ -546,8 +577,10 @@
     <iso639-1>zh</iso639-1>
     <iso639-2-t>zho</iso639-2-t>
     <iso639-2-b>chi</iso639-2-b>
-    <endonym>繁體中文 (中華人民共和國澳門特別行政區)</endonym>
-    <englishName>Traditional Chinese (Macau)</englishName>
+    <names>
+      <name><languageId>en</languageId><name>Traditional Chinese (Macau)</name></name>
+      <name><languageId>zh_MO</languageId><name>繁體中文 (中華人民共和國澳門特別行政區)</name></name>
+    </names>
     <locales>
       <locale><localeId>zh_HK.UTF-8</localeId><rank>900</rank></locale>
       <locale><localeId>zh_MO.UTF-8</localeId><rank>0</rank></locale>
@@ -567,8 +600,10 @@
     <iso639-1>zh</iso639-1>
     <iso639-2-t>zho</iso639-2-t>
     <iso639-2-b>chi</iso639-2-b>
-    <endonym>简体中文 (新加坡)</endonym>
-    <englishName>Simplified Chinese (Singapore)</englishName>
+    <names>
+      <name><languageId>en</languageId><name>Simplified Chinese (Singapore)</name></name>
+      <name><languageId>zh_SG</languageId><name>简体中文 (新加坡)</name></name>
+    </names>
     <locales>
       <locale><localeId>zh_SG.UTF-8</localeId><rank>900</rank></locale>
     </locales>
@@ -587,8 +622,10 @@
     <iso639-1>zh</iso639-1>
     <iso639-2-t>zho</iso639-2-t>
     <iso639-2-b>chi</iso639-2-b>
-    <endonym>繁體中文 (台灣)</endonym>
-    <englishName>Traditional Chinese (Taiwan)</englishName>
+    <names>
+      <name><languageId>en</languageId><name>Traditional Chinese (Taiwan)</name></name>
+      <name><languageId>zh_TW</languageId><name>繁體中文 (台灣)</name></name>
+    </names>
     <locales>
       <locale><localeId>zh_TW.UTF-8</localeId><rank>900</rank></locale>
     </locales>
