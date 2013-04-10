@@ -32,12 +32,11 @@ class country:
         self.timezones = timezones
 
 class language:
-    def __init__(self, iso639_1=None, iso639_2_t=None, iso639_2_b=None, endonym=None, englishName=None, locales=None, countries=None, keyboards=None, timezones=None):
+    def __init__(self, iso639_1=None, iso639_2_t=None, iso639_2_b=None, names=None, locales=None, countries=None, keyboards=None, timezones=None):
         self.iso639_1 = iso639_1
         self.iso639_2_t = iso639_2_t
         self.iso639_2_b = iso639_2_b
-        self.endonym = endonym
-        self.englishName = englishName
+        self.names = names
         self.locales = locales
         self.countries = countries
         self.keyboards = keyboards
@@ -146,8 +145,7 @@ def read_languages_file(file):
             iso639_1 = None
             iso639_2_t = None
             iso639_2_b = None
-            endonym =  None
-            englishName = None
+            names = {}
             locales = {}
             countries = {}
             keyboards = {}
@@ -161,10 +159,18 @@ def read_languages_file(file):
                     iso639_2_t = languageElement.text
                 elif languageElement.tag == 'iso639-2-b':
                     iso639_2_b = languageElement.text
-                elif languageElement.tag == 'endonym':
-                    endonym = languageElement.text
-                elif languageElement.tag  == 'englishName':
-                    englishName  = languageElement.text
+                elif languageElement.tag == 'names' and len(languageElement):
+                    for nameTree in languageElement:
+                        if nameTree.tag == 'name' and len(nameTree):
+                            languageIdforName = None
+                            name = None
+                            for nameElement in nameTree:
+                                if nameElement.tag == 'languageId':
+                                    languageIdforName = nameElement.text
+                                elif nameElement.tag == 'name':
+                                    name = nameElement.text
+                            if languageId != None and name != None:
+                                names[languageIdforName] = name
                 elif languageElement.tag  == 'locales' and len(languageElement):
                     for  localeTree in languageElement:
                         if localeTree.tag == 'locale' and len(localeTree):
@@ -218,8 +224,7 @@ def read_languages_file(file):
                     iso639_1 = iso639_1,
                     iso639_2_t = iso639_2_t,
                     iso639_2_b = iso639_2_b,
-                    endonym = endonym,
-                    englishName = englishName,
+                    names = names,
                     locales = locales,
                     countries = countries,
                     keyboards = keyboards,
@@ -330,8 +335,15 @@ def write_languages_file(file):
         file.write('    <iso639-1>'+languages[languageId].iso639_1+'</iso639-1>\n')
         file.write('    <iso639-2-t>'+languages[languageId].iso639_2_t+'</iso639-2-t>\n')
         file.write('    <iso639-2-b>'+languages[languageId].iso639_2_b+'</iso639-2-b>\n')
-        file.write('    <endonym>'+languages[languageId].endonym.encode('UTF-8')+'</endonym>\n')
-        file.write('    <englishName>'+languages[languageId].englishName+'</englishName>\n')
+        names = languages[languageId].names
+        file.write('    <names>\n')
+        for name in sorted(names):
+            file.write(
+                '      <name>'
+                +'<languageId>'+name+'</languageId>'
+                +'<name>'+names[name].encode('UTF-8')+'</name>'
+                +'</name>\n')
+        file.write('    </names>\n')
         locales = languages[languageId].locales
         file.write('    <locales>\n')
         for locale in sorted(locales, key=locales.get, reverse=True):
@@ -438,13 +450,13 @@ def make_ranked_list_concise(ranked_list, cut_off_factor=1000):
 
 def language_endonym(languageId = None, scriptId = None, countryId = None):
     if languageId and scriptId and countryId and languageId+'_'+scriptId+'_'+countryId in languages:
-        return languages[languageId+'_'+scriptId+'_'+countryId].endonym
+        return languages[languageId+'_'+scriptId+'_'+countryId].names[languageId+'_'+scriptId+'_'+countryId]
     elif languageId and scriptId and languageId+'_'+scriptId in languages:
-        return languages[languageId+'_'+scriptId].endonym
+        return languages[languageId+'_'+scriptId].names[languageId+'_'+scriptId]
     elif languageId and countryId and languageId+'_'+countryId in languages:
-        return languages[languageId+'_'+countryId].endonym
+        return languages[languageId+'_'+countryId].names[languageId+'_'+countryId]
     elif languageId in languages:
-        return languages[languageId].endonym
+        return languages[languageId].names[languageId]
     return ''
 
 def country_name(countryId = None, languageId = None):
