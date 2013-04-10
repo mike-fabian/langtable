@@ -3,7 +3,7 @@
 >>> from lang_table import list_locales
 >>> from lang_table import list_keyboards
 >>> from lang_table import test_language_country
->>> from lang_table import language_endonym
+>>> from lang_table import language_name
 >>> from lang_table import country_name
 
 >>> list_locales(languageId="de", countryId="BE") # doctest: +NORMALIZE_WHITESPACE
@@ -252,50 +252,133 @@
     CN: ['cn']
      +: ['cn']
 
->>> print language_endonym(languageId="zh").encode("UTF-8") # doctest: +NORMALIZE_WHITESPACE
+>>> print language_name(languageId="de").encode("UTF-8") # doctest: +NORMALIZE_WHITESPACE
+    Deutsch
+
+>>> print language_name(languageId="de", countryId="DE").encode("UTF-8") # doctest: +NORMALIZE_WHITESPACE
+    Deutsch (Deutschland)
+
+>>> print language_name(languageId="de", countryId="CH").encode("UTF-8") # doctest: +NORMALIZE_WHITESPACE
+    Deutsch (Schweiz)
+
+>>> print language_name(languageId="de", countryId="AT").encode("UTF-8") # doctest: +NORMALIZE_WHITESPACE
+    Deutsch (Österreich)
+
+>>> print language_name(languageId="de", countryId="BE").encode("UTF-8") # doctest: +NORMALIZE_WHITESPACE
+    Deutsch (Belgien)
+
+>>> print language_name(languageId="de", countryId="JP").encode("UTF-8") # doctest: +NORMALIZE_WHITESPACE
+    Deutsch (Japan)
+
+
+>>> print language_name(languageId="de", countryId="BY").encode("UTF-8") # doctest: +NORMALIZE_WHITESPACE
+    Deutsch (Belarus)
+
+>>> print language_name(languageId="de", countryId="BY", languageIdQuery="de", countryIdQuery="CH").encode("UTF-8") # doctest: +NORMALIZE_WHITESPACE
+    Deutsch (Weissrussland)
+
+>>> print language_name(languageId="de", scriptId="Latn", countryId="DE").encode("UTF-8") # doctest: +NORMALIZE_WHITESPACE
+    Deutsch (Deutschland)
+
+>>> print language_name(languageId="zh").encode("UTF-8") # doctest: +NORMALIZE_WHITESPACE
     中文
 
->>> print language_endonym(languageId="zh", countryId="CN").encode("UTF-8") # doctest: +NORMALIZE_WHITESPACE
+>>> print language_name(languageId="zh", languageIdQuery="de").encode("UTF-8") # doctest: +NORMALIZE_WHITESPACE
+    Chinesich
+
+>>> print language_name(languageId="zh", scriptId="Hant", languageIdQuery="de").encode("UTF-8") # doctest: +NORMALIZE_WHITESPACE
+    Traditionelles Chinesisch
+
+>>> print language_name(languageId="zh", scriptId="Hans", languageIdQuery="de").encode("UTF-8") # doctest: +NORMALIZE_WHITESPACE
+    Vereinfachtes Chinesich
+
+>>> print language_name(languageId="zh", countryId="HK", languageIdQuery="de").encode("UTF-8") # doctest: +NORMALIZE_WHITESPACE
+    Traditionelles Chinesich (Sonderverwaltungszone Hongkong)
+
+>>> print language_name(languageId="zh", countryId="MO", languageIdQuery="de").encode("UTF-8") # doctest: +NORMALIZE_WHITESPACE
+    Traditionelles Chinesich (Sonderverwaltungszone Macao)
+
+>>> print language_name(languageId="zh", countryId="MO", languageIdQuery="en").encode("UTF-8") # doctest: +NORMALIZE_WHITESPACE
+    Traditional Chinese (Macau SAR China)
+
+>>> print language_name(languageId="zh", countryId="SG", languageIdQuery="de").encode("UTF-8") # doctest: +NORMALIZE_WHITESPACE
+    Vereinfachtes Chinesich (Singapur)
+
+>>> print language_name(languageId="zh", countryId="TW", languageIdQuery="de").encode("UTF-8") # doctest: +NORMALIZE_WHITESPACE
+    Traditionelles Chinesich (Taiwan)
+
+>>> print language_name(languageId="zh", countryId="CN").encode("UTF-8") # doctest: +NORMALIZE_WHITESPACE
     简体中文 (中国)
 
->>> print language_endonym(languageId="zh", countryId="SG").encode("UTF-8") # doctest: +NORMALIZE_WHITESPACE
+>>> print language_name(languageId="zh", countryId="SG").encode("UTF-8") # doctest: +NORMALIZE_WHITESPACE
     简体中文 (新加坡)
 
->>> print language_endonym(languageId="zh", countryId="TW").encode("UTF-8") # doctest: +NORMALIZE_WHITESPACE
+>>> print language_name(languageId="zh", countryId="TW").encode("UTF-8") # doctest: +NORMALIZE_WHITESPACE
     繁體中文 (台灣)
 
->>> print language_endonym(languageId="zh", countryId="HK").encode("UTF-8") # doctest: +NORMALIZE_WHITESPACE
+>>> print language_name(languageId="zh", countryId="HK").encode("UTF-8") # doctest: +NORMALIZE_WHITESPACE
     繁體中文 (中華人民共和國香港特別行政區)
 
->>> print language_endonym(languageId="zh", countryId="MO").encode("UTF-8") # doctest: +NORMALIZE_WHITESPACE
+>>> print language_name(languageId="zh", countryId="MO").encode("UTF-8") # doctest: +NORMALIZE_WHITESPACE
     繁體中文 (中華人民共和國澳門特別行政區)
 
->>> print language_endonym(languageId="zh", scriptId="Hans", countryId="CN").encode("UTF-8") # doctest: +NORMALIZE_WHITESPACE
+>>> print language_name(languageId="zh", scriptId="Hans", countryId="CN").encode("UTF-8") # doctest: +NORMALIZE_WHITESPACE
     简体中文
 
->>> print language_endonym(languageId="zh", scriptId="Hans", countryId="SG").encode("UTF-8") # doctest: +NORMALIZE_WHITESPACE
+>>> print language_name(languageId="zh", scriptId="Hans", countryId="SG").encode("UTF-8") # doctest: +NORMALIZE_WHITESPACE
     简体中文
 
->>> print language_endonym(languageId="zh", scriptId="Hant", countryId="TW").encode("UTF-8") # doctest: +NORMALIZE_WHITESPACE
+>>> print language_name(languageId="zh", scriptId="Hant", countryId="TW").encode("UTF-8") # doctest: +NORMALIZE_WHITESPACE
     繁體中文
 
->>> print language_endonym(languageId="zh", scriptId="Hant", countryId="HK").encode("UTF-8") # doctest: +NORMALIZE_WHITESPACE
+>>> print language_name(languageId="zh", scriptId="Hant", countryId="HK").encode("UTF-8") # doctest: +NORMALIZE_WHITESPACE
     繁體中文
 
->>> print language_endonym(languageId="zh", scriptId="Hant", countryId="MO").encode("UTF-8") # doctest: +NORMALIZE_WHITESPACE
+>>> print language_name(languageId="zh", scriptId="Hant", countryId="MO").encode("UTF-8") # doctest: +NORMALIZE_WHITESPACE
     繁體中文
 
->>> print country_name(countryId="AE", languageId="ar").encode("UTF-8") # doctest: +NORMALIZE_WHITESPACE
+>>> print country_name(countryId="AE", languageIdQuery="ar").encode("UTF-8") # doctest: +NORMALIZE_WHITESPACE
     الإمارات العربية المتحدة
 
->>> print country_name(countryId="AE", languageId="de").encode("UTF-8") # doctest: +NORMALIZE_WHITESPACE
+>>> print country_name(countryId="AE", languageIdQuery="de").encode("UTF-8") # doctest: +NORMALIZE_WHITESPACE
     Vereinigte Arabische Emirate
 
->>> print country_name(countryId="AE", languageId="en").encode("UTF-8") # doctest: +NORMALIZE_WHITESPACE
+>>> print country_name(countryId="AE", languageIdQuery="en").encode("UTF-8") # doctest: +NORMALIZE_WHITESPACE
     United Arab Emirates
 
->>> print country_name(countryId="AE", languageId=None).encode("UTF-8") # doctest: +NORMALIZE_WHITESPACE
+>>> print country_name(countryId="AE", languageIdQuery=None).encode("UTF-8") # doctest: +NORMALIZE_WHITESPACE
 
->>> print country_name(countryId="TW", languageId="zh").encode("UTF-8") # doctest: +NORMALIZE_WHITESPACE
+>>> print country_name(countryId="TW", languageIdQuery="zh").encode("UTF-8") # doctest: +NORMALIZE_WHITESPACE
     台湾
+
+>>> print country_name(countryId="TW", languageIdQuery="zh", scriptIdQuery="Hant").encode("UTF-8") # doctest: +NORMALIZE_WHITESPACE
+    台灣
+
+>>> print country_name(countryId="TW", languageIdQuery="zh", scriptIdQuery="Hant", countryIdQuery="TW").encode("UTF-8") # doctest: +NORMALIZE_WHITESPACE
+    台灣
+
+>>> print country_name(countryId="TW", languageIdQuery="zh", scriptIdQuery="Hans").encode("UTF-8") # doctest: +NORMALIZE_WHITESPACE
+    台湾
+
+>>> print country_name(countryId="TW", languageIdQuery="zh", scriptIdQuery="Hans", countryIdQuery="CN").encode("UTF-8") # doctest: +NORMALIZE_WHITESPACE
+    中华民国
+
+>>> print country_name(countryId="TW", languageIdQuery="zh", countryIdQuery="CN").encode("UTF-8") # doctest: +NORMALIZE_WHITESPACE
+    中华民国
+
+>>> print country_name(countryId="TW", languageIdQuery="zh", scriptIdQuery="Cyrl", countryIdQuery="CN").encode("UTF-8") # doctest: +NORMALIZE_WHITESPACE
+    中华民国
+
+>>> print country_name(countryId="TW", languageIdQuery="zh", scriptIdQuery="Hans", countryIdQuery="DE").encode("UTF-8") # doctest: +NORMALIZE_WHITESPACE
+    台湾
+
+>>> print country_name(countryId="TW", languageIdQuery="de", scriptIdQuery="Latn", countryIdQuery="DE").encode("UTF-8") # doctest: +NORMALIZE_WHITESPACE
+    Taiwan
+
+>>> print country_name(countryId="CH", languageIdQuery="de", scriptIdQuery="Latn", countryIdQuery="DE").encode("UTF-8") # doctest: +NORMALIZE_WHITESPACE
+    Schweiz
+
+>>> print country_name(countryId="BY", languageIdQuery="de", scriptIdQuery="Latn", countryIdQuery="CH").encode("UTF-8") # doctest: +NORMALIZE_WHITESPACE
+    Weissrussland
+
 
