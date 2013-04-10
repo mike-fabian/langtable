@@ -24,8 +24,8 @@ languages = {}
 keyboards = {}
 
 class country:
-    def __init__(self, englishName=None, locales=None, languages=None, keyboards=None, timezones=None):
-        self.englishName = englishName
+    def __init__(self, names = None, locales=None, languages=None, keyboards=None, timezones=None):
+        self.names = names
         self.locales = locales
         self.languages = languages
         self.keyboards = keyboards
@@ -58,7 +58,7 @@ def read_countries_file(file):
             exit(1)
         for countryTree in countriesTree:
             countryId = None
-            englishName = None
+            names = {}
             locales = {}
             languages = {}
             keyboards = {}
@@ -66,8 +66,18 @@ def read_countries_file(file):
             for countryElement in countryTree:
                 if countryElement.tag == 'countryId':
                     countryId = countryElement.text
-                elif countryElement.tag == 'englishName':
-                    englishName = countryElement.text
+                elif countryElement.tag == 'names' and len(countryElement):
+                    for nameTree in countryElement:
+                        if nameTree.tag == 'name' and len(nameTree):
+                            languageId = None
+                            name = None
+                            for nameElement in nameTree:
+                                if nameElement.tag == 'languageId':
+                                    languageId = nameElement.text
+                                elif nameElement.tag == 'name':
+                                    name = nameElement.text
+                            if languageId != None and name != None:
+                                names[languageId] = name
                 elif countryElement.tag  == 'locales' and len(countryElement):
                     for localeTree in countryElement:
                         if localeTree.tag == 'locale' and len(localeTree):
@@ -118,7 +128,7 @@ def read_countries_file(file):
                                 timezones[timezoneId] = rank
             if countryId != None:
                 countries[countryId] = country(
-                    englishName = englishName,
+                    names = names,
                     locales = locales,
                     languages = languages,
                     keyboards = keyboards,
@@ -262,7 +272,15 @@ def write_countries_file(file):
     for countryId in sorted(countries):
         file.write('  <country>\n')
         file.write('    <countryId>'+countryId+'</countryId>\n')
-        file.write('    <englishName>'+countries[countryId].englishName+'</englishName>\n')
+        names = countries[countryId].names
+        file.write('    <names>\n')
+        for name in sorted(names):
+            file.write(
+                '      <name>'
+                +'<languageId>'+name+'</languageId>'
+                +'<name>'+names[name].encode('UTF-8')+'</name>'
+                +'</name>\n')
+        file.write('    </names>\n')
         locales = countries[countryId].locales
         file.write('    <locales>\n')
         for locale in sorted(locales, key=locales.get, reverse=True):
@@ -427,6 +445,11 @@ def language_endonym(languageId = None, scriptId = None, countryId = None):
         return languages[languageId+'_'+countryId].endonym
     elif languageId in languages:
         return languages[languageId].endonym
+    return ''
+
+def country_name(countryId = None, languageId = None):
+    if countryId in countries and languageId in countries[countryId].names:
+        return countries[countryId].names[languageId]
     return ''
 
 extra_bonus = 1000000
