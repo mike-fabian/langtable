@@ -418,6 +418,17 @@ def make_ranked_list_concise(ranked_list, cut_off_factor=1000):
             break
     return ranked_list
 
+def language_endonym(languageId = None, scriptId = None, countryId = None):
+    if languageId and scriptId and countryId and languageId+'_'+scriptId+'_'+countryId in languages:
+        return languages[languageId+'_'+scriptId+'_'+countryId].endonym
+    elif languageId and scriptId and languageId+'_'+scriptId in languages:
+        return languages[languageId+'_'+scriptId].endonym
+    elif languageId and countryId and languageId+'_'+countryId in languages:
+        return languages[languageId+'_'+countryId].endonym
+    elif languageId in languages:
+        return languages[languageId].endonym
+    return ''
+
 extra_bonus = 1000000
 
 def list_locales(concise=True, show_weights=False, languageId = None, scriptId = None, countryId = None):
