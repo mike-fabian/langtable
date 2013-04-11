@@ -1,6 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <countries>
   <country>
+    <countryId>AD</countryId>
+    <names>
+      <name><languageId>de</languageId><name>Andorra</name></name>
+      <name><languageId>en</languageId><name>Andorra</name></name>
+      <name><languageId>es</languageId><name>Andorra</name></name>
+    </names>
+    <locales>
+      <locale><localeId>ca_AD.UTF-8</localeId><rank>1000</rank></locale>
+    </locales>
+    <languages>
+      <language><languageId>ca</languageId><rank>1000</rank></language>
+    </languages>
+    <keyboards>
+      <keyboard><keyboardId>es(cat)</keyboardId><rank>1000</rank></keyboard>
+      <keyboard><keyboardId>ad</keyboardId><rank>0</rank></keyboard>
+    </keyboards>
+    <timezones>
+      <timezone><timezoneId>Europe/Andorra</timezoneId><rank>1000</rank></timezone>
+    </timezones>
+  </country>
+  <country>
     <countryId>AE</countryId>
     <names>
       <name><languageId>ar</languageId><name>الإمارات العربية المتحدة</name></name>
@@ -240,6 +261,35 @@
     </keyboards>
     <timezones>
       <timezone><timezoneId>Africa/Cairo</timezoneId><rank>1000</rank></timezone>
+    </timezones>
+  </country>
+  <country>
+    <countryId>ES</countryId>
+    <names>
+      <name><languageId>de</languageId><name>Spanien</name></name>
+      <name><languageId>en</languageId><name>Spain</name></name>
+    </names>
+    <locales>
+      <locale><localeId>es_ES.UTF-8</localeId><rank>700</rank></locale>
+      <locale><localeId>an_ES.UTF-8</localeId><rank>150</rank></locale>
+      <locale><localeId>ca_ES.UTF-8</localeId><rank>100</rank></locale>
+      <locale><localeId>ast_ES.UTF-8</localeId><rank>90</rank></locale>
+      <locale><localeId>gl_ES.UTF-8</localeId><rank>80</rank></locale>
+      <locale><localeId>eu_ES.UTF-8</localeId><rank>70</rank></locale>
+    </locales>
+    <languages>
+      <language><languageId>es</languageId><rank>700</rank></language>
+      <language><languageId>an</languageId><rank>150</rank></language>
+      <language><languageId>ca</languageId><rank>100</rank></language>
+      <language><languageId>ast</languageId><rank>90</rank></language>
+      <language><languageId>gl</languageId><rank>80</rank></language>
+      <language><languageId>eu</languageId><rank>70</rank></language>
+    </languages>
+    <keyboards>
+      <keyboard><keyboardId>es</keyboardId><rank>1000</rank></keyboard>
+    </keyboards>
+    <timezones>
+      <timezone><timezoneId>Europe/Madrid</timezoneId><rank>1000</rank></timezone>
     </timezones>
   </country>
   <country>

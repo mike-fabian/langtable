@@ -154,6 +154,29 @@
     </timezones>
   </language>
   <language>
+    <languageId>bg</languageId>
+    <iso639-1>bg</iso639-1>
+    <iso639-2-t>bul</iso639-2-t>
+    <iso639-2-b>bul</iso639-2-b>
+    <names>
+      <name><languageId>bg</languageId><name>български</name></name>
+      <name><languageId>de</languageId><name>Bulgarisch</name></name>
+      <name><languageId>en</languageId><name>Bulgarian</name></name>
+    </names>
+    <locales>
+      <locale><localeId>bg_BG.UTF-8</localeId><rank>1000</rank></locale>
+    </locales>
+    <countries>
+      <country><countryId>BG</countryId><rank>1000</rank></country>
+    </countries>
+    <keyboards>
+      <keyboard><keyboardId>bg</keyboardId><rank>1000</rank></keyboard>
+    </keyboards>
+    <timezones>
+      <timezone><timezoneId>Europe/Sofia</timezoneId><rank>1000</rank></timezone>
+    </timezones>
+  </language>
+  <language>
     <languageId>bn</languageId>
     <iso639-1>bn</iso639-1>
     <iso639-2-t>ben</iso639-2-t>
@@ -177,6 +200,39 @@
     <timezones>
       <timezone><timezoneId>Asia/Dhaka</timezoneId><rank>700</rank></timezone>
       <timezone><timezoneId>Asia/Kolkata</timezoneId><rank>300</rank></timezone>
+    </timezones>
+  </language>
+  <language>
+    <languageId>ca</languageId>
+    <iso639-1>ca</iso639-1>
+    <iso639-2-t>cat</iso639-2-t>
+    <iso639-2-b>cat</iso639-2-b>
+    <names>
+      <name><languageId>ca</languageId><name>català</name></name>
+      <name><languageId>de</languageId><name>Katalanisch</name></name>
+      <name><languageId>en</languageId><name>Catalan</name></name>
+    </names>
+    <locales>
+      <locale><localeId>ca_ES.UTF-8</localeId><rank>900</rank></locale>
+      <locale><localeId>ca_FR.UTF-8</localeId><rank>100</rank></locale>
+      <locale><localeId>ca_AD.UTF-8</localeId><rank>50</rank></locale>
+      <locale><localeId>ca_IT.UTF-8</localeId><rank>10</rank></locale>
+    </locales>
+    <countries>
+      <country><countryId>ES</countryId><rank>900</rank></country>
+      <country><countryId>FR</countryId><rank>100</rank></country>
+      <country><countryId>AD</countryId><rank>50</rank></country>
+      <country><countryId>IT</countryId><rank>10</rank></country>
+    </countries>
+    <keyboards>
+      <keyboard><keyboardId>es(cat)</keyboardId><rank>1000</rank></keyboard>
+      <keyboard><keyboardId>ad</keyboardId><rank>0</rank></keyboard>
+    </keyboards>
+    <timezones>
+      <timezone><timezoneId>Europe/Madrid</timezoneId><rank>900</rank></timezone>
+      <timezone><timezoneId>Europe/Paris</timezoneId><rank>100</rank></timezone>
+      <timezone><timezoneId>Europe/Andorra</timezoneId><rank>50</rank></timezone>
+      <timezone><timezoneId>Europe/Rome</timezoneId><rank>10</rank></timezone>
     </timezones>
   </language>
   <language>
@@ -385,6 +441,29 @@
       <timezone><timezoneId>Europe/Brussels</timezoneId><rank>100</rank></timezone>
       <timezone><timezoneId>Europe/Zurich</timezoneId><rank>50</rank></timezone>
       <timezone><timezoneId>Europe/Luxembourg</timezoneId><rank>20</rank></timezone>
+    </timezones>
+  </language>
+  <language>
+    <languageId>gl</languageId>
+    <iso639-1>gl</iso639-1>
+    <iso639-2-t>glg</iso639-2-t>
+    <iso639-2-b>glg</iso639-2-b>
+    <names>
+      <name><languageId>de</languageId><name>Galizisch</name></name>
+      <name><languageId>en</languageId><name>Galician</name></name>
+      <name><languageId>gl</languageId><name>galego</name></name>
+    </names>
+    <locales>
+      <locale><localeId>gl_ES.UTF-8</localeId><rank>1000</rank></locale>
+    </locales>
+    <countries>
+      <country><countryId>ES</countryId><rank>1000</rank></country>
+    </countries>
+    <keyboards>
+      <keyboard><keyboardId>es</keyboardId><rank>1000</rank></keyboard>
+    </keyboards>
+    <timezones>
+      <timezone><timezoneId>Europe/Madrid</timezoneId><rank>1000</rank></timezone>
     </timezones>
   </language>
   <language>

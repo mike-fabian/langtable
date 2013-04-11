@@ -1,6 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <keyboards>
   <keyboard>
+    <keyboardId>ad</keyboardId>
+    <description>Catalan</description>
+    <ascii>True</ascii>
+    <comment>Niche, the default layout for Catalan should be “es(cat)” (GilForcada)</comment>
+    <languages>
+      <language><languageId>ca</languageId><rank>0</rank></language>
+    </languages>
+  </keyboard>
+  <keyboard>
     <keyboardId>at(nodeadkeys)</keyboardId>
     <description>German (Austria)</description>
     <ascii>True</ascii>
@@ -26,6 +35,14 @@
       <language><languageId>nl</languageId><rank>500</rank></language>
       <language><languageId>fr</languageId><rank>400</rank></language>
       <language><languageId>de</languageId><rank>10</rank></language>
+    </languages>
+  </keyboard>
+  <keyboard>
+    <keyboardId>bg</keyboardId>
+    <description>Bulgarian</description>
+    <ascii>False</ascii>
+    <languages>
+      <language><languageId>bg</languageId><rank>1000</rank></language>
     </languages>
   </keyboard>
   <keyboard>
@@ -76,6 +93,24 @@
     <ascii>True</ascii>
     <languages>
       <language><languageId>de</languageId><rank>1000</rank></language>
+    </languages>
+  </keyboard>
+  <keyboard>
+    <keyboardId>es</keyboardId>
+    <description>Spanish</description>
+    <ascii>True</ascii>
+    <languages>
+      <language><languageId>es</languageId><rank>950</rank></language>
+      <language><languageId>gl</languageId><rank>50</rank></language>
+    </languages>
+  </keyboard>
+  <keyboard>
+    <keyboardId>es(cat)</keyboardId>
+    <description>Catalan (Spain, with middle-dot L)</description>
+    <ascii>True</ascii>
+    <comment>The layout should be the Spanish with middle dot not the “ad” one (GilForcada)</comment>
+    <languages>
+      <language><languageId>ca</languageId><rank>1000</rank></language>
     </languages>
   </keyboard>
   <keyboard>
