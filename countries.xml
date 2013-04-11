@@ -172,7 +172,8 @@
     </languages>
     <keyboards>
       <keyboard><keyboardId>ch</keyboardId><rank>700</rank></keyboard>
-      <keyboard><keyboardId>ch(fr)</keyboardId><rank>300</rank></keyboard>
+      <keyboard><keyboardId>ch(fr)</keyboardId><rank>200</rank></keyboard>
+      <keyboard><keyboardId>it</keyboardId><rank>100</rank></keyboard>
     </keyboards>
     <timezones>
       <timezone><timezoneId>Europe/Zurich</timezoneId><rank>1000</rank></timezone>

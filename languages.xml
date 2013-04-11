@@ -686,6 +686,32 @@
     </timezones>
   </language>
   <language>
+    <languageId>it</languageId>
+    <iso639-1>it</iso639-1>
+    <iso639-2-t>ita</iso639-2-t>
+    <iso639-2-b>ita</iso639-2-b>
+    <names>
+      <name><languageId>de</languageId><name>Italienisch</name></name>
+      <name><languageId>en</languageId><name>Italian</name></name>
+      <name><languageId>it</languageId><name>italiano</name></name>
+    </names>
+    <locales>
+      <locale><localeId>it_IT.UTF-8</localeId><rank>900</rank></locale>
+      <locale><localeId>it_CH.UTF-8</localeId><rank>100</rank></locale>
+    </locales>
+    <countries>
+      <country><countryId>IT</countryId><rank>900</rank></country>
+      <country><countryId>CH</countryId><rank>100</rank></country>
+    </countries>
+    <keyboards>
+      <keyboard><keyboardId>it</keyboardId><rank>1000</rank></keyboard>
+    </keyboards>
+    <timezones>
+      <timezone><timezoneId>Europe/Rome</timezoneId><rank>900</rank></timezone>
+      <timezone><timezoneId>Europe/Zurich</timezoneId><rank>100</rank></timezone>
+    </timezones>
+  </language>
+  <language>
     <languageId>ja</languageId>
     <iso639-1>ja</iso639-1>
     <iso639-2-t>jpn</iso639-2-t>

@@ -33,7 +33,7 @@
     CH: ['de_CH.UTF-8', 'fr_CH.UTF-8', 'it_CH.UTF-8', 'wae_CH.UTF-8']
      +: ['de_CH.UTF-8']
     de: ['de(nodeadkeys)', 'de(deadacute)', 'at(nodeadkeys)', 'ch', 'be(oss)']
-    CH: ['ch', 'ch(fr)']
+    CH: ['ch', 'ch(fr)', 'it']
      +: ['ch']
 
 >>> test_language_country(show_weights=False, languageId="fr", countryId="CH") # doctest: +NORMALIZE_WHITESPACE
@@ -41,7 +41,7 @@
     CH: ['de_CH.UTF-8', 'fr_CH.UTF-8', 'it_CH.UTF-8', 'wae_CH.UTF-8']
      +: ['fr_CH.UTF-8']
     fr: ['fr(oss)', 'ca', 'ch(fr)']
-    CH: ['ch', 'ch(fr)']
+    CH: ['ch', 'ch(fr)', 'it']
      +: ['ch(fr)']
 
 >>> test_language_country(show_weights=False, languageId="fr", countryId="FR") # doctest: +NORMALIZE_WHITESPACE
