@@ -491,6 +491,33 @@
     </timezones>
   </language>
   <language>
+    <languageId>fy</languageId>
+    <iso639-1>fy</iso639-1>
+    <iso639-2-t>fry</iso639-2-t>
+    <iso639-2-b>fry</iso639-2-b>
+    <names>
+      <name><languageId>de</languageId><name>Friesisch</name></name>
+      <name><languageId>en</languageId><name>Western Frisian</name></name>
+      <name><languageId>fy</languageId><name>Frysk</name></name>
+    </names>
+    <locales>
+      <locale><localeId>fy_NL.UTF-8</localeId><rank>990</rank></locale>
+      <locale><localeId>fy_DE.UTF-8</localeId><rank>10</rank></locale>
+    </locales>
+    <countries>
+      <country><countryId>NL</countryId><rank>990</rank></country>
+      <country><countryId>DE</countryId><rank>10</rank></country>
+    </countries>
+    <keyboards>
+      <keyboard><keyboardId>us(euro)</keyboardId><rank>950</rank></keyboard>
+      <keyboard><keyboardId>us(altgr-intl)</keyboardId><rank>50</rank></keyboard>
+      <keyboard><keyboardId>nl</keyboardId><rank>0</rank></keyboard>
+    </keyboards>
+    <timezones>
+      <timezone><timezoneId>Europe/Amsterdam</timezoneId><rank>1000</rank></timezone>
+    </timezones>
+  </language>
+  <language>
     <languageId>gl</languageId>
     <iso639-1>gl</iso639-1>
     <iso639-2-t>glg</iso639-2-t>
@@ -560,6 +587,35 @@
     </timezones>
   </language>
   <language>
+    <languageId>li</languageId>
+    <iso639-1>li</iso639-1>
+    <iso639-2-t>lim</iso639-2-t>
+    <iso639-2-b>lim</iso639-2-b>
+    <names>
+      <name><languageId>de</languageId><name>Limburgisch</name></name>
+      <name><languageId>en</languageId><name>Limburgish</name></name>
+      <name><languageId>li</languageId><name>Lèmbörgs</name></name>
+    </names>
+    <locales>
+      <locale><localeId>li_NL.UTF-8</localeId><rank>501</rank></locale>
+      <locale><localeId>li_BE.UTF-8</localeId><rank>499</rank></locale>
+    </locales>
+    <countries>
+      <country><countryId>NL</countryId><rank>501</rank></country>
+      <country><countryId>BE</countryId><rank>499</rank></country>
+    </countries>
+    <keyboards>
+      <keyboard><keyboardId>us(euro)</keyboardId><rank>950</rank></keyboard>
+      <keyboard><keyboardId>us(altgr-intl)</keyboardId><rank>50</rank></keyboard>
+      <keyboard><keyboardId>be(oss)</keyboardId><rank>1</rank></keyboard>
+      <keyboard><keyboardId>nl</keyboardId><rank>0</rank></keyboard>
+    </keyboards>
+    <timezones>
+      <timezone><timezoneId>Europe/Amsterdam</timezoneId><rank>501</rank></timezone>
+      <timezone><timezoneId>Europe/Brussels</timezoneId><rank>499</rank></timezone>
+    </timezones>
+  </language>
+  <language>
     <languageId>lij</languageId>
     <iso639-1>None</iso639-1>
     <iso639-2-t>None</iso639-2-t>
@@ -580,6 +636,35 @@
     </keyboards>
     <timezones>
       <timezone><timezoneId>Europe/Rome</timezoneId><rank>1000</rank></timezone>
+    </timezones>
+  </language>
+  <language>
+    <languageId>nds</languageId>
+    <iso639-1>None</iso639-1>
+    <iso639-2-t>nds</iso639-2-t>
+    <iso639-2-b>nds</iso639-2-b>
+    <names>
+      <name><languageId>de</languageId><name>Plattdeutsch</name></name>
+      <name><languageId>en</languageId><name>Low German</name></name>
+      <name><languageId>nds</languageId><name>Plattdüütsch</name></name>
+      <name><languageId>nl</languageId><name>Nederduits</name></name>
+    </names>
+    <locales>
+      <locale><localeId>nds_NL.UTF-8</localeId><rank>900</rank></locale>
+      <locale><localeId>nds_DE.UTF-8</localeId><rank>100</rank></locale>
+    </locales>
+    <countries>
+      <country><countryId>NL</countryId><rank>900</rank></country>
+      <country><countryId>DE</countryId><rank>100</rank></country>
+    </countries>
+    <keyboards>
+      <keyboard><keyboardId>us(euro)</keyboardId><rank>950</rank></keyboard>
+      <keyboard><keyboardId>us(altgr-intl)</keyboardId><rank>50</rank></keyboard>
+      <keyboard><keyboardId>nl</keyboardId><rank>0</rank></keyboard>
+    </keyboards>
+    <timezones>
+      <timezone><timezoneId>Europe/Amsterdam</timezoneId><rank>900</rank></timezone>
+      <timezone><timezoneId>Europe/Berlin</timezoneId><rank>100</rank></timezone>
     </timezones>
   </language>
   <language>
