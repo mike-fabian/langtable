@@ -317,6 +317,32 @@
     </timezones>
   </language>
   <language>
+    <languageId>el</languageId>
+    <iso639-1>el</iso639-1>
+    <iso639-2-t>ell</iso639-2-t>
+    <iso639-2-b>gre</iso639-2-b>
+    <names>
+      <name><languageId>de</languageId><name>Griechisch</name></name>
+      <name><languageId>el</languageId><name>Ελληνικά</name></name>
+      <name><languageId>en</languageId><name>Greek</name></name>
+    </names>
+    <locales>
+      <locale><localeId>el_GR.UTF-8</localeId><rank>900</rank></locale>
+      <locale><localeId>el_CY.UTF-8</localeId><rank>100</rank></locale>
+    </locales>
+    <countries>
+      <country><countryId>GR</countryId><rank>900</rank></country>
+      <country><countryId>CY</countryId><rank>100</rank></country>
+    </countries>
+    <keyboards>
+      <keyboard><keyboardId>gr</keyboardId><rank>1000</rank></keyboard>
+    </keyboards>
+    <timezones>
+      <timezone><timezoneId>Europe/Athens</timezoneId><rank>900</rank></timezone>
+      <timezone><timezoneId>Asia/Nicosia</timezoneId><rank>100</rank></timezone>
+    </timezones>
+  </language>
+  <language>
     <languageId>en</languageId>
     <iso639-1>en</iso639-1>
     <iso639-2-t>eng</iso639-2-t>
@@ -455,6 +481,30 @@
     </timezones>
   </language>
   <language>
+    <languageId>fi</languageId>
+    <iso639-1>fi</iso639-1>
+    <iso639-2-t>fin</iso639-2-t>
+    <iso639-2-b>fin</iso639-2-b>
+    <names>
+      <name><languageId>de</languageId><name>Finnisch</name></name>
+      <name><languageId>en</languageId><name>Finnish</name></name>
+      <name><languageId>fi</languageId><name>suomi</name></name>
+    </names>
+    <locales>
+      <locale><localeId>fi_FI.UTF-8</localeId><rank>1000</rank></locale>
+    </locales>
+    <countries>
+      <country><countryId>FI</countryId><rank>1000</rank></country>
+    </countries>
+    <keyboards>
+      <keyboard><keyboardId>fi</keyboardId><rank>900</rank></keyboard>
+      <keyboard><keyboardId>fi(nodeadkeys)</keyboardId><rank>100</rank></keyboard>
+    </keyboards>
+    <timezones>
+      <timezone><timezoneId>Europe/Helsinki</timezoneId><rank>1000</rank></timezone>
+    </timezones>
+  </language>
+  <language>
     <languageId>fr</languageId>
     <iso639-1>fr</iso639-1>
     <iso639-2-t>fra</iso639-2-t>
@@ -567,6 +617,52 @@
     </timezones>
   </language>
   <language>
+    <languageId>gu</languageId>
+    <iso639-1>gu</iso639-1>
+    <iso639-2-t>guj</iso639-2-t>
+    <iso639-2-b>guj</iso639-2-b>
+    <names>
+      <name><languageId>de</languageId><name>Gujarati</name></name>
+      <name><languageId>en</languageId><name>Gujarati</name></name>
+      <name><languageId>gu</languageId><name>ગુજરાતી</name></name>
+    </names>
+    <locales>
+      <locale><localeId>gu_IN.UTF-8</localeId><rank>1000</rank></locale>
+    </locales>
+    <countries>
+      <country><countryId>IN</countryId><rank>1000</rank></country>
+    </countries>
+    <keyboards>
+      <keyboard><keyboardId>us</keyboardId><rank>1000</rank></keyboard>
+    </keyboards>
+    <timezones>
+      <timezone><timezoneId>Asia/Kolkata</timezoneId><rank>1000</rank></timezone>
+    </timezones>
+  </language>
+  <language>
+    <languageId>hi</languageId>
+    <iso639-1>hi</iso639-1>
+    <iso639-2-t>hin</iso639-2-t>
+    <iso639-2-b>hin</iso639-2-b>
+    <names>
+      <name><languageId>de</languageId><name>Hindi</name></name>
+      <name><languageId>en</languageId><name>Hindi</name></name>
+      <name><languageId>hi</languageId><name>हिन्दी</name></name>
+    </names>
+    <locales>
+      <locale><localeId>hi_IN.UTF-8</localeId><rank>1000</rank></locale>
+    </locales>
+    <countries>
+      <country><countryId>IN</countryId><rank>1000</rank></country>
+    </countries>
+    <keyboards>
+      <keyboard><keyboardId>us</keyboardId><rank>1000</rank></keyboard>
+    </keyboards>
+    <timezones>
+      <timezone><timezoneId>Asia/Kolkata</timezoneId><rank>1000</rank></timezone>
+    </timezones>
+  </language>
+  <language>
     <languageId>hr</languageId>
     <iso639-1>hr</iso639-1>
     <iso639-2-t>hrv</iso639-2-t>
@@ -610,6 +706,29 @@
     </keyboards>
     <timezones>
       <timezone><timezoneId>Asia/Tokyo</timezoneId><rank>1000</rank></timezone>
+    </timezones>
+  </language>
+  <language>
+    <languageId>kn</languageId>
+    <iso639-1>kn</iso639-1>
+    <iso639-2-t>kan</iso639-2-t>
+    <iso639-2-b>kan</iso639-2-b>
+    <names>
+      <name><languageId>de</languageId><name>Kannada</name></name>
+      <name><languageId>en</languageId><name>Kannada</name></name>
+      <name><languageId>kn</languageId><name>ಕನ್ನಡ</name></name>
+    </names>
+    <locales>
+      <locale><localeId>kn_IN.UTF-8</localeId><rank>1000</rank></locale>
+    </locales>
+    <countries>
+      <country><countryId>IN</countryId><rank>1000</rank></country>
+    </countries>
+    <keyboards>
+      <keyboard><keyboardId>us</keyboardId><rank>1000</rank></keyboard>
+    </keyboards>
+    <timezones>
+      <timezone><timezoneId>Asia/Kolkata</timezoneId><rank>1000</rank></timezone>
     </timezones>
   </language>
   <language>
@@ -662,6 +781,52 @@
     </keyboards>
     <timezones>
       <timezone><timezoneId>Europe/Rome</timezoneId><rank>1000</rank></timezone>
+    </timezones>
+  </language>
+  <language>
+    <languageId>ml</languageId>
+    <iso639-1>ml</iso639-1>
+    <iso639-2-t>mal</iso639-2-t>
+    <iso639-2-b>mal</iso639-2-b>
+    <names>
+      <name><languageId>de</languageId><name>Malayalam</name></name>
+      <name><languageId>en</languageId><name>Malayalam</name></name>
+      <name><languageId>ml</languageId><name>മലയാളം</name></name>
+    </names>
+    <locales>
+      <locale><localeId>ml_IN.UTF-8</localeId><rank>1000</rank></locale>
+    </locales>
+    <countries>
+      <country><countryId>IN</countryId><rank>1000</rank></country>
+    </countries>
+    <keyboards>
+      <keyboard><keyboardId>us</keyboardId><rank>1000</rank></keyboard>
+    </keyboards>
+    <timezones>
+      <timezone><timezoneId>Asia/Kolkata</timezoneId><rank>1000</rank></timezone>
+    </timezones>
+  </language>
+  <language>
+    <languageId>mr</languageId>
+    <iso639-1>mr</iso639-1>
+    <iso639-2-t>mar</iso639-2-t>
+    <iso639-2-b>mar</iso639-2-b>
+    <names>
+      <name><languageId>de</languageId><name>Marathi</name></name>
+      <name><languageId>en</languageId><name>Marathi</name></name>
+      <name><languageId>mr</languageId><name>मराठी</name></name>
+    </names>
+    <locales>
+      <locale><localeId>mr_IN.UTF-8</localeId><rank>1000</rank></locale>
+    </locales>
+    <countries>
+      <country><countryId>IN</countryId><rank>1000</rank></country>
+    </countries>
+    <keyboards>
+      <keyboard><keyboardId>us</keyboardId><rank>1000</rank></keyboard>
+    </keyboards>
+    <timezones>
+      <timezone><timezoneId>Asia/Kolkata</timezoneId><rank>1000</rank></timezone>
     </timezones>
   </language>
   <language>
@@ -722,6 +887,55 @@
       <timezone><timezoneId>Europe/Amsterdam</timezoneId><rank>800</rank></timezone>
       <timezone><timezoneId>Europe/Brussels</timezoneId><rank>100</rank></timezone>
       <timezone><timezoneId>America/Aruba</timezoneId><rank>50</rank></timezone>
+    </timezones>
+  </language>
+  <language>
+    <languageId>or</languageId>
+    <iso639-1>or</iso639-1>
+    <iso639-2-t>ori</iso639-2-t>
+    <iso639-2-b>ori</iso639-2-b>
+    <names>
+      <name><languageId>de</languageId><name>Orija</name></name>
+      <name><languageId>en</languageId><name>Oriya</name></name>
+      <name><languageId>or</languageId><name>ଓଡ଼ିଆ</name></name>
+    </names>
+    <locales>
+      <locale><localeId>or_IN.UTF-8</localeId><rank>1000</rank></locale>
+    </locales>
+    <countries>
+      <country><countryId>IN</countryId><rank>1000</rank></country>
+    </countries>
+    <keyboards>
+      <keyboard><keyboardId>us</keyboardId><rank>1000</rank></keyboard>
+    </keyboards>
+    <timezones>
+      <timezone><timezoneId>Asia/Kolkata</timezoneId><rank>1000</rank></timezone>
+    </timezones>
+  </language>
+  <language>
+    <languageId>pa</languageId>
+    <iso639-1>pa</iso639-1>
+    <iso639-2-t>pan</iso639-2-t>
+    <iso639-2-b>pan</iso639-2-b>
+    <names>
+      <name><languageId>de</languageId><name>Panjabi</name></name>
+      <name><languageId>en</languageId><name>Punjabi</name></name>
+      <name><languageId>par</languageId><name>ਪੰਜਾਬੀ</name></name>
+    </names>
+    <locales>
+      <locale><localeId>pa_PK.UTF-8</localeId><rank>600</rank></locale>
+      <locale><localeId>pa_IN.UTF-8</localeId><rank>400</rank></locale>
+    </locales>
+    <countries>
+      <country><countryId>PK</countryId><rank>600</rank></country>
+      <country><countryId>IN</countryId><rank>400</rank></country>
+    </countries>
+    <keyboards>
+      <keyboard><keyboardId>us</keyboardId><rank>1000</rank></keyboard>
+    </keyboards>
+    <timezones>
+      <timezone><timezoneId>Asia/Karachi</timezoneId><rank>600</rank></timezone>
+      <timezone><timezoneId>Asia/Kolkata</timezoneId><rank>400</rank></timezone>
     </timezones>
   </language>
   <language>
@@ -787,6 +1001,81 @@
     </keyboards>
     <timezones>
       <timezone><timezoneId>Europe/Rome</timezoneId><rank>1000</rank></timezone>
+    </timezones>
+  </language>
+  <language>
+    <languageId>si</languageId>
+    <iso639-1>si</iso639-1>
+    <iso639-2-t>sin</iso639-2-t>
+    <iso639-2-b>sin</iso639-2-b>
+    <names>
+      <name><languageId>de</languageId><name>Singhalesisch</name></name>
+      <name><languageId>en</languageId><name>Sinhala</name></name>
+      <name><languageId>si</languageId><name>සිංහල</name></name>
+    </names>
+    <locales>
+      <locale><localeId>te_LK.UTF-8</localeId><rank>1000</rank></locale>
+    </locales>
+    <countries>
+      <country><countryId>LK</countryId><rank>1000</rank></country>
+    </countries>
+    <keyboards>
+      <keyboard><keyboardId>us</keyboardId><rank>1000</rank></keyboard>
+    </keyboards>
+    <timezones>
+      <timezone><timezoneId>Asia/Colombo</timezoneId><rank>1000</rank></timezone>
+    </timezones>
+  </language>
+  <language>
+    <languageId>ta</languageId>
+    <iso639-1>ta</iso639-1>
+    <iso639-2-t>tam</iso639-2-t>
+    <iso639-2-b>tam</iso639-2-b>
+    <names>
+      <name><languageId>de</languageId><name>Tamilisch</name></name>
+      <name><languageId>en</languageId><name>Tamil</name></name>
+      <name><languageId>ta</languageId><name>தமிழ்</name></name>
+    </names>
+    <locales>
+      <locale><localeId>ta_IN.UTF-8</localeId><rank>700</rank></locale>
+      <locale><localeId>ta_LK.UTF-8</localeId><rank>100</rank></locale>
+      <locale><localeId>ta_SG.UTF-8</localeId><rank>0</rank></locale>
+    </locales>
+    <countries>
+      <country><countryId>IN</countryId><rank>700</rank></country>
+      <country><countryId>LK</countryId><rank>100</rank></country>
+      <country><countryId>SG</countryId><rank>50</rank></country>
+    </countries>
+    <keyboards>
+      <keyboard><keyboardId>us</keyboardId><rank>1000</rank></keyboard>
+    </keyboards>
+    <timezones>
+      <timezone><timezoneId>Asia/Kolkata</timezoneId><rank>700</rank></timezone>
+      <timezone><timezoneId>Asia/Colombo</timezoneId><rank>100</rank></timezone>
+      <timezone><timezoneId>Asia/Singapore</timezoneId><rank>50</rank></timezone>
+    </timezones>
+  </language>
+  <language>
+    <languageId>te</languageId>
+    <iso639-1>te</iso639-1>
+    <iso639-2-t>tel</iso639-2-t>
+    <iso639-2-b>tel</iso639-2-b>
+    <names>
+      <name><languageId>de</languageId><name>Telugu</name></name>
+      <name><languageId>en</languageId><name>Telugu</name></name>
+      <name><languageId>te</languageId><name>తెలుగు</name></name>
+    </names>
+    <locales>
+      <locale><localeId>te_IN.UTF-8</localeId><rank>1000</rank></locale>
+    </locales>
+    <countries>
+      <country><countryId>IN</countryId><rank>1000</rank></country>
+    </countries>
+    <keyboards>
+      <keyboard><keyboardId>us</keyboardId><rank>1000</rank></keyboard>
+    </keyboards>
+    <timezones>
+      <timezone><timezoneId>Asia/Kolkata</timezoneId><rank>1000</rank></timezone>
     </timezones>
   </language>
   <language>

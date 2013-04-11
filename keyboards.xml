@@ -130,6 +130,24 @@
     </languages>
   </keyboard>
   <keyboard>
+    <keyboardId>fi</keyboardId>
+    <description>Finnish</description>
+    <ascii>True</ascii>
+    <languages>
+      <language><languageId>fi</languageId><rank>900</rank></language>
+      <language><languageId>sv</languageId><rank>100</rank></language>
+    </languages>
+  </keyboard>
+  <keyboard>
+    <keyboardId>fi(nodeadkeys)</keyboardId>
+    <description>Finnish (classic, eliminate dead keys)</description>
+    <ascii>True</ascii>
+    <languages>
+      <language><languageId>fi</languageId><rank>900</rank></language>
+      <language><languageId>sv</languageId><rank>100</rank></language>
+    </languages>
+  </keyboard>
+  <keyboard>
     <keyboardId>fr</keyboardId>
     <description>French</description>
     <ascii>True</ascii>

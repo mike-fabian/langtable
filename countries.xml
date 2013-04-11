@@ -200,6 +200,26 @@
     </timezones>
   </country>
   <country>
+    <countryId>CY</countryId>
+    <names>
+      <name><languageId>de</languageId><name>Zypern</name></name>
+      <name><languageId>el</languageId><name>Κύπρος</name></name>
+      <name><languageId>en</languageId><name>Cyprus</name></name>
+    </names>
+    <locales>
+      <locale><localeId>el_CY.UTF-8</localeId><rank>1000</rank></locale>
+    </locales>
+    <languages>
+      <language><languageId>el</languageId><rank>1000</rank></language>
+    </languages>
+    <keyboards>
+      <keyboard><keyboardId>gr</keyboardId><rank>1000</rank></keyboard>
+    </keyboards>
+    <timezones>
+      <timezone><timezoneId>Asia/Nicosia</timezoneId><rank>1000</rank></timezone>
+    </timezones>
+  </country>
+  <country>
     <countryId>CZ</countryId>
     <names>
       <name><languageId>cs</languageId><name>Tjekkiet</name></name>
@@ -355,6 +375,29 @@
     </timezones>
   </country>
   <country>
+    <countryId>FI</countryId>
+    <names>
+      <name><languageId>de</languageId><name>Finnland</name></name>
+      <name><languageId>en</languageId><name>Finland</name></name>
+      <name><languageId>fi</languageId><name>Suomi</name></name>
+    </names>
+    <locales>
+      <locale><localeId>fi_FI.UTF-8</localeId><rank>900</rank></locale>
+      <locale><localeId>sv_FI.UTF-8</localeId><rank>100</rank></locale>
+    </locales>
+    <languages>
+      <language><languageId>fi</languageId><rank>900</rank></language>
+      <language><languageId>sv</languageId><rank>100</rank></language>
+    </languages>
+    <keyboards>
+      <keyboard><keyboardId>fi</keyboardId><rank>900</rank></keyboard>
+      <keyboard><keyboardId>fi(nodeadkeys)</keyboardId><rank>100</rank></keyboard>
+    </keyboards>
+    <timezones>
+      <timezone><timezoneId>Europe/Helsinki</timezoneId><rank>1000</rank></timezone>
+    </timezones>
+  </country>
+  <country>
     <countryId>FR</countryId>
     <names>
       <name><languageId>de</languageId><name>Frankreich</name></name>
@@ -379,6 +422,26 @@
     </keyboards>
     <timezones>
       <timezone><timezoneId>Europe/Paris</timezoneId><rank>1000</rank></timezone>
+    </timezones>
+  </country>
+  <country>
+    <countryId>GR</countryId>
+    <names>
+      <name><languageId>de</languageId><name>Griechenland</name></name>
+      <name><languageId>el</languageId><name>Ελλάδα</name></name>
+      <name><languageId>en</languageId><name>Greece</name></name>
+    </names>
+    <locales>
+      <locale><localeId>el_GR.UTF-8</localeId><rank>1000</rank></locale>
+    </locales>
+    <languages>
+      <language><languageId>el</languageId><rank>1000</rank></language>
+    </languages>
+    <keyboards>
+      <keyboard><keyboardId>gr</keyboardId><rank>1000</rank></keyboard>
+    </keyboards>
+    <timezones>
+      <timezone><timezoneId>Europe/Athens</timezoneId><rank>1000</rank></timezone>
     </timezones>
   </country>
   <country>
@@ -620,6 +683,26 @@
     </timezones>
   </country>
   <country>
+    <countryId>LK</countryId>
+    <names>
+      <name><languageId>de</languageId><name>Sri Lanka</name></name>
+      <name><languageId>en</languageId><name>Sri Lanka</name></name>
+      <name><languageId>si</languageId><name>ශ්‍රී ලංකාව</name></name>
+    </names>
+    <locales>
+      <locale><localeId>si_LK.UTF-8</localeId><rank>1000</rank></locale>
+    </locales>
+    <languages>
+      <language><languageId>si</languageId><rank>1000</rank></language>
+    </languages>
+    <keyboards>
+      <keyboard><keyboardId>us</keyboardId><rank>1000</rank></keyboard>
+    </keyboards>
+    <timezones>
+      <timezone><timezoneId>Asia/Colombo</timezoneId><rank>1000</rank></timezone>
+    </timezones>
+  </country>
+  <country>
     <countryId>LY</countryId>
     <names>
       <name><languageId>de</languageId><name>Libyen</name></name>
@@ -724,6 +807,28 @@
     </keyboards>
     <timezones>
       <timezone><timezoneId>Asia/Muscat</timezoneId><rank>1000</rank></timezone>
+    </timezones>
+  </country>
+  <country>
+    <countryId>PK</countryId>
+    <names>
+      <name><languageId>de</languageId><name>Pakistan</name></name>
+      <name><languageId>en</languageId><name>Pakistan</name></name>
+      <name><languageId>ur</languageId><name>پاکستان</name></name>
+    </names>
+    <locales>
+      <locale><localeId>ur_PK.UTF-8</localeId><rank>600</rank></locale>
+      <locale><localeId>pa_PK.UTF-8</localeId><rank>400</rank></locale>
+    </locales>
+    <languages>
+      <language><languageId>ur</languageId><rank>600</rank></language>
+      <language><languageId>pa</languageId><rank>400</rank></language>
+    </languages>
+    <keyboards>
+      <keyboard><keyboardId>us</keyboardId><rank>1000</rank></keyboard>
+    </keyboards>
+    <timezones>
+      <timezone><timezoneId>Asia/Karachi</timezoneId><rank>1000</rank></timezone>
     </timezones>
   </country>
   <country>
