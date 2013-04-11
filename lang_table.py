@@ -393,7 +393,7 @@ def write_keyboards_file(file):
         file.write('    <description>'+keyboards[keyboardId].description+'</description>\n')
         file.write('    <ascii>'+str(keyboards[keyboardId].ascii)+'</ascii>\n')
         if keyboards[keyboardId].comment != None:
-            file.write('    <comment>'+keyboards[keyboardId].comment+'</comment>\n')
+            file.write('    <comment>'+keyboards[keyboardId].comment.encode('UTF-8')+'</comment>\n')
         languages = keyboards[keyboardId].languages
         file.write('    <languages>\n')
         for language in sorted(languages, key=languages.get, reverse=True):
