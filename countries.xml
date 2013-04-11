@@ -200,6 +200,26 @@
     </timezones>
   </country>
   <country>
+    <countryId>CZ</countryId>
+    <names>
+      <name><languageId>cs</languageId><name>Tjekkiet</name></name>
+      <name><languageId>de</languageId><name>Tschechische Republik</name></name>
+      <name><languageId>en</languageId><name>Czech Republic</name></name>
+    </names>
+    <locales>
+      <locale><localeId>cs_CZ.UTF-8</localeId><rank>1000</rank></locale>
+    </locales>
+    <languages>
+      <language><languageId>ca</languageId><rank>1000</rank></language>
+    </languages>
+    <keyboards>
+      <keyboard><keyboardId>cz</keyboardId><rank>1000</rank></keyboard>
+    </keyboards>
+    <timezones>
+      <timezone><timezoneId>Europe/Prague</timezoneId><rank>1000</rank></timezone>
+    </timezones>
+  </country>
+  <country>
     <countryId>DE</countryId>
     <names>
       <name><languageId>de</languageId><name>Deutschland</name></name>
@@ -223,6 +243,28 @@
     </keyboards>
     <timezones>
       <timezone><timezoneId>Europe/Berlin</timezoneId><rank>1000</rank></timezone>
+    </timezones>
+  </country>
+  <country>
+    <countryId>DK</countryId>
+    <names>
+      <name><languageId>da</languageId><name>Danmark</name></name>
+      <name><languageId>de</languageId><name>Dänemark</name></name>
+      <name><languageId>en</languageId><name>Denmark</name></name>
+    </names>
+    <locales>
+      <locale><localeId>da_DK.UTF-8</localeId><rank>950</rank></locale>
+      <locale><localeId>en_DK.UTF-8</localeId><rank>50</rank></locale>
+    </locales>
+    <languages>
+      <language><languageId>da</languageId><rank>999</rank></language>
+      <language><languageId>en</languageId><rank>1</rank></language>
+    </languages>
+    <keyboards>
+      <keyboard><keyboardId>dk</keyboardId><rank>1000</rank></keyboard>
+    </keyboards>
+    <timezones>
+      <timezone><timezoneId>Europe/Copenhagen</timezoneId><rank>1000</rank></timezone>
     </timezones>
   </country>
   <country>
@@ -289,7 +331,7 @@
       <keyboard><keyboardId>es</keyboardId><rank>1000</rank></keyboard>
     </keyboards>
     <timezones>
-      <timezone><timezoneId>Europe/Madrid</timezoneId><rank>1000</rank></timezone>
+      <timezone><timezoneId>[Europe/Madrid</timezoneId><rank>1000</rank></timezone>
     </timezones>
   </country>
   <country>
@@ -338,6 +380,26 @@
     </keyboards>
     <timezones>
       <timezone><timezoneId>Asia/Hong_Kong</timezoneId><rank>1000</rank></timezone>
+    </timezones>
+  </country>
+  <country>
+    <countryId>HR</countryId>
+    <names>
+      <name><languageId>de</languageId><name>Kroatien</name></name>
+      <name><languageId>en</languageId><name>Croatia</name></name>
+      <name><languageId>hr</languageId><name>Hrvatska</name></name>
+    </names>
+    <locales>
+      <locale><localeId>hr_HR.UTF-8</localeId><rank>1000</rank></locale>
+    </locales>
+    <languages>
+      <language><languageId>hr</languageId><rank>1000</rank></language>
+    </languages>
+    <keyboards>
+      <keyboard><keyboardId>hr</keyboardId><rank>1000</rank></keyboard>
+    </keyboards>
+    <timezones>
+      <timezone><timezoneId>Europe/Zagreb</timezoneId><rank>1000</rank></timezone>
     </timezones>
   </country>
   <country>
@@ -431,6 +493,34 @@
     </keyboards>
     <timezones>
       <timezone><timezoneId>Asia/Baghdad</timezoneId><rank>1000</rank></timezone>
+    </timezones>
+  </country>
+  <country>
+    <countryId>IT</countryId>
+    <names>
+      <name><languageId>de</languageId><name>Italien</name></name>
+      <name><languageId>en</languageId><name>Italy</name></name>
+      <name><languageId>es</languageId><name>Italia</name></name>
+    </names>
+    <locales>
+      <locale><localeId>it_IT.UTF-8</localeId><rank>950</rank></locale>
+      <locale><localeId>lij_IT.UTF-8</localeId><rank>20</rank></locale>
+      <locale><localeId>sc_IT.UTF-8</localeId><rank>15</rank></locale>
+      <locale><localeId>fur_IT.UTF-8</localeId><rank>10</rank></locale>
+      <locale><localeId>ca_IT.UTF-8</localeId><rank>1</rank></locale>
+    </locales>
+    <languages>
+      <language><languageId>it</languageId><rank>950</rank></language>
+      <language><languageId>lij</languageId><rank>20</rank></language>
+      <language><languageId>sc</languageId><rank>15</rank></language>
+      <language><languageId>fur</languageId><rank>10</rank></language>
+      <language><languageId>ca</languageId><rank>1</rank></language>
+    </languages>
+    <keyboards>
+      <keyboard><keyboardId>it</keyboardId><rank>1000</rank></keyboard>
+    </keyboards>
+    <timezones>
+      <timezone><timezoneId>Europe/Rome</timezoneId><rank>1000</rank></timezone>
     </timezones>
   </country>
   <country>
@@ -567,6 +657,34 @@
     </keyboards>
     <timezones>
       <timezone><timezoneId>Asia/Macau</timezoneId><rank>1000</rank></timezone>
+    </timezones>
+  </country>
+  <country>
+    <countryId>NL</countryId>
+    <names>
+      <name><languageId>de</languageId><name>Niederlande</name></name>
+      <name><languageId>en</languageId><name>Netherlands</name></name>
+      <name><languageId>nl</languageId><name>Nederland</name></name>
+    </names>
+    <locales>
+      <locale><localeId>nl_NL.UTF-8</localeId><rank>950</rank></locale>
+      <locale><localeId>fy_NL.UTF-8</localeId><rank>10</rank></locale>
+      <locale><localeId>nds_NL.UTF-8</localeId><rank>9</rank></locale>
+      <locale><localeId>li_NL.UTF-8</localeId><rank>8</rank></locale>
+    </locales>
+    <languages>
+      <language><languageId>nl</languageId><rank>1000</rank></language>
+      <language><languageId>fy</languageId><rank>10</rank></language>
+      <language><languageId>nds</languageId><rank>9</rank></language>
+      <language><languageId>li</languageId><rank>8</rank></language>
+    </languages>
+    <keyboards>
+      <keyboard><keyboardId>us(euro)</keyboardId><rank>950</rank></keyboard>
+      <keyboard><keyboardId>us(altgr-intl)</keyboardId><rank>50</rank></keyboard>
+      <keyboard><keyboardId>nl</keyboardId><rank>0</rank></keyboard>
+    </keyboards>
+    <timezones>
+      <timezone><timezoneId>Europe/Amsterdam</timezoneId><rank>1000</rank></timezone>
     </timezones>
   </country>
   <country>

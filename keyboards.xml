@@ -96,6 +96,14 @@
     </languages>
   </keyboard>
   <keyboard>
+    <keyboardId>dk</keyboardId>
+    <description>Danish</description>
+    <ascii>True</ascii>
+    <languages>
+      <language><languageId>da</languageId><rank>1000</rank></language>
+    </languages>
+  </keyboard>
+  <keyboard>
     <keyboardId>es</keyboardId>
     <description>Spanish</description>
     <ascii>True</ascii>
@@ -141,11 +149,28 @@
     </languages>
   </keyboard>
   <keyboard>
+    <keyboardId>hr</keyboardId>
+    <description>Croatian</description>
+    <ascii>True</ascii>
+    <languages>
+      <language><languageId>hr</languageId><rank>1000</rank></language>
+    </languages>
+  </keyboard>
+  <keyboard>
     <keyboardId>jp</keyboardId>
     <description>Japanese</description>
     <ascii>True</ascii>
     <languages>
       <language><languageId>ja</languageId><rank>1000</rank></language>
+    </languages>
+  </keyboard>
+  <keyboard>
+    <keyboardId>nl</keyboardId>
+    <description>Dutch</description>
+    <ascii>True</ascii>
+    <comment>Niche</comment>
+    <languages>
+      <language><languageId>nl</languageId><rank>0</rank></language>
     </languages>
   </keyboard>
   <keyboard>
@@ -162,6 +187,26 @@
     <ascii>True</ascii>
     <languages>
       <language><languageId>en</languageId><rank>1000</rank></language>
+    </languages>
+  </keyboard>
+  <keyboard>
+    <keyboardId>us(altgr-intl)</keyboardId>
+    <description>English (international AltGr dead keys)</description>
+    <ascii>True</ascii>
+    <comment>Sometimes used for nl,NL</comment>
+    <languages>
+      <language><languageId>nl</languageId><rank>90</rank></language>
+      <language><languageId>en</languageId><rank>10</rank></language>
+    </languages>
+  </keyboard>
+  <keyboard>
+    <keyboardId>us(euro)</keyboardId>
+    <description>English (US, with euro on 5)</description>
+    <ascii>True</ascii>
+    <comment>Default keyboard for nl,NL</comment>
+    <languages>
+      <language><languageId>nl</languageId><rank>95</rank></language>
+      <language><languageId>en</languageId><rank>10</rank></language>
     </languages>
   </keyboard>
 </keyboards>

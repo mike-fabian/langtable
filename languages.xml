@@ -259,6 +259,30 @@
     </timezones>
   </language>
   <language>
+    <languageId>da</languageId>
+    <iso639-1>da</iso639-1>
+    <iso639-2-t>dan</iso639-2-t>
+    <iso639-2-b>dan</iso639-2-b>
+    <names>
+      <name><languageId>da</languageId><name>dansk</name></name>
+      <name><languageId>de</languageId><name>Dänisch</name></name>
+      <name><languageId>en</languageId><name>Danish</name></name>
+    </names>
+    <locales>
+      <locale><localeId>da_DK.UTF-8</localeId><rank>950</rank></locale>
+      <locale><localeId>en_DK.UTF-8</localeId><rank>50</rank></locale>
+    </locales>
+    <countries>
+      <country><countryId>DK</countryId><rank>1000</rank></country>
+    </countries>
+    <keyboards>
+      <keyboard><keyboardId>dk</keyboardId><rank>1000</rank></keyboard>
+    </keyboards>
+    <timezones>
+      <timezone><timezoneId>Europe/Copenhagen</timezoneId><rank>1000</rank></timezone>
+    </timezones>
+  </language>
+  <language>
     <languageId>de</languageId>
     <iso639-1>de</iso639-1>
     <iso639-2-t>deu</iso639-2-t>
@@ -372,7 +396,6 @@
       <timezone><timezoneId>America/Winnipeg</timezoneId><rank>100</rank></timezone>
       <timezone><timezoneId>America/Dawson</timezoneId><rank>100</rank></timezone>
       <timezone><timezoneId>Australia/Brisbane</timezoneId><rank>100</rank></timezone>
-      <timezone><timezoneId>America/Regina</timezoneId><rank>100</rank></timezone>
       <timezone><timezoneId>America/Blanc-Sablon</timezoneId><rank>100</rank></timezone>
       <timezone><timezoneId>America/Atikokan</timezoneId><rank>100</rank></timezone>
       <timezone><timezoneId>America/Halifax</timezoneId><rank>100</rank></timezone>
@@ -386,9 +409,10 @@
       <timezone><timezoneId>America/Goose_Bay</timezoneId><rank>100</rank></timezone>
       <timezone><timezoneId>Europe/Dublin</timezoneId><rank>100</rank></timezone>
       <timezone><timezoneId>Africa/Lagos</timezoneId><rank>100</rank></timezone>
+      <timezone><timezoneId>America/Inuvik</timezoneId><rank>100</rank></timezone>
       <timezone><timezoneId>Australia/Hobart</timezoneId><rank>100</rank></timezone>
       <timezone><timezoneId>Australia/Adelaide</timezoneId><rank>100</rank></timezone>
-      <timezone><timezoneId>America/Inuvik</timezoneId><rank>100</rank></timezone>
+      <timezone><timezoneId>America/Regina</timezoneId><rank>100</rank></timezone>
       <timezone><timezoneId>America/Vancouver</timezoneId><rank>100</rank></timezone>
       <timezone><timezoneId>America/Cambridge_Bay</timezoneId><rank>100</rank></timezone>
       <timezone><timezoneId>America/Montreal</timezoneId><rank>100</rank></timezone>
@@ -444,6 +468,29 @@
     </timezones>
   </language>
   <language>
+    <languageId>fur</languageId>
+    <iso639-1>None</iso639-1>
+    <iso639-2-t>fur</iso639-2-t>
+    <iso639-2-b>fur</iso639-2-b>
+    <names>
+      <name><languageId>de</languageId><name>Friaulisch</name></name>
+      <name><languageId>en</languageId><name>Friulian</name></name>
+      <name><languageId>fur</languageId><name>furlan</name></name>
+    </names>
+    <locales>
+      <locale><localeId>fur_IT.UTF-8</localeId><rank>1000</rank></locale>
+    </locales>
+    <countries>
+      <country><countryId>IT</countryId><rank>1000</rank></country>
+    </countries>
+    <keyboards>
+      <keyboard><keyboardId>it</keyboardId><rank>1000</rank></keyboard>
+    </keyboards>
+    <timezones>
+      <timezone><timezoneId>Europe/Rome</timezoneId><rank>1000</rank></timezone>
+    </timezones>
+  </language>
+  <language>
     <languageId>gl</languageId>
     <iso639-1>gl</iso639-1>
     <iso639-2-t>glg</iso639-2-t>
@@ -467,6 +514,29 @@
     </timezones>
   </language>
   <language>
+    <languageId>hr</languageId>
+    <iso639-1>hr</iso639-1>
+    <iso639-2-t>hrv</iso639-2-t>
+    <iso639-2-b>hrv</iso639-2-b>
+    <names>
+      <name><languageId>de</languageId><name>Kroatisch</name></name>
+      <name><languageId>en</languageId><name>Croatian</name></name>
+      <name><languageId>hr</languageId><name>hrvatski</name></name>
+    </names>
+    <locales>
+      <locale><localeId>hr_HR.UTF-8</localeId><rank>1000</rank></locale>
+    </locales>
+    <countries>
+      <country><countryId>HR</countryId><rank>1000</rank></country>
+    </countries>
+    <keyboards>
+      <keyboard><keyboardId>hr</keyboardId><rank>1000</rank></keyboard>
+    </keyboards>
+    <timezones>
+      <timezone><timezoneId>Europe/Zagreb</timezoneId><rank>1000</rank></timezone>
+    </timezones>
+  </language>
+  <language>
     <languageId>ja</languageId>
     <iso639-1>ja</iso639-1>
     <iso639-2-t>jpn</iso639-2-t>
@@ -487,6 +557,60 @@
     </keyboards>
     <timezones>
       <timezone><timezoneId>Asia/Tokyo</timezoneId><rank>1000</rank></timezone>
+    </timezones>
+  </language>
+  <language>
+    <languageId>lij</languageId>
+    <iso639-1>None</iso639-1>
+    <iso639-2-t>None</iso639-2-t>
+    <iso639-2-b>None</iso639-2-b>
+    <names>
+      <name><languageId>de</languageId><name>Ligurisch</name></name>
+      <name><languageId>en</languageId><name>Ligurian</name></name>
+      <name><languageId>lij</languageId><name>Lìgure</name></name>
+    </names>
+    <locales>
+      <locale><localeId>lij_IT.UTF-8</localeId><rank>1000</rank></locale>
+    </locales>
+    <countries>
+      <country><countryId>IT</countryId><rank>1000</rank></country>
+    </countries>
+    <keyboards>
+      <keyboard><keyboardId>it</keyboardId><rank>1000</rank></keyboard>
+    </keyboards>
+    <timezones>
+      <timezone><timezoneId>Europe/Rome</timezoneId><rank>1000</rank></timezone>
+    </timezones>
+  </language>
+  <language>
+    <languageId>nl</languageId>
+    <iso639-1>nl</iso639-1>
+    <iso639-2-t>nld</iso639-2-t>
+    <iso639-2-b>dut</iso639-2-b>
+    <names>
+      <name><languageId>de</languageId><name>Niederländisch</name></name>
+      <name><languageId>en</languageId><name>Dutch</name></name>
+      <name><languageId>nl</languageId><name>Nederlands</name></name>
+    </names>
+    <locales>
+      <locale><localeId>nl_NL.UTF-8</localeId><rank>800</rank></locale>
+      <locale><localeId>nl_BE.UTF-8</localeId><rank>100</rank></locale>
+      <locale><localeId>nl_AW.UTF-8</localeId><rank>50</rank></locale>
+    </locales>
+    <countries>
+      <country><countryId>NL</countryId><rank>800</rank></country>
+      <country><countryId>BE</countryId><rank>100</rank></country>
+      <country><countryId>AW</countryId><rank>50</rank></country>
+    </countries>
+    <keyboards>
+      <keyboard><keyboardId>us(euro)</keyboardId><rank>950</rank></keyboard>
+      <keyboard><keyboardId>us(altgr-intl)</keyboardId><rank>50</rank></keyboard>
+      <keyboard><keyboardId>nl</keyboardId><rank>0</rank></keyboard>
+    </keyboards>
+    <timezones>
+      <timezone><timezoneId>Europe/Amsterdam</timezoneId><rank>800</rank></timezone>
+      <timezone><timezoneId>Europe/Brussels</timezoneId><rank>100</rank></timezone>
+      <timezone><timezoneId>America/Aruba</timezoneId><rank>50</rank></timezone>
     </timezones>
   </language>
   <language>
@@ -529,6 +653,29 @@
       <timezone><timezoneId>Asia/Magadan</timezoneId><rank>36</rank></timezone>
       <timezone><timezoneId>Asia/Kamchatka</timezoneId><rank>35</rank></timezone>
       <timezone><timezoneId>Asia/Anadyr</timezoneId><rank>34</rank></timezone>
+    </timezones>
+  </language>
+  <language>
+    <languageId>sc</languageId>
+    <iso639-1>sc</iso639-1>
+    <iso639-2-t>srd</iso639-2-t>
+    <iso639-2-b>srd</iso639-2-b>
+    <names>
+      <name><languageId>de</languageId><name>Sardisch</name></name>
+      <name><languageId>en</languageId><name>Sardinian</name></name>
+      <name><languageId>sc</languageId><name>sardu</name></name>
+    </names>
+    <locales>
+      <locale><localeId>sc_IT.UTF-8</localeId><rank>1000</rank></locale>
+    </locales>
+    <countries>
+      <country><countryId>IT</countryId><rank>1000</rank></country>
+    </countries>
+    <keyboards>
+      <keyboard><keyboardId>it</keyboardId><rank>1000</rank></keyboard>
+    </keyboards>
+    <timezones>
+      <timezone><timezoneId>Europe/Rome</timezoneId><rank>1000</rank></timezone>
     </timezones>
   </language>
   <language>
