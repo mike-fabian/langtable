@@ -977,6 +977,28 @@
     </timezones>
   </country>
   <country>
+    <countryId>PL</countryId>
+    <names>
+      <name><languageId>de</languageId><name>Polen</name></name>
+      <name><languageId>en</languageId><name>Poland</name></name>
+      <name><languageId>pl</languageId><name>Polska</name></name>
+    </names>
+    <locales>
+      <locale><localeId>pl_PL.UTF-8</localeId><rank>990</rank></locale>
+      <locale><localeId>csb_PL.UTF-8</localeId><rank>10</rank></locale>
+    </locales>
+    <languages>
+      <language><languageId>pl</languageId><rank>990</rank></language>
+      <language><languageId>csb</languageId><rank>10</rank></language>
+    </languages>
+    <keyboards>
+      <keyboard><keyboardId>pl</keyboardId><rank>1000</rank></keyboard>
+    </keyboards>
+    <timezones>
+      <timezone><timezoneId>Europe/Warsaw</timezoneId><rank>1000</rank></timezone>
+    </timezones>
+  </country>
+  <country>
     <countryId>QA</countryId>
     <names>
       <name><languageId>de</languageId><name>Katar</name></name>
@@ -1078,6 +1100,23 @@
     </timezones>
   </country>
   <country>
+    <countryId>SE</countryId>
+    <names>
+    </names>
+    <locales>
+      <locale><localeId>sv_SE.UTF-8</localeId><rank>1000</rank></locale>
+    </locales>
+    <languages>
+      <language><languageId>sv</languageId><rank>1000</rank></language>
+    </languages>
+    <keyboards>
+      <keyboard><keyboardId>se</keyboardId><rank>1000</rank></keyboard>
+    </keyboards>
+    <timezones>
+      <timezone><timezoneId>Europe/Stockholm</timezoneId><rank>1000</rank></timezone>
+    </timezones>
+  </country>
+  <country>
     <countryId>SG</countryId>
     <names>
       <name><languageId>de</languageId><name>Singapur</name></name>
@@ -1099,6 +1138,26 @@
     </keyboards>
     <timezones>
       <timezone><timezoneId>Asia/Singapore</timezoneId><rank>1000</rank></timezone>
+    </timezones>
+  </country>
+  <country>
+    <countryId>SK</countryId>
+    <names>
+      <name><languageId>de</languageId><name>Slowakei</name></name>
+      <name><languageId>en</languageId><name>Slovakia</name></name>
+      <name><languageId>sk</languageId><name>Slovenská republika</name></name>
+    </names>
+    <locales>
+      <locale><localeId>sk_SK.UTF-8</localeId><rank>1000</rank></locale>
+    </locales>
+    <languages>
+      <language><languageId>sk</languageId><rank>1000</rank></language>
+    </languages>
+    <keyboards>
+      <keyboard><keyboardId>sk</keyboardId><rank>1000</rank></keyboard>
+    </keyboards>
+    <timezones>
+      <timezone><timezoneId>Europe/Bratislava</timezoneId><rank>1000</rank></timezone>
     </timezones>
   </country>
   <country>
@@ -1160,6 +1219,28 @@
     </keyboards>
     <timezones>
       <timezone><timezoneId>Asia/Taipei</timezoneId><rank>1000</rank></timezone>
+    </timezones>
+  </country>
+  <country>
+    <countryId>UA</countryId>
+    <names>
+      <name><languageId>de</languageId><name>Ukraine</name></name>
+      <name><languageId>en</languageId><name>Ukraine</name></name>
+      <name><languageId>uk</languageId><name>Україна</name></name>
+    </names>
+    <locales>
+      <locale><localeId>uk_UA.UTF-8</localeId><rank>900</rank></locale>
+      <locale><localeId>ru_UA.UTF-8</localeId><rank>100</rank></locale>
+    </locales>
+    <languages>
+      <language><languageId>uk</languageId><rank>900</rank></language>
+      <language><languageId>ru</languageId><rank>100</rank></language>
+    </languages>
+    <keyboards>
+      <keyboard><keyboardId>ua</keyboardId><rank>900</rank></keyboard>
+      <keyboard><keyboardId>ru</keyboardId><rank>100</rank></keyboard>
+    </keyboards>
+    <timezones>
     </timezones>
   </country>
   <country>

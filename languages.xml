@@ -259,6 +259,29 @@
     </timezones>
   </language>
   <language>
+    <languageId>csb</languageId>
+    <iso639-1>None</iso639-1>
+    <iso639-2-t>csb</iso639-2-t>
+    <iso639-2-b>csb</iso639-2-b>
+    <names>
+      <name><languageId>de</languageId><name>Kaschubisch</name></name>
+      <name><languageId>en</languageId><name>Kashubian</name></name>
+      <name><languageId>pl</languageId><name>kaszubski</name></name>
+    </names>
+    <locales>
+      <locale><localeId>csb_PL.UTF-8</localeId><rank>1000</rank></locale>
+    </locales>
+    <countries>
+      <country><countryId>PL</countryId><rank>1000</rank></country>
+    </countries>
+    <keyboards>
+      <keyboard><keyboardId>pl</keyboardId><rank>1000</rank></keyboard>
+    </keyboards>
+    <timezones>
+      <timezone><timezoneId>Europe/Warsaw</timezoneId><rank>1000</rank></timezone>
+    </timezones>
+  </language>
+  <language>
     <languageId>da</languageId>
     <iso639-1>da</iso639-1>
     <iso639-2-t>dan</iso639-2-t>
@@ -1055,6 +1078,29 @@
     </timezones>
   </language>
   <language>
+    <languageId>nso</languageId>
+    <iso639-1>None</iso639-1>
+    <iso639-2-t>nso</iso639-2-t>
+    <iso639-2-b>nso</iso639-2-b>
+    <names>
+      <name><languageId>de</languageId><name>Nord-Sotho-Sprache</name></name>
+      <name><languageId>en</languageId><name>Northern Sotho</name></name>
+      <name><languageId>nso</languageId><name>Sesotho sa Leboa</name></name>
+    </names>
+    <locales>
+      <locale><localeId>nso_ZA.UTF-8</localeId><rank>1000</rank></locale>
+    </locales>
+    <countries>
+      <country><countryId>ZA</countryId><rank>1000</rank></country>
+    </countries>
+    <keyboards>
+      <keyboard><keyboardId>us</keyboardId><rank>1000</rank></keyboard>
+    </keyboards>
+    <timezones>
+      <timezone><timezoneId>Africa/Johannesburg</timezoneId><rank>1000</rank></timezone>
+    </timezones>
+  </language>
+  <language>
     <languageId>or</languageId>
     <iso639-1>or</iso639-1>
     <iso639-2-t>ori</iso639-2-t>
@@ -1101,6 +1147,29 @@
     <timezones>
       <timezone><timezoneId>Asia/Karachi</timezoneId><rank>600</rank></timezone>
       <timezone><timezoneId>Asia/Kolkata</timezoneId><rank>400</rank></timezone>
+    </timezones>
+  </language>
+  <language>
+    <languageId>pl</languageId>
+    <iso639-1>pl</iso639-1>
+    <iso639-2-t>pol</iso639-2-t>
+    <iso639-2-b>pol</iso639-2-b>
+    <names>
+      <name><languageId>de</languageId><name>Polnisch</name></name>
+      <name><languageId>en</languageId><name>Polish</name></name>
+      <name><languageId>pl</languageId><name>polski</name></name>
+    </names>
+    <locales>
+      <locale><localeId>pl_PL.UTF-8</localeId><rank>1000</rank></locale>
+    </locales>
+    <countries>
+      <country><countryId>PL</countryId><rank>1000</rank></country>
+    </countries>
+    <keyboards>
+      <keyboard><keyboardId>pl</keyboardId><rank>1000</rank></keyboard>
+    </keyboards>
+    <timezones>
+      <timezone><timezoneId>Europe/Warsaw</timezoneId><rank>1000</rank></timezone>
     </timezones>
   </language>
   <language>
@@ -1192,6 +1261,52 @@
     </timezones>
   </language>
   <language>
+    <languageId>sk</languageId>
+    <iso639-1>sk</iso639-1>
+    <iso639-2-t>slk</iso639-2-t>
+    <iso639-2-b>slo</iso639-2-b>
+    <names>
+      <name><languageId>de</languageId><name>Slowakisch</name></name>
+      <name><languageId>en</languageId><name>Slovak</name></name>
+      <name><languageId>sk</languageId><name>slovenčina</name></name>
+    </names>
+    <locales>
+      <locale><localeId>sk_SK.UTF-8</localeId><rank>1000</rank></locale>
+    </locales>
+    <countries>
+      <country><countryId>SK</countryId><rank>1000</rank></country>
+    </countries>
+    <keyboards>
+      <keyboard><keyboardId>sk</keyboardId><rank>1000</rank></keyboard>
+    </keyboards>
+    <timezones>
+      <timezone><timezoneId>Europe/Bratislava</timezoneId><rank>1000</rank></timezone>
+    </timezones>
+  </language>
+  <language>
+    <languageId>sl</languageId>
+    <iso639-1>sl</iso639-1>
+    <iso639-2-t>slv</iso639-2-t>
+    <iso639-2-b>slv</iso639-2-b>
+    <names>
+      <name><languageId>de</languageId><name>Slowenisch</name></name>
+      <name><languageId>en</languageId><name>Slovenian</name></name>
+      <name><languageId>sl</languageId><name>slovenščina</name></name>
+    </names>
+    <locales>
+      <locale><localeId>sl_SI.UTF-8</localeId><rank>1000</rank></locale>
+    </locales>
+    <countries>
+      <country><countryId>SI</countryId><rank>1000</rank></country>
+    </countries>
+    <keyboards>
+      <keyboard><keyboardId>si</keyboardId><rank>1000</rank></keyboard>
+    </keyboards>
+    <timezones>
+      <timezone><timezoneId>Europe/Ljubljana</timezoneId><rank>1000</rank></timezone>
+    </timezones>
+  </language>
+  <language>
     <languageId>sq</languageId>
     <iso639-1>sq</iso639-1>
     <iso639-2-t>sqi</iso639-2-t>
@@ -1212,6 +1327,33 @@
     </keyboards>
     <timezones>
       <timezone><timezoneId>Europe/Tirane</timezoneId><rank>1000</rank></timezone>
+    </timezones>
+  </language>
+  <language>
+    <languageId>sv</languageId>
+    <iso639-1>sv</iso639-1>
+    <iso639-2-t>swe</iso639-2-t>
+    <iso639-2-b>swe</iso639-2-b>
+    <names>
+      <name><languageId>de</languageId><name>Schwedisch</name></name>
+      <name><languageId>en</languageId><name>Swedish</name></name>
+      <name><languageId>sv</languageId><name>svenska</name></name>
+    </names>
+    <locales>
+      <locale><localeId>sv_SE.UTF-8</localeId><rank>900</rank></locale>
+      <locale><localeId>sv_FI.UTF-8</localeId><rank>100</rank></locale>
+    </locales>
+    <countries>
+      <country><countryId>SE</countryId><rank>900</rank></country>
+      <country><countryId>FI</countryId><rank>100</rank></country>
+    </countries>
+    <keyboards>
+      <keyboard><keyboardId>se</keyboardId><rank>900</rank></keyboard>
+      <keyboard><keyboardId>fi(nodeadkeys)</keyboardId><rank>100</rank></keyboard>
+    </keyboards>
+    <timezones>
+      <timezone><timezoneId>Europe/Stockholm</timezoneId><rank>900</rank></timezone>
+      <timezone><timezoneId>Europe/Helsinki</timezoneId><rank>100</rank></timezone>
     </timezones>
   </language>
   <language>
@@ -1264,6 +1406,32 @@
     </keyboards>
     <timezones>
       <timezone><timezoneId>Asia/Kolkata</timezoneId><rank>1000</rank></timezone>
+    </timezones>
+  </language>
+  <language>
+    <languageId>uk</languageId>
+    <iso639-1>uk</iso639-1>
+    <iso639-2-t>ukr</iso639-2-t>
+    <iso639-2-b>ukr</iso639-2-b>
+    <names>
+      <name><languageId>de</languageId><name>Ukrainisch</name></name>
+      <name><languageId>en</languageId><name>Ukrainian</name></name>
+      <name><languageId>uk</languageId><name>українська</name></name>
+    </names>
+    <locales>
+      <locale><localeId>uk_UA.UTF-8</localeId><rank>1000</rank></locale>
+    </locales>
+    <countries>
+      <country><countryId>UA</countryId><rank>1000</rank></country>
+    </countries>
+    <keyboards>
+      <keyboard><keyboardId>ua</keyboardId><rank>1000</rank></keyboard>
+    </keyboards>
+    <timezones>
+      <timezone><timezoneId>Europe/Kiev</timezoneId><rank>990</rank></timezone>
+      <timezone><timezoneId>Europe/Simferopol</timezoneId><rank>1</rank></timezone>
+      <timezone><timezoneId>Europe/Zaporozhye</timezoneId><rank>1</rank></timezone>
+      <timezone><timezoneId>Europe/Uzhgorod</timezoneId><rank>1</rank></timezone>
     </timezones>
   </language>
   <language>

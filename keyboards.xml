@@ -248,6 +248,46 @@
     </languages>
   </keyboard>
   <keyboard>
+    <keyboardId>se</keyboardId>
+    <description>Swedisch</description>
+    <ascii>True</ascii>
+    <languages>
+      <language><languageId>sv</languageId><rank>1000</rank></language>
+    </languages>
+  </keyboard>
+  <keyboard>
+    <keyboardId>se(nodeadkeys)</keyboardId>
+    <description>Swedish (eliminate dead keys)</description>
+    <ascii>True</ascii>
+    <languages>
+      <language><languageId>sv</languageId><rank>1000</rank></language>
+    </languages>
+  </keyboard>
+  <keyboard>
+    <keyboardId>si</keyboardId>
+    <description>Slovenian</description>
+    <ascii>True</ascii>
+    <languages>
+      <language><languageId>sl</languageId><rank>1000</rank></language>
+    </languages>
+  </keyboard>
+  <keyboard>
+    <keyboardId>sk</keyboardId>
+    <description>Slovak</description>
+    <ascii>False</ascii>
+    <languages>
+      <language><languageId>sk</languageId><rank>1000</rank></language>
+    </languages>
+  </keyboard>
+  <keyboard>
+    <keyboardId>ua</keyboardId>
+    <description>Ukrainian</description>
+    <ascii>False</ascii>
+    <languages>
+      <language><languageId>uk</languageId><rank>1000</rank></language>
+    </languages>
+  </keyboard>
+  <keyboard>
     <keyboardId>us</keyboardId>
     <description>English (US)</description>
     <ascii>True</ascii>
