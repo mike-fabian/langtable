@@ -686,6 +686,75 @@
     </timezones>
   </language>
   <language>
+    <languageId>hu</languageId>
+    <iso639-1>hu</iso639-1>
+    <iso639-2-t>hun</iso639-2-t>
+    <iso639-2-b>hun</iso639-2-b>
+    <names>
+      <name><languageId>de</languageId><name>Ungarisch</name></name>
+      <name><languageId>en</languageId><name>Hungarian</name></name>
+      <name><languageId>hu</languageId><name>magyar</name></name>
+    </names>
+    <locales>
+      <locale><localeId>hu_HU.UTF-8</localeId><rank>1000</rank></locale>
+    </locales>
+    <countries>
+      <country><countryId>HU</countryId><rank>1000</rank></country>
+    </countries>
+    <keyboards>
+      <keyboard><keyboardId>hu</keyboardId><rank>1000</rank></keyboard>
+    </keyboards>
+    <timezones>
+      <timezone><timezoneId>Europe/Budapest</timezoneId><rank>1000</rank></timezone>
+    </timezones>
+  </language>
+  <language>
+    <languageId>id</languageId>
+    <iso639-1>id</iso639-1>
+    <iso639-2-t>ind</iso639-2-t>
+    <iso639-2-b>ind</iso639-2-b>
+    <names>
+      <name><languageId>de</languageId><name>Indonesisch</name></name>
+      <name><languageId>en</languageId><name>Indonesian</name></name>
+      <name><languageId>id</languageId><name>Bahasa Indonesia</name></name>
+    </names>
+    <locales>
+      <locale><localeId>id_ID.UTF-8</localeId><rank>1000</rank></locale>
+    </locales>
+    <countries>
+      <country><countryId>ID</countryId><rank>1000</rank></country>
+    </countries>
+    <keyboards>
+      <keyboard><keyboardId>us</keyboardId><rank>1000</rank></keyboard>
+    </keyboards>
+    <timezones>
+      <timezone><timezoneId>Asia/Jayapura</timezoneId><rank>1000</rank></timezone>
+    </timezones>
+  </language>
+  <language>
+    <languageId>is</languageId>
+    <iso639-1>is</iso639-1>
+    <iso639-2-t>isl</iso639-2-t>
+    <iso639-2-b>ice</iso639-2-b>
+    <names>
+      <name><languageId>de</languageId><name>Isländisch</name></name>
+      <name><languageId>en</languageId><name>Icelandic</name></name>
+      <name><languageId>is</languageId><name>íslenska</name></name>
+    </names>
+    <locales>
+      <locale><localeId>is_IS.UTF-8</localeId><rank>1000</rank></locale>
+    </locales>
+    <countries>
+      <country><countryId>IS</countryId><rank>1000</rank></country>
+    </countries>
+    <keyboards>
+      <keyboard><keyboardId>is</keyboardId><rank>1000</rank></keyboard>
+    </keyboards>
+    <timezones>
+      <timezone><timezoneId>Atlantic/Reykjavik</timezoneId><rank>1000</rank></timezone>
+    </timezones>
+  </language>
+  <language>
     <languageId>it</languageId>
     <iso639-1>it</iso639-1>
     <iso639-2-t>ita</iso639-2-t>
@@ -758,6 +827,29 @@
     </timezones>
   </language>
   <language>
+    <languageId>ko</languageId>
+    <iso639-1>ko</iso639-1>
+    <iso639-2-t>kor</iso639-2-t>
+    <iso639-2-b>kor</iso639-2-b>
+    <names>
+      <name><languageId>de</languageId><name>Koreanisch</name></name>
+      <name><languageId>en</languageId><name>Korean</name></name>
+      <name><languageId>ko</languageId><name>한국어</name></name>
+    </names>
+    <locales>
+      <locale><localeId>ko_KR.UTF-8</localeId><rank>1000</rank></locale>
+    </locales>
+    <countries>
+      <country><countryId>KR</countryId><rank>1000</rank></country>
+    </countries>
+    <keyboards>
+      <keyboard><keyboardId>kr</keyboardId><rank>1000</rank></keyboard>
+    </keyboards>
+    <timezones>
+      <timezone><timezoneId>Asia/Seoul</timezoneId><rank>1000</rank></timezone>
+    </timezones>
+  </language>
+  <language>
     <languageId>li</languageId>
     <iso639-1>li</iso639-1>
     <iso639-2-t>lim</iso639-2-t>
@@ -810,6 +902,29 @@
     </timezones>
   </language>
   <language>
+    <languageId>mk</languageId>
+    <iso639-1>mk</iso639-1>
+    <iso639-2-t>mkd</iso639-2-t>
+    <iso639-2-b>mac</iso639-2-b>
+    <names>
+      <name><languageId>de</languageId><name>Mazedonisch</name></name>
+      <name><languageId>en</languageId><name>Macedonian</name></name>
+      <name><languageId>mk</languageId><name>македонски</name></name>
+    </names>
+    <locales>
+      <locale><localeId>mk_MK.UTF-8</localeId><rank>1000</rank></locale>
+    </locales>
+    <countries>
+      <country><countryId>MK</countryId><rank>1000</rank></country>
+    </countries>
+    <keyboards>
+      <keyboard><keyboardId>mk</keyboardId><rank>1000</rank></keyboard>
+    </keyboards>
+    <timezones>
+      <timezone><timezoneId>Europe/Skopje</timezoneId><rank>1000</rank></timezone>
+    </timezones>
+  </language>
+  <language>
     <languageId>ml</languageId>
     <iso639-1>ml</iso639-1>
     <iso639-2-t>mal</iso639-2-t>
@@ -853,6 +968,30 @@
     </keyboards>
     <timezones>
       <timezone><timezoneId>Asia/Kolkata</timezoneId><rank>1000</rank></timezone>
+    </timezones>
+  </language>
+  <language>
+    <languageId>ms</languageId>
+    <iso639-1>ms</iso639-1>
+    <iso639-2-t>msa</iso639-2-t>
+    <iso639-2-b>may</iso639-2-b>
+    <names>
+      <name><languageId>de</languageId><name>Malaiisch</name></name>
+      <name><languageId>en</languageId><name>Malay</name></name>
+      <name><languageId>sq</languageId><name>Bahasa Melayu</name></name>
+    </names>
+    <locales>
+      <locale><localeId>ms_MY_AL.UTF-8</localeId><rank>1000</rank></locale>
+    </locales>
+    <countries>
+      <country><countryId>MY</countryId><rank>1000</rank></country>
+    </countries>
+    <keyboards>
+      <keyboard><keyboardId>us</keyboardId><rank>1000</rank></keyboard>
+    </keyboards>
+    <timezones>
+      <timezone><timezoneId>Asia/Kuala_Lumpur</timezoneId><rank>800</rank></timezone>
+      <timezone><timezoneId>Asia/Kuching</timezoneId><rank>200</rank></timezone>
     </timezones>
   </language>
   <language>
@@ -1050,6 +1189,29 @@
     </keyboards>
     <timezones>
       <timezone><timezoneId>Asia/Colombo</timezoneId><rank>1000</rank></timezone>
+    </timezones>
+  </language>
+  <language>
+    <languageId>sq</languageId>
+    <iso639-1>sq</iso639-1>
+    <iso639-2-t>sqi</iso639-2-t>
+    <iso639-2-b>alb</iso639-2-b>
+    <names>
+      <name><languageId>de</languageId><name>Albanisch</name></name>
+      <name><languageId>en</languageId><name>Albanian</name></name>
+      <name><languageId>sq</languageId><name>shqip</name></name>
+    </names>
+    <locales>
+      <locale><localeId>sq_AL.UTF-8</localeId><rank>1000</rank></locale>
+    </locales>
+    <countries>
+      <country><countryId>AL</countryId><rank>1000</rank></country>
+    </countries>
+    <keyboards>
+      <keyboard><keyboardId>al</keyboardId><rank>1000</rank></keyboard>
+    </keyboards>
+    <timezones>
+      <timezone><timezoneId>Europe/Tirane</timezoneId><rank>1000</rank></timezone>
     </timezones>
   </language>
   <language>

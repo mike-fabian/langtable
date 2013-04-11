@@ -42,6 +42,26 @@
     </timezones>
   </country>
   <country>
+    <countryId>AL</countryId>
+    <names>
+      <name><languageId>de</languageId><name>Mazedonien</name></name>
+      <name><languageId>en</languageId><name>Macedonia</name></name>
+      <name><languageId>sq</languageId><name>Македонија</name></name>
+    </names>
+    <locales>
+      <locale><localeId>sq_AL.UTF-8</localeId><rank>100</rank></locale>
+    </locales>
+    <languages>
+      <language><languageId>sq</languageId><rank>1000</rank></language>
+    </languages>
+    <keyboards>
+      <keyboard><keyboardId>al</keyboardId><rank>1000</rank></keyboard>
+    </keyboards>
+    <timezones>
+      <timezone><timezoneId>Europe/Tirane</timezoneId><rank>1000</rank></timezone>
+    </timezones>
+  </country>
+  <country>
     <countryId>AT</countryId>
     <names>
       <name><languageId>de</languageId><name>Österreich</name></name>
@@ -487,6 +507,46 @@
     </timezones>
   </country>
   <country>
+    <countryId>HU</countryId>
+    <names>
+      <name><languageId>de</languageId><name>Ungarn</name></name>
+      <name><languageId>en</languageId><name>Hungary</name></name>
+      <name><languageId>hu</languageId><name>Magyarország</name></name>
+    </names>
+    <locales>
+      <locale><localeId>hu_HU.UTF-8</localeId><rank>1000</rank></locale>
+    </locales>
+    <languages>
+      <language><languageId>hu</languageId><rank>1000</rank></language>
+    </languages>
+    <keyboards>
+      <keyboard><keyboardId>hu</keyboardId><rank>1000</rank></keyboard>
+    </keyboards>
+    <timezones>
+      <timezone><timezoneId>Europe/Budapest</timezoneId><rank>1000</rank></timezone>
+    </timezones>
+  </country>
+  <country>
+    <countryId>ID</countryId>
+    <names>
+      <name><languageId>de</languageId><name>Indonesien</name></name>
+      <name><languageId>en</languageId><name>Indonesia</name></name>
+      <name><languageId>id</languageId><name>Indonesia</name></name>
+    </names>
+    <locales>
+      <locale><localeId>id_ID.UTF-8</localeId><rank>1000</rank></locale>
+    </locales>
+    <languages>
+      <language><languageId>id</languageId><rank>1000</rank></language>
+    </languages>
+    <keyboards>
+      <keyboard><keyboardId>us</keyboardId><rank>1000</rank></keyboard>
+    </keyboards>
+    <timezones>
+      <timezone><timezoneId>Asia/Jayapura</timezoneId><rank>1000</rank></timezone>
+    </timezones>
+  </country>
+  <country>
     <countryId>IN</countryId>
     <names>
       <name><languageId>de</languageId><name>Indien</name></name>
@@ -580,6 +640,26 @@
     </timezones>
   </country>
   <country>
+    <countryId>IS</countryId>
+    <names>
+      <name><languageId>de</languageId><name>Island</name></name>
+      <name><languageId>en</languageId><name>Iceland</name></name>
+      <name><languageId>is</languageId><name>Ísland</name></name>
+    </names>
+    <locales>
+      <locale><localeId>is_IS.UTF-8</localeId><rank>1000</rank></locale>
+    </locales>
+    <languages>
+      <language><languageId>is</languageId><rank>1000</rank></language>
+    </languages>
+    <keyboards>
+      <keyboard><keyboardId>is</keyboardId><rank>1000</rank></keyboard>
+    </keyboards>
+    <timezones>
+      <timezone><timezoneId>Atlantic/Reykjavik</timezoneId><rank>1000</rank></timezone>
+    </timezones>
+  </country>
+  <country>
     <countryId>IT</countryId>
     <names>
       <name><languageId>de</languageId><name>Italien</name></name>
@@ -643,6 +723,26 @@
     </keyboards>
     <timezones>
       <timezone><timezoneId>Asia/Tokyo</timezoneId><rank>1000</rank></timezone>
+    </timezones>
+  </country>
+  <country>
+    <countryId>KR</countryId>
+    <names>
+      <name><languageId>de</languageId><name>Republik Korea</name></name>
+      <name><languageId>en</languageId><name>South Korea</name></name>
+      <name><languageId>ko</languageId><name>대한민국</name></name>
+    </names>
+    <locales>
+      <locale><localeId>ko_KR.UTF-8</localeId><rank>1000</rank></locale>
+    </locales>
+    <languages>
+      <language><languageId>ko</languageId><rank>1000</rank></language>
+    </languages>
+    <keyboards>
+      <keyboard><keyboardId>kr</keyboardId><rank>1000</rank></keyboard>
+    </keyboards>
+    <timezones>
+      <timezone><timezoneId>Asia/Seoul</timezoneId><rank>1000</rank></timezone>
     </timezones>
   </country>
   <country>
@@ -742,6 +842,29 @@
     </timezones>
   </country>
   <country>
+    <countryId>MK</countryId>
+    <names>
+      <name><languageId>de</languageId><name>Mazedonien</name></name>
+      <name><languageId>en</languageId><name>Macedonia</name></name>
+      <name><languageId>mk</languageId><name>Македонија</name></name>
+    </names>
+    <locales>
+      <locale><localeId>mk_MK.UTF-8</localeId><rank>900</rank></locale>
+      <locale><localeId>sq_MK.UTF-8</localeId><rank>100</rank></locale>
+    </locales>
+    <languages>
+      <language><languageId>mk</languageId><rank>900</rank></language>
+      <language><languageId>sq</languageId><rank>100</rank></language>
+    </languages>
+    <keyboards>
+      <keyboard><keyboardId>mk</keyboardId><rank>900</rank></keyboard>
+      <keyboard><keyboardId>al</keyboardId><rank>100</rank></keyboard>
+    </keyboards>
+    <timezones>
+      <timezone><timezoneId>Europe/Skopje</timezoneId><rank>1000</rank></timezone>
+    </timezones>
+  </country>
+  <country>
     <countryId>MO</countryId>
     <names>
       <name><languageId>de</languageId><name>Sonderverwaltungszone Macao</name></name>
@@ -761,6 +884,27 @@
     </keyboards>
     <timezones>
       <timezone><timezoneId>Asia/Macau</timezoneId><rank>1000</rank></timezone>
+    </timezones>
+  </country>
+  <country>
+    <countryId>MY</countryId>
+    <names>
+      <name><languageId>de</languageId><name>Malaysia</name></name>
+      <name><languageId>en</languageId><name>Malaysia</name></name>
+      <name><languageId>ms</languageId><name>Malaysia</name></name>
+    </names>
+    <locales>
+      <locale><localeId>ms_MY.UTF-8</localeId><rank>100</rank></locale>
+    </locales>
+    <languages>
+      <language><languageId>ms</languageId><rank>1000</rank></language>
+    </languages>
+    <keyboards>
+      <keyboard><keyboardId>us</keyboardId><rank>1000</rank></keyboard>
+    </keyboards>
+    <timezones>
+      <timezone><timezoneId>Asia/Kuala_Lumpur</timezoneId><rank>800</rank></timezone>
+      <timezone><timezoneId>Asia/Kuching</timezoneId><rank>200</rank></timezone>
     </timezones>
   </country>
   <country>
