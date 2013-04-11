@@ -1133,6 +1133,30 @@
     </timezones>
   </language>
   <language>
+    <languageId>nb</languageId>
+    <iso639-1>nb</iso639-1>
+    <iso639-2-t>nob</iso639-2-t>
+    <iso639-2-b>nob</iso639-2-b>
+    <names>
+      <name><languageId>de</languageId><name>Norwegisch Bokmål</name></name>
+      <name><languageId>en</languageId><name>Norwegian Bokmål</name></name>
+      <name><languageId>nb</languageId><name>norsk bokmål</name></name>
+      <name><languageId>nn</languageId><name>bokmål</name></name>
+    </names>
+    <locales>
+      <locale><localeId>nb_NO.UTF-8</localeId><rank>1000</rank></locale>
+    </locales>
+    <countries>
+      <country><countryId>NO</countryId><rank>1000</rank></country>
+    </countries>
+    <keyboards>
+      <keyboard><keyboardId>no</keyboardId><rank>1000</rank></keyboard>
+    </keyboards>
+    <timezones>
+      <timezone><timezoneId>Europe/Oslo</timezoneId><rank>1000</rank></timezone>
+    </timezones>
+  </language>
+  <language>
     <languageId>nds</languageId>
     <iso639-1>None</iso639-1>
     <iso639-2-t>nds</iso639-2-t>
@@ -1190,6 +1214,30 @@
       <timezone><timezoneId>Europe/Amsterdam</timezoneId><rank>800</rank></timezone>
       <timezone><timezoneId>Europe/Brussels</timezoneId><rank>100</rank></timezone>
       <timezone><timezoneId>America/Aruba</timezoneId><rank>50</rank></timezone>
+    </timezones>
+  </language>
+  <language>
+    <languageId>nn</languageId>
+    <iso639-1>nn</iso639-1>
+    <iso639-2-t>nno</iso639-2-t>
+    <iso639-2-b>nno</iso639-2-b>
+    <names>
+      <name><languageId>de</languageId><name>Norwegisch Nynorsk</name></name>
+      <name><languageId>en</languageId><name>Norwegian Nynorsk</name></name>
+      <name><languageId>nb</languageId><name>norsk nynorsk</name></name>
+      <name><languageId>nn</languageId><name>nynorsk</name></name>
+    </names>
+    <locales>
+      <locale><localeId>nn_NO.UTF-8</localeId><rank>1000</rank></locale>
+    </locales>
+    <countries>
+      <country><countryId>NO</countryId><rank>1000</rank></country>
+    </countries>
+    <keyboards>
+      <keyboard><keyboardId>no</keyboardId><rank>1000</rank></keyboard>
+    </keyboards>
+    <timezones>
+      <timezone><timezoneId>Europe/Oslo</timezoneId><rank>1000</rank></timezone>
     </timezones>
   </language>
   <language>
@@ -1350,6 +1398,29 @@
     </keyboards>
     <timezones>
       <timezone><timezoneId>Europe/Rome</timezoneId><rank>1000</rank></timezone>
+    </timezones>
+  </language>
+  <language>
+    <languageId>se</languageId>
+    <iso639-1>se</iso639-1>
+    <iso639-2-t>sme</iso639-2-t>
+    <iso639-2-b>sme</iso639-2-b>
+    <names>
+      <name><languageId>de</languageId><name>Nord-Samisch</name></name>
+      <name><languageId>en</languageId><name>Northern Sami</name></name>
+      <name><languageId>se</languageId><name>Davvisámegiella</name></name>
+    </names>
+    <locales>
+      <locale><localeId>se_NO.UTF-8</localeId><rank>1000</rank></locale>
+    </locales>
+    <countries>
+      <country><countryId>NO</countryId><rank>1000</rank></country>
+    </countries>
+    <keyboards>
+      <keyboard><keyboardId>no</keyboardId><rank>1000</rank></keyboard>
+    </keyboards>
+    <timezones>
+      <timezone><timezoneId>Europe/Oslo</timezoneId><rank>1000</rank></timezone>
     </timezones>
   </language>
   <language>

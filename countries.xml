@@ -985,6 +985,31 @@
     </timezones>
   </country>
   <country>
+    <countryId>NO</countryId>
+    <names>
+      <name><languageId>de</languageId><name>Norwegen</name></name>
+      <name><languageId>en</languageId><name>Norway</name></name>
+      <name><languageId>nb</languageId><name>Norge</name></name>
+      <name><languageId>nn</languageId><name>Noreg</name></name>
+    </names>
+    <locales>
+      <locale><localeId>nb_NO.UTF-8</localeId><rank>600</rank></locale>
+      <locale><localeId>nn_NO.UTF-8</localeId><rank>300</rank></locale>
+      <locale><localeId>se_NO.UTF-8</localeId><rank>100</rank></locale>
+    </locales>
+    <languages>
+      <language><languageId>nn</languageId><rank>600</rank></language>
+      <language><languageId>nb</languageId><rank>300</rank></language>
+      <language><languageId>se</languageId><rank>100</rank></language>
+    </languages>
+    <keyboards>
+      <keyboard><keyboardId>no</keyboardId><rank>1000</rank></keyboard>
+    </keyboards>
+    <timezones>
+      <timezone><timezoneId>Europe/Oslo</timezoneId><rank>1000</rank></timezone>
+    </timezones>
+  </country>
+  <country>
     <countryId>OM</countryId>
     <names>
       <name><languageId>de</languageId><name>Oman</name></name>
