@@ -1336,6 +1336,50 @@
     </timezones>
   </language>
   <language>
+    <languageId>pt</languageId>
+    <iso639-1>pt</iso639-1>
+    <iso639-2-t>por</iso639-2-t>
+    <iso639-2-b>por</iso639-2-b>
+    <names>
+      <name><languageId>de</languageId><name>Portugiesisch</name></name>
+      <name><languageId>en</languageId><name>Portuguese</name></name>
+      <name><languageId>pt</languageId><name>português</name></name>
+    </names>
+    <locales>
+      <locale><localeId>pt_BR.UTF-8</localeId><rank>600</rank></locale>
+      <locale><localeId>pt_PT.UTF-8</localeId><rank>400</rank></locale>
+    </locales>
+    <countries>
+      <country><countryId>BR</countryId><rank>600</rank></country>
+      <country><countryId>PT</countryId><rank>400</rank></country>
+    </countries>
+    <keyboards>
+      <keyboard><keyboardId>br</keyboardId><rank>600</rank></keyboard>
+      <keyboard><keyboardId>pt</keyboardId><rank>400</rank></keyboard>
+    </keyboards>
+    <timezones>
+      <timezone><timezoneId>America/Fortaleza</timezoneId><rank>1000</rank></timezone>
+      <timezone><timezoneId>America/Cuiaba</timezoneId><rank>1000</rank></timezone>
+      <timezone><timezoneId>America/Manaus</timezoneId><rank>1000</rank></timezone>
+      <timezone><timezoneId>America/Bahia</timezoneId><rank>1000</rank></timezone>
+      <timezone><timezoneId>America/Noronha</timezoneId><rank>1000</rank></timezone>
+      <timezone><timezoneId>America/Sao_Paulo</timezoneId><rank>1000</rank></timezone>
+      <timezone><timezoneId>Europe/Lisbon</timezoneId><rank>900</rank></timezone>
+      <timezone><timezoneId>Atlantic/Azores</timezoneId><rank>100</rank></timezone>
+      <timezone><timezoneId>Atlantic/Madeira</timezoneId><rank>100</rank></timezone>
+      <timezone><timezoneId>America/Boa_Vista</timezoneId><rank>1</rank></timezone>
+      <timezone><timezoneId>America/Araguaina</timezoneId><rank>1</rank></timezone>
+      <timezone><timezoneId>America/Belem</timezoneId><rank>1</rank></timezone>
+      <timezone><timezoneId>America/Porto_Velho</timezoneId><rank>1</rank></timezone>
+      <timezone><timezoneId>America/Maceio</timezoneId><rank>1</rank></timezone>
+      <timezone><timezoneId>America/Eirunepe</timezoneId><rank>1</rank></timezone>
+      <timezone><timezoneId>America/Rio_Branco</timezoneId><rank>1</rank></timezone>
+      <timezone><timezoneId>America/Recife</timezoneId><rank>1</rank></timezone>
+      <timezone><timezoneId>America/Santarem</timezoneId><rank>1</rank></timezone>
+      <timezone><timezoneId>America/Campo_Grande</timezoneId><rank>1</rank></timezone>
+    </timezones>
+  </language>
+  <language>
     <languageId>ru</languageId>
     <iso639-1>ru</iso639-1>
     <iso639-2-t>rus</iso639-2-t>

@@ -148,6 +148,41 @@
     </timezones>
   </country>
   <country>
+    <countryId>BR</countryId>
+    <names>
+      <name><languageId>de</languageId><name>Brasilien</name></name>
+      <name><languageId>en</languageId><name>Brazil</name></name>
+      <name><languageId>pt</languageId><name>Brasil</name></name>
+    </names>
+    <locales>
+      <locale><localeId>pt_BR.UTF-8</localeId><rank>1000</rank></locale>
+    </locales>
+    <languages>
+      <language><languageId>pt</languageId><rank>1000</rank></language>
+    </languages>
+    <keyboards>
+      <keyboard><keyboardId>br</keyboardId><rank>1000</rank></keyboard>
+    </keyboards>
+    <timezones>
+      <timezone><timezoneId>America/Fortaleza</timezoneId><rank>1000</rank></timezone>
+      <timezone><timezoneId>America/Cuiaba</timezoneId><rank>1000</rank></timezone>
+      <timezone><timezoneId>America/Manaus</timezoneId><rank>1000</rank></timezone>
+      <timezone><timezoneId>America/Bahia</timezoneId><rank>1000</rank></timezone>
+      <timezone><timezoneId>America/Noronha</timezoneId><rank>1000</rank></timezone>
+      <timezone><timezoneId>America/Sao_Paulo</timezoneId><rank>1000</rank></timezone>
+      <timezone><timezoneId>America/Boa_Vista</timezoneId><rank>1</rank></timezone>
+      <timezone><timezoneId>America/Araguaina</timezoneId><rank>1</rank></timezone>
+      <timezone><timezoneId>America/Belem</timezoneId><rank>1</rank></timezone>
+      <timezone><timezoneId>America/Porto_Velho</timezoneId><rank>1</rank></timezone>
+      <timezone><timezoneId>America/Maceio</timezoneId><rank>1</rank></timezone>
+      <timezone><timezoneId>America/Eirunepe</timezoneId><rank>1</rank></timezone>
+      <timezone><timezoneId>America/Rio_Branco</timezoneId><rank>1</rank></timezone>
+      <timezone><timezoneId>America/Recife</timezoneId><rank>1</rank></timezone>
+      <timezone><timezoneId>America/Santarem</timezoneId><rank>1</rank></timezone>
+      <timezone><timezoneId>America/Campo_Grande</timezoneId><rank>1</rank></timezone>
+    </timezones>
+  </country>
+  <country>
     <countryId>BY</countryId>
     <names>
       <name><languageId>de</languageId><name>Belarus</name></name>
@@ -1070,6 +1105,28 @@
     </keyboards>
     <timezones>
       <timezone><timezoneId>Europe/Warsaw</timezoneId><rank>1000</rank></timezone>
+    </timezones>
+  </country>
+  <country>
+    <countryId>PT</countryId>
+    <names>
+      <name><languageId>de</languageId><name>Portugal</name></name>
+      <name><languageId>en</languageId><name>Portugal</name></name>
+      <name><languageId>pt</languageId><name>Portugal</name></name>
+    </names>
+    <locales>
+      <locale><localeId>pt_PT.UTF-8</localeId><rank>1000</rank></locale>
+    </locales>
+    <languages>
+      <language><languageId>pt</languageId><rank>1000</rank></language>
+    </languages>
+    <keyboards>
+      <keyboard><keyboardId>pt</keyboardId><rank>1000</rank></keyboard>
+    </keyboards>
+    <timezones>
+      <timezone><timezoneId>Europe/Lisbon</timezoneId><rank>900</rank></timezone>
+      <timezone><timezoneId>Atlantic/Madeira</timezoneId><rank>100</rank></timezone>
+      <timezone><timezoneId>Atlantic/Azores</timezoneId><rank>100</rank></timezone>
     </timezones>
   </country>
   <country>

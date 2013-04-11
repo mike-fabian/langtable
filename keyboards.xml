@@ -54,6 +54,14 @@
     </languages>
   </keyboard>
   <keyboard>
+    <keyboardId>br</keyboardId>
+    <description>Portuguese (Brazil)</description>
+    <ascii>True</ascii>
+    <languages>
+      <language><languageId>pt</languageId><rank>1000</rank></language>
+    </languages>
+  </keyboard>
+  <keyboard>
     <keyboardId>ch</keyboardId>
     <description>German (Switzerland)</description>
     <ascii>True</ascii>
@@ -246,6 +254,14 @@
     <comment>Niche</comment>
     <languages>
       <language><languageId>nl</languageId><rank>0</rank></language>
+    </languages>
+  </keyboard>
+  <keyboard>
+    <keyboardId>pt</keyboardId>
+    <description>Portuguese</description>
+    <ascii>True</ascii>
+    <languages>
+      <language><languageId>pt</languageId><rank>1000</rank></language>
     </languages>
   </keyboard>
   <keyboard>
