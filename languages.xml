@@ -379,53 +379,79 @@
       <timezone><timezoneId>Australia/Darwin</timezoneId><rank>100</rank></timezone>
       <timezone><timezoneId>Africa/Gaborone</timezoneId><rank>100</rank></timezone>
       <timezone><timezoneId>Europe/London</timezoneId><rank>100</rank></timezone>
-      <timezone><timezoneId>America/Whitehorse</timezoneId><rank>100</rank></timezone>
-      <timezone><timezoneId>America/Dawson_Creek</timezoneId><rank>100</rank></timezone>
-      <timezone><timezoneId>America/Swift_Current</timezoneId><rank>100</rank></timezone>
       <timezone><timezoneId>Europe/Copenhagen</timezoneId><rank>100</rank></timezone>
-      <timezone><timezoneId>America/Pangnirtung</timezoneId><rank>100</rank></timezone>
-      <timezone><timezoneId>America/Resolute</timezoneId><rank>100</rank></timezone>
       <timezone><timezoneId>Asia/Singapore</timezoneId><rank>100</rank></timezone>
       <timezone><timezoneId>Australia/Currie</timezoneId><rank>100</rank></timezone>
       <timezone><timezoneId>Pacific/Honolulu</timezoneId><rank>100</rank></timezone>
       <timezone><timezoneId>Australia/Lindeman</timezoneId><rank>100</rank></timezone>
       <timezone><timezoneId>America/St_Johns</timezoneId><rank>100</rank></timezone>
-      <timezone><timezoneId>America/Moncton</timezoneId><rank>100</rank></timezone>
       <timezone><timezoneId>America/Antigua</timezoneId><rank>100</rank></timezone>
-      <timezone><timezoneId>Asia/Hong_Kong</timezoneId><rank>100</rank></timezone>
+      <timezone><timezoneId>America/Phoenix</timezoneId><rank>100</rank></timezone>
       <timezone><timezoneId>America/Winnipeg</timezoneId><rank>100</rank></timezone>
-      <timezone><timezoneId>America/Dawson</timezoneId><rank>100</rank></timezone>
       <timezone><timezoneId>Australia/Brisbane</timezoneId><rank>100</rank></timezone>
-      <timezone><timezoneId>America/Blanc-Sablon</timezoneId><rank>100</rank></timezone>
-      <timezone><timezoneId>America/Atikokan</timezoneId><rank>100</rank></timezone>
+      <timezone><timezoneId>America/Chicago</timezoneId><rank>100</rank></timezone>
       <timezone><timezoneId>America/Halifax</timezoneId><rank>100</rank></timezone>
       <timezone><timezoneId>Australia/Broken_Hill</timezoneId><rank>100</rank></timezone>
+      <timezone><timezoneId>Asia/Hong_Kong</timezoneId><rank>100</rank></timezone>
       <timezone><timezoneId>Africa/Lusaka</timezoneId><rank>100</rank></timezone>
-      <timezone><timezoneId>America/Thunder_Bay</timezoneId><rank>100</rank></timezone>
-      <timezone><timezoneId>America/Rainy_River</timezoneId><rank>100</rank></timezone>
-      <timezone><timezoneId>America/Yellowknife</timezoneId><rank>100</rank></timezone>
       <timezone><timezoneId>America/Los_Angeles</timezoneId><rank>100</rank></timezone>
       <timezone><timezoneId>America/New_York</timezoneId><rank>100</rank></timezone>
-      <timezone><timezoneId>America/Goose_Bay</timezoneId><rank>100</rank></timezone>
       <timezone><timezoneId>Europe/Dublin</timezoneId><rank>100</rank></timezone>
       <timezone><timezoneId>Africa/Lagos</timezoneId><rank>100</rank></timezone>
-      <timezone><timezoneId>America/Inuvik</timezoneId><rank>100</rank></timezone>
       <timezone><timezoneId>Australia/Hobart</timezoneId><rank>100</rank></timezone>
       <timezone><timezoneId>Australia/Adelaide</timezoneId><rank>100</rank></timezone>
       <timezone><timezoneId>America/Regina</timezoneId><rank>100</rank></timezone>
       <timezone><timezoneId>America/Vancouver</timezoneId><rank>100</rank></timezone>
-      <timezone><timezoneId>America/Cambridge_Bay</timezoneId><rank>100</rank></timezone>
-      <timezone><timezoneId>America/Montreal</timezoneId><rank>100</rank></timezone>
       <timezone><timezoneId>America/Toronto</timezoneId><rank>100</rank></timezone>
       <timezone><timezoneId>Pacific/Auckland</timezoneId><rank>100</rank></timezone>
       <timezone><timezoneId>Australia/Eucla</timezoneId><rank>100</rank></timezone>
       <timezone><timezoneId>Pacific/Chatham</timezoneId><rank>100</rank></timezone>
-      <timezone><timezoneId>America/Rankin_Inlet</timezoneId><rank>100</rank></timezone>
+      <timezone><timezoneId>America/Anchorage</timezoneId><rank>100</rank></timezone>
       <timezone><timezoneId>Asia/Manila</timezoneId><rank>100</rank></timezone>
-      <timezone><timezoneId>America/Iqaluit</timezoneId><rank>100</rank></timezone>
       <timezone><timezoneId>Africa/Harare</timezoneId><rank>100</rank></timezone>
-      <timezone><timezoneId>America/Nipigon</timezoneId><rank>0</rank></timezone>
-      <timezone><timezoneId>America/Glace_Bay</timezoneId><rank>0</rank></timezone>
+      <timezone><timezoneId>America/Nipigon</timezoneId><rank>1</rank></timezone>
+      <timezone><timezoneId>America/Whitehorse</timezoneId><rank>1</rank></timezone>
+      <timezone><timezoneId>America/Dawson_Creek</timezoneId><rank>1</rank></timezone>
+      <timezone><timezoneId>America/Swift_Current</timezoneId><rank>1</rank></timezone>
+      <timezone><timezoneId>America/Pangnirtung</timezoneId><rank>1</rank></timezone>
+      <timezone><timezoneId>America/Resolute</timezoneId><rank>1</rank></timezone>
+      <timezone><timezoneId>America/Moncton</timezoneId><rank>1</rank></timezone>
+      <timezone><timezoneId>America/Dawson</timezoneId><rank>1</rank></timezone>
+      <timezone><timezoneId>America/Blanc-Sablon</timezoneId><rank>1</rank></timezone>
+      <timezone><timezoneId>America/Atikokan</timezoneId><rank>1</rank></timezone>
+      <timezone><timezoneId>America/Glace_Bay</timezoneId><rank>1</rank></timezone>
+      <timezone><timezoneId>America/Thunder_Bay</timezoneId><rank>1</rank></timezone>
+      <timezone><timezoneId>America/Rainy_River</timezoneId><rank>1</rank></timezone>
+      <timezone><timezoneId>America/Yellowknife</timezoneId><rank>1</rank></timezone>
+      <timezone><timezoneId>America/Goose_Bay</timezoneId><rank>1</rank></timezone>
+      <timezone><timezoneId>America/Inuvik</timezoneId><rank>1</rank></timezone>
+      <timezone><timezoneId>America/Cambridge_Bay</timezoneId><rank>1</rank></timezone>
+      <timezone><timezoneId>America/Montreal</timezoneId><rank>1</rank></timezone>
+      <timezone><timezoneId>America/Rankin_Inlet</timezoneId><rank>1</rank></timezone>
+      <timezone><timezoneId>America/Iqaluit</timezoneId><rank>1</rank></timezone>
+    </timezones>
+  </language>
+  <language>
+    <languageId>et</languageId>
+    <iso639-1>et</iso639-1>
+    <iso639-2-t>est</iso639-2-t>
+    <iso639-2-b>est</iso639-2-b>
+    <names>
+      <name><languageId>de</languageId><name>Estnisch</name></name>
+      <name><languageId>en</languageId><name>Estonian</name></name>
+      <name><languageId>et</languageId><name>eesti</name></name>
+    </names>
+    <locales>
+      <locale><localeId>et_EE.UTF-8</localeId><rank>1000</rank></locale>
+    </locales>
+    <countries>
+      <country><countryId>EE</countryId><rank>1000</rank></country>
+    </countries>
+    <keyboards>
+      <keyboard><keyboardId>ee</keyboardId><rank>1000</rank></keyboard>
+    </keyboards>
+    <timezones>
+      <timezone><timezoneId>Europe/Tallinn</timezoneId><rank>1000</rank></timezone>
     </timezones>
   </language>
   <language>

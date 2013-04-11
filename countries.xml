@@ -287,6 +287,26 @@
     </timezones>
   </country>
   <country>
+    <countryId>EE</countryId>
+    <names>
+      <name><languageId>de</languageId><name>Estland</name></name>
+      <name><languageId>en</languageId><name>Estonia</name></name>
+      <name><languageId>et</languageId><name>Eesti</name></name>
+    </names>
+    <locales>
+      <locale><localeId>et_EE.UTF-8</localeId><rank>1000</rank></locale>
+    </locales>
+    <languages>
+      <language><languageId>et</languageId><rank>1000</rank></language>
+    </languages>
+    <keyboards>
+      <keyboard><keyboardId>ee</keyboardId><rank>1000</rank></keyboard>
+    </keyboards>
+    <timezones>
+      <timezone><timezoneId>Europe/Tallinn</timezoneId><rank>1000</rank></timezone>
+    </timezones>
+  </country>
+  <country>
     <countryId>EG</countryId>
     <names>
       <name><languageId>de</languageId><name>Ägypten</name></name>

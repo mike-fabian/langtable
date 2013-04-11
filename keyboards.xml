@@ -104,6 +104,14 @@
     </languages>
   </keyboard>
   <keyboard>
+    <keyboardId>ee</keyboardId>
+    <description>Estonian</description>
+    <ascii>True</ascii>
+    <languages>
+      <language><languageId>et</languageId><rank>1000</rank></language>
+    </languages>
+  </keyboard>
+  <keyboard>
     <keyboardId>es</keyboardId>
     <description>Spanish</description>
     <ascii>True</ascii>
