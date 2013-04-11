@@ -332,9 +332,9 @@ def write_languages_file(file):
     for languageId in sorted(languages):
         file.write('  <language>\n')
         file.write('    <languageId>'+languageId+'</languageId>\n')
-        file.write('    <iso639-1>'+languages[languageId].iso639_1+'</iso639-1>\n')
-        file.write('    <iso639-2-t>'+languages[languageId].iso639_2_t+'</iso639-2-t>\n')
-        file.write('    <iso639-2-b>'+languages[languageId].iso639_2_b+'</iso639-2-b>\n')
+        file.write('    <iso639-1>'+str(languages[languageId].iso639_1)+'</iso639-1>\n')
+        file.write('    <iso639-2-t>'+str(languages[languageId].iso639_2_t)+'</iso639-2-t>\n')
+        file.write('    <iso639-2-b>'+str(languages[languageId].iso639_2_b)+'</iso639-2-b>\n')
         names = languages[languageId].names
         file.write('    <names>\n')
         for name in sorted(names):
