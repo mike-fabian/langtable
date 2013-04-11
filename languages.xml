@@ -282,6 +282,29 @@
     </timezones>
   </language>
   <language>
+    <languageId>cy</languageId>
+    <iso639-1>cy</iso639-1>
+    <iso639-2-t>cym</iso639-2-t>
+    <iso639-2-b>wel</iso639-2-b>
+    <names>
+      <name><languageId>cy</languageId><name>Cymraeg</name></name>
+      <name><languageId>de</languageId><name>Walisisch</name></name>
+      <name><languageId>en</languageId><name>Welsh</name></name>
+    </names>
+    <locales>
+      <locale><localeId>cy_GB.UTF-8</localeId><rank>1000</rank></locale>
+    </locales>
+    <countries>
+      <country><countryId>GB</countryId><rank>1000</rank></country>
+    </countries>
+    <keyboards>
+      <keyboard><keyboardId>gb</keyboardId><rank>1000</rank></keyboard>
+    </keyboards>
+    <timezones>
+      <timezone><timezoneId>Europe/London</timezoneId><rank>1000</rank></timezone>
+    </timezones>
+  </language>
+  <language>
     <languageId>da</languageId>
     <iso639-1>da</iso639-1>
     <iso639-2-t>dan</iso639-2-t>
@@ -617,6 +640,29 @@
     </timezones>
   </language>
   <language>
+    <languageId>gd</languageId>
+    <iso639-1>gd</iso639-1>
+    <iso639-2-t>gla</iso639-2-t>
+    <iso639-2-b>gla</iso639-2-b>
+    <names>
+      <name><languageId>de</languageId><name>Schottisches Gälisch</name></name>
+      <name><languageId>en</languageId><name>Scottish Gaelic</name></name>
+      <name><languageId>gd</languageId><name>Gàidhlig</name></name>
+    </names>
+    <locales>
+      <locale><localeId>gd_GB.UTF-8</localeId><rank>1000</rank></locale>
+    </locales>
+    <countries>
+      <country><countryId>GB</countryId><rank>1000</rank></country>
+    </countries>
+    <keyboards>
+      <keyboard><keyboardId>gb</keyboardId><rank>1000</rank></keyboard>
+    </keyboards>
+    <timezones>
+      <timezone><timezoneId>Europe/London</timezoneId><rank>1000</rank></timezone>
+    </timezones>
+  </language>
+  <language>
     <languageId>gl</languageId>
     <iso639-1>gl</iso639-1>
     <iso639-2-t>glg</iso639-2-t>
@@ -660,6 +706,29 @@
     </keyboards>
     <timezones>
       <timezone><timezoneId>Asia/Kolkata</timezoneId><rank>1000</rank></timezone>
+    </timezones>
+  </language>
+  <language>
+    <languageId>gv</languageId>
+    <iso639-1>gv</iso639-1>
+    <iso639-2-t>glv</iso639-2-t>
+    <iso639-2-b>glv</iso639-2-b>
+    <names>
+      <name><languageId>de</languageId><name>Manx</name></name>
+      <name><languageId>en</languageId><name>Manx</name></name>
+      <name><languageId>gv</languageId><name>Gaelg</name></name>
+    </names>
+    <locales>
+      <locale><localeId>gv_GB.UTF-8</localeId><rank>1000</rank></locale>
+    </locales>
+    <countries>
+      <country><countryId>GB</countryId><rank>1000</rank></country>
+    </countries>
+    <keyboards>
+      <keyboard><keyboardId>gb</keyboardId><rank>1000</rank></keyboard>
+    </keyboards>
+    <timezones>
+      <timezone><timezoneId>Europe/London</timezoneId><rank>1000</rank></timezone>
     </timezones>
   </language>
   <language>
@@ -870,6 +939,29 @@
     </keyboards>
     <timezones>
       <timezone><timezoneId>Asia/Seoul</timezoneId><rank>1000</rank></timezone>
+    </timezones>
+  </language>
+  <language>
+    <languageId>kw</languageId>
+    <iso639-1>kw</iso639-1>
+    <iso639-2-t>cor</iso639-2-t>
+    <iso639-2-b>cor</iso639-2-b>
+    <names>
+      <name><languageId>de</languageId><name>Kornisch</name></name>
+      <name><languageId>en</languageId><name>Cornish</name></name>
+      <name><languageId>kw</languageId><name>kernewek</name></name>
+    </names>
+    <locales>
+      <locale><localeId>kw_GB.UTF-8</localeId><rank>1000</rank></locale>
+    </locales>
+    <countries>
+      <country><countryId>GB</countryId><rank>1000</rank></country>
+    </countries>
+    <keyboards>
+      <keyboard><keyboardId>gb</keyboardId><rank>1000</rank></keyboard>
+    </keyboards>
+    <timezones>
+      <timezone><timezoneId>Europe/London</timezoneId><rank>1000</rank></timezone>
     </timezones>
   </language>
   <language>

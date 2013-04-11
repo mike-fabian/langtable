@@ -446,6 +446,34 @@
     </timezones>
   </country>
   <country>
+    <countryId>GB</countryId>
+    <names>
+      <name><languageId>cy</languageId><name>Prydain Fawr</name></name>
+      <name><languageId>de</languageId><name>Vereinigtes Königreich</name></name>
+      <name><languageId>en</languageId><name>United Kingdom</name></name>
+    </names>
+    <locales>
+      <locale><localeId>en_GB.UTF-8</localeId><rank>900</rank></locale>
+      <locale><localeId>cy_GB.UTF-8</localeId><rank>20</rank></locale>
+      <locale><localeId>gd_GB.UTF-8</localeId><rank>15</rank></locale>
+      <locale><localeId>kw_GB.UTF-8</localeId><rank>10</rank></locale>
+      <locale><localeId>gv_GB.UTF-8</localeId><rank>1</rank></locale>
+    </locales>
+    <languages>
+      <language><languageId>en</languageId><rank>900</rank></language>
+      <language><languageId>cy</languageId><rank>20</rank></language>
+      <language><languageId>gd</languageId><rank>15</rank></language>
+      <language><languageId>kw</languageId><rank>10</rank></language>
+      <language><languageId>gv</languageId><rank>1</rank></language>
+    </languages>
+    <keyboards>
+      <keyboard><keyboardId>gb</keyboardId><rank>1000</rank></keyboard>
+    </keyboards>
+    <timezones>
+      <timezone><timezoneId>Europe/London</timezoneId><rank>1000</rank></timezone>
+    </timezones>
+  </country>
+  <country>
     <countryId>GR</countryId>
     <names>
       <name><languageId>de</languageId><name>Griechenland</name></name>
