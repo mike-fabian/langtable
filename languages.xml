@@ -942,6 +942,29 @@
     </timezones>
   </language>
   <language>
+    <languageId>ku</languageId>
+    <iso639-1>ku</iso639-1>
+    <iso639-2-t>kur</iso639-2-t>
+    <iso639-2-b>kur</iso639-2-b>
+    <names>
+      <name><languageId>de</languageId><name>Kurdisch</name></name>
+      <name><languageId>en</languageId><name>Kurdish</name></name>
+      <name><languageId>ku</languageId><name>Kurdî</name></name>
+    </names>
+    <locales>
+      <locale><localeId>ku_TR.UTF-8</localeId><rank>1000</rank></locale>
+    </locales>
+    <countries>
+      <country><countryId>TR</countryId><rank>1000</rank></country>
+    </countries>
+    <keyboards>
+      <keyboard><keyboardId>tr(ku)</keyboardId><rank>1000</rank></keyboard>
+    </keyboards>
+    <timezones>
+      <timezone><timezoneId>Europe/Istanbul</timezoneId><rank>1000</rank></timezone>
+    </timezones>
+  </language>
+  <language>
     <languageId>kw</languageId>
     <iso639-1>kw</iso639-1>
     <iso639-2-t>cor</iso639-2-t>
@@ -1422,6 +1445,89 @@
     </timezones>
   </language>
   <language>
+    <languageId>sr</languageId>
+    <iso639-1>sr</iso639-1>
+    <iso639-2-t>srp</iso639-2-t>
+    <iso639-2-b>srp</iso639-2-b>
+    <names>
+      <name><languageId>de</languageId><name>Serbisch</name></name>
+      <name><languageId>en</languageId><name>Serbian</name></name>
+      <name><languageId>sr</languageId><name>Српски</name></name>
+      <name><languageId>sr_Latn</languageId><name>Srpski</name></name>
+    </names>
+    <locales>
+      <locale><localeId>sr_RS.UTF-8</localeId><rank>600</rank></locale>
+      <locale><localeId>sr_RS.UTF-8@latin</localeId><rank>300</rank></locale>
+      <locale><localeId>sr_ME.UTF-8</localeId><rank>100</rank></locale>
+    </locales>
+    <countries>
+      <country><countryId>RS</countryId><rank>900</rank></country>
+      <country><countryId>ME</countryId><rank>100</rank></country>
+    </countries>
+    <keyboards>
+      <keyboard><keyboardId>sr</keyboardId><rank>600</rank></keyboard>
+      <keyboard><keyboardId>sr(latin)</keyboardId><rank>300</rank></keyboard>
+    </keyboards>
+    <timezones>
+      <timezone><timezoneId>Europe/Belgrade</timezoneId><rank>900</rank></timezone>
+      <timezone><timezoneId>Europe/Podgorica</timezoneId><rank>100</rank></timezone>
+    </timezones>
+  </language>
+  <language>
+    <languageId>sr_Cyrl</languageId>
+    <iso639-1>sr</iso639-1>
+    <iso639-2-t>srp</iso639-2-t>
+    <iso639-2-b>srp</iso639-2-b>
+    <names>
+      <name><languageId>de</languageId><name>Serbisch</name></name>
+      <name><languageId>en</languageId><name>Serbian</name></name>
+      <name><languageId>sr</languageId><name>Српски</name></name>
+      <name><languageId>sr_Latn</languageId><name>Srpski</name></name>
+    </names>
+    <locales>
+      <locale><localeId>sr_RS.UTF-8</localeId><rank>600</rank></locale>
+      <locale><localeId>sr_ME.UTF-8</localeId><rank>100</rank></locale>
+    </locales>
+    <countries>
+      <country><countryId>RS</countryId><rank>900</rank></country>
+      <country><countryId>ME</countryId><rank>100</rank></country>
+    </countries>
+    <keyboards>
+      <keyboard><keyboardId>sr</keyboardId><rank>1000</rank></keyboard>
+    </keyboards>
+    <timezones>
+      <timezone><timezoneId>Europe/Belgrade</timezoneId><rank>900</rank></timezone>
+      <timezone><timezoneId>Europe/Podgorica</timezoneId><rank>100</rank></timezone>
+    </timezones>
+  </language>
+  <language>
+    <languageId>sr_Latn</languageId>
+    <iso639-1>sr</iso639-1>
+    <iso639-2-t>srp</iso639-2-t>
+    <iso639-2-b>srp</iso639-2-b>
+    <names>
+      <name><languageId>de</languageId><name>Serbisch</name></name>
+      <name><languageId>en</languageId><name>Serbian</name></name>
+      <name><languageId>sr</languageId><name>Српски</name></name>
+      <name><languageId>sr_Latn</languageId><name>Srpski</name></name>
+    </names>
+    <locales>
+      <locale><localeId>sr_RS.UTF-8@latin</localeId><rank>1000</rank></locale>
+      <locale><localeId>sr_ME.UTF-8@latin</localeId><rank>0</rank></locale>
+    </locales>
+    <countries>
+      <country><countryId>RS</countryId><rank>900</rank></country>
+      <country><countryId>ME</countryId><rank>100</rank></country>
+    </countries>
+    <keyboards>
+      <keyboard><keyboardId>sr(latin)</keyboardId><rank>300</rank></keyboard>
+    </keyboards>
+    <timezones>
+      <timezone><timezoneId>Europe/Belgrade</timezoneId><rank>900</rank></timezone>
+      <timezone><timezoneId>Europe/Podgorica</timezoneId><rank>100</rank></timezone>
+    </timezones>
+  </language>
+  <language>
     <languageId>sv</languageId>
     <iso639-1>sv</iso639-1>
     <iso639-2-t>swe</iso639-2-t>
@@ -1501,6 +1607,31 @@
     </timezones>
   </language>
   <language>
+    <languageId>tr</languageId>
+    <iso639-1>tr</iso639-1>
+    <iso639-2-t>tur</iso639-2-t>
+    <iso639-2-b>tur</iso639-2-b>
+    <names>
+      <name><languageId>de</languageId><name>Türkisch</name></name>
+      <name><languageId>en</languageId><name>Turkish</name></name>
+      <name><languageId>tr</languageId><name>Türkçe</name></name>
+    </names>
+    <locales>
+      <locale><localeId>tr_TR.UTF-8</localeId><rank>900</rank></locale>
+      <locale><localeId>tr_CY.UTF-8</localeId><rank>100</rank></locale>
+    </locales>
+    <countries>
+      <country><countryId>CY</countryId><rank>900</rank></country>
+      <country><countryId>TR</countryId><rank>900</rank></country>
+    </countries>
+    <keyboards>
+      <keyboard><keyboardId>tr</keyboardId><rank>1000</rank></keyboard>
+    </keyboards>
+    <timezones>
+      <timezone><timezoneId>Europe/Istanbul</timezoneId><rank>1000</rank></timezone>
+    </timezones>
+  </language>
+  <language>
     <languageId>uk</languageId>
     <iso639-1>uk</iso639-1>
     <iso639-2-t>ukr</iso639-2-t>
@@ -1524,6 +1655,29 @@
       <timezone><timezoneId>Europe/Simferopol</timezoneId><rank>1</rank></timezone>
       <timezone><timezoneId>Europe/Zaporozhye</timezoneId><rank>1</rank></timezone>
       <timezone><timezoneId>Europe/Uzhgorod</timezoneId><rank>1</rank></timezone>
+    </timezones>
+  </language>
+  <language>
+    <languageId>vi</languageId>
+    <iso639-1>vi</iso639-1>
+    <iso639-2-t>vie</iso639-2-t>
+    <iso639-2-b>vie</iso639-2-b>
+    <names>
+      <name><languageId>de</languageId><name>Vietnamesisch</name></name>
+      <name><languageId>en</languageId><name>Vietnamese</name></name>
+      <name><languageId>vi</languageId><name>Tiếng Việt</name></name>
+    </names>
+    <locales>
+      <locale><localeId>vi_VN.UTF-8</localeId><rank>1000</rank></locale>
+    </locales>
+    <countries>
+      <country><countryId>VN</countryId><rank>1000</rank></country>
+    </countries>
+    <keyboards>
+      <keyboard><keyboardId>vn</keyboardId><rank>1000</rank></keyboard>
+    </keyboards>
+    <timezones>
+      <timezone><timezoneId>Asia/Ho_Chi_Minh</timezoneId><rank>1000</rank></timezone>
     </timezones>
   </language>
   <language>
@@ -1729,6 +1883,29 @@
     </keyboards>
     <timezones>
       <timezone><timezoneId>Asia/Taipei</timezoneId><rank>20</rank></timezone>
+    </timezones>
+  </language>
+  <language>
+    <languageId>zu</languageId>
+    <iso639-1>zu</iso639-1>
+    <iso639-2-t>zul</iso639-2-t>
+    <iso639-2-b>zul</iso639-2-b>
+    <names>
+      <name><languageId>de</languageId><name>Zulu</name></name>
+      <name><languageId>en</languageId><name>Zulu</name></name>
+      <name><languageId>zu</languageId><name>isiZulu</name></name>
+    </names>
+    <locales>
+      <locale><localeId>zu_ZA.UTF-8</localeId><rank>1000</rank></locale>
+    </locales>
+    <countries>
+      <country><countryId>ZA</countryId><rank>1000</rank></country>
+    </countries>
+    <keyboards>
+      <keyboard><keyboardId>us</keyboardId><rank>1000</rank></keyboard>
+    </keyboards>
+    <timezones>
+      <timezone><timezoneId>Africa/Johannesburg</timezoneId><rank>1000</rank></timezone>
     </timezones>
   </language>
 </languages>

@@ -249,6 +249,24 @@
     </languages>
   </keyboard>
   <keyboard>
+    <keyboardId>rs</keyboardId>
+    <description>Serbian (Cyrillic)</description>
+    <ascii>False</ascii>
+    <languages>
+      <language><languageId>sr_Cyrl</languageId><rank>600</rank></language>
+      <language><languageId>sr</languageId><rank>400</rank></language>
+    </languages>
+  </keyboard>
+  <keyboard>
+    <keyboardId>rs(latin)</keyboardId>
+    <description>Serbian (Latin)</description>
+    <ascii>True</ascii>
+    <languages>
+      <language><languageId>sr_Latn</languageId><rank>600</rank></language>
+      <language><languageId>sr</languageId><rank>400</rank></language>
+    </languages>
+  </keyboard>
+  <keyboard>
     <keyboardId>ru</keyboardId>
     <description>Russian</description>
     <ascii>False</ascii>
@@ -289,6 +307,22 @@
     </languages>
   </keyboard>
   <keyboard>
+    <keyboardId>tr</keyboardId>
+    <description>Turkish</description>
+    <ascii>True</ascii>
+    <languages>
+      <language><languageId>tr</languageId><rank>1000</rank></language>
+    </languages>
+  </keyboard>
+  <keyboard>
+    <keyboardId>tr(ku)</keyboardId>
+    <description>Kurdish (Turkey, Latin Q)</description>
+    <ascii>True</ascii>
+    <languages>
+      <language><languageId>ku</languageId><rank>1000</rank></language>
+    </languages>
+  </keyboard>
+  <keyboard>
     <keyboardId>ua</keyboardId>
     <description>Ukrainian</description>
     <ascii>False</ascii>
@@ -322,6 +356,14 @@
     <languages>
       <language><languageId>nl</languageId><rank>95</rank></language>
       <language><languageId>en</languageId><rank>10</rank></language>
+    </languages>
+  </keyboard>
+  <keyboard>
+    <keyboardId>vn</keyboardId>
+    <description>Vietnamese</description>
+    <ascii>True</ascii>
+    <languages>
+      <language><languageId>vi</languageId><rank>1000</rank></language>
     </languages>
   </keyboard>
 </keyboards>
