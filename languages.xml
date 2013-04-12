@@ -227,6 +227,29 @@
     </timezones>
   </language>
   <language>
+    <languageId>bs</languageId>
+    <iso639-1>bs</iso639-1>
+    <iso639-2-t>bos</iso639-2-t>
+    <iso639-2-b>bos</iso639-2-b>
+    <names>
+      <name><languageId>bs</languageId><name>bosanski</name></name>
+      <name><languageId>de</languageId><name>Bosnisch</name></name>
+      <name><languageId>en</languageId><name>Bosnian</name></name>
+    </names>
+    <locales>
+      <locale><localeId>bs_BA.UTF-8</localeId><rank>1000</rank></locale>
+    </locales>
+    <countries>
+      <country><countryId>BA</countryId><rank>700</rank></country>
+    </countries>
+    <keyboards>
+      <keyboard><keyboardId>ba</keyboardId><rank>1000</rank></keyboard>
+    </keyboards>
+    <timezones>
+      <timezone><timezoneId>Europe/Sarajevo</timezoneId><rank>1000</rank></timezone>
+    </timezones>
+  </language>
+  <language>
     <languageId>ca</languageId>
     <iso639-1>ca</iso639-1>
     <iso639-2-t>cat</iso639-2-t>

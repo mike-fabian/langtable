@@ -60,6 +60,14 @@
     </languages>
   </keyboard>
   <keyboard>
+    <keyboardId>ba</keyboardId>
+    <description>Bosnian</description>
+    <ascii>True</ascii>
+    <languages>
+      <language><languageId>bs</languageId><rank>1000</rank></language>
+    </languages>
+  </keyboard>
+  <keyboard>
     <keyboardId>be</keyboardId>
     <description>Belgian</description>
     <ascii>True</ascii>

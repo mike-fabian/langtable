@@ -335,6 +335,30 @@
     </timezones>
   </country>
   <country>
+    <countryId>BA</countryId>
+    <names>
+      <name><languageId>bs</languageId><name>Bosna i Hercegovina</name></name>
+      <name><languageId>de</languageId><name>Bosnien und Herzegowina</name></name>
+      <name><languageId>en</languageId><name>Bosnia and Herzegovina</name></name>
+      <name><languageId>hr</languageId><name>Bosna i Hercegovina</name></name>
+      <name><languageId>sr</languageId><name>Босна и Херцеговина</name></name>
+    </names>
+    <locales>
+      <locale><localeId>bs_BA.UTF-8</localeId><rank>1000</rank></locale>
+    </locales>
+    <languages>
+      <language><languageId>bs</languageId><rank>500</rank></language>
+      <language><languageId>sr</languageId><rank>400</rank></language>
+      <language><languageId>hr</languageId><rank>150</rank></language>
+    </languages>
+    <keyboards>
+      <keyboard><keyboardId>ba</keyboardId><rank>1000</rank></keyboard>
+    </keyboards>
+    <timezones>
+      <timezone><timezoneId>Europe/Sarajevo</timezoneId><rank>1000</rank></timezone>
+    </timezones>
+  </country>
+  <country>
     <countryId>BD</countryId>
     <names>
       <name><languageId>de</languageId><name>Bangladesh</name></name>
