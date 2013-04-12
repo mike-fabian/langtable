@@ -1513,6 +1513,24 @@
     </timezones>
   </country>
   <country>
+    <countryId>LT</countryId>
+    <names>
+      <name><languageId>en</languageId><name>Lithuania</name></name>
+    </names>
+    <locales>
+      <locale><localeId>lt_LT.UTF-8</localeId><rank>1000</rank></locale>
+    </locales>
+    <languages>
+      <language><languageId>lt</languageId><rank>1000</rank></language>
+    </languages>
+    <keyboards>
+      <keyboard><keyboardId>lt</keyboardId><rank>1000</rank></keyboard>
+    </keyboards>
+    <timezones>
+      <timezone><timezoneId>Europe/Vilnius</timezoneId><rank>1000</rank></timezone>
+    </timezones>
+  </country>
+  <country>
     <countryId>LY</countryId>
     <names>
       <name><languageId>de</languageId><name>Libyen</name></name>

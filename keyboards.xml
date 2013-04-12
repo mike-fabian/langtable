@@ -342,6 +342,14 @@
     </languages>
   </keyboard>
   <keyboard>
+    <keyboardId>lt</keyboardId>
+    <description>Lithuanian</description>
+    <ascii>True</ascii>
+    <languages>
+      <language><languageId>lt</languageId><rank>1000</rank></language>
+    </languages>
+  </keyboard>
+  <keyboard>
     <keyboardId>mk</keyboardId>
     <description>Macedonian</description>
     <ascii>False</ascii>
