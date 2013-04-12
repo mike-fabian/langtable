@@ -778,6 +778,31 @@
     </timezones>
   </language>
   <language>
+    <languageId>ht</languageId>
+    <iso639-1>ht</iso639-1>
+    <iso639-2-t>hat</iso639-2-t>
+    <iso639-2-b>hat</iso639-2-b>
+    <names>
+      <name><languageId>de</languageId><name>Haitianisch</name></name>
+      <name><languageId>en</languageId><name>Haitian</name></name>
+      <name><languageId>es</languageId><name>haitiano</name></name>
+      <name><languageId>fr</languageId><name>haïtien</name></name>
+      <name><languageId>ht</languageId><name>Kreyòl ayisyen</name></name>
+    </names>
+    <locales>
+      <locale><localeId>ht_HT.UTF-8</localeId><rank>1000</rank></locale>
+    </locales>
+    <countries>
+      <country><countryId>HT</countryId><rank>1000</rank></country>
+    </countries>
+    <keyboards>
+      <keyboard><keyboardId>latam</keyboardId><rank>1000</rank></keyboard>
+    </keyboards>
+    <timezones>
+      <timezone><timezoneId>America/Port-au-Prince</timezoneId><rank>1000</rank></timezone>
+    </timezones>
+  </language>
+  <language>
     <languageId>hu</languageId>
     <iso639-1>hu</iso639-1>
     <iso639-2-t>hun</iso639-2-t>
@@ -1368,15 +1393,15 @@
       <timezone><timezoneId>Atlantic/Azores</timezoneId><rank>100</rank></timezone>
       <timezone><timezoneId>Atlantic/Madeira</timezoneId><rank>100</rank></timezone>
       <timezone><timezoneId>America/Boa_Vista</timezoneId><rank>1</rank></timezone>
+      <timezone><timezoneId>America/Campo_Grande</timezoneId><rank>1</rank></timezone>
       <timezone><timezoneId>America/Araguaina</timezoneId><rank>1</rank></timezone>
       <timezone><timezoneId>America/Belem</timezoneId><rank>1</rank></timezone>
       <timezone><timezoneId>America/Porto_Velho</timezoneId><rank>1</rank></timezone>
       <timezone><timezoneId>America/Maceio</timezoneId><rank>1</rank></timezone>
       <timezone><timezoneId>America/Eirunepe</timezoneId><rank>1</rank></timezone>
       <timezone><timezoneId>America/Rio_Branco</timezoneId><rank>1</rank></timezone>
-      <timezone><timezoneId>America/Recife</timezoneId><rank>1</rank></timezone>
       <timezone><timezoneId>America/Santarem</timezoneId><rank>1</rank></timezone>
-      <timezone><timezoneId>America/Campo_Grande</timezoneId><rank>1</rank></timezone>
+      <timezone><timezoneId>America/Recife</timezoneId><rank>1</rank></timezone>
     </timezones>
   </language>
   <language>

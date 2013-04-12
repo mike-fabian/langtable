@@ -62,6 +62,37 @@
     </timezones>
   </country>
   <country>
+    <countryId>AR</countryId>
+    <names>
+      <name><languageId>de</languageId><name>Argentinien</name></name>
+      <name><languageId>en</languageId><name>Argentina</name></name>
+      <name><languageId>es</languageId><name>Argentina</name></name>
+    </names>
+    <locales>
+      <locale><localeId>es_AR.UTF-8</localeId><rank>1000</rank></locale>
+    </locales>
+    <languages>
+      <language><languageId>es</languageId><rank>1000</rank></language>
+    </languages>
+    <keyboards>
+      <keyboard><keyboardId>latam</keyboardId><rank>1000</rank></keyboard>
+    </keyboards>
+    <timezones>
+      <timezone><timezoneId>America/Argentina/Buenos_Aires</timezoneId><rank>1000</rank></timezone>
+      <timezone><timezoneId>America/Argentina/Salta</timezoneId><rank>1</rank></timezone>
+      <timezone><timezoneId>America/Argentina/Mendoza</timezoneId><rank>1</rank></timezone>
+      <timezone><timezoneId>America/Argentina/Rio_Gallegos</timezoneId><rank>1</rank></timezone>
+      <timezone><timezoneId>America/Argentina/San_Luis</timezoneId><rank>1</rank></timezone>
+      <timezone><timezoneId>America/Argentina/Tucuman</timezoneId><rank>1</rank></timezone>
+      <timezone><timezoneId>America/Argentina/Ushuaia</timezoneId><rank>1</rank></timezone>
+      <timezone><timezoneId>America/Argentina/San_Juan</timezoneId><rank>1</rank></timezone>
+      <timezone><timezoneId>America/Argentina/Catamarca</timezoneId><rank>1</rank></timezone>
+      <timezone><timezoneId>America/Argentina/Jujuy</timezoneId><rank>1</rank></timezone>
+      <timezone><timezoneId>America/Argentina/Cordoba</timezoneId><rank>1</rank></timezone>
+      <timezone><timezoneId>America/Argentina/La_Rioja</timezoneId><rank>1</rank></timezone>
+    </timezones>
+  </country>
+  <country>
     <countryId>AT</countryId>
     <names>
       <name><languageId>de</languageId><name>Österreich</name></name>
@@ -148,6 +179,26 @@
     </timezones>
   </country>
   <country>
+    <countryId>BO</countryId>
+    <names>
+      <name><languageId>de</languageId><name>Bolivien</name></name>
+      <name><languageId>en</languageId><name>Bolivia</name></name>
+      <name><languageId>es</languageId><name>Bolivia</name></name>
+    </names>
+    <locales>
+      <locale><localeId>es_BO.UTF-8</localeId><rank>1000</rank></locale>
+    </locales>
+    <languages>
+      <language><languageId>es</languageId><rank>1000</rank></language>
+    </languages>
+    <keyboards>
+      <keyboard><keyboardId>latam</keyboardId><rank>1000</rank></keyboard>
+    </keyboards>
+    <timezones>
+      <timezone><timezoneId>America/La_Paz</timezoneId><rank>1000</rank></timezone>
+    </timezones>
+  </country>
+  <country>
     <countryId>BR</countryId>
     <names>
       <name><languageId>de</languageId><name>Brasilien</name></name>
@@ -171,15 +222,15 @@
       <timezone><timezoneId>America/Noronha</timezoneId><rank>1000</rank></timezone>
       <timezone><timezoneId>America/Sao_Paulo</timezoneId><rank>1000</rank></timezone>
       <timezone><timezoneId>America/Boa_Vista</timezoneId><rank>1</rank></timezone>
+      <timezone><timezoneId>America/Campo_Grande</timezoneId><rank>1</rank></timezone>
       <timezone><timezoneId>America/Araguaina</timezoneId><rank>1</rank></timezone>
       <timezone><timezoneId>America/Belem</timezoneId><rank>1</rank></timezone>
       <timezone><timezoneId>America/Porto_Velho</timezoneId><rank>1</rank></timezone>
       <timezone><timezoneId>America/Maceio</timezoneId><rank>1</rank></timezone>
       <timezone><timezoneId>America/Eirunepe</timezoneId><rank>1</rank></timezone>
       <timezone><timezoneId>America/Rio_Branco</timezoneId><rank>1</rank></timezone>
-      <timezone><timezoneId>America/Recife</timezoneId><rank>1</rank></timezone>
       <timezone><timezoneId>America/Santarem</timezoneId><rank>1</rank></timezone>
-      <timezone><timezoneId>America/Campo_Grande</timezoneId><rank>1</rank></timezone>
+      <timezone><timezoneId>America/Recife</timezoneId><rank>1</rank></timezone>
     </timezones>
   </country>
   <country>
@@ -235,6 +286,27 @@
     </timezones>
   </country>
   <country>
+    <countryId>CL</countryId>
+    <names>
+      <name><languageId>de</languageId><name>Chile</name></name>
+      <name><languageId>en</languageId><name>Chile</name></name>
+      <name><languageId>es</languageId><name>Chile</name></name>
+    </names>
+    <locales>
+      <locale><localeId>es_CL.UTF-8</localeId><rank>1000</rank></locale>
+    </locales>
+    <languages>
+      <language><languageId>es</languageId><rank>1000</rank></language>
+    </languages>
+    <keyboards>
+      <keyboard><keyboardId>latam</keyboardId><rank>1000</rank></keyboard>
+    </keyboards>
+    <timezones>
+      <timezone><timezoneId>America/Santiago</timezoneId><rank>990</rank></timezone>
+      <timezone><timezoneId>Pacific/Easter</timezoneId><rank>10</rank></timezone>
+    </timezones>
+  </country>
+  <country>
     <countryId>CN</countryId>
     <names>
       <name><languageId>de</languageId><name>China</name></name>
@@ -253,6 +325,66 @@
     </keyboards>
     <timezones>
       <timezone><timezoneId>Asia/Shanghai</timezoneId><rank>1000</rank></timezone>
+    </timezones>
+  </country>
+  <country>
+    <countryId>CO</countryId>
+    <names>
+      <name><languageId>de</languageId><name>Kolumbien</name></name>
+      <name><languageId>en</languageId><name>Colombia</name></name>
+      <name><languageId>es</languageId><name>Colombia</name></name>
+    </names>
+    <locales>
+      <locale><localeId>es_CO.UTF-8</localeId><rank>1000</rank></locale>
+    </locales>
+    <languages>
+      <language><languageId>es</languageId><rank>1000</rank></language>
+    </languages>
+    <keyboards>
+      <keyboard><keyboardId>latam</keyboardId><rank>1000</rank></keyboard>
+    </keyboards>
+    <timezones>
+      <timezone><timezoneId>America/Bogota</timezoneId><rank>1000</rank></timezone>
+    </timezones>
+  </country>
+  <country>
+    <countryId>CR</countryId>
+    <names>
+      <name><languageId>de</languageId><name>Costa Rica</name></name>
+      <name><languageId>en</languageId><name>Costa Rica</name></name>
+      <name><languageId>es</languageId><name>Costa Rica</name></name>
+    </names>
+    <locales>
+      <locale><localeId>es_CR.UTF-8</localeId><rank>1000</rank></locale>
+    </locales>
+    <languages>
+      <language><languageId>es</languageId><rank>1000</rank></language>
+    </languages>
+    <keyboards>
+      <keyboard><keyboardId>latam</keyboardId><rank>1000</rank></keyboard>
+    </keyboards>
+    <timezones>
+      <timezone><timezoneId>America/Costa_Rica</timezoneId><rank>1000</rank></timezone>
+    </timezones>
+  </country>
+  <country>
+    <countryId>CU</countryId>
+    <names>
+      <name><languageId>de</languageId><name>Cuba</name></name>
+      <name><languageId>en</languageId><name>Kuba</name></name>
+      <name><languageId>es</languageId><name>Cuba</name></name>
+    </names>
+    <locales>
+      <locale><localeId>es_CU.UTF-8</localeId><rank>1000</rank></locale>
+    </locales>
+    <languages>
+      <language><languageId>es</languageId><rank>1000</rank></language>
+    </languages>
+    <keyboards>
+      <keyboard><keyboardId>latam</keyboardId><rank>1000</rank></keyboard>
+    </keyboards>
+    <timezones>
+      <timezone><timezoneId>America/Havana</timezoneId><rank>1000</rank></timezone>
     </timezones>
   </country>
   <country>
@@ -344,6 +476,26 @@
     </timezones>
   </country>
   <country>
+    <countryId>DO</countryId>
+    <names>
+      <name><languageId>de</languageId><name>Dominican Republic</name></name>
+      <name><languageId>en</languageId><name>Dominikanische Republik</name></name>
+      <name><languageId>es</languageId><name>República Dominicana</name></name>
+    </names>
+    <locales>
+      <locale><localeId>es_DO.UTF-8</localeId><rank>1000</rank></locale>
+    </locales>
+    <languages>
+      <language><languageId>es</languageId><rank>1000</rank></language>
+    </languages>
+    <keyboards>
+      <keyboard><keyboardId>latam</keyboardId><rank>1000</rank></keyboard>
+    </keyboards>
+    <timezones>
+      <timezone><timezoneId>America/Santo_Domingo</timezoneId><rank>1000</rank></timezone>
+    </timezones>
+  </country>
+  <country>
     <countryId>DZ</countryId>
     <names>
       <name><languageId>de</languageId><name>Algerien</name></name>
@@ -360,6 +512,27 @@
     </keyboards>
     <timezones>
       <timezone><timezoneId>Africa/Algiers</timezoneId><rank>1000</rank></timezone>
+    </timezones>
+  </country>
+  <country>
+    <countryId>EC</countryId>
+    <names>
+      <name><languageId>de</languageId><name>Ecuador</name></name>
+      <name><languageId>en</languageId><name>Ecuador</name></name>
+      <name><languageId>es</languageId><name>Ecuador</name></name>
+    </names>
+    <locales>
+      <locale><localeId>es_EC.UTF-8</localeId><rank>1000</rank></locale>
+    </locales>
+    <languages>
+      <language><languageId>es</languageId><rank>1000</rank></language>
+    </languages>
+    <keyboards>
+      <keyboard><keyboardId>latam</keyboardId><rank>1000</rank></keyboard>
+    </keyboards>
+    <timezones>
+      <timezone><timezoneId>America/Guayaquil</timezoneId><rank>990</rank></timezone>
+      <timezone><timezoneId>America/Galapagos</timezoneId><rank>10</rank></timezone>
     </timezones>
   </country>
   <country>
@@ -529,6 +702,26 @@
     </timezones>
   </country>
   <country>
+    <countryId>GT</countryId>
+    <names>
+      <name><languageId>de</languageId><name>Guatemala</name></name>
+      <name><languageId>en</languageId><name>Guatemala</name></name>
+      <name><languageId>es</languageId><name>Guatemala</name></name>
+    </names>
+    <locales>
+      <locale><localeId>es_GT.UTF-8</localeId><rank>1000</rank></locale>
+    </locales>
+    <languages>
+      <language><languageId>es</languageId><rank>1000</rank></language>
+    </languages>
+    <keyboards>
+      <keyboard><keyboardId>latam</keyboardId><rank>1000</rank></keyboard>
+    </keyboards>
+    <timezones>
+      <timezone><timezoneId>America/Guatemala</timezoneId><rank>1000</rank></timezone>
+    </timezones>
+  </country>
+  <country>
     <countryId>HK</countryId>
     <names>
       <name><languageId>de</languageId><name>Hong Kong</name></name>
@@ -550,6 +743,26 @@
     </timezones>
   </country>
   <country>
+    <countryId>HN</countryId>
+    <names>
+      <name><languageId>de</languageId><name>Honduras</name></name>
+      <name><languageId>en</languageId><name>Honduras</name></name>
+      <name><languageId>es</languageId><name>Honduras</name></name>
+    </names>
+    <locales>
+      <locale><localeId>es_HN.UTF-8</localeId><rank>1000</rank></locale>
+    </locales>
+    <languages>
+      <language><languageId>es</languageId><rank>1000</rank></language>
+    </languages>
+    <keyboards>
+      <keyboard><keyboardId>latam</keyboardId><rank>1000</rank></keyboard>
+    </keyboards>
+    <timezones>
+      <timezone><timezoneId>America/Tegucigalpa</timezoneId><rank>1000</rank></timezone>
+    </timezones>
+  </country>
+  <country>
     <countryId>HR</countryId>
     <names>
       <name><languageId>de</languageId><name>Kroatien</name></name>
@@ -567,6 +780,30 @@
     </keyboards>
     <timezones>
       <timezone><timezoneId>Europe/Zagreb</timezoneId><rank>1000</rank></timezone>
+    </timezones>
+  </country>
+  <country>
+    <countryId>HT</countryId>
+    <names>
+      <name><languageId>de</languageId><name>Haiti</name></name>
+      <name><languageId>en</languageId><name>Haiti</name></name>
+      <name><languageId>es</languageId><name>Haití</name></name>
+      <name><languageId>fr</languageId><name>Haïti</name></name>
+      <name><languageId>ht</languageId><name>Ayiti</name></name>
+    </names>
+    <locales>
+      <locale><localeId>ht_HT.UTF-8</localeId><rank>900</rank></locale>
+      <locale><localeId>fr_HT.UTF-8</localeId><rank>0</rank></locale>
+    </locales>
+    <languages>
+      <language><languageId>ht</languageId><rank>600</rank></language>
+      <language><languageId>fr</languageId><rank>400</rank></language>
+    </languages>
+    <keyboards>
+      <keyboard><keyboardId>latam</keyboardId><rank>1000</rank></keyboard>
+    </keyboards>
+    <timezones>
+      <timezone><timezoneId>America/Port-au-Prince</timezoneId><rank>1000</rank></timezone>
     </timezones>
   </country>
   <country>
@@ -971,6 +1208,37 @@
     </timezones>
   </country>
   <country>
+    <countryId>MX</countryId>
+    <names>
+      <name><languageId>de</languageId><name>Mexiko</name></name>
+      <name><languageId>en</languageId><name>Mexico</name></name>
+      <name><languageId>es</languageId><name>México</name></name>
+    </names>
+    <locales>
+      <locale><localeId>es_MX.UTF-8</localeId><rank>1000</rank></locale>
+    </locales>
+    <languages>
+      <language><languageId>es</languageId><rank>1000</rank></language>
+    </languages>
+    <keyboards>
+      <keyboard><keyboardId>latam</keyboardId><rank>1000</rank></keyboard>
+    </keyboards>
+    <timezones>
+      <timezone><timezoneId>America/Santa_Isabel</timezoneId><rank>900</rank></timezone>
+      <timezone><timezoneId>America/Chihuahua</timezoneId><rank>900</rank></timezone>
+      <timezone><timezoneId>America/Ojinaga</timezoneId><rank>900</rank></timezone>
+      <timezone><timezoneId>America/Tijuana</timezoneId><rank>900</rank></timezone>
+      <timezone><timezoneId>America/Matamoros</timezoneId><rank>900</rank></timezone>
+      <timezone><timezoneId>America/Mexico_City</timezoneId><rank>900</rank></timezone>
+      <timezone><timezoneId>America/Hermosillo</timezoneId><rank>900</rank></timezone>
+      <timezone><timezoneId>America/Merida</timezoneId><rank>1</rank></timezone>
+      <timezone><timezoneId>America/Mazatlan</timezoneId><rank>1</rank></timezone>
+      <timezone><timezoneId>America/Bahia_Banderas</timezoneId><rank>1</rank></timezone>
+      <timezone><timezoneId>America/Cancun</timezoneId><rank>1</rank></timezone>
+      <timezone><timezoneId>America/Monterrey</timezoneId><rank>1</rank></timezone>
+    </timezones>
+  </country>
+  <country>
     <countryId>MY</countryId>
     <names>
       <name><languageId>de</languageId><name>Malaysia</name></name>
@@ -989,6 +1257,26 @@
     <timezones>
       <timezone><timezoneId>Asia/Kuala_Lumpur</timezoneId><rank>800</rank></timezone>
       <timezone><timezoneId>Asia/Kuching</timezoneId><rank>200</rank></timezone>
+    </timezones>
+  </country>
+  <country>
+    <countryId>NI</countryId>
+    <names>
+      <name><languageId>de</languageId><name>Nicaragua</name></name>
+      <name><languageId>en</languageId><name>Nicaragua</name></name>
+      <name><languageId>es</languageId><name>Nicaragua</name></name>
+    </names>
+    <locales>
+      <locale><localeId>es_NI.UTF-8</localeId><rank>1000</rank></locale>
+    </locales>
+    <languages>
+      <language><languageId>es</languageId><rank>1000</rank></language>
+    </languages>
+    <keyboards>
+      <keyboard><keyboardId>latam</keyboardId><rank>1000</rank></keyboard>
+    </keyboards>
+    <timezones>
+      <timezone><timezoneId>America/Managua</timezoneId><rank>1000</rank></timezone>
     </timezones>
   </country>
   <country>
@@ -1064,6 +1352,46 @@
     </timezones>
   </country>
   <country>
+    <countryId>PA</countryId>
+    <names>
+      <name><languageId>de</languageId><name>Panama</name></name>
+      <name><languageId>en</languageId><name>Panama</name></name>
+      <name><languageId>es</languageId><name>Panamá</name></name>
+    </names>
+    <locales>
+      <locale><localeId>es_PA.UTF-8</localeId><rank>1000</rank></locale>
+    </locales>
+    <languages>
+      <language><languageId>es</languageId><rank>1000</rank></language>
+    </languages>
+    <keyboards>
+      <keyboard><keyboardId>latam</keyboardId><rank>1000</rank></keyboard>
+    </keyboards>
+    <timezones>
+      <timezone><timezoneId>America/Panama</timezoneId><rank>1000</rank></timezone>
+    </timezones>
+  </country>
+  <country>
+    <countryId>PE</countryId>
+    <names>
+      <name><languageId>de</languageId><name>Peru</name></name>
+      <name><languageId>en</languageId><name>Peru</name></name>
+      <name><languageId>es</languageId><name>Perú</name></name>
+    </names>
+    <locales>
+      <locale><localeId>es_PE.UTF-8</localeId><rank>1000</rank></locale>
+    </locales>
+    <languages>
+      <language><languageId>es</languageId><rank>1000</rank></language>
+    </languages>
+    <keyboards>
+      <keyboard><keyboardId>latam</keyboardId><rank>1000</rank></keyboard>
+    </keyboards>
+    <timezones>
+      <timezone><timezoneId>America/Lima</timezoneId><rank>1000</rank></timezone>
+    </timezones>
+  </country>
+  <country>
     <countryId>PK</countryId>
     <names>
       <name><languageId>de</languageId><name>Pakistan</name></name>
@@ -1108,6 +1436,26 @@
     </timezones>
   </country>
   <country>
+    <countryId>PR</countryId>
+    <names>
+      <name><languageId>de</languageId><name>Puerto Rico</name></name>
+      <name><languageId>en</languageId><name>Puerto Rico</name></name>
+      <name><languageId>es</languageId><name>Puerto Rico</name></name>
+    </names>
+    <locales>
+      <locale><localeId>es_PR.UTF-8</localeId><rank>1000</rank></locale>
+    </locales>
+    <languages>
+      <language><languageId>es</languageId><rank>1000</rank></language>
+    </languages>
+    <keyboards>
+      <keyboard><keyboardId>latam</keyboardId><rank>1000</rank></keyboard>
+    </keyboards>
+    <timezones>
+      <timezone><timezoneId>America/Puerto_Rico</timezoneId><rank>1000</rank></timezone>
+    </timezones>
+  </country>
+  <country>
     <countryId>PT</countryId>
     <names>
       <name><languageId>de</languageId><name>Portugal</name></name>
@@ -1125,8 +1473,28 @@
     </keyboards>
     <timezones>
       <timezone><timezoneId>Europe/Lisbon</timezoneId><rank>900</rank></timezone>
-      <timezone><timezoneId>Atlantic/Madeira</timezoneId><rank>100</rank></timezone>
       <timezone><timezoneId>Atlantic/Azores</timezoneId><rank>100</rank></timezone>
+      <timezone><timezoneId>Atlantic/Madeira</timezoneId><rank>100</rank></timezone>
+    </timezones>
+  </country>
+  <country>
+    <countryId>PY</countryId>
+    <names>
+      <name><languageId>de</languageId><name>Paraguay</name></name>
+      <name><languageId>en</languageId><name>Paraguay</name></name>
+      <name><languageId>es</languageId><name>Paraguay</name></name>
+    </names>
+    <locales>
+      <locale><localeId>es_PY.UTF-8</localeId><rank>1000</rank></locale>
+    </locales>
+    <languages>
+      <language><languageId>es</languageId><rank>1000</rank></language>
+    </languages>
+    <keyboards>
+      <keyboard><keyboardId>latam</keyboardId><rank>1000</rank></keyboard>
+    </keyboards>
+    <timezones>
+      <timezone><timezoneId>America/Asuncion</timezoneId><rank>1000</rank></timezone>
     </timezones>
   </country>
   <country>
@@ -1315,6 +1683,26 @@
     </timezones>
   </country>
   <country>
+    <countryId>SV</countryId>
+    <names>
+      <name><languageId>de</languageId><name>El Salvador</name></name>
+      <name><languageId>en</languageId><name>El Salvador</name></name>
+      <name><languageId>es</languageId><name>El Salvador</name></name>
+    </names>
+    <locales>
+      <locale><localeId>es_SV.UTF-8</localeId><rank>1000</rank></locale>
+    </locales>
+    <languages>
+      <language><languageId>es</languageId><rank>1000</rank></language>
+    </languages>
+    <keyboards>
+      <keyboard><keyboardId>latam</keyboardId><rank>1000</rank></keyboard>
+    </keyboards>
+    <timezones>
+      <timezone><timezoneId>America/El_Salvador</timezoneId><rank>1000</rank></timezone>
+    </timezones>
+  </country>
+  <country>
     <countryId>SY</countryId>
     <names>
       <name><languageId>de</languageId><name>Syrien</name></name>
@@ -1417,6 +1805,43 @@
       <keyboard><keyboardId>ru</keyboardId><rank>100</rank></keyboard>
     </keyboards>
     <timezones>
+    </timezones>
+  </country>
+  <country>
+    <countryId>UY</countryId>
+    <names>
+      <name><languageId>de</languageId><name>Uruguay</name></name>
+      <name><languageId>en</languageId><name>Uruguay</name></name>
+      <name><languageId>es</languageId><name>Uruguay</name></name>
+    </names>
+    <locales>
+      <locale><localeId>es_UY.UTF-8</localeId><rank>1000</rank></locale>
+    </locales>
+    <languages>
+      <language><languageId>es</languageId><rank>1000</rank></language>
+    </languages>
+    <keyboards>
+      <keyboard><keyboardId>latam</keyboardId><rank>1000</rank></keyboard>
+    </keyboards>
+    <timezones>
+      <timezone><timezoneId>America/Montevideo</timezoneId><rank>1000</rank></timezone>
+    </timezones>
+  </country>
+  <country>
+    <countryId>VE</countryId>
+    <names>
+    </names>
+    <locales>
+      <locale><localeId>es_VE.UTF-8</localeId><rank>1000</rank></locale>
+    </locales>
+    <languages>
+      <language><languageId>es</languageId><rank>1000</rank></language>
+    </languages>
+    <keyboards>
+      <keyboard><keyboardId>latam</keyboardId><rank>1000</rank></keyboard>
+    </keyboards>
+    <timezones>
+      <timezone><timezoneId>America/Caracas</timezoneId><rank>1000</rank></timezone>
     </timezones>
   </country>
   <country>
