@@ -277,6 +277,28 @@
     </timezones>
   </language>
   <language>
+    <languageId>byn</languageId>
+    <iso639-1>None</iso639-1>
+    <iso639-2-t>byn</iso639-2-t>
+    <iso639-2-b>byn</iso639-2-b>
+    <names>
+      <name><languageId>en</languageId><name>Blin</name></name>
+      <name><languageId>byn</languageId><name>ብሊና</name></name>
+    </names>
+    <locales>
+      <locale><localeId>byn_ER.UTF-8</localeId><rank>1000</rank></locale>
+    </locales>
+    <countries>
+      <country><countryId>ER</countryId><rank>1000</rank></country>
+    </countries>
+    <keyboards>
+      <keyboard><keyboardId>et</keyboardId><rank>1000</rank></keyboard>
+    </keyboards>
+    <timezones>
+      <timezone><timezoneId>Africa/Asmara</timezoneId><rank>1000</rank></timezone>
+    </timezones>
+  </language>
+  <language>
     <languageId>ca</languageId>
     <iso639-1>ca</iso639-1>
     <iso639-2-t>cat</iso639-2-t>
@@ -755,6 +777,31 @@
     </keyboards>
     <timezones>
       <timezone><timezoneId>Europe/London</timezoneId><rank>1000</rank></timezone>
+    </timezones>
+  </language>
+  <language>
+    <languageId>gez</languageId>
+    <iso639-1>None</iso639-1>
+    <iso639-2-t>gez</iso639-2-t>
+    <iso639-2-b>gez</iso639-2-b>
+    <names>
+      <name><languageId>en</languageId><name>Geez</name></name>
+      <name><languageId>gez</languageId><name>ግዕዝ</name></name>
+    </names>
+    <locales>
+      <locale><localeId>gez_ET.UTF-8</localeId><rank>900</rank></locale>
+      <locale><localeId>gez_ER.UTF-8</localeId><rank>100</rank></locale>
+    </locales>
+    <countries>
+      <country><countryId>ET</countryId><rank>900</rank></country>
+      <country><countryId>ER</countryId><rank>100</rank></country>
+    </countries>
+    <keyboards>
+      <keyboard><keyboardId>et</keyboardId><rank>1000</rank></keyboard>
+    </keyboards>
+    <timezones>
+      <timezone><timezoneId>Africa/Addis_Ababa</timezoneId><rank>900</rank></timezone>
+      <timezone><timezoneId>Africa/Asmara</timezoneId><rank>100</rank></timezone>
     </timezones>
   </language>
   <language>
@@ -2015,6 +2062,53 @@
     </keyboards>
     <timezones>
       <timezone><timezoneId>Asia/Kolkata</timezoneId><rank>1000</rank></timezone>
+    </timezones>
+  </language>
+  <language>
+    <languageId>ti</languageId>
+    <iso639-1>ti</iso639-1>
+    <iso639-2-t>tir</iso639-2-t>
+    <iso639-2-b>tir</iso639-2-b>
+    <names>
+      <name><languageId>en</languageId><name>Tigrinya</name></name>
+      <name><languageId>ti</languageId><name>ትግርኛ</name></name>
+    </names>
+    <locales>
+      <locale><localeId>ti_ER.UTF-8</localeId><rank>600</rank></locale>
+      <locale><localeId>ti_ET.UTF-8</localeId><rank>400</rank></locale>
+    </locales>
+    <countries>
+      <country><countryId>ER</countryId><rank>600</rank></country>
+      <country><countryId>ET</countryId><rank>400</rank></country>
+    </countries>
+    <keyboards>
+      <keyboard><keyboardId>et</keyboardId><rank>1000</rank></keyboard>
+    </keyboards>
+    <timezones>
+      <timezone><timezoneId>Africa/Asmara</timezoneId><rank>600</rank></timezone>
+      <timezone><timezoneId>Africa/Addis_Ababa</timezoneId><rank>400</rank></timezone>
+    </timezones>
+  </language>
+  <language>
+    <languageId>tig</languageId>
+    <iso639-1>None</iso639-1>
+    <iso639-2-t>tig</iso639-2-t>
+    <iso639-2-b>tig</iso639-2-b>
+    <names>
+      <name><languageId>en</languageId><name>Tigre</name></name>
+      <name><languageId>tig</languageId><name>ትግረ</name></name>
+    </names>
+    <locales>
+      <locale><localeId>tig_ER.UTF-8</localeId><rank>1000</rank></locale>
+    </locales>
+    <countries>
+      <country><countryId>ER</countryId><rank>1000</rank></country>
+    </countries>
+    <keyboards>
+      <keyboard><keyboardId>et</keyboardId><rank>1000</rank></keyboard>
+    </keyboards>
+    <timezones>
+      <timezone><timezoneId>Africa/Asmara</timezoneId><rank>1000</rank></timezone>
     </timezones>
   </language>
   <language>

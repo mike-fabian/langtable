@@ -228,6 +228,18 @@
     </languages>
   </keyboard>
   <keyboard>
+    <keyboardId>et</keyboardId>
+    <description>Amharic</description>
+    <ascii>False</ascii>
+    <languages>
+      <language><languageId>ti</languageId><rank>700</rank></language>
+      <language><languageId>tig</languageId><rank>100</rank></language>
+      <language><languageId>aa</languageId><rank>80</rank></language>
+      <language><languageId>byn</languageId><rank>50</rank></language>
+      <language><languageId>gez</languageId><rank>1</rank></language>
+    </languages>
+  </keyboard>
+  <keyboard>
     <keyboardId>fi</keyboardId>
     <description>Finnish</description>
     <ascii>True</ascii>
