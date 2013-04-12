@@ -518,6 +518,26 @@
     </timezones>
   </country>
   <country>
+    <countryId>BW</countryId>
+    <names>
+      <name><languageId>en</languageId><name>Botswana</name></name>
+    </names>
+    <locales>
+      <locale><localeId>en_BW.UTF-8</localeId><rank>900</rank></locale>
+      <locale><localeId>tn_ZA.UTF-8</localeId><rank>100</rank></locale>
+    </locales>
+    <languages>
+      <language><languageId>en</languageId><rank>900</rank></language>
+      <language><languageId>tn</languageId><rank>100</rank></language>
+    </languages>
+    <keyboards>
+      <keyboard><keyboardId>us</keyboardId><rank>1000</rank></keyboard>
+    </keyboards>
+    <timezones>
+      <timezone><timezoneId>Africa/Gaborone</timezoneId><rank>1000</rank></timezone>
+    </timezones>
+  </country>
+  <country>
     <countryId>BY</countryId>
     <names>
       <name><languageId>de</languageId><name>Belarus</name></name>

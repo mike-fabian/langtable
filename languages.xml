@@ -1887,6 +1887,29 @@
     </timezones>
   </language>
   <language>
+    <languageId>tn</languageId>
+    <iso639-1>tn</iso639-1>
+    <iso639-2-t>tsn</iso639-2-t>
+    <iso639-2-b>tsn</iso639-2-b>
+    <names>
+      <name><languageId>en</languageId><name>Tswana</name></name>
+    </names>
+    <locales>
+      <locale><localeId>tn_ZA.UTF-8</localeId><rank>1000</rank></locale>
+      <locale><localeId>tn_BW.UTF-8</localeId><rank>0</rank></locale>
+    </locales>
+    <countries>
+      <country><countryId>ZA</countryId><rank>900</rank></country>
+      <country><countryId>BW</countryId><rank>100</rank></country>
+    </countries>
+    <keyboards>
+      <keyboard><keyboardId>us</keyboardId><rank>1000</rank></keyboard>
+    </keyboards>
+    <timezones>
+      <timezone><timezoneId>Africa/Gaborone</timezoneId><rank>1000</rank></timezone>
+    </timezones>
+  </language>
+  <language>
     <languageId>tr</languageId>
     <iso639-1>tr</iso639-1>
     <iso639-2-t>tur</iso639-2-t>
