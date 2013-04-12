@@ -826,6 +826,29 @@
     </timezones>
   </language>
   <language>
+    <languageId>hy</languageId>
+    <iso639-1>hy</iso639-1>
+    <iso639-2-t>hye</iso639-2-t>
+    <iso639-2-b>arm</iso639-2-b>
+    <names>
+      <name><languageId>de</languageId><name>Armenisch</name></name>
+      <name><languageId>en</languageId><name>Armenian</name></name>
+      <name><languageId>hy</languageId><name>Հայերէն</name></name>
+    </names>
+    <locales>
+      <locale><localeId>hy_AM.UTF-8</localeId><rank>1000</rank></locale>
+    </locales>
+    <countries>
+      <country><countryId>AM</countryId><rank>1000</rank></country>
+    </countries>
+    <keyboards>
+      <keyboard><keyboardId>am</keyboardId><rank>1000</rank></keyboard>
+    </keyboards>
+    <timezones>
+      <timezone><timezoneId>Asia/Yerevan</timezoneId><rank>1000</rank></timezone>
+    </timezones>
+  </language>
+  <language>
     <languageId>id</languageId>
     <iso639-1>id</iso639-1>
     <iso639-2-t>ind</iso639-2-t>
@@ -1361,6 +1384,29 @@
     </timezones>
   </language>
   <language>
+    <languageId>ps</languageId>
+    <iso639-1>ps</iso639-1>
+    <iso639-2-t>pus</iso639-2-t>
+    <iso639-2-b>pus</iso639-2-b>
+    <names>
+      <name><languageId>de</languageId><name>Paschtu</name></name>
+      <name><languageId>en</languageId><name>Pashto</name></name>
+      <name><languageId>ps</languageId><name>پښتو</name></name>
+    </names>
+    <locales>
+      <locale><localeId>ps_AF.UTF-8</localeId><rank>1000</rank></locale>
+    </locales>
+    <countries>
+      <country><countryId>AF</countryId><rank>1000</rank></country>
+    </countries>
+    <keyboards>
+      <keyboard><keyboardId>af(ps)</keyboardId><rank>1000</rank></keyboard>
+    </keyboards>
+    <timezones>
+      <timezone><timezoneId>Asia/Kabul</timezoneId><rank>1000</rank></timezone>
+    </timezones>
+  </language>
+  <language>
     <languageId>pt</languageId>
     <iso639-1>pt</iso639-1>
     <iso639-2-t>por</iso639-2-t>
@@ -1393,15 +1439,15 @@
       <timezone><timezoneId>Atlantic/Azores</timezoneId><rank>100</rank></timezone>
       <timezone><timezoneId>Atlantic/Madeira</timezoneId><rank>100</rank></timezone>
       <timezone><timezoneId>America/Boa_Vista</timezoneId><rank>1</rank></timezone>
+      <timezone><timezoneId>America/Campo_Grande</timezoneId><rank>1</rank></timezone>
       <timezone><timezoneId>America/Araguaina</timezoneId><rank>1</rank></timezone>
       <timezone><timezoneId>America/Belem</timezoneId><rank>1</rank></timezone>
       <timezone><timezoneId>America/Porto_Velho</timezoneId><rank>1</rank></timezone>
       <timezone><timezoneId>America/Maceio</timezoneId><rank>1</rank></timezone>
       <timezone><timezoneId>America/Eirunepe</timezoneId><rank>1</rank></timezone>
       <timezone><timezoneId>America/Rio_Branco</timezoneId><rank>1</rank></timezone>
-      <timezone><timezoneId>America/Recife</timezoneId><rank>1</rank></timezone>
       <timezone><timezoneId>America/Santarem</timezoneId><rank>1</rank></timezone>
-      <timezone><timezoneId>America/Campo_Grande</timezoneId><rank>1</rank></timezone>
+      <timezone><timezoneId>America/Recife</timezoneId><rank>1</rank></timezone>
     </timezones>
   </language>
   <language>

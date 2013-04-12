@@ -10,11 +10,27 @@
     </languages>
   </keyboard>
   <keyboard>
+    <keyboardId>af(ps)</keyboardId>
+    <description>Pashto</description>
+    <ascii>False</ascii>
+    <languages>
+      <language><languageId>ps</languageId><rank>1000</rank></language>
+    </languages>
+  </keyboard>
+  <keyboard>
     <keyboardId>al</keyboardId>
     <description>Albanian</description>
     <ascii>True</ascii>
     <languages>
       <language><languageId>sq</languageId><rank>1000</rank></language>
+    </languages>
+  </keyboard>
+  <keyboard>
+    <keyboardId>am</keyboardId>
+    <description>Armenian</description>
+    <ascii>False</ascii>
+    <languages>
+      <language><languageId>hy</languageId><rank>1000</rank></language>
     </languages>
   </keyboard>
   <keyboard>

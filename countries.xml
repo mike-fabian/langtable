@@ -41,22 +41,22 @@
     <timezones>
       <timezone><timezoneId>America/Guatemala</timezoneId><rank>1000</rank></timezone>
       <timezone><timezoneId>America/Costa_Rica</timezoneId><rank>1000</rank></timezone>
+      <timezone><timezoneId>America/Anchorage</timezoneId><rank>1000</rank></timezone>
       <timezone><timezoneId>America/Montevideo</timezoneId><rank>1000</rank></timezone>
       <timezone><timezoneId>America/Managua</timezoneId><rank>1000</rank></timezone>
-      <timezone><timezoneId>America/Anchorage</timezoneId><rank>1000</rank></timezone>
       <timezone><timezoneId>America/Lima</timezoneId><rank>1000</rank></timezone>
       <timezone><timezoneId>America/Bogota</timezoneId><rank>1000</rank></timezone>
+      <timezone><timezoneId>America/Denver</timezoneId><rank>1000</rank></timezone>
       <timezone><timezoneId>America/Tegucigalpa</timezoneId><rank>1000</rank></timezone>
+      <timezone><timezoneId>America/El_Salvador</timezoneId><rank>1000</rank></timezone>
       <timezone><timezoneId>America/Chicago</timezoneId><rank>1000</rank></timezone>
       <timezone><timezoneId>America/Santo_Domingo</timezoneId><rank>1000</rank></timezone>
       <timezone><timezoneId>America/Argentina/Buenos_Aires</timezoneId><rank>1000</rank></timezone>
       <timezone><timezoneId>America/La_Paz</timezoneId><rank>1000</rank></timezone>
       <timezone><timezoneId>America/Phoenix</timezoneId><rank>1000</rank></timezone>
-      <timezone><timezoneId>America/Denver</timezoneId><rank>1000</rank></timezone>
       <timezone><timezoneId>America/Asuncion</timezoneId><rank>1000</rank></timezone>
       <timezone><timezoneId>America/Los_Angeles</timezoneId><rank>1000</rank></timezone>
       <timezone><timezoneId>America/New_York</timezoneId><rank>1000</rank></timezone>
-      <timezone><timezoneId>America/El_Salvador</timezoneId><rank>1000</rank></timezone>
       <timezone><timezoneId>America/Havana</timezoneId><rank>1000</rank></timezone>
       <timezone><timezoneId>America/Puerto_Rico</timezoneId><rank>1000</rank></timezone>
       <timezone><timezoneId>America/Caracas</timezoneId><rank>1000</rank></timezone>
@@ -73,18 +73,18 @@
       <timezone><timezoneId>Pacific/Easter</timezoneId><rank>10</rank></timezone>
       <timezone><timezoneId>America/Galapagos</timezoneId><rank>10</rank></timezone>
       <timezone><timezoneId>America/Merida</timezoneId><rank>1</rank></timezone>
+      <timezone><timezoneId>America/Argentina/Jujuy</timezoneId><rank>1</rank></timezone>
       <timezone><timezoneId>America/Argentina/San_Juan</timezoneId><rank>1</rank></timezone>
       <timezone><timezoneId>America/Bahia_Banderas</timezoneId><rank>1</rank></timezone>
-      <timezone><timezoneId>America/Argentina/Jujuy</timezoneId><rank>1</rank></timezone>
       <timezone><timezoneId>America/Monterrey</timezoneId><rank>1</rank></timezone>
       <timezone><timezoneId>America/Argentina/Salta</timezoneId><rank>1</rank></timezone>
-      <timezone><timezoneId>America/Argentina/Ushuaia</timezoneId><rank>1</rank></timezone>
       <timezone><timezoneId>America/Mazatlan</timezoneId><rank>1</rank></timezone>
-      <timezone><timezoneId>America/Argentina/La_Rioja</timezoneId><rank>1</rank></timezone>
+      <timezone><timezoneId>America/Argentina/Ushuaia</timezoneId><rank>1</rank></timezone>
       <timezone><timezoneId>America/Argentina/Catamarca</timezoneId><rank>1</rank></timezone>
+      <timezone><timezoneId>America/Argentina/Mendoza</timezoneId><rank>1</rank></timezone>
       <timezone><timezoneId>America/Argentina/San_Luis</timezoneId><rank>1</rank></timezone>
       <timezone><timezoneId>America/Cancun</timezoneId><rank>1</rank></timezone>
-      <timezone><timezoneId>America/Argentina/Mendoza</timezoneId><rank>1</rank></timezone>
+      <timezone><timezoneId>America/Argentina/La_Rioja</timezoneId><rank>1</rank></timezone>
       <timezone><timezoneId>America/Argentina/Rio_Gallegos</timezoneId><rank>1</rank></timezone>
       <timezone><timezoneId>America/Argentina/Tucuman</timezoneId><rank>1</rank></timezone>
       <timezone><timezoneId>America/Argentina/Cordoba</timezoneId><rank>1</rank></timezone>
@@ -132,6 +132,45 @@
     </timezones>
   </country>
   <country>
+    <countryId>AF</countryId>
+    <names>
+      <name><languageId>de</languageId><name>Afghanistan</name></name>
+      <name><languageId>en</languageId><name>Afghanistan</name></name>
+      <name><languageId>ps</languageId><name>افغانستان</name></name>
+    </names>
+    <locales>
+      <locale><localeId>ps_AF.UTF-8</localeId><rank>1000</rank></locale>
+    </locales>
+    <languages>
+      <language><languageId>ps</languageId><rank>1000</rank></language>
+    </languages>
+    <keyboards>
+      <keyboard><keyboardId>af(ps)</keyboardId><rank>1000</rank></keyboard>
+    </keyboards>
+    <timezones>
+      <timezone><timezoneId>Asia/Kabul</timezoneId><rank>1000</rank></timezone>
+    </timezones>
+  </country>
+  <country>
+    <countryId>AG</countryId>
+    <names>
+      <name><languageId>de</languageId><name>Antigua und Barbuda</name></name>
+      <name><languageId>en</languageId><name>Antigua and Barbuda</name></name>
+    </names>
+    <locales>
+      <locale><localeId>en_AG.UTF-8</localeId><rank>1000</rank></locale>
+    </locales>
+    <languages>
+      <language><languageId>en</languageId><rank>1000</rank></language>
+    </languages>
+    <keyboards>
+      <keyboard><keyboardId>us</keyboardId><rank>1000</rank></keyboard>
+    </keyboards>
+    <timezones>
+      <timezone><timezoneId>America/Antigua</timezoneId><rank>1000</rank></timezone>
+    </timezones>
+  </country>
+  <country>
     <countryId>AL</countryId>
     <names>
       <name><languageId>de</languageId><name>Mazedonien</name></name>
@@ -149,6 +188,26 @@
     </keyboards>
     <timezones>
       <timezone><timezoneId>Europe/Tirane</timezoneId><rank>1000</rank></timezone>
+    </timezones>
+  </country>
+  <country>
+    <countryId>AM</countryId>
+    <names>
+      <name><languageId>de</languageId><name>Armenien</name></name>
+      <name><languageId>en</languageId><name>Armenia</name></name>
+      <name><languageId>hy</languageId><name>Հայաստանի Հանրապետութիւն</name></name>
+    </names>
+    <locales>
+      <locale><localeId>hy_AM.UTF-8</localeId><rank>1000</rank></locale>
+    </locales>
+    <languages>
+      <language><languageId>hy</languageId><rank>1000</rank></language>
+    </languages>
+    <keyboards>
+      <keyboard><keyboardId>am</keyboardId><rank>1000</rank></keyboard>
+    </keyboards>
+    <timezones>
+      <timezone><timezoneId>Asia/Yerevan</timezoneId><rank>1000</rank></timezone>
     </timezones>
   </country>
   <country>
@@ -312,15 +371,15 @@
       <timezone><timezoneId>America/Noronha</timezoneId><rank>1000</rank></timezone>
       <timezone><timezoneId>America/Sao_Paulo</timezoneId><rank>1000</rank></timezone>
       <timezone><timezoneId>America/Boa_Vista</timezoneId><rank>1</rank></timezone>
+      <timezone><timezoneId>America/Campo_Grande</timezoneId><rank>1</rank></timezone>
       <timezone><timezoneId>America/Araguaina</timezoneId><rank>1</rank></timezone>
       <timezone><timezoneId>America/Belem</timezoneId><rank>1</rank></timezone>
       <timezone><timezoneId>America/Porto_Velho</timezoneId><rank>1</rank></timezone>
       <timezone><timezoneId>America/Maceio</timezoneId><rank>1</rank></timezone>
       <timezone><timezoneId>America/Eirunepe</timezoneId><rank>1</rank></timezone>
       <timezone><timezoneId>America/Rio_Branco</timezoneId><rank>1</rank></timezone>
-      <timezone><timezoneId>America/Recife</timezoneId><rank>1</rank></timezone>
       <timezone><timezoneId>America/Santarem</timezoneId><rank>1</rank></timezone>
-      <timezone><timezoneId>America/Campo_Grande</timezoneId><rank>1</rank></timezone>
+      <timezone><timezoneId>America/Recife</timezoneId><rank>1</rank></timezone>
     </timezones>
   </country>
   <country>
@@ -1322,10 +1381,10 @@
       <timezone><timezoneId>America/Santa_Isabel</timezoneId><rank>900</rank></timezone>
       <timezone><timezoneId>America/Hermosillo</timezoneId><rank>900</rank></timezone>
       <timezone><timezoneId>America/Merida</timezoneId><rank>1</rank></timezone>
+      <timezone><timezoneId>America/Cancun</timezoneId><rank>1</rank></timezone>
       <timezone><timezoneId>America/Bahia_Banderas</timezoneId><rank>1</rank></timezone>
       <timezone><timezoneId>America/Mazatlan</timezoneId><rank>1</rank></timezone>
       <timezone><timezoneId>America/Monterrey</timezoneId><rank>1</rank></timezone>
-      <timezone><timezoneId>America/Cancun</timezoneId><rank>1</rank></timezone>
     </timezones>
   </country>
   <country>
@@ -1563,8 +1622,8 @@
     </keyboards>
     <timezones>
       <timezone><timezoneId>Europe/Lisbon</timezoneId><rank>900</rank></timezone>
-      <timezone><timezoneId>Atlantic/Madeira</timezoneId><rank>100</rank></timezone>
       <timezone><timezoneId>Atlantic/Azores</timezoneId><rank>100</rank></timezone>
+      <timezone><timezoneId>Atlantic/Madeira</timezoneId><rank>100</rank></timezone>
     </timezones>
   </country>
   <country>
