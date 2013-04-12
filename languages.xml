@@ -989,6 +989,57 @@
     </timezones>
   </language>
   <language>
+    <languageId>ik</languageId>
+    <iso639-1>ik</iso639-1>
+    <iso639-2-t>ipk</iso639-2-t>
+    <iso639-2-b>ipk</iso639-2-b>
+    <names>
+      <name><languageId>en</languageId><name>Inupiaq</name></name>
+    </names>
+    <locales>
+      <locale><localeId>ik_CA.UTF-8</localeId><rank>1000</rank></locale>
+    </locales>
+    <countries>
+      <country><countryId>CA</countryId><rank>1000</rank></country>
+    </countries>
+    <keyboards>
+      <keyboard><keyboardId>ca(eng)</keyboardId><rank>1000</rank></keyboard>
+    </keyboards>
+    <timezones>
+      <timezone><timezoneId>America/Yellowknife</timezoneId><rank>100</rank></timezone>
+      <timezone><timezoneId>America/Nome</timezoneId><rank>10</rank></timezone>
+    </timezones>
+  </language>
+  <language>
+    <languageId>iu</languageId>
+    <iso639-1>iu</iso639-1>
+    <iso639-2-t>iku</iso639-2-t>
+    <iso639-2-b>iku</iso639-2-b>
+    <names>
+      <name><languageId>en</languageId><name>Inuktitut</name></name>
+    </names>
+    <locales>
+      <locale><localeId>iu_CA.UTF-8</localeId><rank>1000</rank></locale>
+    </locales>
+    <countries>
+      <country><countryId>CA</countryId><rank>1000</rank></country>
+    </countries>
+    <keyboards>
+      <keyboard><keyboardId>ca(ike)</keyboardId><rank>1000</rank></keyboard>
+    </keyboards>
+    <timezones>
+      <timezone><timezoneId>America/St_Johns</timezoneId><rank>100</rank></timezone>
+      <timezone><timezoneId>America/Halifax</timezoneId><rank>100</rank></timezone>
+      <timezone><timezoneId>America/Toronto</timezoneId><rank>100</rank></timezone>
+      <timezone><timezoneId>America/Winnipeg</timezoneId><rank>100</rank></timezone>
+      <timezone><timezoneId>America/Regina</timezoneId><rank>100</rank></timezone>
+      <timezone><timezoneId>America/Edmonton</timezoneId><rank>100</rank></timezone>
+      <timezone><timezoneId>America/Creston</timezoneId><rank>100</rank></timezone>
+      <timezone><timezoneId>America/Vancouver</timezoneId><rank>100</rank></timezone>
+      <timezone><timezoneId>America/Yellowknife</timezoneId><rank>1</rank></timezone>
+    </timezones>
+  </language>
+  <language>
     <languageId>ja</languageId>
     <iso639-1>ja</iso639-1>
     <iso639-2-t>jpn</iso639-2-t>
@@ -1630,6 +1681,28 @@
     </keyboards>
     <timezones>
       <timezone><timezoneId>Europe/Oslo</timezoneId><rank>1000</rank></timezone>
+    </timezones>
+  </language>
+  <language>
+    <languageId>shs</languageId>
+    <iso639-1>None</iso639-1>
+    <iso639-2-t>None</iso639-2-t>
+    <iso639-2-b>None</iso639-2-b>
+    <names>
+      <name><languageId>en</languageId><name>Shuswap language</name></name>
+      <name><languageId>shs</languageId><name>Secwepemctsín</name></name>
+    </names>
+    <locales>
+      <locale><localeId>shs_CA.UTF-8</localeId><rank>1000</rank></locale>
+    </locales>
+    <countries>
+      <country><countryId>CA</countryId><rank>1000</rank></country>
+    </countries>
+    <keyboards>
+      <keyboard><keyboardId>ca(eng)</keyboardId><rank>1000</rank></keyboard>
+    </keyboards>
+    <timezones>
+      <timezone><timezoneId>America/Vancouver</timezoneId><rank>100</rank></timezone>
     </timezones>
   </language>
   <language>

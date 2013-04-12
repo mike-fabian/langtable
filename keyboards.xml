@@ -112,6 +112,38 @@
     </languages>
   </keyboard>
   <keyboard>
+    <keyboardId>ca</keyboardId>
+    <description>French (Canada)</description>
+    <ascii>True</ascii>
+    <languages>
+      <language>fr<languageId></languageId><rank>1000</rank></language>
+    </languages>
+  </keyboard>
+  <keyboard>
+    <keyboardId>ca(eng)</keyboardId>
+    <description>English (Canada)</description>
+    <ascii>True</ascii>
+    <languages>
+      <language>en<languageId></languageId><rank>1000</rank></language>
+    </languages>
+  </keyboard>
+  <keyboard>
+    <keyboardId>ca(ike)</keyboardId>
+    <description>Inuktitut</description>
+    <ascii>True</ascii>
+    <languages>
+      <language>iu<languageId></languageId><rank>1000</rank></language>
+    </languages>
+  </keyboard>
+  <keyboard>
+    <keyboardId>ca(shs)</keyboardId>
+    <description>Secwepemctsin</description>
+    <ascii>True</ascii>
+    <languages>
+      <language>shs<languageId></languageId><rank>1000</rank></language>
+    </languages>
+  </keyboard>
+  <keyboard>
     <keyboardId>ch</keyboardId>
     <description>German (Switzerland)</description>
     <ascii>True</ascii>

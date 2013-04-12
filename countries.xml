@@ -562,6 +562,60 @@
     </timezones>
   </country>
   <country>
+    <countryId>CA</countryId>
+    <names>
+      <name><languageId>en</languageId><name>Canada</name></name>
+    </names>
+    <locales>
+      <locale><localeId>en_CA.UTF-8</localeId><rank>600</rank></locale>
+      <locale><localeId>fr_CA.UTF-8</localeId><rank>250</rank></locale>
+      <locale><localeId>iu_CA.UTF-8</localeId><rank>10</rank></locale>
+      <locale><localeId>ik_CA.UTF-8</localeId><rank>5</rank></locale>
+      <locale><localeId>shs_CA.UTF-8</localeId><rank>1</rank></locale>
+    </locales>
+    <languages>
+      <language><languageId>en</languageId><rank>600</rank></language>
+      <language><languageId>fr</languageId><rank>250</rank></language>
+      <language><languageId>iu</languageId><rank>10</rank></language>
+      <language><languageId>ik</languageId><rank>5</rank></language>
+      <language><languageId>shs</languageId><rank>1</rank></language>
+    </languages>
+    <keyboards>
+      <keyboard><keyboardId>ca(eng)</keyboardId><rank>500</rank></keyboard>
+      <keyboard><keyboardId>ca</keyboardId><rank>250</rank></keyboard>
+    </keyboards>
+    <timezones>
+      <timezone><timezoneId>America/St_Johns</timezoneId><rank>100</rank></timezone>
+      <timezone><timezoneId>America/Halifax</timezoneId><rank>100</rank></timezone>
+      <timezone><timezoneId>America/Glace_Bay</timezoneId><rank>1</rank></timezone>
+      <timezone><timezoneId>America/Moncton</timezoneId><rank>1</rank></timezone>
+      <timezone><timezoneId>America/Goose_Bay</timezoneId><rank>1</rank></timezone>
+      <timezone><timezoneId>America/Blanc-Sablon</timezoneId><rank>1</rank></timezone>
+      <timezone><timezoneId>America/Montreal</timezoneId><rank>1</rank></timezone>
+      <timezone><timezoneId>America/Toronto</timezoneId><rank>100</rank></timezone>
+      <timezone><timezoneId>America/Nipigon</timezoneId><rank>1</rank></timezone>
+      <timezone><timezoneId>America/Thunder_Bay</timezoneId><rank>1</rank></timezone>
+      <timezone><timezoneId>America/Iqaluit</timezoneId><rank>1</rank></timezone>
+      <timezone><timezoneId>America/Pangnirtung</timezoneId><rank>1</rank></timezone>
+      <timezone><timezoneId>America/Resolute</timezoneId><rank>1</rank></timezone>
+      <timezone><timezoneId>America/Atikokan</timezoneId><rank>1</rank></timezone>
+      <timezone><timezoneId>America/Rankin_Inlet</timezoneId><rank>1</rank></timezone>
+      <timezone><timezoneId>America/Winnipeg</timezoneId><rank>100</rank></timezone>
+      <timezone><timezoneId>America/Rainy_River</timezoneId><rank>1</rank></timezone>
+      <timezone><timezoneId>America/Regina</timezoneId><rank>100</rank></timezone>
+      <timezone><timezoneId>America/Swift_Current</timezoneId><rank>1</rank></timezone>
+      <timezone><timezoneId>America/Edmonton</timezoneId><rank>100</rank></timezone>
+      <timezone><timezoneId>America/Cambridge_Bay</timezoneId><rank>1</rank></timezone>
+      <timezone><timezoneId>America/Yellowknife</timezoneId><rank>1</rank></timezone>
+      <timezone><timezoneId>America/Inuvik</timezoneId><rank>1</rank></timezone>
+      <timezone><timezoneId>America/Creston</timezoneId><rank>100</rank></timezone>
+      <timezone><timezoneId>America/Dawson_Creek</timezoneId><rank>1</rank></timezone>
+      <timezone><timezoneId>America/Vancouver</timezoneId><rank>100</rank></timezone>
+      <timezone><timezoneId>America/Whitehorse</timezoneId><rank>1</rank></timezone>
+      <timezone><timezoneId>America/Dawson</timezoneId><rank>1</rank></timezone>
+    </timezones>
+  </country>
+  <country>
     <countryId>CH</countryId>
     <names>
       <name><languageId>de</languageId><name>Schweiz</name></name>
