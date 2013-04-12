@@ -812,6 +812,30 @@
     </timezones>
   </country>
   <country>
+    <countryId>DJ</countryId>
+    <names>
+      <name><languageId>en</languageId><name>Djibouti</name></name>
+    </names>
+    <locales>
+      <locale><localeId>so_DJ.UTF-8</localeId><rank>400</rank></locale>
+      <locale><localeId>aa_DJ.UTF-8</localeId><rank>300</rank></locale>
+    </locales>
+    <languages>
+      <language><languageId>so</languageId><rank>400</rank></language>
+      <language><languageId>aa</languageId><rank>300</rank></language>
+      <language><languageId>ar</languageId><rank>200</rank></language>
+      <language><languageId>fr</languageId><rank>100</rank></language>
+    </languages>
+    <keyboards>
+      <keyboard><keyboardId>us</keyboardId><rank>900</rank></keyboard>
+      <keyboard><keyboardId>ara</keyboardId><rank>50</rank></keyboard>
+      <keyboard><keyboardId>us(altgr-intl)</keyboardId><rank>40</rank></keyboard>
+    </keyboards>
+    <timezones>
+      <timezone><timezoneId>Africa/Djibouti</timezoneId><rank>1000</rank></timezone>
+    </timezones>
+  </country>
+  <country>
     <countryId>DK</countryId>
     <names>
       <name><languageId>da</languageId><name>Danmark</name></name>
