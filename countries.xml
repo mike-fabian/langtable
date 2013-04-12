@@ -407,6 +407,25 @@
     </timezones>
   </country>
   <country>
+    <countryId>BG</countryId>
+    <names>
+      <name><languageId>de</languageId><name>Bulgarien</name></name>
+      <name><languageId>en</languageId><name>Bulgaria</name></name>
+    </names>
+    <locales>
+      <locale><localeId>bg_BG.UTF-8</localeId><rank>1000</rank></locale>
+    </locales>
+    <languages>
+      <language><languageId>bg</languageId><rank>1000</rank></language>
+    </languages>
+    <keyboards>
+      <keyboard><keyboardId>bg</keyboardId><rank>1000</rank></keyboard>
+    </keyboards>
+    <timezones>
+      <timezone><timezoneId>Europe/Sofia</timezoneId><rank>1000</rank></timezone>
+    </timezones>
+  </country>
+  <country>
     <countryId>BH</countryId>
     <names>
       <name><languageId>de</languageId><name>Bahrain</name></name>
