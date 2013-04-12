@@ -127,6 +127,30 @@
     </timezones>
   </language>
   <language>
+    <languageId>az</languageId>
+    <iso639-1>az</iso639-1>
+    <iso639-2-t>aze</iso639-2-t>
+    <iso639-2-b>aze</iso639-2-b>
+    <names>
+      <name><languageId>az</languageId><name>azərbaycanca</name></name>
+      <name><languageId>de</languageId><name>Aserbaidschanisch</name></name>
+      <name><languageId>en</languageId><name>Azerbaijani</name></name>
+    </names>
+    <locales>
+      <locale><localeId>az_AZ.UTF-8</localeId><rank>1000</rank></locale>
+    </locales>
+    <countries>
+      <country><countryId>AZ</countryId><rank>1000</rank></country>
+    </countries>
+    <keyboards>
+      <keyboard><keyboardId>az</keyboardId><rank>990</rank></keyboard>
+      <keyboard><keyboardId>az(cyrillic)</keyboardId><rank>10</rank></keyboard>
+    </keyboards>
+    <timezones>
+      <timezone><timezoneId>Asia/Baku</timezoneId><rank>1000</rank></timezone>
+    </timezones>
+  </language>
+  <language>
     <languageId>be</languageId>
     <iso639-1>be</iso639-1>
     <iso639-2-t>bel</iso639-2-t>
@@ -1358,6 +1382,32 @@
     <timezones>
       <timezone><timezoneId>Asia/Karachi</timezoneId><rank>600</rank></timezone>
       <timezone><timezoneId>Asia/Kolkata</timezoneId><rank>400</rank></timezone>
+    </timezones>
+  </language>
+  <language>
+    <languageId>pap</languageId>
+    <iso639-1>None</iso639-1>
+    <iso639-2-t>pap</iso639-2-t>
+    <iso639-2-b>pap</iso639-2-b>
+    <names>
+      <name><languageId>de</languageId><name>Papiamento</name></name>
+      <name><languageId>en</languageId><name>Papiamento</name></name>
+      <name><languageId>nl</languageId><name>Papiaments</name></name>
+      <name><languageId>pap</languageId><name>Papiamento</name></name>
+    </names>
+    <locales>
+      <locale><localeId>pap_AW.UTF-8</localeId><rank>0</rank></locale>
+    </locales>
+    <countries>
+      <country><countryId>AW</countryId><rank>1000</rank></country>
+    </countries>
+    <keyboards>
+      <keyboard><keyboardId>us(euro)</keyboardId><rank>950</rank></keyboard>
+      <keyboard><keyboardId>us(altgr-intl)</keyboardId><rank>50</rank></keyboard>
+      <keyboard><keyboardId>nl</keyboardId><rank>0</rank></keyboard>
+    </keyboards>
+    <timezones>
+      <timezone><timezoneId>America/Aruba</timezoneId><rank>1000</rank></timezone>
     </timezones>
   </language>
   <language>

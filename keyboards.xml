@@ -42,6 +42,24 @@
     </languages>
   </keyboard>
   <keyboard>
+    <keyboardId>az</keyboardId>
+    <description>Azerbaijani</description>
+    <ascii>True</ascii>
+    <comment>nowadays official Azeri is written with latin letters</comment>
+    <languages>
+      <language><languageId>az</languageId><rank>1000</rank></language>
+    </languages>
+  </keyboard>
+  <keyboard>
+    <keyboardId>az(cyrillic)</keyboardId>
+    <description>Azerbaijani (Cyrillic)</description>
+    <ascii>False</ascii>
+    <comment>former (times of Soviet Union) the Azeri language was written using Cyrillic, having some special Azeri-Cyrillic letters though</comment>
+    <languages>
+      <language><languageId>az</languageId><rank>1000</rank></language>
+    </languages>
+  </keyboard>
+  <keyboard>
     <keyboardId>be</keyboardId>
     <description>Belgian</description>
     <ascii>True</ascii>
