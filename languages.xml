@@ -438,12 +438,14 @@
       <locale><localeId>de_AT.UTF-8</localeId><rank>200</rank></locale>
       <locale><localeId>de_CH.UTF-8</localeId><rank>90</rank></locale>
       <locale><localeId>de_BE.UTF-8</localeId><rank>10</rank></locale>
+      <locale><localeId>de_LU.UTF-8</localeId><rank>8</rank></locale>
     </locales>
     <countries>
       <country><countryId>DE</countryId><rank>600</rank></country>
       <country><countryId>AT</countryId><rank>200</rank></country>
       <country><countryId>CH</countryId><rank>90</rank></country>
       <country><countryId>BE</countryId><rank>10</rank></country>
+      <country><countryId>LU</countryId><rank>8</rank></country>
     </countries>
     <keyboards>
       <keyboard><keyboardId>de(nodeadkeys)</keyboardId><rank>700</rank></keyboard>
@@ -453,9 +455,11 @@
       <keyboard><keyboardId>be(oss)</keyboardId><rank>1</rank></keyboard>
     </keyboards>
     <timezones>
-      <timezone><timezoneId>Europe/Berlin</timezoneId><rank>700</rank></timezone>
+      <timezone><timezoneId>Europe/Berlin</timezoneId><rank>600</rank></timezone>
       <timezone><timezoneId>Europe/Vienna</timezoneId><rank>200</rank></timezone>
-      <timezone><timezoneId>Europe/Zurich</timezoneId><rank>100</rank></timezone>
+      <timezone><timezoneId>Europe/Zurich</timezoneId><rank>90</rank></timezone>
+      <timezone><timezoneId>Europe/Brussels</timezoneId><rank>10</rank></timezone>
+      <timezone><timezoneId>Europe/Luxembourg</timezoneId><rank>8</rank></timezone>
     </timezones>
   </language>
   <language>
