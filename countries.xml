@@ -500,6 +500,24 @@
     </timezones>
   </country>
   <country>
+    <countryId>BT</countryId>
+    <names>
+      <name><languageId>en</languageId><name>Bhutan</name></name>
+    </names>
+    <locales>
+      <locale><localeId>dz_BT.UTF-8</localeId><rank>1000</rank></locale>
+    </locales>
+    <languages>
+      <language><languageId>dz</languageId><rank>1000</rank></language>
+    </languages>
+    <keyboards>
+      <keyboard><keyboardId>bt</keyboardId><rank>1000</rank></keyboard>
+    </keyboards>
+    <timezones>
+      <timezone><timezoneId>Asia/Thimphu</timezoneId><rank>1000</rank></timezone>
+    </timezones>
+  </country>
+  <country>
     <countryId>BY</countryId>
     <names>
       <name><languageId>de</languageId><name>Belarus</name></name>

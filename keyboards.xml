@@ -104,6 +104,14 @@
     </languages>
   </keyboard>
   <keyboard>
+    <keyboardId>bt</keyboardId>
+    <description>Dzongkha</description>
+    <ascii>False</ascii>
+    <languages>
+      <language><languageId>dz</languageId><rank>1000</rank></language>
+    </languages>
+  </keyboard>
+  <keyboard>
     <keyboardId>ch</keyboardId>
     <description>German (Switzerland)</description>
     <ascii>True</ascii>

@@ -410,6 +410,27 @@
     </timezones>
   </language>
   <language>
+    <languageId>dz</languageId>
+    <iso639-1>dz</iso639-1>
+    <iso639-2-t>dzo</iso639-2-t>
+    <iso639-2-b>dzo</iso639-2-b>
+    <names>
+      <name><languageId>en</languageId><name>Dzongkha</name></name>
+    </names>
+    <locales>
+      <locale><localeId>dz_BT.UTF-8</localeId><rank>1000</rank></locale>
+    </locales>
+    <countries>
+      <country><countryId>BT</countryId><rank>1000</rank></country>
+    </countries>
+    <keyboards>
+      <keyboard><keyboardId>bt</keyboardId><rank>1000</rank></keyboard>
+    </keyboards>
+    <timezones>
+      <timezone><timezoneId>Asia/Thimphu</timezoneId><rank>1000</rank></timezone>
+    </timezones>
+  </language>
+  <language>
     <languageId>el</languageId>
     <iso639-1>el</iso639-1>
     <iso639-2-t>ell</iso639-2-t>
