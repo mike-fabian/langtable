@@ -51,6 +51,27 @@
     </timezones>
   </language>
   <language>
+    <languageId>am</languageId>
+    <iso639-1>am</iso639-1>
+    <iso639-2-t>amh</iso639-2-t>
+    <iso639-2-b>amh</iso639-2-b>
+    <names>
+      <name><languageId>en</languageId><name>Amharic</name></name>
+    </names>
+    <locales>
+      <locale><localeId>am_ET.UTF-8</localeId><rank>1000</rank></locale>
+    </locales>
+    <countries>
+      <country><countryId>ET</countryId><rank>1000</rank></country>
+    </countries>
+    <keyboards>
+      <keyboard><keyboardId>et</keyboardId><rank>1000</rank></keyboard>
+    </keyboards>
+    <timezones>
+      <timezone><timezoneId>Africa/Addis_Ababa</timezoneId><rank>1000</rank></timezone>
+    </timezones>
+  </language>
+  <language>
     <languageId>ar</languageId>
     <iso639-1>ara</iso639-1>
     <iso639-2-t>ara</iso639-2-t>
@@ -1530,6 +1551,30 @@
     </timezones>
   </language>
   <language>
+    <languageId>om</languageId>
+    <iso639-1>om</iso639-1>
+    <iso639-2-t>orm</iso639-2-t>
+    <iso639-2-b>orm</iso639-2-b>
+    <names>
+      <name><languageId>en</languageId><name>Oromo</name></name>
+    </names>
+    <locales>
+      <locale><localeId>om_ET.UTF-8</localeId><rank>950</rank></locale>
+      <locale><localeId>om_KE.UTF-8</localeId><rank>50</rank></locale>
+    </locales>
+    <countries>
+      <country><countryId>ET</countryId><rank>950</rank></country>
+      <country><countryId>KE</countryId><rank>50</rank></country>
+    </countries>
+    <keyboards>
+      <keyboard><keyboardId>us</keyboardId><rank>1000</rank></keyboard>
+    </keyboards>
+    <timezones>
+      <timezone><timezoneId>Africa/Addis_Ababa</timezoneId><rank>950</rank></timezone>
+      <timezone><timezoneId>Africa/Nairobi</timezoneId><rank>50</rank></timezone>
+    </timezones>
+  </language>
+  <language>
     <languageId>or</languageId>
     <iso639-1>or</iso639-1>
     <iso639-2-t>ori</iso639-2-t>
@@ -1825,6 +1870,27 @@
     </keyboards>
     <timezones>
       <timezone><timezoneId>Asia/Colombo</timezoneId><rank>1000</rank></timezone>
+    </timezones>
+  </language>
+  <language>
+    <languageId>sid</languageId>
+    <iso639-1>None</iso639-1>
+    <iso639-2-t>sid</iso639-2-t>
+    <iso639-2-b>sid</iso639-2-b>
+    <names>
+      <name><languageId>en</languageId><name>Sidamo</name></name>
+    </names>
+    <locales>
+      <locale><localeId>sid_ET.UTF-8</localeId><rank>1000</rank></locale>
+    </locales>
+    <countries>
+      <country><countryId>ET</countryId><rank>1000</rank></country>
+    </countries>
+    <keyboards>
+      <keyboard><keyboardId>us</keyboardId><rank>1000</rank></keyboard>
+    </keyboards>
+    <timezones>
+      <timezone><timezoneId>Africa/Addis_Ababa</timezoneId><rank>1000</rank></timezone>
     </timezones>
   </language>
   <language>
@@ -2255,6 +2321,27 @@
     </keyboards>
     <timezones>
       <timezone><timezoneId>Asia/Ho_Chi_Minh</timezoneId><rank>1000</rank></timezone>
+    </timezones>
+  </language>
+  <language>
+    <languageId>wal</languageId>
+    <iso639-1>None</iso639-1>
+    <iso639-2-t>wal</iso639-2-t>
+    <iso639-2-b>wal</iso639-2-b>
+    <names>
+      <name><languageId>en</languageId><name>Walamo</name></name>
+    </names>
+    <locales>
+      <locale><localeId>wal_ET.UTF-8</localeId><rank>1000</rank></locale>
+    </locales>
+    <countries>
+      <country><countryId>ET</countryId><rank>1000</rank></country>
+    </countries>
+    <keyboards>
+      <keyboard><keyboardId>et</keyboardId><rank>1000</rank></keyboard>
+    </keyboards>
+    <timezones>
+      <timezone><timezoneId>Africa/Addis_Ababa</timezoneId><rank>1000</rank></timezone>
     </timezones>
   </language>
   <language>
