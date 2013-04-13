@@ -693,6 +693,27 @@
     </timezones>
   </language>
   <language>
+    <languageId>fo</languageId>
+    <iso639-1>fo</iso639-1>
+    <iso639-2-t>fao</iso639-2-t>
+    <iso639-2-b>fao</iso639-2-b>
+    <names>
+      <name><languageId>en</languageId><name>Faroese</name></name>
+    </names>
+    <locales>
+      <locale><localeId>fo_FO.UTF-8</localeId><rank>1000</rank></locale>
+    </locales>
+    <countries>
+      <country><countryId>FO</countryId><rank>1000</rank></country>
+    </countries>
+    <keyboards>
+      <keyboard><keyboardId>fo</keyboardId><rank>1000</rank></keyboard>
+    </keyboards>
+    <timezones>
+      <timezone><timezoneId>Atlantic/Faroe</timezoneId><rank>1000</rank></timezone>
+    </timezones>
+  </language>
+  <language>
     <languageId>fr</languageId>
     <iso639-1>fr</iso639-1>
     <iso639-2-t>fra</iso639-2-t>

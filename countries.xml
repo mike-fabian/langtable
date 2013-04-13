@@ -1091,6 +1091,24 @@
     </timezones>
   </country>
   <country>
+    <countryId>FO</countryId>
+    <names>
+      <name><languageId>en</languageId><name>Faroe Islands</name></name>
+    </names>
+    <locales>
+      <locale><localeId>fo_FO.UTF-8</localeId><rank>1000</rank></locale>
+    </locales>
+    <languages>
+      <language><languageId>fo</languageId><rank>1000</rank></language>
+    </languages>
+    <keyboards>
+      <keyboard><keyboardId>fo</keyboardId><rank>1000</rank></keyboard>
+    </keyboards>
+    <timezones>
+      <timezone><timezoneId>Atlantic/Faroe</timezoneId><rank>1000</rank></timezone>
+    </timezones>
+  </country>
+  <country>
     <countryId>FR</countryId>
     <names>
       <name><languageId>de</languageId><name>Frankreich</name></name>

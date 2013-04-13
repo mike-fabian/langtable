@@ -258,6 +258,14 @@
     </languages>
   </keyboard>
   <keyboard>
+    <keyboardId>fo</keyboardId>
+    <description>Faroese</description>
+    <ascii>True</ascii>
+    <languages>
+      <language><languageId>fo</languageId><rank>1000</rank></language>
+    </languages>
+  </keyboard>
+  <keyboard>
     <keyboardId>fr</keyboardId>
     <description>French</description>
     <ascii>True</ascii>
