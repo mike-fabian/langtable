@@ -293,6 +293,14 @@
     </languages>
   </keyboard>
   <keyboard>
+    <keyboardId>ge</keyboardId>
+    <description>Georgian</description>
+    <ascii>False</ascii>
+    <languages>
+      <language><languageId>ka</languageId><rank>1000</rank></language>
+    </languages>
+  </keyboard>
+  <keyboard>
     <keyboardId>gb</keyboardId>
     <description>English (UK)</description>
     <ascii>True</ascii>

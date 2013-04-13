@@ -1136,6 +1136,24 @@
     </timezones>
   </country>
   <country>
+    <countryId>GE</countryId>
+    <names>
+      <name><languageId>en</languageId><name>Georgia</name></name>
+    </names>
+    <locales>
+      <locale><localeId>ka_GE.UTF-8</localeId><rank>1000</rank></locale>
+    </locales>
+    <languages>
+      <language><languageId>ka</languageId><rank>1000</rank></language>
+    </languages>
+    <keyboards>
+      <keyboard><keyboardId>ge</keyboardId><rank>1000</rank></keyboard>
+    </keyboards>
+    <timezones>
+      <timezone><timezoneId>Asia/Tbilisi</timezoneId><rank>1000</rank></timezone>
+    </timezones>
+  </country>
+  <country>
     <countryId>GB</countryId>
     <names>
       <name><languageId>cy</languageId><name>Prydain Fawr</name></name>
