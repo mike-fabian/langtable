@@ -1182,6 +1182,27 @@
     </timezones>
   </country>
   <country>
+    <countryId>GL</countryId>
+    <names>
+      <name><languageId>en</languageId><name>Greenland</name></name>
+    </names>
+    <locales>
+      <locale><localeId>kl_GL.UTF-8</localeId><rank>1000</rank></locale>
+    </locales>
+    <languages>
+      <language><languageId>kl</languageId><rank>1000</rank></language>
+    </languages>
+    <keyboards>
+      <keyboard><keyboardId>us</keyboardId><rank>1000</rank></keyboard>
+    </keyboards>
+    <timezones>
+      <timezone><timezoneId>America/Godthab</timezoneId><rank>250</rank></timezone>
+      <timezone><timezoneId>America/Danmarkshavn</timezoneId><rank>250</rank></timezone>
+      <timezone><timezoneId>America/Scoresbysund</timezoneId><rank>250</rank></timezone>
+      <timezone><timezoneId>America/Thule</timezoneId><rank>250</rank></timezone>
+    </timezones>
+  </country>
+  <country>
     <countryId>GR</countryId>
     <names>
       <name><languageId>de</languageId><name>Griechenland</name></name>

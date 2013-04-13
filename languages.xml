@@ -1204,6 +1204,30 @@
     </timezones>
   </language>
   <language>
+    <languageId>kl</languageId>
+    <iso639-1>kl</iso639-1>
+    <iso639-2-t>kal</iso639-2-t>
+    <iso639-2-b>kal</iso639-2-b>
+    <names>
+      <name><languageId>en</languageId><name>Kalaallisut</name></name>
+    </names>
+    <locales>
+      <locale><localeId>kl_GL.UTF-8</localeId><rank>1000</rank></locale>
+    </locales>
+    <countries>
+      <country><countryId>GL</countryId><rank>1000</rank></country>
+    </countries>
+    <keyboards>
+      <keyboard><keyboardId>us</keyboardId><rank>1000</rank></keyboard>
+    </keyboards>
+    <timezones>
+      <timezone><timezoneId>America/Godthab</timezoneId><rank>250</rank></timezone>
+      <timezone><timezoneId>America/Danmarkshavn</timezoneId><rank>250</rank></timezone>
+      <timezone><timezoneId>America/Scoresbysund</timezoneId><rank>250</rank></timezone>
+      <timezone><timezoneId>America/Thule</timezoneId><rank>250</rank></timezone>
+    </timezones>
+  </language>
+  <language>
     <languageId>kn</languageId>
     <iso639-1>kn</iso639-1>
     <iso639-2-t>kan</iso639-2-t>
