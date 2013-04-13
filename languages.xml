@@ -803,6 +803,27 @@
     </timezones>
   </language>
   <language>
+    <languageId>ga</languageId>
+    <iso639-1>ga</iso639-1>
+    <iso639-2-t>gle</iso639-2-t>
+    <iso639-2-b>gle</iso639-2-b>
+    <names>
+      <name><languageId>en</languageId><name>Irish</name></name>
+    </names>
+    <locales>
+      <locale><localeId>ga_IE.UTF-8</localeId><rank>1000</rank></locale>
+    </locales>
+    <countries>
+      <country><countryId>IE</countryId><rank>1000</rank></country>
+    </countries>
+    <keyboards>
+      <keyboard><keyboardId>ie(CloGaelach)</keyboardId><rank>1000</rank></keyboard>
+    </keyboards>
+    <timezones>
+      <timezone><timezoneId>Europe/Dublin</timezoneId><rank>1000</rank></timezone>
+    </timezones>
+  </language>
+  <language>
     <languageId>gd</languageId>
     <iso639-1>gd</iso639-1>
     <iso639-2-t>gla</iso639-2-t>

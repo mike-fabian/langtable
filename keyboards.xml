@@ -326,6 +326,22 @@
     </languages>
   </keyboard>
   <keyboard>
+    <keyboardId>ie</keyboardId>
+    <description>Irish</description>
+    <ascii>True</ascii>
+    <languages>
+      <language><languageId>en</languageId><rank>1000</rank></language>
+    </languages>
+  </keyboard>
+  <keyboard>
+    <keyboardId>ie(CloGaelach)</keyboardId>
+    <description>CloGaelach</description>
+    <ascii>True</ascii>
+    <languages>
+      <language><languageId>ga</languageId><rank>1000</rank></language>
+    </languages>
+  </keyboard>
+  <keyboard>
     <keyboardId>it</keyboardId>
     <description>Italian</description>
     <ascii>True</ascii>
