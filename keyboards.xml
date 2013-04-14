@@ -454,6 +454,14 @@
     </languages>
   </keyboard>
   <keyboard>
+    <keyboardId>mm</keyboardId>
+    <description>Burmese</description>
+    <ascii>False</ascii>
+    <languages>
+      <language><languageId>my</languageId><rank>1000</rank></language>
+    </languages>
+  </keyboard>
+  <keyboard>
     <keyboardId>nl</keyboardId>
     <description>Dutch</description>
     <ascii>True</ascii>

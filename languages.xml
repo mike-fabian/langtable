@@ -1675,6 +1675,27 @@
     </timezones>
   </language>
   <language>
+    <languageId>my</languageId>
+    <iso639-1>my</iso639-1>
+    <iso639-2-t>mya</iso639-2-t>
+    <iso639-2-b>bur</iso639-2-b>
+    <names>
+      <name><languageId>en</languageId><name>Burmese</name></name>
+    </names>
+    <locales>
+      <locale><localeId>my_MM.UTF-8</localeId><rank>1000</rank></locale>
+    </locales>
+    <countries>
+      <country><countryId>MM</countryId><rank>1000</rank></country>
+    </countries>
+    <keyboards>
+      <keyboard><keyboardId>mm</keyboardId><rank>1000</rank></keyboard>
+    </keyboards>
+    <timezones>
+      <timezone><timezoneId>Asia/Rangoon</timezoneId><rank>1000</rank></timezone>
+    </timezones>
+  </language>
+  <language>
     <languageId>nb</languageId>
     <iso639-1>nb</iso639-1>
     <iso639-2-t>nob</iso639-2-t>
