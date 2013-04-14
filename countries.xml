@@ -1647,6 +1647,24 @@
     </timezones>
   </country>
   <country>
+    <countryId>KH</countryId>
+    <names>
+      <name><languageId>en</languageId><name>Cambodia</name></name>
+    </names>
+    <locales>
+      <locale><localeId>km_KH.UTF-8</localeId><rank>1000</rank></locale>
+    </locales>
+    <languages>
+      <language><languageId>km</languageId><rank>1000</rank></language>
+    </languages>
+    <keyboards>
+      <keyboard><keyboardId>kh</keyboardId><rank>1000</rank></keyboard>
+    </keyboards>
+    <timezones>
+      <timezone><timezoneId>Asia/Phnom_Penh</timezoneId><rank>1000</rank></timezone>
+    </timezones>
+  </country>
+  <country>
     <countryId>KR</countryId>
     <names>
       <name><languageId>de</languageId><name>Republik Korea</name></name>

@@ -1291,6 +1291,27 @@
     </timezones>
   </language>
   <language>
+    <languageId>km</languageId>
+    <iso639-1>km</iso639-1>
+    <iso639-2-t>khm</iso639-2-t>
+    <iso639-2-b>khm</iso639-2-b>
+    <names>
+      <name><languageId>en</languageId><name>Khmer</name></name>
+    </names>
+    <locales>
+      <locale><localeId>km_KH.UTF-8</localeId><rank>1000</rank></locale>
+    </locales>
+    <countries>
+      <country><countryId>KH</countryId><rank>1000</rank></country>
+    </countries>
+    <keyboards>
+      <keyboard><keyboardId>kh</keyboardId><rank>1000</rank></keyboard>
+    </keyboards>
+    <timezones>
+      <timezone><timezoneId>Asia/Phnom_Penh</timezoneId><rank>1000</rank></timezone>
+    </timezones>
+  </language>
+  <language>
     <languageId>kn</languageId>
     <iso639-1>kn</iso639-1>
     <iso639-2-t>kan</iso639-2-t>

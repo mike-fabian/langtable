@@ -390,6 +390,14 @@
     </languages>
   </keyboard>
   <keyboard>
+    <keyboardId>kh</keyboardId>
+    <description>Khmer (Cambodia)</description>
+    <ascii>False</ascii>
+    <languages>
+      <language><languageId>km</languageId><rank>1000</rank></language>
+    </languages>
+  </keyboard>
+  <keyboard>
     <keyboardId>kr</keyboardId>
     <description>Korean</description>
     <ascii>True</ascii>
