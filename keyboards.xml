@@ -358,6 +358,14 @@
     </languages>
   </keyboard>
   <keyboard>
+    <keyboardId>ir</keyboardId>
+    <description>Persian</description>
+    <ascii>False</ascii>
+    <languages>
+      <language><languageId>fa</languageId><rank>1000</rank></language>
+    </languages>
+  </keyboard>
+  <keyboard>
     <keyboardId>jp</keyboardId>
     <description>Japanese</description>
     <ascii>True</ascii>

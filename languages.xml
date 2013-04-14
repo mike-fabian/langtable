@@ -669,6 +669,27 @@
     </timezones>
   </language>
   <language>
+    <languageId>fa</languageId>
+    <iso639-1>fa</iso639-1>
+    <iso639-2-t>fas</iso639-2-t>
+    <iso639-2-b>per</iso639-2-b>
+    <names>
+      <name><languageId>en</languageId><name>Persian</name></name>
+    </names>
+    <locales>
+      <locale><localeId>fa_IR.UTF-8</localeId><rank>1000</rank></locale>
+    </locales>
+    <countries>
+      <country><countryId>IR</countryId><rank>1000</rank></country>
+    </countries>
+    <keyboards>
+      <keyboard><keyboardId>ir</keyboardId><rank>1000</rank></keyboard>
+    </keyboards>
+    <timezones>
+      <timezone><timezoneId>Asia/Tehran</timezoneId><rank>1000</rank></timezone>
+    </timezones>
+  </language>
+  <language>
     <languageId>fi</languageId>
     <iso639-1>fi</iso639-1>
     <iso639-2-t>fin</iso639-2-t>
