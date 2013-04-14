@@ -438,6 +438,14 @@
     </languages>
   </keyboard>
   <keyboard>
+    <keyboardId>lv</keyboardId>
+    <description>Latvian</description>
+    <ascii>True</ascii>
+    <languages>
+      <language><languageId>lv</languageId><rank>1000</rank></language>
+    </languages>
+  </keyboard>
+  <keyboard>
     <keyboardId>mk</keyboardId>
     <description>Macedonian</description>
     <ascii>False</ascii>

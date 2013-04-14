@@ -1823,6 +1823,24 @@
     </timezones>
   </country>
   <country>
+    <countryId>LV</countryId>
+    <names>
+      <name><languageId>en</languageId><name>Latvia</name></name>
+    </names>
+    <locales>
+      <locale><localeId>lv_LV.UTF-8</localeId><rank>1000</rank></locale>
+    </locales>
+    <languages>
+      <language><languageId>lv</languageId><rank>1000</rank></language>
+    </languages>
+    <keyboards>
+      <keyboard><keyboardId>lv</keyboardId><rank>1000</rank></keyboard>
+    </keyboards>
+    <timezones>
+      <timezone><timezoneId>Europe/Riga</timezoneId><rank>1000</rank></timezone>
+    </timezones>
+  </country>
+  <country>
     <countryId>LY</countryId>
     <names>
       <name><languageId>de</languageId><name>Libyen</name></name>
