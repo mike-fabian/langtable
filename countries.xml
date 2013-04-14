@@ -1704,6 +1704,24 @@
     </timezones>
   </country>
   <country>
+    <countryId>KZ</countryId>
+    <names>
+      <name><languageId>en</languageId><name>Kazakhstan</name></name>
+    </names>
+    <locales>
+      <locale><localeId>kk_KZ.UTF-8</localeId><rank>1000</rank></locale>
+    </locales>
+    <languages>
+      <language><languageId>kk</languageId><rank>1000</rank></language>
+    </languages>
+    <keyboards>
+      <keyboard><keyboardId>kz</keyboardId><rank>1000</rank></keyboard>
+    </keyboards>
+    <timezones>
+      <timezone><timezoneId>Asia/Oral</timezoneId><rank>1000</rank></timezone>
+    </timezones>
+  </country>
+  <country>
     <countryId>LB</countryId>
     <names>
       <name><languageId>de</languageId><name>Libanon</name></name>

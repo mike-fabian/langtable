@@ -406,6 +406,14 @@
     </languages>
   </keyboard>
   <keyboard>
+    <keyboardId>kz</keyboardId>
+    <description>Kazakh</description>
+    <ascii>False</ascii>
+    <languages>
+      <language><languageId>kk</languageId><rank>1000</rank></language>
+    </languages>
+  </keyboard>
+  <keyboard>
     <keyboardId>latam</keyboardId>
     <description>Spanish (Latin American)</description>
     <ascii>True</ascii>

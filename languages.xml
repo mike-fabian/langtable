@@ -1267,6 +1267,27 @@
     </timezones>
   </language>
   <language>
+    <languageId>kk</languageId>
+    <iso639-1>kk</iso639-1>
+    <iso639-2-t>kaz</iso639-2-t>
+    <iso639-2-b>kaz</iso639-2-b>
+    <names>
+      <name><languageId>en</languageId><name>Kazakh</name></name>
+    </names>
+    <locales>
+      <locale><localeId>kk_KZ.UTF-8</localeId><rank>1000</rank></locale>
+    </locales>
+    <countries>
+      <country><countryId>KZ</countryId><rank>1000</rank></country>
+    </countries>
+    <keyboards>
+      <keyboard><keyboardId>kz</keyboardId><rank>1000</rank></keyboard>
+    </keyboards>
+    <timezones>
+      <timezone><timezoneId>Asia/Oral</timezoneId><rank>1000</rank></timezone>
+    </timezones>
+  </language>
+  <language>
     <languageId>kl</languageId>
     <iso639-1>kl</iso639-1>
     <iso639-2-t>kal</iso639-2-t>
