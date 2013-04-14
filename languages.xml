@@ -1561,6 +1561,27 @@
     </timezones>
   </language>
   <language>
+    <languageId>mg</languageId>
+    <iso639-1>mg</iso639-1>
+    <iso639-2-t>mlg</iso639-2-t>
+    <iso639-2-b>mlg</iso639-2-b>
+    <names>
+      <name><languageId>en</languageId><name>Malagasy</name></name>
+    </names>
+    <locales>
+      <locale><localeId>mg_MG.UTF-8</localeId><rank>1000</rank></locale>
+    </locales>
+    <countries>
+      <country><countryId>MG</countryId><rank>1000</rank></country>
+    </countries>
+    <keyboards>
+      <keyboard><keyboardId>us</keyboardId><rank>1000</rank></keyboard>
+    </keyboards>
+    <timezones>
+      <timezone><timezoneId>Indian/Antananarivo</timezoneId><rank>1000</rank></timezone>
+    </timezones>
+  </language>
+  <language>
     <languageId>mk</languageId>
     <iso639-1>mk</iso639-1>
     <iso639-2-t>mkd</iso639-2-t>
