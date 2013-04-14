@@ -374,6 +374,14 @@
     </languages>
   </keyboard>
   <keyboard>
+    <keyboardId>ke</keyboardId>
+    <description>Swahili (Kenya)</description>
+    <ascii>True</ascii>
+    <languages>
+      <language><languageId></languageId><rank>1000</rank></language>
+    </languages>
+  </keyboard>
+  <keyboard>
     <keyboardId>kr</keyboardId>
     <description>Korean</description>
     <ascii>True</ascii>
@@ -494,6 +502,14 @@
     <ascii>True</ascii>
     <languages>
       <language><languageId>ku</languageId><rank>1000</rank></language>
+    </languages>
+  </keyboard>
+  <keyboard>
+    <keyboardId>tz</keyboardId>
+    <description>Swahili (Tanzania)</description>
+    <ascii>False</ascii>
+    <languages>
+      <language><languageId>sw</languageId><rank>1000</rank></language>
     </languages>
   </keyboard>
   <keyboard>

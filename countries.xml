@@ -1606,6 +1606,29 @@
     </timezones>
   </country>
   <country>
+    <countryId>KE</countryId>
+    <names>
+      <name><languageId>en</languageId><name>Kenya</name></name>
+    </names>
+    <locales>
+      <locale><localeId>sw_KE.UTF-8</localeId><rank>900</rank></locale>
+      <locale><localeId>om_KE.UTF-8</localeId><rank>50</rank></locale>
+      <locale><localeId>so_KE.UTF-8</localeId><rank>40</rank></locale>
+    </locales>
+    <languages>
+      <language><languageId>sw</languageId><rank>800</rank></language>
+      <language><languageId>en</languageId><rank>100</rank></language>
+      <language><languageId>om</languageId><rank>50</rank></language>
+      <language><languageId>so</languageId><rank>40</rank></language>
+    </languages>
+    <keyboards>
+      <keyboard><keyboardId>ke</keyboardId><rank>1000</rank></keyboard>
+    </keyboards>
+    <timezones>
+      <timezone><timezoneId>Africa/Nairobi</timezoneId><rank>1000</rank></timezone>
+    </timezones>
+  </country>
+  <country>
     <countryId>KR</countryId>
     <names>
       <name><languageId>de</languageId><name>Republik Korea</name></name>
@@ -2407,6 +2430,25 @@
     </keyboards>
     <timezones>
       <timezone><timezoneId>Asia/Taipei</timezoneId><rank>1000</rank></timezone>
+    </timezones>
+  </country>
+  <country>
+    <countryId>TZ</countryId>
+    <names>
+      <name><languageId>en</languageId><name>Tanzania</name></name>
+    </names>
+    <locales>
+      <locale><localeId>sw_TZ.UTF-8</localeId><rank>1000</rank></locale>
+    </locales>
+    <languages>
+      <language><languageId>sw</languageId><rank>950</rank></language>
+      <language><languageId>en</languageId><rank>50</rank></language>
+    </languages>
+    <keyboards>
+      <keyboard><keyboardId>tz</keyboardId><rank>1000</rank></keyboard>
+    </keyboards>
+    <timezones>
+      <timezone><timezoneId>Africa/Dar_es_Salaam</timezoneId><rank>1000</rank></timezone>
     </timezones>
   </country>
   <country>

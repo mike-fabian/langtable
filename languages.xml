@@ -2233,6 +2233,31 @@
     </timezones>
   </language>
   <language>
+    <languageId>sw</languageId>
+    <iso639-1>sw</iso639-1>
+    <iso639-2-t>swa</iso639-2-t>
+    <iso639-2-b>swa</iso639-2-b>
+    <names>
+      <name><languageId>en</languageId><name>Swahili</name></name>
+    </names>
+    <locales>
+      <locale><localeId>sw_KE.UTF-8</localeId><rank>501</rank></locale>
+      <locale><localeId>sw_TZ.UTF-8</localeId><rank>499</rank></locale>
+    </locales>
+    <countries>
+      <country><countryId>KE</countryId><rank>501</rank></country>
+      <country><countryId>TZ</countryId><rank>490</rank></country>
+    </countries>
+    <keyboards>
+      <keyboard><keyboardId>ke</keyboardId><rank>501</rank></keyboard>
+      <keyboard><keyboardId>tz</keyboardId><rank>499</rank></keyboard>
+    </keyboards>
+    <timezones>
+      <timezone><timezoneId>Africa/Nairobi</timezoneId><rank>501</rank></timezone>
+      <timezone><timezoneId>Africa/Dar_es_Salaam</timezoneId><rank>499</rank></timezone>
+    </timezones>
+  </language>
+  <language>
     <languageId>ta</languageId>
     <iso639-1>ta</iso639-1>
     <iso639-2-t>tam</iso639-2-t>
