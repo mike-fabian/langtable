@@ -941,6 +941,27 @@
     </timezones>
   </language>
   <language>
+    <languageId>he</languageId>
+    <iso639-1>he</iso639-1>
+    <iso639-2-t>heb</iso639-2-t>
+    <iso639-2-b>heb</iso639-2-b>
+    <names>
+      <name><languageId>en</languageId><name>Hebrew</name></name>
+    </names>
+    <locales>
+      <locale><localeId>he_IL.UTF-8</localeId><rank>1000</rank></locale>
+    </locales>
+    <countries>
+      <country><countryId>IL</countryId><rank>1000</rank></country>
+    </countries>
+    <keyboards>
+      <keyboard><keyboardId>il</keyboardId><rank>1000</rank></keyboard>
+    </keyboards>
+    <timezones>
+      <timezone><timezoneId>Asia/Jerusalem</timezoneId><rank>1000</rank></timezone>
+    </timezones>
+  </language>
+  <language>
     <languageId>hi</languageId>
     <iso639-1>hi</iso639-1>
     <iso639-2-t>hin</iso639-2-t>

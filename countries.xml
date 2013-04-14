@@ -1389,6 +1389,26 @@
     </timezones>
   </country>
   <country>
+    <countryId>IL</countryId>
+    <names>
+      <name><languageId>en</languageId><name>Israel</name></name>
+    </names>
+    <locales>
+      <locale><localeId>he_IL.UTF-8</localeId><rank>1000</rank></locale>
+      <locale><localeId>iw_IL.UTF-8</localeId><rank>0</rank></locale>
+    </locales>
+    <languages>
+      <language><languageId>he</languageId><rank>1000</rank></language>
+      <language><languageId>iw</languageId><rank>0</rank></language>
+    </languages>
+    <keyboards>
+      <keyboard><keyboardId>il</keyboardId><rank>1000</rank></keyboard>
+    </keyboards>
+    <timezones>
+      <timezone><timezoneId>Asia/Jerusalem</timezoneId><rank>1000</rank></timezone>
+    </timezones>
+  </country>
+  <country>
     <countryId>IN</countryId>
     <names>
       <name><languageId>de</languageId><name>Indien</name></name>

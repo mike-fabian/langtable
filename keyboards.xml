@@ -350,6 +350,14 @@
     </languages>
   </keyboard>
   <keyboard>
+    <keyboardId>il</keyboardId>
+    <description>Hebrew</description>
+    <ascii>False</ascii>
+    <languages>
+      <language><languageId>he</languageId><rank>1000</rank></language>
+    </languages>
+  </keyboard>
+  <keyboard>
     <keyboardId>jp</keyboardId>
     <description>Japanese</description>
     <ascii>True</ascii>
