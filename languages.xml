@@ -1498,6 +1498,27 @@
     </timezones>
   </language>
   <language>
+    <languageId>lo</languageId>
+    <iso639-1>lo</iso639-1>
+    <iso639-2-t>lao</iso639-2-t>
+    <iso639-2-b>lao</iso639-2-b>
+    <names>
+      <name><languageId>en</languageId><name>Laos</name></name>
+    </names>
+    <locales>
+      <locale><localeId>lo_LA.UTF-8</localeId><rank>1000</rank></locale>
+    </locales>
+    <countries>
+      <country><countryId>LA</countryId><rank>1000</rank></country>
+    </countries>
+    <keyboards>
+      <keyboard><keyboardId>la</keyboardId><rank>1000</rank></keyboard>
+    </keyboards>
+    <timezones>
+      <timezone><timezoneId>Asia/Vientiane</timezoneId><rank>1000</rank></timezone>
+    </timezones>
+  </language>
+  <language>
     <languageId>lt</languageId>
     <iso639-1>lt</iso639-1>
     <iso639-2-t>lit</iso639-2-t>

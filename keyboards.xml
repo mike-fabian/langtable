@@ -414,6 +414,14 @@
     </languages>
   </keyboard>
   <keyboard>
+    <keyboardId>la</keyboardId>
+    <description>Lao</description>
+    <ascii>False</ascii>
+    <languages>
+      <language><languageId>lo</languageId><rank>1000</rank></language>
+    </languages>
+  </keyboard>
+  <keyboard>
     <keyboardId>latam</keyboardId>
     <description>Spanish (Latin American)</description>
     <ascii>True</ascii>
