@@ -1383,6 +1383,27 @@
     </timezones>
   </language>
   <language>
+    <languageId>ky</languageId>
+    <iso639-1>ky</iso639-1>
+    <iso639-2-t>kir</iso639-2-t>
+    <iso639-2-b>kir</iso639-2-b>
+    <names>
+      <name><languageId>en</languageId><name></name></name>
+    </names>
+    <locales>
+      <locale><localeId>ky_KG.UTF-8</localeId><rank>1000</rank></locale>
+    </locales>
+    <countries>
+      <country><countryId>KG</countryId><rank>1000</rank></country>
+    </countries>
+    <keyboards>
+      <keyboard><keyboardId>kg</keyboardId><rank>1000</rank></keyboard>
+    </keyboards>
+    <timezones>
+      <timezone><timezoneId>Asia/Bishkek</timezoneId><rank>1000</rank></timezone>
+    </timezones>
+  </language>
+  <language>
     <languageId>li</languageId>
     <iso639-1>li</iso639-1>
     <iso639-2-t>lim</iso639-2-t>

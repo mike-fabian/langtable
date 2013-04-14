@@ -1629,6 +1629,24 @@
     </timezones>
   </country>
   <country>
+    <countryId>KG</countryId>
+    <names>
+      <name><languageId>en</languageId><name>Kyrgyzstan</name></name>
+    </names>
+    <locales>
+      <locale><localeId>ky_KG.UTF-8</localeId><rank>1000</rank></locale>
+    </locales>
+    <languages>
+      <language><languageId>ky</languageId><rank>1000</rank></language>
+    </languages>
+    <keyboards>
+      <keyboard><keyboardId>kg</keyboardId><rank>1000</rank></keyboard>
+    </keyboards>
+    <timezones>
+      <timezone><timezoneId>Asia/Bishkek</timezoneId><rank>1000</rank></timezone>
+    </timezones>
+  </country>
+  <country>
     <countryId>KR</countryId>
     <names>
       <name><languageId>de</languageId><name>Republik Korea</name></name>

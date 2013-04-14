@@ -382,6 +382,14 @@
     </languages>
   </keyboard>
   <keyboard>
+    <keyboardId>kg</keyboardId>
+    <description>Kyrgyz</description>
+    <ascii>True</ascii>
+    <languages>
+      <language><languageId>ky</languageId><rank>1000</rank></language>
+    </languages>
+  </keyboard>
+  <keyboard>
     <keyboardId>kr</keyboardId>
     <description>Korean</description>
     <ascii>True</ascii>
