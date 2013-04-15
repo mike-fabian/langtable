@@ -1880,6 +1880,27 @@
     </timezones>
   </language>
   <language>
+    <languageId>ne</languageId>
+    <iso639-1>ne</iso639-1>
+    <iso639-2-t>nep</iso639-2-t>
+    <iso639-2-b>nep</iso639-2-b>
+    <names>
+      <name><languageId>en</languageId><name>Nepali</name></name>
+    </names>
+    <locales>
+      <locale><localeId>ne_NP.UTF-8</localeId><rank>1000</rank></locale>
+    </locales>
+    <countries>
+      <country><countryId>NP</countryId><rank>1000</rank></country>
+    </countries>
+    <keyboards>
+      <keyboard><keyboardId>np</keyboardId><rank>1000</rank></keyboard>
+    </keyboards>
+    <timezones>
+      <timezone><timezoneId>Asia/Kathmandu</timezoneId><rank>1000</rank></timezone>
+    </timezones>
+  </language>
+  <language>
     <languageId>nl</languageId>
     <iso639-1>nl</iso639-1>
     <iso639-2-t>nld</iso639-2-t>

@@ -2190,6 +2190,24 @@
     </timezones>
   </country>
   <country>
+    <countryId>NP</countryId>
+    <names>
+      <name><languageId>en</languageId><name>Nepal</name></name>
+    </names>
+    <locales>
+      <locale><localeId>ne_NP.UTF-8</localeId><rank>1000</rank></locale>
+    </locales>
+    <languages>
+      <language><languageId>ne</languageId><rank>1000</rank></language>
+    </languages>
+    <keyboards>
+      <keyboard><keyboardId>np</keyboardId><rank>1000</rank></keyboard>
+    </keyboards>
+    <timezones>
+      <timezone><timezoneId>Asia/Kathmandu</timezoneId><rank>1000</rank></timezone>
+    </timezones>
+  </country>
+  <country>
     <countryId>OM</countryId>
     <names>
       <name><languageId>de</languageId><name>Oman</name></name>

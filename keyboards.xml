@@ -535,6 +535,14 @@
     </languages>
   </keyboard>
   <keyboard>
+    <keyboardId>np</keyboardId>
+    <description>Nepali</description>
+    <ascii>False</ascii>
+    <languages>
+      <language><languageId>ne</languageId><rank>1000</rank></language>
+    </languages>
+  </keyboard>
+  <keyboard>
     <keyboardId>pt</keyboardId>
     <description>Portuguese</description>
     <ascii>True</ascii>
