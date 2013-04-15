@@ -2520,6 +2520,24 @@
     </timezones>
   </country>
   <country>
+    <countryId>RW</countryId>
+    <names>
+      <name><languageId>en</languageId><name>Rwanda</name></name>
+    </names>
+    <locales>
+      <locale><localeId>rw_RW.UTF-8</localeId><rank>1000</rank></locale>
+    </locales>
+    <languages>
+      <language><languageId>rw</languageId><rank>1000</rank></language>
+    </languages>
+    <keyboards>
+      <keyboard><keyboardId>us</keyboardId><rank>1000</rank></keyboard>
+    </keyboards>
+    <timezones>
+      <timezone><timezoneId>Africa/Kigali</timezoneId><rank>1000</rank></timezone>
+    </timezones>
+  </country>
+  <country>
     <countryId>SA</countryId>
     <names>
       <name><languageId>de</languageId><name>Saudi-Arabien</name></name>

@@ -2273,6 +2273,27 @@
     </timezones>
   </language>
   <language>
+    <languageId>rw</languageId>
+    <iso639-1>rw</iso639-1>
+    <iso639-2-t>kin</iso639-2-t>
+    <iso639-2-b>kin</iso639-2-b>
+    <names>
+      <name><languageId>en</languageId><name>Kinyarwanda</name></name>
+    </names>
+    <locales>
+      <locale><localeId>rw_RW.UTF-8</localeId><rank>1000</rank></locale>
+    </locales>
+    <countries>
+      <country><countryId>RW</countryId><rank>1000</rank></country>
+    </countries>
+    <keyboards>
+      <keyboard><keyboardId>us</keyboardId><rank>1000</rank></keyboard>
+    </keyboards>
+    <timezones>
+      <timezone><timezoneId>Africa/Kigali</timezoneId><rank>1000</rank></timezone>
+    </timezones>
+  </language>
+  <language>
     <languageId>sc</languageId>
     <iso639-1>sc</iso639-1>
     <iso639-2-t>srd</iso639-2-t>
