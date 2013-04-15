@@ -2677,6 +2677,25 @@
     </timezones>
   </country>
   <country>
+    <countryId>SO</countryId>
+    <names>
+      <name><languageId>en</languageId><name>Somalia</name></name>
+    </names>
+    <locales>
+      <locale><localeId>so_SO.UTF-8</localeId><rank>1000</rank></locale>
+    </locales>
+    <languages>
+      <language><languageId>so</languageId><rank>1000</rank></language>
+    </languages>
+    <keyboards>
+      <keyboard><keyboardId>us</keyboardId><rank>600</rank></keyboard>
+      <keyboard><keyboardId>ara</keyboardId><rank>400</rank></keyboard>
+    </keyboards>
+    <timezones>
+      <timezone><timezoneId>Africa/Mogadishu</timezoneId><rank>1000</rank></timezone>
+    </timezones>
+  </country>
+  <country>
     <countryId>SV</countryId>
     <names>
       <name><languageId>de</languageId><name>El Salvador</name></name>
