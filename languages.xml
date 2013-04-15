@@ -2082,6 +2082,31 @@
     </timezones>
   </language>
   <language>
+    <languageId>lb</languageId>
+    <iso639-1>lb</iso639-1>
+    <iso639-2-t>ltz</iso639-2-t>
+    <iso639-2-b>ltz</iso639-2-b>
+    <names>
+      <name><languageId>en</languageId><name>Luxembourgish</name></name>
+    </names>
+    <locales>
+      <locale><localeId>lb_LU.UTF-8</localeId><rank>1000</rank></locale>
+    </locales>
+    <countries>
+      <country><countryId>LU</countryId><rank>1000</rank></country>
+    </countries>
+    <keyboards>
+      <keyboard><keyboardId>fr(oss)</keyboardId><rank>400</rank></keyboard>
+      <keyboard><keyboardId>de(nodeadkeys)</keyboardId><rank>300</rank></keyboard>
+      <keyboard><keyboardId>de(deadacute)</keyboardId><rank>100</rank></keyboard>
+      <keyboard><keyboardId>fr</keyboardId><rank>0</rank></keyboard>
+      <keyboard><keyboardId>fr(latin9)</keyboardId><rank>0</rank></keyboard>
+    </keyboards>
+    <timezones>
+      <timezone><timezoneId>Europe/Luxembourg</timezoneId><rank>1000</rank></timezone>
+    </timezones>
+  </language>
+  <language>
     <languageId>lg</languageId>
     <iso639-1>lg</iso639-1>
     <iso639-2-t>lug</iso639-2-t>
@@ -2218,6 +2243,28 @@
     </timezones>
   </language>
   <language>
+    <languageId>mag</languageId>
+    <iso639-1>None</iso639-1>
+    <iso639-2-t>mag</iso639-2-t>
+    <iso639-2-b>mag</iso639-2-b>
+    <names>
+      <name><languageId>en</languageId><name>Magahi</name></name>
+      <name><languageId>mag</languageId><name>मगही</name></name>
+    </names>
+    <locales>
+      <locale><localeId>mag_IN.UTF-8</localeId><rank>1000</rank></locale>
+    </locales>
+    <countries>
+      <country><countryId>IN</countryId><rank>1000</rank></country>
+    </countries>
+    <keyboards>
+      <keyboard><keyboardId>us</keyboardId><rank>1000</rank></keyboard>
+    </keyboards>
+    <timezones>
+      <timezone><timezoneId>Asia/Kolkata</timezoneId><rank>1000</rank></timezone>
+    </timezones>
+  </language>
+  <language>
     <languageId>mai</languageId>
     <iso639-1>bh</iso639-1>
     <iso639-2-t>mai</iso639-2-t>
@@ -2257,6 +2304,28 @@
     </keyboards>
     <timezones>
       <timezone><timezoneId>Indian/Antananarivo</timezoneId><rank>1000</rank></timezone>
+    </timezones>
+  </language>
+  <language>
+    <languageId>mhr</languageId>
+    <iso639-1>None</iso639-1>
+    <iso639-2-t>chm</iso639-2-t>
+    <iso639-2-b>chm</iso639-2-b>
+    <names>
+      <name><languageId>en</languageId><name>Mari</name></name>
+      <name><languageId>mhr</languageId><name>марий йылме</name></name>
+    </names>
+    <locales>
+      <locale><localeId>mhr_RU.UTF-8</localeId><rank>1000</rank></locale>
+    </locales>
+    <countries>
+      <country><countryId>RU</countryId><rank>1000</rank></country>
+    </countries>
+    <keyboards>
+      <keyboard><keyboardId>ru</keyboardId><rank>1000</rank></keyboard>
+    </keyboards>
+    <timezones>
+      <timezone><timezoneId>Europe/Moscow</timezoneId><rank>1000</rank></timezone>
     </timezones>
   </language>
   <language>
@@ -2459,6 +2528,30 @@
     </keyboards>
     <timezones>
       <timezone><timezoneId>Asia/Rangoon</timezoneId><rank>1000</rank></timezone>
+    </timezones>
+  </language>
+  <language>
+    <languageId>nan</languageId>
+    <iso639-1>None</iso639-1>
+    <iso639-2-t>None</iso639-2-t>
+    <iso639-2-b>None</iso639-2-b>
+    <names>
+      <name><languageId>en</languageId><name>Southern Min</name></name>
+      <name><languageId>nan</languageId><name>閩南語</name></name>
+      <name><languageId>nan_Hans</languageId><name>闽南语</name></name>
+      <name><languageId>nan_Hant</languageId><name>閩南語</name></name>
+    </names>
+    <locales>
+      <locale><localeId>nan_TW.UTF-8</localeId><rank>1000</rank></locale>
+    </locales>
+    <countries>
+      <country><countryId>TW</countryId><rank>1000</rank></country>
+    </countries>
+    <keyboards>
+      <keyboard><keyboardId>cn</keyboardId><rank>1000</rank></keyboard>
+    </keyboards>
+    <timezones>
+      <timezone><timezoneId>Asia/Taipei</timezoneId><rank>1000</rank></timezone>
     </timezones>
   </language>
   <language>
