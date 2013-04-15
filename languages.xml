@@ -3480,6 +3480,48 @@
     </timezones>
   </language>
   <language>
+    <languageId>ss</languageId>
+    <iso639-1>ss</iso639-1>
+    <iso639-2-t>ssw</iso639-2-t>
+    <iso639-2-b>ssw</iso639-2-b>
+    <names>
+      <name><languageId>en</languageId><name>Swati</name></name>
+    </names>
+    <locales>
+      <locale><localeId>ss_ZA.UTF-8</localeId><rank>1000</rank></locale>
+    </locales>
+    <countries>
+      <country><countryId>ZA</countryId><rank>1000</rank></country>
+    </countries>
+    <keyboards>
+      <keyboard><keyboardId>us</keyboardId><rank>1000</rank></keyboard>
+    </keyboards>
+    <timezones>
+      <timezone><timezoneId>Africa/Johannesburg</timezoneId><rank>1000</rank></timezone>
+    </timezones>
+  </language>
+  <language>
+    <languageId>st</languageId>
+    <iso639-1>st</iso639-1>
+    <iso639-2-t>sot</iso639-2-t>
+    <iso639-2-b>sot</iso639-2-b>
+    <names>
+      <name><languageId>en</languageId><name>Southern Sotho</name></name>
+    </names>
+    <locales>
+      <locale><localeId>st_ZA.UTF-8</localeId><rank>1000</rank></locale>
+    </locales>
+    <countries>
+      <country><countryId>ZA</countryId><rank>1000</rank></country>
+    </countries>
+    <keyboards>
+      <keyboard><keyboardId>us</keyboardId><rank>1000</rank></keyboard>
+    </keyboards>
+    <timezones>
+      <timezone><timezoneId>Africa/Johannesburg</timezoneId><rank>1000</rank></timezone>
+    </timezones>
+  </language>
+  <language>
     <languageId>sv</languageId>
     <iso639-1>sv</iso639-1>
     <iso639-2-t>swe</iso639-2-t>
