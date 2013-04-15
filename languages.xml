@@ -1628,6 +1628,51 @@
     </timezones>
   </language>
   <language>
+    <languageId>mn</languageId>
+    <iso639-1>mn</iso639-1>
+    <iso639-2-t>mon</iso639-2-t>
+    <iso639-2-b>mon</iso639-2-b>
+    <names>
+      <name><languageId>en</languageId><name>Mongolian</name></name>
+    </names>
+    <locales>
+      <locale><localeId>mn_MN.UTF-8</localeId><rank>1000</rank></locale>
+    </locales>
+    <countries>
+      <country><countryId>MN</countryId><rank>1000</rank></country>
+    </countries>
+    <keyboards>
+      <keyboard><keyboardId>mn</keyboardId><rank>1000</rank></keyboard>
+    </keyboards>
+    <timezones>
+      <timezone><timezoneId>Asia/Ulaanbaatar</timezoneId><rank>990</rank></timezone>
+      <timezone><timezoneId>Asia/Hovd</timezoneId><rank>10</rank></timezone>
+      <timezone><timezoneId>Asia/Choibalsan</timezoneId><rank>1</rank></timezone>
+    </timezones>
+  </language>
+  <language>
+    <languageId>mni</languageId>
+    <iso639-1>None</iso639-1>
+    <iso639-2-t>mni</iso639-2-t>
+    <iso639-2-b>mni</iso639-2-b>
+    <names>
+      <name><languageId>en</languageId><name>Manipuri</name></name>
+      <name><languageId>mni</languageId><name>মৈতৈলোন্</name></name>
+    </names>
+    <locales>
+      <locale><localeId>mni_IN.UTF-8</localeId><rank>1000</rank></locale>
+    </locales>
+    <countries>
+      <country><countryId>IN</countryId><rank>1000</rank></country>
+    </countries>
+    <keyboards>
+      <keyboard><keyboardId>us</keyboardId><rank>1000</rank></keyboard>
+    </keyboards>
+    <timezones>
+      <timezone><timezoneId>Asia/Kolkata</timezoneId><rank>1000</rank></timezone>
+    </timezones>
+  </language>
+  <language>
     <languageId>mr</languageId>
     <iso639-1>mr</iso639-1>
     <iso639-2-t>mar</iso639-2-t>

@@ -462,6 +462,14 @@
     </languages>
   </keyboard>
   <keyboard>
+    <keyboardId>mn</keyboardId>
+    <description>Mongolian</description>
+    <ascii>False</ascii>
+    <languages>
+      <language><languageId>mn</languageId><rank>1000</rank></language>
+    </languages>
+  </keyboard>
+  <keyboard>
     <keyboardId>nl</keyboardId>
     <description>Dutch</description>
     <ascii>True</ascii>
