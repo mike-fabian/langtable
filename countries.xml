@@ -2900,15 +2900,18 @@
     </names>
     <locales>
       <locale><localeId>uk_UA.UTF-8</localeId><rank>900</rank></locale>
-      <locale><localeId>ru_UA.UTF-8</localeId><rank>100</rank></locale>
+      <locale><localeId>ru_UA.UTF-8</localeId><rank>90</rank></locale>
+      <locale><localeId>crh_UA.UTF-8</localeId><rank>10</rank></locale>
     </locales>
     <languages>
       <language><languageId>uk</languageId><rank>900</rank></language>
-      <language><languageId>ru</languageId><rank>100</rank></language>
+      <language><languageId>ru</languageId><rank>90</rank></language>
+      <language><languageId>crh</languageId><rank>10</rank></language>
     </languages>
     <keyboards>
       <keyboard><keyboardId>ua</keyboardId><rank>900</rank></keyboard>
-      <keyboard><keyboardId>ru</keyboardId><rank>100</rank></keyboard>
+      <keyboard><keyboardId>ru</keyboardId><rank>90</rank></keyboard>
+      <keyboard><keyboardId>tr(crh)</keyboardId><rank>10</rank></keyboard>
     </keyboards>
     <timezones>
       <timezone><timezoneId>Europe/Kiev</timezoneId><rank>1000</rank></timezone>
