@@ -427,6 +427,28 @@
     </timezones>
   </language>
   <language>
+    <languageId>brx</languageId>
+    <iso639-1>None</iso639-1>
+    <iso639-2-t>None</iso639-2-t>
+    <iso639-2-b>None</iso639-2-b>
+    <names>
+      <name><languageId>brx</languageId><name>बड़ो</name></name>
+      <name><languageId>en</languageId><name>Bodo</name></name>
+    </names>
+    <locales>
+      <locale><localeId>brx_IN.UTF-8</localeId><rank>1000</rank></locale>
+    </locales>
+    <countries>
+      <country><countryId>IN</countryId><rank>1000</rank></country>
+    </countries>
+    <keyboards>
+      <keyboard><keyboardId>us</keyboardId><rank>1000</rank></keyboard>
+    </keyboards>
+    <timezones>
+      <timezone><timezoneId>Asia/Kolkata</timezoneId><rank>1000</rank></timezone>
+    </timezones>
+  </language>
+  <language>
     <languageId>bs</languageId>
     <iso639-1>bs</iso639-1>
     <iso639-2-t>bos</iso639-2-t>
