@@ -43,11 +43,12 @@ class language:
         self.timezones = timezones
 
 class keyboard:
-    def __init__(self, description=None, ascii=True, languages=None, comment=None):
+    def __init__(self, description=None, ascii=True, languages=None, countries = None, comment=None):
         self.description = description
         self.ascii  = ascii
         self.comment = comment
         self.languages = languages
+        self.countries = countries
                   
 def read_countries_file(file):
     countriesTree = etree.parse(file).getroot()
@@ -243,6 +244,7 @@ def read_keyboards_file(file):
             ascii = True
             comment = None
             languages = {}
+            countries = {}
             for keyboardElement in keyboardTree:
                 if keyboardElement.tag == 'keyboardId':
                     keyboardId = keyboardElement.text
@@ -264,12 +266,25 @@ def read_keyboards_file(file):
                                     rank = int(languageElement.text)
                             if languageId != None:
                                 languages[languageId] = rank
+                elif keyboardElement.tag  == 'countries' and len(keyboardElement):
+                    for countryTree in keyboardElement:
+                        if countryTree.tag == 'country' and len(countryTree):
+                            languageId = None
+                            rank = int(0)
+                            for countryElement in countryTree:
+                                if countryElement.tag == 'countryId':
+                                    countryId = countryElement.text
+                                elif countryElement.tag == 'rank':
+                                    rank = int(countryElement.text)
+                            if countryId != None:
+                                countries[countryId] = rank
             if keyboardId != None:
                 keyboards[keyboardId] = keyboard(
                     description = description,
                     ascii = ascii,
                     comment = comment,
-                    languages = languages)
+                    languages = languages,
+                    countries = countries)
 
 def write_countries_file(file):
     file.write('<?xml version="1.0" encoding="UTF-8"?>\n')
@@ -403,6 +418,15 @@ def write_keyboards_file(file):
                 +'<rank>'+str(languages[language])+'</rank>'
                 +'</language>\n')
         file.write('    </languages>\n')
+        countries = keyboards[keyboardId].countries
+        file.write('    <countries>\n')
+        for country in sorted(countries, key=countries.get, reverse=True):
+            file.write(
+                '      <country>'
+                +'<countryId>'+country+'</countryId>'
+                +'<rank>'+str(countries[country])+'</rank>'
+                +'</country>\n')
+        file.write('    </countries>\n')
         file.write('  </keyboard>\n')
     file.write('</keyboards>\n')
     return

@@ -1136,24 +1136,6 @@
     </timezones>
   </country>
   <country>
-    <countryId>GE</countryId>
-    <names>
-      <name><languageId>en</languageId><name>Georgia</name></name>
-    </names>
-    <locales>
-      <locale><localeId>ka_GE.UTF-8</localeId><rank>1000</rank></locale>
-    </locales>
-    <languages>
-      <language><languageId>ka</languageId><rank>1000</rank></language>
-    </languages>
-    <keyboards>
-      <keyboard><keyboardId>ge</keyboardId><rank>1000</rank></keyboard>
-    </keyboards>
-    <timezones>
-      <timezone><timezoneId>Asia/Tbilisi</timezoneId><rank>1000</rank></timezone>
-    </timezones>
-  </country>
-  <country>
     <countryId>GB</countryId>
     <names>
       <name><languageId>cy</languageId><name>Prydain Fawr</name></name>
@@ -1179,6 +1161,24 @@
     </keyboards>
     <timezones>
       <timezone><timezoneId>Europe/London</timezoneId><rank>1000</rank></timezone>
+    </timezones>
+  </country>
+  <country>
+    <countryId>GE</countryId>
+    <names>
+      <name><languageId>en</languageId><name>Georgia</name></name>
+    </names>
+    <locales>
+      <locale><localeId>ka_GE.UTF-8</localeId><rank>1000</rank></locale>
+    </locales>
+    <languages>
+      <language><languageId>ka</languageId><rank>1000</rank></language>
+    </languages>
+    <keyboards>
+      <keyboard><keyboardId>ge</keyboardId><rank>1000</rank></keyboard>
+    </keyboards>
+    <timezones>
+      <timezone><timezoneId>Asia/Tbilisi</timezoneId><rank>1000</rank></timezone>
     </timezones>
   </country>
   <country>
@@ -2874,24 +2874,6 @@
     </timezones>
   </country>
   <country>
-    <countryId>UG</countryId>
-    <names>
-      <name><languageId>en</languageId><name>Uganda</name></name>
-    </names>
-    <locales>
-      <locale><localeId>lg_UG.UTF-8</localeId><rank>1000</rank></locale>
-    </locales>
-    <languages>
-      <language><languageId>lg</languageId><rank>1000</rank></language>
-    </languages>
-    <keyboards>
-      <keyboard><keyboardId>us</keyboardId><rank>1000</rank></keyboard>
-    </keyboards>
-    <timezones>
-      <timezone><timezoneId>Africa/Kampala</timezoneId><rank>1000</rank></timezone>
-    </timezones>
-  </country>
-  <country>
     <countryId>UA</countryId>
     <names>
       <name><languageId>de</languageId><name>Ukraine</name></name>
@@ -2918,6 +2900,24 @@
       <timezone><timezoneId>Europe/Uzhgorod</timezoneId><rank>1</rank></timezone>
       <timezone><timezoneId>Europe/Zaporozhye</timezoneId><rank>1</rank></timezone>
       <timezone><timezoneId>Europe/Simferopol</timezoneId><rank>1</rank></timezone>
+    </timezones>
+  </country>
+  <country>
+    <countryId>UG</countryId>
+    <names>
+      <name><languageId>en</languageId><name>Uganda</name></name>
+    </names>
+    <locales>
+      <locale><localeId>lg_UG.UTF-8</localeId><rank>1000</rank></locale>
+    </locales>
+    <languages>
+      <language><languageId>lg</languageId><rank>1000</rank></language>
+    </languages>
+    <keyboards>
+      <keyboard><keyboardId>us</keyboardId><rank>1000</rank></keyboard>
+    </keyboards>
+    <timezones>
+      <timezone><timezoneId>Africa/Kampala</timezoneId><rank>1000</rank></timezone>
     </timezones>
   </country>
   <country>

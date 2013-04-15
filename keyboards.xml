@@ -8,6 +8,11 @@
     <languages>
       <language><languageId>ca</languageId><rank>0</rank></language>
     </languages>
+    <countries>
+      <country><countryId>ES</countryId><rank>0</rank></country>
+      <country><countryId>FR</countryId><rank>0</rank></country>
+      <country><countryId>IT</countryId><rank>0</rank></country>
+    </countries>
   </keyboard>
   <keyboard>
     <keyboardId>af(ps)</keyboardId>
@@ -16,6 +21,9 @@
     <languages>
       <language><languageId>ps</languageId><rank>1000</rank></language>
     </languages>
+    <countries>
+      <country><countryId>AF</countryId><rank>1000</rank></country>
+    </countries>
   </keyboard>
   <keyboard>
     <keyboardId>al</keyboardId>
@@ -24,6 +32,9 @@
     <languages>
       <language><languageId>sq</languageId><rank>1000</rank></language>
     </languages>
+    <countries>
+      <country><countryId>AL</countryId><rank>1000</rank></country>
+    </countries>
   </keyboard>
   <keyboard>
     <keyboardId>am</keyboardId>
@@ -32,6 +43,9 @@
     <languages>
       <language><languageId>hy</languageId><rank>1000</rank></language>
     </languages>
+    <countries>
+      <country><countryId>AM</countryId><rank>1000</rank></country>
+    </countries>
   </keyboard>
   <keyboard>
     <keyboardId>at(nodeadkeys)</keyboardId>
@@ -40,6 +54,9 @@
     <languages>
       <language><languageId>de</languageId><rank>1000</rank></language>
     </languages>
+    <countries>
+      <country><countryId>AT</countryId><rank>1000</rank></country>
+    </countries>
   </keyboard>
   <keyboard>
     <keyboardId>az</keyboardId>
@@ -49,6 +66,9 @@
     <languages>
       <language><languageId>az</languageId><rank>1000</rank></language>
     </languages>
+    <countries>
+      <country><countryId>AZ</countryId><rank>1000</rank></country>
+    </countries>
   </keyboard>
   <keyboard>
     <keyboardId>az(cyrillic)</keyboardId>
@@ -56,8 +76,11 @@
     <ascii>False</ascii>
     <comment>former (times of Soviet Union) the Azeri language was written using Cyrillic, having some special Azeri-Cyrillic letters though</comment>
     <languages>
-      <language><languageId>az</languageId><rank>1000</rank></language>
+      <language><languageId>az</languageId><rank>10</rank></language>
     </languages>
+    <countries>
+      <country><countryId>AZ</countryId><rank>10</rank></country>
+    </countries>
   </keyboard>
   <keyboard>
     <keyboardId>ba</keyboardId>
@@ -66,6 +89,9 @@
     <languages>
       <language><languageId>bs</languageId><rank>1000</rank></language>
     </languages>
+    <countries>
+      <country><countryId>BA</countryId><rank>1000</rank></country>
+    </countries>
   </keyboard>
   <keyboard>
     <keyboardId>be</keyboardId>
@@ -76,6 +102,9 @@
       <language><languageId>fr</languageId><rank>400</rank></language>
       <language><languageId>de</languageId><rank>10</rank></language>
     </languages>
+    <countries>
+      <country><countryId>BE</countryId><rank>1000</rank></country>
+    </countries>
   </keyboard>
   <keyboard>
     <keyboardId>be(oss)</keyboardId>
@@ -86,6 +115,9 @@
       <language><languageId>fr</languageId><rank>400</rank></language>
       <language><languageId>de</languageId><rank>10</rank></language>
     </languages>
+    <countries>
+      <country><countryId>BE</countryId><rank>1000</rank></country>
+    </countries>
   </keyboard>
   <keyboard>
     <keyboardId>bg</keyboardId>
@@ -94,6 +126,9 @@
     <languages>
       <language><languageId>bg</languageId><rank>1000</rank></language>
     </languages>
+    <countries>
+      <country><countryId>BG</countryId><rank>1000</rank></country>
+    </countries>
   </keyboard>
   <keyboard>
     <keyboardId>br</keyboardId>
@@ -102,6 +137,9 @@
     <languages>
       <language><languageId>pt</languageId><rank>1000</rank></language>
     </languages>
+    <countries>
+      <country><countryId>BR</countryId><rank>1000</rank></country>
+    </countries>
   </keyboard>
   <keyboard>
     <keyboardId>bt</keyboardId>
@@ -110,38 +148,53 @@
     <languages>
       <language><languageId>dz</languageId><rank>1000</rank></language>
     </languages>
+    <countries>
+      <country><countryId>BT</countryId><rank>1000</rank></country>
+    </countries>
   </keyboard>
   <keyboard>
     <keyboardId>ca</keyboardId>
     <description>French (Canada)</description>
     <ascii>True</ascii>
     <languages>
-      <language>fr<languageId></languageId><rank>1000</rank></language>
+      <language><languageId>fr</languageId><rank>1000</rank></language>
     </languages>
+    <countries>
+      <country><countryId>CA</countryId><rank>1000</rank></country>
+    </countries>
   </keyboard>
   <keyboard>
     <keyboardId>ca(eng)</keyboardId>
     <description>English (Canada)</description>
     <ascii>True</ascii>
     <languages>
-      <language>en<languageId></languageId><rank>1000</rank></language>
+      <language><languageId>en</languageId><rank>1000</rank></language>
     </languages>
+    <countries>
+      <country><countryId>CA</countryId><rank>1000</rank></country>
+    </countries>
   </keyboard>
   <keyboard>
     <keyboardId>ca(ike)</keyboardId>
     <description>Inuktitut</description>
     <ascii>True</ascii>
     <languages>
-      <language>iu<languageId></languageId><rank>1000</rank></language>
+      <language><languageId>iu</languageId><rank>1000</rank></language>
     </languages>
+    <countries>
+      <country><countryId>CA</countryId><rank>1000</rank></country>
+    </countries>
   </keyboard>
   <keyboard>
     <keyboardId>ca(shs)</keyboardId>
     <description>Secwepemctsin</description>
     <ascii>True</ascii>
     <languages>
-      <language>shs<languageId></languageId><rank>1000</rank></language>
+      <language><languageId>shs</languageId><rank>1000</rank></language>
     </languages>
+    <countries>
+      <country><countryId>CA</countryId><rank>1000</rank></country>
+    </countries>
   </keyboard>
   <keyboard>
     <keyboardId>ch</keyboardId>
@@ -151,6 +204,9 @@
       <language><languageId>de</languageId><rank>600</rank></language>
       <language><languageId>fr</languageId><rank>400</rank></language>
     </languages>
+    <countries>
+      <country><countryId>CH</countryId><rank>1000</rank></country>
+    </countries>
   </keyboard>
   <keyboard>
     <keyboardId>ch(fr)</keyboardId>
@@ -160,6 +216,9 @@
       <language><languageId>fr</languageId><rank>600</rank></language>
       <language><languageId>de</languageId><rank>400</rank></language>
     </languages>
+    <countries>
+      <country><countryId>CH</countryId><rank>1000</rank></country>
+    </countries>
   </keyboard>
   <keyboard>
     <keyboardId>cn</keyboardId>
@@ -168,6 +227,13 @@
     <languages>
       <language><languageId>zh</languageId><rank>1000</rank></language>
     </languages>
+    <countries>
+      <country><countryId>CN</countryId><rank>200</rank></country>
+      <country><countryId>TW</countryId><rank>200</rank></country>
+      <country><countryId>HK</countryId><rank>200</rank></country>
+      <country><countryId>MO</countryId><rank>200</rank></country>
+      <country><countryId>SG</countryId><rank>200</rank></country>
+    </countries>
   </keyboard>
   <keyboard>
     <keyboardId>cn(uig)</keyboardId>
@@ -176,14 +242,9 @@
     <languages>
       <language><languageId>ug</languageId><rank>1000</rank></language>
     </languages>
-  </keyboard>
-  <keyboard>
-    <keyboardId>tr(crh)</keyboardId>
-    <description>Crimean Tatar (Turkish Q)</description>
-    <ascii>True</ascii>
-    <languages>
-      <language><languageId>crh</languageId><rank>1000</rank></language>
-    </languages>
+    <countries>
+      <country><countryId>CN</countryId><rank>1000</rank></country>
+    </countries>
   </keyboard>
   <keyboard>
     <keyboardId>cz</keyboardId>
@@ -192,6 +253,9 @@
     <languages>
       <language><languageId>cs</languageId><rank>1000</rank></language>
     </languages>
+    <countries>
+      <country><countryId>CZ</countryId><rank>1000</rank></country>
+    </countries>
   </keyboard>
   <keyboard>
     <keyboardId>de(deadacute)</keyboardId>
@@ -200,6 +264,10 @@
     <languages>
       <language><languageId>de</languageId><rank>1000</rank></language>
     </languages>
+    <countries>
+      <country><countryId>DE</countryId><rank>900</rank></country>
+      <country><countryId>LU</countryId><rank>100</rank></country>
+    </countries>
   </keyboard>
   <keyboard>
     <keyboardId>de(nodeadkeys)</keyboardId>
@@ -208,6 +276,10 @@
     <languages>
       <language><languageId>de</languageId><rank>1000</rank></language>
     </languages>
+    <countries>
+      <country><countryId>DE</countryId><rank>900</rank></country>
+      <country><countryId>LU</countryId><rank>100</rank></country>
+    </countries>
   </keyboard>
   <keyboard>
     <keyboardId>dk</keyboardId>
@@ -216,6 +288,9 @@
     <languages>
       <language><languageId>da</languageId><rank>1000</rank></language>
     </languages>
+    <countries>
+      <country><countryId>DK</countryId><rank>1000</rank></country>
+    </countries>
   </keyboard>
   <keyboard>
     <keyboardId>ee</keyboardId>
@@ -224,6 +299,9 @@
     <languages>
       <language><languageId>et</languageId><rank>1000</rank></language>
     </languages>
+    <countries>
+      <country><countryId>EE</countryId><rank>1000</rank></country>
+    </countries>
   </keyboard>
   <keyboard>
     <keyboardId>es</keyboardId>
@@ -233,6 +311,9 @@
       <language><languageId>es</languageId><rank>950</rank></language>
       <language><languageId>gl</languageId><rank>50</rank></language>
     </languages>
+    <countries>
+      <country><countryId>ES</countryId><rank>1000</rank></country>
+    </countries>
   </keyboard>
   <keyboard>
     <keyboardId>es(ast)</keyboardId>
@@ -241,6 +322,9 @@
     <languages>
       <language><languageId>ast</languageId><rank>1000</rank></language>
     </languages>
+    <countries>
+      <country><countryId>ES</countryId><rank>1000</rank></country>
+    </countries>
   </keyboard>
   <keyboard>
     <keyboardId>es(cat)</keyboardId>
@@ -250,6 +334,9 @@
     <languages>
       <language><languageId>ca</languageId><rank>1000</rank></language>
     </languages>
+    <countries>
+      <country><countryId>ES</countryId><rank>1000</rank></country>
+    </countries>
   </keyboard>
   <keyboard>
     <keyboardId>et</keyboardId>
@@ -262,6 +349,10 @@
       <language><languageId>byn</languageId><rank>50</rank></language>
       <language><languageId>gez</languageId><rank>1</rank></language>
     </languages>
+    <countries>
+      <country><countryId>ET</countryId><rank>900</rank></country>
+      <country><countryId>ER</countryId><rank>100</rank></country>
+    </countries>
   </keyboard>
   <keyboard>
     <keyboardId>fi</keyboardId>
@@ -271,6 +362,9 @@
       <language><languageId>fi</languageId><rank>900</rank></language>
       <language><languageId>sv</languageId><rank>100</rank></language>
     </languages>
+    <countries>
+      <country><countryId>FI</countryId><rank>1000</rank></country>
+    </countries>
   </keyboard>
   <keyboard>
     <keyboardId>fi(nodeadkeys)</keyboardId>
@@ -280,6 +374,9 @@
       <language><languageId>fi</languageId><rank>900</rank></language>
       <language><languageId>sv</languageId><rank>100</rank></language>
     </languages>
+    <countries>
+      <country><countryId>FI</countryId><rank>1000</rank></country>
+    </countries>
   </keyboard>
   <keyboard>
     <keyboardId>fo</keyboardId>
@@ -288,6 +385,9 @@
     <languages>
       <language><languageId>fo</languageId><rank>1000</rank></language>
     </languages>
+    <countries>
+      <country><countryId>FO</countryId><rank>1000</rank></country>
+    </countries>
   </keyboard>
   <keyboard>
     <keyboardId>fr</keyboardId>
@@ -297,6 +397,9 @@
     <languages>
       <language><languageId>fr</languageId><rank>0</rank></language>
     </languages>
+    <countries>
+      <country><countryId>FR</countryId><rank>0</rank></country>
+    </countries>
   </keyboard>
   <keyboard>
     <keyboardId>fr(latin9)</keyboardId>
@@ -304,8 +407,11 @@
     <ascii>True</ascii>
     <comment>Has been created by the French Linux community to complement fr and allow typing symbols necessary in correct French (added in iso-8859-15, but not present in typewriters or iso-8859-1)</comment>
     <languages>
-      <language><languageId>fr</languageId><rank>1000</rank></language>
+      <language><languageId>fr</languageId><rank>0</rank></language>
     </languages>
+    <countries>
+      <country><countryId>FR</countryId><rank>0</rank></country>
+    </countries>
   </keyboard>
   <keyboard>
     <keyboardId>fr(oss)</keyboardId>
@@ -315,14 +421,11 @@
     <languages>
       <language><languageId>fr</languageId><rank>1000</rank></language>
     </languages>
-  </keyboard>
-  <keyboard>
-    <keyboardId>ge</keyboardId>
-    <description>Georgian</description>
-    <ascii>False</ascii>
-    <languages>
-      <language><languageId>ka</languageId><rank>1000</rank></language>
-    </languages>
+    <countries>
+      <country><countryId>FR</countryId><rank>900</rank></country>
+      <country><countryId>LU</countryId><rank>50</rank></country>
+      <country><countryId>SN</countryId><rank>10</rank></country>
+    </countries>
   </keyboard>
   <keyboard>
     <keyboardId>gb</keyboardId>
@@ -332,6 +435,32 @@
       <language><languageId>en</languageId><rank>990</rank></language>
       <language><languageId>cy</languageId><rank>10</rank></language>
     </languages>
+    <countries>
+      <country><countryId>GB</countryId><rank>1000</rank></country>
+    </countries>
+  </keyboard>
+  <keyboard>
+    <keyboardId>ge</keyboardId>
+    <description>Georgian</description>
+    <ascii>False</ascii>
+    <languages>
+      <language><languageId>ka</languageId><rank>1000</rank></language>
+    </languages>
+    <countries>
+      <country><countryId>GE</countryId><rank>1000</rank></country>
+    </countries>
+  </keyboard>
+  <keyboard>
+    <keyboardId>gr</keyboardId>
+    <description>Greek</description>
+    <ascii>False</ascii>
+    <languages>
+      <language><languageId>el</languageId><rank>1000</rank></language>
+    </languages>
+    <countries>
+      <country><countryId>GR</countryId><rank>900</rank></country>
+      <country><countryId>CY</countryId><rank>100</rank></country>
+    </countries>
   </keyboard>
   <keyboard>
     <keyboardId>hr</keyboardId>
@@ -340,6 +469,9 @@
     <languages>
       <language><languageId>hr</languageId><rank>1000</rank></language>
     </languages>
+    <countries>
+      <country><countryId>HR</countryId><rank>1000</rank></country>
+    </countries>
   </keyboard>
   <keyboard>
     <keyboardId>hu</keyboardId>
@@ -348,6 +480,9 @@
     <languages>
       <language><languageId>hu</languageId><rank>1000</rank></language>
     </languages>
+    <countries>
+      <country><countryId>HU</countryId><rank>1000</rank></country>
+    </countries>
   </keyboard>
   <keyboard>
     <keyboardId>ie</keyboardId>
@@ -356,6 +491,9 @@
     <languages>
       <language><languageId>en</languageId><rank>1000</rank></language>
     </languages>
+    <countries>
+      <country><countryId>IE</countryId><rank>1000</rank></country>
+    </countries>
   </keyboard>
   <keyboard>
     <keyboardId>ie(CloGaelach)</keyboardId>
@@ -364,14 +502,9 @@
     <languages>
       <language><languageId>ga</languageId><rank>1000</rank></language>
     </languages>
-  </keyboard>
-  <keyboard>
-    <keyboardId>it</keyboardId>
-    <description>Italian</description>
-    <ascii>True</ascii>
-    <languages>
-      <language><languageId>it</languageId><rank>1000</rank></language>
-    </languages>
+    <countries>
+      <country><countryId>IE</countryId><rank>1000</rank></country>
+    </countries>
   </keyboard>
   <keyboard>
     <keyboardId>il</keyboardId>
@@ -380,6 +513,20 @@
     <languages>
       <language><languageId>he</languageId><rank>1000</rank></language>
     </languages>
+    <countries>
+      <country><countryId>IL</countryId><rank>1000</rank></country>
+    </countries>
+  </keyboard>
+  <keyboard>
+    <keyboardId>il(lyx)</keyboardId>
+    <description>Hebrew (lyx)</description>
+    <ascii>False</ascii>
+    <languages>
+      <language><languageId>he</languageId><rank>0</rank></language>
+    </languages>
+    <countries>
+      <country><countryId>IL</countryId><rank>0</rank></country>
+    </countries>
   </keyboard>
   <keyboard>
     <keyboardId>in(urd-winkeys)</keyboardId>
@@ -388,6 +535,9 @@
     <languages>
       <language><languageId>ur</languageId><rank>1000</rank></language>
     </languages>
+    <countries>
+      <country><countryId>IN</countryId><rank>1000</rank></country>
+    </countries>
   </keyboard>
   <keyboard>
     <keyboardId>ir</keyboardId>
@@ -396,6 +546,20 @@
     <languages>
       <language><languageId>fa</languageId><rank>1000</rank></language>
     </languages>
+    <countries>
+      <country><countryId>IR</countryId><rank>1000</rank></country>
+    </countries>
+  </keyboard>
+  <keyboard>
+    <keyboardId>it</keyboardId>
+    <description>Italian</description>
+    <ascii>True</ascii>
+    <languages>
+      <language><languageId>it</languageId><rank>1000</rank></language>
+    </languages>
+    <countries>
+      <country><countryId>IT</countryId><rank>1000</rank></country>
+    </countries>
   </keyboard>
   <keyboard>
     <keyboardId>jp</keyboardId>
@@ -404,14 +568,20 @@
     <languages>
       <language><languageId>ja</languageId><rank>1000</rank></language>
     </languages>
+    <countries>
+      <country><countryId>JP</countryId><rank>1000</rank></country>
+    </countries>
   </keyboard>
   <keyboard>
     <keyboardId>ke</keyboardId>
     <description>Swahili (Kenya)</description>
     <ascii>True</ascii>
     <languages>
-      <language><languageId></languageId><rank>1000</rank></language>
+      <language><languageId>sw</languageId><rank>1000</rank></language>
     </languages>
+    <countries>
+      <country><countryId>KE</countryId><rank>1000</rank></country>
+    </countries>
   </keyboard>
   <keyboard>
     <keyboardId>kg</keyboardId>
@@ -420,6 +590,9 @@
     <languages>
       <language><languageId>ky</languageId><rank>1000</rank></language>
     </languages>
+    <countries>
+      <country><countryId>KG</countryId><rank>1000</rank></country>
+    </countries>
   </keyboard>
   <keyboard>
     <keyboardId>kh</keyboardId>
@@ -428,6 +601,9 @@
     <languages>
       <language><languageId>km</languageId><rank>1000</rank></language>
     </languages>
+    <countries>
+      <country><countryId>KH</countryId><rank>1000</rank></country>
+    </countries>
   </keyboard>
   <keyboard>
     <keyboardId>kr</keyboardId>
@@ -436,6 +612,9 @@
     <languages>
       <language><languageId>kr</languageId><rank>1000</rank></language>
     </languages>
+    <countries>
+      <country><countryId>KR</countryId><rank>1000</rank></country>
+    </countries>
   </keyboard>
   <keyboard>
     <keyboardId>kz</keyboardId>
@@ -444,6 +623,9 @@
     <languages>
       <language><languageId>kk</languageId><rank>1000</rank></language>
     </languages>
+    <countries>
+      <country><countryId>KZ</countryId><rank>1000</rank></country>
+    </countries>
   </keyboard>
   <keyboard>
     <keyboardId>la</keyboardId>
@@ -452,6 +634,9 @@
     <languages>
       <language><languageId>lo</languageId><rank>1000</rank></language>
     </languages>
+    <countries>
+      <country><countryId>LA</countryId><rank>1000</rank></country>
+    </countries>
   </keyboard>
   <keyboard>
     <keyboardId>latam</keyboardId>
@@ -460,6 +645,29 @@
     <languages>
       <language><languageId>es</languageId><rank>1000</rank></language>
     </languages>
+    <countries>
+      <country><countryId>EC</countryId><rank>1000</rank></country>
+      <country><countryId>UY</countryId><rank>1000</rank></country>
+      <country><countryId>PE</countryId><rank>1000</rank></country>
+      <country><countryId>NI</countryId><rank>1000</rank></country>
+      <country><countryId>HT</countryId><rank>1000</rank></country>
+      <country><countryId>GT</countryId><rank>1000</rank></country>
+      <country><countryId>PA</countryId><rank>1000</rank></country>
+      <country><countryId>US</countryId><rank>1000</rank></country>
+      <country><countryId>HN</countryId><rank>1000</rank></country>
+      <country><countryId>SV</countryId><rank>1000</rank></country>
+      <country><countryId>VE</countryId><rank>1000</rank></country>
+      <country><countryId>CU</countryId><rank>1000</rank></country>
+      <country><countryId>PY</countryId><rank>1000</rank></country>
+      <country><countryId>PR</countryId><rank>1000</rank></country>
+      <country><countryId>CR</countryId><rank>1000</rank></country>
+      <country><countryId>DO</countryId><rank>1000</rank></country>
+      <country><countryId>MX</countryId><rank>1000</rank></country>
+      <country><countryId>CO</countryId><rank>1000</rank></country>
+      <country><countryId>AR</countryId><rank>1000</rank></country>
+      <country><countryId>BO</countryId><rank>1000</rank></country>
+      <country><countryId>CL</countryId><rank>1000</rank></country>
+    </countries>
   </keyboard>
   <keyboard>
     <keyboardId>lt</keyboardId>
@@ -468,6 +676,9 @@
     <languages>
       <language><languageId>lt</languageId><rank>1000</rank></language>
     </languages>
+    <countries>
+      <country><countryId>LT</countryId><rank>1000</rank></country>
+    </countries>
   </keyboard>
   <keyboard>
     <keyboardId>lv</keyboardId>
@@ -476,6 +687,9 @@
     <languages>
       <language><languageId>lv</languageId><rank>1000</rank></language>
     </languages>
+    <countries>
+      <country><countryId>LV</countryId><rank>1000</rank></country>
+    </countries>
   </keyboard>
   <keyboard>
     <keyboardId>ma</keyboardId>
@@ -484,6 +698,9 @@
     <languages>
       <language><languageId>ar</languageId><rank>1000</rank></language>
     </languages>
+    <countries>
+      <country><countryId>MA</countryId><rank>1000</rank></country>
+    </countries>
   </keyboard>
   <keyboard>
     <keyboardId>ma(french)</keyboardId>
@@ -492,6 +709,9 @@
     <languages>
       <language><languageId>fr</languageId><rank>1000</rank></language>
     </languages>
+    <countries>
+      <country><countryId>MA</countryId><rank>1000</rank></country>
+    </countries>
   </keyboard>
   <keyboard>
     <keyboardId>ma(tifinagh)</keyboardId>
@@ -500,6 +720,9 @@
     <languages>
       <language><languageId>ber</languageId><rank>1000</rank></language>
     </languages>
+    <countries>
+      <country><countryId>MA</countryId><rank>1000</rank></country>
+    </countries>
   </keyboard>
   <keyboard>
     <keyboardId>mk</keyboardId>
@@ -508,6 +731,9 @@
     <languages>
       <language><languageId>mk</languageId><rank>1000</rank></language>
     </languages>
+    <countries>
+      <country><countryId>MK</countryId><rank>1000</rank></country>
+    </countries>
   </keyboard>
   <keyboard>
     <keyboardId>mm</keyboardId>
@@ -516,6 +742,9 @@
     <languages>
       <language><languageId>my</languageId><rank>1000</rank></language>
     </languages>
+    <countries>
+      <country><countryId>MM</countryId><rank>1000</rank></country>
+    </countries>
   </keyboard>
   <keyboard>
     <keyboardId>mn</keyboardId>
@@ -524,6 +753,9 @@
     <languages>
       <language><languageId>mn</languageId><rank>1000</rank></language>
     </languages>
+    <countries>
+      <country><countryId>MN</countryId><rank>1000</rank></country>
+    </countries>
   </keyboard>
   <keyboard>
     <keyboardId>mt</keyboardId>
@@ -532,6 +764,9 @@
     <languages>
       <language><languageId>mt</languageId><rank>1000</rank></language>
     </languages>
+    <countries>
+      <country><countryId>MT</countryId><rank>1000</rank></country>
+    </countries>
   </keyboard>
   <keyboard>
     <keyboardId>mt(us)</keyboardId>
@@ -540,6 +775,9 @@
     <languages>
       <language><languageId>mt</languageId><rank>1000</rank></language>
     </languages>
+    <countries>
+      <country><countryId>MT</countryId><rank>1000</rank></country>
+    </countries>
   </keyboard>
   <keyboard>
     <keyboardId>mv</keyboardId>
@@ -548,6 +786,9 @@
     <languages>
       <language><languageId>dv</languageId><rank>1000</rank></language>
     </languages>
+    <countries>
+      <country><countryId>MV</countryId><rank>1000</rank></country>
+    </countries>
   </keyboard>
   <keyboard>
     <keyboardId>ng</keyboardId>
@@ -556,22 +797,9 @@
     <languages>
       <language><languageId>en</languageId><rank>1000</rank></language>
     </languages>
-  </keyboard>
-  <keyboard>
-    <keyboardId>ng(yoruba)</keyboardId>
-    <description>Yoruba</description>
-    <ascii>False</ascii>
-    <languages>
-      <language><languageId>yo</languageId><rank>1000</rank></language>
-    </languages>
-  </keyboard>
-  <keyboard>
-    <keyboardId>ng(igbo)</keyboardId>
-    <description>Igbo</description>
-    <ascii>False</ascii>
-    <languages>
-      <language><languageId>ig</languageId><rank>1000</rank></language>
-    </languages>
+    <countries>
+      <country><countryId>NG</countryId><rank>1000</rank></country>
+    </countries>
   </keyboard>
   <keyboard>
     <keyboardId>ng(hausa)</keyboardId>
@@ -580,6 +808,31 @@
     <languages>
       <language><languageId>ha</languageId><rank>1000</rank></language>
     </languages>
+    <countries>
+      <country><countryId>NG</countryId><rank>1000</rank></country>
+    </countries>
+  </keyboard>
+  <keyboard>
+    <keyboardId>ng(igbo)</keyboardId>
+    <description>Igbo</description>
+    <ascii>False</ascii>
+    <languages>
+      <language><languageId>ig</languageId><rank>1000</rank></language>
+    </languages>
+    <countries>
+      <country><countryId>NG</countryId><rank>1000</rank></country>
+    </countries>
+  </keyboard>
+  <keyboard>
+    <keyboardId>ng(yoruba)</keyboardId>
+    <description>Yoruba</description>
+    <ascii>False</ascii>
+    <languages>
+      <language><languageId>yo</languageId><rank>1000</rank></language>
+    </languages>
+    <countries>
+      <country><countryId>NG</countryId><rank>1000</rank></country>
+    </countries>
   </keyboard>
   <keyboard>
     <keyboardId>nl</keyboardId>
@@ -589,6 +842,9 @@
     <languages>
       <language><languageId>nl</languageId><rank>0</rank></language>
     </languages>
+    <countries>
+      <country><countryId>NL</countryId><rank>1000</rank></country>
+    </countries>
   </keyboard>
   <keyboard>
     <keyboardId>np</keyboardId>
@@ -597,6 +853,9 @@
     <languages>
       <language><languageId>ne</languageId><rank>1000</rank></language>
     </languages>
+    <countries>
+      <country><countryId>NP</countryId><rank>1000</rank></country>
+    </countries>
   </keyboard>
   <keyboard>
     <keyboardId>ph</keyboardId>
@@ -607,6 +866,9 @@
       <language><languageId>en</languageId><rank>300</rank></language>
       <language><languageId>tl</languageId><rank>200</rank></language>
     </languages>
+    <countries>
+      <country><countryId>PH</countryId><rank>1000</rank></country>
+    </countries>
   </keyboard>
   <keyboard>
     <keyboardId>pk</keyboardId>
@@ -615,6 +877,9 @@
     <languages>
       <language><languageId>ur</languageId><rank>1000</rank></language>
     </languages>
+    <countries>
+      <country><countryId>PK</countryId><rank>1000</rank></country>
+    </countries>
   </keyboard>
   <keyboard>
     <keyboardId>pt</keyboardId>
@@ -623,6 +888,9 @@
     <languages>
       <language><languageId>pt</languageId><rank>1000</rank></language>
     </languages>
+    <countries>
+      <country><countryId>PT</countryId><rank>1000</rank></country>
+    </countries>
   </keyboard>
   <keyboard>
     <keyboardId>ro</keyboardId>
@@ -631,6 +899,9 @@
     <languages>
       <language><languageId>ro</languageId><rank>1000</rank></language>
     </languages>
+    <countries>
+      <country><countryId>RO</countryId><rank>1000</rank></country>
+    </countries>
   </keyboard>
   <keyboard>
     <keyboardId>rs</keyboardId>
@@ -640,6 +911,9 @@
       <language><languageId>sr_Cyrl</languageId><rank>600</rank></language>
       <language><languageId>sr</languageId><rank>400</rank></language>
     </languages>
+    <countries>
+      <country><countryId>RS</countryId><rank>1000</rank></country>
+    </countries>
   </keyboard>
   <keyboard>
     <keyboardId>rs(latin)</keyboardId>
@@ -649,6 +923,9 @@
       <language><languageId>sr_Latn</languageId><rank>600</rank></language>
       <language><languageId>sr</languageId><rank>400</rank></language>
     </languages>
+    <countries>
+      <country><countryId>RS</countryId><rank>1000</rank></country>
+    </countries>
   </keyboard>
   <keyboard>
     <keyboardId>ru</keyboardId>
@@ -657,6 +934,15 @@
     <languages>
       <language><languageId>ru</languageId><rank>1000</rank></language>
     </languages>
+    <countries>
+      <country><countryId>RU</countryId><rank>800</rank></country>
+      <country><countryId>BY</countryId><rank>100</rank></country>
+      <country><countryId>UA</countryId><rank>100</rank></country>
+      <country><countryId>KZ</countryId><rank>10</rank></country>
+      <country><countryId>LT</countryId><rank>0</rank></country>
+      <country><countryId>LV</countryId><rank>0</rank></country>
+      <country><countryId>ET</countryId><rank>0</rank></country>
+    </countries>
   </keyboard>
   <keyboard>
     <keyboardId>ru(cv)</keyboardId>
@@ -665,6 +951,9 @@
     <languages>
       <language><languageId>cv</languageId><rank>1000</rank></language>
     </languages>
+    <countries>
+      <country><countryId>RU</countryId><rank>1000</rank></country>
+    </countries>
   </keyboard>
   <keyboard>
     <keyboardId>ru(os_winkeys)</keyboardId>
@@ -673,6 +962,9 @@
     <languages>
       <language><languageId>os</languageId><rank>1000</rank></language>
     </languages>
+    <countries>
+      <country><countryId>RU</countryId><rank>1000</rank></country>
+    </countries>
   </keyboard>
   <keyboard>
     <keyboardId>ru(tt)</keyboardId>
@@ -681,6 +973,9 @@
     <languages>
       <language><languageId>tt</languageId><rank>1000</rank></language>
     </languages>
+    <countries>
+      <country><countryId>RU</countryId><rank>1000</rank></country>
+    </countries>
   </keyboard>
   <keyboard>
     <keyboardId>se</keyboardId>
@@ -689,6 +984,9 @@
     <languages>
       <language><languageId>sv</languageId><rank>1000</rank></language>
     </languages>
+    <countries>
+      <country><countryId>SE</countryId><rank>1000</rank></country>
+    </countries>
   </keyboard>
   <keyboard>
     <keyboardId>se(nodeadkeys)</keyboardId>
@@ -697,6 +995,9 @@
     <languages>
       <language><languageId>sv</languageId><rank>1000</rank></language>
     </languages>
+    <countries>
+      <country><countryId>SE</countryId><rank>1000</rank></country>
+    </countries>
   </keyboard>
   <keyboard>
     <keyboardId>si</keyboardId>
@@ -705,6 +1006,9 @@
     <languages>
       <language><languageId>sl</languageId><rank>1000</rank></language>
     </languages>
+    <countries>
+      <country><countryId>SI</countryId><rank>1000</rank></country>
+    </countries>
   </keyboard>
   <keyboard>
     <keyboardId>sk</keyboardId>
@@ -713,6 +1017,9 @@
     <languages>
       <language><languageId>sk</languageId><rank>1000</rank></language>
     </languages>
+    <countries>
+      <country><countryId>SK</countryId><rank>1000</rank></country>
+    </countries>
   </keyboard>
   <keyboard>
     <keyboardId>sn</keyboardId>
@@ -721,6 +1028,9 @@
     <languages>
       <language><languageId>wo</languageId><rank>1000</rank></language>
     </languages>
+    <countries>
+      <country><countryId>SN</countryId><rank>1000</rank></country>
+    </countries>
   </keyboard>
   <keyboard>
     <keyboardId>th</keyboardId>
@@ -729,6 +1039,9 @@
     <languages>
       <language><languageId>th</languageId><rank>1000</rank></language>
     </languages>
+    <countries>
+      <country><countryId>TH</countryId><rank>1000</rank></country>
+    </countries>
   </keyboard>
   <keyboard>
     <keyboardId>th(pat)</keyboardId>
@@ -737,6 +1050,9 @@
     <languages>
       <language><languageId>th</languageId><rank>0</rank></language>
     </languages>
+    <countries>
+      <country><countryId>TH</countryId><rank>0</rank></country>
+    </countries>
   </keyboard>
   <keyboard>
     <keyboardId>th(tis)</keyboardId>
@@ -745,6 +1061,9 @@
     <languages>
       <language><languageId>th</languageId><rank>0</rank></language>
     </languages>
+    <countries>
+      <country><countryId>TH</countryId><rank>0</rank></country>
+    </countries>
   </keyboard>
   <keyboard>
     <keyboardId>tj</keyboardId>
@@ -753,14 +1072,20 @@
     <languages>
       <language><languageId>tj</languageId><rank>1000</rank></language>
     </languages>
+    <countries>
+      <country><countryId>TJ</countryId><rank>1000</rank></country>
+    </countries>
   </keyboard>
   <keyboard>
     <keyboardId>tm</keyboardId>
     <description>Turkmen</description>
     <ascii>True</ascii>
     <languages>
-      <language><languageId>tm</languageId><rank>1000</rank></language>
+      <language><languageId>tk</languageId><rank>1000</rank></language>
     </languages>
+    <countries>
+      <country><countryId>TM</countryId><rank>1000</rank></country>
+    </countries>
   </keyboard>
   <keyboard>
     <keyboardId>tr</keyboardId>
@@ -769,6 +1094,20 @@
     <languages>
       <language><languageId>tr</languageId><rank>1000</rank></language>
     </languages>
+    <countries>
+      <country><countryId>TR</countryId><rank>1000</rank></country>
+    </countries>
+  </keyboard>
+  <keyboard>
+    <keyboardId>tr(crh)</keyboardId>
+    <description>Crimean Tatar (Turkish Q)</description>
+    <ascii>True</ascii>
+    <languages>
+      <language><languageId>crh</languageId><rank>1000</rank></language>
+    </languages>
+    <countries>
+      <country><countryId>UA</countryId><rank>1000</rank></country>
+    </countries>
   </keyboard>
   <keyboard>
     <keyboardId>tr(ku)</keyboardId>
@@ -777,6 +1116,9 @@
     <languages>
       <language><languageId>ku</languageId><rank>1000</rank></language>
     </languages>
+    <countries>
+      <country><countryId>TR</countryId><rank>1000</rank></country>
+    </countries>
   </keyboard>
   <keyboard>
     <keyboardId>tz</keyboardId>
@@ -785,6 +1127,9 @@
     <languages>
       <language><languageId>sw</languageId><rank>1000</rank></language>
     </languages>
+    <countries>
+      <country><countryId>TZ</countryId><rank>1000</rank></country>
+    </countries>
   </keyboard>
   <keyboard>
     <keyboardId>ua</keyboardId>
@@ -793,6 +1138,9 @@
     <languages>
       <language><languageId>uk</languageId><rank>1000</rank></language>
     </languages>
+    <countries>
+      <country><countryId>UA</countryId><rank>1000</rank></country>
+    </countries>
   </keyboard>
   <keyboard>
     <keyboardId>us</keyboardId>
@@ -801,6 +1149,30 @@
     <languages>
       <language><languageId>en</languageId><rank>1000</rank></language>
     </languages>
+    <countries>
+      <country><countryId>AU</countryId><rank>1000</rank></country>
+      <country><countryId>BD</countryId><rank>100</rank></country>
+      <country><countryId>BW</countryId><rank>100</rank></country>
+      <country><countryId>CA</countryId><rank>1000</rank></country>
+      <country><countryId>CN</countryId><rank>100</rank></country>
+      <country><countryId>DJ</countryId><rank>100</rank></country>
+      <country><countryId>GL</countryId><rank>100</rank></country>
+      <country><countryId>ID</countryId><rank>100</rank></country>
+      <country><countryId>IN</countryId><rank>100</rank></country>
+      <country><countryId>LK</countryId><rank>100</rank></country>
+      <country><countryId>MG</countryId><rank>100</rank></country>
+      <country><countryId>MY</countryId><rank>100</rank></country>
+      <country><countryId>NZ</countryId><rank>1000</rank></country>
+      <country><countryId>PK</countryId><rank>100</rank></country>
+      <country><countryId>RW</countryId><rank>100</rank></country>
+      <country><countryId>SG</countryId><rank>100</rank></country>
+      <country><countryId>SO</countryId><rank>100</rank></country>
+      <country><countryId>UG</countryId><rank>100</rank></country>
+      <country><countryId>US</countryId><rank>1000</rank></country>
+      <country><countryId>ZA</countryId><rank>100</rank></country>
+      <country><countryId>ZM</countryId><rank>100</rank></country>
+      <country><countryId>ZW</countryId><rank>100</rank></country>
+    </countries>
   </keyboard>
   <keyboard>
     <keyboardId>us(altgr-intl)</keyboardId>
@@ -811,6 +1183,9 @@
       <language><languageId>nl</languageId><rank>90</rank></language>
       <language><languageId>en</languageId><rank>10</rank></language>
     </languages>
+    <countries>
+      <country><countryId>NL</countryId><rank>1000</rank></country>
+    </countries>
   </keyboard>
   <keyboard>
     <keyboardId>us(euro)</keyboardId>
@@ -821,6 +1196,9 @@
       <language><languageId>nl</languageId><rank>95</rank></language>
       <language><languageId>en</languageId><rank>10</rank></language>
     </languages>
+    <countries>
+      <country><countryId>NL</countryId><rank>1000</rank></country>
+    </countries>
   </keyboard>
   <keyboard>
     <keyboardId>uz</keyboardId>
@@ -829,6 +1207,9 @@
     <languages>
       <language><languageId>uz</languageId><rank>1000</rank></language>
     </languages>
+    <countries>
+      <country><countryId>UZ</countryId><rank>1000</rank></country>
+    </countries>
   </keyboard>
   <keyboard>
     <keyboardId>uz(latin)</keyboardId>
@@ -837,6 +1218,9 @@
     <languages>
       <language><languageId>uz</languageId><rank>1000</rank></language>
     </languages>
+    <countries>
+      <country><countryId>UZ</countryId><rank>1000</rank></country>
+    </countries>
   </keyboard>
   <keyboard>
     <keyboardId>vn</keyboardId>
@@ -845,5 +1229,8 @@
     <languages>
       <language><languageId>vi</languageId><rank>1000</rank></language>
     </languages>
+    <countries>
+      <country><countryId>VN</countryId><rank>1000</rank></country>
+    </countries>
   </keyboard>
 </keyboards>
