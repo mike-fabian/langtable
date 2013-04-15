@@ -454,6 +454,30 @@
     </languages>
   </keyboard>
   <keyboard>
+    <keyboardId>ma</keyboardId>
+    <description>Arabic (Morocco)</description>
+    <ascii>False</ascii>
+    <languages>
+      <language><languageId>ar</languageId><rank>1000</rank></language>
+    </languages>
+  </keyboard>
+  <keyboard>
+    <keyboardId>ma(french)</keyboardId>
+    <description>French (Morocco)</description>
+    <ascii>True</ascii>
+    <languages>
+      <language><languageId>fr</languageId><rank>1000</rank></language>
+    </languages>
+  </keyboard>
+  <keyboard>
+    <keyboardId>ma(tifinagh)</keyboardId>
+    <description>Berber (Morocco, Tifinagh)</description>
+    <ascii>False</ascii>
+    <languages>
+      <language><languageId>ber</languageId><rank>1000</rank></language>
+    </languages>
+  </keyboard>
+  <keyboard>
     <keyboardId>mk</keyboardId>
     <description>Macedonian</description>
     <ascii>False</ascii>
