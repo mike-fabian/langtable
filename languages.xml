@@ -1455,6 +1455,7 @@
     </names>
     <locales>
       <locale><localeId>he_IL.UTF-8</localeId><rank>1000</rank></locale>
+      <locale><localeId>iw_IL.UTF-8</localeId><rank>0</rank></locale>
     </locales>
     <countries>
       <country><countryId>IL</countryId><rank>1000</rank></country>
@@ -1770,6 +1771,28 @@
       <timezone><timezoneId>America/Creston</timezoneId><rank>100</rank></timezone>
       <timezone><timezoneId>America/Vancouver</timezoneId><rank>100</rank></timezone>
       <timezone><timezoneId>America/Yellowknife</timezoneId><rank>1</rank></timezone>
+    </timezones>
+  </language>
+  <language>
+    <languageId>iw</languageId>
+    <iso639-1>None</iso639-1>
+    <iso639-2-t>None</iso639-2-t>
+    <iso639-2-b>None</iso639-2-b>
+    <names>
+      <name><languageId>en</languageId><name>Hebrew</name></name>
+    </names>
+    <locales>
+      <locale><localeId>he_IL.UTF-8</localeId><rank>1000</rank></locale>
+      <locale><localeId>iw_IL.UTF-8</localeId><rank>0</rank></locale>
+    </locales>
+    <countries>
+      <country><countryId>IL</countryId><rank>1000</rank></country>
+    </countries>
+    <keyboards>
+      <keyboard><keyboardId>il</keyboardId><rank>1000</rank></keyboard>
+    </keyboards>
+    <timezones>
+      <timezone><timezoneId>Asia/Jerusalem</timezoneId><rank>1000</rank></timezone>
     </timezones>
   </language>
   <language>
