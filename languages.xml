@@ -3921,6 +3921,32 @@
     </timezones>
   </language>
   <language>
+    <languageId>ur</languageId>
+    <iso639-1>ur</iso639-1>
+    <iso639-2-t>urd</iso639-2-t>
+    <iso639-2-b>urd</iso639-2-b>
+    <names>
+      <name><languageId>en</languageId><name>Urdu</name></name>
+      <name><languageId>ur</languageId><name>اردو</name></name>
+    </names>
+    <locales>
+      <locale><localeId>ur_IN.UTF-8</localeId><rank>501</rank></locale>
+      <locale><localeId>ur_PK.UTF-8</localeId><rank>499</rank></locale>
+    </locales>
+    <countries>
+      <country><countryId>IN</countryId><rank>501</rank></country>
+      <country><countryId>PK</countryId><rank>501</rank></country>
+    </countries>
+    <keyboards>
+      <keyboard><keyboardId>pk</keyboardId><rank>501</rank></keyboard>
+      <keyboard><keyboardId>in(urd-winkeys)</keyboardId><rank>499</rank></keyboard>
+    </keyboards>
+    <timezones>
+      <timezone><timezoneId>Asia/Kolkata</timezoneId><rank>501</rank></timezone>
+      <timezone><timezoneId>Asia/Karachi</timezoneId><rank>499</rank></timezone>
+    </timezones>
+  </language>
+  <language>
     <languageId>uz</languageId>
     <iso639-1>uz</iso639-1>
     <iso639-2-t>uzb</iso639-2-t>

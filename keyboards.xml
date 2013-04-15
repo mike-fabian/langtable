@@ -382,6 +382,14 @@
     </languages>
   </keyboard>
   <keyboard>
+    <keyboardId>in(urd-winkeys)</keyboardId>
+    <description>Urdu (Winkeys)</description>
+    <ascii>False</ascii>
+    <languages>
+      <language><languageId>ur</languageId><rank>1000</rank></language>
+    </languages>
+  </keyboard>
+  <keyboard>
     <keyboardId>ir</keyboardId>
     <description>Persian</description>
     <ascii>False</ascii>
@@ -598,6 +606,14 @@
       <language><languageId>fil</languageId><rank>500</rank></language>
       <language><languageId>en</languageId><rank>300</rank></language>
       <language><languageId>tl</languageId><rank>200</rank></language>
+    </languages>
+  </keyboard>
+  <keyboard>
+    <keyboardId>pk</keyboardId>
+    <description>Urdu (Pakistan)</description>
+    <ascii>False</ascii>
+    <languages>
+      <language><languageId>ur</languageId><rank>1000</rank></language>
     </languages>
   </keyboard>
   <keyboard>
