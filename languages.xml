@@ -3066,6 +3066,48 @@
     </timezones>
   </language>
   <language>
+    <languageId>sa</languageId>
+    <iso639-1>sa</iso639-1>
+    <iso639-2-t>san</iso639-2-t>
+    <iso639-2-b>san</iso639-2-b>
+    <names>
+      <name><languageId>en</languageId><name>Sanskrit</name></name>
+    </names>
+    <locales>
+      <locale><localeId>sa_IN.UTF-8</localeId><rank>1000</rank></locale>
+    </locales>
+    <countries>
+      <country><countryId>IN</countryId><rank>1000</rank></country>
+    </countries>
+    <keyboards>
+      <keyboard><keyboardId>us</keyboardId><rank>1000</rank></keyboard>
+    </keyboards>
+    <timezones>
+      <timezone><timezoneId>Asia/Kolkata</timezoneId><rank>1000</rank></timezone>
+    </timezones>
+  </language>
+  <language>
+    <languageId>sat</languageId>
+    <iso639-1>None</iso639-1>
+    <iso639-2-t>sat</iso639-2-t>
+    <iso639-2-b>sat</iso639-2-b>
+    <names>
+      <name><languageId>en</languageId><name>Santali</name></name>
+    </names>
+    <locales>
+      <locale><localeId>sat_IN.UTF-8</localeId><rank>1000</rank></locale>
+    </locales>
+    <countries>
+      <country><countryId>IN</countryId><rank>1000</rank></country>
+    </countries>
+    <keyboards>
+      <keyboard><keyboardId>us</keyboardId><rank>1000</rank></keyboard>
+    </keyboards>
+    <timezones>
+      <timezone><timezoneId>Asia/Kolkata</timezoneId><rank>1000</rank></timezone>
+    </timezones>
+  </language>
+  <language>
     <languageId>sc</languageId>
     <iso639-1>sc</iso639-1>
     <iso639-2-t>srd</iso639-2-t>
@@ -3109,6 +3151,83 @@
     </keyboards>
     <timezones>
       <timezone><timezoneId>Europe/Oslo</timezoneId><rank>1000</rank></timezone>
+    </timezones>
+  </language>
+  <language>
+    <languageId>sd</languageId>
+    <iso639-1>sd</iso639-1>
+    <iso639-2-t>snd</iso639-2-t>
+    <iso639-2-b>snd</iso639-2-b>
+    <names>
+      <name><languageId>en</languageId><name>Sindhi</name></name>
+      <name><languageId>sd</languageId><name>سنڌي</name></name>
+      <name><languageId>sd_Arab</languageId><name>سنڌي</name></name>
+      <name><languageId>sd_Deva</languageId>सिन्धी<name></name></name>
+    </names>
+    <locales>
+      <locale><localeId>sd_IN.UTF-8</localeId><rank>900</rank></locale>
+      <locale><localeId>sd_IN@devanagari.UTF-8</localeId><rank>100</rank></locale>
+    </locales>
+    <countries>
+      <country><countryId>PK</countryId><rank>900</rank></country>
+      <country><countryId>IN</countryId><rank>100</rank></country>
+    </countries>
+    <keyboards>
+      <keyboard><keyboardId>us</keyboardId><rank>1000</rank></keyboard>
+    </keyboards>
+    <timezones>
+      <timezone><timezoneId>Asia/Karachi</timezoneId><rank>900</rank></timezone>
+      <timezone><timezoneId>Asia/Kolkata</timezoneId><rank>100</rank></timezone>
+    </timezones>
+  </language>
+  <language>
+    <languageId>sd_Arab</languageId>
+    <iso639-1>sd</iso639-1>
+    <iso639-2-t>snd</iso639-2-t>
+    <iso639-2-b>snd</iso639-2-b>
+    <names>
+      <name><languageId>en</languageId><name>Sindhi</name></name>
+      <name><languageId>sd</languageId><name>سنڌي</name></name>
+      <name><languageId>sd_Arab</languageId><name>سنڌي</name></name>
+      <name><languageId>sd_Deva</languageId>सिन्धी<name></name></name>
+    </names>
+    <locales>
+      <locale><localeId>sd_IN.UTF-8</localeId><rank>900</rank></locale>
+    </locales>
+    <countries>
+      <country><countryId>PK</countryId><rank>900</rank></country>
+      <country><countryId>IN</countryId><rank>100</rank></country>
+    </countries>
+    <keyboards>
+      <keyboard><keyboardId>us</keyboardId><rank>1000</rank></keyboard>
+    </keyboards>
+    <timezones>
+      <timezone><timezoneId>Asia/Karachi</timezoneId><rank>900</rank></timezone>
+      <timezone><timezoneId>Asia/Kolkata</timezoneId><rank>100</rank></timezone>
+    </timezones>
+  </language>
+  <language>
+    <languageId>sd_Deva</languageId>
+    <iso639-1>sd</iso639-1>
+    <iso639-2-t>snd</iso639-2-t>
+    <iso639-2-b>snd</iso639-2-b>
+    <names>
+      <name><languageId>en</languageId><name>Sindhi</name></name>
+      <name><languageId>sd</languageId><name>سنڌي</name></name>
+      <name><languageId>sd_Arab</languageId><name>سنڌي</name></name>
+      <name><languageId>sd_Deva</languageId>सिन्धी<name></name></name>
+    </names>
+    <locales>
+      <locale><localeId>sd_IN.UTF-8@devanagari</localeId><rank>900</rank></locale>
+    </locales>
+    <countries>
+      <country><countryId>IN</countryId><rank>1000</rank></country>
+    </countries>
+    <keyboards>
+      <keyboard><keyboardId>us</keyboardId><rank>1000</rank></keyboard>
+    </keyboards>
+    <timezones>
+      <timezone><timezoneId>Asia/Kolkata</timezoneId><rank>1000</rank></timezone>
     </timezones>
   </language>
   <language>
