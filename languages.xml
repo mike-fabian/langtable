@@ -336,6 +336,27 @@
     </timezones>
   </language>
   <language>
+    <languageId>bho</languageId>
+    <iso639-1>bh</iso639-1>
+    <iso639-2-t>bho</iso639-2-t>
+    <iso639-2-b>bho</iso639-2-b>
+    <names>
+      <name><languageId>en</languageId><name>Bhojpuri</name></name>
+    </names>
+    <locales>
+      <locale><localeId>bho_IN.UTF-8</localeId><rank>1000</rank></locale>
+    </locales>
+    <countries>
+      <country><countryId>IN</countryId><rank>1000</rank></country>
+    </countries>
+    <keyboards>
+      <keyboard><keyboardId>us</keyboardId><rank>1000</rank></keyboard>
+    </keyboards>
+    <timezones>
+      <timezone><timezoneId>Asia/Kolkata</timezoneId><rank>1000</rank></timezone>
+    </timezones>
+  </language>
+  <language>
     <languageId>bn</languageId>
     <iso639-1>bn</iso639-1>
     <iso639-2-t>ben</iso639-2-t>
@@ -359,6 +380,50 @@
     <timezones>
       <timezone><timezoneId>Asia/Dhaka</timezoneId><rank>700</rank></timezone>
       <timezone><timezoneId>Asia/Kolkata</timezoneId><rank>300</rank></timezone>
+    </timezones>
+  </language>
+  <language>
+    <languageId>bo</languageId>
+    <iso639-1>bo</iso639-1>
+    <iso639-2-t>bod</iso639-2-t>
+    <iso639-2-b>tib</iso639-2-b>
+    <names>
+      <name><languageId>en</languageId><name>Tibetan</name></name>
+    </names>
+    <locales>
+      <locale><localeId>bo_CN.UTF-8</localeId><rank>900</rank></locale>
+      <locale><localeId>bo_IN.UTF-8</localeId><rank>100</rank></locale>
+    </locales>
+    <countries>
+      <country><countryId>CN</countryId><rank>900</rank></country>
+      <country><countryId>IN</countryId><rank>100</rank></country>
+    </countries>
+    <keyboards>
+      <keyboard><keyboardId>us</keyboardId><rank>1000</rank></keyboard>
+    </keyboards>
+    <timezones>
+      <timezone><timezoneId>Asia/Kolkata</timezoneId><rank>1000</rank></timezone>
+    </timezones>
+  </language>
+  <language>
+    <languageId>br</languageId>
+    <iso639-1>br</iso639-1>
+    <iso639-2-t>bre</iso639-2-t>
+    <iso639-2-b>bre</iso639-2-b>
+    <names>
+      <name><languageId>en</languageId><name>Breton</name></name>
+    </names>
+    <locales>
+      <locale><localeId>br_FR.UTF-8</localeId><rank>1000</rank></locale>
+    </locales>
+    <countries>
+      <country><countryId>FR</countryId><rank>1000</rank></country>
+    </countries>
+    <keyboards>
+      <keyboard><keyboardId>fr(bre)</keyboardId><rank>1000</rank></keyboard>
+    </keyboards>
+    <timezones>
+      <timezone><timezoneId>Europe/Paris</timezoneId><rank>1000</rank></timezone>
     </timezones>
   </language>
   <language>
@@ -1907,6 +1972,27 @@
     </keyboards>
     <timezones>
       <timezone><timezoneId>Europe/Riga</timezoneId><rank>1000</rank></timezone>
+    </timezones>
+  </language>
+  <language>
+    <languageId>mai</languageId>
+    <iso639-1>bh</iso639-1>
+    <iso639-2-t>mai</iso639-2-t>
+    <iso639-2-b>mai</iso639-2-b>
+    <names>
+      <name><languageId>en</languageId><name>Maithili</name></name>
+    </names>
+    <locales>
+      <locale><localeId>mai_IN.UTF-8</localeId><rank>1000</rank></locale>
+    </locales>
+    <countries>
+      <country><countryId>IN</countryId><rank>1000</rank></country>
+    </countries>
+    <keyboards>
+      <keyboard><keyboardId>us</keyboardId><rank>1000</rank></keyboard>
+    </keyboards>
+    <timezones>
+      <timezone><timezoneId>Asia/Kolkata</timezoneId><rank>1000</rank></timezone>
     </timezones>
   </language>
   <language>
