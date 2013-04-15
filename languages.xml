@@ -2714,6 +2714,27 @@
     </timezones>
   </language>
   <language>
+    <languageId>tg</languageId>
+    <iso639-1>tg</iso639-1>
+    <iso639-2-t>tgk</iso639-2-t>
+    <iso639-2-b>tgk</iso639-2-b>
+    <names>
+      <name><languageId>en</languageId><name>Tajik</name></name>
+    </names>
+    <locales>
+      <locale><localeId>tg_TJ.UTF-8</localeId><rank>1000</rank></locale>
+    </locales>
+    <countries>
+      <country><countryId>TJ</countryId><rank>1000</rank></country>
+    </countries>
+    <keyboards>
+      <keyboard><keyboardId>tj</keyboardId><rank>1000</rank></keyboard>
+    </keyboards>
+    <timezones>
+      <timezone><timezoneId>Asia/Dushanbe</timezoneId><rank>1000</rank></timezone>
+    </timezones>
+  </language>
+  <language>
     <languageId>th</languageId>
     <iso639-1>th</iso639-1>
     <iso639-2-t>tha</iso639-2-t>

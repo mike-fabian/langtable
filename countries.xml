@@ -2755,6 +2755,24 @@
     </timezones>
   </country>
   <country>
+    <countryId>TJ</countryId>
+    <names>
+      <name><languageId>en</languageId><name>Tajikistan</name></name>
+    </names>
+    <locales>
+      <locale><localeId>tg_TJ.UTF-8</localeId><rank>1000</rank></locale>
+    </locales>
+    <languages>
+      <language><languageId>tg</languageId><rank>1000</rank></language>
+    </languages>
+    <keyboards>
+      <keyboard><keyboardId>tj</keyboardId><rank>1000</rank></keyboard>
+    </keyboards>
+    <timezones>
+      <timezone><timezoneId>Asia/Dushanbe</timezoneId><rank>1000</rank></timezone>
+    </timezones>
+  </country>
+  <country>
     <countryId>TN</countryId>
     <names>
       <name><languageId>de</languageId><name>Tunesien</name></name>
