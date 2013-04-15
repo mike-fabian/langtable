@@ -3952,7 +3952,8 @@
     <iso639-2-t>uzb</iso639-2-t>
     <iso639-2-b>uzb</iso639-2-b>
     <names>
-      <name><languageId>en</languageId><name>Ўзбек</name></name>
+      <name><languageId>en</languageId><name>Uzbek</name></name>
+      <name><languageId>uz</languageId><name>Ўзбек</name></name>
     </names>
     <locales>
       <locale><localeId>uz_UZ.UTF-8@cyrillic</localeId><rank>600</rank></locale>
