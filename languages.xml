@@ -3972,6 +3972,27 @@
     </timezones>
   </language>
   <language>
+    <languageId>ve</languageId>
+    <iso639-1>ve</iso639-1>
+    <iso639-2-t>ven</iso639-2-t>
+    <iso639-2-b>ven</iso639-2-b>
+    <names>
+      <name><languageId>en</languageId><name></name></name>
+    </names>
+    <locales>
+      <locale><localeId>ve_ZA.UTF-8</localeId><rank>1000</rank></locale>
+    </locales>
+    <countries>
+      <country><countryId>ZA</countryId><rank>1000</rank></country>
+    </countries>
+    <keyboards>
+      <keyboard><keyboardId>us</keyboardId><rank>1000</rank></keyboard>
+    </keyboards>
+    <timezones>
+      <timezone><timezoneId>Africa/Johannesburg</timezoneId><rank>1000</rank></timezone>
+    </timezones>
+  </language>
+  <language>
     <languageId>vi</languageId>
     <iso639-1>vi</iso639-1>
     <iso639-2-t>vie</iso639-2-t>
@@ -3992,6 +4013,28 @@
     </keyboards>
     <timezones>
       <timezone><timezoneId>Asia/Ho_Chi_Minh</timezoneId><rank>1000</rank></timezone>
+    </timezones>
+  </language>
+  <language>
+    <languageId>wa</languageId>
+    <iso639-1>wa</iso639-1>
+    <iso639-2-t>wln</iso639-2-t>
+    <iso639-2-b>wln</iso639-2-b>
+    <names>
+      <name><languageId>en</languageId><name>Walloon</name></name>
+    </names>
+    <locales>
+      <locale><localeId>wa_BE.UTF-8</localeId><rank>1000</rank></locale>
+    </locales>
+    <countries>
+      <country><countryId>BE</countryId><rank>1000</rank></country>
+    </countries>
+    <keyboards>
+      <keyboard><keyboardId>be(oss)</keyboardId><rank>900</rank></keyboard>
+      <keyboard><keyboardId>be</keyboardId><rank>0</rank></keyboard>
+    </keyboards>
+    <timezones>
+      <timezone><timezoneId>Europe/Brussels</timezoneId><rank>1000</rank></timezone>
     </timezones>
   </language>
   <language>
