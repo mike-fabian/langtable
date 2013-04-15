@@ -3807,6 +3807,70 @@
     </timezones>
   </language>
   <language>
+    <languageId>ts</languageId>
+    <iso639-1>ts</iso639-1>
+    <iso639-2-t>tso</iso639-2-t>
+    <iso639-2-b>tso</iso639-2-b>
+    <names>
+      <name><languageId>en</languageId><name>Tsonga</name></name>
+    </names>
+    <locales>
+      <locale><localeId>ts_ZA.UTF-8</localeId><rank>1000</rank></locale>
+    </locales>
+    <countries>
+      <country><countryId>ZA</countryId><rank>1000</rank></country>
+    </countries>
+    <keyboards>
+      <keyboard><keyboardId>us</keyboardId><rank>1000</rank></keyboard>
+    </keyboards>
+    <timezones>
+      <timezone><timezoneId>Africa/Johannesburg</timezoneId><rank>1000</rank></timezone>
+    </timezones>
+  </language>
+  <language>
+    <languageId>tt</languageId>
+    <iso639-1>tt</iso639-1>
+    <iso639-2-t>tat</iso639-2-t>
+    <iso639-2-b>tat</iso639-2-b>
+    <names>
+      <name><languageId>en</languageId><name>Tatar</name></name>
+    </names>
+    <locales>
+      <locale><localeId>tt_RU.UTF-8</localeId><rank>1000</rank></locale>
+    </locales>
+    <countries>
+      <country><countryId>RU</countryId><rank>1000</rank></country>
+    </countries>
+    <keyboards>
+      <keyboard><keyboardId>ru(tt)</keyboardId><rank>1000</rank></keyboard>
+    </keyboards>
+    <timezones>
+      <timezone><timezoneId>Europe/Moscow</timezoneId><rank>1000</rank></timezone>
+    </timezones>
+  </language>
+  <language>
+    <languageId>ug</languageId>
+    <iso639-1>ug</iso639-1>
+    <iso639-2-t>uig</iso639-2-t>
+    <iso639-2-b>uig</iso639-2-b>
+    <names>
+      <name><languageId>en</languageId><name>Uighur</name></name>
+      <name><languageId>ug</languageId><name>ئۇيغۇر تىلى</name></name>
+    </names>
+    <locales>
+      <locale><localeId>ug_CN.UTF-8</localeId><rank>1000</rank></locale>
+    </locales>
+    <countries>
+      <country><countryId>CN</countryId><rank>1000</rank></country>
+    </countries>
+    <keyboards>
+      <keyboard><keyboardId>cn(uig)</keyboardId><rank>1000</rank></keyboard>
+    </keyboards>
+    <timezones>
+      <timezone><timezoneId>Asia/Shanghai</timezoneId><rank>1000</rank></timezone>
+    </timezones>
+  </language>
+  <language>
     <languageId>uk</languageId>
     <iso639-1>uk</iso639-1>
     <iso639-2-t>ukr</iso639-2-t>

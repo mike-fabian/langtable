@@ -170,6 +170,14 @@
     </languages>
   </keyboard>
   <keyboard>
+    <keyboardId>cn(uig)</keyboardId>
+    <description>Uyghur</description>
+    <ascii>False</ascii>
+    <languages>
+      <language><languageId>ug</languageId><rank>1000</rank></language>
+    </languages>
+  </keyboard>
+  <keyboard>
     <keyboardId>tr(crh)</keyboardId>
     <description>Crimean Tatar (Turkish Q)</description>
     <ascii>True</ascii>
@@ -648,6 +656,14 @@
     <ascii>False</ascii>
     <languages>
       <language><languageId>os</languageId><rank>1000</rank></language>
+    </languages>
+  </keyboard>
+  <keyboard>
+    <keyboardId>ru(tt)</keyboardId>
+    <description>Tatar</description>
+    <ascii>False</ascii>
+    <languages>
+      <language><languageId>tt</languageId><rank>1000</rank></language>
     </languages>
   </keyboard>
   <keyboard>
