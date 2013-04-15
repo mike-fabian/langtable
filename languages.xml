@@ -1552,6 +1552,27 @@
     </timezones>
   </language>
   <language>
+    <languageId>lg</languageId>
+    <iso639-1>lg</iso639-1>
+    <iso639-2-t>lug</iso639-2-t>
+    <iso639-2-b>lug</iso639-2-b>
+    <names>
+      <name><languageId>en</languageId><name>Ganda</name></name>
+    </names>
+    <locales>
+      <locale><localeId>lg_UG.UTF-8</localeId><rank>1000</rank></locale>
+    </locales>
+    <countries>
+      <country><countryId>UG</countryId><rank>1000</rank></country>
+    </countries>
+    <keyboards>
+      <keyboard><keyboardId>us</keyboardId><rank>1000</rank></keyboard>
+    </keyboards>
+    <timezones>
+      <timezone><timezoneId>Africa/Kampala</timezoneId><rank>1000</rank></timezone>
+    </timezones>
+  </language>
+  <language>
     <languageId>li</languageId>
     <iso639-1>li</iso639-1>
     <iso639-2-t>lim</iso639-2-t>
