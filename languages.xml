@@ -226,6 +226,27 @@
     </timezones>
   </language>
   <language>
+    <languageId>bem</languageId>
+    <iso639-1>None</iso639-1>
+    <iso639-2-t>bem</iso639-2-t>
+    <iso639-2-b>bem</iso639-2-b>
+    <names>
+      <name><languageId>en</languageId><name>Bemba</name></name>
+    </names>
+    <locales>
+      <locale><localeId>bem_ZM.UTF-8</localeId><rank>1000</rank></locale>
+    </locales>
+    <countries>
+      <country><countryId>ZM</countryId><rank>1000</rank></country>
+    </countries>
+    <keyboards>
+      <keyboard><keyboardId>us</keyboardId><rank>1000</rank></keyboard>
+    </keyboards>
+    <timezones>
+      <timezone><timezoneId>Africa/Lusaka</timezoneId><rank>1000</rank></timezone>
+    </timezones>
+  </language>
+  <language>
     <languageId>bg</languageId>
     <iso639-1>bg</iso639-1>
     <iso639-2-t>bul</iso639-2-t>
