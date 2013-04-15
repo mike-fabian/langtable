@@ -643,6 +643,14 @@
     </languages>
   </keyboard>
   <keyboard>
+    <keyboardId>ru(os_winkeys)</keyboardId>
+    <description>Ossetian (WinKeys)</description>
+    <ascii>False</ascii>
+    <languages>
+      <language><languageId>os</languageId><rank>1000</rank></language>
+    </languages>
+  </keyboard>
+  <keyboard>
     <keyboardId>se</keyboardId>
     <description>Swedisch</description>
     <ascii>True</ascii>
