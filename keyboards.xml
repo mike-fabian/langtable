@@ -735,6 +735,22 @@
     </languages>
   </keyboard>
   <keyboard>
+    <keyboardId>uz</keyboardId>
+    <description>Uzbek</description>
+    <ascii>False</ascii>
+    <languages>
+      <language><languageId>uz</languageId><rank>1000</rank></language>
+    </languages>
+  </keyboard>
+  <keyboard>
+    <keyboardId>uz(latin)</keyboardId>
+    <description>Uzbek (Latin)</description>
+    <ascii>True</ascii>
+    <languages>
+      <language><languageId>uz</languageId><rank>1000</rank></language>
+    </languages>
+  </keyboard>
+  <keyboard>
     <keyboardId>vn</keyboardId>
     <description>Vietnamese</description>
     <ascii>True</ascii>

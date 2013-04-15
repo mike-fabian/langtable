@@ -2966,6 +2966,30 @@
     </timezones>
   </language>
   <language>
+    <languageId>uz</languageId>
+    <iso639-1>uz</iso639-1>
+    <iso639-2-t>uzb</iso639-2-t>
+    <iso639-2-b>uzb</iso639-2-b>
+    <names>
+      <name><languageId>en</languageId><name>Ўзбек</name></name>
+    </names>
+    <locales>
+      <locale><localeId>uz_UZ.UTF-8@cyrillic</localeId><rank>600</rank></locale>
+      <locale><localeId>uz_UZ.UTF-8</localeId><rank>400</rank></locale>
+    </locales>
+    <countries>
+      <country><countryId>UZ</countryId><rank>1000</rank></country>
+    </countries>
+    <keyboards>
+      <keyboard><keyboardId>uz</keyboardId><rank>600</rank></keyboard>
+      <keyboard><keyboardId>uz(latin)</keyboardId><rank>400</rank></keyboard>
+    </keyboards>
+    <timezones>
+      <timezone><timezoneId>Asia/Samarkand</timezoneId><rank>500</rank></timezone>
+      <timezone><timezoneId>Asia/Tashkent</timezoneId><rank>500</rank></timezone>
+    </timezones>
+  </language>
+  <language>
     <languageId>vi</languageId>
     <iso639-1>vi</iso639-1>
     <iso639-2-t>vie</iso639-2-t>
