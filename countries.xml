@@ -2617,6 +2617,24 @@
     </timezones>
   </country>
   <country>
+    <countryId>SI</countryId>
+    <names>
+      <name><languageId>en</languageId><name>Slovenia</name></name>
+    </names>
+    <locales>
+      <locale><localeId>sl_SI.UTF-8</localeId><rank>1000</rank></locale>
+    </locales>
+    <languages>
+      <language><languageId>sl</languageId><rank>1000</rank></language>
+    </languages>
+    <keyboards>
+      <keyboard><keyboardId>si</keyboardId><rank>1000</rank></keyboard>
+    </keyboards>
+    <timezones>
+      <timezone><timezoneId>Europe/Ljubljana</timezoneId><rank>1000</rank></timezone>
+    </timezones>
+  </country>
+  <country>
     <countryId>SK</countryId>
     <names>
       <name><languageId>de</languageId><name>Slowakei</name></name>
