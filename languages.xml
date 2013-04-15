@@ -484,6 +484,28 @@
     </timezones>
   </language>
   <language>
+    <languageId>dv</languageId>
+    <iso639-1>dv</iso639-1>
+    <iso639-2-t>div</iso639-2-t>
+    <iso639-2-b>div</iso639-2-b>
+    <names>
+      <name><languageId>en</languageId><name>Divehi</name></name>
+      <name><languageId>dv</languageId><name>ދިވެހި</name></name>
+    </names>
+    <locales>
+      <locale><localeId>dv_MV.UTF-8</localeId><rank>1000</rank></locale>
+    </locales>
+    <countries>
+      <country><countryId>MV</countryId><rank>1000</rank></country>
+    </countries>
+    <keyboards>
+      <keyboard><keyboardId>mv</keyboardId><rank>1000</rank></keyboard>
+    </keyboards>
+    <timezones>
+      <timezone><timezoneId>Indian/Maldives</timezoneId><rank>1000</rank></timezone>
+    </timezones>
+  </language>
+  <language>
     <languageId>dz</languageId>
     <iso639-1>dz</iso639-1>
     <iso639-2-t>dzo</iso639-2-t>
@@ -1717,6 +1739,28 @@
     <timezones>
       <timezone><timezoneId>Asia/Kuala_Lumpur</timezoneId><rank>800</rank></timezone>
       <timezone><timezoneId>Asia/Kuching</timezoneId><rank>200</rank></timezone>
+    </timezones>
+  </language>
+  <language>
+    <languageId>mt</languageId>
+    <iso639-1>mt</iso639-1>
+    <iso639-2-t>mlt</iso639-2-t>
+    <iso639-2-b>mlt</iso639-2-b>
+    <names>
+      <name><languageId>en</languageId><name>Maltese</name></name>
+    </names>
+    <locales>
+      <locale><localeId>mt_MT.UTF-8</localeId><rank>1000</rank></locale>
+    </locales>
+    <countries>
+      <country><countryId>mt</countryId><rank>1000</rank></country>
+    </countries>
+    <keyboards>
+      <keyboard><keyboardId>mt</keyboardId><rank>900</rank></keyboard>
+      <keyboard><keyboardId>mt(us)</keyboardId><rank>100</rank></keyboard>
+    </keyboards>
+    <timezones>
+      <timezone><timezoneId>Europe/Malta</timezoneId><rank>1000</rank></timezone>
     </timezones>
   </language>
   <language>

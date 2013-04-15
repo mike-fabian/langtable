@@ -470,6 +470,30 @@
     </languages>
   </keyboard>
   <keyboard>
+    <keyboardId>mt</keyboardId>
+    <description>Maltese</description>
+    <ascii>True</ascii>
+    <languages>
+      <language><languageId>mt</languageId><rank>1000</rank></language>
+    </languages>
+  </keyboard>
+  <keyboard>
+    <keyboardId>mt(us)</keyboardId>
+    <description>Maltese (with US layout)</description>
+    <ascii>True</ascii>
+    <languages>
+      <language><languageId>mt</languageId><rank>1000</rank></language>
+    </languages>
+  </keyboard>
+  <keyboard>
+    <keyboardId>mv</keyboardId>
+    <description>Dhivehi</description>
+    <ascii>False</ascii>
+    <languages>
+      <language><languageId>dv</languageId><rank>1000</rank></language>
+    </languages>
+  </keyboard>
+  <keyboard>
     <keyboardId>nl</keyboardId>
     <description>Dutch</description>
     <ascii>True</ascii>

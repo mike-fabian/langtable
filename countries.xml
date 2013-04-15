@@ -2001,6 +2001,43 @@
     </timezones>
   </country>
   <country>
+    <countryId>MT</countryId>
+    <names>
+      <name><languageId>en</languageId><name>Malta</name></name>
+    </names>
+    <locales>
+      <locale><localeId>mt_MT.UTF-8</localeId><rank>1000</rank></locale>
+    </locales>
+    <languages>
+      <language><languageId>mt</languageId><rank>1000</rank></language>
+    </languages>
+    <keyboards>
+      <keyboard><keyboardId>mt</keyboardId><rank>900</rank></keyboard>
+      <keyboard><keyboardId>mt(us)</keyboardId><rank>100</rank></keyboard>
+    </keyboards>
+    <timezones>
+      <timezone><timezoneId>Europe/Malta</timezoneId><rank>1000</rank></timezone>
+    </timezones>
+  </country>
+  <country>
+    <countryId>MV</countryId>
+    <names>
+      <name><languageId>en</languageId><name>Maldives</name></name>
+    </names>
+    <locales>
+      <locale><localeId>dv_MV.UTF-8</localeId><rank>1000</rank></locale>
+    </locales>
+    <languages>
+      <language><languageId>dv</languageId><rank>1000</rank></language>
+    </languages>
+    <keyboards>
+      <keyboard><keyboardId>mv</keyboardId><rank>1000</rank></keyboard>
+    </keyboards>
+    <timezones>
+      <timezone><timezoneId>Indian/Maldives</timezoneId><rank>1000</rank></timezone>
+    </timezones>
+  </country>
+  <country>
     <countryId>MX</countryId>
     <names>
       <name><languageId>de</languageId><name>Mexiko</name></name>
