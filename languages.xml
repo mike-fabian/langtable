@@ -4038,6 +4038,27 @@
     </timezones>
   </language>
   <language>
+    <languageId>wae</languageId>
+    <iso639-1>None</iso639-1>
+    <iso639-2-t>None</iso639-2-t>
+    <iso639-2-b>None</iso639-2-b>
+    <names>
+      <name><languageId>en</languageId><name>Walser</name></name>
+    </names>
+    <locales>
+      <locale><localeId>wae_CH.UTF-8</localeId><rank>1000</rank></locale>
+    </locales>
+    <countries>
+      <country><countryId>CH</countryId><rank>1000</rank></country>
+    </countries>
+    <keyboards>
+      <keyboard><keyboardId>ch</keyboardId><rank>700</rank></keyboard>
+    </keyboards>
+    <timezones>
+      <timezone><timezoneId>Europe/Zurich</timezoneId><rank>1000</rank></timezone>
+    </timezones>
+  </language>
+  <language>
     <languageId>wal</languageId>
     <iso639-1>None</iso639-1>
     <iso639-2-t>wal</iso639-2-t>
@@ -4077,6 +4098,27 @@
     </keyboards>
     <timezones>
       <timezone><timezoneId>Africa/Dakar</timezoneId><rank>1000</rank></timezone>
+    </timezones>
+  </language>
+  <language>
+    <languageId>xh</languageId>
+    <iso639-1>xh</iso639-1>
+    <iso639-2-t>xho</iso639-2-t>
+    <iso639-2-b>xho</iso639-2-b>
+    <names>
+      <name><languageId>en</languageId><name>Xhosa</name></name>
+    </names>
+    <locales>
+      <locale><localeId>xh_ZA.UTF-8</localeId><rank>1000</rank></locale>
+    </locales>
+    <countries>
+      <country><countryId>ZA</countryId><rank>1000</rank></country>
+    </countries>
+    <keyboards>
+      <keyboard><keyboardId>us</keyboardId><rank>1000</rank></keyboard>
+    </keyboards>
+    <timezones>
+      <timezone><timezoneId>Africa/Johannesburg</timezoneId><rank>1000</rank></timezone>
     </timezones>
   </language>
   <language>
@@ -4150,6 +4192,35 @@
     </keyboards>
     <timezones>
       <timezone><timezoneId>Africa/Lagos</timezoneId><rank>1000</rank></timezone>
+    </timezones>
+  </language>
+  <language>
+    <languageId>yue</languageId>
+    <iso639-1>None</iso639-1>
+    <iso639-2-t>None</iso639-2-t>
+    <iso639-2-b>None</iso639-2-b>
+    <names>
+      <name><languageId>en</languageId><name>Yue Chinese</name></name>
+      <name><languageId>yue</languageId><name>粤语</name></name>
+      <name><languageId>yue_Hans</languageId><name>粤语</name></name>
+      <name><languageId>yue_Hant</languageId><name>粵語</name></name>
+      <name><languageId>zh</languageId><name>粤语</name></name>
+      <name><languageId>zh_Hans</languageId><name>粤语</name></name>
+      <name><languageId>zh_Hant</languageId><name>粵語</name></name>
+      <name><languageId>zh_Hant_HK</languageId><name>粵語</name></name>
+      <name><languageId>zh_HK</languageId><name>粵語</name></name>
+    </names>
+    <locales>
+      <locale><localeId>yue_HK.UTF-8</localeId><rank>1000</rank></locale>
+    </locales>
+    <countries>
+      <country><countryId>HK</countryId><rank>1000</rank></country>
+    </countries>
+    <keyboards>
+      <keyboard><keyboardId>cn</keyboardId><rank>1000</rank></keyboard>
+    </keyboards>
+    <timezones>
+      <timezone><timezoneId>Asia/Hong_Kong</timezoneId><rank>1000</rank></timezone>
     </timezones>
   </language>
   <language>
