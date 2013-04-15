@@ -667,6 +667,14 @@
     </languages>
   </keyboard>
   <keyboard>
+    <keyboardId>tm</keyboardId>
+    <description>Turkmen</description>
+    <ascii>True</ascii>
+    <languages>
+      <language><languageId>tm</languageId><rank>1000</rank></language>
+    </languages>
+  </keyboard>
+  <keyboard>
     <keyboardId>tr</keyboardId>
     <description>Turkish</description>
     <ascii>True</ascii>

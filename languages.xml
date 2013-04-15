@@ -2805,6 +2805,27 @@
     </timezones>
   </language>
   <language>
+    <languageId>tk</languageId>
+    <iso639-1>tk</iso639-1>
+    <iso639-2-t>tuk</iso639-2-t>
+    <iso639-2-b>tuk</iso639-2-b>
+    <names>
+      <name><languageId>en</languageId><name>Turkmen</name></name>
+    </names>
+    <locales>
+      <locale><localeId>tk_TM.UTF-8</localeId><rank>1000</rank></locale>
+    </locales>
+    <countries>
+      <country><countryId>TM</countryId><rank>1000</rank></country>
+    </countries>
+    <keyboards>
+      <keyboard><keyboardId>tm</keyboardId><rank>1000</rank></keyboard>
+    </keyboards>
+    <timezones>
+      <timezone><timezoneId>Asia/Ashgabat</timezoneId><rank>1000</rank></timezone>
+    </timezones>
+  </language>
+  <language>
     <languageId>tl</languageId>
     <iso639-1>tl</iso639-1>
     <iso639-2-t>tgl</iso639-2-t>
