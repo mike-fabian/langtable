@@ -703,6 +703,28 @@
     </timezones>
   </language>
   <language>
+    <languageId>doi</languageId>
+    <iso639-1>None</iso639-1>
+    <iso639-2-t>doi</iso639-2-t>
+    <iso639-2-b>doi</iso639-2-b>
+    <names>
+      <name><languageId>doi</languageId><name>डोगरी</name></name>
+      <name><languageId>en</languageId><name>Dogri</name></name>
+    </names>
+    <locales>
+      <locale><localeId>doi_IN.UTF-8</localeId><rank>1000</rank></locale>
+    </locales>
+    <countries>
+      <country><countryId>IN</countryId><rank>1000</rank></country>
+    </countries>
+    <keyboards>
+      <keyboard><keyboardId>us</keyboardId><rank>1000</rank></keyboard>
+    </keyboards>
+    <timezones>
+      <timezone><timezoneId>Asia/Kolkata</timezoneId><rank>1000</rank></timezone>
+    </timezones>
+  </language>
+  <language>
     <languageId>dv</languageId>
     <iso639-1>dv</iso639-1>
     <iso639-2-t>div</iso639-2-t>
@@ -1042,6 +1064,29 @@
     </keyboards>
     <timezones>
       <timezone><timezoneId>Europe/Tallinn</timezoneId><rank>1000</rank></timezone>
+    </timezones>
+  </language>
+  <language>
+    <languageId>eu</languageId>
+    <iso639-1>eu</iso639-1>
+    <iso639-2-t>eus</iso639-2-t>
+    <iso639-2-b>baq</iso639-2-b>
+    <names>
+      <name><languageId>en</languageId><name>Basque</name></name>
+    </names>
+    <locales>
+      <locale><localeId>eu_ES.UTF-8</localeId><rank>1000</rank></locale>
+    </locales>
+    <countries>
+      <country><countryId>ES</countryId><rank>900</rank></country>
+      <country><countryId>FR</countryId><rank>100</rank></country>
+    </countries>
+    <keyboards>
+      <keyboard><keyboardId>es</keyboardId><rank>1000</rank></keyboard>
+    </keyboards>
+    <timezones>
+      <timezone><timezoneId>Europe/Madrid</timezoneId><rank>900</rank></timezone>
+      <timezone><timezoneId>Europe/Paris</timezoneId><rank>100</rank></timezone>
     </timezones>
   </language>
   <language>
@@ -1445,6 +1490,28 @@
     </timezones>
   </language>
   <language>
+    <languageId>hne</languageId>
+    <iso639-1>None</iso639-1>
+    <iso639-2-t>None</iso639-2-t>
+    <iso639-2-b>None</iso639-2-b>
+    <names>
+      <name><languageId>en</languageId><name>Chhattisgarhi</name></name>
+      <name><languageId>hne</languageId><name>छत्तीसगढ़ी</name></name>
+    </names>
+    <locales>
+      <locale><localeId>hne_IN.UTF-8</localeId><rank>1000</rank></locale>
+    </locales>
+    <countries>
+      <country><countryId>IN</countryId><rank>1000</rank></country>
+    </countries>
+    <keyboards>
+      <keyboard><keyboardId>us</keyboardId><rank>1000</rank></keyboard>
+    </keyboards>
+    <timezones>
+      <timezone><timezoneId>Asia/Kolkata</timezoneId><rank>1000</rank></timezone>
+    </timezones>
+  </language>
+  <language>
     <languageId>hr</languageId>
     <iso639-1>hr</iso639-1>
     <iso639-2-t>hrv</iso639-2-t>
@@ -1465,6 +1532,29 @@
     </keyboards>
     <timezones>
       <timezone><timezoneId>Europe/Zagreb</timezoneId><rank>1000</rank></timezone>
+    </timezones>
+  </language>
+  <language>
+    <languageId>hsb</languageId>
+    <iso639-1>None</iso639-1>
+    <iso639-2-t>hsb</iso639-2-t>
+    <iso639-2-b>hsb</iso639-2-b>
+    <names>
+      <name><languageId>en</languageId><name>Upper Sorbian</name></name>
+      <name><languageId>hsb</languageId><name>Hornjoserbšćina</name></name>
+    </names>
+    <locales>
+      <locale><localeId>hsb_DE.UTF-8</localeId><rank>1000</rank></locale>
+    </locales>
+    <countries>
+      <country><countryId>DE</countryId><rank>1000</rank></country>
+    </countries>
+    <keyboards>
+      <keyboard><keyboardId>de(nodeadkeys)</keyboardId><rank>900</rank></keyboard>
+      <keyboard><keyboardId>de(deadacute)</keyboardId><rank>100</rank></keyboard>
+    </keyboards>
+    <timezones>
+      <timezone><timezoneId>Europe/Berlin</timezoneId><rank>1000</rank></timezone>
     </timezones>
   </language>
   <language>
@@ -1836,6 +1926,28 @@
     </keyboards>
     <timezones>
       <timezone><timezoneId>Asia/Seoul</timezoneId><rank>1000</rank></timezone>
+    </timezones>
+  </language>
+  <language>
+    <languageId>kok</languageId>
+    <iso639-1>None</iso639-1>
+    <iso639-2-t>kok</iso639-2-t>
+    <iso639-2-b>kok</iso639-2-b>
+    <names>
+      <name><languageId>en</languageId><name>Konkani</name></name>
+      <name><languageId>kok</languageId><name>कोंकणी</name></name>
+    </names>
+    <locales>
+      <locale><localeId>kok_IN.UTF-8</localeId><rank>1000</rank></locale>
+    </locales>
+    <countries>
+      <country><countryId>IN</countryId><rank>1000</rank></country>
+    </countries>
+    <keyboards>
+      <keyboard><keyboardId>us</keyboardId><rank>1000</rank></keyboard>
+    </keyboards>
+    <timezones>
+      <timezone><timezoneId>Asia/Kolkata</timezoneId><rank>1000</rank></timezone>
     </timezones>
   </language>
   <language>
