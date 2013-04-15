@@ -173,9 +173,9 @@
   <country>
     <countryId>AL</countryId>
     <names>
-      <name><languageId>de</languageId><name>Mazedonien</name></name>
-      <name><languageId>en</languageId><name>Macedonia</name></name>
-      <name><languageId>sq</languageId><name>Македонија</name></name>
+      <name><languageId>de</languageId><name>Albanien</name></name>
+      <name><languageId>en</languageId><name>Albania</name></name>
+      <name><languageId>sq</languageId><name>Shqipëria</name></name>
     </names>
     <locales>
       <locale><localeId>sq_AL.UTF-8</localeId><rank>100</rank></locale>
