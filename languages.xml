@@ -1646,6 +1646,27 @@
     </timezones>
   </language>
   <language>
+    <languageId>mi</languageId>
+    <iso639-1>mi</iso639-1>
+    <iso639-2-t>mri</iso639-2-t>
+    <iso639-2-b>mao</iso639-2-b>
+    <names>
+      <name><languageId>en</languageId><name>mi</name></name>
+    </names>
+    <locales>
+      <locale><localeId>mi_NZ.UTF-8</localeId><rank>1000</rank></locale>
+    </locales>
+    <countries>
+      <country><countryId>NZ</countryId><rank>1000</rank></country>
+    </countries>
+    <keyboards>
+      <keyboard><keyboardId>us</keyboardId><rank>1000</rank></keyboard>
+    </keyboards>
+    <timezones>
+      <timezone><timezoneId>Pacific/Auckland</timezoneId><rank>1000</rank></timezone>
+    </timezones>
+  </language>
+  <language>
     <languageId>mk</languageId>
     <iso639-1>mk</iso639-1>
     <iso639-2-t>mkd</iso639-2-t>

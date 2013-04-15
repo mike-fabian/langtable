@@ -2208,6 +2208,27 @@
     </timezones>
   </country>
   <country>
+    <countryId>NZ</countryId>
+    <names>
+      <name><languageId>en</languageId><name>New Zealand</name></name>
+    </names>
+    <locales>
+      <locale><localeId>en_NZ.UTF-8</localeId><rank>950</rank></locale>
+      <locale><localeId>mi_NZ.UTF-8</localeId><rank>50</rank></locale>
+    </locales>
+    <languages>
+      <language><languageId>en</languageId><rank>950</rank></language>
+      <language><languageId>mi</languageId><rank>50</rank></language>
+    </languages>
+    <keyboards>
+      <keyboard><keyboardId>us</keyboardId><rank>1000</rank></keyboard>
+    </keyboards>
+    <timezones>
+      <timezone><timezoneId>Pacific/Auckland</timezoneId><rank>998</rank></timezone>
+      <timezone><timezoneId>Pacific/Chatham</timezoneId><rank>2</rank></timezone>
+    </timezones>
+  </country>
+  <country>
     <countryId>OM</countryId>
     <names>
       <name><languageId>de</languageId><name>Oman</name></name>
