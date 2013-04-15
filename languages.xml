@@ -712,6 +712,27 @@
     </timezones>
   </language>
   <language>
+    <languageId>ff</languageId>
+    <iso639-1>ff</iso639-1>
+    <iso639-2-t>ful</iso639-2-t>
+    <iso639-2-b>ful</iso639-2-b>
+    <names>
+      <name><languageId>en</languageId><name>Fulah</name></name>
+    </names>
+    <locales>
+      <locale><localeId>ff_SN.UTF-8</localeId><rank>1000</rank></locale>
+    </locales>
+    <countries>
+      <country><countryId>SN</countryId><rank>1000</rank></country>
+    </countries>
+    <keyboards>
+      <keyboard><keyboardId>fr(oss)</keyboardId><rank>1000</rank></keyboard>
+    </keyboards>
+    <timezones>
+      <timezone><timezoneId>Africa/Dakar</timezoneId><rank>1000</rank></timezone>
+    </timezones>
+  </language>
+  <language>
     <languageId>fi</languageId>
     <iso639-1>fi</iso639-1>
     <iso639-2-t>fin</iso639-2-t>
@@ -2900,6 +2921,27 @@
     </keyboards>
     <timezones>
       <timezone><timezoneId>Africa/Addis_Ababa</timezoneId><rank>1000</rank></timezone>
+    </timezones>
+  </language>
+  <language>
+    <languageId>wo</languageId>
+    <iso639-1>wo</iso639-1>
+    <iso639-2-t>wol</iso639-2-t>
+    <iso639-2-b>wol</iso639-2-b>
+    <names>
+      <name><languageId>en</languageId><name>Wolof</name></name>
+    </names>
+    <locales>
+      <locale><localeId>wo_SN.UTF-8</localeId><rank>1000</rank></locale>
+    </locales>
+    <countries>
+      <country><countryId>SN</countryId><rank>1000</rank></country>
+    </countries>
+    <keyboards>
+      <keyboard><keyboardId>sn</keyboardId><rank>1000</rank></keyboard>
+    </keyboards>
+    <timezones>
+      <timezone><timezoneId>Africa/Dakar</timezoneId><rank>1000</rank></timezone>
     </timezones>
   </language>
   <language>

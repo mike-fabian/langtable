@@ -627,6 +627,14 @@
     </languages>
   </keyboard>
   <keyboard>
+    <keyboardId>sn</keyboardId>
+    <description>Wolof</description>
+    <ascii>True</ascii>
+    <languages>
+      <language><languageId>wo</languageId><rank>1000</rank></language>
+    </languages>
+  </keyboard>
+  <keyboard>
     <keyboardId>tr</keyboardId>
     <description>Turkish</description>
     <ascii>True</ascii>

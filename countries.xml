@@ -2655,6 +2655,28 @@
     </timezones>
   </country>
   <country>
+    <countryId>SN</countryId>
+    <names>
+      <name><languageId>en</languageId><name>Senegal</name></name>
+    </names>
+    <locales>
+      <locale><localeId>wo_SN.UTF-8</localeId><rank>500</rank></locale>
+      <locale><localeId>ff_SN.UTF-8</localeId><rank>400</rank></locale>
+    </locales>
+    <languages>
+      <language><languageId>wo</languageId><rank>500</rank></language>
+      <language><languageId>ff</languageId><rank>400</rank></language>
+      <language><languageId>fr</languageId><rank>100</rank></language>
+    </languages>
+    <keyboards>
+      <keyboard><keyboardId>fr(oss)</keyboardId><rank>900</rank></keyboard>
+      <keyboard><keyboardId>sn</keyboardId><rank>100</rank></keyboard>
+    </keyboards>
+    <timezones>
+      <timezone><timezoneId>Africa/Dakar</timezoneId><rank>1000</rank></timezone>
+    </timezones>
+  </country>
+  <country>
     <countryId>SV</countryId>
     <names>
       <name><languageId>de</languageId><name>El Salvador</name></name>
