@@ -543,6 +543,16 @@
     </languages>
   </keyboard>
   <keyboard>
+    <keyboardId>ph</keyboardId>
+    <description>Filipino</description>
+    <ascii>True</ascii>
+    <languages>
+      <language><languageId>fil</languageId><rank>500</rank></language>
+      <language><languageId>en</languageId><rank>300</rank></language>
+      <language><languageId>tl</languageId><rank>200</rank></language>
+    </languages>
+  </keyboard>
+  <keyboard>
     <keyboardId>pt</keyboardId>
     <description>Portuguese</description>
     <ascii>True</ascii>

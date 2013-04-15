@@ -2288,6 +2288,28 @@
     </timezones>
   </country>
   <country>
+    <countryId>PH</countryId>
+    <names>
+      <name><languageId>en</languageId><name>Philippines</name></name>
+    </names>
+    <locales>
+      <locale><localeId>fil_PH.UTF-8</localeId><rank>500</rank></locale>
+      <locale><localeId>en_PH.UTF-8</localeId><rank>300</rank></locale>
+      <locale><localeId>tl_PH.UTF-8</localeId><rank>200</rank></locale>
+    </locales>
+    <languages>
+      <language><languageId>fil</languageId><rank>500</rank></language>
+      <language><languageId>en</languageId><rank>300</rank></language>
+      <language><languageId>tl</languageId><rank>200</rank></language>
+    </languages>
+    <keyboards>
+      <keyboard><keyboardId>ph</keyboardId><rank>1000</rank></keyboard>
+    </keyboards>
+    <timezones>
+      <timezone><timezoneId>Asia/Manila</timezoneId><rank>1000</rank></timezone>
+    </timezones>
+  </country>
+  <country>
     <countryId>PK</countryId>
     <names>
       <name><languageId>de</languageId><name>Pakistan</name></name>

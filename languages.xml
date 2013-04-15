@@ -736,6 +736,27 @@
     </timezones>
   </language>
   <language>
+    <languageId>fil</languageId>
+    <iso639-1>None</iso639-1>
+    <iso639-2-t>fil</iso639-2-t>
+    <iso639-2-b>fil</iso639-2-b>
+    <names>
+      <name><languageId>en</languageId><name>Filipino</name></name>
+    </names>
+    <locales>
+      <locale><localeId>fil_PH.UTF-8</localeId><rank>1000</rank></locale>
+    </locales>
+    <countries>
+      <country><countryId>PH</countryId><rank>1000</rank></country>
+    </countries>
+    <keyboards>
+      <keyboard><keyboardId>ph</keyboardId><rank>1000</rank></keyboard>
+    </keyboards>
+    <timezones>
+      <timezone><timezoneId>Asia/Manila</timezoneId><rank>1000</rank></timezone>
+    </timezones>
+  </language>
+  <language>
     <languageId>fo</languageId>
     <iso639-1>fo</iso639-1>
     <iso639-2-t>fao</iso639-2-t>
@@ -2674,6 +2695,27 @@
     </keyboards>
     <timezones>
       <timezone><timezoneId>Africa/Asmara</timezoneId><rank>1000</rank></timezone>
+    </timezones>
+  </language>
+  <language>
+    <languageId>tl</languageId>
+    <iso639-1>tl</iso639-1>
+    <iso639-2-t>tgl</iso639-2-t>
+    <iso639-2-b>tgl</iso639-2-b>
+    <names>
+      <name><languageId>en</languageId><name></name></name>
+    </names>
+    <locales>
+      <locale><localeId>tl_PH.UTF-8</localeId><rank>1000</rank></locale>
+    </locales>
+    <countries>
+      <country><countryId>PH</countryId><rank>1000</rank></country>
+    </countries>
+    <keyboards>
+      <keyboard><keyboardId>ph</keyboardId><rank>1000</rank></keyboard>
+    </keyboards>
+    <timezones>
+      <timezone><timezoneId>Asia/Manila</timezoneId><rank>1000</rank></timezone>
     </timezones>
   </language>
   <language>
