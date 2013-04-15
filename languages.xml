@@ -527,6 +527,30 @@
     </timezones>
   </language>
   <language>
+    <languageId>crh</languageId>
+    <iso639-1>None</iso639-1>
+    <iso639-2-t>crh</iso639-2-t>
+    <iso639-2-b>crh</iso639-2-b>
+    <names>
+      <name><languageId>en</languageId><name>Crimean Turkish</name></name>
+    </names>
+    <locales>
+      <locale><localeId>crh_UA.UTF-8</localeId><rank>1000</rank></locale>
+    </locales>
+    <countries>
+      <country><countryId>UA</countryId><rank>1000</rank></country>
+    </countries>
+    <keyboards>
+      <keyboard><keyboardId>tr(crh)</keyboardId><rank>1000</rank></keyboard>
+    </keyboards>
+    <timezones>
+      <timezone><timezoneId>Europe/Kiev</timezoneId><rank>1000</rank></timezone>
+      <timezone><timezoneId>Europe/Uzhgorod</timezoneId><rank>1</rank></timezone>
+      <timezone><timezoneId>Europe/Zaporozhye</timezoneId><rank>1</rank></timezone>
+      <timezone><timezoneId>Europe/Simferopol</timezoneId><rank>1</rank></timezone>
+    </timezones>
+  </language>
+  <language>
     <languageId>cs</languageId>
     <iso639-1>cs</iso639-1>
     <iso639-2-t>ces</iso639-2-t>

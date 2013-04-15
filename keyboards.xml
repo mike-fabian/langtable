@@ -170,6 +170,14 @@
     </languages>
   </keyboard>
   <keyboard>
+    <keyboardId>tr(crh)</keyboardId>
+    <description>Crimean Tatar (Turkish Q)</description>
+    <ascii>True</ascii>
+    <languages>
+      <language><languageId>crh</languageId><rank>1000</rank></language>
+    </languages>
+  </keyboard>
+  <keyboard>
     <keyboardId>cz</keyboardId>
     <description>Czech</description>
     <ascii>False</ascii>

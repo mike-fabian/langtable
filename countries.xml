@@ -2911,6 +2911,10 @@
       <keyboard><keyboardId>ru</keyboardId><rank>100</rank></keyboard>
     </keyboards>
     <timezones>
+      <timezone><timezoneId>Europe/Kiev</timezoneId><rank>1000</rank></timezone>
+      <timezone><timezoneId>Europe/Uzhgorod</timezoneId><rank>1</rank></timezone>
+      <timezone><timezoneId>Europe/Zaporozhye</timezoneId><rank>1</rank></timezone>
+      <timezone><timezoneId>Europe/Simferopol</timezoneId><rank>1</rank></timezone>
     </timezones>
   </country>
   <country>
