@@ -2090,6 +2090,33 @@
     </timezones>
   </country>
   <country>
+    <countryId>NG</countryId>
+    <names>
+      <name><languageId>en</languageId><name>Nigeria</name></name>
+    </names>
+    <locales>
+      <locale><localeId>en_NG.UTF-8</localeId><rank>400</rank></locale>
+      <locale><localeId>ha_NG.UTF-8</localeId><rank>250</rank></locale>
+      <locale><localeId>ig_NG.UTF-8</localeId><rank>200</rank></locale>
+      <locale><localeId>yo_NG.UTF-8</localeId><rank>150</rank></locale>
+    </locales>
+    <languages>
+      <language><languageId>en</languageId><rank>400</rank></language>
+      <language><languageId>ha</languageId><rank>250</rank></language>
+      <language><languageId>ig</languageId><rank>200</rank></language>
+      <language><languageId>yo</languageId><rank>150</rank></language>
+    </languages>
+    <keyboards>
+      <keyboard><keyboardId>ng</keyboardId><rank>400</rank></keyboard>
+      <keyboard><keyboardId>ng(hausa)</keyboardId><rank>250</rank></keyboard>
+      <keyboard><keyboardId>ng(igbo)</keyboardId><rank>200</rank></keyboard>
+      <keyboard><keyboardId>ng(yoruba)</keyboardId><rank>150</rank></keyboard>
+    </keyboards>
+    <timezones>
+      <timezone><timezoneId>Africa/Lagos</timezoneId><rank>1000</rank></timezone>
+    </timezones>
+  </country>
+  <country>
     <countryId>NI</countryId>
     <names>
       <name><languageId>de</languageId><name>Nicaragua</name></name>

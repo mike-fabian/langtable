@@ -984,6 +984,27 @@
     </timezones>
   </language>
   <language>
+    <languageId>ha</languageId>
+    <iso639-1>ha</iso639-1>
+    <iso639-2-t>hau</iso639-2-t>
+    <iso639-2-b>hau</iso639-2-b>
+    <names>
+      <name><languageId>en</languageId><name>Hausa</name></name>
+    </names>
+    <locales>
+      <locale><localeId>ha_NG.UTF-8</localeId><rank>1000</rank></locale>
+    </locales>
+    <countries>
+      <country><countryId>NG</countryId><rank>1000</rank></country>
+    </countries>
+    <keyboards>
+      <keyboard><keyboardId>ng(hausa)</keyboardId><rank>1000</rank></keyboard>
+    </keyboards>
+    <timezones>
+      <timezone><timezoneId>Africa/Lagos</timezoneId><rank>1000</rank></timezone>
+    </timezones>
+  </language>
+  <language>
     <languageId>he</languageId>
     <iso639-1>he</iso639-1>
     <iso639-2-t>heb</iso639-2-t>
@@ -1142,6 +1163,27 @@
     </keyboards>
     <timezones>
       <timezone><timezoneId>Asia/Jayapura</timezoneId><rank>1000</rank></timezone>
+    </timezones>
+  </language>
+  <language>
+    <languageId>ig</languageId>
+    <iso639-1>ig</iso639-1>
+    <iso639-2-t>ibo</iso639-2-t>
+    <iso639-2-b>ibo</iso639-2-b>
+    <names>
+      <name><languageId>en</languageId><name>Igbo</name></name>
+    </names>
+    <locales>
+      <locale><localeId>ig_NG.UTF-8</localeId><rank>1000</rank></locale>
+    </locales>
+    <countries>
+      <country><countryId>NG</countryId><rank>1000</rank></country>
+    </countries>
+    <keyboards>
+      <keyboard><keyboardId>ng(igbo)</keyboardId><rank>1000</rank></keyboard>
+    </keyboards>
+    <timezones>
+      <timezone><timezoneId>Africa/Lagos</timezoneId><rank>1000</rank></timezone>
     </timezones>
   </language>
   <language>
@@ -2784,6 +2826,27 @@
       <timezone><timezoneId>America/Kentucky/Louisville</timezoneId><rank>1</rank></timezone>
       <timezone><timezoneId>America/Boise</timezoneId><rank>1</rank></timezone>
       <timezone><timezoneId>America/Indiana/Winamac</timezoneId><rank>1</rank></timezone>
+    </timezones>
+  </language>
+  <language>
+    <languageId>yo</languageId>
+    <iso639-1>yo</iso639-1>
+    <iso639-2-t>yor</iso639-2-t>
+    <iso639-2-b>yor</iso639-2-b>
+    <names>
+      <name><languageId>en</languageId><name>Yoruba</name></name>
+    </names>
+    <locales>
+      <locale><localeId>yo_NG.UTF-8</localeId><rank>1000</rank></locale>
+    </locales>
+    <countries>
+      <country><countryId>NG</countryId><rank>1000</rank></country>
+    </countries>
+    <keyboards>
+      <keyboard><keyboardId>ng(yoruba)</keyboardId><rank>1000</rank></keyboard>
+    </keyboards>
+    <timezones>
+      <timezone><timezoneId>Africa/Lagos</timezoneId><rank>1000</rank></timezone>
     </timezones>
   </language>
   <language>

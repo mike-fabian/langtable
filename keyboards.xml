@@ -494,6 +494,38 @@
     </languages>
   </keyboard>
   <keyboard>
+    <keyboardId>ng</keyboardId>
+    <description>English (Nigeria)</description>
+    <ascii>True</ascii>
+    <languages>
+      <language><languageId>en</languageId><rank>1000</rank></language>
+    </languages>
+  </keyboard>
+  <keyboard>
+    <keyboardId>ng(yoruba)</keyboardId>
+    <description>Yoruba</description>
+    <ascii>False</ascii>
+    <languages>
+      <language><languageId>yo</languageId><rank>1000</rank></language>
+    </languages>
+  </keyboard>
+  <keyboard>
+    <keyboardId>ng(igbo)</keyboardId>
+    <description>Igbo</description>
+    <ascii>False</ascii>
+    <languages>
+      <language><languageId>ig</languageId><rank>1000</rank></language>
+    </languages>
+  </keyboard>
+  <keyboard>
+    <keyboardId>ng(hausa)</keyboardId>
+    <description>Hausa</description>
+    <ascii>False</ascii>
+    <languages>
+      <language><languageId>ha</languageId><rank>1000</rank></language>
+    </languages>
+  </keyboard>
+  <keyboard>
     <keyboardId>nl</keyboardId>
     <description>Dutch</description>
     <ascii>True</ascii>
