@@ -2210,6 +2210,27 @@
     </timezones>
   </language>
   <language>
+    <languageId>ro</languageId>
+    <iso639-1>ro</iso639-1>
+    <iso639-2-t>ron</iso639-2-t>
+    <iso639-2-b>rum</iso639-2-b>
+    <names>
+      <name><languageId>en</languageId><name>Romanian</name></name>
+    </names>
+    <locales>
+      <locale><localeId>ro_RO.UTF-8</localeId><rank>1000</rank></locale>
+    </locales>
+    <countries>
+      <country><countryId>RO</countryId><rank>1000</rank></country>
+    </countries>
+    <keyboards>
+      <keyboard><keyboardId>ro</keyboardId><rank>1000</rank></keyboard>
+    </keyboards>
+    <timezones>
+      <timezone><timezoneId>Europe/Bucharest</timezoneId><rank>1000</rank></timezone>
+    </timezones>
+  </language>
+  <language>
     <languageId>ru</languageId>
     <iso639-1>ru</iso639-1>
     <iso639-2-t>rus</iso639-2-t>

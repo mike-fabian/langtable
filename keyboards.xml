@@ -561,6 +561,14 @@
     </languages>
   </keyboard>
   <keyboard>
+    <keyboardId>ro</keyboardId>
+    <description>Romanian</description>
+    <ascii>True</ascii>
+    <languages>
+      <language><languageId>ro</languageId><rank>1000</rank></language>
+    </languages>
+  </keyboard>
+  <keyboard>
     <keyboardId>rs</keyboardId>
     <description>Serbian (Cyrillic)</description>
     <ascii>False</ascii>

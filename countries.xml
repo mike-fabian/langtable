@@ -2435,6 +2435,24 @@
     </timezones>
   </country>
   <country>
+    <countryId>RO</countryId>
+    <names>
+      <name><languageId>en</languageId><name>Romania</name></name>
+    </names>
+    <locales>
+      <locale><localeId>ro_RO.UTF-8</localeId><rank>1000</rank></locale>
+    </locales>
+    <languages>
+      <language><languageId>ro</languageId><rank>1000</rank></language>
+    </languages>
+    <keyboards>
+      <keyboard><keyboardId>ro</keyboardId><rank>1000</rank></keyboard>
+    </keyboards>
+    <timezones>
+      <timezone><timezoneId>Europe/Bucharest</timezoneId><rank>1000</rank></timezone>
+    </timezones>
+  </country>
+  <country>
     <countryId>RS</countryId>
     <names>
       <name><languageId>de</languageId><name>Serbien</name></name>
