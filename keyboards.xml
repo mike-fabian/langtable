@@ -635,6 +635,30 @@
     </languages>
   </keyboard>
   <keyboard>
+    <keyboardId>th</keyboardId>
+    <description>Thai</description>
+    <ascii>False</ascii>
+    <languages>
+      <language><languageId>th</languageId><rank>1000</rank></language>
+    </languages>
+  </keyboard>
+  <keyboard>
+    <keyboardId>th(pat)</keyboardId>
+    <description>Thai (Pattachote)</description>
+    <ascii>False</ascii>
+    <languages>
+      <language><languageId>th</languageId><rank>0</rank></language>
+    </languages>
+  </keyboard>
+  <keyboard>
+    <keyboardId>th(tis)</keyboardId>
+    <description>Thai (TIS-820.2538)</description>
+    <ascii>False</ascii>
+    <languages>
+      <language><languageId>th</languageId><rank>0</rank></language>
+    </languages>
+  </keyboard>
+  <keyboard>
     <keyboardId>tr</keyboardId>
     <description>Turkish</description>
     <ascii>True</ascii>

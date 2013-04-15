@@ -2714,6 +2714,29 @@
     </timezones>
   </language>
   <language>
+    <languageId>th</languageId>
+    <iso639-1>th</iso639-1>
+    <iso639-2-t>tha</iso639-2-t>
+    <iso639-2-b>tha</iso639-2-b>
+    <names>
+      <name><languageId>en</languageId><name>Thai</name></name>
+    </names>
+    <locales>
+      <locale><localeId>th_TH.UTF-8</localeId><rank>1000</rank></locale>
+    </locales>
+    <countries>
+      <country><countryId>TH</countryId><rank>1000</rank></country>
+    </countries>
+    <keyboards>
+      <keyboard><keyboardId>th</keyboardId><rank>1000</rank></keyboard>
+      <keyboard><keyboardId>th(tis)</keyboardId><rank>0</rank></keyboard>
+      <keyboard><keyboardId>th(pat></keyboardId><rank>0</rank></keyboard>
+    </keyboards>
+    <timezones>
+      <timezone><timezoneId>Asia/Bangkok</timezoneId><rank>1000</rank></timezone>
+    </timezones>
+  </language>
+  <language>
     <languageId>ti</languageId>
     <iso639-1>ti</iso639-1>
     <iso639-2-t>tir</iso639-2-t>
