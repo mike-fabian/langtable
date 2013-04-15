@@ -219,6 +219,14 @@
     </languages>
   </keyboard>
   <keyboard>
+    <keyboardId>es(ast)</keyboardId>
+    <description>Asturian (Spain, with bottom-dot H and bottom-dot L)</description>
+    <ascii>True</ascii>
+    <languages>
+      <language><languageId>ast</languageId><rank>1000</rank></language>
+    </languages>
+  </keyboard>
+  <keyboard>
     <keyboardId>es(cat)</keyboardId>
     <description>Catalan (Spain, with middle-dot L)</description>
     <ascii>True</ascii>

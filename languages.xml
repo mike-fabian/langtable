@@ -196,6 +196,27 @@
     </timezones>
   </language>
   <language>
+    <languageId>ast</languageId>
+    <iso639-1>None</iso639-1>
+    <iso639-2-t>ast</iso639-2-t>
+    <iso639-2-b>ast</iso639-2-b>
+    <names>
+      <name><languageId>en</languageId><name>Asturian</name></name>
+    </names>
+    <locales>
+      <locale><localeId>ast_ES.UTF-8</localeId><rank>1000</rank></locale>
+    </locales>
+    <countries>
+      <country><countryId>ES</countryId><rank>1000</rank></country>
+    </countries>
+    <keyboards>
+      <keyboard><keyboardId>es(ast)</keyboardId><rank>1000</rank></keyboard>
+    </keyboards>
+    <timezones>
+      <timezone><timezoneId>Europe/Madrid</timezoneId><rank>1000</rank></timezone>
+    </timezones>
+  </language>
+  <language>
     <languageId>az</languageId>
     <iso639-1>az</iso639-1>
     <iso639-2-t>aze</iso639-2-t>
