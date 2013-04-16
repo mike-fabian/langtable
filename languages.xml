@@ -477,8 +477,8 @@
     <iso639-2-t>byn</iso639-2-t>
     <iso639-2-b>byn</iso639-2-b>
     <names>
-      <name><languageId>en</languageId><name>Blin</name></name>
       <name><languageId>byn</languageId><name>ብሊና</name></name>
+      <name><languageId>en</languageId><name>Blin</name></name>
     </names>
     <locales>
       <locale><localeId>byn_ER.UTF-8</localeId><rank>1000</rank></locale>
@@ -730,8 +730,8 @@
     <iso639-2-t>div</iso639-2-t>
     <iso639-2-b>div</iso639-2-b>
     <names>
-      <name><languageId>en</languageId><name>Divehi</name></name>
       <name><languageId>dv</languageId><name>ދިވެހި</name></name>
+      <name><languageId>en</languageId><name>Divehi</name></name>
     </names>
     <locales>
       <locale><localeId>dv_MV.UTF-8</localeId><rank>1000</rank></locale>
@@ -1674,6 +1674,28 @@
     </timezones>
   </language>
   <language>
+    <languageId>ik</languageId>
+    <iso639-1>ik</iso639-1>
+    <iso639-2-t>ipk</iso639-2-t>
+    <iso639-2-b>ipk</iso639-2-b>
+    <names>
+      <name><languageId>en</languageId><name>Inupiaq</name></name>
+    </names>
+    <locales>
+      <locale><localeId>ik_CA.UTF-8</localeId><rank>1000</rank></locale>
+    </locales>
+    <countries>
+      <country><countryId>CA</countryId><rank>1000</rank></country>
+    </countries>
+    <keyboards>
+      <keyboard><keyboardId>ca(eng)</keyboardId><rank>1000</rank></keyboard>
+    </keyboards>
+    <timezones>
+      <timezone><timezoneId>America/Yellowknife</timezoneId><rank>100</rank></timezone>
+      <timezone><timezoneId>America/Nome</timezoneId><rank>10</rank></timezone>
+    </timezones>
+  </language>
+  <language>
     <languageId>is</languageId>
     <iso639-1>is</iso639-1>
     <iso639-2-t>isl</iso639-2-t>
@@ -1720,28 +1742,6 @@
     <timezones>
       <timezone><timezoneId>Europe/Rome</timezoneId><rank>900</rank></timezone>
       <timezone><timezoneId>Europe/Zurich</timezoneId><rank>100</rank></timezone>
-    </timezones>
-  </language>
-  <language>
-    <languageId>ik</languageId>
-    <iso639-1>ik</iso639-1>
-    <iso639-2-t>ipk</iso639-2-t>
-    <iso639-2-b>ipk</iso639-2-b>
-    <names>
-      <name><languageId>en</languageId><name>Inupiaq</name></name>
-    </names>
-    <locales>
-      <locale><localeId>ik_CA.UTF-8</localeId><rank>1000</rank></locale>
-    </locales>
-    <countries>
-      <country><countryId>CA</countryId><rank>1000</rank></country>
-    </countries>
-    <keyboards>
-      <keyboard><keyboardId>ca(eng)</keyboardId><rank>1000</rank></keyboard>
-    </keyboards>
-    <timezones>
-      <timezone><timezoneId>America/Yellowknife</timezoneId><rank>100</rank></timezone>
-      <timezone><timezoneId>America/Nome</timezoneId><rank>10</rank></timezone>
     </timezones>
   </language>
   <language>
@@ -1836,7 +1836,7 @@
       <keyboard><keyboardId>ge</keyboardId><rank>1000</rank></keyboard>
     </keyboards>
     <timezones>
-      <timezone><timezoneId></timezoneId><rank>1000</rank></timezone>
+      <timezone><timezoneId>Asia/Tbilisi</timezoneId><rank>1000</rank></timezone>
     </timezones>
   </language>
   <language>
@@ -2089,7 +2089,7 @@
     <iso639-2-t>kir</iso639-2-t>
     <iso639-2-b>kir</iso639-2-b>
     <names>
-      <name><languageId>en</languageId><name></name></name>
+      <name><languageId>en</languageId><name>Kirghiz</name></name>
     </names>
     <locales>
       <locale><localeId>ky_KG.UTF-8</localeId><rank>1000</rank></locale>
@@ -2795,27 +2795,6 @@
     </timezones>
   </language>
   <language>
-    <languageId>os</languageId>
-    <iso639-1>os</iso639-1>
-    <iso639-2-t>oss</iso639-2-t>
-    <iso639-2-b>oss</iso639-2-b>
-    <names>
-      <name><languageId>en</languageId><name>Ossetic</name></name>
-    </names>
-    <locales>
-      <locale><localeId>os_RU.UTF-8</localeId><rank>1000</rank></locale>
-    </locales>
-    <countries>
-      <country><countryId>RU</countryId><rank>1000</rank></country>
-    </countries>
-    <keyboards>
-      <keyboard><keyboardId>ru(os_winkeys)</keyboardId><rank>1000</rank></keyboard>
-    </keyboards>
-    <timezones>
-      <timezone><timezoneId>Europe/Moscow</timezoneId><rank>1000</rank></timezone>
-    </timezones>
-  </language>
-  <language>
     <languageId>om</languageId>
     <iso639-1>om</iso639-1>
     <iso639-2-t>orm</iso639-2-t>
@@ -2860,6 +2839,27 @@
     </keyboards>
     <timezones>
       <timezone><timezoneId>Asia/Kolkata</timezoneId><rank>1000</rank></timezone>
+    </timezones>
+  </language>
+  <language>
+    <languageId>os</languageId>
+    <iso639-1>os</iso639-1>
+    <iso639-2-t>oss</iso639-2-t>
+    <iso639-2-b>oss</iso639-2-b>
+    <names>
+      <name><languageId>en</languageId><name>Ossetic</name></name>
+    </names>
+    <locales>
+      <locale><localeId>os_RU.UTF-8</localeId><rank>1000</rank></locale>
+    </locales>
+    <countries>
+      <country><countryId>RU</countryId><rank>1000</rank></country>
+    </countries>
+    <keyboards>
+      <keyboard><keyboardId>ru(os_winkeys)</keyboardId><rank>1000</rank></keyboard>
+    </keyboards>
+    <timezones>
+      <timezone><timezoneId>Europe/Moscow</timezoneId><rank>1000</rank></timezone>
     </timezones>
   </language>
   <language>
@@ -3154,29 +3154,6 @@
     </timezones>
   </language>
   <language>
-    <languageId>se</languageId>
-    <iso639-1>se</iso639-1>
-    <iso639-2-t>sme</iso639-2-t>
-    <iso639-2-b>sme</iso639-2-b>
-    <names>
-      <name><languageId>de</languageId><name>Nord-Samisch</name></name>
-      <name><languageId>en</languageId><name>Northern Sami</name></name>
-      <name><languageId>se</languageId><name>Davvisámegiella</name></name>
-    </names>
-    <locales>
-      <locale><localeId>se_NO.UTF-8</localeId><rank>1000</rank></locale>
-    </locales>
-    <countries>
-      <country><countryId>NO</countryId><rank>1000</rank></country>
-    </countries>
-    <keyboards>
-      <keyboard><keyboardId>no</keyboardId><rank>1000</rank></keyboard>
-    </keyboards>
-    <timezones>
-      <timezone><timezoneId>Europe/Oslo</timezoneId><rank>1000</rank></timezone>
-    </timezones>
-  </language>
-  <language>
     <languageId>sd</languageId>
     <iso639-1>sd</iso639-1>
     <iso639-2-t>snd</iso639-2-t>
@@ -3185,7 +3162,7 @@
       <name><languageId>en</languageId><name>Sindhi</name></name>
       <name><languageId>sd</languageId><name>سنڌي</name></name>
       <name><languageId>sd_Arab</languageId><name>سنڌي</name></name>
-      <name><languageId>sd_Deva</languageId>सिन्धी<name></name></name>
+      <name><languageId>sd_Deva</languageId><name>सिन्धी</name></name>
     </names>
     <locales>
       <locale><localeId>sd_IN.UTF-8</localeId><rank>900</rank></locale>
@@ -3212,7 +3189,7 @@
       <name><languageId>en</languageId><name>Sindhi</name></name>
       <name><languageId>sd</languageId><name>سنڌي</name></name>
       <name><languageId>sd_Arab</languageId><name>سنڌي</name></name>
-      <name><languageId>sd_Deva</languageId>सिन्धी<name></name></name>
+      <name><languageId>sd_Deva</languageId><name>सिन्धी</name></name>
     </names>
     <locales>
       <locale><localeId>sd_IN.UTF-8</localeId><rank>900</rank></locale>
@@ -3238,7 +3215,7 @@
       <name><languageId>en</languageId><name>Sindhi</name></name>
       <name><languageId>sd</languageId><name>سنڌي</name></name>
       <name><languageId>sd_Arab</languageId><name>سنڌي</name></name>
-      <name><languageId>sd_Deva</languageId>सिन्धी<name></name></name>
+      <name><languageId>sd_Deva</languageId><name>सिन्धी</name></name>
     </names>
     <locales>
       <locale><localeId>sd_IN.UTF-8@devanagari</localeId><rank>900</rank></locale>
@@ -3251,6 +3228,29 @@
     </keyboards>
     <timezones>
       <timezone><timezoneId>Asia/Kolkata</timezoneId><rank>1000</rank></timezone>
+    </timezones>
+  </language>
+  <language>
+    <languageId>se</languageId>
+    <iso639-1>se</iso639-1>
+    <iso639-2-t>sme</iso639-2-t>
+    <iso639-2-b>sme</iso639-2-b>
+    <names>
+      <name><languageId>de</languageId><name>Nord-Samisch</name></name>
+      <name><languageId>en</languageId><name>Northern Sami</name></name>
+      <name><languageId>se</languageId><name>Davvisámegiella</name></name>
+    </names>
+    <locales>
+      <locale><localeId>se_NO.UTF-8</localeId><rank>1000</rank></locale>
+    </locales>
+    <countries>
+      <country><countryId>NO</countryId><rank>1000</rank></country>
+    </countries>
+    <keyboards>
+      <keyboard><keyboardId>no</keyboardId><rank>1000</rank></keyboard>
+    </keyboards>
+    <timezones>
+      <timezone><timezoneId>Europe/Oslo</timezoneId><rank>1000</rank></timezone>
     </timezones>
   </language>
   <language>
@@ -3685,8 +3685,8 @@
     </countries>
     <keyboards>
       <keyboard><keyboardId>th</keyboardId><rank>1000</rank></keyboard>
-      <keyboard><keyboardId>th(tis)</keyboardId><rank>0</rank></keyboard>
       <keyboard><keyboardId>th(pat></keyboardId><rank>0</rank></keyboard>
+      <keyboard><keyboardId>th(tis)</keyboardId><rank>0</rank></keyboard>
     </keyboards>
     <timezones>
       <timezone><timezoneId>Asia/Bangkok</timezoneId><rank>1000</rank></timezone>
@@ -3766,7 +3766,7 @@
     <iso639-2-t>tgl</iso639-2-t>
     <iso639-2-b>tgl</iso639-2-b>
     <names>
-      <name><languageId>en</languageId><name></name></name>
+      <name><languageId>en</languageId><name>Tagalog</name></name>
     </names>
     <locales>
       <locale><localeId>tl_PH.UTF-8</localeId><rank>1000</rank></locale>
@@ -3953,20 +3953,20 @@
       <name><languageId>ur</languageId><name>اردو</name></name>
     </names>
     <locales>
-      <locale><localeId>ur_IN.UTF-8</localeId><rank>501</rank></locale>
-      <locale><localeId>ur_PK.UTF-8</localeId><rank>499</rank></locale>
+      <locale><localeId>ur_PK.UTF-8</localeId><rank>501</rank></locale>
+      <locale><localeId>ur_IN.UTF-8</localeId><rank>499</rank></locale>
     </locales>
     <countries>
-      <country><countryId>IN</countryId><rank>501</rank></country>
       <country><countryId>PK</countryId><rank>501</rank></country>
+      <country><countryId>IN</countryId><rank>499</rank></country>
     </countries>
     <keyboards>
       <keyboard><keyboardId>pk</keyboardId><rank>501</rank></keyboard>
       <keyboard><keyboardId>in(urd-winkeys)</keyboardId><rank>499</rank></keyboard>
     </keyboards>
     <timezones>
-      <timezone><timezoneId>Asia/Kolkata</timezoneId><rank>501</rank></timezone>
-      <timezone><timezoneId>Asia/Karachi</timezoneId><rank>499</rank></timezone>
+      <timezone><timezoneId>Asia/Karachi</timezoneId><rank>501</rank></timezone>
+      <timezone><timezoneId>Asia/Kolkata</timezoneId><rank>499</rank></timezone>
     </timezones>
   </language>
   <language>
@@ -4000,7 +4000,7 @@
     <iso639-2-t>ven</iso639-2-t>
     <iso639-2-b>ven</iso639-2-b>
     <names>
-      <name><languageId>en</languageId><name></name></name>
+      <name><languageId>en</languageId><name>Venda</name></name>
     </names>
     <locales>
       <locale><localeId>ve_ZA.UTF-8</localeId><rank>1000</rank></locale>
@@ -4228,10 +4228,10 @@
       <name><languageId>yue_Hans</languageId><name>粤语</name></name>
       <name><languageId>yue_Hant</languageId><name>粵語</name></name>
       <name><languageId>zh</languageId><name>粤语</name></name>
+      <name><languageId>zh_HK</languageId><name>粵語</name></name>
       <name><languageId>zh_Hans</languageId><name>粤语</name></name>
       <name><languageId>zh_Hant</languageId><name>粵語</name></name>
       <name><languageId>zh_Hant_HK</languageId><name>粵語</name></name>
-      <name><languageId>zh_HK</languageId><name>粵語</name></name>
     </names>
     <locales>
       <locale><localeId>yue_HK.UTF-8</localeId><rank>1000</rank></locale>
