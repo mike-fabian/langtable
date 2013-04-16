@@ -1,5 +1,6 @@
 >>> import lang_table
 >>> lang_table.init(debug = True, logfilename="lang_table.log", countriesfilename="countries.xml", languagesfilename="languages.xml", keyboardsfilename="keyboards.xml")
+>>> lang_table.write_files(countriesfilename="countries.xml.new", languagesfilename="languages.xml.new", keyboardsfilename="keyboards.xml.new")
 >>> from lang_table import list_locales
 >>> from lang_table import list_keyboards
 >>> from lang_table import test_language_country
@@ -284,28 +285,28 @@
     中文
 
 >>> print language_name(languageId="zh", languageIdQuery="de").encode("UTF-8") # doctest: +NORMALIZE_WHITESPACE
-    Chinesich
+    Chinesisch
 
 >>> print language_name(languageId="zh", scriptId="Hant", languageIdQuery="de").encode("UTF-8") # doctest: +NORMALIZE_WHITESPACE
-    Traditionelles Chinesisch
+    Chinesisch (traditionell)
 
 >>> print language_name(languageId="zh", scriptId="Hans", languageIdQuery="de").encode("UTF-8") # doctest: +NORMALIZE_WHITESPACE
-    Vereinfachtes Chinesich
+    Chinesisch (vereinfacht)
 
 >>> print language_name(languageId="zh", countryId="HK", languageIdQuery="de").encode("UTF-8") # doctest: +NORMALIZE_WHITESPACE
-    Traditionelles Chinesich (Sonderverwaltungszone Hongkong)
+    Traditionelles Chinesisch (Sonderverwaltungszone Hongkong)
 
 >>> print language_name(languageId="zh", countryId="MO", languageIdQuery="de").encode("UTF-8") # doctest: +NORMALIZE_WHITESPACE
-    Traditionelles Chinesich (Sonderverwaltungszone Macao)
+    Traditionelles Chinesisch (Sonderverwaltungszone Macao)
 
 >>> print language_name(languageId="zh", countryId="MO", languageIdQuery="en").encode("UTF-8") # doctest: +NORMALIZE_WHITESPACE
     Traditional Chinese (Macau SAR China)
 
 >>> print language_name(languageId="zh", countryId="SG", languageIdQuery="de").encode("UTF-8") # doctest: +NORMALIZE_WHITESPACE
-    Vereinfachtes Chinesich (Singapur)
+    Vereinfachtes Chinesisch (Singapur)
 
 >>> print language_name(languageId="zh", countryId="TW", languageIdQuery="de").encode("UTF-8") # doctest: +NORMALIZE_WHITESPACE
-    Traditionelles Chinesich (Taiwan)
+    Traditionelles Chinesisch (Taiwan)
 
 >>> print language_name(languageId="zh", countryId="CN").encode("UTF-8") # doctest: +NORMALIZE_WHITESPACE
     简体中文 (中国)

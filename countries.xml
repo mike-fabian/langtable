@@ -1483,24 +1483,6 @@
     </timezones>
   </country>
   <country>
-    <countryId>IR</countryId>
-    <names>
-      <name><languageId>en</languageId><name>Iran</name></name>
-    </names>
-    <locales>
-      <locale><localeId>fa_IR.UTF-8</localeId><rank>1000</rank></locale>
-    </locales>
-    <languages>
-      <language><languageId>fa</languageId><rank>1000</rank></language>
-    </languages>
-    <keyboards>
-      <keyboard><keyboardId>ir</keyboardId><rank>1000</rank></keyboard>
-    </keyboards>
-    <timezones>
-      <timezone><timezoneId>Asia/Tehran</timezoneId><rank>1000</rank></timezone>
-    </timezones>
-  </country>
-  <country>
     <countryId>IQ</countryId>
     <names>
       <name><languageId>de</languageId><name>Irak</name></name>
@@ -1517,6 +1499,24 @@
     </keyboards>
     <timezones>
       <timezone><timezoneId>Asia/Baghdad</timezoneId><rank>1000</rank></timezone>
+    </timezones>
+  </country>
+  <country>
+    <countryId>IR</countryId>
+    <names>
+      <name><languageId>en</languageId><name>Iran</name></name>
+    </names>
+    <locales>
+      <locale><localeId>fa_IR.UTF-8</localeId><rank>1000</rank></locale>
+    </locales>
+    <languages>
+      <language><languageId>fa</languageId><rank>1000</rank></language>
+    </languages>
+    <keyboards>
+      <keyboard><keyboardId>ir</keyboardId><rank>1000</rank></keyboard>
+    </keyboards>
+    <timezones>
+      <timezone><timezoneId>Asia/Tehran</timezoneId><rank>1000</rank></timezone>
     </timezones>
   </country>
   <country>
@@ -3118,11 +3118,11 @@
     </names>
     <locales>
       <locale><localeId>en_ZM.UTF-8</localeId><rank>700</rank></locale>
-      <locale><localeId>bem_ZM.UTF-8</localeId><rank>3000</rank></locale>
+      <locale><localeId>bem_ZM.UTF-8</localeId><rank>300</rank></locale>
     </locales>
     <languages>
       <language><languageId>en</languageId><rank>700</rank></language>
-      <language><languageId>bem</languageId><rank>700</rank></language>
+      <language><languageId>bem</languageId><rank>300</rank></language>
     </languages>
     <keyboards>
       <keyboard><keyboardId>us</keyboardId><rank>1000</rank></keyboard>
