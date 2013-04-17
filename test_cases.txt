@@ -1,19 +1,19 @@
 >>> import lang_table
->>> lang_table.init(debug = True, logfilename="lang_table.log", countriesfilename="countries.xml", languagesfilename="languages.xml", keyboardsfilename="keyboards.xml")
->>> lang_table.write_files(countriesfilename="countries.xml.new", languagesfilename="languages.xml.new", keyboardsfilename="keyboards.xml.new")
+>>> lang_table.init(debug = True, logfilename="lang_table.log", territoriesfilename="territories.xml", languagesfilename="languages.xml", keyboardsfilename="keyboards.xml")
+>>> lang_table.write_files(territoriesfilename="territories.xml.new", languagesfilename="languages.xml.new", keyboardsfilename="keyboards.xml.new")
 >>> from lang_table import list_locales
 >>> from lang_table import list_keyboards
->>> from lang_table import test_language_country
+>>> from lang_table import test_language_territory
 >>> from lang_table import language_name
->>> from lang_table import country_name
+>>> from lang_table import territory_name
 
->>> list_locales(languageId="de", countryId="BE") # doctest: +NORMALIZE_WHITESPACE
+>>> list_locales(languageId="de", territoryId="BE") # doctest: +NORMALIZE_WHITESPACE
     ['de_BE.UTF-8']
 
->>> list_keyboards(languageId="de", countryId="BE") # doctest: +NORMALIZE_WHITESPACE
+>>> list_keyboards(languageId="de", territoryId="BE") # doctest: +NORMALIZE_WHITESPACE
     ['be(oss)']
 
->>> test_language_country(show_weights=False, languageId=None, countryId=None) # doctest: +NORMALIZE_WHITESPACE
+>>> test_language_territory(show_weights=False, languageId=None, territoryId=None) # doctest: +NORMALIZE_WHITESPACE
     None: []
     None: []
      +: []
@@ -21,7 +21,7 @@
     None: []
      +: []
 
->>> test_language_country(show_weights=False, languageId="be", countryId="BY") # doctest: +NORMALIZE_WHITESPACE
+>>> test_language_territory(show_weights=False, languageId="be", territoryId="BY") # doctest: +NORMALIZE_WHITESPACE
     be: ['be_BY.UTF-8', 'be_BY.UTF-8@latin']
     BY: ['be_BY.UTF-8', 'be_BY.UTF-8@latin']
      +: ['be_BY.UTF-8']
@@ -29,7 +29,7 @@
     BY: ['by']
      +: ['by']
 
->>> test_language_country(show_weights=False, languageId="de", countryId="CH") # doctest: +NORMALIZE_WHITESPACE
+>>> test_language_territory(show_weights=False, languageId="de", territoryId="CH") # doctest: +NORMALIZE_WHITESPACE
     de: ['de_DE.UTF-8', 'de_AT.UTF-8', 'de_CH.UTF-8', 'de_BE.UTF-8', 'de_LU.UTF-8']
     CH: ['de_CH.UTF-8', 'fr_CH.UTF-8', 'it_CH.UTF-8', 'wae_CH.UTF-8']
      +: ['de_CH.UTF-8']
@@ -37,7 +37,7 @@
     CH: ['ch', 'ch(fr)', 'it']
      +: ['ch']
 
->>> test_language_country(show_weights=False, languageId="fr", countryId="CH") # doctest: +NORMALIZE_WHITESPACE
+>>> test_language_territory(show_weights=False, languageId="fr", territoryId="CH") # doctest: +NORMALIZE_WHITESPACE
     fr: ['fr_FR.UTF-8', 'fr_CA.UTF-8', 'fr_BE.UTF-8', 'fr_CH.UTF-8', 'fr_LU.UTF-8']
     CH: ['de_CH.UTF-8', 'fr_CH.UTF-8', 'it_CH.UTF-8', 'wae_CH.UTF-8']
      +: ['fr_CH.UTF-8']
@@ -45,7 +45,7 @@
     CH: ['ch', 'ch(fr)', 'it']
      +: ['ch(fr)']
 
->>> test_language_country(show_weights=False, languageId="fr", countryId="FR") # doctest: +NORMALIZE_WHITESPACE
+>>> test_language_territory(show_weights=False, languageId="fr", territoryId="FR") # doctest: +NORMALIZE_WHITESPACE
     fr: ['fr_FR.UTF-8', 'fr_CA.UTF-8', 'fr_BE.UTF-8', 'fr_CH.UTF-8', 'fr_LU.UTF-8']
     FR: ['fr_FR.UTF-8', 'br_FR.UTF-8', 'oc_FR.UTF-8', 'ca_FR.UTF-8']
      +: ['fr_FR.UTF-8']
@@ -53,7 +53,7 @@
     FR: ['fr(oss)']
      +: ['fr(oss)']
 
->>> test_language_country(show_weights=False, languageId="de", countryId="FR") # doctest: +NORMALIZE_WHITESPACE
+>>> test_language_territory(show_weights=False, languageId="de", territoryId="FR") # doctest: +NORMALIZE_WHITESPACE
     de: ['de_DE.UTF-8', 'de_AT.UTF-8', 'de_CH.UTF-8', 'de_BE.UTF-8', 'de_LU.UTF-8']
     FR: ['fr_FR.UTF-8', 'br_FR.UTF-8', 'oc_FR.UTF-8', 'ca_FR.UTF-8']
      +: ['de_DE.UTF-8', 'de_AT.UTF-8', 'de_CH.UTF-8', 'de_BE.UTF-8', 'fr_FR.UTF-8', 'de_LU.UTF-8', 'br_FR.UTF-8', 'oc_FR.UTF-8', 'ca_FR.UTF-8']
@@ -61,7 +61,7 @@
     FR: ['fr(oss)']
      +: ['fr(oss)', 'de(nodeadkeys)', 'de(deadacute)', 'at(nodeadkeys)', 'ch', 'be(oss)']
 
->>> test_language_country(show_weights=False, languageId="de", countryId="BE") # doctest: +NORMALIZE_WHITESPACE
+>>> test_language_territory(show_weights=False, languageId="de", territoryId="BE") # doctest: +NORMALIZE_WHITESPACE
     de: ['de_DE.UTF-8', 'de_AT.UTF-8', 'de_CH.UTF-8', 'de_BE.UTF-8', 'de_LU.UTF-8']
     BE: ['nl_BE.UTF-8', 'fr_BE.UTF-8', 'de_BE.UTF-8', 'wa_BE.UTF-8', 'li_BE.UTF-8']
      +: ['de_BE.UTF-8']
@@ -69,7 +69,7 @@
     BE: ['be(oss)']
      +: ['be(oss)']
 
->>> test_language_country(show_weights=False, languageId="de", countryId="AT") # doctest: +NORMALIZE_WHITESPACE
+>>> test_language_territory(show_weights=False, languageId="de", territoryId="AT") # doctest: +NORMALIZE_WHITESPACE
     de: ['de_DE.UTF-8', 'de_AT.UTF-8', 'de_CH.UTF-8', 'de_BE.UTF-8', 'de_LU.UTF-8']
     AT: ['de_AT.UTF-8']
      +: ['de_AT.UTF-8']
@@ -77,7 +77,7 @@
     AT: ['at(nodeadkeys)']
      +: ['at(nodeadkeys)']
 
->>> test_language_country(show_weights=False, languageId="de", countryId="JP") # doctest: +NORMALIZE_WHITESPACE
+>>> test_language_territory(show_weights=False, languageId="de", territoryId="JP") # doctest: +NORMALIZE_WHITESPACE
     de: ['de_DE.UTF-8', 'de_AT.UTF-8', 'de_CH.UTF-8', 'de_BE.UTF-8', 'de_LU.UTF-8']
     JP: ['ja_JP.UTF-8']
      +: ['de_DE.UTF-8', 'de_AT.UTF-8', 'de_CH.UTF-8', 'ja_JP.UTF-8', 'de_BE.UTF-8', 'de_LU.UTF-8']
@@ -85,7 +85,7 @@
     JP: ['jp']
      +: ['jp', 'de(nodeadkeys)', 'de(deadacute)', 'at(nodeadkeys)', 'ch', 'be(oss)']
 
->>> test_language_country(show_weights=False, languageId="ja", countryId="DE") # doctest: +NORMALIZE_WHITESPACE
+>>> test_language_territory(show_weights=False, languageId="ja", territoryId="DE") # doctest: +NORMALIZE_WHITESPACE
     ja: ['ja_JP.UTF-8']
     DE: ['de_DE.UTF-8', 'nds_DE.UTF-8', 'hsb_DE.UTF-8', 'fy_DE.UTF-8']
      +: ['ja_JP.UTF-8', 'de_DE.UTF-8', 'nds_DE.UTF-8', 'hsb_DE.UTF-8', 'fy_DE.UTF-8']
@@ -93,7 +93,7 @@
     DE: ['de(nodeadkeys)', 'de(deadacute)']
      +: ['jp', 'de(nodeadkeys)', 'de(deadacute)']
 
->>> test_language_country(show_weights=False, languageId="de", countryId="ZA") # doctest: +NORMALIZE_WHITESPACE
+>>> test_language_territory(show_weights=False, languageId="de", territoryId="ZA") # doctest: +NORMALIZE_WHITESPACE
     de: ['de_DE.UTF-8', 'de_AT.UTF-8', 'de_CH.UTF-8', 'de_BE.UTF-8', 'de_LU.UTF-8']
     ZA: ['zu_ZA.UTF-8', 'xh_ZA.UTF-8', 'af_ZA.UTF-8', 'en_ZA.UTF-8', 'nso_ZA.UTF-8', 'tn_ZA.UTF-8', 'st_ZA.UTF-8', 'ts_ZA.UTF-8', 'ss_ZA.UTF-8', 've_ZA.UTF-8', 'nr_ZA.UTF-8']
      +: ['de_DE.UTF-8', 'de_AT.UTF-8', 'de_CH.UTF-8', 'de_BE.UTF-8', 'de_LU.UTF-8', 'zu_ZA.UTF-8', 'xh_ZA.UTF-8', 'af_ZA.UTF-8', 'en_ZA.UTF-8', 'nso_ZA.UTF-8', 'tn_ZA.UTF-8', 'st_ZA.UTF-8', 'ts_ZA.UTF-8', 'ss_ZA.UTF-8', 've_ZA.UTF-8', 'nr_ZA.UTF-8']
@@ -101,7 +101,7 @@
     ZA: ['us']
      +: ['us', 'de(nodeadkeys)', 'de(deadacute)', 'at(nodeadkeys)', 'ch', 'be(oss)']
 
->>> test_language_country(show_weights=False, languageId="ar", countryId="EG") # doctest: +NORMALIZE_WHITESPACE
+>>> test_language_territory(show_weights=False, languageId="ar", territoryId="EG") # doctest: +NORMALIZE_WHITESPACE
     ar: ['ar_EG.UTF-8', 'ar_SD.UTF-8', 'ar_DZ.UTF-8', 'ar_MA.UTF-8', 'ar_IQ.UTF-8', 'ar_SA.UTF-8', 'ar_YE.UTF-8', 'ar_SY.UTF-8', 'ar_TN.UTF-8', 'ar_LY.UTF-8', 'ar_JO.UTF-8', 'ar_AE.UTF-8', 'ar_LB.UTF-8', 'ar_KW.UTF-8', 'ar_OM.UTF-8', 'ar_QA.UTF-8', 'ar_BH.UTF-8', 'ar_IN.UTF-8']
     EG: ['ar_EG.UTF-8']
      +: ['ar_EG.UTF-8']
@@ -109,7 +109,7 @@
     EG: ['ara']
      +: ['ara']
 
->>> test_language_country(show_weights=False, languageId="ar", countryId="IN") # doctest: +NORMALIZE_WHITESPACE
+>>> test_language_territory(show_weights=False, languageId="ar", territoryId="IN") # doctest: +NORMALIZE_WHITESPACE
     ar: ['ar_EG.UTF-8', 'ar_SD.UTF-8', 'ar_DZ.UTF-8', 'ar_MA.UTF-8', 'ar_IQ.UTF-8', 'ar_SA.UTF-8', 'ar_YE.UTF-8', 'ar_SY.UTF-8', 'ar_TN.UTF-8', 'ar_LY.UTF-8', 'ar_JO.UTF-8', 'ar_AE.UTF-8', 'ar_LB.UTF-8', 'ar_KW.UTF-8', 'ar_OM.UTF-8', 'ar_QA.UTF-8', 'ar_BH.UTF-8', 'ar_IN.UTF-8']
     IN: ['hi_IN.UTF-8', 'en_IN.UTF-8', 'bn_IN.UTF-8', 'te_IN.UTF-8', 'mr_IN.UTF-8', 'ta_IN.UTF-8', 'ur_IN.UTF-8', 'gu_IN.UTF-8', 'kn_IN.UTF-8', 'ml_IN.UTF-8', 'or_IN.UTF-8', 'pa_IN.UTF-8', 'as_IN.UTF-8', 'mai_IN.UTF-8', 'sat_IN.UTF-8', 'ks_IN.UTF-8', 'ks_IN.UTF-8@devanagari', 'kok_IN.UTF-8', 'sd_IN.UTF-8', 'sd_IN.UTF-8@devanagari', 'doi_IN.UTF-8', 'mni_IN.UTF-8', 'brx_IN.UTF-8', 'bho_IN.UTF-8', 'bo_IN.UTF-8', 'hne_IN.UTF-8', 'mag_IN.UTF-8', 'ar_IN.UTF-8']
      +: ['ar_IN.UTF-8']
@@ -117,7 +117,7 @@
     IN: ['us']
      +: ['us', 'ara', 'ara(azerty)', 'iq', 'ma', 'sy']
 
->>> test_language_country(show_weights=False, languageId="ar", countryId="DE") # doctest: +NORMALIZE_WHITESPACE
+>>> test_language_territory(show_weights=False, languageId="ar", territoryId="DE") # doctest: +NORMALIZE_WHITESPACE
     ar: ['ar_EG.UTF-8', 'ar_SD.UTF-8', 'ar_DZ.UTF-8', 'ar_MA.UTF-8', 'ar_IQ.UTF-8', 'ar_SA.UTF-8', 'ar_YE.UTF-8', 'ar_SY.UTF-8', 'ar_TN.UTF-8', 'ar_LY.UTF-8', 'ar_JO.UTF-8', 'ar_AE.UTF-8', 'ar_LB.UTF-8', 'ar_KW.UTF-8', 'ar_OM.UTF-8', 'ar_QA.UTF-8', 'ar_BH.UTF-8', 'ar_IN.UTF-8']
     DE: ['de_DE.UTF-8', 'nds_DE.UTF-8', 'hsb_DE.UTF-8', 'fy_DE.UTF-8']
      +: ['ar_EG.UTF-8', 'ar_SD.UTF-8', 'ar_DZ.UTF-8', 'ar_MA.UTF-8', 'ar_IQ.UTF-8', 'ar_SA.UTF-8', 'ar_YE.UTF-8', 'ar_SY.UTF-8', 'ar_TN.UTF-8', 'ar_LY.UTF-8', 'ar_JO.UTF-8', 'ar_AE.UTF-8', 'ar_LB.UTF-8', 'ar_KW.UTF-8', 'ar_OM.UTF-8', 'ar_QA.UTF-8', 'de_DE.UTF-8', 'ar_BH.UTF-8', 'ar_IN.UTF-8', 'nds_DE.UTF-8', 'hsb_DE.UTF-8', 'fy_DE.UTF-8']
@@ -125,7 +125,7 @@
     DE: ['de(nodeadkeys)', 'de(deadacute)']
      +: ['de(nodeadkeys)', 'ara', 'de(deadacute)', 'ara(azerty)', 'iq', 'ma', 'sy']
 
->>> test_language_country(show_weights=False, languageId="as", countryId="IN") # doctest: +NORMALIZE_WHITESPACE
+>>> test_language_territory(show_weights=False, languageId="as", territoryId="IN") # doctest: +NORMALIZE_WHITESPACE
     as: ['as_IN.UTF-8']
     IN: ['hi_IN.UTF-8', 'en_IN.UTF-8', 'bn_IN.UTF-8', 'te_IN.UTF-8', 'mr_IN.UTF-8', 'ta_IN.UTF-8', 'ur_IN.UTF-8', 'gu_IN.UTF-8', 'kn_IN.UTF-8', 'ml_IN.UTF-8', 'or_IN.UTF-8', 'pa_IN.UTF-8', 'as_IN.UTF-8', 'mai_IN.UTF-8', 'sat_IN.UTF-8', 'ks_IN.UTF-8', 'ks_IN.UTF-8@devanagari', 'kok_IN.UTF-8', 'sd_IN.UTF-8', 'sd_IN.UTF-8@devanagari', 'doi_IN.UTF-8', 'mni_IN.UTF-8', 'brx_IN.UTF-8', 'bho_IN.UTF-8', 'bo_IN.UTF-8', 'hne_IN.UTF-8', 'mag_IN.UTF-8', 'ar_IN.UTF-8']
      +: ['as_IN.UTF-8']
@@ -133,7 +133,7 @@
     IN: ['us']
      +: ['us']
 
->>> test_language_country(show_weights=False, languageId="bn", countryId="BD") # doctest: +NORMALIZE_WHITESPACE
+>>> test_language_territory(show_weights=False, languageId="bn", territoryId="BD") # doctest: +NORMALIZE_WHITESPACE
     bn: ['bn_BD.UTF-8', 'bn_IN.UTF-8']
     BD: ['bn_BD.UTF-8']
      +: ['bn_BD.UTF-8']
@@ -141,7 +141,7 @@
     BD: ['us']
      +: ['us']
 
->>> test_language_country(show_weights=False, languageId="bn", countryId="IN") # doctest: +NORMALIZE_WHITESPACE
+>>> test_language_territory(show_weights=False, languageId="bn", territoryId="IN") # doctest: +NORMALIZE_WHITESPACE
     bn: ['bn_BD.UTF-8', 'bn_IN.UTF-8']
     IN: ['hi_IN.UTF-8', 'en_IN.UTF-8', 'bn_IN.UTF-8', 'te_IN.UTF-8', 'mr_IN.UTF-8', 'ta_IN.UTF-8', 'ur_IN.UTF-8', 'gu_IN.UTF-8', 'kn_IN.UTF-8', 'ml_IN.UTF-8', 'or_IN.UTF-8', 'pa_IN.UTF-8', 'as_IN.UTF-8', 'mai_IN.UTF-8', 'sat_IN.UTF-8', 'ks_IN.UTF-8', 'ks_IN.UTF-8@devanagari', 'kok_IN.UTF-8', 'sd_IN.UTF-8', 'sd_IN.UTF-8@devanagari', 'doi_IN.UTF-8', 'mni_IN.UTF-8', 'brx_IN.UTF-8', 'bho_IN.UTF-8', 'bo_IN.UTF-8', 'hne_IN.UTF-8', 'mag_IN.UTF-8', 'ar_IN.UTF-8']
      +: ['bn_IN.UTF-8']
@@ -149,7 +149,7 @@
     IN: ['us']
      +: ['us']
 
->>> test_language_country(show_weights=False, languageId="zh", countryId="CN") # doctest: +NORMALIZE_WHITESPACE
+>>> test_language_territory(show_weights=False, languageId="zh", territoryId="CN") # doctest: +NORMALIZE_WHITESPACE
     zh: ['zh_CN.UTF-8', 'zh_TW.UTF-8', 'zh_HK.UTF-8', 'zh_SG.UTF-8']
     CN: ['zh_CN.UTF-8']
      +: ['zh_CN.UTF-8']
@@ -157,7 +157,7 @@
     CN: ['cn']
      +: ['cn']
 
->>> test_language_country(show_weights=False, languageId="zh", countryId="TW") # doctest: +NORMALIZE_WHITESPACE
+>>> test_language_territory(show_weights=False, languageId="zh", territoryId="TW") # doctest: +NORMALIZE_WHITESPACE
     zh: ['zh_CN.UTF-8', 'zh_TW.UTF-8', 'zh_HK.UTF-8', 'zh_SG.UTF-8']
     TW: ['zh_TW.UTF-8']
      +: ['zh_TW.UTF-8']
@@ -165,7 +165,7 @@
     TW: ['cn']
      +: ['cn']
 
->>> test_language_country(show_weights=False, languageId="zh", countryId="HK") # doctest: +NORMALIZE_WHITESPACE
+>>> test_language_territory(show_weights=False, languageId="zh", territoryId="HK") # doctest: +NORMALIZE_WHITESPACE
     zh: ['zh_CN.UTF-8', 'zh_TW.UTF-8', 'zh_HK.UTF-8', 'zh_SG.UTF-8']
     HK: ['zh_HK.UTF-8']
      +: ['zh_HK.UTF-8']
@@ -173,7 +173,7 @@
     HK: ['cn']
      +: ['cn']
 
->>> test_language_country(show_weights=False, languageId="zh", countryId="MO") # doctest: +NORMALIZE_WHITESPACE
+>>> test_language_territory(show_weights=False, languageId="zh", territoryId="MO") # doctest: +NORMALIZE_WHITESPACE
     zh: ['zh_CN.UTF-8', 'zh_TW.UTF-8', 'zh_HK.UTF-8', 'zh_SG.UTF-8']
     MO: ['zh_HK.UTF-8']
      +: ['zh_HK.UTF-8']
@@ -181,7 +181,7 @@
     MO: ['cn']
      +: ['cn']
 
->>> test_language_country(show_weights=False, languageId="zh", countryId="SG") # doctest: +NORMALIZE_WHITESPACE
+>>> test_language_territory(show_weights=False, languageId="zh", territoryId="SG") # doctest: +NORMALIZE_WHITESPACE
     zh: ['zh_CN.UTF-8', 'zh_TW.UTF-8', 'zh_HK.UTF-8', 'zh_SG.UTF-8']
     SG: ['zh_SG.UTF-8', 'en_SG.UTF-8']
      +: ['zh_SG.UTF-8']
@@ -189,7 +189,7 @@
     SG: ['us', 'cn']
      +: ['cn']
 
->>> test_language_country(show_weights=False, languageId="en", countryId="SG") # doctest: +NORMALIZE_WHITESPACE
+>>> test_language_territory(show_weights=False, languageId="en", territoryId="SG") # doctest: +NORMALIZE_WHITESPACE
     en: ['en_US.UTF-8', 'en_GB.UTF-8', 'en_IN.UTF-8', 'en_AU.UTF-8', 'en_CA.UTF-8', 'en_DK.UTF-8', 'en_IE.UTF-8', 'en_NZ.UTF-8', 'en_NG.UTF-8', 'en_HK.UTF-8', 'en_PH.UTF-8', 'en_SG.UTF-8', 'en_ZA.UTF-8', 'en_ZM.UTF-8', 'en_ZW.UTF-8', 'en_BW.UTF-8', 'en_AG.UTF-8']
     SG: ['zh_SG.UTF-8', 'en_SG.UTF-8']
      +: ['en_SG.UTF-8']
@@ -197,7 +197,7 @@
     SG: ['us', 'cn']
      +: ['us']
 
->>> test_language_country(show_weights=False, languageId="zh", scriptId = "Hant", countryId=None) # doctest: +NORMALIZE_WHITESPACE
+>>> test_language_territory(show_weights=False, languageId="zh", scriptId = "Hant", territoryId=None) # doctest: +NORMALIZE_WHITESPACE
     zh: ['zh_CN.UTF-8', 'zh_TW.UTF-8', 'zh_HK.UTF-8', 'zh_SG.UTF-8']
     None: []
      +: ['zh_TW.UTF-8', 'zh_HK.UTF-8']
@@ -205,7 +205,7 @@
     None: []
      +: ['cn']
 
->>> test_language_country(show_weights=False, languageId="zh", scriptId = "Hans", countryId=None) # doctest: +NORMALIZE_WHITESPACE
+>>> test_language_territory(show_weights=False, languageId="zh", scriptId = "Hans", territoryId=None) # doctest: +NORMALIZE_WHITESPACE
     zh: ['zh_CN.UTF-8', 'zh_TW.UTF-8', 'zh_HK.UTF-8', 'zh_SG.UTF-8']
     None: []
      +: ['zh_CN.UTF-8', 'zh_SG.UTF-8']
@@ -213,7 +213,7 @@
     None: []
      +: ['cn']
 
->>> test_language_country(show_weights=False, languageId="zh", scriptId = "Hans", countryId="SG") # doctest: +NORMALIZE_WHITESPACE
+>>> test_language_territory(show_weights=False, languageId="zh", scriptId = "Hans", territoryId="SG") # doctest: +NORMALIZE_WHITESPACE
     zh: ['zh_CN.UTF-8', 'zh_TW.UTF-8', 'zh_HK.UTF-8', 'zh_SG.UTF-8']
     SG: ['zh_SG.UTF-8', 'en_SG.UTF-8']
      +: ['zh_SG.UTF-8']
@@ -221,7 +221,7 @@
     SG: ['us', 'cn']
      +: ['cn']
 
->>> test_language_country(show_weights=False, languageId="zh", scriptId = "Hans", countryId="TW") # doctest: +NORMALIZE_WHITESPACE
+>>> test_language_territory(show_weights=False, languageId="zh", scriptId = "Hans", territoryId="TW") # doctest: +NORMALIZE_WHITESPACE
     zh: ['zh_CN.UTF-8', 'zh_TW.UTF-8', 'zh_HK.UTF-8', 'zh_SG.UTF-8']
     TW: ['zh_TW.UTF-8']
      +: ['zh_CN.UTF-8', 'zh_SG.UTF-8', 'zh_TW.UTF-8']
@@ -229,7 +229,7 @@
     TW: ['cn']
      +: ['cn']
 
->>> test_language_country(show_weights=False, languageId="zh", scriptId = "Hant", countryId="HK") # doctest: +NORMALIZE_WHITESPACE
+>>> test_language_territory(show_weights=False, languageId="zh", scriptId = "Hant", territoryId="HK") # doctest: +NORMALIZE_WHITESPACE
     zh: ['zh_CN.UTF-8', 'zh_TW.UTF-8', 'zh_HK.UTF-8', 'zh_SG.UTF-8']
     HK: ['zh_HK.UTF-8']
      +: ['zh_HK.UTF-8']
@@ -237,7 +237,7 @@
     HK: ['cn']
      +: ['cn']
 
->>> test_language_country(show_weights=False, languageId="zh", scriptId = "Hant", countryId="MO") # doctest: +NORMALIZE_WHITESPACE
+>>> test_language_territory(show_weights=False, languageId="zh", scriptId = "Hant", territoryId="MO") # doctest: +NORMALIZE_WHITESPACE
     zh: ['zh_CN.UTF-8', 'zh_TW.UTF-8', 'zh_HK.UTF-8', 'zh_SG.UTF-8']
     MO: ['zh_HK.UTF-8']
      +: ['zh_HK.UTF-8']
@@ -245,7 +245,7 @@
     MO: ['cn']
      +: ['cn']
 
->>> test_language_country(show_weights=False, languageId="zh", scriptId = "Hant", countryId="CN") # doctest: +NORMALIZE_WHITESPACE
+>>> test_language_territory(show_weights=False, languageId="zh", scriptId = "Hant", territoryId="CN") # doctest: +NORMALIZE_WHITESPACE
     zh: ['zh_CN.UTF-8', 'zh_TW.UTF-8', 'zh_HK.UTF-8', 'zh_SG.UTF-8']
     CN: ['zh_CN.UTF-8']
      +: ['zh_TW.UTF-8', 'zh_HK.UTF-8', 'zh_CN.UTF-8']
@@ -256,29 +256,29 @@
 >>> print language_name(languageId="de").encode("UTF-8") # doctest: +NORMALIZE_WHITESPACE
     Deutsch
 
->>> print language_name(languageId="de", countryId="DE").encode("UTF-8") # doctest: +NORMALIZE_WHITESPACE
+>>> print language_name(languageId="de", territoryId="DE").encode("UTF-8") # doctest: +NORMALIZE_WHITESPACE
     Deutsch (Deutschland)
 
->>> print language_name(languageId="de", countryId="CH").encode("UTF-8") # doctest: +NORMALIZE_WHITESPACE
+>>> print language_name(languageId="de", territoryId="CH").encode("UTF-8") # doctest: +NORMALIZE_WHITESPACE
     Deutsch (Schweiz)
 
->>> print language_name(languageId="de", countryId="AT").encode("UTF-8") # doctest: +NORMALIZE_WHITESPACE
+>>> print language_name(languageId="de", territoryId="AT").encode("UTF-8") # doctest: +NORMALIZE_WHITESPACE
     Deutsch (Österreich)
 
->>> print language_name(languageId="de", countryId="BE").encode("UTF-8") # doctest: +NORMALIZE_WHITESPACE
+>>> print language_name(languageId="de", territoryId="BE").encode("UTF-8") # doctest: +NORMALIZE_WHITESPACE
     Deutsch (Belgien)
 
->>> print language_name(languageId="de", countryId="JP").encode("UTF-8") # doctest: +NORMALIZE_WHITESPACE
+>>> print language_name(languageId="de", territoryId="JP").encode("UTF-8") # doctest: +NORMALIZE_WHITESPACE
     Deutsch (Japan)
 
 
->>> print language_name(languageId="de", countryId="BY").encode("UTF-8") # doctest: +NORMALIZE_WHITESPACE
+>>> print language_name(languageId="de", territoryId="BY").encode("UTF-8") # doctest: +NORMALIZE_WHITESPACE
     Deutsch (Belarus)
 
->>> print language_name(languageId="de", countryId="BY", languageIdQuery="de", countryIdQuery="CH").encode("UTF-8") # doctest: +NORMALIZE_WHITESPACE
+>>> print language_name(languageId="de", territoryId="BY", languageIdQuery="de", territoryIdQuery="CH").encode("UTF-8") # doctest: +NORMALIZE_WHITESPACE
     Deutsch (Weissrussland)
 
->>> print language_name(languageId="de", scriptId="Latn", countryId="DE").encode("UTF-8") # doctest: +NORMALIZE_WHITESPACE
+>>> print language_name(languageId="de", scriptId="Latn", territoryId="DE").encode("UTF-8") # doctest: +NORMALIZE_WHITESPACE
     Deutsch (Deutschland)
 
 >>> print language_name(languageId="zh").encode("UTF-8") # doctest: +NORMALIZE_WHITESPACE
@@ -293,93 +293,93 @@
 >>> print language_name(languageId="zh", scriptId="Hans", languageIdQuery="de").encode("UTF-8") # doctest: +NORMALIZE_WHITESPACE
     Chinesisch (vereinfacht)
 
->>> print language_name(languageId="zh", countryId="HK", languageIdQuery="de").encode("UTF-8") # doctest: +NORMALIZE_WHITESPACE
+>>> print language_name(languageId="zh", territoryId="HK", languageIdQuery="de").encode("UTF-8") # doctest: +NORMALIZE_WHITESPACE
     Traditionelles Chinesisch (Sonderverwaltungszone Hongkong)
 
->>> print language_name(languageId="zh", countryId="MO", languageIdQuery="de").encode("UTF-8") # doctest: +NORMALIZE_WHITESPACE
+>>> print language_name(languageId="zh", territoryId="MO", languageIdQuery="de").encode("UTF-8") # doctest: +NORMALIZE_WHITESPACE
     Traditionelles Chinesisch (Sonderverwaltungszone Macao)
 
->>> print language_name(languageId="zh", countryId="MO", languageIdQuery="en").encode("UTF-8") # doctest: +NORMALIZE_WHITESPACE
+>>> print language_name(languageId="zh", territoryId="MO", languageIdQuery="en").encode("UTF-8") # doctest: +NORMALIZE_WHITESPACE
     Traditional Chinese (Macau SAR China)
 
->>> print language_name(languageId="zh", countryId="SG", languageIdQuery="de").encode("UTF-8") # doctest: +NORMALIZE_WHITESPACE
+>>> print language_name(languageId="zh", territoryId="SG", languageIdQuery="de").encode("UTF-8") # doctest: +NORMALIZE_WHITESPACE
     Vereinfachtes Chinesisch (Singapur)
 
->>> print language_name(languageId="zh", countryId="TW", languageIdQuery="de").encode("UTF-8") # doctest: +NORMALIZE_WHITESPACE
+>>> print language_name(languageId="zh", territoryId="TW", languageIdQuery="de").encode("UTF-8") # doctest: +NORMALIZE_WHITESPACE
     Traditionelles Chinesisch (Taiwan)
 
->>> print language_name(languageId="zh", countryId="CN").encode("UTF-8") # doctest: +NORMALIZE_WHITESPACE
+>>> print language_name(languageId="zh", territoryId="CN").encode("UTF-8") # doctest: +NORMALIZE_WHITESPACE
     简体中文 (中国)
 
->>> print language_name(languageId="zh", countryId="SG").encode("UTF-8") # doctest: +NORMALIZE_WHITESPACE
+>>> print language_name(languageId="zh", territoryId="SG").encode("UTF-8") # doctest: +NORMALIZE_WHITESPACE
     简体中文 (新加坡)
 
->>> print language_name(languageId="zh", countryId="TW").encode("UTF-8") # doctest: +NORMALIZE_WHITESPACE
+>>> print language_name(languageId="zh", territoryId="TW").encode("UTF-8") # doctest: +NORMALIZE_WHITESPACE
     繁體中文 (台灣)
 
->>> print language_name(languageId="zh", countryId="HK").encode("UTF-8") # doctest: +NORMALIZE_WHITESPACE
+>>> print language_name(languageId="zh", territoryId="HK").encode("UTF-8") # doctest: +NORMALIZE_WHITESPACE
     繁體中文 (中華人民共和國香港特別行政區)
 
->>> print language_name(languageId="zh", countryId="MO").encode("UTF-8") # doctest: +NORMALIZE_WHITESPACE
+>>> print language_name(languageId="zh", territoryId="MO").encode("UTF-8") # doctest: +NORMALIZE_WHITESPACE
     繁體中文 (中華人民共和國澳門特別行政區)
 
->>> print language_name(languageId="zh", scriptId="Hans", countryId="CN").encode("UTF-8") # doctest: +NORMALIZE_WHITESPACE
+>>> print language_name(languageId="zh", scriptId="Hans", territoryId="CN").encode("UTF-8") # doctest: +NORMALIZE_WHITESPACE
     简体中文
 
->>> print language_name(languageId="zh", scriptId="Hans", countryId="SG").encode("UTF-8") # doctest: +NORMALIZE_WHITESPACE
+>>> print language_name(languageId="zh", scriptId="Hans", territoryId="SG").encode("UTF-8") # doctest: +NORMALIZE_WHITESPACE
     简体中文
 
->>> print language_name(languageId="zh", scriptId="Hant", countryId="TW").encode("UTF-8") # doctest: +NORMALIZE_WHITESPACE
+>>> print language_name(languageId="zh", scriptId="Hant", territoryId="TW").encode("UTF-8") # doctest: +NORMALIZE_WHITESPACE
     繁體中文
 
->>> print language_name(languageId="zh", scriptId="Hant", countryId="HK").encode("UTF-8") # doctest: +NORMALIZE_WHITESPACE
+>>> print language_name(languageId="zh", scriptId="Hant", territoryId="HK").encode("UTF-8") # doctest: +NORMALIZE_WHITESPACE
     繁體中文
 
->>> print language_name(languageId="zh", scriptId="Hant", countryId="MO").encode("UTF-8") # doctest: +NORMALIZE_WHITESPACE
+>>> print language_name(languageId="zh", scriptId="Hant", territoryId="MO").encode("UTF-8") # doctest: +NORMALIZE_WHITESPACE
     繁體中文
 
->>> print country_name(countryId="AE", languageIdQuery="ar").encode("UTF-8") # doctest: +NORMALIZE_WHITESPACE
+>>> print territory_name(territoryId="AE", languageIdQuery="ar").encode("UTF-8") # doctest: +NORMALIZE_WHITESPACE
     الإمارات العربية المتحدة
 
->>> print country_name(countryId="AE", languageIdQuery="de").encode("UTF-8") # doctest: +NORMALIZE_WHITESPACE
+>>> print territory_name(territoryId="AE", languageIdQuery="de").encode("UTF-8") # doctest: +NORMALIZE_WHITESPACE
     Vereinigte Arabische Emirate
 
->>> print country_name(countryId="AE", languageIdQuery="en").encode("UTF-8") # doctest: +NORMALIZE_WHITESPACE
+>>> print territory_name(territoryId="AE", languageIdQuery="en").encode("UTF-8") # doctest: +NORMALIZE_WHITESPACE
     United Arab Emirates
 
->>> print country_name(countryId="AE", languageIdQuery=None).encode("UTF-8") # doctest: +NORMALIZE_WHITESPACE
+>>> print territory_name(territoryId="AE", languageIdQuery=None).encode("UTF-8") # doctest: +NORMALIZE_WHITESPACE
 
->>> print country_name(countryId="TW", languageIdQuery="zh").encode("UTF-8") # doctest: +NORMALIZE_WHITESPACE
+>>> print territory_name(territoryId="TW", languageIdQuery="zh").encode("UTF-8") # doctest: +NORMALIZE_WHITESPACE
     台湾
 
->>> print country_name(countryId="TW", languageIdQuery="zh", scriptIdQuery="Hant").encode("UTF-8") # doctest: +NORMALIZE_WHITESPACE
+>>> print territory_name(territoryId="TW", languageIdQuery="zh", scriptIdQuery="Hant").encode("UTF-8") # doctest: +NORMALIZE_WHITESPACE
     台灣
 
->>> print country_name(countryId="TW", languageIdQuery="zh", scriptIdQuery="Hant", countryIdQuery="TW").encode("UTF-8") # doctest: +NORMALIZE_WHITESPACE
+>>> print territory_name(territoryId="TW", languageIdQuery="zh", scriptIdQuery="Hant", territoryIdQuery="TW").encode("UTF-8") # doctest: +NORMALIZE_WHITESPACE
     台灣
 
->>> print country_name(countryId="TW", languageIdQuery="zh", scriptIdQuery="Hans").encode("UTF-8") # doctest: +NORMALIZE_WHITESPACE
+>>> print territory_name(territoryId="TW", languageIdQuery="zh", scriptIdQuery="Hans").encode("UTF-8") # doctest: +NORMALIZE_WHITESPACE
     台湾
 
->>> print country_name(countryId="TW", languageIdQuery="zh", scriptIdQuery="Hans", countryIdQuery="CN").encode("UTF-8") # doctest: +NORMALIZE_WHITESPACE
+>>> print territory_name(territoryId="TW", languageIdQuery="zh", scriptIdQuery="Hans", territoryIdQuery="CN").encode("UTF-8") # doctest: +NORMALIZE_WHITESPACE
     中华民国
 
->>> print country_name(countryId="TW", languageIdQuery="zh", countryIdQuery="CN").encode("UTF-8") # doctest: +NORMALIZE_WHITESPACE
+>>> print territory_name(territoryId="TW", languageIdQuery="zh", territoryIdQuery="CN").encode("UTF-8") # doctest: +NORMALIZE_WHITESPACE
     中华民国
 
->>> print country_name(countryId="TW", languageIdQuery="zh", scriptIdQuery="Cyrl", countryIdQuery="CN").encode("UTF-8") # doctest: +NORMALIZE_WHITESPACE
+>>> print territory_name(territoryId="TW", languageIdQuery="zh", scriptIdQuery="Cyrl", territoryIdQuery="CN").encode("UTF-8") # doctest: +NORMALIZE_WHITESPACE
     中华民国
 
->>> print country_name(countryId="TW", languageIdQuery="zh", scriptIdQuery="Hans", countryIdQuery="DE").encode("UTF-8") # doctest: +NORMALIZE_WHITESPACE
+>>> print territory_name(territoryId="TW", languageIdQuery="zh", scriptIdQuery="Hans", territoryIdQuery="DE").encode("UTF-8") # doctest: +NORMALIZE_WHITESPACE
     台湾
 
->>> print country_name(countryId="TW", languageIdQuery="de", scriptIdQuery="Latn", countryIdQuery="DE").encode("UTF-8") # doctest: +NORMALIZE_WHITESPACE
+>>> print territory_name(territoryId="TW", languageIdQuery="de", scriptIdQuery="Latn", territoryIdQuery="DE").encode("UTF-8") # doctest: +NORMALIZE_WHITESPACE
     Taiwan
 
->>> print country_name(countryId="CH", languageIdQuery="de", scriptIdQuery="Latn", countryIdQuery="DE").encode("UTF-8") # doctest: +NORMALIZE_WHITESPACE
+>>> print territory_name(territoryId="CH", languageIdQuery="de", scriptIdQuery="Latn", territoryIdQuery="DE").encode("UTF-8") # doctest: +NORMALIZE_WHITESPACE
     Schweiz
 
->>> print country_name(countryId="BY", languageIdQuery="de", scriptIdQuery="Latn", countryIdQuery="CH").encode("UTF-8") # doctest: +NORMALIZE_WHITESPACE
+>>> print territory_name(territoryId="BY", languageIdQuery="de", scriptIdQuery="Latn", territoryIdQuery="CH").encode("UTF-8") # doctest: +NORMALIZE_WHITESPACE
     Weissrussland
 
 

@@ -24,11 +24,11 @@ def parse_args():
     import argparse
     parser = argparse.ArgumentParser(
         description='lang-table')
-    parser.add_argument('-C', '--countriesfilename',
+    parser.add_argument('-T', '--territoriesfilename',
                         nargs='?',
                         type=str,
-                        default='./countries.xml',
-                        help='countries file, default is ./countries.xml')
+                        default='./territories.xml',
+                        help='territories file, default is ./territories.xml')
     parser.add_argument('-K', '--keyboardsfilename',
                         nargs='?',
                         type=str,
@@ -54,7 +54,7 @@ def main():
 
     lang_table.init(debug = True,
                     logfilename = args.logfilename,
-                    countriesfilename = args.countriesfilename,
+                    territoriesfilename = args.territoriesfilename,
                     languagesfilename = args.languagesfilename,
                     keyboardsfilename = args.keyboardsfilename)
 

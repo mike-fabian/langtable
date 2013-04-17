@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<countries>
-  <country>
-    <countryId>419</countryId>
+<territories>
+  <territory>
+    <territoryId>419</territoryId>
     <names>
     </names>
     <locales>
@@ -89,9 +89,9 @@
       <timezone><timezoneId>America/Merida</timezoneId><rank>1</rank></timezone>
       <timezone><timezoneId>America/Monterrey</timezoneId><rank>1</rank></timezone>
     </timezones>
-  </country>
-  <country>
-    <countryId>AD</countryId>
+  </territory>
+  <territory>
+    <territoryId>AD</territoryId>
     <names>
       <name><languageId>de</languageId><name>Andorra</name></name>
       <name><languageId>en</languageId><name>Andorra</name></name>
@@ -110,9 +110,9 @@
     <timezones>
       <timezone><timezoneId>Europe/Andorra</timezoneId><rank>1000</rank></timezone>
     </timezones>
-  </country>
-  <country>
-    <countryId>AE</countryId>
+  </territory>
+  <territory>
+    <territoryId>AE</territoryId>
     <names>
       <name><languageId>ar</languageId><name>الإمارات العربية المتحدة</name></name>
       <name><languageId>de</languageId><name>Vereinigte Arabische Emirate</name></name>
@@ -130,9 +130,9 @@
     <timezones>
       <timezone><timezoneId>Asia/Dubai</timezoneId><rank>1000</rank></timezone>
     </timezones>
-  </country>
-  <country>
-    <countryId>AF</countryId>
+  </territory>
+  <territory>
+    <territoryId>AF</territoryId>
     <names>
       <name><languageId>de</languageId><name>Afghanistan</name></name>
       <name><languageId>en</languageId><name>Afghanistan</name></name>
@@ -150,9 +150,9 @@
     <timezones>
       <timezone><timezoneId>Asia/Kabul</timezoneId><rank>1000</rank></timezone>
     </timezones>
-  </country>
-  <country>
-    <countryId>AG</countryId>
+  </territory>
+  <territory>
+    <territoryId>AG</territoryId>
     <names>
       <name><languageId>de</languageId><name>Antigua und Barbuda</name></name>
       <name><languageId>en</languageId><name>Antigua and Barbuda</name></name>
@@ -169,9 +169,9 @@
     <timezones>
       <timezone><timezoneId>America/Antigua</timezoneId><rank>1000</rank></timezone>
     </timezones>
-  </country>
-  <country>
-    <countryId>AL</countryId>
+  </territory>
+  <territory>
+    <territoryId>AL</territoryId>
     <names>
       <name><languageId>de</languageId><name>Albanien</name></name>
       <name><languageId>en</languageId><name>Albania</name></name>
@@ -189,9 +189,9 @@
     <timezones>
       <timezone><timezoneId>Europe/Tirane</timezoneId><rank>1000</rank></timezone>
     </timezones>
-  </country>
-  <country>
-    <countryId>AM</countryId>
+  </territory>
+  <territory>
+    <territoryId>AM</territoryId>
     <names>
       <name><languageId>de</languageId><name>Armenien</name></name>
       <name><languageId>en</languageId><name>Armenia</name></name>
@@ -209,9 +209,9 @@
     <timezones>
       <timezone><timezoneId>Asia/Yerevan</timezoneId><rank>1000</rank></timezone>
     </timezones>
-  </country>
-  <country>
-    <countryId>AN</countryId>
+  </territory>
+  <territory>
+    <territoryId>AN</territoryId>
     <names>
       <name><languageId>en</languageId><name>Netherlands Antilles</name></name>
     </names>
@@ -231,9 +231,9 @@
       <timezone><timezoneId>America/Curacao</timezoneId><rank>800</rank></timezone>
       <timezone><timezoneId>America/Lower_Princes</timezoneId><rank>200</rank></timezone>
     </timezones>
-  </country>
-  <country>
-    <countryId>AR</countryId>
+  </territory>
+  <territory>
+    <territoryId>AR</territoryId>
     <names>
       <name><languageId>de</languageId><name>Argentinien</name></name>
       <name><languageId>en</languageId><name>Argentina</name></name>
@@ -262,9 +262,9 @@
       <timezone><timezoneId>America/Argentina/Tucuman</timezoneId><rank>1</rank></timezone>
       <timezone><timezoneId>America/Argentina/Ushuaia</timezoneId><rank>1</rank></timezone>
     </timezones>
-  </country>
-  <country>
-    <countryId>AT</countryId>
+  </territory>
+  <territory>
+    <territoryId>AT</territoryId>
     <names>
       <name><languageId>de</languageId><name>Österreich</name></name>
       <name><languageId>en</languageId><name>Austria</name></name>
@@ -281,9 +281,9 @@
     <timezones>
       <timezone><timezoneId>Europe/Vienna</timezoneId><rank>1000</rank></timezone>
     </timezones>
-  </country>
-  <country>
-    <countryId>AU</countryId>
+  </territory>
+  <territory>
+    <territoryId>AU</territoryId>
     <names>
       <name><languageId>de</languageId><name>Australien</name></name>
       <name><languageId>en</languageId><name>Australia</name></name>
@@ -311,9 +311,9 @@
       <timezone><timezoneId>Australia/Lindeman</timezoneId><rank>1</rank></timezone>
       <timezone><timezoneId>Australia/Melbourne</timezoneId><rank>1</rank></timezone>
     </timezones>
-  </country>
-  <country>
-    <countryId>AW</countryId>
+  </territory>
+  <territory>
+    <territoryId>AW</territoryId>
     <names>
       <name><languageId>de</languageId><name>Aruba</name></name>
       <name><languageId>en</languageId><name>Aruba</name></name>
@@ -334,9 +334,9 @@
     <timezones>
       <timezone><timezoneId>America/Aruba</timezoneId><rank>1000</rank></timezone>
     </timezones>
-  </country>
-  <country>
-    <countryId>AZ</countryId>
+  </territory>
+  <territory>
+    <territoryId>AZ</territoryId>
     <names>
       <name><languageId>az</languageId><name>Azərbaycan</name></name>
       <name><languageId>de</languageId><name>Aserbaidschan</name></name>
@@ -355,9 +355,9 @@
     <timezones>
       <timezone><timezoneId>Asia/Baku</timezoneId><rank>1000</rank></timezone>
     </timezones>
-  </country>
-  <country>
-    <countryId>BA</countryId>
+  </territory>
+  <territory>
+    <territoryId>BA</territoryId>
     <names>
       <name><languageId>bs</languageId><name>Bosna i Hercegovina</name></name>
       <name><languageId>de</languageId><name>Bosnien und Herzegowina</name></name>
@@ -379,9 +379,9 @@
     <timezones>
       <timezone><timezoneId>Europe/Sarajevo</timezoneId><rank>1000</rank></timezone>
     </timezones>
-  </country>
-  <country>
-    <countryId>BD</countryId>
+  </territory>
+  <territory>
+    <territoryId>BD</territoryId>
     <names>
       <name><languageId>de</languageId><name>Bangladesh</name></name>
       <name><languageId>en</languageId><name>Bangladesh</name></name>
@@ -399,9 +399,9 @@
     <timezones>
       <timezone><timezoneId>Asia/Dhaka</timezoneId><rank>1000</rank></timezone>
     </timezones>
-  </country>
-  <country>
-    <countryId>BE</countryId>
+  </territory>
+  <territory>
+    <territoryId>BE</territoryId>
     <names>
       <name><languageId>de</languageId><name>Belgien</name></name>
       <name><languageId>en</languageId><name>Belgium</name></name>
@@ -427,9 +427,9 @@
     <timezones>
       <timezone><timezoneId>Europe/Brussels</timezoneId><rank>1000</rank></timezone>
     </timezones>
-  </country>
-  <country>
-    <countryId>BG</countryId>
+  </territory>
+  <territory>
+    <territoryId>BG</territoryId>
     <names>
       <name><languageId>de</languageId><name>Bulgarien</name></name>
       <name><languageId>en</languageId><name>Bulgaria</name></name>
@@ -446,9 +446,9 @@
     <timezones>
       <timezone><timezoneId>Europe/Sofia</timezoneId><rank>1000</rank></timezone>
     </timezones>
-  </country>
-  <country>
-    <countryId>BH</countryId>
+  </territory>
+  <territory>
+    <territoryId>BH</territoryId>
     <names>
       <name><languageId>de</languageId><name>Bahrain</name></name>
       <name><languageId>en</languageId><name>Bahrain</name></name>
@@ -465,9 +465,9 @@
     <timezones>
       <timezone><timezoneId>Asia/Bahrain</timezoneId><rank>1000</rank></timezone>
     </timezones>
-  </country>
-  <country>
-    <countryId>BO</countryId>
+  </territory>
+  <territory>
+    <territoryId>BO</territoryId>
     <names>
       <name><languageId>de</languageId><name>Bolivien</name></name>
       <name><languageId>en</languageId><name>Bolivia</name></name>
@@ -485,9 +485,9 @@
     <timezones>
       <timezone><timezoneId>America/La_Paz</timezoneId><rank>1000</rank></timezone>
     </timezones>
-  </country>
-  <country>
-    <countryId>BR</countryId>
+  </territory>
+  <territory>
+    <territoryId>BR</territoryId>
     <names>
       <name><languageId>de</languageId><name>Brasilien</name></name>
       <name><languageId>en</languageId><name>Brazil</name></name>
@@ -520,9 +520,9 @@
       <timezone><timezoneId>America/Rio_Branco</timezoneId><rank>1</rank></timezone>
       <timezone><timezoneId>America/Santarem</timezoneId><rank>1</rank></timezone>
     </timezones>
-  </country>
-  <country>
-    <countryId>BT</countryId>
+  </territory>
+  <territory>
+    <territoryId>BT</territoryId>
     <names>
       <name><languageId>en</languageId><name>Bhutan</name></name>
     </names>
@@ -538,9 +538,9 @@
     <timezones>
       <timezone><timezoneId>Asia/Thimphu</timezoneId><rank>1000</rank></timezone>
     </timezones>
-  </country>
-  <country>
-    <countryId>BW</countryId>
+  </territory>
+  <territory>
+    <territoryId>BW</territoryId>
     <names>
       <name><languageId>en</languageId><name>Botswana</name></name>
     </names>
@@ -558,9 +558,9 @@
     <timezones>
       <timezone><timezoneId>Africa/Gaborone</timezoneId><rank>1000</rank></timezone>
     </timezones>
-  </country>
-  <country>
-    <countryId>BY</countryId>
+  </territory>
+  <territory>
+    <territoryId>BY</territoryId>
     <names>
       <name><languageId>de</languageId><name>Belarus</name></name>
       <name><languageId>de_CH</languageId><name>Weissrussland</name></name>
@@ -582,9 +582,9 @@
     <timezones>
       <timezone><timezoneId>Europe/Minsk</timezoneId><rank>1000</rank></timezone>
     </timezones>
-  </country>
-  <country>
-    <countryId>CA</countryId>
+  </territory>
+  <territory>
+    <territoryId>CA</territoryId>
     <names>
       <name><languageId>en</languageId><name>Canada</name></name>
     </names>
@@ -636,9 +636,9 @@
       <timezone><timezoneId>America/Whitehorse</timezoneId><rank>1</rank></timezone>
       <timezone><timezoneId>America/Yellowknife</timezoneId><rank>1</rank></timezone>
     </timezones>
-  </country>
-  <country>
-    <countryId>CH</countryId>
+  </territory>
+  <territory>
+    <territoryId>CH</territoryId>
     <names>
       <name><languageId>de</languageId><name>Schweiz</name></name>
       <name><languageId>en</languageId><name>Switzerland</name></name>
@@ -664,9 +664,9 @@
     <timezones>
       <timezone><timezoneId>Europe/Zurich</timezoneId><rank>1000</rank></timezone>
     </timezones>
-  </country>
-  <country>
-    <countryId>CL</countryId>
+  </territory>
+  <territory>
+    <territoryId>CL</territoryId>
     <names>
       <name><languageId>de</languageId><name>Chile</name></name>
       <name><languageId>en</languageId><name>Chile</name></name>
@@ -685,9 +685,9 @@
       <timezone><timezoneId>America/Santiago</timezoneId><rank>990</rank></timezone>
       <timezone><timezoneId>Pacific/Easter</timezoneId><rank>10</rank></timezone>
     </timezones>
-  </country>
-  <country>
-    <countryId>CN</countryId>
+  </territory>
+  <territory>
+    <territoryId>CN</territoryId>
     <names>
       <name><languageId>de</languageId><name>China</name></name>
       <name><languageId>en</languageId><name>China</name></name>
@@ -706,9 +706,9 @@
     <timezones>
       <timezone><timezoneId>Asia/Shanghai</timezoneId><rank>1000</rank></timezone>
     </timezones>
-  </country>
-  <country>
-    <countryId>CO</countryId>
+  </territory>
+  <territory>
+    <territoryId>CO</territoryId>
     <names>
       <name><languageId>de</languageId><name>Kolumbien</name></name>
       <name><languageId>en</languageId><name>Colombia</name></name>
@@ -726,9 +726,9 @@
     <timezones>
       <timezone><timezoneId>America/Bogota</timezoneId><rank>1000</rank></timezone>
     </timezones>
-  </country>
-  <country>
-    <countryId>CR</countryId>
+  </territory>
+  <territory>
+    <territoryId>CR</territoryId>
     <names>
       <name><languageId>de</languageId><name>Costa Rica</name></name>
       <name><languageId>en</languageId><name>Costa Rica</name></name>
@@ -746,9 +746,9 @@
     <timezones>
       <timezone><timezoneId>America/Costa_Rica</timezoneId><rank>1000</rank></timezone>
     </timezones>
-  </country>
-  <country>
-    <countryId>CU</countryId>
+  </territory>
+  <territory>
+    <territoryId>CU</territoryId>
     <names>
       <name><languageId>de</languageId><name>Cuba</name></name>
       <name><languageId>en</languageId><name>Kuba</name></name>
@@ -766,9 +766,9 @@
     <timezones>
       <timezone><timezoneId>America/Havana</timezoneId><rank>1000</rank></timezone>
     </timezones>
-  </country>
-  <country>
-    <countryId>CY</countryId>
+  </territory>
+  <territory>
+    <territoryId>CY</territoryId>
     <names>
       <name><languageId>de</languageId><name>Zypern</name></name>
       <name><languageId>el</languageId><name>Κύπρος</name></name>
@@ -786,9 +786,9 @@
     <timezones>
       <timezone><timezoneId>Asia/Nicosia</timezoneId><rank>1000</rank></timezone>
     </timezones>
-  </country>
-  <country>
-    <countryId>CZ</countryId>
+  </territory>
+  <territory>
+    <territoryId>CZ</territoryId>
     <names>
       <name><languageId>cs</languageId><name>Tjekkiet</name></name>
       <name><languageId>de</languageId><name>Tschechische Republik</name></name>
@@ -806,9 +806,9 @@
     <timezones>
       <timezone><timezoneId>Europe/Prague</timezoneId><rank>1000</rank></timezone>
     </timezones>
-  </country>
-  <country>
-    <countryId>DE</countryId>
+  </territory>
+  <territory>
+    <territoryId>DE</territoryId>
     <names>
       <name><languageId>de</languageId><name>Deutschland</name></name>
       <name><languageId>en</languageId><name>Germany</name></name>
@@ -832,9 +832,9 @@
     <timezones>
       <timezone><timezoneId>Europe/Berlin</timezoneId><rank>1000</rank></timezone>
     </timezones>
-  </country>
-  <country>
-    <countryId>DJ</countryId>
+  </territory>
+  <territory>
+    <territoryId>DJ</territoryId>
     <names>
       <name><languageId>en</languageId><name>Djibouti</name></name>
     </names>
@@ -856,9 +856,9 @@
     <timezones>
       <timezone><timezoneId>Africa/Djibouti</timezoneId><rank>1000</rank></timezone>
     </timezones>
-  </country>
-  <country>
-    <countryId>DK</countryId>
+  </territory>
+  <territory>
+    <territoryId>DK</territoryId>
     <names>
       <name><languageId>da</languageId><name>Danmark</name></name>
       <name><languageId>de</languageId><name>Dänemark</name></name>
@@ -878,9 +878,9 @@
     <timezones>
       <timezone><timezoneId>Europe/Copenhagen</timezoneId><rank>1000</rank></timezone>
     </timezones>
-  </country>
-  <country>
-    <countryId>DO</countryId>
+  </territory>
+  <territory>
+    <territoryId>DO</territoryId>
     <names>
       <name><languageId>de</languageId><name>Dominican Republic</name></name>
       <name><languageId>en</languageId><name>Dominikanische Republik</name></name>
@@ -898,9 +898,9 @@
     <timezones>
       <timezone><timezoneId>America/Santo_Domingo</timezoneId><rank>1000</rank></timezone>
     </timezones>
-  </country>
-  <country>
-    <countryId>DZ</countryId>
+  </territory>
+  <territory>
+    <territoryId>DZ</territoryId>
     <names>
       <name><languageId>de</languageId><name>Algerien</name></name>
       <name><languageId>en</languageId><name>Algeria</name></name>
@@ -917,9 +917,9 @@
     <timezones>
       <timezone><timezoneId>Africa/Algiers</timezoneId><rank>1000</rank></timezone>
     </timezones>
-  </country>
-  <country>
-    <countryId>EC</countryId>
+  </territory>
+  <territory>
+    <territoryId>EC</territoryId>
     <names>
       <name><languageId>de</languageId><name>Ecuador</name></name>
       <name><languageId>en</languageId><name>Ecuador</name></name>
@@ -938,9 +938,9 @@
       <timezone><timezoneId>America/Guayaquil</timezoneId><rank>990</rank></timezone>
       <timezone><timezoneId>America/Galapagos</timezoneId><rank>10</rank></timezone>
     </timezones>
-  </country>
-  <country>
-    <countryId>EE</countryId>
+  </territory>
+  <territory>
+    <territoryId>EE</territoryId>
     <names>
       <name><languageId>de</languageId><name>Estland</name></name>
       <name><languageId>en</languageId><name>Estonia</name></name>
@@ -958,9 +958,9 @@
     <timezones>
       <timezone><timezoneId>Europe/Tallinn</timezoneId><rank>1000</rank></timezone>
     </timezones>
-  </country>
-  <country>
-    <countryId>EG</countryId>
+  </territory>
+  <territory>
+    <territoryId>EG</territoryId>
     <names>
       <name><languageId>de</languageId><name>Ägypten</name></name>
       <name><languageId>en</languageId><name>Egypt</name></name>
@@ -977,9 +977,9 @@
     <timezones>
       <timezone><timezoneId>Africa/Cairo</timezoneId><rank>1000</rank></timezone>
     </timezones>
-  </country>
-  <country>
-    <countryId>ER</countryId>
+  </territory>
+  <territory>
+    <territoryId>ER</territoryId>
     <names>
       <name><languageId>en</languageId><name>Eritrea</name></name>
     </names>
@@ -1004,9 +1004,9 @@
     <timezones>
       <timezone><timezoneId>Africa/Asmara</timezoneId><rank>1000</rank></timezone>
     </timezones>
-  </country>
-  <country>
-    <countryId>ES</countryId>
+  </territory>
+  <territory>
+    <territoryId>ES</territoryId>
     <names>
       <name><languageId>de</languageId><name>Spanien</name></name>
       <name><languageId>en</languageId><name>Spain</name></name>
@@ -1033,9 +1033,9 @@
     <timezones>
       <timezone><timezoneId>Europe/Madrid</timezoneId><rank>1000</rank></timezone>
     </timezones>
-  </country>
-  <country>
-    <countryId>ET</countryId>
+  </territory>
+  <territory>
+    <territoryId>ET</territoryId>
     <names>
     </names>
     <locales>
@@ -1065,9 +1065,9 @@
     <timezones>
       <timezone><timezoneId>Africa/Addis_Ababa</timezoneId><rank>1000</rank></timezone>
     </timezones>
-  </country>
-  <country>
-    <countryId>FI</countryId>
+  </territory>
+  <territory>
+    <territoryId>FI</territoryId>
     <names>
       <name><languageId>de</languageId><name>Finnland</name></name>
       <name><languageId>en</languageId><name>Finland</name></name>
@@ -1088,9 +1088,9 @@
     <timezones>
       <timezone><timezoneId>Europe/Helsinki</timezoneId><rank>1000</rank></timezone>
     </timezones>
-  </country>
-  <country>
-    <countryId>FO</countryId>
+  </territory>
+  <territory>
+    <territoryId>FO</territoryId>
     <names>
       <name><languageId>en</languageId><name>Faroe Islands</name></name>
     </names>
@@ -1106,9 +1106,9 @@
     <timezones>
       <timezone><timezoneId>Atlantic/Faroe</timezoneId><rank>1000</rank></timezone>
     </timezones>
-  </country>
-  <country>
-    <countryId>FR</countryId>
+  </territory>
+  <territory>
+    <territoryId>FR</territoryId>
     <names>
       <name><languageId>de</languageId><name>Frankreich</name></name>
       <name><languageId>en</languageId><name>France</name></name>
@@ -1133,9 +1133,9 @@
     <timezones>
       <timezone><timezoneId>Europe/Paris</timezoneId><rank>1000</rank></timezone>
     </timezones>
-  </country>
-  <country>
-    <countryId>GB</countryId>
+  </territory>
+  <territory>
+    <territoryId>GB</territoryId>
     <names>
       <name><languageId>cy</languageId><name>Prydain Fawr</name></name>
       <name><languageId>de</languageId><name>Vereinigtes Königreich</name></name>
@@ -1161,9 +1161,9 @@
     <timezones>
       <timezone><timezoneId>Europe/London</timezoneId><rank>1000</rank></timezone>
     </timezones>
-  </country>
-  <country>
-    <countryId>GE</countryId>
+  </territory>
+  <territory>
+    <territoryId>GE</territoryId>
     <names>
       <name><languageId>en</languageId><name>Georgia</name></name>
     </names>
@@ -1179,9 +1179,9 @@
     <timezones>
       <timezone><timezoneId>Asia/Tbilisi</timezoneId><rank>1000</rank></timezone>
     </timezones>
-  </country>
-  <country>
-    <countryId>GL</countryId>
+  </territory>
+  <territory>
+    <territoryId>GL</territoryId>
     <names>
       <name><languageId>en</languageId><name>Greenland</name></name>
     </names>
@@ -1200,9 +1200,9 @@
       <timezone><timezoneId>America/Scoresbysund</timezoneId><rank>250</rank></timezone>
       <timezone><timezoneId>America/Thule</timezoneId><rank>250</rank></timezone>
     </timezones>
-  </country>
-  <country>
-    <countryId>GR</countryId>
+  </territory>
+  <territory>
+    <territoryId>GR</territoryId>
     <names>
       <name><languageId>de</languageId><name>Griechenland</name></name>
       <name><languageId>el</languageId><name>Ελλάδα</name></name>
@@ -1220,9 +1220,9 @@
     <timezones>
       <timezone><timezoneId>Europe/Athens</timezoneId><rank>1000</rank></timezone>
     </timezones>
-  </country>
-  <country>
-    <countryId>GT</countryId>
+  </territory>
+  <territory>
+    <territoryId>GT</territoryId>
     <names>
       <name><languageId>de</languageId><name>Guatemala</name></name>
       <name><languageId>en</languageId><name>Guatemala</name></name>
@@ -1240,9 +1240,9 @@
     <timezones>
       <timezone><timezoneId>America/Guatemala</timezoneId><rank>1000</rank></timezone>
     </timezones>
-  </country>
-  <country>
-    <countryId>HK</countryId>
+  </territory>
+  <territory>
+    <territoryId>HK</territoryId>
     <names>
       <name><languageId>de</languageId><name>Hong Kong</name></name>
       <name><languageId>en</languageId><name>Hong Kong</name></name>
@@ -1261,9 +1261,9 @@
     <timezones>
       <timezone><timezoneId>Asia/Hong_Kong</timezoneId><rank>1000</rank></timezone>
     </timezones>
-  </country>
-  <country>
-    <countryId>HN</countryId>
+  </territory>
+  <territory>
+    <territoryId>HN</territoryId>
     <names>
       <name><languageId>de</languageId><name>Honduras</name></name>
       <name><languageId>en</languageId><name>Honduras</name></name>
@@ -1281,9 +1281,9 @@
     <timezones>
       <timezone><timezoneId>America/Tegucigalpa</timezoneId><rank>1000</rank></timezone>
     </timezones>
-  </country>
-  <country>
-    <countryId>HR</countryId>
+  </territory>
+  <territory>
+    <territoryId>HR</territoryId>
     <names>
       <name><languageId>de</languageId><name>Kroatien</name></name>
       <name><languageId>en</languageId><name>Croatia</name></name>
@@ -1301,9 +1301,9 @@
     <timezones>
       <timezone><timezoneId>Europe/Zagreb</timezoneId><rank>1000</rank></timezone>
     </timezones>
-  </country>
-  <country>
-    <countryId>HT</countryId>
+  </territory>
+  <territory>
+    <territoryId>HT</territoryId>
     <names>
       <name><languageId>de</languageId><name>Haiti</name></name>
       <name><languageId>en</languageId><name>Haiti</name></name>
@@ -1325,9 +1325,9 @@
     <timezones>
       <timezone><timezoneId>America/Port-au-Prince</timezoneId><rank>1000</rank></timezone>
     </timezones>
-  </country>
-  <country>
-    <countryId>HU</countryId>
+  </territory>
+  <territory>
+    <territoryId>HU</territoryId>
     <names>
       <name><languageId>de</languageId><name>Ungarn</name></name>
       <name><languageId>en</languageId><name>Hungary</name></name>
@@ -1345,9 +1345,9 @@
     <timezones>
       <timezone><timezoneId>Europe/Budapest</timezoneId><rank>1000</rank></timezone>
     </timezones>
-  </country>
-  <country>
-    <countryId>ID</countryId>
+  </territory>
+  <territory>
+    <territoryId>ID</territoryId>
     <names>
       <name><languageId>de</languageId><name>Indonesien</name></name>
       <name><languageId>en</languageId><name>Indonesia</name></name>
@@ -1365,9 +1365,9 @@
     <timezones>
       <timezone><timezoneId>Asia/Jayapura</timezoneId><rank>1000</rank></timezone>
     </timezones>
-  </country>
-  <country>
-    <countryId>IE</countryId>
+  </territory>
+  <territory>
+    <territoryId>IE</territoryId>
     <names>
       <name><languageId>en</languageId><name>Ireland</name></name>
     </names>
@@ -1386,9 +1386,9 @@
     <timezones>
       <timezone><timezoneId>Europe/Dublin</timezoneId><rank>1000</rank></timezone>
     </timezones>
-  </country>
-  <country>
-    <countryId>IL</countryId>
+  </territory>
+  <territory>
+    <territoryId>IL</territoryId>
     <names>
       <name><languageId>en</languageId><name>Israel</name></name>
     </names>
@@ -1406,9 +1406,9 @@
     <timezones>
       <timezone><timezoneId>Asia/Jerusalem</timezoneId><rank>1000</rank></timezone>
     </timezones>
-  </country>
-  <country>
-    <countryId>IN</countryId>
+  </territory>
+  <territory>
+    <territoryId>IN</territoryId>
     <names>
       <name><languageId>de</languageId><name>Indien</name></name>
       <name><languageId>en</languageId><name>India</name></name>
@@ -1480,9 +1480,9 @@
     <timezones>
       <timezone><timezoneId>Asia/Kolkata</timezoneId><rank>1000</rank></timezone>
     </timezones>
-  </country>
-  <country>
-    <countryId>IQ</countryId>
+  </territory>
+  <territory>
+    <territoryId>IQ</territoryId>
     <names>
       <name><languageId>de</languageId><name>Irak</name></name>
       <name><languageId>en</languageId><name>Iraq</name></name>
@@ -1499,9 +1499,9 @@
     <timezones>
       <timezone><timezoneId>Asia/Baghdad</timezoneId><rank>1000</rank></timezone>
     </timezones>
-  </country>
-  <country>
-    <countryId>IR</countryId>
+  </territory>
+  <territory>
+    <territoryId>IR</territoryId>
     <names>
       <name><languageId>en</languageId><name>Iran</name></name>
     </names>
@@ -1517,9 +1517,9 @@
     <timezones>
       <timezone><timezoneId>Asia/Tehran</timezoneId><rank>1000</rank></timezone>
     </timezones>
-  </country>
-  <country>
-    <countryId>IS</countryId>
+  </territory>
+  <territory>
+    <territoryId>IS</territoryId>
     <names>
       <name><languageId>de</languageId><name>Island</name></name>
       <name><languageId>en</languageId><name>Iceland</name></name>
@@ -1537,9 +1537,9 @@
     <timezones>
       <timezone><timezoneId>Atlantic/Reykjavik</timezoneId><rank>1000</rank></timezone>
     </timezones>
-  </country>
-  <country>
-    <countryId>IT</countryId>
+  </territory>
+  <territory>
+    <territoryId>IT</territoryId>
     <names>
       <name><languageId>de</languageId><name>Italien</name></name>
       <name><languageId>en</languageId><name>Italy</name></name>
@@ -1565,9 +1565,9 @@
     <timezones>
       <timezone><timezoneId>Europe/Rome</timezoneId><rank>1000</rank></timezone>
     </timezones>
-  </country>
-  <country>
-    <countryId>JO</countryId>
+  </territory>
+  <territory>
+    <territoryId>JO</territoryId>
     <names>
       <name><languageId>de</languageId><name>Jordanien</name></name>
       <name><languageId>en</languageId><name>Jordan</name></name>
@@ -1584,9 +1584,9 @@
     <timezones>
       <timezone><timezoneId>Asia/Amman</timezoneId><rank>1000</rank></timezone>
     </timezones>
-  </country>
-  <country>
-    <countryId>JP</countryId>
+  </territory>
+  <territory>
+    <territoryId>JP</territoryId>
     <names>
       <name><languageId>de</languageId><name>Japan</name></name>
       <name><languageId>en</languageId><name>Japan</name></name>
@@ -1603,9 +1603,9 @@
     <timezones>
       <timezone><timezoneId>Asia/Tokyo</timezoneId><rank>1000</rank></timezone>
     </timezones>
-  </country>
-  <country>
-    <countryId>KE</countryId>
+  </territory>
+  <territory>
+    <territoryId>KE</territoryId>
     <names>
       <name><languageId>en</languageId><name>Kenya</name></name>
     </names>
@@ -1626,9 +1626,9 @@
     <timezones>
       <timezone><timezoneId>Africa/Nairobi</timezoneId><rank>1000</rank></timezone>
     </timezones>
-  </country>
-  <country>
-    <countryId>KG</countryId>
+  </territory>
+  <territory>
+    <territoryId>KG</territoryId>
     <names>
       <name><languageId>en</languageId><name>Kyrgyzstan</name></name>
     </names>
@@ -1644,9 +1644,9 @@
     <timezones>
       <timezone><timezoneId>Asia/Bishkek</timezoneId><rank>1000</rank></timezone>
     </timezones>
-  </country>
-  <country>
-    <countryId>KH</countryId>
+  </territory>
+  <territory>
+    <territoryId>KH</territoryId>
     <names>
       <name><languageId>en</languageId><name>Cambodia</name></name>
     </names>
@@ -1662,9 +1662,9 @@
     <timezones>
       <timezone><timezoneId>Asia/Phnom_Penh</timezoneId><rank>1000</rank></timezone>
     </timezones>
-  </country>
-  <country>
-    <countryId>KR</countryId>
+  </territory>
+  <territory>
+    <territoryId>KR</territoryId>
     <names>
       <name><languageId>de</languageId><name>Republik Korea</name></name>
       <name><languageId>en</languageId><name>South Korea</name></name>
@@ -1682,9 +1682,9 @@
     <timezones>
       <timezone><timezoneId>Asia/Seoul</timezoneId><rank>1000</rank></timezone>
     </timezones>
-  </country>
-  <country>
-    <countryId>KW</countryId>
+  </territory>
+  <territory>
+    <territoryId>KW</territoryId>
     <names>
       <name><languageId>de</languageId><name>Kuwait</name></name>
       <name><languageId>en</languageId><name>Kuwait</name></name>
@@ -1701,9 +1701,9 @@
     <timezones>
       <timezone><timezoneId>Asia/Kuwait</timezoneId><rank>1000</rank></timezone>
     </timezones>
-  </country>
-  <country>
-    <countryId>KZ</countryId>
+  </territory>
+  <territory>
+    <territoryId>KZ</territoryId>
     <names>
       <name><languageId>en</languageId><name>Kazakhstan</name></name>
     </names>
@@ -1719,9 +1719,9 @@
     <timezones>
       <timezone><timezoneId>Asia/Oral</timezoneId><rank>1000</rank></timezone>
     </timezones>
-  </country>
-  <country>
-    <countryId>LA</countryId>
+  </territory>
+  <territory>
+    <territoryId>LA</territoryId>
     <names>
       <name><languageId>en</languageId><name>Laos</name></name>
     </names>
@@ -1737,9 +1737,9 @@
     <timezones>
       <timezone><timezoneId>Asia/Vientiane</timezoneId><rank>1000</rank></timezone>
     </timezones>
-  </country>
-  <country>
-    <countryId>LB</countryId>
+  </territory>
+  <territory>
+    <territoryId>LB</territoryId>
     <names>
       <name><languageId>de</languageId><name>Libanon</name></name>
       <name><languageId>en</languageId><name>Lebanon</name></name>
@@ -1756,9 +1756,9 @@
     <timezones>
       <timezone><timezoneId>Asia/Beirut</timezoneId><rank>1000</rank></timezone>
     </timezones>
-  </country>
-  <country>
-    <countryId>LK</countryId>
+  </territory>
+  <territory>
+    <territoryId>LK</territoryId>
     <names>
       <name><languageId>de</languageId><name>Sri Lanka</name></name>
       <name><languageId>en</languageId><name>Sri Lanka</name></name>
@@ -1776,9 +1776,9 @@
     <timezones>
       <timezone><timezoneId>Asia/Colombo</timezoneId><rank>1000</rank></timezone>
     </timezones>
-  </country>
-  <country>
-    <countryId>LT</countryId>
+  </territory>
+  <territory>
+    <territoryId>LT</territoryId>
     <names>
       <name><languageId>en</languageId><name>Lithuania</name></name>
     </names>
@@ -1794,9 +1794,9 @@
     <timezones>
       <timezone><timezoneId>Europe/Vilnius</timezoneId><rank>1000</rank></timezone>
     </timezones>
-  </country>
-  <country>
-    <countryId>LU</countryId>
+  </territory>
+  <territory>
+    <territoryId>LU</territoryId>
     <names>
       <name><languageId>en</languageId><name>Luxembourg</name></name>
     </names>
@@ -1820,9 +1820,9 @@
     <timezones>
       <timezone><timezoneId>Europe/Luxembourg</timezoneId><rank>1000</rank></timezone>
     </timezones>
-  </country>
-  <country>
-    <countryId>LV</countryId>
+  </territory>
+  <territory>
+    <territoryId>LV</territoryId>
     <names>
       <name><languageId>en</languageId><name>Latvia</name></name>
     </names>
@@ -1838,9 +1838,9 @@
     <timezones>
       <timezone><timezoneId>Europe/Riga</timezoneId><rank>1000</rank></timezone>
     </timezones>
-  </country>
-  <country>
-    <countryId>LY</countryId>
+  </territory>
+  <territory>
+    <territoryId>LY</territoryId>
     <names>
       <name><languageId>de</languageId><name>Libyen</name></name>
       <name><languageId>en</languageId><name>Libya</name></name>
@@ -1857,9 +1857,9 @@
     <timezones>
       <timezone><timezoneId>Africa/Tripoli</timezoneId><rank>1000</rank></timezone>
     </timezones>
-  </country>
-  <country>
-    <countryId>MA</countryId>
+  </territory>
+  <territory>
+    <territoryId>MA</territoryId>
     <names>
       <name><languageId>de</languageId><name>Marokko</name></name>
       <name><languageId>en</languageId><name>Morocco</name></name>
@@ -1876,9 +1876,9 @@
     <timezones>
       <timezone><timezoneId>Africa/Casablanca</timezoneId><rank>1000</rank></timezone>
     </timezones>
-  </country>
-  <country>
-    <countryId>ME</countryId>
+  </territory>
+  <territory>
+    <territoryId>ME</territoryId>
     <names>
       <name><languageId>de</languageId><name>Montenegro</name></name>
       <name><languageId>en</languageId><name>Montenegro</name></name>
@@ -1897,9 +1897,9 @@
     <timezones>
       <timezone><timezoneId>Europe/Podgorica</timezoneId><rank>1000</rank></timezone>
     </timezones>
-  </country>
-  <country>
-    <countryId>MG</countryId>
+  </territory>
+  <territory>
+    <territoryId>MG</territoryId>
     <names>
       <name><languageId>en</languageId><name>Madagascar</name></name>
     </names>
@@ -1915,9 +1915,9 @@
     <timezones>
       <timezone><timezoneId>Indian/Antananarivo</timezoneId><rank>1000</rank></timezone>
     </timezones>
-  </country>
-  <country>
-    <countryId>MK</countryId>
+  </territory>
+  <territory>
+    <territoryId>MK</territoryId>
     <names>
       <name><languageId>de</languageId><name>Mazedonien</name></name>
       <name><languageId>en</languageId><name>Macedonia</name></name>
@@ -1938,9 +1938,9 @@
     <timezones>
       <timezone><timezoneId>Europe/Skopje</timezoneId><rank>1000</rank></timezone>
     </timezones>
-  </country>
-  <country>
-    <countryId>MM</countryId>
+  </territory>
+  <territory>
+    <territoryId>MM</territoryId>
     <names>
       <name><languageId>en</languageId><name>Myanmar [Burma]</name></name>
     </names>
@@ -1956,9 +1956,9 @@
     <timezones>
       <timezone><timezoneId>Asia/Rangoon</timezoneId><rank>1000</rank></timezone>
     </timezones>
-  </country>
-  <country>
-    <countryId>MN</countryId>
+  </territory>
+  <territory>
+    <territoryId>MN</territoryId>
     <names>
       <name><languageId>en</languageId><name>Mongolia</name></name>
     </names>
@@ -1976,9 +1976,9 @@
       <timezone><timezoneId>Asia/Hovd</timezoneId><rank>10</rank></timezone>
       <timezone><timezoneId>Asia/Choibalsan</timezoneId><rank>1</rank></timezone>
     </timezones>
-  </country>
-  <country>
-    <countryId>MO</countryId>
+  </territory>
+  <territory>
+    <territoryId>MO</territoryId>
     <names>
       <name><languageId>de</languageId><name>Sonderverwaltungszone Macao</name></name>
       <name><languageId>en</languageId><name>Macau SAR China</name></name>
@@ -1998,9 +1998,9 @@
     <timezones>
       <timezone><timezoneId>Asia/Macau</timezoneId><rank>1000</rank></timezone>
     </timezones>
-  </country>
-  <country>
-    <countryId>MT</countryId>
+  </territory>
+  <territory>
+    <territoryId>MT</territoryId>
     <names>
       <name><languageId>en</languageId><name>Malta</name></name>
     </names>
@@ -2017,9 +2017,9 @@
     <timezones>
       <timezone><timezoneId>Europe/Malta</timezoneId><rank>1000</rank></timezone>
     </timezones>
-  </country>
-  <country>
-    <countryId>MV</countryId>
+  </territory>
+  <territory>
+    <territoryId>MV</territoryId>
     <names>
       <name><languageId>en</languageId><name>Maldives</name></name>
     </names>
@@ -2035,9 +2035,9 @@
     <timezones>
       <timezone><timezoneId>Indian/Maldives</timezoneId><rank>1000</rank></timezone>
     </timezones>
-  </country>
-  <country>
-    <countryId>MX</countryId>
+  </territory>
+  <territory>
+    <territoryId>MX</territoryId>
     <names>
       <name><languageId>de</languageId><name>Mexiko</name></name>
       <name><languageId>en</languageId><name>Mexico</name></name>
@@ -2066,9 +2066,9 @@
       <timezone><timezoneId>America/Merida</timezoneId><rank>1</rank></timezone>
       <timezone><timezoneId>America/Monterrey</timezoneId><rank>1</rank></timezone>
     </timezones>
-  </country>
-  <country>
-    <countryId>MY</countryId>
+  </territory>
+  <territory>
+    <territoryId>MY</territoryId>
     <names>
       <name><languageId>de</languageId><name>Malaysia</name></name>
       <name><languageId>en</languageId><name>Malaysia</name></name>
@@ -2087,9 +2087,9 @@
       <timezone><timezoneId>Asia/Kuala_Lumpur</timezoneId><rank>800</rank></timezone>
       <timezone><timezoneId>Asia/Kuching</timezoneId><rank>200</rank></timezone>
     </timezones>
-  </country>
-  <country>
-    <countryId>NG</countryId>
+  </territory>
+  <territory>
+    <territoryId>NG</territoryId>
     <names>
       <name><languageId>en</languageId><name>Nigeria</name></name>
     </names>
@@ -2114,9 +2114,9 @@
     <timezones>
       <timezone><timezoneId>Africa/Lagos</timezoneId><rank>1000</rank></timezone>
     </timezones>
-  </country>
-  <country>
-    <countryId>NI</countryId>
+  </territory>
+  <territory>
+    <territoryId>NI</territoryId>
     <names>
       <name><languageId>de</languageId><name>Nicaragua</name></name>
       <name><languageId>en</languageId><name>Nicaragua</name></name>
@@ -2134,9 +2134,9 @@
     <timezones>
       <timezone><timezoneId>America/Managua</timezoneId><rank>1000</rank></timezone>
     </timezones>
-  </country>
-  <country>
-    <countryId>NL</countryId>
+  </territory>
+  <territory>
+    <territoryId>NL</territoryId>
     <names>
       <name><languageId>de</languageId><name>Niederlande</name></name>
       <name><languageId>en</languageId><name>Netherlands</name></name>
@@ -2162,9 +2162,9 @@
     <timezones>
       <timezone><timezoneId>Europe/Amsterdam</timezoneId><rank>1000</rank></timezone>
     </timezones>
-  </country>
-  <country>
-    <countryId>NO</countryId>
+  </territory>
+  <territory>
+    <territoryId>NO</territoryId>
     <names>
       <name><languageId>de</languageId><name>Norwegen</name></name>
       <name><languageId>en</languageId><name>Norway</name></name>
@@ -2187,9 +2187,9 @@
     <timezones>
       <timezone><timezoneId>Europe/Oslo</timezoneId><rank>1000</rank></timezone>
     </timezones>
-  </country>
-  <country>
-    <countryId>NP</countryId>
+  </territory>
+  <territory>
+    <territoryId>NP</territoryId>
     <names>
       <name><languageId>en</languageId><name>Nepal</name></name>
     </names>
@@ -2205,9 +2205,9 @@
     <timezones>
       <timezone><timezoneId>Asia/Kathmandu</timezoneId><rank>1000</rank></timezone>
     </timezones>
-  </country>
-  <country>
-    <countryId>NZ</countryId>
+  </territory>
+  <territory>
+    <territoryId>NZ</territoryId>
     <names>
       <name><languageId>en</languageId><name>New Zealand</name></name>
     </names>
@@ -2226,9 +2226,9 @@
       <timezone><timezoneId>Pacific/Auckland</timezoneId><rank>998</rank></timezone>
       <timezone><timezoneId>Pacific/Chatham</timezoneId><rank>2</rank></timezone>
     </timezones>
-  </country>
-  <country>
-    <countryId>OM</countryId>
+  </territory>
+  <territory>
+    <territoryId>OM</territoryId>
     <names>
       <name><languageId>de</languageId><name>Oman</name></name>
       <name><languageId>en</languageId><name>Oman</name></name>
@@ -2245,9 +2245,9 @@
     <timezones>
       <timezone><timezoneId>Asia/Muscat</timezoneId><rank>1000</rank></timezone>
     </timezones>
-  </country>
-  <country>
-    <countryId>PA</countryId>
+  </territory>
+  <territory>
+    <territoryId>PA</territoryId>
     <names>
       <name><languageId>de</languageId><name>Panama</name></name>
       <name><languageId>en</languageId><name>Panama</name></name>
@@ -2265,9 +2265,9 @@
     <timezones>
       <timezone><timezoneId>America/Panama</timezoneId><rank>1000</rank></timezone>
     </timezones>
-  </country>
-  <country>
-    <countryId>PE</countryId>
+  </territory>
+  <territory>
+    <territoryId>PE</territoryId>
     <names>
       <name><languageId>de</languageId><name>Peru</name></name>
       <name><languageId>en</languageId><name>Peru</name></name>
@@ -2285,9 +2285,9 @@
     <timezones>
       <timezone><timezoneId>America/Lima</timezoneId><rank>1000</rank></timezone>
     </timezones>
-  </country>
-  <country>
-    <countryId>PH</countryId>
+  </territory>
+  <territory>
+    <territoryId>PH</territoryId>
     <names>
       <name><languageId>en</languageId><name>Philippines</name></name>
     </names>
@@ -2307,9 +2307,9 @@
     <timezones>
       <timezone><timezoneId>Asia/Manila</timezoneId><rank>1000</rank></timezone>
     </timezones>
-  </country>
-  <country>
-    <countryId>PK</countryId>
+  </territory>
+  <territory>
+    <territoryId>PK</territoryId>
     <names>
       <name><languageId>de</languageId><name>Pakistan</name></name>
       <name><languageId>en</languageId><name>Pakistan</name></name>
@@ -2329,9 +2329,9 @@
     <timezones>
       <timezone><timezoneId>Asia/Karachi</timezoneId><rank>1000</rank></timezone>
     </timezones>
-  </country>
-  <country>
-    <countryId>PL</countryId>
+  </territory>
+  <territory>
+    <territoryId>PL</territoryId>
     <names>
       <name><languageId>de</languageId><name>Polen</name></name>
       <name><languageId>en</languageId><name>Poland</name></name>
@@ -2351,9 +2351,9 @@
     <timezones>
       <timezone><timezoneId>Europe/Warsaw</timezoneId><rank>1000</rank></timezone>
     </timezones>
-  </country>
-  <country>
-    <countryId>PR</countryId>
+  </territory>
+  <territory>
+    <territoryId>PR</territoryId>
     <names>
       <name><languageId>de</languageId><name>Puerto Rico</name></name>
       <name><languageId>en</languageId><name>Puerto Rico</name></name>
@@ -2371,9 +2371,9 @@
     <timezones>
       <timezone><timezoneId>America/Puerto_Rico</timezoneId><rank>1000</rank></timezone>
     </timezones>
-  </country>
-  <country>
-    <countryId>PT</countryId>
+  </territory>
+  <territory>
+    <territoryId>PT</territoryId>
     <names>
       <name><languageId>de</languageId><name>Portugal</name></name>
       <name><languageId>en</languageId><name>Portugal</name></name>
@@ -2393,9 +2393,9 @@
       <timezone><timezoneId>Atlantic/Azores</timezoneId><rank>100</rank></timezone>
       <timezone><timezoneId>Atlantic/Madeira</timezoneId><rank>100</rank></timezone>
     </timezones>
-  </country>
-  <country>
-    <countryId>PY</countryId>
+  </territory>
+  <territory>
+    <territoryId>PY</territoryId>
     <names>
       <name><languageId>de</languageId><name>Paraguay</name></name>
       <name><languageId>en</languageId><name>Paraguay</name></name>
@@ -2413,9 +2413,9 @@
     <timezones>
       <timezone><timezoneId>America/Asuncion</timezoneId><rank>1000</rank></timezone>
     </timezones>
-  </country>
-  <country>
-    <countryId>QA</countryId>
+  </territory>
+  <territory>
+    <territoryId>QA</territoryId>
     <names>
       <name><languageId>de</languageId><name>Katar</name></name>
       <name><languageId>en</languageId><name>Qatar</name></name>
@@ -2432,9 +2432,9 @@
     <timezones>
       <timezone><timezoneId>Asia/Qatar</timezoneId><rank>1000</rank></timezone>
     </timezones>
-  </country>
-  <country>
-    <countryId>RO</countryId>
+  </territory>
+  <territory>
+    <territoryId>RO</territoryId>
     <names>
       <name><languageId>en</languageId><name>Romania</name></name>
     </names>
@@ -2450,9 +2450,9 @@
     <timezones>
       <timezone><timezoneId>Europe/Bucharest</timezoneId><rank>1000</rank></timezone>
     </timezones>
-  </country>
-  <country>
-    <countryId>RS</countryId>
+  </territory>
+  <territory>
+    <territoryId>RS</territoryId>
     <names>
       <name><languageId>de</languageId><name>Serbien</name></name>
       <name><languageId>en</languageId><name>Serbia</name></name>
@@ -2473,9 +2473,9 @@
     <timezones>
       <timezone><timezoneId>Europe/Belgrade</timezoneId><rank>1000</rank></timezone>
     </timezones>
-  </country>
-  <country>
-    <countryId>RU</countryId>
+  </territory>
+  <territory>
+    <territoryId>RU</territoryId>
     <names>
       <name><languageId>de</languageId><name>Russland</name></name>
       <name><languageId>en</languageId><name>Russia</name></name>
@@ -2517,9 +2517,9 @@
       <timezone><timezoneId>Asia/Kamchatka</timezoneId><rank>35</rank></timezone>
       <timezone><timezoneId>Asia/Anadyr</timezoneId><rank>34</rank></timezone>
     </timezones>
-  </country>
-  <country>
-    <countryId>RW</countryId>
+  </territory>
+  <territory>
+    <territoryId>RW</territoryId>
     <names>
       <name><languageId>en</languageId><name>Rwanda</name></name>
     </names>
@@ -2535,9 +2535,9 @@
     <timezones>
       <timezone><timezoneId>Africa/Kigali</timezoneId><rank>1000</rank></timezone>
     </timezones>
-  </country>
-  <country>
-    <countryId>SA</countryId>
+  </territory>
+  <territory>
+    <territoryId>SA</territoryId>
     <names>
       <name><languageId>de</languageId><name>Saudi-Arabien</name></name>
       <name><languageId>en</languageId><name>Saudi Arabia</name></name>
@@ -2554,9 +2554,9 @@
     <timezones>
       <timezone><timezoneId>Asia/Riyadh</timezoneId><rank>1000</rank></timezone>
     </timezones>
-  </country>
-  <country>
-    <countryId>SD</countryId>
+  </territory>
+  <territory>
+    <territoryId>SD</territoryId>
     <names>
       <name><languageId>de</languageId><name>Sudan</name></name>
       <name><languageId>en</languageId><name>Sudan</name></name>
@@ -2573,9 +2573,9 @@
     <timezones>
       <timezone><timezoneId>Africa/Khartoum</timezoneId><rank>1000</rank></timezone>
     </timezones>
-  </country>
-  <country>
-    <countryId>SE</countryId>
+  </territory>
+  <territory>
+    <territoryId>SE</territoryId>
     <names>
     </names>
     <locales>
@@ -2590,9 +2590,9 @@
     <timezones>
       <timezone><timezoneId>Europe/Stockholm</timezoneId><rank>1000</rank></timezone>
     </timezones>
-  </country>
-  <country>
-    <countryId>SG</countryId>
+  </territory>
+  <territory>
+    <territoryId>SG</territoryId>
     <names>
       <name><languageId>de</languageId><name>Singapur</name></name>
       <name><languageId>en</languageId><name>Singapore</name></name>
@@ -2614,9 +2614,9 @@
     <timezones>
       <timezone><timezoneId>Asia/Singapore</timezoneId><rank>1000</rank></timezone>
     </timezones>
-  </country>
-  <country>
-    <countryId>SI</countryId>
+  </territory>
+  <territory>
+    <territoryId>SI</territoryId>
     <names>
       <name><languageId>en</languageId><name>Slovenia</name></name>
     </names>
@@ -2632,9 +2632,9 @@
     <timezones>
       <timezone><timezoneId>Europe/Ljubljana</timezoneId><rank>1000</rank></timezone>
     </timezones>
-  </country>
-  <country>
-    <countryId>SK</countryId>
+  </territory>
+  <territory>
+    <territoryId>SK</territoryId>
     <names>
       <name><languageId>de</languageId><name>Slowakei</name></name>
       <name><languageId>en</languageId><name>Slovakia</name></name>
@@ -2652,9 +2652,9 @@
     <timezones>
       <timezone><timezoneId>Europe/Bratislava</timezoneId><rank>1000</rank></timezone>
     </timezones>
-  </country>
-  <country>
-    <countryId>SN</countryId>
+  </territory>
+  <territory>
+    <territoryId>SN</territoryId>
     <names>
       <name><languageId>en</languageId><name>Senegal</name></name>
     </names>
@@ -2674,9 +2674,9 @@
     <timezones>
       <timezone><timezoneId>Africa/Dakar</timezoneId><rank>1000</rank></timezone>
     </timezones>
-  </country>
-  <country>
-    <countryId>SO</countryId>
+  </territory>
+  <territory>
+    <territoryId>SO</territoryId>
     <names>
       <name><languageId>en</languageId><name>Somalia</name></name>
     </names>
@@ -2693,9 +2693,9 @@
     <timezones>
       <timezone><timezoneId>Africa/Mogadishu</timezoneId><rank>1000</rank></timezone>
     </timezones>
-  </country>
-  <country>
-    <countryId>SV</countryId>
+  </territory>
+  <territory>
+    <territoryId>SV</territoryId>
     <names>
       <name><languageId>de</languageId><name>El Salvador</name></name>
       <name><languageId>en</languageId><name>El Salvador</name></name>
@@ -2713,9 +2713,9 @@
     <timezones>
       <timezone><timezoneId>America/El_Salvador</timezoneId><rank>1000</rank></timezone>
     </timezones>
-  </country>
-  <country>
-    <countryId>SY</countryId>
+  </territory>
+  <territory>
+    <territoryId>SY</territoryId>
     <names>
       <name><languageId>de</languageId><name>Syrien</name></name>
       <name><languageId>en</languageId><name>Syria</name></name>
@@ -2732,9 +2732,9 @@
     <timezones>
       <timezone><timezoneId>Asia/Damascus</timezoneId><rank>1000</rank></timezone>
     </timezones>
-  </country>
-  <country>
-    <countryId>TH</countryId>
+  </territory>
+  <territory>
+    <territoryId>TH</territoryId>
     <names>
       <name><languageId>en</languageId><name>Thailand</name></name>
     </names>
@@ -2752,9 +2752,9 @@
     <timezones>
       <timezone><timezoneId>Asia/Bangkok</timezoneId><rank>1000</rank></timezone>
     </timezones>
-  </country>
-  <country>
-    <countryId>TJ</countryId>
+  </territory>
+  <territory>
+    <territoryId>TJ</territoryId>
     <names>
       <name><languageId>en</languageId><name>Tajikistan</name></name>
     </names>
@@ -2770,9 +2770,9 @@
     <timezones>
       <timezone><timezoneId>Asia/Dushanbe</timezoneId><rank>1000</rank></timezone>
     </timezones>
-  </country>
-  <country>
-    <countryId>TM</countryId>
+  </territory>
+  <territory>
+    <territoryId>TM</territoryId>
     <names>
       <name><languageId>en</languageId><name>Turkmenistan</name></name>
     </names>
@@ -2788,9 +2788,9 @@
     <timezones>
       <timezone><timezoneId>Asia/Ashgabat</timezoneId><rank>1000</rank></timezone>
     </timezones>
-  </country>
-  <country>
-    <countryId>TN</countryId>
+  </territory>
+  <territory>
+    <territoryId>TN</territoryId>
     <names>
       <name><languageId>de</languageId><name>Tunesien</name></name>
       <name><languageId>en</languageId><name>Tunisia</name></name>
@@ -2807,9 +2807,9 @@
     <timezones>
       <timezone><timezoneId>Africa/Tunis</timezoneId><rank>1000</rank></timezone>
     </timezones>
-  </country>
-  <country>
-    <countryId>TR</countryId>
+  </territory>
+  <territory>
+    <territoryId>TR</territoryId>
     <names>
       <name><languageId>de</languageId><name>Türkei</name></name>
       <name><languageId>en</languageId><name>Turkey</name></name>
@@ -2829,9 +2829,9 @@
     <timezones>
       <timezone><timezoneId>Europe/Istanbul</timezoneId><rank>1000</rank></timezone>
     </timezones>
-  </country>
-  <country>
-    <countryId>TW</countryId>
+  </territory>
+  <territory>
+    <territoryId>TW</territoryId>
     <names>
       <name><languageId>de</languageId><name>Taiwan</name></name>
       <name><languageId>en</languageId><name>Taiwan</name></name>
@@ -2852,9 +2852,9 @@
     <timezones>
       <timezone><timezoneId>Asia/Taipei</timezoneId><rank>1000</rank></timezone>
     </timezones>
-  </country>
-  <country>
-    <countryId>TZ</countryId>
+  </territory>
+  <territory>
+    <territoryId>TZ</territoryId>
     <names>
       <name><languageId>en</languageId><name>Tanzania</name></name>
     </names>
@@ -2871,9 +2871,9 @@
     <timezones>
       <timezone><timezoneId>Africa/Dar_es_Salaam</timezoneId><rank>1000</rank></timezone>
     </timezones>
-  </country>
-  <country>
-    <countryId>UA</countryId>
+  </territory>
+  <territory>
+    <territoryId>UA</territoryId>
     <names>
       <name><languageId>de</languageId><name>Ukraine</name></name>
       <name><languageId>en</languageId><name>Ukraine</name></name>
@@ -2900,9 +2900,9 @@
       <timezone><timezoneId>Europe/Uzhgorod</timezoneId><rank>1</rank></timezone>
       <timezone><timezoneId>Europe/Zaporozhye</timezoneId><rank>1</rank></timezone>
     </timezones>
-  </country>
-  <country>
-    <countryId>UG</countryId>
+  </territory>
+  <territory>
+    <territoryId>UG</territoryId>
     <names>
       <name><languageId>en</languageId><name>Uganda</name></name>
     </names>
@@ -2918,9 +2918,9 @@
     <timezones>
       <timezone><timezoneId>Africa/Kampala</timezoneId><rank>1000</rank></timezone>
     </timezones>
-  </country>
-  <country>
-    <countryId>US</countryId>
+  </territory>
+  <territory>
+    <territoryId>US</territoryId>
     <names>
       <name><languageId>de</languageId><name>Vereinigte Staaten</name></name>
       <name><languageId>en</languageId><name>United States</name></name>
@@ -2973,9 +2973,9 @@
       <timezone><timezoneId>America/Sitka</timezoneId><rank>1</rank></timezone>
       <timezone><timezoneId>America/Yakutat</timezoneId><rank>1</rank></timezone>
     </timezones>
-  </country>
-  <country>
-    <countryId>UY</countryId>
+  </territory>
+  <territory>
+    <territoryId>UY</territoryId>
     <names>
       <name><languageId>de</languageId><name>Uruguay</name></name>
       <name><languageId>en</languageId><name>Uruguay</name></name>
@@ -2993,9 +2993,9 @@
     <timezones>
       <timezone><timezoneId>America/Montevideo</timezoneId><rank>1000</rank></timezone>
     </timezones>
-  </country>
-  <country>
-    <countryId>UZ</countryId>
+  </territory>
+  <territory>
+    <territoryId>UZ</territoryId>
     <names>
       <name><languageId>en</languageId><name>Uzbekistan</name></name>
     </names>
@@ -3014,9 +3014,9 @@
       <timezone><timezoneId>Asia/Samarkand</timezoneId><rank>500</rank></timezone>
       <timezone><timezoneId>Asia/Tashkent</timezoneId><rank>500</rank></timezone>
     </timezones>
-  </country>
-  <country>
-    <countryId>VE</countryId>
+  </territory>
+  <territory>
+    <territoryId>VE</territoryId>
     <names>
     </names>
     <locales>
@@ -3031,9 +3031,9 @@
     <timezones>
       <timezone><timezoneId>America/Caracas</timezoneId><rank>1000</rank></timezone>
     </timezones>
-  </country>
-  <country>
-    <countryId>VN</countryId>
+  </territory>
+  <territory>
+    <territoryId>VN</territoryId>
     <names>
       <name><languageId>de</languageId><name>Việt Nam</name></name>
       <name><languageId>en</languageId><name>Vietnam</name></name>
@@ -3051,9 +3051,9 @@
     <timezones>
       <timezone><timezoneId>Asia/Ho_Chi_Minh</timezoneId><rank>1000</rank></timezone>
     </timezones>
-  </country>
-  <country>
-    <countryId>YE</countryId>
+  </territory>
+  <territory>
+    <territoryId>YE</territoryId>
     <names>
       <name><languageId>de</languageId><name>Jemen</name></name>
       <name><languageId>en</languageId><name>Yemen</name></name>
@@ -3070,9 +3070,9 @@
     <timezones>
       <timezone><timezoneId>Asia/Aden</timezoneId><rank>1000</rank></timezone>
     </timezones>
-  </country>
-  <country>
-    <countryId>ZA</countryId>
+  </territory>
+  <territory>
+    <territoryId>ZA</territoryId>
     <names>
       <name><languageId>de</languageId><name>Südafrica</name></name>
       <name><languageId>en</languageId><name>South Africa</name></name>
@@ -3109,9 +3109,9 @@
     <timezones>
       <timezone><timezoneId>Africa/Johannesburg</timezoneId><rank>1000</rank></timezone>
     </timezones>
-  </country>
-  <country>
-    <countryId>ZM</countryId>
+  </territory>
+  <territory>
+    <territoryId>ZM</territoryId>
     <names>
       <name><languageId>en</languageId><name>Zambia</name></name>
     </names>
@@ -3129,9 +3129,9 @@
     <timezones>
       <timezone><timezoneId>Africa/Lusaka</timezoneId><rank>1000</rank></timezone>
     </timezones>
-  </country>
-  <country>
-    <countryId>ZW</countryId>
+  </territory>
+  <territory>
+    <territoryId>ZW</territoryId>
     <names>
       <name><languageId>en</languageId><name>Zimbabwe</name></name>
     </names>
@@ -3147,5 +3147,5 @@
     <timezones>
       <timezone><timezoneId>Africa/Harare</timezoneId><rank>1000</rank></timezone>
     </timezones>
-  </country>
-</countries>
+  </territory>
+</territories>

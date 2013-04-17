@@ -19,11 +19,11 @@ import re
 import logging
 from lxml import etree
 
-countries = {}
+territories = {}
 languages = {}
 keyboards = {}
 
-class country:
+class territory:
     def __init__(self, names = None, locales=None, languages=None, keyboards=None, timezones=None):
         self.names = names
         self.locales = locales
@@ -32,42 +32,42 @@ class country:
         self.timezones = timezones
 
 class language:
-    def __init__(self, iso639_1=None, iso639_2_t=None, iso639_2_b=None, names=None, locales=None, countries=None, keyboards=None, timezones=None):
+    def __init__(self, iso639_1=None, iso639_2_t=None, iso639_2_b=None, names=None, locales=None, territories=None, keyboards=None, timezones=None):
         self.iso639_1 = iso639_1
         self.iso639_2_t = iso639_2_t
         self.iso639_2_b = iso639_2_b
         self.names = names
         self.locales = locales
-        self.countries = countries
+        self.territories = territories
         self.keyboards = keyboards
         self.timezones = timezones
 
 class keyboard:
-    def __init__(self, description=None, ascii=True, languages=None, countries = None, comment=None):
+    def __init__(self, description=None, ascii=True, languages=None, territories = None, comment=None):
         self.description = description
         self.ascii  = ascii
         self.comment = comment
         self.languages = languages
-        self.countries = countries
+        self.territories = territories
                   
-def read_countries_file(file):
-    countriesTree = etree.parse(file).getroot()
-    if len(countriesTree):
-        if countriesTree.tag != 'countries':
-            logging.error("Wrong tag: countriesTree.tag=%s." %countriesTree.tag)
+def read_territories_file(file):
+    territoriesTree = etree.parse(file).getroot()
+    if len(territoriesTree):
+        if territoriesTree.tag != 'territories':
+            logging.error("Wrong tag: territoriesTree.tag=%s." %territoriesTree.tag)
             exit(1)
-        for countryTree in countriesTree:
-            countryId = None
+        for territoryTree in territoriesTree:
+            territoryId = None
             names = {}
             locales = {}
             languages = {}
             keyboards = {}
             timezones = {}
-            for countryElement in countryTree:
-                if countryElement.tag == 'countryId':
-                    countryId = countryElement.text
-                elif countryElement.tag == 'names' and len(countryElement):
-                    for nameTree in countryElement:
+            for territoryElement in territoryTree:
+                if territoryElement.tag == 'territoryId':
+                    territoryId = territoryElement.text
+                elif territoryElement.tag == 'names' and len(territoryElement):
+                    for nameTree in territoryElement:
                         if nameTree.tag == 'name' and len(nameTree):
                             languageId = None
                             name = None
@@ -78,8 +78,8 @@ def read_countries_file(file):
                                     name = nameElement.text
                             if languageId != None and name != None:
                                 names[languageId] = name
-                elif countryElement.tag  == 'locales' and len(countryElement):
-                    for localeTree in countryElement:
+                elif territoryElement.tag  == 'locales' and len(territoryElement):
+                    for localeTree in territoryElement:
                         if localeTree.tag == 'locale' and len(localeTree):
                             localeId = None
                             rank = int(0)
@@ -90,8 +90,8 @@ def read_countries_file(file):
                                     rank = int(localeElement.text)
                             if localeId != None:
                                 locales[localeId] = rank
-                elif countryElement.tag  == 'languages' and len(countryElement):
-                    for languageTree in countryElement:
+                elif territoryElement.tag  == 'languages' and len(territoryElement):
+                    for languageTree in territoryElement:
                         if languageTree.tag == 'language' and len(languageTree):
                             languageId = None
                             rank = int(0)
@@ -102,8 +102,8 @@ def read_countries_file(file):
                                     rank = int(languageElement.text)
                             if languageId != None:
                                 languages[languageId] = rank
-                elif countryElement.tag == 'keyboards' and len(countryElement):
-                    for keyboardTree in countryElement:
+                elif territoryElement.tag == 'keyboards' and len(territoryElement):
+                    for keyboardTree in territoryElement:
                         if keyboardTree.tag == 'keyboard' and len(keyboardTree):
                             keyboardId = None
                             rank = int(0)
@@ -114,8 +114,8 @@ def read_countries_file(file):
                                     rank = int(keyboardElement.text)
                             if keyboardId != None:
                                 keyboards[keyboardId] = rank
-                elif countryElement.tag == 'timezones' and len(countryElement):
-                    for timezoneTree in countryElement:
+                elif territoryElement.tag == 'timezones' and len(territoryElement):
+                    for timezoneTree in territoryElement:
                         if timezoneTree.tag == 'timezone' and len(timezoneTree):
                             timezoneId = None
                             rank  = 0
@@ -126,8 +126,8 @@ def read_countries_file(file):
                                     rank = int(timezoneElement.text)
                             if timezoneId != None:
                                 timezones[timezoneId] = rank
-            if countryId != None:
-                countries[countryId] = country(
+            if territoryId != None:
+                territories[territoryId] = territory(
                     names = names,
                     locales = locales,
                     languages = languages,
@@ -148,7 +148,7 @@ def read_languages_file(file):
             iso639_2_b = None
             names = {}
             locales = {}
-            countries = {}
+            territories = {}
             keyboards = {}
             timezones = {}
             for languageElement in  languageTree:
@@ -184,18 +184,18 @@ def read_languages_file(file):
                                     rank = int(localeElement.text)
                             if localeId != None:
                                 locales[localeId] = rank
-                elif languageElement.tag  == 'countries' and len(languageElement):
-                    for  countryTree in languageElement:
-                        if countryTree.tag == 'country' and len(countryTree):
-                            countryId = None
+                elif languageElement.tag  == 'territories' and len(languageElement):
+                    for  territoryTree in languageElement:
+                        if territoryTree.tag == 'territory' and len(territoryTree):
+                            territoryId = None
                             rank = int(0)
-                            for countryElement in countryTree:
-                                if countryElement.tag == 'countryId':
-                                    countryId = countryElement.text
-                                elif countryElement.tag == 'rank':
-                                    rank = int(countryElement.text)
-                            if countryId != None:
-                                countries[countryId] = rank
+                            for territoryElement in territoryTree:
+                                if territoryElement.tag == 'territoryId':
+                                    territoryId = territoryElement.text
+                                elif territoryElement.tag == 'rank':
+                                    rank = int(territoryElement.text)
+                            if territoryId != None:
+                                territories[territoryId] = rank
                 elif languageElement.tag == 'keyboards' and len(languageElement):
                     for keyboardTree in languageElement:
                         if keyboardTree.tag == 'keyboard' and len(keyboardTree):
@@ -227,7 +227,7 @@ def read_languages_file(file):
                     iso639_2_b = iso639_2_b,
                     names = names,
                     locales = locales,
-                    countries = countries,
+                    territories = territories,
                     keyboards = keyboards,
                     timezones = timezones)
     return
@@ -244,7 +244,7 @@ def read_keyboards_file(file):
             ascii = True
             comment = None
             languages = {}
-            countries = {}
+            territories = {}
             for keyboardElement in keyboardTree:
                 if keyboardElement.tag == 'keyboardId':
                     keyboardId = keyboardElement.text
@@ -266,33 +266,33 @@ def read_keyboards_file(file):
                                     rank = int(languageElement.text)
                             if languageId != None:
                                 languages[languageId] = rank
-                elif keyboardElement.tag  == 'countries' and len(keyboardElement):
-                    for countryTree in keyboardElement:
-                        if countryTree.tag == 'country' and len(countryTree):
+                elif keyboardElement.tag  == 'territories' and len(keyboardElement):
+                    for territoryTree in keyboardElement:
+                        if territoryTree.tag == 'territory' and len(territoryTree):
                             languageId = None
                             rank = int(0)
-                            for countryElement in countryTree:
-                                if countryElement.tag == 'countryId':
-                                    countryId = countryElement.text
-                                elif countryElement.tag == 'rank':
-                                    rank = int(countryElement.text)
-                            if countryId != None:
-                                countries[countryId] = rank
+                            for territoryElement in territoryTree:
+                                if territoryElement.tag == 'territoryId':
+                                    territoryId = territoryElement.text
+                                elif territoryElement.tag == 'rank':
+                                    rank = int(territoryElement.text)
+                            if territoryId != None:
+                                territories[territoryId] = rank
             if keyboardId != None:
                 keyboards[keyboardId] = keyboard(
                     description = description,
                     ascii = ascii,
                     comment = comment,
                     languages = languages,
-                    countries = countries)
+                    territories = territories)
 
-def write_countries_file(file):
+def write_territories_file(file):
     file.write('<?xml version="1.0" encoding="UTF-8"?>\n')
-    file.write('<countries>\n')
-    for countryId in sorted(countries):
-        file.write('  <country>\n')
-        file.write('    <countryId>'+countryId+'</countryId>\n')
-        names = countries[countryId].names
+    file.write('<territories>\n')
+    for territoryId in sorted(territories):
+        file.write('  <territory>\n')
+        file.write('    <territoryId>'+territoryId+'</territoryId>\n')
+        names = territories[territoryId].names
         file.write('    <names>\n')
         for name in sorted(names):
             file.write(
@@ -301,7 +301,7 @@ def write_countries_file(file):
                 +'<name>'+names[name].encode('UTF-8')+'</name>'
                 +'</name>\n')
         file.write('    </names>\n')
-        locales = countries[countryId].locales
+        locales = territories[territoryId].locales
         file.write('    <locales>\n')
         for localeId, rank in sorted(locales.items(), key=lambda x: (-1*x[1],x[0])):
             file.write(
@@ -310,7 +310,7 @@ def write_countries_file(file):
                 +'<rank>'+str(rank)+'</rank>'
                 +'</locale>\n')
         file.write('    </locales>\n')
-        languages = countries[countryId].languages
+        languages = territories[territoryId].languages
         file.write('    <languages>\n')
         for languageId, rank in sorted(languages.items(), key=lambda x: (-1*x[1],x[0])):
             file.write(
@@ -319,7 +319,7 @@ def write_countries_file(file):
                 +'<rank>'+str(rank)+'</rank>'
                 +'</language>\n')
         file.write('    </languages>\n')
-        keyboards = countries[countryId].keyboards
+        keyboards = territories[territoryId].keyboards
         file.write('    <keyboards>\n')
         for keyboardId, rank in sorted(keyboards.items(), key=lambda x: (-1*x[1],x[0])):
             file.write(
@@ -328,7 +328,7 @@ def write_countries_file(file):
                 +'<rank>'+str(rank)+'</rank>'
                 +'</keyboard>\n')
         file.write('    </keyboards>\n')
-        timezones = countries[countryId].timezones
+        timezones = territories[territoryId].timezones
         file.write('    <timezones>\n')
         for timezoneId, rank in sorted(timezones.items(), key=lambda x: (-1*x[1],x[0])):
             file.write(
@@ -337,8 +337,8 @@ def write_countries_file(file):
                 +'<rank>'+str(rank)+'</rank>'
                 +'</timezone>\n')
         file.write('    </timezones>\n')
-        file.write('  </country>\n')
-    file.write('</countries>\n')
+        file.write('  </territory>\n')
+    file.write('</territories>\n')
     return
 
 def write_languages_file(file):
@@ -368,15 +368,15 @@ def write_languages_file(file):
                 +'<rank>'+str(rank)+'</rank>'
                 +'</locale>\n')
         file.write('    </locales>\n')
-        countries = languages[languageId].countries
-        file.write('    <countries>\n')
-        for countryId, rank in sorted(countries.items(), key=lambda x: (-1*x[1],x[0])):
+        territories = languages[languageId].territories
+        file.write('    <territories>\n')
+        for territoryId, rank in sorted(territories.items(), key=lambda x: (-1*x[1],x[0])):
             file.write(
-                '      <country>'
-                +'<countryId>'+countryId+'</countryId>'
+                '      <territory>'
+                +'<territoryId>'+territoryId+'</territoryId>'
                 +'<rank>'+str(rank)+'</rank>'
-                +'</country>\n')
-        file.write('    </countries>\n')
+                +'</territory>\n')
+        file.write('    </territories>\n')
         keyboards = languages[languageId].keyboards
         file.write('    <keyboards>\n')
         for keyboardId, rank in sorted(keyboards.items(), key=lambda x: (-1*x[1],x[0])):
@@ -418,23 +418,23 @@ def write_keyboards_file(file):
                 +'<rank>'+str(rank)+'</rank>'
                 +'</language>\n')
         file.write('    </languages>\n')
-        countries = keyboards[keyboardId].countries
-        file.write('    <countries>\n')
-        for countryId, rank in sorted(countries.items(), key=lambda x: (-1*x[1],x[0])):
+        territories = keyboards[keyboardId].territories
+        file.write('    <territories>\n')
+        for territoryId, rank in sorted(territories.items(), key=lambda x: (-1*x[1],x[0])):
             file.write(
-                '      <country>'
-                +'<countryId>'+countryId+'</countryId>'
+                '      <territory>'
+                +'<territoryId>'+territoryId+'</territoryId>'
                 +'<rank>'+str(rank)+'</rank>'
-                +'</country>\n')
-        file.write('    </countries>\n')
+                +'</territory>\n')
+        file.write('    </territories>\n')
         file.write('  </keyboard>\n')
     file.write('</keyboards>\n')
     return
 
-def read_files(countriesfilename, languagesfilename, keyboardsfilename):
-    with open(countriesfilename, 'r') as countriesfile:
-        logging.info("reading countries file=%s" %countriesfile)
-        read_countries_file(countriesfile)
+def read_files(territoriesfilename, languagesfilename, keyboardsfilename):
+    with open(territoriesfilename, 'r') as territoriesfile:
+        logging.info("reading territories file=%s" %territoriesfile)
+        read_territories_file(territoriesfile)
     with open(languagesfilename, 'r') as languagesfile:
         logging.info("reading languages file=%s" %languagesfile)
         read_languages_file(languagesfile)
@@ -442,10 +442,10 @@ def read_files(countriesfilename, languagesfilename, keyboardsfilename):
         logging.info("reading keyboards file=%s" %keyboardsfile)
         read_keyboards_file(keyboardsfile)
 
-def write_files(countriesfilename, languagesfilename, keyboardsfilename):
-    with open(countriesfilename, 'w') as countriesfile:
-        logging.info("writing countries file=%s" %countriesfile)
-        write_countries_file(countriesfile)
+def write_files(territoriesfilename, languagesfilename, keyboardsfilename):
+    with open(territoriesfilename, 'w') as territoriesfile:
+        logging.info("writing territories file=%s" %territoriesfile)
+        write_territories_file(territoriesfile)
     with open(languagesfilename, 'w') as languagesfile:
         logging.info("writing languages file=%s" %languagesfile)
         write_languages_file(languagesfile)
@@ -472,45 +472,45 @@ def make_ranked_list_concise(ranked_list, cut_off_factor=1000):
             break
     return ranked_list
 
-def country_name(countryId = None, languageIdQuery = None, scriptIdQuery = None, countryIdQuery = None):
-    if countryId in countries:
-        if languageIdQuery and scriptIdQuery and countryIdQuery:
-            icuLocaleIdQuery = languageIdQuery+'_'+scriptIdQuery+'_'+countryIdQuery
-            if icuLocaleIdQuery in countries[countryId].names:
-                return countries[countryId].names[icuLocaleIdQuery]
+def territory_name(territoryId = None, languageIdQuery = None, scriptIdQuery = None, territoryIdQuery = None):
+    if territoryId in territories:
+        if languageIdQuery and scriptIdQuery and territoryIdQuery:
+            icuLocaleIdQuery = languageIdQuery+'_'+scriptIdQuery+'_'+territoryIdQuery
+            if icuLocaleIdQuery in territories[territoryId].names:
+                return territories[territoryId].names[icuLocaleIdQuery]
         if languageIdQuery and scriptIdQuery:
             icuLocaleIdQuery = languageIdQuery+'_'+scriptIdQuery
-            if icuLocaleIdQuery in countries[countryId].names:
-                return countries[countryId].names[icuLocaleIdQuery]
-        if languageIdQuery and countryIdQuery:
-            icuLocaleIdQuery = languageIdQuery+'_'+countryIdQuery
-            if icuLocaleIdQuery in countries[countryId].names:
-                return countries[countryId].names[icuLocaleIdQuery]
+            if icuLocaleIdQuery in territories[territoryId].names:
+                return territories[territoryId].names[icuLocaleIdQuery]
+        if languageIdQuery and territoryIdQuery:
+            icuLocaleIdQuery = languageIdQuery+'_'+territoryIdQuery
+            if icuLocaleIdQuery in territories[territoryId].names:
+                return territories[territoryId].names[icuLocaleIdQuery]
         if languageIdQuery:
             icuLocaleIdQuery = languageIdQuery
-            if icuLocaleIdQuery in countries[countryId].names:
-                return countries[countryId].names[icuLocaleIdQuery]
+            if icuLocaleIdQuery in territories[territoryId].names:
+                return territories[territoryId].names[icuLocaleIdQuery]
     return ''
 
-def language_name(languageId = None, scriptId = None, countryId = None, languageIdQuery = None, scriptIdQuery = None, countryIdQuery = None):
+def language_name(languageId = None, scriptId = None, territoryId = None, languageIdQuery = None, scriptIdQuery = None, territoryIdQuery = None):
     if not languageIdQuery:
         # get the endonym
         languageIdQuery = languageId
         scriptIdQuery = scriptId
-        countryIdQuery = countryId
-    if languageId and scriptId and countryId:
-        icuLocaleId = languageId+'_'+scriptId+'_'+countryId
+        territoryIdQuery = territoryId
+    if languageId and scriptId and territoryId:
+        icuLocaleId = languageId+'_'+scriptId+'_'+territoryId
         if icuLocaleId in languages:
-            if languageIdQuery and scriptIdQuery and countryIdQuery:
-                icuLocaleIdQuery = languageIdQuery+'_'+scriptIdQuery+'_'+countryIdQuery
+            if languageIdQuery and scriptIdQuery and territoryIdQuery:
+                icuLocaleIdQuery = languageIdQuery+'_'+scriptIdQuery+'_'+territoryIdQuery
                 if icuLocaleIdQuery in languages[icuLocaleId].names:
                     return languages[icuLocaleId].names[icuLocaleIdQuery]
             if languageIdQuery and scriptIdQuery:
                 icuLocaleIdQuery = languageIdQuery+'_'+scriptIdQuery
                 if icuLocaleIdQuery in languages[icuLocaleId].names:
                     return languages[icuLocaleId].names[icuLocaleIdQuery]
-            if  languageIdQuery and  countryIdQuery:
-                icuLocaleIdQuery = languageIdQuery+'_'+countryIdQuery
+            if  languageIdQuery and  territoryIdQuery:
+                icuLocaleIdQuery = languageIdQuery+'_'+territoryIdQuery
                 if icuLocaleIdQuery in languages[icuLocaleId].names:
                     return languages[icuLocaleId].names[icuLocaleIdQuery]
             if languageIdQuery:
@@ -520,35 +520,35 @@ def language_name(languageId = None, scriptId = None, countryId = None, language
     if languageId and scriptId:
         icuLocaleId = languageId+'_'+scriptId
         if icuLocaleId in languages:
-            if languageIdQuery and  scriptIdQuery and countryIdQuery:
-                icuLocaleIdQuery = languageIdQuery+'_'+scriptIdQuery+'_'+countryIdQuery
+            if languageIdQuery and  scriptIdQuery and territoryIdQuery:
+                icuLocaleIdQuery = languageIdQuery+'_'+scriptIdQuery+'_'+territoryIdQuery
                 if icuLocaleIdQuery in languages[icuLocaleId].names:
                     return languages[icuLocaleId].names[icuLocaleIdQuery]
             if languageIdQuery and  scriptIdQuery:
                 icuLocaleIdQuery = languageIdQuery+'_'+scriptIdQuery
                 if icuLocaleIdQuery in languages[icuLocaleId].names:
                     return languages[icuLocaleId].names[icuLocaleIdQuery]
-            if  languageIdQuery and  countryIdQuery:
-                icuLocaleIdQuery = languageIdQuery+'_'+countryIdQuery
+            if  languageIdQuery and  territoryIdQuery:
+                icuLocaleIdQuery = languageIdQuery+'_'+territoryIdQuery
                 if icuLocaleIdQuery in languages[icuLocaleId].names:
                     return languages[icuLocaleId].names[icuLocaleIdQuery]
             if languageIdQuery:
                 icuLocaleIdQuery = languageIdQuery
                 if icuLocaleIdQuery in languages[icuLocaleId].names:
                     return languages[icuLocaleId].names[icuLocaleIdQuery]
-    if languageId and countryId:
-        icuLocaleId = languageId+'_'+countryId
+    if languageId and territoryId:
+        icuLocaleId = languageId+'_'+territoryId
         if icuLocaleId in languages:
-            if languageIdQuery and  scriptIdQuery and countryIdQuery:
-                icuLocaleIdQuery = languageIdQuery+'_'+scriptIdQuery+'_'+countryIdQuery
+            if languageIdQuery and  scriptIdQuery and territoryIdQuery:
+                icuLocaleIdQuery = languageIdQuery+'_'+scriptIdQuery+'_'+territoryIdQuery
                 if icuLocaleIdQuery in languages[icuLocaleId].names:
                     return languages[icuLocaleId].names[icuLocaleIdQuery]
             if languageIdQuery and  scriptIdQuery:
                 icuLocaleIdQuery = languageIdQuery+'_'+scriptIdQuery
                 if icuLocaleIdQuery in languages[icuLocaleId].names:
                     return languages[icuLocaleId].names[icuLocaleIdQuery]
-            if  languageIdQuery and  countryIdQuery:
-                icuLocaleIdQuery = languageIdQuery+'_'+countryIdQuery
+            if  languageIdQuery and  territoryIdQuery:
+                icuLocaleIdQuery = languageIdQuery+'_'+territoryIdQuery
                 if icuLocaleIdQuery in languages[icuLocaleId].names:
                     return languages[icuLocaleId].names[icuLocaleIdQuery]
             if languageIdQuery:
@@ -556,25 +556,25 @@ def language_name(languageId = None, scriptId = None, countryId = None, language
                 if icuLocaleIdQuery in languages[icuLocaleId].names:
                     return languages[icuLocaleId].names[icuLocaleIdQuery]
         elif language_name(languageId=languageId):
-            cname = country_name(countryId=countryId,
+            cname = territory_name(territoryId=territoryId,
                                  languageIdQuery=languageIdQuery,
                                  scriptIdQuery=scriptIdQuery,
-                                 countryIdQuery=countryIdQuery)
+                                 territoryIdQuery=territoryIdQuery)
             if cname:
                 return language_name(languageId=languageId)+' ('+cname+')'
     if languageId:
         icuLocaleId = languageId
         if icuLocaleId in languages:
-            if languageIdQuery and  scriptIdQuery and countryIdQuery:
-                icuLocaleIdQuery = languageIdQuery+'_'+scriptIdQuery+'_'+countryIdQuery
+            if languageIdQuery and  scriptIdQuery and territoryIdQuery:
+                icuLocaleIdQuery = languageIdQuery+'_'+scriptIdQuery+'_'+territoryIdQuery
                 if icuLocaleIdQuery in languages[icuLocaleId].names:
                     return languages[icuLocaleId].names[icuLocaleIdQuery]
             if languageIdQuery and  scriptIdQuery:
                 icuLocaleIdQuery = languageIdQuery+'_'+scriptIdQuery
                 if icuLocaleIdQuery in languages[icuLocaleId].names:
                     return languages[icuLocaleId].names[icuLocaleIdQuery]
-            if  languageIdQuery and  countryIdQuery:
-                icuLocaleIdQuery = languageIdQuery+'_'+countryIdQuery
+            if  languageIdQuery and  territoryIdQuery:
+                icuLocaleIdQuery = languageIdQuery+'_'+territoryIdQuery
                 if icuLocaleIdQuery in languages[icuLocaleId].names:
                     return languages[icuLocaleId].names[icuLocaleIdQuery]
             if languageIdQuery:
@@ -585,17 +585,17 @@ def language_name(languageId = None, scriptId = None, countryId = None, language
 
 extra_bonus = 1000000
 
-def list_locales(concise=True, show_weights=False, languageId = None, scriptId = None, countryId = None):
+def list_locales(concise=True, show_weights=False, languageId = None, scriptId = None, territoryId = None):
     ranked_locales = {}
-    skipCountry = False
-    if languageId and scriptId and countryId and languageId+'_'+scriptId+'_'+countryId in languages:
-        languageId = languageId+'_'+scriptId+'_'+countryId
-        skipCountry = True
+    skipTerritory = False
+    if languageId and scriptId and territoryId and languageId+'_'+scriptId+'_'+territoryId in languages:
+        languageId = languageId+'_'+scriptId+'_'+territoryId
+        skipTerritory = True
     elif languageId and scriptId and languageId+'_'+scriptId in languages:
         languageId = languageId+'_'+scriptId
-    elif languageId and countryId and languageId+'_'+countryId in languages:
-        languageId = languageId+'_'+countryId
-        skipCountry = True
+    elif languageId and territoryId and languageId+'_'+territoryId in languages:
+        languageId = languageId+'_'+territoryId
+        skipTerritory = True
     language_bonus = 100
     if languageId in languages:
         for locale in languages[languageId].locales:
@@ -606,16 +606,16 @@ def list_locales(concise=True, show_weights=False, languageId = None, scriptId =
                     ranked_locales[locale] *= languages[languageId].locales[locale]
                     ranked_locales[locale] *= extra_bonus
                 ranked_locales[locale] *= language_bonus
-    country_bonus = 1
-    if countryId in countries and not skipCountry:
-        for locale in countries[countryId].locales:
-            if countries[countryId].locales[locale] != 0:
+    territory_bonus = 1
+    if territoryId in territories and not skipTerritory:
+        for locale in territories[territoryId].locales:
+            if territories[territoryId].locales[locale] != 0:
                 if locale not in ranked_locales:
-                    ranked_locales[locale] = countries[countryId].locales[locale]
+                    ranked_locales[locale] = territories[territoryId].locales[locale]
                 else:
-                    ranked_locales[locale] *= countries[countryId].locales[locale]
+                    ranked_locales[locale] *= territories[territoryId].locales[locale]
                     ranked_locales[locale] *= extra_bonus
-                ranked_locales[locale] *= country_bonus
+                ranked_locales[locale] *= territory_bonus
     ranked_list = dictionary_to_ranked_list(ranked_locales)
     if concise:
         ranked_list = make_ranked_list_concise(ranked_list)
@@ -624,17 +624,17 @@ def list_locales(concise=True, show_weights=False, languageId = None, scriptId =
     else:
         return ranked_list_to_list(ranked_list)
 
-def list_keyboards(concise=True, show_weights=False, languageId = None, scriptId = None, countryId = None):
+def list_keyboards(concise=True, show_weights=False, languageId = None, scriptId = None, territoryId = None):
     ranked_keyboards = {}
-    skipCountry = False
-    if languageId and scriptId and countryId and languageId+'_'+scriptId+'_'+countryId in languages:
-        languageId = languageId+'_'+scriptId+'_'+countryId
-        skipCountry = True
+    skipTerritory = False
+    if languageId and scriptId and territoryId and languageId+'_'+scriptId+'_'+territoryId in languages:
+        languageId = languageId+'_'+scriptId+'_'+territoryId
+        skipTerritory = True
     elif languageId and scriptId and languageId+'_'+scriptId in languages:
         languageId = languageId+'_'+scriptId
-    elif languageId and countryId and languageId+'_'+countryId in languages:
-        languageId = languageId+'_'+countryId
-        skipCountry = True
+    elif languageId and territoryId and languageId+'_'+territoryId in languages:
+        languageId = languageId+'_'+territoryId
+        skipTerritory = True
     language_bonus = 1
     if languageId in languages:
         for keyboard in languages[languageId].keyboards:
@@ -645,16 +645,16 @@ def list_keyboards(concise=True, show_weights=False, languageId = None, scriptId
                     ranked_keyboards[keyboard] *= languages[languageId].keyboards[keyboard]
                     ranked_keyboards[keyboard] *= extra_bonus
                 ranked_keyboards[keyboard] *= language_bonus
-    country_bonus = 1
-    if countryId in countries:
-        for keyboard in countries[countryId].keyboards:
-            if countries[countryId].keyboards[keyboard] != 0:
+    territory_bonus = 1
+    if territoryId in territories:
+        for keyboard in territories[territoryId].keyboards:
+            if territories[territoryId].keyboards[keyboard] != 0:
                 if keyboard not in ranked_keyboards:
-                    ranked_keyboards[keyboard] = countries[countryId].keyboards[keyboard]
+                    ranked_keyboards[keyboard] = territories[territoryId].keyboards[keyboard]
                 else:
-                    ranked_keyboards[keyboard] *= countries[countryId].keyboards[keyboard]
+                    ranked_keyboards[keyboard] *= territories[territoryId].keyboards[keyboard]
                     ranked_keyboards[keyboard] *= extra_bonus
-                ranked_keyboards[keyboard] *= country_bonus
+                ranked_keyboards[keyboard] *= territory_bonus
     ranked_list = dictionary_to_ranked_list(ranked_keyboards)
     if concise:
         ranked_list = make_ranked_list_concise(ranked_list)
@@ -663,33 +663,33 @@ def list_keyboards(concise=True, show_weights=False, languageId = None, scriptId
     else:
         return ranked_list_to_list(ranked_list)
 
-def test_language_country(show_weights=False, languageId=None, scriptId=None, countryId=None):
+def test_language_territory(show_weights=False, languageId=None, scriptId=None, territoryId=None):
     print(str(languageId)+": "
           +repr(list_locales(show_weights=show_weights,languageId=languageId))
           +'\n'
-          +str(countryId)+": "
-          +repr(list_locales(show_weights=show_weights,countryId=countryId))
+          +str(territoryId)+": "
+          +repr(list_locales(show_weights=show_weights,territoryId=territoryId))
           +'\n'
           +" +: "
-          +repr(list_locales(show_weights=show_weights,languageId=languageId,scriptId=scriptId,countryId=countryId))
+          +repr(list_locales(show_weights=show_weights,languageId=languageId,scriptId=scriptId,territoryId=territoryId))
           +'\n'
           +str(languageId)+": "
           +repr(list_keyboards(show_weights=show_weights,languageId=languageId))
           +'\n'
-          +str(countryId)+": "
-          +repr(list_keyboards(show_weights=show_weights,countryId=countryId))
+          +str(territoryId)+": "
+          +repr(list_keyboards(show_weights=show_weights,territoryId=territoryId))
           +'\n'
           +" +: "
-          +repr(list_keyboards(show_weights=show_weights,languageId=languageId,scriptId=scriptId,countryId=countryId))
+          +repr(list_keyboards(show_weights=show_weights,languageId=languageId,scriptId=scriptId,territoryId=territoryId))
           )
     return
 
 def init(debug = False,
          logfilename = '/dev/null',
-         countriesfilename = None,
+         territoriesfilename = None,
          languagesfilename = None,
          keyboardsfilename = None):
-    if not countriesfilename \
+    if not territoriesfilename \
        or not languagesfilename \
        or not keyboardsfilename:
         return
@@ -701,11 +701,11 @@ def init(debug = False,
                         format="%(levelname)s: %(message)s",
                         level=log_level)
 
-    read_files(countriesfilename,
+    read_files(territoriesfilename,
                languagesfilename,
                keyboardsfilename)
 
-    write_files(countriesfilename+'.new',
+    write_files(territoriesfilename+'.new',
                 languagesfilename+'.new',
                 keyboardsfilename+'.new')
 
