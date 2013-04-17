@@ -705,7 +705,3 @@ def init(debug = False,
                languagesfilename,
                keyboardsfilename)
 
-    write_files(territoriesfilename+'.new',
-                languagesfilename+'.new',
-                keyboardsfilename+'.new')
-
