@@ -195,7 +195,7 @@
     <names>
       <name><languageId>de</languageId><name>Armenien</name></name>
       <name><languageId>en</languageId><name>Armenia</name></name>
-      <name><languageId>hy</languageId><name>Հայաստանի Հանրապետութիւն</name></name>
+      <name><languageId>hy</languageId><name>Հայաստան</name></name>
     </names>
     <locales>
       <locale><localeId>hy_AM.UTF-8</localeId><rank>1000</rank></locale>
@@ -383,7 +383,7 @@
   <territory>
     <territoryId>BD</territoryId>
     <names>
-      <name><languageId>de</languageId><name>Bangladesh</name></name>
+      <name><languageId>de</languageId><name>Bangladesch</name></name>
       <name><languageId>en</languageId><name>Bangladesh</name></name>
     </names>
     <locales>
@@ -750,8 +750,8 @@
   <territory>
     <territoryId>CU</territoryId>
     <names>
-      <name><languageId>de</languageId><name>Cuba</name></name>
-      <name><languageId>en</languageId><name>Kuba</name></name>
+      <name><languageId>de</languageId><name>Kuba</name></name>
+      <name><languageId>en</languageId><name>Cuba</name></name>
       <name><languageId>es</languageId><name>Cuba</name></name>
     </names>
     <locales>
@@ -790,7 +790,7 @@
   <territory>
     <territoryId>CZ</territoryId>
     <names>
-      <name><languageId>cs</languageId><name>Tjekkiet</name></name>
+      <name><languageId>cs</languageId><name>Česká republika</name></name>
       <name><languageId>de</languageId><name>Tschechische Republik</name></name>
       <name><languageId>en</languageId><name>Czech Republic</name></name>
     </names>
@@ -882,8 +882,8 @@
   <territory>
     <territoryId>DO</territoryId>
     <names>
-      <name><languageId>de</languageId><name>Dominican Republic</name></name>
-      <name><languageId>en</languageId><name>Dominikanische Republik</name></name>
+      <name><languageId>de</languageId><name>Dominikanische Republik</name></name>
+      <name><languageId>en</languageId><name>Dominican Republic</name></name>
       <name><languageId>es</languageId><name>República Dominicana</name></name>
     </names>
     <locales>
@@ -1137,7 +1137,7 @@
   <territory>
     <territoryId>GB</territoryId>
     <names>
-      <name><languageId>cy</languageId><name>Prydain Fawr</name></name>
+      <name><languageId>cy</languageId><name>y Deyrnas Unedig</name></name>
       <name><languageId>de</languageId><name>Vereinigtes Königreich</name></name>
       <name><languageId>en</languageId><name>United Kingdom</name></name>
     </names>
@@ -1244,8 +1244,8 @@
   <territory>
     <territoryId>HK</territoryId>
     <names>
-      <name><languageId>de</languageId><name>Hong Kong</name></name>
-      <name><languageId>en</languageId><name>Hong Kong</name></name>
+      <name><languageId>de</languageId><name>Sonderverwaltungszone Hongkong</name></name>
+      <name><languageId>en</languageId><name>Hong Kong SAR China</name></name>
       <name><languageId>zh</languageId><name>中国香港特别行政区</name></name>
       <name><languageId>zh_Hant</languageId><name>中華人民共和國香港特別行政區</name></name>
     </names>
@@ -1919,8 +1919,8 @@
   <territory>
     <territoryId>MK</territoryId>
     <names>
-      <name><languageId>de</languageId><name>Mazedonien</name></name>
-      <name><languageId>en</languageId><name>Macedonia</name></name>
+      <name><languageId>de</languageId><name>Mazedonien [EJR]</name></name>
+      <name><languageId>en</languageId><name>Macedonia [FYROM]</name></name>
       <name><languageId>mk</languageId><name>Македонија</name></name>
     </names>
     <locales>
@@ -2477,7 +2477,7 @@
   <territory>
     <territoryId>RU</territoryId>
     <names>
-      <name><languageId>de</languageId><name>Russland</name></name>
+      <name><languageId>de</languageId><name>Russische Föderation</name></name>
       <name><languageId>en</languageId><name>Russia</name></name>
     </names>
     <locales>
@@ -2638,7 +2638,7 @@
     <names>
       <name><languageId>de</languageId><name>Slowakei</name></name>
       <name><languageId>en</languageId><name>Slovakia</name></name>
-      <name><languageId>sk</languageId><name>Slovenská republika</name></name>
+      <name><languageId>sk</languageId><name>Slovensko</name></name>
     </names>
     <locales>
       <locale><localeId>sk_SK.UTF-8</localeId><rank>1000</rank></locale>
@@ -3035,9 +3035,9 @@
   <territory>
     <territoryId>VN</territoryId>
     <names>
-      <name><languageId>de</languageId><name>Việt Nam</name></name>
+      <name><languageId>de</languageId><name>Vietnam</name></name>
       <name><languageId>en</languageId><name>Vietnam</name></name>
-      <name><languageId>vi</languageId><name>Vietnam</name></name>
+      <name><languageId>vi</languageId><name>Việt Nam</name></name>
     </names>
     <locales>
       <locale><localeId>vi_VN.UTF-8</localeId><rank>1000</rank></locale>
@@ -3074,7 +3074,7 @@
   <territory>
     <territoryId>ZA</territoryId>
     <names>
-      <name><languageId>de</languageId><name>Südafrica</name></name>
+      <name><languageId>de</languageId><name>Südafrika</name></name>
       <name><languageId>en</languageId><name>South Africa</name></name>
     </names>
     <locales>
