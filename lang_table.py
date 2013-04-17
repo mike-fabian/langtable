@@ -303,38 +303,38 @@ def write_countries_file(file):
         file.write('    </names>\n')
         locales = countries[countryId].locales
         file.write('    <locales>\n')
-        for locale in sorted(locales, key=locales.get, reverse=True):
+        for localeId, rank in sorted(locales.items(), key=lambda x: (-1*x[1],x[0])):
             file.write(
                 '      <locale>'
-                +'<localeId>'+locale+'</localeId>'
-                +'<rank>'+str(locales[locale])+'</rank>'
+                +'<localeId>'+localeId+'</localeId>'
+                +'<rank>'+str(rank)+'</rank>'
                 +'</locale>\n')
         file.write('    </locales>\n')
         languages = countries[countryId].languages
         file.write('    <languages>\n')
-        for language in sorted(languages, key=languages.get, reverse=True):
+        for languageId, rank in sorted(languages.items(), key=lambda x: (-1*x[1],x[0])):
             file.write(
                 '      <language>'
-                +'<languageId>'+language+'</languageId>'
-                +'<rank>'+str(languages[language])+'</rank>'
+                +'<languageId>'+languageId+'</languageId>'
+                +'<rank>'+str(rank)+'</rank>'
                 +'</language>\n')
         file.write('    </languages>\n')
         keyboards = countries[countryId].keyboards
         file.write('    <keyboards>\n')
-        for keyboard in sorted(keyboards, key=keyboards.get, reverse=True):
+        for keyboardId, rank in sorted(keyboards.items(), key=lambda x: (-1*x[1],x[0])):
             file.write(
                 '      <keyboard>'
-                +'<keyboardId>'+keyboard+'</keyboardId>'
-                +'<rank>'+str(keyboards[keyboard])+'</rank>'
+                +'<keyboardId>'+keyboardId+'</keyboardId>'
+                +'<rank>'+str(rank)+'</rank>'
                 +'</keyboard>\n')
         file.write('    </keyboards>\n')
         timezones = countries[countryId].timezones
         file.write('    <timezones>\n')
-        for timezone in sorted(timezones, key=timezones.get, reverse=True):
+        for timezoneId, rank in sorted(timezones.items(), key=lambda x: (-1*x[1],x[0])):
             file.write(
                 '      <timezone>'
-                +'<timezoneId>'+timezone+'</timezoneId>'
-                +'<rank>'+str(timezones[timezone])+'</rank>'
+                +'<timezoneId>'+timezoneId+'</timezoneId>'
+                +'<rank>'+str(rank)+'</rank>'
                 +'</timezone>\n')
         file.write('    </timezones>\n')
         file.write('  </country>\n')
@@ -361,38 +361,38 @@ def write_languages_file(file):
         file.write('    </names>\n')
         locales = languages[languageId].locales
         file.write('    <locales>\n')
-        for locale in sorted(locales, key=locales.get, reverse=True):
+        for localeId, rank in sorted(locales.items(), key=lambda x: (-1*x[1],x[0])):
             file.write(
                 '      <locale>'
-                +'<localeId>'+locale+'</localeId>'
-                +'<rank>'+str(locales[locale])+'</rank>'
+                +'<localeId>'+localeId+'</localeId>'
+                +'<rank>'+str(rank)+'</rank>'
                 +'</locale>\n')
         file.write('    </locales>\n')
         countries = languages[languageId].countries
         file.write('    <countries>\n')
-        for country in sorted(countries, key=countries.get, reverse=True):
+        for countryId, rank in sorted(countries.items(), key=lambda x: (-1*x[1],x[0])):
             file.write(
                 '      <country>'
-                +'<countryId>'+country+'</countryId>'
-                +'<rank>'+str(countries[country])+'</rank>'
+                +'<countryId>'+countryId+'</countryId>'
+                +'<rank>'+str(rank)+'</rank>'
                 +'</country>\n')
         file.write('    </countries>\n')
         keyboards = languages[languageId].keyboards
         file.write('    <keyboards>\n')
-        for keyboard in sorted(keyboards, key=keyboards.get, reverse=True):
+        for keyboardId, rank in sorted(keyboards.items(), key=lambda x: (-1*x[1],x[0])):
             file.write(
                 '      <keyboard>'
-                +'<keyboardId>'+keyboard+'</keyboardId>'
-                +'<rank>'+str(keyboards[keyboard])+'</rank>'
+                +'<keyboardId>'+keyboardId+'</keyboardId>'
+                +'<rank>'+str(rank)+'</rank>'
                 +'</keyboard>\n')
         file.write('    </keyboards>\n')
         timezones = languages[languageId].timezones
         file.write('    <timezones>\n')
-        for timezone in sorted(timezones, key=timezones.get, reverse=True):
+        for timezoneId, rank in sorted(timezones.items(), key=lambda x: (-1*x[1],x[0])):
             file.write(
                 '      <timezone>'
-                +'<timezoneId>'+timezone+'</timezoneId>'
-                +'<rank>'+str(timezones[timezone])+'</rank>'
+                +'<timezoneId>'+timezoneId+'</timezoneId>'
+                +'<rank>'+str(rank)+'</rank>'
                 +'</timezone>\n')
         file.write('    </timezones>\n')
         file.write('  </language>\n')
@@ -411,20 +411,20 @@ def write_keyboards_file(file):
             file.write('    <comment>'+keyboards[keyboardId].comment.encode('UTF-8')+'</comment>\n')
         languages = keyboards[keyboardId].languages
         file.write('    <languages>\n')
-        for language in sorted(languages, key=languages.get, reverse=True):
+        for languageId, rank in sorted(languages.items(), key=lambda x: (-1*x[1],x[0])):
             file.write(
                 '      <language>'
-                +'<languageId>'+language+'</languageId>'
-                +'<rank>'+str(languages[language])+'</rank>'
+                +'<languageId>'+languageId+'</languageId>'
+                +'<rank>'+str(rank)+'</rank>'
                 +'</language>\n')
         file.write('    </languages>\n')
         countries = keyboards[keyboardId].countries
         file.write('    <countries>\n')
-        for country in sorted(countries, key=countries.get, reverse=True):
+        for countryId, rank in sorted(countries.items(), key=lambda x: (-1*x[1],x[0])):
             file.write(
                 '      <country>'
-                +'<countryId>'+country+'</countryId>'
-                +'<rank>'+str(countries[country])+'</rank>'
+                +'<countryId>'+countryId+'</countryId>'
+                +'<rank>'+str(rank)+'</rank>'
                 +'</country>\n')
         file.write('    </countries>\n')
         file.write('  </keyboard>\n')

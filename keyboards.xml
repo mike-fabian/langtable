@@ -229,10 +229,10 @@
     </languages>
     <countries>
       <country><countryId>CN</countryId><rank>200</rank></country>
-      <country><countryId>TW</countryId><rank>200</rank></country>
       <country><countryId>HK</countryId><rank>200</rank></country>
       <country><countryId>MO</countryId><rank>200</rank></country>
       <country><countryId>SG</countryId><rank>200</rank></country>
+      <country><countryId>TW</countryId><rank>200</rank></country>
     </countries>
   </keyboard>
   <keyboard>
@@ -646,27 +646,27 @@
       <language><languageId>es</languageId><rank>1000</rank></language>
     </languages>
     <countries>
-      <country><countryId>EC</countryId><rank>1000</rank></country>
-      <country><countryId>UY</countryId><rank>1000</rank></country>
-      <country><countryId>PE</countryId><rank>1000</rank></country>
-      <country><countryId>NI</countryId><rank>1000</rank></country>
-      <country><countryId>HT</countryId><rank>1000</rank></country>
-      <country><countryId>GT</countryId><rank>1000</rank></country>
-      <country><countryId>PA</countryId><rank>1000</rank></country>
-      <country><countryId>US</countryId><rank>1000</rank></country>
-      <country><countryId>HN</countryId><rank>1000</rank></country>
-      <country><countryId>SV</countryId><rank>1000</rank></country>
-      <country><countryId>VE</countryId><rank>1000</rank></country>
-      <country><countryId>CU</countryId><rank>1000</rank></country>
-      <country><countryId>PY</countryId><rank>1000</rank></country>
-      <country><countryId>PR</countryId><rank>1000</rank></country>
-      <country><countryId>CR</countryId><rank>1000</rank></country>
-      <country><countryId>DO</countryId><rank>1000</rank></country>
-      <country><countryId>MX</countryId><rank>1000</rank></country>
-      <country><countryId>CO</countryId><rank>1000</rank></country>
       <country><countryId>AR</countryId><rank>1000</rank></country>
       <country><countryId>BO</countryId><rank>1000</rank></country>
       <country><countryId>CL</countryId><rank>1000</rank></country>
+      <country><countryId>CO</countryId><rank>1000</rank></country>
+      <country><countryId>CR</countryId><rank>1000</rank></country>
+      <country><countryId>CU</countryId><rank>1000</rank></country>
+      <country><countryId>DO</countryId><rank>1000</rank></country>
+      <country><countryId>EC</countryId><rank>1000</rank></country>
+      <country><countryId>GT</countryId><rank>1000</rank></country>
+      <country><countryId>HN</countryId><rank>1000</rank></country>
+      <country><countryId>HT</countryId><rank>1000</rank></country>
+      <country><countryId>MX</countryId><rank>1000</rank></country>
+      <country><countryId>NI</countryId><rank>1000</rank></country>
+      <country><countryId>PA</countryId><rank>1000</rank></country>
+      <country><countryId>PE</countryId><rank>1000</rank></country>
+      <country><countryId>PR</countryId><rank>1000</rank></country>
+      <country><countryId>PY</countryId><rank>1000</rank></country>
+      <country><countryId>SV</countryId><rank>1000</rank></country>
+      <country><countryId>US</countryId><rank>1000</rank></country>
+      <country><countryId>UY</countryId><rank>1000</rank></country>
+      <country><countryId>VE</countryId><rank>1000</rank></country>
     </countries>
   </keyboard>
   <keyboard>
@@ -939,9 +939,9 @@
       <country><countryId>BY</countryId><rank>100</rank></country>
       <country><countryId>UA</countryId><rank>100</rank></country>
       <country><countryId>KZ</countryId><rank>10</rank></country>
+      <country><countryId>ET</countryId><rank>0</rank></country>
       <country><countryId>LT</countryId><rank>0</rank></country>
       <country><countryId>LV</countryId><rank>0</rank></country>
-      <country><countryId>ET</countryId><rank>0</rank></country>
     </countries>
   </keyboard>
   <keyboard>
@@ -1151,9 +1151,11 @@
     </languages>
     <countries>
       <country><countryId>AU</countryId><rank>1000</rank></country>
+      <country><countryId>CA</countryId><rank>1000</rank></country>
+      <country><countryId>NZ</countryId><rank>1000</rank></country>
+      <country><countryId>US</countryId><rank>1000</rank></country>
       <country><countryId>BD</countryId><rank>100</rank></country>
       <country><countryId>BW</countryId><rank>100</rank></country>
-      <country><countryId>CA</countryId><rank>1000</rank></country>
       <country><countryId>CN</countryId><rank>100</rank></country>
       <country><countryId>DJ</countryId><rank>100</rank></country>
       <country><countryId>GL</countryId><rank>100</rank></country>
@@ -1162,13 +1164,11 @@
       <country><countryId>LK</countryId><rank>100</rank></country>
       <country><countryId>MG</countryId><rank>100</rank></country>
       <country><countryId>MY</countryId><rank>100</rank></country>
-      <country><countryId>NZ</countryId><rank>1000</rank></country>
       <country><countryId>PK</countryId><rank>100</rank></country>
       <country><countryId>RW</countryId><rank>100</rank></country>
       <country><countryId>SG</countryId><rank>100</rank></country>
       <country><countryId>SO</countryId><rank>100</rank></country>
       <country><countryId>UG</countryId><rank>100</rank></country>
-      <country><countryId>US</countryId><rank>1000</rank></country>
       <country><countryId>ZA</countryId><rank>100</rank></country>
       <country><countryId>ZM</countryId><rank>100</rank></country>
       <country><countryId>ZW</countryId><rank>100</rank></country>
