@@ -555,13 +555,17 @@ def language_name(languageId = None, scriptId = None, territoryId = None, langua
                 icuLocaleIdQuery = languageIdQuery
                 if icuLocaleIdQuery in languages[icuLocaleId].names:
                     return languages[icuLocaleId].names[icuLocaleIdQuery]
-        elif language_name(languageId=languageId):
+        else:
+            lname = language_name(languageId=languageId,
+                                  languageIdQuery=languageIdQuery,
+                                  scriptIdQuery=scriptIdQuery,
+                                  territoryIdQuery=territoryIdQuery)
             cname = territory_name(territoryId=territoryId,
                                  languageIdQuery=languageIdQuery,
                                  scriptIdQuery=scriptIdQuery,
                                  territoryIdQuery=territoryIdQuery)
-            if cname:
-                return language_name(languageId=languageId)+' ('+cname+')'
+            if lname and cname:
+                return lname + ' ('+cname+')'
     if languageId:
         icuLocaleId = languageId
         if icuLocaleId in languages:

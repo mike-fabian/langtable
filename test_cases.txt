@@ -271,7 +271,6 @@
 >>> print language_name(languageId="de", territoryId="JP").encode("UTF-8") # doctest: +NORMALIZE_WHITESPACE
     Deutsch (Japan)
 
-
 >>> print language_name(languageId="de", territoryId="BY").encode("UTF-8") # doctest: +NORMALIZE_WHITESPACE
     Deutsch (Belarus)
 
@@ -280,6 +279,24 @@
 
 >>> print language_name(languageId="de", scriptId="Latn", territoryId="DE").encode("UTF-8") # doctest: +NORMALIZE_WHITESPACE
     Deutsch (Deutschland)
+
+>>> print language_name(languageId="pt").encode("UTF-8") # doctest: +NORMALIZE_WHITESPACE
+    português
+
+>>> print language_name(languageId="pt", territoryId="PT").encode("UTF-8") # doctest: +NORMALIZE_WHITESPACE
+    português (Portugal)
+
+>>> print language_name(languageId="pt", territoryId="BR").encode("UTF-8") # doctest: +NORMALIZE_WHITESPACE
+    português (Brasil)
+
+>>> print language_name(languageId="pt", languageIdQuery="de").encode("UTF-8") # doctest: +NORMALIZE_WHITESPACE
+    Portugiesisch
+
+>>> print language_name(languageId="pt", territoryId="PT", languageIdQuery="de").encode("UTF-8") # doctest: +NORMALIZE_WHITESPACE
+    Portugiesisch (Portugal)
+
+>>> print language_name(languageId="pt", territoryId="BR", languageIdQuery="de").encode("UTF-8") # doctest: +NORMALIZE_WHITESPACE
+    Portugiesisch (Brasilien)
 
 >>> print language_name(languageId="zh").encode("UTF-8") # doctest: +NORMALIZE_WHITESPACE
     中文
