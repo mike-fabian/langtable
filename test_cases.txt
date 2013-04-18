@@ -334,6 +334,9 @@
 >>> print language_name(languageId="zh", territoryId="TW").encode("UTF-8") # doctest: +NORMALIZE_WHITESPACE
     繁體中文 (台灣)
 
+>>> print language_name(languageId="zh", territoryId="TW", languageIdQuery="en").encode("UTF-8") # doctest: +NORMALIZE_WHITESPACE
+    Traditional Chinese (Republic of China)
+
 >>> print language_name(languageId="zh", territoryId="TW", languageIdQuery="de").encode("UTF-8") # doctest: +NORMALIZE_WHITESPACE
     Traditionelles Chinesisch (Taiwan)
 
@@ -345,6 +348,12 @@
 
 >>> print language_name(languageId="zh", territoryId="TW", languageIdQuery="es", territoryIdQuery="ES").encode("UTF-8") # doctest: +NORMALIZE_WHITESPACE
     chino (Taiwán)
+
+>>> print language_name(languageId="zh", territoryId="TW", languageIdQuery="zh").encode("UTF-8") # doctest: +NORMALIZE_WHITESPACE
+    繁体中文 (台湾)
+
+>>> print language_name(languageId="zh", territoryId="TW", languageIdQuery="zh", territoryIdQuery="CN").encode("UTF-8") # doctest: +NORMALIZE_WHITESPACE
+    繁体中文 (中华民国)
 
 >>> print language_name(languageId="zh", territoryId="HK").encode("UTF-8") # doctest: +NORMALIZE_WHITESPACE
     繁體中文 (中華人民共和國香港特別行政區)

@@ -17885,11 +17885,16 @@
     <iso639-2-b>chi</iso639-2-b>
     <names>
       <name><languageId>de</languageId><name>Traditionelles Chinesisch (Taiwan)</name></name>
-      <name><languageId>en</languageId><name>Traditional Chinese (Taiwan)</name></name>
+      <name><languageId>en</languageId><name>Traditional Chinese (Republic of China)</name></name>
+      <name><languageId>zh</languageId><name>繁体中文 (台湾)</name></name>
+      <name><languageId>zh_CN</languageId><name>繁体中文 (中华民国)</name></name>
+      <name><languageId>zh_HK</languageId><name>繁體中文 (中華民國)</name></name>
+      <name><languageId>zh_MO</languageId><name>繁體中文 (中華民國)</name></name>
+      <name><languageId>zh_SG</languageId><name>繁体中文 (中华民国)</name></name>
       <name><languageId>zh_TW</languageId><name>繁體中文 (台灣)</name></name>
     </names>
     <locales>
-      <locale><localeId>zh_TW.UTF-8</localeId><rank>900</rank></locale>
+      <locale><localeId>zh_TW.UTF-8</localeId><rank>1000</rank></locale>
     </locales>
     <territories>
     </territories>
@@ -17897,7 +17902,7 @@
       <keyboard><keyboardId>cn</keyboardId><rank>1000</rank></keyboard>
     </keyboards>
     <timezones>
-      <timezone><timezoneId>Asia/Taipei</timezoneId><rank>20</rank></timezone>
+      <timezone><timezoneId>Asia/Taipei</timezoneId><rank>1000</rank></timezone>
     </timezones>
   </language>
   <language>
