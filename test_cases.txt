@@ -334,6 +334,18 @@
 >>> print language_name(languageId="zh", territoryId="TW").encode("UTF-8") # doctest: +NORMALIZE_WHITESPACE
     繁體中文 (台灣)
 
+>>> print language_name(languageId="zh", territoryId="TW", languageIdQuery="de").encode("UTF-8") # doctest: +NORMALIZE_WHITESPACE
+    Traditionelles Chinesisch (Taiwan)
+
+>>> print language_name(languageId="zh", territoryId="TW", languageIdQuery="de", territoryIdQuery="DE").encode("UTF-8") # doctest: +NORMALIZE_WHITESPACE
+    Traditionelles Chinesisch (Taiwan)
+
+>>> print language_name(languageId="zh", territoryId="TW", languageIdQuery="es").encode("UTF-8") # doctest: +NORMALIZE_WHITESPACE
+    chino (Taiwán)
+
+>>> print language_name(languageId="zh", territoryId="TW", languageIdQuery="es", territoryIdQuery="ES").encode("UTF-8") # doctest: +NORMALIZE_WHITESPACE
+    chino (Taiwán)
+
 >>> print language_name(languageId="zh", territoryId="HK").encode("UTF-8") # doctest: +NORMALIZE_WHITESPACE
     繁體中文 (中華人民共和國香港特別行政區)
 
