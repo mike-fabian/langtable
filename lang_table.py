@@ -24,15 +24,16 @@ languages = {}
 keyboards = {}
 
 class territory:
-    def __init__(self, names = None, locales=None, languages=None, keyboards=None, timezones=None):
+    def __init__(self, names = None, locales=None, languages=None, keyboards=None, consolefonts=None, timezones=None):
         self.names = names
         self.locales = locales
         self.languages = languages
         self.keyboards = keyboards
+        self.consolefonts = consolefonts
         self.timezones = timezones
 
 class language:
-    def __init__(self, iso639_1=None, iso639_2_t=None, iso639_2_b=None, names=None, locales=None, territories=None, keyboards=None, timezones=None):
+    def __init__(self, iso639_1=None, iso639_2_t=None, iso639_2_b=None, names=None, locales=None, territories=None, keyboards=None, consolefonts=None, timezones=None):
         self.iso639_1 = iso639_1
         self.iso639_2_t = iso639_2_t
         self.iso639_2_b = iso639_2_b
@@ -40,6 +41,7 @@ class language:
         self.locales = locales
         self.territories = territories
         self.keyboards = keyboards
+        self.consolefonts = consolefonts
         self.timezones = timezones
 
 class keyboard:
@@ -62,6 +64,7 @@ def read_territories_file(file):
             locales = {}
             languages = {}
             keyboards = {}
+            consolefonts = {}
             timezones = {}
             for territoryElement in territoryTree:
                 if territoryElement.tag == 'territoryId':
@@ -114,6 +117,18 @@ def read_territories_file(file):
                                     rank = int(keyboardElement.text)
                             if keyboardId != None:
                                 keyboards[keyboardId] = rank
+                elif territoryElement.tag == 'consolefonts' and len(territoryElement):
+                    for consolefontTree in territoryElement:
+                        if consolefontTree.tag == 'consolefont' and len(consolefontTree):
+                            consolefontId = None
+                            rank = int(0)
+                            for consolefontElement in consolefontTree:
+                                if consolefontElement.tag == 'consolefontId':
+                                    consolefontId = consolefontElement.text
+                                elif consolefontElement.tag == 'rank':
+                                    rank = int(consolefontElement.text)
+                            if consolefontId != None:
+                                consolefonts[consolefontId] = rank
                 elif territoryElement.tag == 'timezones' and len(territoryElement):
                     for timezoneTree in territoryElement:
                         if timezoneTree.tag == 'timezone' and len(timezoneTree):
@@ -132,6 +147,7 @@ def read_territories_file(file):
                     locales = locales,
                     languages = languages,
                     keyboards = keyboards,
+                    consolefonts = consolefonts,
                     timezones = timezones)
     return
 
@@ -150,6 +166,7 @@ def read_languages_file(file):
             locales = {}
             territories = {}
             keyboards = {}
+            consolefonts = {}
             timezones = {}
             for languageElement in  languageTree:
                 if  languageElement.tag == 'languageId':
@@ -208,6 +225,18 @@ def read_languages_file(file):
                                     rank = int(keyboardElement.text)
                             if keyboardId != None:
                                 keyboards[keyboardId] = rank
+                elif languageElement.tag == 'consolefonts' and len(languageElement):
+                    for consolefontTree in languageElement:
+                        if consolefontTree.tag == 'consolefont' and len(consolefontTree):
+                            consolefontId = None
+                            rank = int(0)
+                            for consolefontElement in consolefontTree:
+                                if consolefontElement.tag == 'consolefontId':
+                                    consolefontId = consolefontElement.text
+                                elif consolefontElement.tag == 'rank':
+                                    rank = int(consolefontElement.text)
+                            if consolefontId != None:
+                                consolefonts[consolefontId] = rank
                 elif languageElement.tag == 'timezones' and len(languageElement):
                     for timezoneTree in languageElement:
                         if timezoneTree.tag == 'timezone' and len(timezoneTree):
@@ -229,6 +258,7 @@ def read_languages_file(file):
                     locales = locales,
                     territories = territories,
                     keyboards = keyboards,
+                    consolefonts = consolefonts,
                     timezones = timezones)
     return
 
@@ -328,6 +358,15 @@ def write_territories_file(file):
                 +'<rank>'+str(rank)+'</rank>'
                 +'</keyboard>\n')
         file.write('    </keyboards>\n')
+        consolefonts = territories[territoryId].consolefonts
+        file.write('    <consolefonts>\n')
+        for consolefontId, rank in sorted(consolefonts.items(), key=lambda x: (-1*x[1],x[0])):
+            file.write(
+                '      <consolefont>'
+                +'<consolefontId>'+consolefontId+'</consolefontId>'
+                +'<rank>'+str(rank)+'</rank>'
+                +'</consolefont>\n')
+        file.write('    </consolefonts>\n')
         timezones = territories[territoryId].timezones
         file.write('    <timezones>\n')
         for timezoneId, rank in sorted(timezones.items(), key=lambda x: (-1*x[1],x[0])):
@@ -386,6 +425,15 @@ def write_languages_file(file):
                 +'<rank>'+str(rank)+'</rank>'
                 +'</keyboard>\n')
         file.write('    </keyboards>\n')
+        consolefonts = languages[languageId].consolefonts
+        file.write('    <consolefonts>\n')
+        for consolefontId, rank in sorted(consolefonts.items(), key=lambda x: (-1*x[1],x[0])):
+            file.write(
+                '      <consolefont>'
+                +'<consolefontId>'+consolefontId+'</consolefontId>'
+                +'<rank>'+str(rank)+'</rank>'
+                +'</consolefont>\n')
+        file.write('    </consolefonts>\n')
         timezones = languages[languageId].timezones
         file.write('    <timezones>\n')
         for timezoneId, rank in sorted(timezones.items(), key=lambda x: (-1*x[1],x[0])):
@@ -659,6 +707,45 @@ def list_keyboards(concise=True, show_weights=False, languageId = None, scriptId
                     ranked_keyboards[keyboard] *= extra_bonus
                 ranked_keyboards[keyboard] *= territory_bonus
     ranked_list = dictionary_to_ranked_list(ranked_keyboards)
+    if concise:
+        ranked_list = make_ranked_list_concise(ranked_list)
+    if show_weights:
+        return ranked_list
+    else:
+        return ranked_list_to_list(ranked_list)
+
+def list_consolefonts(concise=True, show_weights=False, languageId = None, scriptId = None, territoryId = None):
+    ranked_consolefonts = {}
+    skipTerritory = False
+    if languageId and scriptId and territoryId and languageId+'_'+scriptId+'_'+territoryId in languages:
+        languageId = languageId+'_'+scriptId+'_'+territoryId
+        skipTerritory = True
+    elif languageId and scriptId and languageId+'_'+scriptId in languages:
+        languageId = languageId+'_'+scriptId
+    elif languageId and territoryId and languageId+'_'+territoryId in languages:
+        languageId = languageId+'_'+territoryId
+        skipTerritory = True
+    language_bonus = 100
+    if languageId in languages:
+        for consolefont in languages[languageId].consolefonts:
+            if languages[languageId].consolefonts[consolefont] != 0:
+                if consolefont not in ranked_consolefonts:
+                    ranked_consolefonts[consolefont] = languages[languageId].consolefonts[consolefont]
+                else:
+                    ranked_consolefonts[consolefont] *= languages[languageId].consolefonts[consolefont]
+                    ranked_consolefonts[consolefont] *= extra_bonus
+                ranked_consolefonts[consolefont] *= language_bonus
+    territory_bonus = 1
+    if territoryId in territories:
+        for consolefont in territories[territoryId].consolefonts:
+            if territories[territoryId].consolefonts[consolefont] != 0:
+                if consolefont not in ranked_consolefonts:
+                    ranked_consolefonts[consolefont] = territories[territoryId].consolefonts[consolefont]
+                else:
+                    ranked_consolefonts[consolefont] *= territories[territoryId].consolefonts[consolefont]
+                    ranked_consolefonts[consolefont] *= extra_bonus
+                ranked_consolefonts[consolefont] *= territory_bonus
+    ranked_list = dictionary_to_ranked_list(ranked_consolefonts)
     if concise:
         ranked_list = make_ranked_list_concise(ranked_list)
     if show_weights:
