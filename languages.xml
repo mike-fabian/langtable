@@ -89,6 +89,9 @@
     <keyboards>
       <keyboard><keyboardId>us</keyboardId><rank>1000</rank></keyboard>
     </keyboards>
+    <consolefonts>
+      <consolefont><consolefontId>latarcyrheb-sun16</consolefontId><rank>1000</rank></consolefont>
+    </consolefonts>
     <timezones>
       <timezone><timezoneId>Africa/Djibouti</timezoneId><rank>400</rank></timezone>
       <timezone><timezoneId>Africa/Asmara</timezoneId><rank>300</rank></timezone>
@@ -212,6 +215,9 @@
     <keyboards>
       <keyboard><keyboardId>us</keyboardId><rank>1000</rank></keyboard>
     </keyboards>
+    <consolefonts>
+      <consolefont><consolefontId>latarcyrheb-sun16</consolefontId><rank>1000</rank></consolefont>
+    </consolefonts>
     <timezones>
       <timezone><timezoneId>Africa/Johannesburg</timezoneId><rank>1000</rank></timezone>
     </timezones>
@@ -334,6 +340,9 @@
     <keyboards>
       <keyboard><keyboardId>et</keyboardId><rank>1000</rank></keyboard>
     </keyboards>
+    <consolefonts>
+      <consolefont><consolefontId>latarcyrheb-sun16</consolefontId><rank>1000</rank></consolefont>
+    </consolefonts>
     <timezones>
       <timezone><timezoneId>Africa/Addis_Ababa</timezoneId><rank>1000</rank></timezone>
     </timezones>
@@ -419,6 +428,9 @@
     <keyboards>
       <keyboard><keyboardId>es</keyboardId><rank>1000</rank></keyboard>
     </keyboards>
+    <consolefonts>
+      <consolefont><consolefontId>latarcyrheb-sun16</consolefontId><rank>1000</rank></consolefont>
+    </consolefonts>
     <timezones>
       <timezone><timezoneId>Europe/Madrid</timezoneId><rank>1000</rank></timezone>
     </timezones>
@@ -588,6 +600,9 @@
       <keyboard><keyboardId>ma</keyboardId><rank>9</rank></keyboard>
       <keyboard><keyboardId>sy</keyboardId><rank>8</rank></keyboard>
     </keyboards>
+    <consolefonts>
+      <consolefont><consolefontId>latarcyrheb-sun16</consolefontId><rank>1000</rank></consolefont>
+    </consolefonts>
     <timezones>
       <timezone><timezoneId>Africa/Cairo</timezoneId><rank>300</rank></timezone>
       <timezone><timezoneId>Africa/Khartoum</timezoneId><rank>170</rank></timezone>
@@ -720,6 +735,9 @@
     <keyboards>
       <keyboard><keyboardId>us</keyboardId><rank>1000</rank></keyboard>
     </keyboards>
+    <consolefonts>
+      <consolefont><consolefontId>latarcyrheb-sun16</consolefontId><rank>1000</rank></consolefont>
+    </consolefonts>
     <timezones>
       <timezone><timezoneId>Asia/Kolkata</timezoneId><rank>1000</rank></timezone>
     </timezones>
@@ -801,6 +819,9 @@
     <keyboards>
       <keyboard><keyboardId>es(ast)</keyboardId><rank>1000</rank></keyboard>
     </keyboards>
+    <consolefonts>
+      <consolefont><consolefontId>latarcyrheb-sun16</consolefontId><rank>1000</rank></consolefont>
+    </consolefonts>
     <timezones>
       <timezone><timezoneId>Europe/Madrid</timezoneId><rank>1000</rank></timezone>
     </timezones>
@@ -923,6 +944,9 @@
       <keyboard><keyboardId>az</keyboardId><rank>990</rank></keyboard>
       <keyboard><keyboardId>az(cyrillic)</keyboardId><rank>10</rank></keyboard>
     </keyboards>
+    <consolefonts>
+      <consolefont><consolefontId>latarcyrheb-sun16</consolefontId><rank>1000</rank></consolefont>
+    </consolefonts>
     <timezones>
       <timezone><timezoneId>Asia/Baku</timezoneId><rank>1000</rank></timezone>
     </timezones>
@@ -1054,6 +1078,9 @@
       <keyboard><keyboardId>by(latin)</keyboardId><rank>0</rank></keyboard>
       <keyboard><keyboardId>by(legacy)</keyboardId><rank>0</rank></keyboard>
     </keyboards>
+    <consolefonts>
+      <consolefont><consolefontId>latarcyrheb-sun16</consolefontId><rank>1000</rank></consolefont>
+    </consolefonts>
     <timezones>
       <timezone><timezoneId>Europe/Minsk</timezoneId><rank>1000</rank></timezone>
     </timezones>
@@ -1145,6 +1172,9 @@
     <keyboards>
       <keyboard><keyboardId>us</keyboardId><rank>1000</rank></keyboard>
     </keyboards>
+    <consolefonts>
+      <consolefont><consolefontId>latarcyrheb-sun16</consolefontId><rank>1000</rank></consolefont>
+    </consolefonts>
     <timezones>
       <timezone><timezoneId>Africa/Lusaka</timezoneId><rank>1000</rank></timezone>
     </timezones>
@@ -1228,6 +1258,9 @@
     <keyboards>
       <keyboard><keyboardId>ma(tifinagh)</keyboardId><rank>1000</rank></keyboard>
     </keyboards>
+    <consolefonts>
+      <consolefont><consolefontId>latarcyrheb-sun16</consolefontId><rank>1000</rank></consolefont>
+    </consolefonts>
     <timezones>
       <timezone><timezoneId>Africa/Casablanca</timezoneId><rank>600</rank></timezone>
       <timezone><timezoneId>Africa/Algiers</timezoneId><rank>400</rank></timezone>
@@ -1356,6 +1389,9 @@
     <keyboards>
       <keyboard><keyboardId>bg</keyboardId><rank>1000</rank></keyboard>
     </keyboards>
+    <consolefonts>
+      <consolefont><consolefontId>latarcyrheb-sun16</consolefontId><rank>1000</rank></consolefont>
+    </consolefonts>
     <timezones>
       <timezone><timezoneId>Europe/Sofia</timezoneId><rank>1000</rank></timezone>
     </timezones>
@@ -1435,6 +1471,9 @@
     <keyboards>
       <keyboard><keyboardId>us</keyboardId><rank>1000</rank></keyboard>
     </keyboards>
+    <consolefonts>
+      <consolefont><consolefontId>latarcyrheb-sun16</consolefontId><rank>1000</rank></consolefont>
+    </consolefonts>
     <timezones>
       <timezone><timezoneId>Asia/Kolkata</timezoneId><rank>1000</rank></timezone>
     </timezones>
@@ -1566,6 +1605,9 @@
     <keyboards>
       <keyboard><keyboardId>us</keyboardId><rank>950</rank></keyboard>
     </keyboards>
+    <consolefonts>
+      <consolefont><consolefontId>latarcyrheb-sun16</consolefontId><rank>1000</rank></consolefont>
+    </consolefonts>
     <timezones>
       <timezone><timezoneId>Asia/Dhaka</timezoneId><rank>700</rank></timezone>
       <timezone><timezoneId>Asia/Kolkata</timezoneId><rank>300</rank></timezone>
@@ -1677,6 +1719,9 @@
     <keyboards>
       <keyboard><keyboardId>us</keyboardId><rank>1000</rank></keyboard>
     </keyboards>
+    <consolefonts>
+      <consolefont><consolefontId>latarcyrheb-sun16</consolefontId><rank>1000</rank></consolefont>
+    </consolefonts>
     <timezones>
       <timezone><timezoneId>Asia/Kolkata</timezoneId><rank>1000</rank></timezone>
     </timezones>
@@ -1790,6 +1835,9 @@
     <keyboards>
       <keyboard><keyboardId>fr(bre)</keyboardId><rank>1000</rank></keyboard>
     </keyboards>
+    <consolefonts>
+      <consolefont><consolefontId>latarcyrheb-sun16</consolefontId><rank>1000</rank></consolefont>
+    </consolefonts>
     <timezones>
       <timezone><timezoneId>Europe/Paris</timezoneId><rank>1000</rank></timezone>
     </timezones>
@@ -1851,6 +1899,9 @@
     <keyboards>
       <keyboard><keyboardId>us</keyboardId><rank>1000</rank></keyboard>
     </keyboards>
+    <consolefonts>
+      <consolefont><consolefontId>latarcyrheb-sun16</consolefontId><rank>1000</rank></consolefont>
+    </consolefonts>
     <timezones>
       <timezone><timezoneId>Asia/Kolkata</timezoneId><rank>1000</rank></timezone>
     </timezones>
@@ -1970,6 +2021,9 @@
     <keyboards>
       <keyboard><keyboardId>ba</keyboardId><rank>1000</rank></keyboard>
     </keyboards>
+    <consolefonts>
+      <consolefont><consolefontId>latarcyrheb-sun16</consolefontId><rank>1000</rank></consolefont>
+    </consolefonts>
     <timezones>
       <timezone><timezoneId>Europe/Sarajevo</timezoneId><rank>1000</rank></timezone>
     </timezones>
@@ -2052,6 +2106,9 @@
     <keyboards>
       <keyboard><keyboardId>et</keyboardId><rank>1000</rank></keyboard>
     </keyboards>
+    <consolefonts>
+      <consolefont><consolefontId>latarcyrheb-sun16</consolefontId><rank>1000</rank></consolefont>
+    </consolefonts>
     <timezones>
       <timezone><timezoneId>Africa/Asmara</timezoneId><rank>1000</rank></timezone>
     </timezones>
@@ -2180,6 +2237,9 @@
       <keyboard><keyboardId>es(cat)</keyboardId><rank>1000</rank></keyboard>
       <keyboard><keyboardId>ad</keyboardId><rank>0</rank></keyboard>
     </keyboards>
+    <consolefonts>
+      <consolefont><consolefontId>latarcyrheb-sun16</consolefontId><rank>1000</rank></consolefont>
+    </consolefonts>
     <timezones>
       <timezone><timezoneId>Europe/Madrid</timezoneId><rank>900</rank></timezone>
       <timezone><timezoneId>Europe/Paris</timezoneId><rank>100</rank></timezone>
@@ -2263,6 +2323,9 @@
     <keyboards>
       <keyboard><keyboardId>tr(crh)</keyboardId><rank>1000</rank></keyboard>
     </keyboards>
+    <consolefonts>
+      <consolefont><consolefontId>latarcyrheb-sun16</consolefontId><rank>1000</rank></consolefont>
+    </consolefonts>
     <timezones>
       <timezone><timezoneId>Europe/Kiev</timezoneId><rank>1000</rank></timezone>
       <timezone><timezoneId>Europe/Simferopol</timezoneId><rank>1</rank></timezone>
@@ -2395,6 +2458,9 @@
     <keyboards>
       <keyboard><keyboardId>cz</keyboardId><rank>1000</rank></keyboard>
     </keyboards>
+    <consolefonts>
+      <consolefont><consolefontId>latarcyrheb-sun16</consolefontId><rank>1000</rank></consolefont>
+    </consolefonts>
     <timezones>
       <timezone><timezoneId>Europe/Prague</timezoneId><rank>1000</rank></timezone>
     </timezones>
@@ -2474,6 +2540,9 @@
     <keyboards>
       <keyboard><keyboardId>pl</keyboardId><rank>1000</rank></keyboard>
     </keyboards>
+    <consolefonts>
+      <consolefont><consolefontId>latarcyrheb-sun16</consolefontId><rank>1000</rank></consolefont>
+    </consolefonts>
     <timezones>
       <timezone><timezoneId>Europe/Warsaw</timezoneId><rank>1000</rank></timezone>
     </timezones>
@@ -2556,6 +2625,9 @@
     <keyboards>
       <keyboard><keyboardId>ru(cv)</keyboardId><rank>1000</rank></keyboard>
     </keyboards>
+    <consolefonts>
+      <consolefont><consolefontId>latarcyrheb-sun16</consolefontId><rank>1000</rank></consolefont>
+    </consolefonts>
     <timezones>
       <timezone><timezoneId>Europe/Moscow</timezoneId><rank>1000</rank></timezone>
     </timezones>
@@ -2676,6 +2748,9 @@
     <keyboards>
       <keyboard><keyboardId>gb</keyboardId><rank>1000</rank></keyboard>
     </keyboards>
+    <consolefonts>
+      <consolefont><consolefontId>latarcyrheb-sun16</consolefontId><rank>1000</rank></consolefont>
+    </consolefonts>
     <timezones>
       <timezone><timezoneId>Europe/London</timezoneId><rank>1000</rank></timezone>
     </timezones>
@@ -2803,6 +2878,9 @@
     <keyboards>
       <keyboard><keyboardId>dk</keyboardId><rank>1000</rank></keyboard>
     </keyboards>
+    <consolefonts>
+      <consolefont><consolefontId>latarcyrheb-sun16</consolefontId><rank>1000</rank></consolefont>
+    </consolefonts>
     <timezones>
       <timezone><timezoneId>Europe/Copenhagen</timezoneId><rank>1000</rank></timezone>
     </timezones>
@@ -2949,6 +3027,9 @@
       <keyboard><keyboardId>ch</keyboardId><rank>49</rank></keyboard>
       <keyboard><keyboardId>be(oss)</keyboardId><rank>1</rank></keyboard>
     </keyboards>
+    <consolefonts>
+      <consolefont><consolefontId>latarcyrheb-sun16</consolefontId><rank>1000</rank></consolefont>
+    </consolefonts>
     <timezones>
       <timezone><timezoneId>Europe/Berlin</timezoneId><rank>600</rank></timezone>
       <timezone><timezoneId>Europe/Vienna</timezoneId><rank>200</rank></timezone>
@@ -3034,6 +3115,9 @@
     <keyboards>
       <keyboard><keyboardId>us</keyboardId><rank>1000</rank></keyboard>
     </keyboards>
+    <consolefonts>
+      <consolefont><consolefontId>latarcyrheb-sun16</consolefontId><rank>1000</rank></consolefont>
+    </consolefonts>
     <timezones>
       <timezone><timezoneId>Asia/Kolkata</timezoneId><rank>1000</rank></timezone>
     </timezones>
@@ -3131,6 +3215,9 @@
     <keyboards>
       <keyboard><keyboardId>mv</keyboardId><rank>1000</rank></keyboard>
     </keyboards>
+    <consolefonts>
+      <consolefont><consolefontId>latarcyrheb-sun16</consolefontId><rank>1000</rank></consolefont>
+    </consolefonts>
     <timezones>
       <timezone><timezoneId>Indian/Maldives</timezoneId><rank>1000</rank></timezone>
     </timezones>
@@ -3230,6 +3317,9 @@
     <keyboards>
       <keyboard><keyboardId>bt</keyboardId><rank>1000</rank></keyboard>
     </keyboards>
+    <consolefonts>
+      <consolefont><consolefontId>latarcyrheb-sun16</consolefontId><rank>1000</rank></consolefont>
+    </consolefonts>
     <timezones>
       <timezone><timezoneId>Asia/Thimphu</timezoneId><rank>1000</rank></timezone>
     </timezones>
@@ -3360,6 +3450,10 @@
     <keyboards>
       <keyboard><keyboardId>gr</keyboardId><rank>1000</rank></keyboard>
     </keyboards>
+    <consolefonts>
+      <consolefont><consolefontId>iso07u-16</consolefontId><rank>1000</rank></consolefont>
+      <consolefont><consolefontId>LatGrkCyr-8x16</consolefontId><rank>10</rank></consolefont>
+    </consolefonts>
     <timezones>
       <timezone><timezoneId>Europe/Athens</timezoneId><rank>900</rank></timezone>
       <timezone><timezoneId>Asia/Nicosia</timezoneId><rank>100</rank></timezone>
@@ -3528,6 +3622,9 @@
       <keyboard><keyboardId>us</keyboardId><rank>700</rank></keyboard>
       <keyboard><keyboardId>gb</keyboardId><rank>100</rank></keyboard>
     </keyboards>
+    <consolefonts>
+      <consolefont><consolefontId>latarcyrheb-sun16</consolefontId><rank>1000</rank></consolefont>
+    </consolefonts>
     <timezones>
       <timezone><timezoneId>Africa/Gaborone</timezoneId><rank>100</rank></timezone>
       <timezone><timezoneId>Africa/Harare</timezoneId><rank>100</rank></timezone>
@@ -3764,6 +3861,9 @@
       <keyboard><keyboardId>es</keyboardId><rank>501</rank></keyboard>
       <keyboard><keyboardId>latam</keyboardId><rank>499</rank></keyboard>
     </keyboards>
+    <consolefonts>
+      <consolefont><consolefontId>latarcyrheb-sun16</consolefontId><rank>1000</rank></consolefont>
+    </consolefonts>
     <timezones>
       <timezone><timezoneId>America/Anchorage</timezoneId><rank>1000</rank></timezone>
       <timezone><timezoneId>America/Argentina/Buenos_Aires</timezoneId><rank>1000</rank></timezone>
@@ -3961,6 +4061,9 @@
     <keyboards>
       <keyboard><keyboardId>ee</keyboardId><rank>1000</rank></keyboard>
     </keyboards>
+    <consolefonts>
+      <consolefont><consolefontId>latarcyrheb-sun16</consolefontId><rank>1000</rank></consolefont>
+    </consolefonts>
     <timezones>
       <timezone><timezoneId>Europe/Tallinn</timezoneId><rank>1000</rank></timezone>
     </timezones>
@@ -4081,6 +4184,9 @@
     <keyboards>
       <keyboard><keyboardId>es</keyboardId><rank>1000</rank></keyboard>
     </keyboards>
+    <consolefonts>
+      <consolefont><consolefontId>latarcyrheb-sun16</consolefontId><rank>1000</rank></consolefont>
+    </consolefonts>
     <timezones>
       <timezone><timezoneId>Europe/Madrid</timezoneId><rank>900</rank></timezone>
       <timezone><timezoneId>Europe/Paris</timezoneId><rank>100</rank></timezone>
@@ -4210,6 +4316,9 @@
     <keyboards>
       <keyboard><keyboardId>ir</keyboardId><rank>1000</rank></keyboard>
     </keyboards>
+    <consolefonts>
+      <consolefont><consolefontId>latarcyrheb-sun16</consolefontId><rank>1000</rank></consolefont>
+    </consolefonts>
     <timezones>
       <timezone><timezoneId>Asia/Tehran</timezoneId><rank>1000</rank></timezone>
     </timezones>
@@ -4291,6 +4400,9 @@
     <keyboards>
       <keyboard><keyboardId>fr(oss)</keyboardId><rank>1000</rank></keyboard>
     </keyboards>
+    <consolefonts>
+      <consolefont><consolefontId>latarcyrheb-sun16</consolefontId><rank>1000</rank></consolefont>
+    </consolefonts>
     <timezones>
       <timezone><timezoneId>Africa/Dakar</timezoneId><rank>1000</rank></timezone>
     </timezones>
@@ -4417,6 +4529,9 @@
       <keyboard><keyboardId>fi</keyboardId><rank>900</rank></keyboard>
       <keyboard><keyboardId>fi(nodeadkeys)</keyboardId><rank>100</rank></keyboard>
     </keyboards>
+    <consolefonts>
+      <consolefont><consolefontId>latarcyrheb-sun16</consolefontId><rank>1000</rank></consolefont>
+    </consolefonts>
     <timezones>
       <timezone><timezoneId>Europe/Helsinki</timezoneId><rank>1000</rank></timezone>
     </timezones>
@@ -4536,6 +4651,9 @@
     <keyboards>
       <keyboard><keyboardId>ph</keyboardId><rank>1000</rank></keyboard>
     </keyboards>
+    <consolefonts>
+      <consolefont><consolefontId>latarcyrheb-sun16</consolefontId><rank>1000</rank></consolefont>
+    </consolefonts>
     <timezones>
       <timezone><timezoneId>Asia/Manila</timezoneId><rank>1000</rank></timezone>
     </timezones>
@@ -4656,6 +4774,9 @@
     <keyboards>
       <keyboard><keyboardId>fo</keyboardId><rank>1000</rank></keyboard>
     </keyboards>
+    <consolefonts>
+      <consolefont><consolefontId>latarcyrheb-sun16</consolefontId><rank>1000</rank></consolefont>
+    </consolefonts>
     <timezones>
       <timezone><timezoneId>Atlantic/Faroe</timezoneId><rank>1000</rank></timezone>
     </timezones>
@@ -4802,6 +4923,9 @@
       <keyboard><keyboardId>fr</keyboardId><rank>0</rank></keyboard>
       <keyboard><keyboardId>fr(latin9)</keyboardId><rank>0</rank></keyboard>
     </keyboards>
+    <consolefonts>
+      <consolefont><consolefontId>latarcyrheb-sun16</consolefontId><rank>1000</rank></consolefont>
+    </consolefonts>
     <timezones>
       <timezone><timezoneId>Europe/Paris</timezoneId><rank>300</rank></timezone>
       <timezone><timezoneId>America/Montreal</timezoneId><rank>200</rank></timezone>
@@ -4888,6 +5012,9 @@
     <keyboards>
       <keyboard><keyboardId>it</keyboardId><rank>1000</rank></keyboard>
     </keyboards>
+    <consolefonts>
+      <consolefont><consolefontId>latarcyrheb-sun16</consolefontId><rank>1000</rank></consolefont>
+    </consolefonts>
     <timezones>
       <timezone><timezoneId>Europe/Rome</timezoneId><rank>1000</rank></timezone>
     </timezones>
@@ -5012,6 +5139,9 @@
       <keyboard><keyboardId>us(altgr-intl)</keyboardId><rank>50</rank></keyboard>
       <keyboard><keyboardId>nl</keyboardId><rank>0</rank></keyboard>
     </keyboards>
+    <consolefonts>
+      <consolefont><consolefontId>latarcyrheb-sun16</consolefontId><rank>1000</rank></consolefont>
+    </consolefonts>
     <timezones>
       <timezone><timezoneId>Europe/Amsterdam</timezoneId><rank>1000</rank></timezone>
     </timezones>
@@ -5136,6 +5266,9 @@
     <keyboards>
       <keyboard><keyboardId>ie(CloGaelach)</keyboardId><rank>1000</rank></keyboard>
     </keyboards>
+    <consolefonts>
+      <consolefont><consolefontId>latarcyrheb-sun16</consolefontId><rank>1000</rank></consolefont>
+    </consolefonts>
     <timezones>
       <timezone><timezoneId>Europe/Dublin</timezoneId><rank>1000</rank></timezone>
     </timezones>
@@ -5250,6 +5383,9 @@
     <keyboards>
       <keyboard><keyboardId>gb</keyboardId><rank>1000</rank></keyboard>
     </keyboards>
+    <consolefonts>
+      <consolefont><consolefontId>latarcyrheb-sun16</consolefontId><rank>1000</rank></consolefont>
+    </consolefonts>
     <timezones>
       <timezone><timezoneId>Europe/London</timezoneId><rank>1000</rank></timezone>
     </timezones>
@@ -5336,6 +5472,9 @@
     <keyboards>
       <keyboard><keyboardId>et</keyboardId><rank>1000</rank></keyboard>
     </keyboards>
+    <consolefonts>
+      <consolefont><consolefontId>latarcyrheb-sun16</consolefontId><rank>1000</rank></consolefont>
+    </consolefonts>
     <timezones>
       <timezone><timezoneId>Africa/Addis_Ababa</timezoneId><rank>900</rank></timezone>
       <timezone><timezoneId>Africa/Asmara</timezoneId><rank>100</rank></timezone>
@@ -5455,6 +5594,9 @@
     <keyboards>
       <keyboard><keyboardId>es</keyboardId><rank>1000</rank></keyboard>
     </keyboards>
+    <consolefonts>
+      <consolefont><consolefontId>latarcyrheb-sun16</consolefontId><rank>1000</rank></consolefont>
+    </consolefonts>
     <timezones>
       <timezone><timezoneId>Europe/Madrid</timezoneId><rank>1000</rank></timezone>
     </timezones>
@@ -5578,6 +5720,9 @@
     <keyboards>
       <keyboard><keyboardId>us</keyboardId><rank>1000</rank></keyboard>
     </keyboards>
+    <consolefonts>
+      <consolefont><consolefontId>latarcyrheb-sun16</consolefontId><rank>1000</rank></consolefont>
+    </consolefonts>
     <timezones>
       <timezone><timezoneId>Asia/Kolkata</timezoneId><rank>1000</rank></timezone>
     </timezones>
@@ -5664,6 +5809,9 @@
     <keyboards>
       <keyboard><keyboardId>gb</keyboardId><rank>1000</rank></keyboard>
     </keyboards>
+    <consolefonts>
+      <consolefont><consolefontId>latarcyrheb-sun16</consolefontId><rank>1000</rank></consolefont>
+    </consolefonts>
     <timezones>
       <timezone><timezoneId>Europe/London</timezoneId><rank>1000</rank></timezone>
     </timezones>
@@ -5776,6 +5924,9 @@
     <keyboards>
       <keyboard><keyboardId>ng(hausa)</keyboardId><rank>1000</rank></keyboard>
     </keyboards>
+    <consolefonts>
+      <consolefont><consolefontId>latarcyrheb-sun16</consolefontId><rank>1000</rank></consolefont>
+    </consolefonts>
     <timezones>
       <timezone><timezoneId>Africa/Lagos</timezoneId><rank>1000</rank></timezone>
     </timezones>
@@ -5900,6 +6051,9 @@
     <keyboards>
       <keyboard><keyboardId>il</keyboardId><rank>1000</rank></keyboard>
     </keyboards>
+    <consolefonts>
+      <consolefont><consolefontId>latarcyrheb-sun16</consolefontId><rank>1000</rank></consolefont>
+    </consolefonts>
     <timezones>
       <timezone><timezoneId>Asia/Jerusalem</timezoneId><rank>1000</rank></timezone>
     </timezones>
@@ -6031,6 +6185,9 @@
     <keyboards>
       <keyboard><keyboardId>us</keyboardId><rank>1000</rank></keyboard>
     </keyboards>
+    <consolefonts>
+      <consolefont><consolefontId>latarcyrheb-sun16</consolefontId><rank>1000</rank></consolefont>
+    </consolefonts>
     <timezones>
       <timezone><timezoneId>Asia/Kolkata</timezoneId><rank>1000</rank></timezone>
     </timezones>
@@ -6053,6 +6210,9 @@
     <keyboards>
       <keyboard><keyboardId>us</keyboardId><rank>1000</rank></keyboard>
     </keyboards>
+    <consolefonts>
+      <consolefont><consolefontId>latarcyrheb-sun16</consolefontId><rank>1000</rank></consolefont>
+    </consolefonts>
     <timezones>
       <timezone><timezoneId>Asia/Kolkata</timezoneId><rank>1000</rank></timezone>
     </timezones>
@@ -6174,6 +6334,9 @@
     <keyboards>
       <keyboard><keyboardId>hr</keyboardId><rank>1000</rank></keyboard>
     </keyboards>
+    <consolefonts>
+      <consolefont><consolefontId>latarcyrheb-sun16</consolefontId><rank>1000</rank></consolefont>
+    </consolefonts>
     <timezones>
       <timezone><timezoneId>Europe/Zagreb</timezoneId><rank>1000</rank></timezone>
     </timezones>
@@ -6256,6 +6419,9 @@
       <keyboard><keyboardId>de(nodeadkeys)</keyboardId><rank>900</rank></keyboard>
       <keyboard><keyboardId>de(deadacute)</keyboardId><rank>100</rank></keyboard>
     </keyboards>
+    <consolefonts>
+      <consolefont><consolefontId>latarcyrheb-sun16</consolefontId><rank>1000</rank></consolefont>
+    </consolefonts>
     <timezones>
       <timezone><timezoneId>Europe/Berlin</timezoneId><rank>1000</rank></timezone>
     </timezones>
@@ -6360,6 +6526,9 @@
     <keyboards>
       <keyboard><keyboardId>latam</keyboardId><rank>1000</rank></keyboard>
     </keyboards>
+    <consolefonts>
+      <consolefont><consolefontId>latarcyrheb-sun16</consolefontId><rank>1000</rank></consolefont>
+    </consolefonts>
     <timezones>
       <timezone><timezoneId>America/Port-au-Prince</timezoneId><rank>1000</rank></timezone>
     </timezones>
@@ -6488,6 +6657,9 @@
     <keyboards>
       <keyboard><keyboardId>hu</keyboardId><rank>1000</rank></keyboard>
     </keyboards>
+    <consolefonts>
+      <consolefont><consolefontId>latarcyrheb-sun16</consolefontId><rank>1000</rank></consolefont>
+    </consolefonts>
     <timezones>
       <timezone><timezoneId>Europe/Budapest</timezoneId><rank>1000</rank></timezone>
     </timezones>
@@ -6603,6 +6775,9 @@
     <keyboards>
       <keyboard><keyboardId>am</keyboardId><rank>1000</rank></keyboard>
     </keyboards>
+    <consolefonts>
+      <consolefont><consolefontId>latarcyrheb-sun16</consolefontId><rank>1000</rank></consolefont>
+    </consolefonts>
     <timezones>
       <timezone><timezoneId>Asia/Yerevan</timezoneId><rank>1000</rank></timezone>
     </timezones>
@@ -6732,6 +6907,9 @@
     <keyboards>
       <keyboard><keyboardId>us</keyboardId><rank>1000</rank></keyboard>
     </keyboards>
+    <consolefonts>
+      <consolefont><consolefontId>latarcyrheb-sun16</consolefontId><rank>1000</rank></consolefont>
+    </consolefonts>
     <timezones>
       <timezone><timezoneId>Asia/Jayapura</timezoneId><rank>1000</rank></timezone>
     </timezones>
@@ -6842,6 +7020,9 @@
     <keyboards>
       <keyboard><keyboardId>ng(igbo)</keyboardId><rank>1000</rank></keyboard>
     </keyboards>
+    <consolefonts>
+      <consolefont><consolefontId>latarcyrheb-sun16</consolefontId><rank>1000</rank></consolefont>
+    </consolefonts>
     <timezones>
       <timezone><timezoneId>Africa/Lagos</timezoneId><rank>1000</rank></timezone>
     </timezones>
@@ -6928,6 +7109,9 @@
     <keyboards>
       <keyboard><keyboardId>ca(eng)</keyboardId><rank>1000</rank></keyboard>
     </keyboards>
+    <consolefonts>
+      <consolefont><consolefontId>latarcyrheb-sun16</consolefontId><rank>1000</rank></consolefont>
+    </consolefonts>
     <timezones>
       <timezone><timezoneId>America/Yellowknife</timezoneId><rank>100</rank></timezone>
       <timezone><timezoneId>America/Nome</timezoneId><rank>10</rank></timezone>
@@ -7051,6 +7235,9 @@
     <keyboards>
       <keyboard><keyboardId>is</keyboardId><rank>1000</rank></keyboard>
     </keyboards>
+    <consolefonts>
+      <consolefont><consolefontId>latarcyrheb-sun16</consolefontId><rank>1000</rank></consolefont>
+    </consolefonts>
     <timezones>
       <timezone><timezoneId>Atlantic/Reykjavik</timezoneId><rank>1000</rank></timezone>
     </timezones>
@@ -7186,6 +7373,9 @@
     <keyboards>
       <keyboard><keyboardId>it</keyboardId><rank>1000</rank></keyboard>
     </keyboards>
+    <consolefonts>
+      <consolefont><consolefontId>latarcyrheb-sun16</consolefontId><rank>1000</rank></consolefont>
+    </consolefonts>
     <timezones>
       <timezone><timezoneId>Europe/Rome</timezoneId><rank>900</rank></timezone>
       <timezone><timezoneId>Europe/Zurich</timezoneId><rank>100</rank></timezone>
@@ -7274,6 +7464,9 @@
     <keyboards>
       <keyboard><keyboardId>ca(ike)</keyboardId><rank>1000</rank></keyboard>
     </keyboards>
+    <consolefonts>
+      <consolefont><consolefontId>latarcyrheb-sun16</consolefontId><rank>1000</rank></consolefont>
+    </consolefonts>
     <timezones>
       <timezone><timezoneId>America/Creston</timezoneId><rank>100</rank></timezone>
       <timezone><timezoneId>America/Edmonton</timezoneId><rank>100</rank></timezone>
@@ -7304,6 +7497,9 @@
     <keyboards>
       <keyboard><keyboardId>il</keyboardId><rank>1000</rank></keyboard>
     </keyboards>
+    <consolefonts>
+      <consolefont><consolefontId>latarcyrheb-sun16</consolefontId><rank>1000</rank></consolefont>
+    </consolefonts>
     <timezones>
       <timezone><timezoneId>Asia/Jerusalem</timezoneId><rank>1000</rank></timezone>
     </timezones>
@@ -7438,6 +7634,9 @@
     <keyboards>
       <keyboard><keyboardId>jp</keyboardId><rank>1000</rank></keyboard>
     </keyboards>
+    <consolefonts>
+      <consolefont><consolefontId>latarcyrheb-sun16</consolefontId><rank>1000</rank></consolefont>
+    </consolefonts>
     <timezones>
       <timezone><timezoneId>Asia/Tokyo</timezoneId><rank>1000</rank></timezone>
     </timezones>
@@ -7560,6 +7759,9 @@
     <keyboards>
       <keyboard><keyboardId>ge</keyboardId><rank>1000</rank></keyboard>
     </keyboards>
+    <consolefonts>
+      <consolefont><consolefontId>latarcyrheb-sun16</consolefontId><rank>1000</rank></consolefont>
+    </consolefonts>
     <timezones>
       <timezone><timezoneId>Asia/Tbilisi</timezoneId><rank>1000</rank></timezone>
     </timezones>
@@ -7667,6 +7869,9 @@
     <keyboards>
       <keyboard><keyboardId>kz</keyboardId><rank>1000</rank></keyboard>
     </keyboards>
+    <consolefonts>
+      <consolefont><consolefontId>latarcyrheb-sun16</consolefontId><rank>1000</rank></consolefont>
+    </consolefonts>
     <timezones>
       <timezone><timezoneId>Asia/Oral</timezoneId><rank>1000</rank></timezone>
     </timezones>
@@ -7752,6 +7957,9 @@
     <keyboards>
       <keyboard><keyboardId>us</keyboardId><rank>1000</rank></keyboard>
     </keyboards>
+    <consolefonts>
+      <consolefont><consolefontId>latarcyrheb-sun16</consolefontId><rank>1000</rank></consolefont>
+    </consolefonts>
     <timezones>
       <timezone><timezoneId>America/Danmarkshavn</timezoneId><rank>250</rank></timezone>
       <timezone><timezoneId>America/Godthab</timezoneId><rank>250</rank></timezone>
@@ -7875,6 +8083,9 @@
     <keyboards>
       <keyboard><keyboardId>kh</keyboardId><rank>1000</rank></keyboard>
     </keyboards>
+    <consolefonts>
+      <consolefont><consolefontId>latarcyrheb-sun16</consolefontId><rank>1000</rank></consolefont>
+    </consolefonts>
     <timezones>
       <timezone><timezoneId>Asia/Phnom_Penh</timezoneId><rank>1000</rank></timezone>
     </timezones>
@@ -7995,6 +8206,9 @@
     <keyboards>
       <keyboard><keyboardId>us</keyboardId><rank>1000</rank></keyboard>
     </keyboards>
+    <consolefonts>
+      <consolefont><consolefontId>latarcyrheb-sun16</consolefontId><rank>1000</rank></consolefont>
+    </consolefonts>
     <timezones>
       <timezone><timezoneId>Asia/Kolkata</timezoneId><rank>1000</rank></timezone>
     </timezones>
@@ -8123,6 +8337,9 @@
     <keyboards>
       <keyboard><keyboardId>kr</keyboardId><rank>1000</rank></keyboard>
     </keyboards>
+    <consolefonts>
+      <consolefont><consolefontId>latarcyrheb-sun16</consolefontId><rank>1000</rank></consolefont>
+    </consolefonts>
     <timezones>
       <timezone><timezoneId>Asia/Seoul</timezoneId><rank>1000</rank></timezone>
     </timezones>
@@ -8204,6 +8421,9 @@
     <keyboards>
       <keyboard><keyboardId>us</keyboardId><rank>1000</rank></keyboard>
     </keyboards>
+    <consolefonts>
+      <consolefont><consolefontId>latarcyrheb-sun16</consolefontId><rank>1000</rank></consolefont>
+    </consolefonts>
     <timezones>
       <timezone><timezoneId>Asia/Kolkata</timezoneId><rank>1000</rank></timezone>
     </timezones>
@@ -8309,6 +8529,9 @@
     <keyboards>
       <keyboard><keyboardId>us</keyboardId><rank>1000</rank></keyboard>
     </keyboards>
+    <consolefonts>
+      <consolefont><consolefontId>latarcyrheb-sun16</consolefontId><rank>1000</rank></consolefont>
+    </consolefonts>
     <timezones>
       <timezone><timezoneId>Asia/Kolkata</timezoneId><rank>1000</rank></timezone>
     </timezones>
@@ -8330,6 +8553,9 @@
     <keyboards>
       <keyboard><keyboardId>us</keyboardId><rank>1000</rank></keyboard>
     </keyboards>
+    <consolefonts>
+      <consolefont><consolefontId>latarcyrheb-sun16</consolefontId><rank>1000</rank></consolefont>
+    </consolefonts>
     <timezones>
       <timezone><timezoneId>Asia/Kolkata</timezoneId><rank>1000</rank></timezone>
     </timezones>
@@ -8351,6 +8577,9 @@
     <keyboards>
       <keyboard><keyboardId>us</keyboardId><rank>1000</rank></keyboard>
     </keyboards>
+    <consolefonts>
+      <consolefont><consolefontId>latarcyrheb-sun16</consolefontId><rank>1000</rank></consolefont>
+    </consolefonts>
     <timezones>
       <timezone><timezoneId>Asia/Kolkata</timezoneId><rank>1000</rank></timezone>
     </timezones>
@@ -8471,6 +8700,9 @@
     <keyboards>
       <keyboard><keyboardId>tr(ku)</keyboardId><rank>1000</rank></keyboard>
     </keyboards>
+    <consolefonts>
+      <consolefont><consolefontId>latarcyrheb-sun16</consolefontId><rank>1000</rank></consolefont>
+    </consolefonts>
     <timezones>
       <timezone><timezoneId>Europe/Istanbul</timezoneId><rank>1000</rank></timezone>
     </timezones>
@@ -8557,6 +8789,9 @@
     <keyboards>
       <keyboard><keyboardId>gb</keyboardId><rank>1000</rank></keyboard>
     </keyboards>
+    <consolefonts>
+      <consolefont><consolefontId>latarcyrheb-sun16</consolefontId><rank>1000</rank></consolefont>
+    </consolefonts>
     <timezones>
       <timezone><timezoneId>Europe/London</timezoneId><rank>1000</rank></timezone>
     </timezones>
@@ -8671,6 +8906,9 @@
     <keyboards>
       <keyboard><keyboardId>kg</keyboardId><rank>1000</rank></keyboard>
     </keyboards>
+    <consolefonts>
+      <consolefont><consolefontId>latarcyrheb-sun16</consolefontId><rank>1000</rank></consolefont>
+    </consolefonts>
     <timezones>
       <timezone><timezoneId>Asia/Bishkek</timezoneId><rank>1000</rank></timezone>
     </timezones>
@@ -8778,6 +9016,9 @@
       <keyboard><keyboardId>fr</keyboardId><rank>0</rank></keyboard>
       <keyboard><keyboardId>fr(latin9)</keyboardId><rank>0</rank></keyboard>
     </keyboards>
+    <consolefonts>
+      <consolefont><consolefontId>latarcyrheb-sun16</consolefontId><rank>1000</rank></consolefont>
+    </consolefonts>
     <timezones>
       <timezone><timezoneId>Europe/Luxembourg</timezoneId><rank>1000</rank></timezone>
     </timezones>
@@ -8868,6 +9109,9 @@
     <keyboards>
       <keyboard><keyboardId>us</keyboardId><rank>1000</rank></keyboard>
     </keyboards>
+    <consolefonts>
+      <consolefont><consolefontId>latarcyrheb-sun16</consolefontId><rank>1000</rank></consolefont>
+    </consolefonts>
     <timezones>
       <timezone><timezoneId>Africa/Kampala</timezoneId><rank>1000</rank></timezone>
     </timezones>
@@ -8956,6 +9200,9 @@
       <keyboard><keyboardId>be(oss)</keyboardId><rank>1</rank></keyboard>
       <keyboard><keyboardId>nl</keyboardId><rank>0</rank></keyboard>
     </keyboards>
+    <consolefonts>
+      <consolefont><consolefontId>latarcyrheb-sun16</consolefontId><rank>1000</rank></consolefont>
+    </consolefonts>
     <timezones>
       <timezone><timezoneId>Europe/Amsterdam</timezoneId><rank>501</rank></timezone>
       <timezone><timezoneId>Europe/Brussels</timezoneId><rank>499</rank></timezone>
@@ -8980,6 +9227,9 @@
     <keyboards>
       <keyboard><keyboardId>it</keyboardId><rank>1000</rank></keyboard>
     </keyboards>
+    <consolefonts>
+      <consolefont><consolefontId>latarcyrheb-sun16</consolefontId><rank>1000</rank></consolefont>
+    </consolefonts>
     <timezones>
       <timezone><timezoneId>Europe/Rome</timezoneId><rank>1000</rank></timezone>
     </timezones>
@@ -9095,6 +9345,9 @@
     <keyboards>
       <keyboard><keyboardId>la</keyboardId><rank>1000</rank></keyboard>
     </keyboards>
+    <consolefonts>
+      <consolefont><consolefontId>latarcyrheb-sun16</consolefontId><rank>1000</rank></consolefont>
+    </consolefonts>
     <timezones>
       <timezone><timezoneId>Asia/Vientiane</timezoneId><rank>1000</rank></timezone>
     </timezones>
@@ -9217,6 +9470,9 @@
     <keyboards>
       <keyboard><keyboardId>lt</keyboardId><rank>1000</rank></keyboard>
     </keyboards>
+    <consolefonts>
+      <consolefont><consolefontId>latarcyrheb-sun16</consolefontId><rank>1000</rank></consolefont>
+    </consolefonts>
     <timezones>
       <timezone><timezoneId>Europe/Vilnius</timezoneId><rank>1000</rank></timezone>
     </timezones>
@@ -9338,6 +9594,9 @@
     <keyboards>
       <keyboard><keyboardId>lv</keyboardId><rank>1000</rank></keyboard>
     </keyboards>
+    <consolefonts>
+      <consolefont><consolefontId>latarcyrheb-sun16</consolefontId><rank>1000</rank></consolefont>
+    </consolefonts>
     <timezones>
       <timezone><timezoneId>Europe/Riga</timezoneId><rank>1000</rank></timezone>
     </timezones>
@@ -9419,6 +9678,9 @@
     <keyboards>
       <keyboard><keyboardId>us</keyboardId><rank>1000</rank></keyboard>
     </keyboards>
+    <consolefonts>
+      <consolefont><consolefontId>latarcyrheb-sun16</consolefontId><rank>1000</rank></consolefont>
+    </consolefonts>
     <timezones>
       <timezone><timezoneId>Asia/Kolkata</timezoneId><rank>1000</rank></timezone>
     </timezones>
@@ -9499,6 +9761,9 @@
     <keyboards>
       <keyboard><keyboardId>us</keyboardId><rank>1000</rank></keyboard>
     </keyboards>
+    <consolefonts>
+      <consolefont><consolefontId>latarcyrheb-sun16</consolefontId><rank>1000</rank></consolefont>
+    </consolefonts>
     <timezones>
       <timezone><timezoneId>Asia/Kolkata</timezoneId><rank>1000</rank></timezone>
     </timezones>
@@ -9608,6 +9873,9 @@
     <keyboards>
       <keyboard><keyboardId>us</keyboardId><rank>1000</rank></keyboard>
     </keyboards>
+    <consolefonts>
+      <consolefont><consolefontId>latarcyrheb-sun16</consolefontId><rank>1000</rank></consolefont>
+    </consolefonts>
     <timezones>
       <timezone><timezoneId>Indian/Antananarivo</timezoneId><rank>1000</rank></timezone>
     </timezones>
@@ -9630,6 +9898,9 @@
     <keyboards>
       <keyboard><keyboardId>ru</keyboardId><rank>1000</rank></keyboard>
     </keyboards>
+    <consolefonts>
+      <consolefont><consolefontId>latarcyrheb-sun16</consolefontId><rank>1000</rank></consolefont>
+    </consolefonts>
     <timezones>
       <timezone><timezoneId>Europe/Moscow</timezoneId><rank>1000</rank></timezone>
     </timezones>
@@ -9737,6 +10008,9 @@
     <keyboards>
       <keyboard><keyboardId>us</keyboardId><rank>1000</rank></keyboard>
     </keyboards>
+    <consolefonts>
+      <consolefont><consolefontId>latarcyrheb-sun16</consolefontId><rank>1000</rank></consolefont>
+    </consolefonts>
     <timezones>
       <timezone><timezoneId>Pacific/Auckland</timezoneId><rank>1000</rank></timezone>
     </timezones>
@@ -9858,6 +10132,9 @@
     <keyboards>
       <keyboard><keyboardId>mk</keyboardId><rank>1000</rank></keyboard>
     </keyboards>
+    <consolefonts>
+      <consolefont><consolefontId>latarcyrheb-sun16</consolefontId><rank>1000</rank></consolefont>
+    </consolefonts>
     <timezones>
       <timezone><timezoneId>Europe/Skopje</timezoneId><rank>1000</rank></timezone>
     </timezones>
@@ -9976,6 +10253,9 @@
     <keyboards>
       <keyboard><keyboardId>us</keyboardId><rank>1000</rank></keyboard>
     </keyboards>
+    <consolefonts>
+      <consolefont><consolefontId>latarcyrheb-sun16</consolefontId><rank>1000</rank></consolefont>
+    </consolefonts>
     <timezones>
       <timezone><timezoneId>Asia/Kolkata</timezoneId><rank>1000</rank></timezone>
     </timezones>
@@ -10089,6 +10369,9 @@
     <keyboards>
       <keyboard><keyboardId>mn</keyboardId><rank>1000</rank></keyboard>
     </keyboards>
+    <consolefonts>
+      <consolefont><consolefontId>latarcyrheb-sun16</consolefontId><rank>1000</rank></consolefont>
+    </consolefonts>
     <timezones>
       <timezone><timezoneId>Asia/Ulaanbaatar</timezoneId><rank>990</rank></timezone>
       <timezone><timezoneId>Asia/Hovd</timezoneId><rank>10</rank></timezone>
@@ -10174,6 +10457,9 @@
     <keyboards>
       <keyboard><keyboardId>us</keyboardId><rank>1000</rank></keyboard>
     </keyboards>
+    <consolefonts>
+      <consolefont><consolefontId>latarcyrheb-sun16</consolefontId><rank>1000</rank></consolefont>
+    </consolefonts>
     <timezones>
       <timezone><timezoneId>Asia/Kolkata</timezoneId><rank>1000</rank></timezone>
     </timezones>
@@ -10294,6 +10580,9 @@
     <keyboards>
       <keyboard><keyboardId>us</keyboardId><rank>1000</rank></keyboard>
     </keyboards>
+    <consolefonts>
+      <consolefont><consolefontId>latarcyrheb-sun16</consolefontId><rank>1000</rank></consolefont>
+    </consolefonts>
     <timezones>
       <timezone><timezoneId>Asia/Kolkata</timezoneId><rank>1000</rank></timezone>
     </timezones>
@@ -10419,6 +10708,9 @@
     <keyboards>
       <keyboard><keyboardId>us</keyboardId><rank>1000</rank></keyboard>
     </keyboards>
+    <consolefonts>
+      <consolefont><consolefontId>latarcyrheb-sun16</consolefontId><rank>1000</rank></consolefont>
+    </consolefonts>
     <timezones>
       <timezone><timezoneId>Asia/Kuala_Lumpur</timezoneId><rank>800</rank></timezone>
       <timezone><timezoneId>Asia/Kuching</timezoneId><rank>200</rank></timezone>
@@ -10540,6 +10832,9 @@
       <keyboard><keyboardId>mt</keyboardId><rank>900</rank></keyboard>
       <keyboard><keyboardId>mt(us)</keyboardId><rank>100</rank></keyboard>
     </keyboards>
+    <consolefonts>
+      <consolefont><consolefontId>latarcyrheb-sun16</consolefontId><rank>1000</rank></consolefont>
+    </consolefonts>
     <timezones>
       <timezone><timezoneId>Europe/Malta</timezoneId><rank>1000</rank></timezone>
     </timezones>
@@ -10655,6 +10950,9 @@
     <keyboards>
       <keyboard><keyboardId>mm</keyboardId><rank>1000</rank></keyboard>
     </keyboards>
+    <consolefonts>
+      <consolefont><consolefontId>latarcyrheb-sun16</consolefontId><rank>1000</rank></consolefont>
+    </consolefonts>
     <timezones>
       <timezone><timezoneId>Asia/Rangoon</timezoneId><rank>1000</rank></timezone>
     </timezones>
@@ -10679,6 +10977,9 @@
     <keyboards>
       <keyboard><keyboardId>cn</keyboardId><rank>1000</rank></keyboard>
     </keyboards>
+    <consolefonts>
+      <consolefont><consolefontId>latarcyrheb-sun16</consolefontId><rank>1000</rank></consolefont>
+    </consolefonts>
     <timezones>
       <timezone><timezoneId>Asia/Taipei</timezoneId><rank>1000</rank></timezone>
     </timezones>
@@ -10782,6 +11083,9 @@
     <keyboards>
       <keyboard><keyboardId>no</keyboardId><rank>1000</rank></keyboard>
     </keyboards>
+    <consolefonts>
+      <consolefont><consolefontId>latarcyrheb-sun16</consolefontId><rank>1000</rank></consolefont>
+    </consolefonts>
     <timezones>
       <timezone><timezoneId>Europe/Oslo</timezoneId><rank>1000</rank></timezone>
     </timezones>
@@ -10868,6 +11172,9 @@
       <keyboard><keyboardId>us(altgr-intl)</keyboardId><rank>50</rank></keyboard>
       <keyboard><keyboardId>nl</keyboardId><rank>0</rank></keyboard>
     </keyboards>
+    <consolefonts>
+      <consolefont><consolefontId>latarcyrheb-sun16</consolefontId><rank>1000</rank></consolefont>
+    </consolefonts>
     <timezones>
       <timezone><timezoneId>Europe/Amsterdam</timezoneId><rank>900</rank></timezone>
       <timezone><timezoneId>Europe/Berlin</timezoneId><rank>100</rank></timezone>
@@ -10995,6 +11302,9 @@
     <keyboards>
       <keyboard><keyboardId>np</keyboardId><rank>1000</rank></keyboard>
     </keyboards>
+    <consolefonts>
+      <consolefont><consolefontId>latarcyrheb-sun16</consolefontId><rank>1000</rank></consolefont>
+    </consolefonts>
     <timezones>
       <timezone><timezoneId>Asia/Kathmandu</timezoneId><rank>1000</rank></timezone>
     </timezones>
@@ -11132,6 +11442,9 @@
       <keyboard><keyboardId>us(altgr-intl)</keyboardId><rank>50</rank></keyboard>
       <keyboard><keyboardId>nl</keyboardId><rank>0</rank></keyboard>
     </keyboards>
+    <consolefonts>
+      <consolefont><consolefontId>latarcyrheb-sun16</consolefontId><rank>1000</rank></consolefont>
+    </consolefonts>
     <timezones>
       <timezone><timezoneId>Europe/Amsterdam</timezoneId><rank>800</rank></timezone>
       <timezone><timezoneId>Europe/Brussels</timezoneId><rank>100</rank></timezone>
@@ -11249,6 +11562,9 @@
     <keyboards>
       <keyboard><keyboardId>no</keyboardId><rank>1000</rank></keyboard>
     </keyboards>
+    <consolefonts>
+      <consolefont><consolefontId>latarcyrheb-sun16</consolefontId><rank>1000</rank></consolefont>
+    </consolefonts>
     <timezones>
       <timezone><timezoneId>Europe/Oslo</timezoneId><rank>1000</rank></timezone>
     </timezones>
@@ -11369,6 +11685,9 @@
     <keyboards>
       <keyboard><keyboardId>no</keyboardId><rank>1000</rank></keyboard>
     </keyboards>
+    <consolefonts>
+      <consolefont><consolefontId>latarcyrheb-sun16</consolefontId><rank>1000</rank></consolefont>
+    </consolefonts>
     <timezones>
       <timezone><timezoneId>Europe/Oslo</timezoneId><rank>1000</rank></timezone>
     </timezones>
@@ -11451,6 +11770,9 @@
     <keyboards>
       <keyboard><keyboardId>us</keyboardId><rank>1000</rank></keyboard>
     </keyboards>
+    <consolefonts>
+      <consolefont><consolefontId>latarcyrheb-sun16</consolefontId><rank>1000</rank></consolefont>
+    </consolefonts>
     <timezones>
       <timezone><timezoneId>Africa/Johannesburg</timezoneId><rank>1000</rank></timezone>
     </timezones>
@@ -11541,6 +11863,9 @@
     <keyboards>
       <keyboard><keyboardId>us</keyboardId><rank>1000</rank></keyboard>
     </keyboards>
+    <consolefonts>
+      <consolefont><consolefontId>latarcyrheb-sun16</consolefontId><rank>1000</rank></consolefont>
+    </consolefonts>
     <timezones>
       <timezone><timezoneId>Africa/Johannesburg</timezoneId><rank>1000</rank></timezone>
     </timezones>
@@ -11657,6 +11982,9 @@
       <keyboard><keyboardId>fr</keyboardId><rank>0</rank></keyboard>
       <keyboard><keyboardId>fr(latin9)</keyboardId><rank>0</rank></keyboard>
     </keyboards>
+    <consolefonts>
+      <consolefont><consolefontId>latarcyrheb-sun16</consolefontId><rank>1000</rank></consolefont>
+    </consolefonts>
     <timezones>
       <timezone><timezoneId>Europe/Paris</timezoneId><rank>1000</rank></timezone>
     </timezones>
@@ -11751,6 +12079,9 @@
     <keyboards>
       <keyboard><keyboardId>us</keyboardId><rank>1000</rank></keyboard>
     </keyboards>
+    <consolefonts>
+      <consolefont><consolefontId>latarcyrheb-sun16</consolefontId><rank>1000</rank></consolefont>
+    </consolefonts>
     <timezones>
       <timezone><timezoneId>Africa/Addis_Ababa</timezoneId><rank>950</rank></timezone>
       <timezone><timezoneId>Africa/Nairobi</timezoneId><rank>50</rank></timezone>
@@ -11869,6 +12200,9 @@
     <keyboards>
       <keyboard><keyboardId>us</keyboardId><rank>1000</rank></keyboard>
     </keyboards>
+    <consolefonts>
+      <consolefont><consolefontId>latarcyrheb-sun16</consolefontId><rank>1000</rank></consolefont>
+    </consolefonts>
     <timezones>
       <timezone><timezoneId>Asia/Kolkata</timezoneId><rank>1000</rank></timezone>
     </timezones>
@@ -11966,6 +12300,9 @@
     <keyboards>
       <keyboard><keyboardId>ru(os_winkeys)</keyboardId><rank>1000</rank></keyboard>
     </keyboards>
+    <consolefonts>
+      <consolefont><consolefontId>latarcyrheb-sun16</consolefontId><rank>1000</rank></consolefont>
+    </consolefonts>
     <timezones>
       <timezone><timezoneId>Europe/Moscow</timezoneId><rank>1000</rank></timezone>
     </timezones>
@@ -12095,6 +12432,9 @@
     <keyboards>
       <keyboard><keyboardId>us</keyboardId><rank>1000</rank></keyboard>
     </keyboards>
+    <consolefonts>
+      <consolefont><consolefontId>latarcyrheb-sun16</consolefontId><rank>1000</rank></consolefont>
+    </consolefonts>
     <timezones>
       <timezone><timezoneId>Asia/Karachi</timezoneId><rank>600</rank></timezone>
       <timezone><timezoneId>Asia/Kolkata</timezoneId><rank>400</rank></timezone>
@@ -12178,6 +12518,9 @@
       <keyboard><keyboardId>us(altgr-intl)</keyboardId><rank>50</rank></keyboard>
       <keyboard><keyboardId>nl</keyboardId><rank>0</rank></keyboard>
     </keyboards>
+    <consolefonts>
+      <consolefont><consolefontId>latarcyrheb-sun16</consolefontId><rank>1000</rank></consolefont>
+    </consolefonts>
     <timezones>
       <timezone><timezoneId>America/Aruba</timezoneId><rank>1000</rank></timezone>
     </timezones>
@@ -12307,6 +12650,9 @@
     <keyboards>
       <keyboard><keyboardId>pl</keyboardId><rank>1000</rank></keyboard>
     </keyboards>
+    <consolefonts>
+      <consolefont><consolefontId>latarcyrheb-sun16</consolefontId><rank>1000</rank></consolefont>
+    </consolefonts>
     <timezones>
       <timezone><timezoneId>Europe/Warsaw</timezoneId><rank>1000</rank></timezone>
     </timezones>
@@ -12423,6 +12769,9 @@
     <keyboards>
       <keyboard><keyboardId>af(ps)</keyboardId><rank>1000</rank></keyboard>
     </keyboards>
+    <consolefonts>
+      <consolefont><consolefontId>latarcyrheb-sun16</consolefontId><rank>1000</rank></consolefont>
+    </consolefonts>
     <timezones>
       <timezone><timezoneId>Asia/Kabul</timezoneId><rank>1000</rank></timezone>
     </timezones>
@@ -12560,6 +12909,9 @@
       <keyboard><keyboardId>br</keyboardId><rank>600</rank></keyboard>
       <keyboard><keyboardId>pt</keyboardId><rank>400</rank></keyboard>
     </keyboards>
+    <consolefonts>
+      <consolefont><consolefontId>latarcyrheb-sun16</consolefontId><rank>1000</rank></consolefont>
+    </consolefonts>
     <timezones>
       <timezone><timezoneId>America/Bahia</timezoneId><rank>1000</rank></timezone>
       <timezone><timezoneId>America/Cuiaba</timezoneId><rank>1000</rank></timezone>
@@ -12706,6 +13058,9 @@
     <keyboards>
       <keyboard><keyboardId>ro</keyboardId><rank>1000</rank></keyboard>
     </keyboards>
+    <consolefonts>
+      <consolefont><consolefontId>latarcyrheb-sun16</consolefontId><rank>1000</rank></consolefont>
+    </consolefonts>
     <timezones>
       <timezone><timezoneId>Europe/Bucharest</timezoneId><rank>1000</rank></timezone>
     </timezones>
@@ -12841,6 +13196,9 @@
     <keyboards>
       <keyboard><keyboardId>ru</keyboardId><rank>1000</rank></keyboard>
     </keyboards>
+    <consolefonts>
+      <consolefont><consolefontId>latarcyrheb-sun16</consolefontId><rank>1000</rank></consolefont>
+    </consolefonts>
     <timezones>
       <timezone><timezoneId>Europe/Moscow</timezoneId><rank>300</rank></timezone>
       <timezone><timezoneId>Europe/Kaliningrad</timezoneId><rank>50</rank></timezone>
@@ -12962,6 +13320,9 @@
     <keyboards>
       <keyboard><keyboardId>us</keyboardId><rank>1000</rank></keyboard>
     </keyboards>
+    <consolefonts>
+      <consolefont><consolefontId>latarcyrheb-sun16</consolefontId><rank>1000</rank></consolefont>
+    </consolefonts>
     <timezones>
       <timezone><timezoneId>Africa/Kigali</timezoneId><rank>1000</rank></timezone>
     </timezones>
@@ -13077,6 +13438,9 @@
     <keyboards>
       <keyboard><keyboardId>us</keyboardId><rank>1000</rank></keyboard>
     </keyboards>
+    <consolefonts>
+      <consolefont><consolefontId>latarcyrheb-sun16</consolefontId><rank>1000</rank></consolefont>
+    </consolefonts>
     <timezones>
       <timezone><timezoneId>Asia/Kolkata</timezoneId><rank>1000</rank></timezone>
     </timezones>
@@ -13156,6 +13520,9 @@
     <keyboards>
       <keyboard><keyboardId>us</keyboardId><rank>1000</rank></keyboard>
     </keyboards>
+    <consolefonts>
+      <consolefont><consolefontId>latarcyrheb-sun16</consolefontId><rank>1000</rank></consolefont>
+    </consolefonts>
     <timezones>
       <timezone><timezoneId>Asia/Kolkata</timezoneId><rank>1000</rank></timezone>
     </timezones>
@@ -13241,6 +13608,9 @@
     <keyboards>
       <keyboard><keyboardId>it</keyboardId><rank>1000</rank></keyboard>
     </keyboards>
+    <consolefonts>
+      <consolefont><consolefontId>latarcyrheb-sun16</consolefontId><rank>1000</rank></consolefont>
+    </consolefonts>
     <timezones>
       <timezone><timezoneId>Europe/Rome</timezoneId><rank>1000</rank></timezone>
     </timezones>
@@ -13360,6 +13730,9 @@
     <keyboards>
       <keyboard><keyboardId>us</keyboardId><rank>1000</rank></keyboard>
     </keyboards>
+    <consolefonts>
+      <consolefont><consolefontId>latarcyrheb-sun16</consolefontId><rank>1000</rank></consolefont>
+    </consolefonts>
     <timezones>
       <timezone><timezoneId>Asia/Karachi</timezoneId><rank>900</rank></timezone>
       <timezone><timezoneId>Asia/Kolkata</timezoneId><rank>100</rank></timezone>
@@ -13386,6 +13759,9 @@
     <keyboards>
       <keyboard><keyboardId>us</keyboardId><rank>1000</rank></keyboard>
     </keyboards>
+    <consolefonts>
+      <consolefont><consolefontId>latarcyrheb-sun16</consolefontId><rank>1000</rank></consolefont>
+    </consolefonts>
     <timezones>
       <timezone><timezoneId>Asia/Karachi</timezoneId><rank>900</rank></timezone>
       <timezone><timezoneId>Asia/Kolkata</timezoneId><rank>100</rank></timezone>
@@ -13411,6 +13787,9 @@
     <keyboards>
       <keyboard><keyboardId>us</keyboardId><rank>1000</rank></keyboard>
     </keyboards>
+    <consolefonts>
+      <consolefont><consolefontId>latarcyrheb-sun16</consolefontId><rank>1000</rank></consolefont>
+    </consolefonts>
     <timezones>
       <timezone><timezoneId>Asia/Kolkata</timezoneId><rank>1000</rank></timezone>
     </timezones>
@@ -13505,6 +13884,9 @@
     <keyboards>
       <keyboard><keyboardId>no</keyboardId><rank>1000</rank></keyboard>
     </keyboards>
+    <consolefonts>
+      <consolefont><consolefontId>latarcyrheb-sun16</consolefontId><rank>1000</rank></consolefont>
+    </consolefonts>
     <timezones>
       <timezone><timezoneId>Europe/Oslo</timezoneId><rank>1000</rank></timezone>
     </timezones>
@@ -13527,6 +13909,9 @@
     <keyboards>
       <keyboard><keyboardId>ca(eng)</keyboardId><rank>1000</rank></keyboard>
     </keyboards>
+    <consolefonts>
+      <consolefont><consolefontId>latarcyrheb-sun16</consolefontId><rank>1000</rank></consolefont>
+    </consolefonts>
     <timezones>
       <timezone><timezoneId>America/Vancouver</timezoneId><rank>100</rank></timezone>
     </timezones>
@@ -13646,6 +14031,9 @@
     <keyboards>
       <keyboard><keyboardId>us</keyboardId><rank>1000</rank></keyboard>
     </keyboards>
+    <consolefonts>
+      <consolefont><consolefontId>latarcyrheb-sun16</consolefontId><rank>1000</rank></consolefont>
+    </consolefonts>
     <timezones>
       <timezone><timezoneId>Asia/Colombo</timezoneId><rank>1000</rank></timezone>
     </timezones>
@@ -13728,6 +14116,9 @@
     <keyboards>
       <keyboard><keyboardId>us</keyboardId><rank>1000</rank></keyboard>
     </keyboards>
+    <consolefonts>
+      <consolefont><consolefontId>latarcyrheb-sun16</consolefontId><rank>1000</rank></consolefont>
+    </consolefonts>
     <timezones>
       <timezone><timezoneId>Africa/Addis_Ababa</timezoneId><rank>1000</rank></timezone>
     </timezones>
@@ -13849,6 +14240,9 @@
     <keyboards>
       <keyboard><keyboardId>sk</keyboardId><rank>1000</rank></keyboard>
     </keyboards>
+    <consolefonts>
+      <consolefont><consolefontId>latarcyrheb-sun16</consolefontId><rank>1000</rank></consolefont>
+    </consolefonts>
     <timezones>
       <timezone><timezoneId>Europe/Bratislava</timezoneId><rank>1000</rank></timezone>
     </timezones>
@@ -13969,6 +14363,9 @@
     <keyboards>
       <keyboard><keyboardId>si</keyboardId><rank>1000</rank></keyboard>
     </keyboards>
+    <consolefonts>
+      <consolefont><consolefontId>latarcyrheb-sun16</consolefontId><rank>1000</rank></consolefont>
+    </consolefonts>
     <timezones>
       <timezone><timezoneId>Europe/Ljubljana</timezoneId><rank>1000</rank></timezone>
     </timezones>
@@ -14095,6 +14492,9 @@
       <keyboard><keyboardId>us</keyboardId><rank>600</rank></keyboard>
       <keyboard><keyboardId>ara</keyboardId><rank>400</rank></keyboard>
     </keyboards>
+    <consolefonts>
+      <consolefont><consolefontId>latarcyrheb-sun16</consolefontId><rank>1000</rank></consolefont>
+    </consolefonts>
     <timezones>
       <timezone><timezoneId>Africa/Mogadishu</timezoneId><rank>400</rank></timezone>
       <timezone><timezoneId>Africa/Addis_Ababa</timezoneId><rank>300</rank></timezone>
@@ -14218,6 +14618,9 @@
     <keyboards>
       <keyboard><keyboardId>al</keyboardId><rank>1000</rank></keyboard>
     </keyboards>
+    <consolefonts>
+      <consolefont><consolefontId>latarcyrheb-sun16</consolefontId><rank>1000</rank></consolefont>
+    </consolefonts>
     <timezones>
       <timezone><timezoneId>Europe/Tirane</timezoneId><rank>1000</rank></timezone>
     </timezones>
@@ -14342,6 +14745,9 @@
       <keyboard><keyboardId>sr</keyboardId><rank>600</rank></keyboard>
       <keyboard><keyboardId>sr(latin)</keyboardId><rank>300</rank></keyboard>
     </keyboards>
+    <consolefonts>
+      <consolefont><consolefontId>latarcyrheb-sun16</consolefontId><rank>1000</rank></consolefont>
+    </consolefonts>
     <timezones>
       <timezone><timezoneId>Europe/Belgrade</timezoneId><rank>900</rank></timezone>
       <timezone><timezoneId>Europe/Podgorica</timezoneId><rank>100</rank></timezone>
@@ -14369,6 +14775,9 @@
     <keyboards>
       <keyboard><keyboardId>sr</keyboardId><rank>1000</rank></keyboard>
     </keyboards>
+    <consolefonts>
+      <consolefont><consolefontId>latarcyrheb-sun16</consolefontId><rank>1000</rank></consolefont>
+    </consolefonts>
     <timezones>
       <timezone><timezoneId>Europe/Belgrade</timezoneId><rank>900</rank></timezone>
       <timezone><timezoneId>Europe/Podgorica</timezoneId><rank>100</rank></timezone>
@@ -14396,6 +14805,9 @@
     <keyboards>
       <keyboard><keyboardId>sr(latin)</keyboardId><rank>1000</rank></keyboard>
     </keyboards>
+    <consolefonts>
+      <consolefont><consolefontId>latarcyrheb-sun16</consolefontId><rank>1000</rank></consolefont>
+    </consolefonts>
     <timezones>
       <timezone><timezoneId>Europe/Belgrade</timezoneId><rank>900</rank></timezone>
       <timezone><timezoneId>Europe/Podgorica</timezoneId><rank>100</rank></timezone>
@@ -14491,6 +14903,9 @@
     <keyboards>
       <keyboard><keyboardId>us</keyboardId><rank>1000</rank></keyboard>
     </keyboards>
+    <consolefonts>
+      <consolefont><consolefontId>latarcyrheb-sun16</consolefontId><rank>1000</rank></consolefont>
+    </consolefonts>
     <timezones>
       <timezone><timezoneId>Africa/Johannesburg</timezoneId><rank>1000</rank></timezone>
     </timezones>
@@ -14600,6 +15015,9 @@
     <keyboards>
       <keyboard><keyboardId>us</keyboardId><rank>1000</rank></keyboard>
     </keyboards>
+    <consolefonts>
+      <consolefont><consolefontId>latarcyrheb-sun16</consolefontId><rank>1000</rank></consolefont>
+    </consolefonts>
     <timezones>
       <timezone><timezoneId>Africa/Johannesburg</timezoneId><rank>1000</rank></timezone>
     </timezones>
@@ -14733,6 +15151,9 @@
       <keyboard><keyboardId>se</keyboardId><rank>900</rank></keyboard>
       <keyboard><keyboardId>fi(nodeadkeys)</keyboardId><rank>100</rank></keyboard>
     </keyboards>
+    <consolefonts>
+      <consolefont><consolefontId>latarcyrheb-sun16</consolefontId><rank>1000</rank></consolefont>
+    </consolefonts>
     <timezones>
       <timezone><timezoneId>Europe/Stockholm</timezoneId><rank>900</rank></timezone>
       <timezone><timezoneId>Europe/Helsinki</timezoneId><rank>100</rank></timezone>
@@ -14856,6 +15277,9 @@
       <keyboard><keyboardId>ke</keyboardId><rank>501</rank></keyboard>
       <keyboard><keyboardId>tz</keyboardId><rank>499</rank></keyboard>
     </keyboards>
+    <consolefonts>
+      <consolefont><consolefontId>latarcyrheb-sun16</consolefontId><rank>1000</rank></consolefont>
+    </consolefonts>
     <timezones>
       <timezone><timezoneId>Africa/Nairobi</timezoneId><rank>501</rank></timezone>
       <timezone><timezoneId>Africa/Dar_es_Salaam</timezoneId><rank>499</rank></timezone>
@@ -14987,6 +15411,9 @@
     <keyboards>
       <keyboard><keyboardId>us</keyboardId><rank>1000</rank></keyboard>
     </keyboards>
+    <consolefonts>
+      <consolefont><consolefontId>latarcyrheb-sun16</consolefontId><rank>1000</rank></consolefont>
+    </consolefonts>
     <timezones>
       <timezone><timezoneId>Asia/Kolkata</timezoneId><rank>700</rank></timezone>
       <timezone><timezoneId>Asia/Colombo</timezoneId><rank>100</rank></timezone>
@@ -15109,6 +15536,9 @@
     <keyboards>
       <keyboard><keyboardId>us</keyboardId><rank>1000</rank></keyboard>
     </keyboards>
+    <consolefonts>
+      <consolefont><consolefontId>latarcyrheb-sun16</consolefontId><rank>1000</rank></consolefont>
+    </consolefonts>
     <timezones>
       <timezone><timezoneId>Asia/Kolkata</timezoneId><rank>1000</rank></timezone>
     </timezones>
@@ -15217,6 +15647,9 @@
     <keyboards>
       <keyboard><keyboardId>tj</keyboardId><rank>1000</rank></keyboard>
     </keyboards>
+    <consolefonts>
+      <consolefont><consolefontId>latarcyrheb-sun16</consolefontId><rank>1000</rank></consolefont>
+    </consolefonts>
     <timezones>
       <timezone><timezoneId>Asia/Dushanbe</timezoneId><rank>1000</rank></timezone>
     </timezones>
@@ -15347,6 +15780,9 @@
       <keyboard><keyboardId>th(pat></keyboardId><rank>0</rank></keyboard>
       <keyboard><keyboardId>th(tis)</keyboardId><rank>0</rank></keyboard>
     </keyboards>
+    <consolefonts>
+      <consolefont><consolefontId>latarcyrheb-sun16</consolefontId><rank>1000</rank></consolefont>
+    </consolefonts>
     <timezones>
       <timezone><timezoneId>Asia/Bangkok</timezoneId><rank>1000</rank></timezone>
     </timezones>
@@ -15465,6 +15901,9 @@
     <keyboards>
       <keyboard><keyboardId>et</keyboardId><rank>1000</rank></keyboard>
     </keyboards>
+    <consolefonts>
+      <consolefont><consolefontId>latarcyrheb-sun16</consolefontId><rank>1000</rank></consolefont>
+    </consolefonts>
     <timezones>
       <timezone><timezoneId>Africa/Asmara</timezoneId><rank>600</rank></timezone>
       <timezone><timezoneId>Africa/Addis_Ababa</timezoneId><rank>400</rank></timezone>
@@ -15548,6 +15987,9 @@
     <keyboards>
       <keyboard><keyboardId>et</keyboardId><rank>1000</rank></keyboard>
     </keyboards>
+    <consolefonts>
+      <consolefont><consolefontId>latarcyrheb-sun16</consolefontId><rank>1000</rank></consolefont>
+    </consolefonts>
     <timezones>
       <timezone><timezoneId>Africa/Asmara</timezoneId><rank>1000</rank></timezone>
     </timezones>
@@ -15665,6 +16107,9 @@
     <keyboards>
       <keyboard><keyboardId>tm</keyboardId><rank>1000</rank></keyboard>
     </keyboards>
+    <consolefonts>
+      <consolefont><consolefontId>latarcyrheb-sun16</consolefontId><rank>1000</rank></consolefont>
+    </consolefonts>
     <timezones>
       <timezone><timezoneId>Asia/Ashgabat</timezoneId><rank>1000</rank></timezone>
     </timezones>
@@ -15756,6 +16201,9 @@
     <keyboards>
       <keyboard><keyboardId>ph</keyboardId><rank>1000</rank></keyboard>
     </keyboards>
+    <consolefonts>
+      <consolefont><consolefontId>latarcyrheb-sun16</consolefontId><rank>1000</rank></consolefont>
+    </consolefonts>
     <timezones>
       <timezone><timezoneId>Asia/Manila</timezoneId><rank>1000</rank></timezone>
     </timezones>
@@ -15853,6 +16301,9 @@
     <keyboards>
       <keyboard><keyboardId>us</keyboardId><rank>1000</rank></keyboard>
     </keyboards>
+    <consolefonts>
+      <consolefont><consolefontId>latarcyrheb-sun16</consolefontId><rank>1000</rank></consolefont>
+    </consolefonts>
     <timezones>
       <timezone><timezoneId>Africa/Gaborone</timezoneId><rank>1000</rank></timezone>
     </timezones>
@@ -15981,6 +16432,9 @@
     <keyboards>
       <keyboard><keyboardId>tr</keyboardId><rank>1000</rank></keyboard>
     </keyboards>
+    <consolefonts>
+      <consolefont><consolefontId>latarcyrheb-sun16</consolefontId><rank>1000</rank></consolefont>
+    </consolefonts>
     <timezones>
       <timezone><timezoneId>Europe/Istanbul</timezoneId><rank>1000</rank></timezone>
     </timezones>
@@ -16076,6 +16530,9 @@
     <keyboards>
       <keyboard><keyboardId>us</keyboardId><rank>1000</rank></keyboard>
     </keyboards>
+    <consolefonts>
+      <consolefont><consolefontId>latarcyrheb-sun16</consolefontId><rank>1000</rank></consolefont>
+    </consolefonts>
     <timezones>
       <timezone><timezoneId>Africa/Johannesburg</timezoneId><rank>1000</rank></timezone>
     </timezones>
@@ -16181,6 +16638,9 @@
     <keyboards>
       <keyboard><keyboardId>ru(tt)</keyboardId><rank>1000</rank></keyboard>
     </keyboards>
+    <consolefonts>
+      <consolefont><consolefontId>latarcyrheb-sun16</consolefontId><rank>1000</rank></consolefont>
+    </consolefonts>
     <timezones>
       <timezone><timezoneId>Europe/Moscow</timezoneId><rank>1000</rank></timezone>
     </timezones>
@@ -16296,6 +16756,9 @@
     <keyboards>
       <keyboard><keyboardId>cn(uig)</keyboardId><rank>1000</rank></keyboard>
     </keyboards>
+    <consolefonts>
+      <consolefont><consolefontId>latarcyrheb-sun16</consolefontId><rank>1000</rank></consolefont>
+    </consolefonts>
     <timezones>
       <timezone><timezoneId>Asia/Shanghai</timezoneId><rank>1000</rank></timezone>
     </timezones>
@@ -16424,6 +16887,9 @@
     <keyboards>
       <keyboard><keyboardId>ua</keyboardId><rank>1000</rank></keyboard>
     </keyboards>
+    <consolefonts>
+      <consolefont><consolefontId>latarcyrheb-sun16</consolefontId><rank>1000</rank></consolefont>
+    </consolefonts>
     <timezones>
       <timezone><timezoneId>Europe/Kiev</timezoneId><rank>990</rank></timezone>
       <timezone><timezoneId>Europe/Simferopol</timezoneId><rank>1</rank></timezone>
@@ -16450,6 +16916,9 @@
     <keyboards>
       <keyboard><keyboardId>us</keyboardId><rank>1000</rank></keyboard>
     </keyboards>
+    <consolefonts>
+      <consolefont><consolefontId>latarcyrheb-sun16</consolefontId><rank>1000</rank></consolefont>
+    </consolefonts>
     <timezones>
       <timezone><timezoneId>America/Chicago</timezoneId><rank>1000</rank></timezone>
       <timezone><timezoneId>America/New_York</timezoneId><rank>1000</rank></timezone>
@@ -16581,6 +17050,9 @@
       <keyboard><keyboardId>pk</keyboardId><rank>501</rank></keyboard>
       <keyboard><keyboardId>in(urd-winkeys)</keyboardId><rank>499</rank></keyboard>
     </keyboards>
+    <consolefonts>
+      <consolefont><consolefontId>latarcyrheb-sun16</consolefontId><rank>1000</rank></consolefont>
+    </consolefonts>
     <timezones>
       <timezone><timezoneId>Asia/Karachi</timezoneId><rank>501</rank></timezone>
       <timezone><timezoneId>Asia/Kolkata</timezoneId><rank>499</rank></timezone>
@@ -16704,6 +17176,9 @@
       <keyboard><keyboardId>uz</keyboardId><rank>600</rank></keyboard>
       <keyboard><keyboardId>uz(latin)</keyboardId><rank>400</rank></keyboard>
     </keyboards>
+    <consolefonts>
+      <consolefont><consolefontId>latarcyrheb-sun16</consolefontId><rank>1000</rank></consolefont>
+    </consolefonts>
     <timezones>
       <timezone><timezoneId>Asia/Samarkand</timezoneId><rank>500</rank></timezone>
       <timezone><timezoneId>Asia/Tashkent</timezoneId><rank>500</rank></timezone>
@@ -16797,6 +17272,9 @@
     <keyboards>
       <keyboard><keyboardId>us</keyboardId><rank>1000</rank></keyboard>
     </keyboards>
+    <consolefonts>
+      <consolefont><consolefontId>latarcyrheb-sun16</consolefontId><rank>1000</rank></consolefont>
+    </consolefonts>
     <timezones>
       <timezone><timezoneId>Africa/Johannesburg</timezoneId><rank>1000</rank></timezone>
     </timezones>
@@ -16924,6 +17402,9 @@
     <keyboards>
       <keyboard><keyboardId>vn</keyboardId><rank>1000</rank></keyboard>
     </keyboards>
+    <consolefonts>
+      <consolefont><consolefontId>latarcyrheb-sun16</consolefontId><rank>1000</rank></consolefont>
+    </consolefonts>
     <timezones>
       <timezone><timezoneId>Asia/Ho_Chi_Minh</timezoneId><rank>1000</rank></timezone>
     </timezones>
@@ -17007,6 +17488,9 @@
       <keyboard><keyboardId>be(oss)</keyboardId><rank>900</rank></keyboard>
       <keyboard><keyboardId>be</keyboardId><rank>0</rank></keyboard>
     </keyboards>
+    <consolefonts>
+      <consolefont><consolefontId>latarcyrheb-sun16</consolefontId><rank>1000</rank></consolefont>
+    </consolefonts>
     <timezones>
       <timezone><timezoneId>Europe/Brussels</timezoneId><rank>1000</rank></timezone>
     </timezones>
@@ -17062,6 +17546,9 @@
     <keyboards>
       <keyboard><keyboardId>ch</keyboardId><rank>700</rank></keyboard>
     </keyboards>
+    <consolefonts>
+      <consolefont><consolefontId>latarcyrheb-sun16</consolefontId><rank>1000</rank></consolefont>
+    </consolefonts>
     <timezones>
       <timezone><timezoneId>Europe/Zurich</timezoneId><rank>1000</rank></timezone>
     </timezones>
@@ -17143,6 +17630,9 @@
     <keyboards>
       <keyboard><keyboardId>et</keyboardId><rank>1000</rank></keyboard>
     </keyboards>
+    <consolefonts>
+      <consolefont><consolefontId>latarcyrheb-sun16</consolefontId><rank>1000</rank></consolefont>
+    </consolefonts>
     <timezones>
       <timezone><timezoneId>Africa/Addis_Ababa</timezoneId><rank>1000</rank></timezone>
     </timezones>
@@ -17247,6 +17737,9 @@
     <keyboards>
       <keyboard><keyboardId>sn</keyboardId><rank>1000</rank></keyboard>
     </keyboards>
+    <consolefonts>
+      <consolefont><consolefontId>latarcyrheb-sun16</consolefontId><rank>1000</rank></consolefont>
+    </consolefonts>
     <timezones>
       <timezone><timezoneId>Africa/Dakar</timezoneId><rank>1000</rank></timezone>
     </timezones>
@@ -17364,6 +17857,9 @@
     <keyboards>
       <keyboard><keyboardId>us</keyboardId><rank>1000</rank></keyboard>
     </keyboards>
+    <consolefonts>
+      <consolefont><consolefontId>latarcyrheb-sun16</consolefontId><rank>1000</rank></consolefont>
+    </consolefonts>
     <timezones>
       <timezone><timezoneId>Africa/Johannesburg</timezoneId><rank>1000</rank></timezone>
     </timezones>
@@ -17477,6 +17973,9 @@
     <keyboards>
       <keyboard><keyboardId>us</keyboardId><rank>1000</rank></keyboard>
     </keyboards>
+    <consolefonts>
+      <consolefont><consolefontId>latarcyrheb-sun16</consolefontId><rank>1000</rank></consolefont>
+    </consolefonts>
     <timezones>
       <timezone><timezoneId>America/Anchorage</timezoneId><rank>1000</rank></timezone>
       <timezone><timezoneId>America/Chicago</timezoneId><rank>1000</rank></timezone>
@@ -17619,6 +18118,9 @@
     <keyboards>
       <keyboard><keyboardId>ng(yoruba)</keyboardId><rank>1000</rank></keyboard>
     </keyboards>
+    <consolefonts>
+      <consolefont><consolefontId>latarcyrheb-sun16</consolefontId><rank>1000</rank></consolefont>
+    </consolefonts>
     <timezones>
       <timezone><timezoneId>Africa/Lagos</timezoneId><rank>1000</rank></timezone>
     </timezones>
@@ -17706,6 +18208,9 @@
     <keyboards>
       <keyboard><keyboardId>cn</keyboardId><rank>1000</rank></keyboard>
     </keyboards>
+    <consolefonts>
+      <consolefont><consolefontId>latarcyrheb-sun16</consolefontId><rank>1000</rank></consolefont>
+    </consolefonts>
     <timezones>
       <timezone><timezoneId>Asia/Hong_Kong</timezoneId><rank>1000</rank></timezone>
     </timezones>
@@ -17841,6 +18346,9 @@
     <keyboards>
       <keyboard><keyboardId>cn</keyboardId><rank>1000</rank></keyboard>
     </keyboards>
+    <consolefonts>
+      <consolefont><consolefontId>latarcyrheb-sun16</consolefontId><rank>1000</rank></consolefont>
+    </consolefonts>
     <timezones>
       <timezone><timezoneId>Asia/Shanghai</timezoneId><rank>900</rank></timezone>
       <timezone><timezoneId>Asia/Taipei</timezoneId><rank>20</rank></timezone>
@@ -17867,6 +18375,9 @@
     <keyboards>
       <keyboard><keyboardId>cn</keyboardId><rank>1000</rank></keyboard>
     </keyboards>
+    <consolefonts>
+      <consolefont><consolefontId>latarcyrheb-sun16</consolefontId><rank>1000</rank></consolefont>
+    </consolefonts>
     <timezones>
       <timezone><timezoneId>Asia/Shanghai</timezoneId><rank>1000</rank></timezone>
     </timezones>
@@ -17890,6 +18401,9 @@
     <keyboards>
       <keyboard><keyboardId>cn</keyboardId><rank>1000</rank></keyboard>
     </keyboards>
+    <consolefonts>
+      <consolefont><consolefontId>latarcyrheb-sun16</consolefontId><rank>1000</rank></consolefont>
+    </consolefonts>
     <timezones>
       <timezone><timezoneId>Asia/Hong_Kong</timezoneId><rank>20</rank></timezone>
     </timezones>
@@ -17997,6 +18511,9 @@
     <keyboards>
       <keyboard><keyboardId>cn</keyboardId><rank>1000</rank></keyboard>
     </keyboards>
+    <consolefonts>
+      <consolefont><consolefontId>latarcyrheb-sun16</consolefontId><rank>1000</rank></consolefont>
+    </consolefonts>
     <timezones>
       <timezone><timezoneId>Asia/Shanghai</timezoneId><rank>20</rank></timezone>
       <timezone><timezoneId>Asia/Singapore</timezoneId><rank>19</rank></timezone>
@@ -18106,6 +18623,9 @@
     <keyboards>
       <keyboard><keyboardId>cn</keyboardId><rank>1000</rank></keyboard>
     </keyboards>
+    <consolefonts>
+      <consolefont><consolefontId>latarcyrheb-sun16</consolefontId><rank>1000</rank></consolefont>
+    </consolefonts>
     <timezones>
       <timezone><timezoneId>Asia/Taipei</timezoneId><rank>20</rank></timezone>
       <timezone><timezoneId>Asia/Hong_Kong</timezoneId><rank>19</rank></timezone>
@@ -18132,6 +18652,9 @@
     <keyboards>
       <keyboard><keyboardId>cn</keyboardId><rank>1000</rank></keyboard>
     </keyboards>
+    <consolefonts>
+      <consolefont><consolefontId>latarcyrheb-sun16</consolefontId><rank>1000</rank></consolefont>
+    </consolefonts>
     <timezones>
       <timezone><timezoneId>Asia/Macau</timezoneId><rank>20</rank></timezone>
     </timezones>
@@ -18155,6 +18678,9 @@
     <keyboards>
       <keyboard><keyboardId>cn</keyboardId><rank>1000</rank></keyboard>
     </keyboards>
+    <consolefonts>
+      <consolefont><consolefontId>latarcyrheb-sun16</consolefontId><rank>1000</rank></consolefont>
+    </consolefonts>
     <timezones>
       <timezone><timezoneId>Asia/Singapore</timezoneId><rank>1000</rank></timezone>
     </timezones>
@@ -18183,6 +18709,9 @@
     <keyboards>
       <keyboard><keyboardId>cn</keyboardId><rank>1000</rank></keyboard>
     </keyboards>
+    <consolefonts>
+      <consolefont><consolefontId>latarcyrheb-sun16</consolefontId><rank>1000</rank></consolefont>
+    </consolefonts>
     <timezones>
       <timezone><timezoneId>Asia/Taipei</timezoneId><rank>1000</rank></timezone>
     </timezones>
@@ -18308,6 +18837,9 @@
     <keyboards>
       <keyboard><keyboardId>us</keyboardId><rank>1000</rank></keyboard>
     </keyboards>
+    <consolefonts>
+      <consolefont><consolefontId>latarcyrheb-sun16</consolefontId><rank>1000</rank></consolefont>
+    </consolefonts>
     <timezones>
       <timezone><timezoneId>Africa/Johannesburg</timezoneId><rank>1000</rank></timezone>
     </timezones>
