@@ -3,6 +3,7 @@
 >>> lang_table.write_files(territoriesfilename="territories.xml.new", languagesfilename="languages.xml.new", keyboardsfilename="keyboards.xml.new")
 >>> from lang_table import list_locales
 >>> from lang_table import list_keyboards
+>>> from lang_table import list_consolefonts
 >>> from lang_table import test_language_territory
 >>> from lang_table import language_name
 >>> from lang_table import territory_name
@@ -12,6 +13,24 @@
 
 >>> list_keyboards(languageId="de", territoryId="BE") # doctest: +NORMALIZE_WHITESPACE
     ['be(oss)']
+
+>>> list_consolefonts(languageId="de", territoryId="DE") # doctest: +NORMALIZE_WHITESPACE
+    ['latarcyrheb-sun16']
+
+>>> list_consolefonts(languageId="el") # doctest: +NORMALIZE_WHITESPACE
+    ['iso07u-16', 'LatGrkCyr-8x16']
+
+>>> list_consolefonts(territoryId="GR") # doctest: +NORMALIZE_WHITESPACE
+    ['iso07u-16', 'LatGrkCyr-8x16']
+
+>>> list_consolefonts(languageId="el", territoryId="GR") # doctest: +NORMALIZE_WHITESPACE
+    ['iso07u-16']
+
+>>> list_consolefonts(languageId="el", territoryId="DE") # doctest: +NORMALIZE_WHITESPACE
+    ['iso07u-16', 'LatGrkCyr-8x16', 'latarcyrheb-sun16']
+
+>>> list_consolefonts(languageId="de", territoryId="GR") # doctest: +NORMALIZE_WHITESPACE
+    ['latarcyrheb-sun16', 'iso07u-16', 'LatGrkCyr-8x16']
 
 >>> test_language_territory(show_weights=False, languageId=None, territoryId=None) # doctest: +NORMALIZE_WHITESPACE
     None: []
