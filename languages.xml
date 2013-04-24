@@ -14023,7 +14023,7 @@
       <name><languageId>zu</languageId><name>i-Sinhala</name></name>
     </names>
     <locales>
-      <locale><localeId>te_LK.UTF-8</localeId><rank>1000</rank></locale>
+      <locale><localeId>si_LK.UTF-8</localeId><rank>1000</rank></locale>
     </locales>
     <territories>
       <territory><territoryId>LK</territoryId><rank>1000</rank></territory>
