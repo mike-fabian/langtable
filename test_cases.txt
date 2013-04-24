@@ -8,6 +8,285 @@
 >>> from lang_table import language_name
 >>> from lang_table import territory_name
 
+######################################################################
+# Start of tests to reproduce the results from mangleLocale(inLocale) in anaconda, see:
+# https://git.fedorahosted.org/cgit/anaconda.git/tree/pyanaconda/localization.py#n121
+
+>>> list_locales(show_weights=False, languageId="af") # doctest: +NORMALIZE_WHITESPACE
+    ['af_ZA.UTF-8']
+    
+>>> list_locales(show_weights=False, languageId="am") # doctest: +NORMALIZE_WHITESPACE
+    ['am_ET.UTF-8']
+
+# this puts ar_EG first instead of ar_SA from mangleLocale
+# (because EG is the Arabic country with the most inhabitants).
+# But this should not matter, all our Arabic translations
+# are in /usr/share/locale/ar/LC_MESSAGES/ at the moment, i.e. we do
+# not have different Arabic translations for different territories anyway,
+# than it does not matter that much which Arabic locale is choosen.
+# So I do not need to tweak the weights  here, I think.
+>>> list_locales(show_weights=False, languageId="ar") # doctest: +NORMALIZE_WHITESPACE
+    ['ar_EG.UTF-8', 'ar_SD.UTF-8', 'ar_DZ.UTF-8', 'ar_MA.UTF-8', 'ar_IQ.UTF-8', 'ar_SA.UTF-8', 'ar_YE.UTF-8', 'ar_SY.UTF-8', 'ar_TN.UTF-8', 'ar_LY.UTF-8', 'ar_JO.UTF-8', 'ar_AE.UTF-8', 'ar_LB.UTF-8', 'ar_KW.UTF-8', 'ar_OM.UTF-8', 'ar_QA.UTF-8', 'ar_BH.UTF-8', 'ar_IN.UTF-8']
+
+>>> list_locales(show_weights=False, languageId="as") # doctest: +NORMALIZE_WHITESPACE
+    ['as_IN.UTF-8']
+
+>>> list_locales(show_weights=False, languageId="ast") # doctest: +NORMALIZE_WHITESPACE
+    ['ast_ES.UTF-8']
+
+>>> list_locales(show_weights=False, languageId="be") # doctest: +NORMALIZE_WHITESPACE
+    ['be_BY.UTF-8', 'be_BY.UTF-8@latin']
+
+>>> list_locales(show_weights=False, languageId="bg") # doctest: +NORMALIZE_WHITESPACE
+    ['bg_BG.UTF-8']
+
+>>> list_locales(show_weights=False, languageId="bn") # doctest: +NORMALIZE_WHITESPACE
+    ['bn_BD.UTF-8', 'bn_IN.UTF-8']
+
+>>> list_locales(show_weights=False, languageId="bs") # doctest: +NORMALIZE_WHITESPACE
+    ['bs_BA.UTF-8']
+
+>>> list_locales(show_weights=False, languageId="ca") # doctest: +NORMALIZE_WHITESPACE
+    ['ca_ES.UTF-8', 'ca_FR.UTF-8', 'ca_AD.UTF-8', 'ca_IT.UTF-8']
+
+>>> list_locales(show_weights=False, languageId="cs") # doctest: +NORMALIZE_WHITESPACE
+    ['cs_CZ.UTF-8']
+
+>>> list_locales(show_weights=False, languageId="cy") # doctest: +NORMALIZE_WHITESPACE
+    ['cy_GB.UTF-8']
+
+>>> list_locales(show_weights=False, languageId="da") # doctest: +NORMALIZE_WHITESPACE
+    ['da_DK.UTF-8']
+
+>>> list_locales(show_weights=False, languageId="de") # doctest: +NORMALIZE_WHITESPACE
+    ['de_DE.UTF-8', 'de_AT.UTF-8', 'de_CH.UTF-8', 'de_BE.UTF-8', 'de_LU.UTF-8']
+
+>>> list_locales(show_weights=False, languageId="el") # doctest: +NORMALIZE_WHITESPACE
+    ['el_GR.UTF-8', 'el_CY.UTF-8']
+
+>>> list_locales(show_weights=False, languageId="en") # doctest: +NORMALIZE_WHITESPACE
+    ['en_US.UTF-8', 'en_GB.UTF-8', 'en_IN.UTF-8', 'en_AU.UTF-8', 'en_CA.UTF-8', 'en_DK.UTF-8', 'en_IE.UTF-8', 'en_NZ.UTF-8', 'en_NG.UTF-8', 'en_HK.UTF-8', 'en_PH.UTF-8', 'en_SG.UTF-8', 'en_ZA.UTF-8', 'en_ZM.UTF-8', 'en_ZW.UTF-8', 'en_BW.UTF-8', 'en_AG.UTF-8']
+
+# I put es_ES first here which is kind of arbitrary, Spain isn’t the
+# country with the biggest number of Spanish speaking people, but that
+# is what Anaconda’s mangleMap did so far and it is not clear which
+# country to put first in that list anyway.
+>>> list_locales(show_weights=False, languageId="es") # doctest: +NORMALIZE_WHITESPACE
+    ['es_ES.UTF-8', 'es_HN.UTF-8', 'es_VE.UTF-8', 'es_CL.UTF-8', 'es_CR.UTF-8', 'es_CU.UTF-8', 'es_PY.UTF-8', 'es_DO.UTF-8', 'es_EC.UTF-8', 'es_PE.UTF-8', 'es_UY.UTF-8', 'es_MX.UTF-8', 'es_PA.UTF-8', 'es_PR.UTF-8', 'es_US.UTF-8', 'es_CO.UTF-8', 'es_NI.UTF-8', 'es_BO.UTF-8', 'es_AR.UTF-8', 'es_SV.UTF-8', 'es_GT.UTF-8']
+
+>>> list_locales(show_weights=False, languageId="et") # doctest: +NORMALIZE_WHITESPACE
+    ['et_EE.UTF-8']
+
+>>> list_locales(show_weights=False, languageId="eu") # doctest: +NORMALIZE_WHITESPACE
+    ['eu_ES.UTF-8']
+
+>>> list_locales(show_weights=False, languageId="fa") # doctest: +NORMALIZE_WHITESPACE
+    ['fa_IR.UTF-8']
+
+>>> list_locales(show_weights=False, languageId="fi") # doctest: +NORMALIZE_WHITESPACE
+    ['fi_FI.UTF-8']
+
+>>> list_locales(show_weights=False, languageId="fr") # doctest: +NORMALIZE_WHITESPACE
+    ['fr_FR.UTF-8', 'fr_CA.UTF-8', 'fr_BE.UTF-8', 'fr_CH.UTF-8', 'fr_LU.UTF-8']
+
+>>> list_locales(show_weights=False, languageId="gl") # doctest: +NORMALIZE_WHITESPACE
+    ['gl_ES.UTF-8']
+
+>>> list_locales(show_weights=False, languageId="gu") # doctest: +NORMALIZE_WHITESPACE
+    ['gu_IN.UTF-8']
+
+>>> list_locales(show_weights=False, languageId="he") # doctest: +NORMALIZE_WHITESPACE
+    ['he_IL.UTF-8']
+
+>>> list_locales(show_weights=False, languageId="hi") # doctest: +NORMALIZE_WHITESPACE
+    ['hi_IN.UTF-8']
+
+>>> list_locales(show_weights=False, languageId="hr") # doctest: +NORMALIZE_WHITESPACE
+    ['hr_HR.UTF-8']
+
+>>> list_locales(show_weights=False, languageId="hu") # doctest: +NORMALIZE_WHITESPACE
+    ['hu_HU.UTF-8']
+
+>>> list_locales(show_weights=False, languageId="hy") # doctest: +NORMALIZE_WHITESPACE
+    ['hy_AM.UTF-8']
+
+>>> list_locales(show_weights=False, languageId="id") # doctest: +NORMALIZE_WHITESPACE
+    ['id_ID.UTF-8']
+
+# we have no ilo_PH.UTF-8 locale in glibc!
+>>> list_locales(show_weights=False, languageId="ilo") # doctest: +NORMALIZE_WHITESPACE
+    []
+
+>>> list_locales(show_weights=False, languageId="is") # doctest: +NORMALIZE_WHITESPACE
+    ['is_IS.UTF-8']
+
+>>> list_locales(show_weights=False, languageId="it") # doctest: +NORMALIZE_WHITESPACE
+    ['it_IT.UTF-8', 'it_CH.UTF-8']
+
+>>> list_locales(show_weights=False, languageId="ja") # doctest: +NORMALIZE_WHITESPACE
+    ['ja_JP.UTF-8']
+
+>>> list_locales(show_weights=False, languageId="ka") # doctest: +NORMALIZE_WHITESPACE
+    ['ka_GE.UTF-8']
+
+>>> list_locales(show_weights=False, languageId="kk") # doctest: +NORMALIZE_WHITESPACE
+    ['kk_KZ.UTF-8']
+
+>>> list_locales(show_weights=False, languageId="kn") # doctest: +NORMALIZE_WHITESPACE
+    ['kn_IN.UTF-8']
+
+>>> list_locales(show_weights=False, languageId="ko") # doctest: +NORMALIZE_WHITESPACE
+    ['ko_KR.UTF-8']
+
+>>> list_locales(show_weights=False, languageId="lt") # doctest: +NORMALIZE_WHITESPACE
+    ['lt_LT.UTF-8']
+
+>>> list_locales(show_weights=False, languageId="lv") # doctest: +NORMALIZE_WHITESPACE
+    ['lv_LV.UTF-8']
+
+>>> list_locales(show_weights=False, languageId="mai") # doctest: +NORMALIZE_WHITESPACE
+    ['mai_IN.UTF-8']
+
+>>> list_locales(show_weights=False, languageId="mk") # doctest: +NORMALIZE_WHITESPACE
+    ['mk_MK.UTF-8']
+
+>>> list_locales(show_weights=False, languageId="ml") # doctest: +NORMALIZE_WHITESPACE
+    ['ml_IN.UTF-8']
+
+>>> list_locales(show_weights=False, languageId="mr") # doctest: +NORMALIZE_WHITESPACE
+    ['mr_IN.UTF-8']
+
+>>> list_locales(show_weights=False, languageId="ms") # doctest: +NORMALIZE_WHITESPACE
+    ['ms_MY_AL.UTF-8']
+
+>>> list_locales(show_weights=False, languageId="nb") # doctest: +NORMALIZE_WHITESPACE
+    ['nb_NO.UTF-8']
+
+# this puts nds_NL first instead of nds_DE from mangleLocale
+# (because there seem to be more speakers of nds in NL than in DE).
+# It should not matter at though at the moment, all our nds translations
+# are  in /usr/share/locale/nds/LC_MESSAGES/ at the moment,
+# the right translations will be chosen no matter whether nds_DE.UTF-8
+# or nds_NL.UTF-8 is set as the locale.
+>>> list_locales(show_weights=False, languageId="nds") # doctest: +NORMALIZE_WHITESPACE
+    ['nds_NL.UTF-8', 'nds_DE.UTF-8']
+
+>>> list_locales(show_weights=False, languageId="ne") # doctest: +NORMALIZE_WHITESPACE
+    ['ne_NP.UTF-8']
+
+>>> list_locales(show_weights=False, languageId="nl") # doctest: +NORMALIZE_WHITESPACE
+    ['nl_NL.UTF-8', 'nl_BE.UTF-8', 'nl_AW.UTF-8']
+
+>>> list_locales(show_weights=False, languageId="nn") # doctest: +NORMALIZE_WHITESPACE
+    ['nn_NO.UTF-8']
+
+>>> list_locales(show_weights=False, languageId="nso") # doctest: +NORMALIZE_WHITESPACE
+    ['nso_ZA.UTF-8']
+
+>>> list_locales(show_weights=False, languageId="or") # doctest: +NORMALIZE_WHITESPACE
+    ['or_IN.UTF-8']
+
+# this puts pa_PK first instead of pa_IN from mangleLocale
+# (because there seem to be more speakers of pa in PK than in IN).
+# It should not matter at though at the moment, all our nds translations
+# are  in /usr/share/locale/pa/LC_MESSAGES/ at the moment,
+# the right translations will be chosen no matter whether pa_PK.UTF-8
+# or pa_IN.UTF-8 is set as the locale.
+>>> list_locales(show_weights=False, languageId="pa") # doctest: +NORMALIZE_WHITESPACE
+    ['pa_PK.UTF-8', 'pa_IN.UTF-8']
+
+>>> list_locales(show_weights=False, languageId="pl") # doctest: +NORMALIZE_WHITESPACE
+    ['pl_PL.UTF-8']
+
+# different from mangleLocale which gives pt_PT
+# (because Brazil is much bigger than Portugal).
+# Anaconda has translations for both Brasilian and Portuguese Portuguese:
+# $ ls /usr/share/locale/pt*/LC_MESSAGES/*anaco*
+# /usr/share/locale/pt/LC_MESSAGES/anaconda.mo
+# /usr/share/locale/pt_BR/LC_MESSAGES/anaconda.mo
+# So Anaconda needs to be specific here, just selecting languageId="pt"
+# cannot be enough.
+>>> list_locales(show_weights=False, languageId="pt") # doctest: +NORMALIZE_WHITESPACE
+    ['pt_BR.UTF-8', 'pt_PT.UTF-8']
+
+>>> list_locales(show_weights=False, languageId="ro") # doctest: +NORMALIZE_WHITESPACE
+    ['ro_RO.UTF-8']
+
+>>> list_locales(show_weights=False, languageId="ru") # doctest: +NORMALIZE_WHITESPACE
+    ['ru_RU.UTF-8', 'ru_UA.UTF-8']
+
+>>> list_locales(show_weights=False, languageId="si") # doctest: +NORMALIZE_WHITESPACE
+    ['si_LK.UTF-8']
+
+>>> list_locales(show_weights=False, languageId="sk") # doctest: +NORMALIZE_WHITESPACE
+    ['sk_SK.UTF-8']
+
+>>> list_locales(show_weights=False, languageId="sl") # doctest: +NORMALIZE_WHITESPACE
+    ['sl_SI.UTF-8']
+
+>>> list_locales(show_weights=False, languageId="sq") # doctest: +NORMALIZE_WHITESPACE
+    ['sq_AL.UTF-8']
+
+>>> list_locales(show_weights=False, languageId="sr") # doctest: +NORMALIZE_WHITESPACE
+    ['sr_RS.UTF-8', 'sr_RS.UTF-8@latin', 'sr_ME.UTF-8']
+
+>>> list_locales(show_weights=False, languageId="sr", scriptId="Cyrl") # doctest: +NORMALIZE_WHITESPACE
+    ['sr_RS.UTF-8', 'sr_ME.UTF-8']
+
+>>> list_locales(show_weights=False, languageId="sr", scriptId="Latn") # doctest: +NORMALIZE_WHITESPACE
+    ['sr_RS.UTF-8@latin']
+
+>>> list_locales(show_weights=False, languageId="sr_Latn") # doctest: +NORMALIZE_WHITESPACE
+    ['sr_RS.UTF-8@latin']
+
+>>> list_locales(show_weights=False, languageId="sr_Latn", scriptId="Latn") # doctest: +NORMALIZE_WHITESPACE
+    ['sr_RS.UTF-8@latin']
+
+>>> list_locales(show_weights=False, languageId="sr_Latn", scriptId="Cyrl") # doctest: +NORMALIZE_WHITESPACE
+    ['sr_RS.UTF-8@latin']
+
+>>> list_locales(show_weights=False, languageId="sr_Cyrl") # doctest: +NORMALIZE_WHITESPACE
+    ['sr_RS.UTF-8', 'sr_ME.UTF-8']
+
+>>> list_locales(show_weights=False, languageId="sr_Cyrl", scriptId="Latn") # doctest: +NORMALIZE_WHITESPACE
+    ['sr_RS.UTF-8', 'sr_ME.UTF-8']
+
+>>> list_locales(show_weights=False, languageId="sr_Cyrl", scriptId="Cyrl") # doctest: +NORMALIZE_WHITESPACE
+    ['sr_RS.UTF-8', 'sr_ME.UTF-8']
+
+>>> list_locales(show_weights=False, languageId="sv") # doctest: +NORMALIZE_WHITESPACE
+    ['sv_SE.UTF-8', 'sv_FI.UTF-8']
+
+>>> list_locales(show_weights=False, languageId="ta") # doctest: +NORMALIZE_WHITESPACE
+    ['ta_IN.UTF-8', 'ta_LK.UTF-8']
+
+>>> list_locales(show_weights=False, languageId="te") # doctest: +NORMALIZE_WHITESPACE
+    ['te_IN.UTF-8']
+
+>>> list_locales(show_weights=False, languageId="tg") # doctest: +NORMALIZE_WHITESPACE
+    ['tg_TJ.UTF-8']
+
+>>> list_locales(show_weights=False, languageId="th") # doctest: +NORMALIZE_WHITESPACE
+    ['th_TH.UTF-8']
+
+>>> list_locales(show_weights=False, languageId="tr") # doctest: +NORMALIZE_WHITESPACE
+    ['tr_TR.UTF-8', 'tr_CY.UTF-8']
+
+>>> list_locales(show_weights=False, languageId="uk") # doctest: +NORMALIZE_WHITESPACE
+    ['uk_UA.UTF-8']
+
+>>> list_locales(show_weights=False, languageId="ur") # doctest: +NORMALIZE_WHITESPACE
+    ['ur_PK.UTF-8', 'ur_IN.UTF-8']
+
+>>> list_locales(show_weights=False, languageId="vi") # doctest: +NORMALIZE_WHITESPACE
+    ['vi_VN.UTF-8']
+
+>>> list_locales(show_weights=False, languageId="zu") # doctest: +NORMALIZE_WHITESPACE
+    ['zu_ZA.UTF-8']
+
+# End of tests to reproduce the results from mangleLocale(inLocale) in anaconda
+######################################################################
+
 >>> list_locales(languageId="de", territoryId="BE") # doctest: +NORMALIZE_WHITESPACE
     ['de_BE.UTF-8']
 
