@@ -3811,51 +3811,51 @@
       <name><languageId>zu</languageId><name>isiSpeyini</name></name>
     </names>
     <locales>
-      <locale><localeId>es_AR.UTF-8</localeId><rank>1000</rank></locale>
-      <locale><localeId>es_BO.UTF-8</localeId><rank>1000</rank></locale>
-      <locale><localeId>es_CL.UTF-8</localeId><rank>1000</rank></locale>
-      <locale><localeId>es_CO.UTF-8</localeId><rank>1000</rank></locale>
-      <locale><localeId>es_CR.UTF-8</localeId><rank>1000</rank></locale>
-      <locale><localeId>es_CU.UTF-8</localeId><rank>1000</rank></locale>
-      <locale><localeId>es_DO.UTF-8</localeId><rank>1000</rank></locale>
-      <locale><localeId>es_EC.UTF-8</localeId><rank>1000</rank></locale>
       <locale><localeId>es_ES.UTF-8</localeId><rank>1000</rank></locale>
-      <locale><localeId>es_GT.UTF-8</localeId><rank>1000</rank></locale>
-      <locale><localeId>es_HN.UTF-8</localeId><rank>1000</rank></locale>
-      <locale><localeId>es_MX.UTF-8</localeId><rank>1000</rank></locale>
-      <locale><localeId>es_NI.UTF-8</localeId><rank>1000</rank></locale>
-      <locale><localeId>es_PA.UTF-8</localeId><rank>1000</rank></locale>
-      <locale><localeId>es_PE.UTF-8</localeId><rank>1000</rank></locale>
-      <locale><localeId>es_PR.UTF-8</localeId><rank>1000</rank></locale>
-      <locale><localeId>es_PY.UTF-8</localeId><rank>1000</rank></locale>
-      <locale><localeId>es_SV.UTF-8</localeId><rank>1000</rank></locale>
-      <locale><localeId>es_US.UTF-8</localeId><rank>1000</rank></locale>
-      <locale><localeId>es_UY.UTF-8</localeId><rank>1000</rank></locale>
-      <locale><localeId>es_VE.UTF-8</localeId><rank>1000</rank></locale>
+      <locale><localeId>es_AR.UTF-8</localeId><rank>900</rank></locale>
+      <locale><localeId>es_BO.UTF-8</localeId><rank>900</rank></locale>
+      <locale><localeId>es_CL.UTF-8</localeId><rank>900</rank></locale>
+      <locale><localeId>es_CO.UTF-8</localeId><rank>900</rank></locale>
+      <locale><localeId>es_CR.UTF-8</localeId><rank>900</rank></locale>
+      <locale><localeId>es_CU.UTF-8</localeId><rank>900</rank></locale>
+      <locale><localeId>es_DO.UTF-8</localeId><rank>900</rank></locale>
+      <locale><localeId>es_EC.UTF-8</localeId><rank>900</rank></locale>
+      <locale><localeId>es_GT.UTF-8</localeId><rank>900</rank></locale>
+      <locale><localeId>es_HN.UTF-8</localeId><rank>900</rank></locale>
+      <locale><localeId>es_MX.UTF-8</localeId><rank>900</rank></locale>
+      <locale><localeId>es_NI.UTF-8</localeId><rank>900</rank></locale>
+      <locale><localeId>es_PA.UTF-8</localeId><rank>900</rank></locale>
+      <locale><localeId>es_PE.UTF-8</localeId><rank>900</rank></locale>
+      <locale><localeId>es_PR.UTF-8</localeId><rank>900</rank></locale>
+      <locale><localeId>es_PY.UTF-8</localeId><rank>900</rank></locale>
+      <locale><localeId>es_SV.UTF-8</localeId><rank>900</rank></locale>
+      <locale><localeId>es_US.UTF-8</localeId><rank>900</rank></locale>
+      <locale><localeId>es_UY.UTF-8</localeId><rank>900</rank></locale>
+      <locale><localeId>es_VE.UTF-8</localeId><rank>900</rank></locale>
     </locales>
     <territories>
-      <territory><territoryId>419</territoryId><rank>1000</rank></territory>
-      <territory><territoryId>AR</territoryId><rank>1000</rank></territory>
-      <territory><territoryId>BO</territoryId><rank>1000</rank></territory>
-      <territory><territoryId>CL</territoryId><rank>1000</rank></territory>
-      <territory><territoryId>CO</territoryId><rank>1000</rank></territory>
-      <territory><territoryId>CR</territoryId><rank>1000</rank></territory>
-      <territory><territoryId>CU</territoryId><rank>1000</rank></territory>
-      <territory><territoryId>DO</territoryId><rank>1000</rank></territory>
-      <territory><territoryId>EC</territoryId><rank>1000</rank></territory>
       <territory><territoryId>ES</territoryId><rank>1000</rank></territory>
-      <territory><territoryId>GT</territoryId><rank>1000</rank></territory>
-      <territory><territoryId>HN</territoryId><rank>1000</rank></territory>
-      <territory><territoryId>MX</territoryId><rank>1000</rank></territory>
-      <territory><territoryId>NI</territoryId><rank>1000</rank></territory>
-      <territory><territoryId>PA</territoryId><rank>1000</rank></territory>
-      <territory><territoryId>PE</territoryId><rank>1000</rank></territory>
-      <territory><territoryId>PR</territoryId><rank>1000</rank></territory>
-      <territory><territoryId>PY</territoryId><rank>1000</rank></territory>
-      <territory><territoryId>SV</territoryId><rank>1000</rank></territory>
-      <territory><territoryId>US</territoryId><rank>1000</rank></territory>
-      <territory><territoryId>UY</territoryId><rank>1000</rank></territory>
-      <territory><territoryId>VE</territoryId><rank>1000</rank></territory>
+      <territory><territoryId>419</territoryId><rank>900</rank></territory>
+      <territory><territoryId>AR</territoryId><rank>900</rank></territory>
+      <territory><territoryId>BO</territoryId><rank>900</rank></territory>
+      <territory><territoryId>CL</territoryId><rank>900</rank></territory>
+      <territory><territoryId>CO</territoryId><rank>900</rank></territory>
+      <territory><territoryId>CR</territoryId><rank>900</rank></territory>
+      <territory><territoryId>CU</territoryId><rank>900</rank></territory>
+      <territory><territoryId>DO</territoryId><rank>900</rank></territory>
+      <territory><territoryId>EC</territoryId><rank>900</rank></territory>
+      <territory><territoryId>GT</territoryId><rank>900</rank></territory>
+      <territory><territoryId>HN</territoryId><rank>900</rank></territory>
+      <territory><territoryId>MX</territoryId><rank>900</rank></territory>
+      <territory><territoryId>NI</territoryId><rank>900</rank></territory>
+      <territory><territoryId>PA</territoryId><rank>900</rank></territory>
+      <territory><territoryId>PE</territoryId><rank>900</rank></territory>
+      <territory><territoryId>PR</territoryId><rank>900</rank></territory>
+      <territory><territoryId>PY</territoryId><rank>900</rank></territory>
+      <territory><territoryId>SV</territoryId><rank>900</rank></territory>
+      <territory><territoryId>US</territoryId><rank>900</rank></territory>
+      <territory><territoryId>UY</territoryId><rank>900</rank></territory>
+      <territory><territoryId>VE</territoryId><rank>900</rank></territory>
     </territories>
     <keyboards>
       <keyboard><keyboardId>es</keyboardId><rank>501</rank></keyboard>
@@ -3865,39 +3865,39 @@
       <consolefont><consolefontId>latarcyrheb-sun16</consolefontId><rank>1000</rank></consolefont>
     </consolefonts>
     <timezones>
-      <timezone><timezoneId>America/Anchorage</timezoneId><rank>1000</rank></timezone>
-      <timezone><timezoneId>America/Argentina/Buenos_Aires</timezoneId><rank>1000</rank></timezone>
-      <timezone><timezoneId>America/Asuncion</timezoneId><rank>1000</rank></timezone>
-      <timezone><timezoneId>America/Bogota</timezoneId><rank>1000</rank></timezone>
-      <timezone><timezoneId>America/Caracas</timezoneId><rank>1000</rank></timezone>
-      <timezone><timezoneId>America/Chicago</timezoneId><rank>1000</rank></timezone>
-      <timezone><timezoneId>America/Chihuahua</timezoneId><rank>1000</rank></timezone>
-      <timezone><timezoneId>America/Costa_Rica</timezoneId><rank>1000</rank></timezone>
-      <timezone><timezoneId>America/Denver</timezoneId><rank>1000</rank></timezone>
-      <timezone><timezoneId>America/El_Salvador</timezoneId><rank>1000</rank></timezone>
-      <timezone><timezoneId>America/Guatemala</timezoneId><rank>1000</rank></timezone>
-      <timezone><timezoneId>America/Guayaquil</timezoneId><rank>1000</rank></timezone>
-      <timezone><timezoneId>America/Havana</timezoneId><rank>1000</rank></timezone>
-      <timezone><timezoneId>America/Hermosillo</timezoneId><rank>1000</rank></timezone>
-      <timezone><timezoneId>America/La_Paz</timezoneId><rank>1000</rank></timezone>
-      <timezone><timezoneId>America/Lima</timezoneId><rank>1000</rank></timezone>
-      <timezone><timezoneId>America/Los_Angeles</timezoneId><rank>1000</rank></timezone>
-      <timezone><timezoneId>America/Managua</timezoneId><rank>1000</rank></timezone>
-      <timezone><timezoneId>America/Matamoros</timezoneId><rank>1000</rank></timezone>
-      <timezone><timezoneId>America/Mexico_City</timezoneId><rank>1000</rank></timezone>
-      <timezone><timezoneId>America/Montevideo</timezoneId><rank>1000</rank></timezone>
-      <timezone><timezoneId>America/New_York</timezoneId><rank>1000</rank></timezone>
-      <timezone><timezoneId>America/Ojinaga</timezoneId><rank>1000</rank></timezone>
-      <timezone><timezoneId>America/Panama</timezoneId><rank>1000</rank></timezone>
-      <timezone><timezoneId>America/Phoenix</timezoneId><rank>1000</rank></timezone>
-      <timezone><timezoneId>America/Puerto_Rico</timezoneId><rank>1000</rank></timezone>
-      <timezone><timezoneId>America/Santa_Isabel</timezoneId><rank>1000</rank></timezone>
-      <timezone><timezoneId>America/Santiago</timezoneId><rank>1000</rank></timezone>
-      <timezone><timezoneId>America/Santo_Domingo</timezoneId><rank>1000</rank></timezone>
-      <timezone><timezoneId>America/Tegucigalpa</timezoneId><rank>1000</rank></timezone>
-      <timezone><timezoneId>America/Tijuana</timezoneId><rank>1000</rank></timezone>
       <timezone><timezoneId>Europe/Madrid</timezoneId><rank>1000</rank></timezone>
-      <timezone><timezoneId>Pacific/Honolulu</timezoneId><rank>1000</rank></timezone>
+      <timezone><timezoneId>America/Anchorage</timezoneId><rank>900</rank></timezone>
+      <timezone><timezoneId>America/Argentina/Buenos_Aires</timezoneId><rank>900</rank></timezone>
+      <timezone><timezoneId>America/Asuncion</timezoneId><rank>900</rank></timezone>
+      <timezone><timezoneId>America/Bogota</timezoneId><rank>900</rank></timezone>
+      <timezone><timezoneId>America/Caracas</timezoneId><rank>900</rank></timezone>
+      <timezone><timezoneId>America/Chicago</timezoneId><rank>900</rank></timezone>
+      <timezone><timezoneId>America/Chihuahua</timezoneId><rank>900</rank></timezone>
+      <timezone><timezoneId>America/Costa_Rica</timezoneId><rank>900</rank></timezone>
+      <timezone><timezoneId>America/Denver</timezoneId><rank>900</rank></timezone>
+      <timezone><timezoneId>America/El_Salvador</timezoneId><rank>900</rank></timezone>
+      <timezone><timezoneId>America/Guatemala</timezoneId><rank>900</rank></timezone>
+      <timezone><timezoneId>America/Guayaquil</timezoneId><rank>900</rank></timezone>
+      <timezone><timezoneId>America/Havana</timezoneId><rank>900</rank></timezone>
+      <timezone><timezoneId>America/Hermosillo</timezoneId><rank>900</rank></timezone>
+      <timezone><timezoneId>America/La_Paz</timezoneId><rank>900</rank></timezone>
+      <timezone><timezoneId>America/Lima</timezoneId><rank>900</rank></timezone>
+      <timezone><timezoneId>America/Los_Angeles</timezoneId><rank>900</rank></timezone>
+      <timezone><timezoneId>America/Managua</timezoneId><rank>900</rank></timezone>
+      <timezone><timezoneId>America/Matamoros</timezoneId><rank>900</rank></timezone>
+      <timezone><timezoneId>America/Mexico_City</timezoneId><rank>900</rank></timezone>
+      <timezone><timezoneId>America/Montevideo</timezoneId><rank>900</rank></timezone>
+      <timezone><timezoneId>America/New_York</timezoneId><rank>900</rank></timezone>
+      <timezone><timezoneId>America/Ojinaga</timezoneId><rank>900</rank></timezone>
+      <timezone><timezoneId>America/Panama</timezoneId><rank>900</rank></timezone>
+      <timezone><timezoneId>America/Phoenix</timezoneId><rank>900</rank></timezone>
+      <timezone><timezoneId>America/Puerto_Rico</timezoneId><rank>900</rank></timezone>
+      <timezone><timezoneId>America/Santa_Isabel</timezoneId><rank>900</rank></timezone>
+      <timezone><timezoneId>America/Santiago</timezoneId><rank>900</rank></timezone>
+      <timezone><timezoneId>America/Santo_Domingo</timezoneId><rank>900</rank></timezone>
+      <timezone><timezoneId>America/Tegucigalpa</timezoneId><rank>900</rank></timezone>
+      <timezone><timezoneId>America/Tijuana</timezoneId><rank>900</rank></timezone>
+      <timezone><timezoneId>Pacific/Honolulu</timezoneId><rank>900</rank></timezone>
       <timezone><timezoneId>America/Galapagos</timezoneId><rank>10</rank></timezone>
       <timezone><timezoneId>Pacific/Easter</timezoneId><rank>10</rank></timezone>
       <timezone><timezoneId>America/Adak</timezoneId><rank>1</rank></timezone>
