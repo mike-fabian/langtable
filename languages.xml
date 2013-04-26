@@ -7123,8 +7123,65 @@
     <iso639-2-t>ilo</iso639-2-t>
     <iso639-2-b>ilo</iso639-2-b>
     <names>
-      <name><languageId>en</languageId><name>Ilokano</name></name>
+      <name><languageId>ar</languageId><name>الإيلوكو</name></name>
+      <name><languageId>az</languageId><name>iloko dili</name></name>
+      <name><languageId>bg</languageId><name>илоко</name></name>
+      <name><languageId>bn</languageId><name>ইলোকো</name></name>
+      <name><languageId>brx</languageId><name>ईलोको</name></name>
+      <name><languageId>bs</languageId><name>iloko</name></name>
+      <name><languageId>ca</languageId><name>ilocà</name></name>
+      <name><languageId>cs</languageId><name>ilokánština</name></name>
+      <name><languageId>cy</languageId><name>Ilocaneg</name></name>
+      <name><languageId>da</languageId><name>iloko</name></name>
+      <name><languageId>de</languageId><name>Ilokano-Sprache</name></name>
+      <name><languageId>el</languageId><name>Ιλόκο</name></name>
+      <name><languageId>en</languageId><name>Iloko</name></name>
+      <name><languageId>es</languageId><name>ilocano</name></name>
+      <name><languageId>et</languageId><name>iloko</name></name>
+      <name><languageId>fa</languageId><name>ایلوکویی</name></name>
+      <name><languageId>fi</languageId><name>iloko</name></name>
+      <name><languageId>fr</languageId><name>ilokano</name></name>
+      <name><languageId>gu</languageId><name>ઇલોકો</name></name>
+      <name><languageId>he</languageId><name>אילוקו</name></name>
+      <name><languageId>hi</languageId><name>इलोको</name></name>
+      <name><languageId>hr</languageId><name>iloko</name></name>
+      <name><languageId>hu</languageId><name>ilokó</name></name>
+      <name><languageId>id</languageId><name>Iloko</name></name>
       <name><languageId>ilo</languageId><name>Ti Pagsasao nga Iloco</name></name>
+      <name><languageId>is</languageId><name>ílokó</name></name>
+      <name><languageId>it</languageId><name>ilocano</name></name>
+      <name><languageId>ja</languageId><name>イロカノ語</name></name>
+      <name><languageId>kn</languageId><name>ಇಲ್ಲಿಕೋ</name></name>
+      <name><languageId>ko</languageId><name>이로코어</name></name>
+      <name><languageId>ks</languageId><name>اِلوکو</name></name>
+      <name><languageId>lo</languageId><name>ໄອໂລໂກ</name></name>
+      <name><languageId>lt</languageId><name>iloko</name></name>
+      <name><languageId>lv</languageId><name>iloku</name></name>
+      <name><languageId>mk</languageId><name>илоко</name></name>
+      <name><languageId>ml</languageId><name>ഇലോകോ</name></name>
+      <name><languageId>mr</languageId><name>इलोको</name></name>
+      <name><languageId>mt</languageId><name>Iloko</name></name>
+      <name><languageId>nb</languageId><name>iloko</name></name>
+      <name><languageId>nl</languageId><name>Iloko</name></name>
+      <name><languageId>nn</languageId><name>iloko</name></name>
+      <name><languageId>or</languageId><name>ଇଲୋକୋ</name></name>
+      <name><languageId>pl</languageId><name>ilokano</name></name>
+      <name><languageId>pt</languageId><name>ilocano</name></name>
+      <name><languageId>ro</languageId><name>iloko</name></name>
+      <name><languageId>ru</languageId><name>илоко</name></name>
+      <name><languageId>sk</languageId><name>ilokánčina</name></name>
+      <name><languageId>sl</languageId><name>ilokanščina</name></name>
+      <name><languageId>sr</languageId><name>Илоко</name></name>
+      <name><languageId>sr_Latn</languageId><name>Iloko</name></name>
+      <name><languageId>sv</languageId><name>iloko</name></name>
+      <name><languageId>ta</languageId><name>இலோகோ</name></name>
+      <name><languageId>te</languageId><name>ఐయోకో</name></name>
+      <name><languageId>th</languageId><name>อีโลโก</name></name>
+      <name><languageId>tr</languageId><name>Iloko</name></name>
+      <name><languageId>uk</languageId><name>ілоканська</name></name>
+      <name><languageId>vi</languageId><name>Tiếng Iloko</name></name>
+      <name><languageId>zh</languageId><name>伊洛干诺文</name></name>
+      <name><languageId>zh_Hant</languageId><name>伊洛闊文</name></name>
     </names>
     <locales>
       <locale><localeId>ilo_PH.UTF-8</localeId><rank>0</rank></locale>
