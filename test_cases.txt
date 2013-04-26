@@ -236,21 +236,31 @@
 >>> list_locales(show_weights=False, languageId="sr", scriptId="Latn") # doctest: +NORMALIZE_WHITESPACE
     ['sr_RS.UTF-8@latin']
 
+# the script can also be specified in the languageId:
 >>> list_locales(show_weights=False, languageId="sr_Latn") # doctest: +NORMALIZE_WHITESPACE
     ['sr_RS.UTF-8@latin']
 
+# if the script is specified in the languageId already, it takes
+# precedence over a script specified in scriptId:
 >>> list_locales(show_weights=False, languageId="sr_Latn", scriptId="Latn") # doctest: +NORMALIZE_WHITESPACE
     ['sr_RS.UTF-8@latin']
 
+# if the script is specified in the languageId already, it takes
+# precedence over a script specified in scriptId:
 >>> list_locales(show_weights=False, languageId="sr_Latn", scriptId="Cyrl") # doctest: +NORMALIZE_WHITESPACE
     ['sr_RS.UTF-8@latin']
 
+# the script can also be specified in the languageId:
 >>> list_locales(show_weights=False, languageId="sr_Cyrl") # doctest: +NORMALIZE_WHITESPACE
     ['sr_RS.UTF-8', 'sr_ME.UTF-8']
 
+# if the script is specified in the languageId already, it takes
+# precedence over a script specified in scriptId:
 >>> list_locales(show_weights=False, languageId="sr_Cyrl", scriptId="Latn") # doctest: +NORMALIZE_WHITESPACE
     ['sr_RS.UTF-8', 'sr_ME.UTF-8']
 
+# if the script is specified in the languageId already, it takes
+# precedence over a script specified in scriptId:
 >>> list_locales(show_weights=False, languageId="sr_Cyrl", scriptId="Cyrl") # doctest: +NORMALIZE_WHITESPACE
     ['sr_RS.UTF-8', 'sr_ME.UTF-8']
 
