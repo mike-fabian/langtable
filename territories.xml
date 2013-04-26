@@ -12042,11 +12042,13 @@
       <locale><localeId>fil_PH.UTF-8</localeId><rank>500</rank></locale>
       <locale><localeId>en_PH.UTF-8</localeId><rank>300</rank></locale>
       <locale><localeId>tl_PH.UTF-8</localeId><rank>200</rank></locale>
+      <locale><localeId>ilo_PH.UTF-8</localeId><rank>0</rank></locale>
     </locales>
     <languages>
       <language><languageId>fil</languageId><rank>500</rank></language>
       <language><languageId>en</languageId><rank>300</rank></language>
       <language><languageId>tl</languageId><rank>200</rank></language>
+      <language><languageId>ilo</languageId><rank>20</rank></language>
     </languages>
     <keyboards>
       <keyboard><keyboardId>ph</keyboardId><rank>1000</rank></keyboard>

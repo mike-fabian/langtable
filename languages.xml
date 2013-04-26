@@ -7118,6 +7118,31 @@
     </timezones>
   </language>
   <language>
+    <languageId>ilo</languageId>
+    <iso639-1>None</iso639-1>
+    <iso639-2-t>ilo</iso639-2-t>
+    <iso639-2-b>ilo</iso639-2-b>
+    <names>
+      <name><languageId>en</languageId><name>Ilokano</name></name>
+      <name><languageId>ilo</languageId><name>Ti Pagsasao nga Iloco</name></name>
+    </names>
+    <locales>
+      <locale><localeId>ilo_PH.UTF-8</localeId><rank>0</rank></locale>
+    </locales>
+    <territories>
+      <territory><territoryId>PH</territoryId><rank>1000</rank></territory>
+    </territories>
+    <keyboards>
+      <keyboard><keyboardId>ph</keyboardId><rank>1000</rank></keyboard>
+    </keyboards>
+    <consolefonts>
+      <consolefont><consolefontId>latarcyrheb-sun16</consolefontId><rank>1000</rank></consolefont>
+    </consolefonts>
+    <timezones>
+      <timezone><timezoneId>Asia/Manila</timezoneId><rank>10</rank></timezone>
+    </timezones>
+  </language>
+  <language>
     <languageId>is</languageId>
     <iso639-1>is</iso639-1>
     <iso639-2-t>isl</iso639-2-t>
