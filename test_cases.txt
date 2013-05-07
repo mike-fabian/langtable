@@ -1,12 +1,11 @@
->>> import lang_table
->>> lang_table.init(debug = True, logfilename="lang_table.log", territoriesfilename="territories.xml", languagesfilename="languages.xml", keyboardsfilename="keyboards.xml")
->>> lang_table.write_files(territoriesfilename="territories.xml.new", languagesfilename="languages.xml.new", keyboardsfilename="keyboards.xml.new")
->>> from lang_table import list_locales
->>> from lang_table import list_keyboards
->>> from lang_table import list_consolefonts
->>> from lang_table import test_language_territory
->>> from lang_table import language_name
->>> from lang_table import territory_name
+>>> import langtable
+>>> langtable.init(debug = True, logfilename="/dev/null", territoriesfilename="./territories.xml", languagesfilename="./languages.xml", keyboardsfilename="./keyboards.xml")
+>>> from langtable import list_locales
+>>> from langtable import list_keyboards
+>>> from langtable import list_consolefonts
+>>> from langtable import test_language_territory
+>>> from langtable import language_name
+>>> from langtable import territory_name
 
 ######################################################################
 # Start of tests to reproduce the results from mangleLocale(inLocale) in anaconda, see:

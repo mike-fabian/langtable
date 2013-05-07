@@ -19,6 +19,9 @@ import re
 import logging
 from lxml import etree
 
+# will be replaced by “make install”:
+datadir = '/usr/share/lang-table'
+
 territories = {}
 languages = {}
 keyboards = {}
@@ -51,7 +54,7 @@ class keyboard:
         self.comment = comment
         self.languages = languages
         self.territories = territories
-                  
+
 def read_territories_file(file):
     territoriesTree = etree.parse(file).getroot()
     if len(territoriesTree):
@@ -776,9 +779,9 @@ def test_language_territory(show_weights=False, languageId=None, scriptId=None, 
 
 def init(debug = False,
          logfilename = '/dev/null',
-         territoriesfilename = None,
-         languagesfilename = None,
-         keyboardsfilename = None):
+         territoriesfilename = datadir +'/territories.xml',
+         languagesfilename = datadir + '/languages.xml',
+         keyboardsfilename = datadir + '/keyboards.xml'):
     if not territoriesfilename \
        or not languagesfilename \
        or not keyboardsfilename:

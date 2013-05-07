@@ -1,0 +1,9 @@
+include unicode-license.txt
+include COPYING
+include ChangeLog
+include Makefile
+include MANIFEST.in
+include test_cases.txt
+include run_test_cases
+include main.py
+recursive-include tools *
