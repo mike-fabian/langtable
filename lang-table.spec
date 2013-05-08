@@ -9,6 +9,7 @@ License:        GPLv3+
 URL:            https://github.com/mike-fabian/lang-table
 Source0:        http://mfabian.fedorapeople.org/lang-table/%{name}-%{version}.tar.gz
 BuildArch:      noarch
+BuildRequires:  python-lxml
 BuildRequires:  python-devel
 
 %description
@@ -23,6 +24,7 @@ Summary:        Python module to query the lang-table-data
 Group:          Development/Tools
 Requires:       %{name} = %{version}-%{release}
 Requires:       %{name}-data = %{version}-%{release}
+Requires:       python-lxml
 
 %description python
 This package contains a Python module to query the data
@@ -47,7 +49,7 @@ perl -pi -e "s%datadir = '(.*)'%datadir = '%{_datadir}/lang-table'%" langtable.p
 %{__python} setup.py install --skip-build --prefix=%{_prefix} --install-data=%{_datadir}/lang-table --root $RPM_BUILD_ROOT
 
 %check
-#(cd $RPM_BUILD_DIR/%{name}-%{version}; %{__python} -m doctest test_cases.txt)
+(cd $RPM_BUILD_DIR/%{name}-%{version}; %{__python} -m doctest test_cases.txt)
 
 %files
 %doc README COPYING ChangeLog unicode-license.txt test_cases.txt
