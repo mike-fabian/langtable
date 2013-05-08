@@ -3,7 +3,11 @@ Version:        0.0.1
 Release:        1%{?dist}
 Summary:        For guessing reasonable defaults for locale, keyboard, territory, …
 Group:          Development/Tools
-License:        GPLv3+
+# the translations in languages.xml and territories.xml are (mostly)
+# imported from CLDR and are thus under the Unicode license, the
+# short name for this license is "MIT", see:
+# https://fedoraproject.org/wiki/Licensing:MIT?rd=Licensing/MIT#Modern_Style_without_sublicense_.28Unicode.29
+License:        GPLv3+ and MIT
 URL:            https://github.com/mike-fabian/lang-table
 Source0:        http://mfabian.fedorapeople.org/lang-table/%{name}-%{version}.tar.gz
 BuildArch:      noarch

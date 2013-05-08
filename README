@@ -16,9 +16,12 @@ License
 
 GPLv3+, see the included file “COPYING”.
 
-Translations for languages and territory names are from CLDR
-which is governed by teh Unicode Terms of Use, see the included
-file “unicode-license.txt”.
+Translations for languages and territory names are from CLDR which is
+governed by the Unicode Terms of Use, see the included file
+“unicode-license.txt”. The short name for this Unicode license is
+“MIT”. See:
+
+https://fedoraproject.org/wiki/Licensing:MIT?rd=Licensing/MIT#Modern_Style_without_sublicense_.28Unicode.29
 
 Installation
 ============
