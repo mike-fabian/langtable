@@ -10,7 +10,7 @@ URL:            https://github.com/mike-fabian/lang-table
 Source0:        http://mfabian.fedorapeople.org/lang-table/%{name}-%{version}.tar.gz
 BuildArch:      noarch
 BuildRequires:  python-lxml
-BuildRequires:  python-devel
+BuildRequires:  python2-devel
 
 %description
 lang-table is used to guess reasonable defaults for locale, keyboard,
