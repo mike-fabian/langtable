@@ -31,7 +31,7 @@ This package contains a Python module to query the data
 from lang-table-data.
 
 %package data
-Summary:        data files for lang-table
+Summary:        Data files for lang-table
 Group:          Development/Tools
 Requires:       %{name} = %{version}-%{release}
 
