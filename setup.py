@@ -12,7 +12,7 @@ setup(name='langtable',
       author_email='mfabian@redhat.com',
       url='https://github.com/mike-fabian/langtable',
       py_modules=['langtable'],
-      data_files = [('', ['keyboards.xml', 'languages.xml', 'territories.xml'])],
+      data_files = [('', ['data/keyboards.xml', 'data/languages.xml', 'data/territories.xml'])],
       classifiers=[
         'Development Status :: 2 - Pre-Alpha',
         'Environment :: Console',

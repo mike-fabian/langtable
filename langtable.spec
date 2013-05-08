@@ -51,7 +51,7 @@ perl -pi -e "s%datadir = '(.*)'%datadir = '%{_datadir}/langtable'%" langtable.py
 %{__python} setup.py install --skip-build --prefix=%{_prefix} --install-data=%{_datadir}/langtable --root $RPM_BUILD_ROOT
 
 %check
-(cd $RPM_BUILD_DIR/%{name}-%{version}; %{__python} -m doctest test_cases.txt)
+(cd $RPM_BUILD_DIR/%{name}-%{version}/data; PYTHONPATH=.. %{__python} -m doctest ../test_cases.txt)
 
 %files
 %doc README COPYING ChangeLog unicode-license.txt test_cases.txt

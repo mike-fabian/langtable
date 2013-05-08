@@ -10,7 +10,7 @@ install:
 
 .PHONY: test-local
 test-local:
-	python -m doctest test_cases.txt
+	(cd data/; PYTHONPATH=.. python -m doctest ../test_cases.txt)
 
 .PHONY: test
 test:
