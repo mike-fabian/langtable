@@ -29,7 +29,7 @@ opts['debug'] = False
 def parse_args():
     import argparse
     parser = argparse.ArgumentParser(
-        description='lang-table')
+        description='langtable')
     parser.add_argument('-T', '--territoriesfilename',
                         nargs='?',
                         type=str,
@@ -122,7 +122,7 @@ def get_translations_from_cldr(main_cldr_dir = None):
                           'tr': translations_languages[language_to_translate].encode('UTF-8')}
             else:
                 if opts['debug']:
-                    print "Not in lang-table: %(language_to_translate)s" \
+                    print "Not in langtable: %(language_to_translate)s" \
                         %{'language_to_translate': language_to_translate}
         for territory_to_translate in translations_territories:
             if territory_to_translate in langtable.territories:
@@ -150,7 +150,7 @@ def get_translations_from_cldr(main_cldr_dir = None):
                           'tr': translations_territories[territory_to_translate].encode('UTF-8')}
             else:
                 if opts['debug']:
-                    print "Not in lang-table: %(territory_to_translate)s" \
+                    print "Not in langtable: %(territory_to_translate)s" \
                         %{'territory_to_translate': territory_to_translate}
     return
 

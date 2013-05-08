@@ -1,5 +1,5 @@
 DESTDIR=/usr
-DATADIR=$(DESTDIR)/share/lang-table
+DATADIR=$(DESTDIR)/share/langtable
 DEBUG=
 PWD := $(shell pwd)
 SRCDIR=$(PWD)
@@ -28,7 +28,7 @@ MOCK_CONFIG=fedora-18-x86_64
 .PHONY: mockbuild
 mockbuild: dist
 	mkdir -p ./mockbuild-results/
-	mock --root $(MOCK_CONFIG) --buildsrpm --spec lang-table.spec --sources ./dist/
+	mock --root $(MOCK_CONFIG) --buildsrpm --spec langtable.spec --sources ./dist/
 	cp /var/lib/mock/$(MOCK_CONFIG)/result/* ./mockbuild-results
 	mock --rebuild ./mockbuild-results/*.src.rpm
 	cp /var/lib/mock/$(MOCK_CONFIG)/result/* ./mockbuild-results

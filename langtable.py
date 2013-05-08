@@ -20,7 +20,7 @@ import logging
 from lxml import etree
 
 # will be replaced by “make install”:
-datadir = '/usr/share/lang-table'
+datadir = '/usr/share/langtable'
 
 territories = {}
 languages = {}

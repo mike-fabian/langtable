@@ -1,11 +1,11 @@
 ======================================================================
-lang-table
+langtable
 ======================================================================
 
 Purpose of this package
 =======================
 
-lang-table is used to guess reasonable defaults for locale, keyboard,
+langtable is used to guess reasonable defaults for locale, keyboard,
 territory, …, if part of that information is already known. For
 example, guess the territory and the keyboard layout if the language
 is known or guess the language and keyboard layout if the territory is
@@ -26,7 +26,7 @@ https://fedoraproject.org/wiki/Licensing:MIT?rd=Licensing/MIT#Modern_Style_witho
 Installation
 ============
 
-To install lang-table, run
+To install langtable, run
 
      make install DESTDIR=/usr
 

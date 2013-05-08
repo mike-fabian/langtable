@@ -3,14 +3,14 @@
 from distutils.core import setup
 
 
-setup(name='lang-table',
+setup(name='langtable',
       version='0.0.1',
       description='guess reasonable defaults for locale, keyboard, territory, ...',
       long_description=open('README').read(),
       license="GPLv3+",
       author='Mike FABIAN',
       author_email='mfabian@redhat.com',
-      url='https://github.com/mike-fabian/lang-table',
+      url='https://github.com/mike-fabian/langtable',
       py_modules=['langtable'],
       data_files = [('', ['keyboards.xml', 'languages.xml', 'territories.xml'])],
       classifiers=[
