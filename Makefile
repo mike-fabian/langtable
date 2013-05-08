@@ -24,7 +24,7 @@ dist:
 clean:
 	git clean -dxf
 
-MOCK_CONFIG=fedora-18-x86_64
+MOCK_CONFIG=fedora-rawhide-x86_64
 .PHONY: mockbuild
 mockbuild: dist
 	mkdir -p ./mockbuild-results/
@@ -33,3 +33,7 @@ mockbuild: dist
 	mock --rebuild ./mockbuild-results/*.src.rpm
 	cp /var/lib/mock/$(MOCK_CONFIG)/result/* ./mockbuild-results
 
+.PHONY: review
+review: mockbuild
+	cp *.spec ./mockbuild-results/
+	(cd ./mockbuild-results/; fedora-review -n langtable -m $(MOCK_CONFIG) )
