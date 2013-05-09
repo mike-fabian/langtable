@@ -22,6 +22,29 @@ from lxml import etree
 # will be replaced by “make install”:
 datadir = '/usr/share/langtable'
 
+# For the ICU/CLDR locale pattern see: http://userguide.icu-project.org/locale
+# (We ignore the variant code here)
+cldr_locale_pattern = re.compile(
+    # language must be 2 or 3 lower case letters:
+    '^(?P<language>[a-z]{2,3}'
+    # language is only valid if
+    +'(?=$|@' # locale string ends here or only options follow
+    +'|_[A-Z][a-z]{3}(?=$|@|_[A-Z]{2}(?=$|@))' # valid script follows
+    +'|_[A-Z]{2}(?=$|@)' # valid territory follows
+    +'))'
+    # script must be 1 upper case letter followed by
+    # 3 lower case letters:
+    +'(?:_(?P<script>[A-Z][a-z]{3})'
+    # script is only valid if
+    +'(?=$|@' # locale string ends here or only options follow
+    +'|_[A-Z]{2}(?=$|@)' # valid territory follows
+    +')){0,1}'
+    # territory must be 2 upper case letters:
+    +'(?:_(?P<territory>[A-Z]{2})'
+    # territory is only valid if 
+    +'(?=$|@' # locale string ends here or only options follow
+    +')){0,1}')
+
 territories = {}
 languages = {}
 keyboards = {}
@@ -756,7 +779,20 @@ def list_consolefonts(concise=True, show_weights=False, languageId = None, scrip
     else:
         return ranked_list_to_list(ranked_list)
 
+def test_cldr_locale_pattern(localeId):
+    '''
+    Internal test function, do not use this.
+    '''
+    match = cldr_locale_pattern.match(localeId)
+    if match:
+        return [('language', match.group('language')), ('script', match.group('script')), ('territory', match.group('territory'))]
+    else:
+        return  []
+
 def test_language_territory(show_weights=False, languageId=None, scriptId=None, territoryId=None):
+    '''
+    Internal test function, do not use this.
+    '''
     print(str(languageId)+": "
           +repr(list_locales(show_weights=show_weights,languageId=languageId))
           +'\n'

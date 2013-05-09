@@ -6,6 +6,7 @@
 >>> from langtable import test_language_territory
 >>> from langtable import language_name
 >>> from langtable import territory_name
+>>> from langtable import test_cldr_locale_pattern
 
 ######################################################################
 # Start of tests to reproduce the results from mangleLocale(inLocale) in anaconda, see:
@@ -728,3 +729,41 @@
     Weissrussland
 
 
+######################################################################
+# testing locale pattern regexp:
+#  valid patterns:
+
+>>> test_cldr_locale_pattern(localeId="srx_XK") # doctest: +NORMALIZE_WHITESPACE
+    [('language', 'srx'), ('script', None), ('territory', 'XK')]
+
+>>> test_cldr_locale_pattern(localeId="sr_XK") # doctest: +NORMALIZE_WHITESPACE
+    [('language', 'sr'), ('script', None), ('territory', 'XK')]
+
+>>> test_cldr_locale_pattern(localeId="sr@foo") # doctest: +NORMALIZE_WHITESPACE
+    [('language', 'sr'), ('script', None), ('territory', None)]
+
+>>> test_cldr_locale_pattern(localeId="sr_Cyrl_RS") # doctest: +NORMALIZE_WHITESPACE
+    [('language', 'sr'), ('script', 'Cyrl'), ('territory', 'RS')]
+
+>>> test_cldr_locale_pattern(localeId="sr_Cyrl_RS@foo") # doctest: +NORMALIZE_WHITESPACE
+    [('language', 'sr'), ('script', 'Cyrl'), ('territory', 'RS')]
+
+>>> test_cldr_locale_pattern(localeId="srx_Artc_XK") # doctest: +NORMALIZE_WHITESPACE
+    [('language', 'srx'), ('script', 'Artc'), ('territory', 'XK')]
+
+#----------------------------------------------------------------------
+# invalid patterns:
+>>> test_cldr_locale_pattern(localeId="srxf_Artc_XK") # doctest: +NORMALIZE_WHITESPACE
+    []
+
+>>> test_cldr_locale_pattern(localeId="srx_ARtc_XK") # doctest: +NORMALIZE_WHITESPACE
+    []
+
+>>> test_cldr_locale_pattern(localeId="srx_Artc_XXK") # doctest: +NORMALIZE_WHITESPACE
+    []
+
+>>> test_cldr_locale_pattern(localeId="srx_XXK") # doctest: +NORMALIZE_WHITESPACE
+    []
+
+>>> test_cldr_locale_pattern(localeId="srx_Artc_Kx") # doctest: +NORMALIZE_WHITESPACE
+    []
