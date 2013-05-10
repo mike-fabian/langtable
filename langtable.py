@@ -343,6 +343,9 @@ def read_keyboards_file(file):
                     territories = territories)
 
 def write_territories_file(file):
+    '''
+    Only for internal use
+    '''
     file.write('<?xml version="1.0" encoding="UTF-8"?>\n')
     file.write('<territories>\n')
     for territoryId in sorted(territories):
@@ -407,6 +410,9 @@ def write_territories_file(file):
     return
 
 def write_languages_file(file):
+    '''
+    Only for internal use
+    '''
     file.write('<?xml version="1.0" encoding="UTF-8"?>\n')
     file.write('<languages>\n')
     for languageId in sorted(languages):
@@ -474,6 +480,9 @@ def write_languages_file(file):
     return
 
 def write_keyboards_file(file):
+    '''
+    Only for internal use
+    '''
     file.write('<?xml version="1.0" encoding="UTF-8"?>\n')
     file.write('<keyboards>\n')
     for keyboardId in sorted(keyboards):
@@ -517,6 +526,9 @@ def read_files(territoriesfilename, languagesfilename, keyboardsfilename):
         read_keyboards_file(keyboardsfile)
 
 def write_files(territoriesfilename, languagesfilename, keyboardsfilename):
+    '''
+    Only for internal use
+    '''
     with open(territoriesfilename, 'w') as territoriesfile:
         logging.info("writing territories file=%s" %territoriesfile)
         write_territories_file(territoriesfile)
@@ -546,7 +558,29 @@ def make_ranked_list_concise(ranked_list, cut_off_factor=1000):
             break
     return ranked_list
 
+def parse_and_split_languageId(languageId=None, scriptId=None, territoryId=None):
+    '''
+    Parses languageId and if it contains a valid ICU locale id,
+    return the values for language, script, and territory found
+    in languageId instead of the original values given.
+    '''
+    if (languageId):
+        match = cldr_locale_pattern.match(languageId)
+        if match:
+            languageId = match.group('language')
+            if match.group('script'):
+                scriptId = match.group('script')
+            if match.group('territory'):
+                territoryId = match.group('territory')
+        else:
+            logging.info("languageId contains invalid locale id=%s" %languageId)
+    return (languageId, scriptId, territoryId)
+
 def territory_name(territoryId = None, languageIdQuery = None, scriptIdQuery = None, territoryIdQuery = None):
+    languageIdQuery, scriptIdQuery, territoryIdQuery = parse_and_split_languageId(
+        languageId=languageIdQuery,
+        scriptId=scriptIdQuery,
+        territoryId=territoryIdQuery)
     if territoryId in territories:
         if languageIdQuery and scriptIdQuery and territoryIdQuery:
             icuLocaleIdQuery = languageIdQuery+'_'+scriptIdQuery+'_'+territoryIdQuery
@@ -567,6 +601,14 @@ def territory_name(territoryId = None, languageIdQuery = None, scriptIdQuery = N
     return ''
 
 def language_name(languageId = None, scriptId = None, territoryId = None, languageIdQuery = None, scriptIdQuery = None, territoryIdQuery = None):
+    languageId, scriptId, territoryId = parse_and_split_languageId(
+        languageId=languageId,
+        scriptId=scriptId,
+        territoryId=territoryId)
+    languageIdQuery, scriptIdQuery, territoryIdQuery = parse_and_split_languageId(
+        languageId=languageIdQuery,
+        scriptId=scriptIdQuery,
+        territoryId=territoryIdQuery)
     if not languageIdQuery:
         # get the endonym
         languageIdQuery = languageId
@@ -665,6 +707,10 @@ extra_bonus = 1000000
 def list_locales(concise=True, show_weights=False, languageId = None, scriptId = None, territoryId = None):
     ranked_locales = {}
     skipTerritory = False
+    languageId, scriptId, territoryId = parse_and_split_languageId(
+        languageId=languageId,
+        scriptId=scriptId,
+        territoryId=territoryId)
     if languageId and scriptId and territoryId and languageId+'_'+scriptId+'_'+territoryId in languages:
         languageId = languageId+'_'+scriptId+'_'+territoryId
         skipTerritory = True
@@ -704,6 +750,10 @@ def list_locales(concise=True, show_weights=False, languageId = None, scriptId =
 def list_keyboards(concise=True, show_weights=False, languageId = None, scriptId = None, territoryId = None):
     ranked_keyboards = {}
     skipTerritory = False
+    languageId, scriptId, territoryId = parse_and_split_languageId(
+        languageId=languageId,
+        scriptId=scriptId,
+        territoryId=territoryId)
     if languageId and scriptId and territoryId and languageId+'_'+scriptId+'_'+territoryId in languages:
         languageId = languageId+'_'+scriptId+'_'+territoryId
         skipTerritory = True
@@ -743,6 +793,10 @@ def list_keyboards(concise=True, show_weights=False, languageId = None, scriptId
 def list_consolefonts(concise=True, show_weights=False, languageId = None, scriptId = None, territoryId = None):
     ranked_consolefonts = {}
     skipTerritory = False
+    languageId, scriptId, territoryId = parse_and_split_languageId(
+        languageId=languageId,
+        scriptId=scriptId,
+        territoryId=territoryId)
     if languageId and scriptId and territoryId and languageId+'_'+scriptId+'_'+territoryId in languages:
         languageId = languageId+'_'+scriptId+'_'+territoryId
         skipTerritory = True

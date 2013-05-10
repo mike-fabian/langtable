@@ -300,8 +300,44 @@
 >>> list_locales(languageId="de", territoryId="BE") # doctest: +NORMALIZE_WHITESPACE
     ['de_BE.UTF-8']
 
+# territory given in languageId overrides territory given in territoryId:
+>>> list_locales(languageId="sr_RS", territoryId="BE") # doctest: +NORMALIZE_WHITESPACE
+    ['sr_RS.UTF-8', 'sr_RS.UTF-8@latin']
+
+# script given in languageId overrides script given in scriptId:
+>>> list_locales(languageId="sr_Cyrl_RS", scriptId="Latn") # doctest: +NORMALIZE_WHITESPACE
+    ['sr_RS.UTF-8']
+
+# script given in languageId overrides script given in scriptId:
+>>> list_locales(languageId="sr_Latn_RS", scriptId="Cyrl") # doctest: +NORMALIZE_WHITESPACE
+    ['sr_RS.UTF-8@latin']
+
+# script and territory given in languageId override script and territory in extra parameters:
+>>> list_locales(languageId="sr_Cyrl_RS", scriptId="Latn", territoryId="DE") # doctest: +NORMALIZE_WHITESPACE
+    ['sr_RS.UTF-8']
+
+# if languageId contains an invalid locale id, it is completely ignored:
+>>> list_locales(languageId="sr_CYrl_RS", scriptId="Latn", territoryId="DE") # doctest: +NORMALIZE_WHITESPACE
+    ['de_DE.UTF-8', 'nds_DE.UTF-8', 'hsb_DE.UTF-8', 'fy_DE.UTF-8']
+
 >>> list_keyboards(languageId="de", territoryId="BE") # doctest: +NORMALIZE_WHITESPACE
     ['be(oss)']
+
+# script and territory given in languageId override script and territory in extra parameters:
+>>> list_keyboards(languageId="sr_Latn", scriptId="Cyrl", territoryId="BE") # doctest: +NORMALIZE_WHITESPACE
+    ['sr(latin)', 'be(oss)']
+
+# script and territory given in languageId override script and territory in extra parameters:
+>>> list_keyboards(languageId="sr_Latn_RS", scriptId="Cyrl", territoryId="BE") # doctest: +NORMALIZE_WHITESPACE
+    ['sr(latin)']
+
+# script and territory given in languageId override script and territory in extra parameters:
+>>> list_keyboards(languageId="sr_Cyrl", scriptId="Latn", territoryId="BE") # doctest: +NORMALIZE_WHITESPACE
+    ['sr', 'be(oss)']
+
+# script and territory given in languageId override script and territory in extra parameters:
+>>> list_keyboards(languageId="sr_Cyrl_RS", scriptId="Latn", territoryId="BE") # doctest: +NORMALIZE_WHITESPACE
+    ['sr']
 
 >>> list_consolefonts(languageId="de", territoryId="DE") # doctest: +NORMALIZE_WHITESPACE
     ['latarcyrheb-sun16']
@@ -317,6 +353,10 @@
 
 >>> list_consolefonts(languageId="el", territoryId="DE") # doctest: +NORMALIZE_WHITESPACE
     ['iso07u-16', 'LatGrkCyr-8x16', 'latarcyrheb-sun16']
+
+# script and territory given in languageId override script and territory in extra parameters:
+>>> list_consolefonts(languageId="el_GR", territoryId="DE") # doctest: +NORMALIZE_WHITESPACE
+    ['iso07u-16']
 
 >>> list_consolefonts(languageId="de", territoryId="GR") # doctest: +NORMALIZE_WHITESPACE
     ['latarcyrheb-sun16', 'iso07u-16', 'LatGrkCyr-8x16']
@@ -684,6 +724,25 @@
 >>> print language_name(languageId="zh", scriptId="Hant", territoryId="MO").encode("UTF-8") # doctest: +NORMALIZE_WHITESPACE
     繁體中文
 
+>>> print language_name(languageId="sr").encode("UTF-8") # doctest: +NORMALIZE_WHITESPACE
+    Српски
+
+>>> print language_name(languageId="sr", scriptId="Cyrl", territoryId="RS").encode("UTF-8") # doctest: +NORMALIZE_WHITESPACE
+    Српски (Ћирилица)
+
+>>> print language_name(languageId="sr", scriptId="Latn", territoryId="RS").encode("UTF-8") # doctest: +NORMALIZE_WHITESPACE
+    Srpski (Latinica)
+
+>>> print language_name(languageId="sr", scriptId="Cyrl", territoryId="RS", languageIdQuery="en").encode("UTF-8") # doctest: +NORMALIZE_WHITESPACE
+    Serbian (Cyrillic)
+
+>>> print language_name(languageId="sr", scriptId="Latn", territoryId="RS", languageIdQuery="en").encode("UTF-8") # doctest: +NORMALIZE_WHITESPACE
+    Serbian (Latin)
+
+# script and territory given in languageId override script and territory in extra parameters:
+>>> print language_name(languageId="sr_Latn_RS", scriptId="Cyrl", territoryId="DE", languageIdQuery="en").encode("UTF-8") # doctest: +NORMALIZE_WHITESPACE
+    Serbian (Latin)
+
 >>> print territory_name(territoryId="AE", languageIdQuery="ar").encode("UTF-8") # doctest: +NORMALIZE_WHITESPACE
     الإمارات العربية المتحدة
 
@@ -728,6 +787,9 @@
 >>> print territory_name(territoryId="BY", languageIdQuery="de", scriptIdQuery="Latn", territoryIdQuery="CH").encode("UTF-8") # doctest: +NORMALIZE_WHITESPACE
     Weissrussland
 
+# script given in languageIdQuery overrides script given in scriptIdQuery:
+>>> print territory_name(territoryId="RS", languageIdQuery="sr_Cyrl_RS", scriptIdQuery="Latn", territoryIdQuery="CH").encode("UTF-8") # doctest: +NORMALIZE_WHITESPACE
+    Србија
 
 ######################################################################
 # testing locale pattern regexp:

@@ -14841,10 +14841,10 @@
     <iso639-2-t>srp</iso639-2-t>
     <iso639-2-b>srp</iso639-2-b>
     <names>
-      <name><languageId>de</languageId><name>Serbisch</name></name>
-      <name><languageId>en</languageId><name>Serbian</name></name>
-      <name><languageId>sr</languageId><name>Српски</name></name>
-      <name><languageId>sr_Latn</languageId><name>Srpski</name></name>
+      <name><languageId>de</languageId><name>Serbisch (Kyrillisch)</name></name>
+      <name><languageId>en</languageId><name>Serbian (Cyrillic)</name></name>
+      <name><languageId>sr</languageId><name>Српски (Ћирилица)</name></name>
+      <name><languageId>sr_Latn</languageId><name>Srpski (Ćirilica)</name></name>
     </names>
     <locales>
       <locale><localeId>sr_RS.UTF-8</localeId><rank>900</rank></locale>
@@ -14871,10 +14871,10 @@
     <iso639-2-t>srp</iso639-2-t>
     <iso639-2-b>srp</iso639-2-b>
     <names>
-      <name><languageId>de</languageId><name>Serbisch</name></name>
-      <name><languageId>en</languageId><name>Serbian</name></name>
-      <name><languageId>sr</languageId><name>Српски</name></name>
-      <name><languageId>sr_Latn</languageId><name>Srpski</name></name>
+      <name><languageId>de</languageId><name>Serbisch (Lateinish)</name></name>
+      <name><languageId>en</languageId><name>Serbian (Latin)</name></name>
+      <name><languageId>sr</languageId><name>Српски (Латиница)</name></name>
+      <name><languageId>sr_Latn</languageId><name>Srpski (Latinica)</name></name>
     </names>
     <locales>
       <locale><localeId>sr_RS.UTF-8@latin</localeId><rank>1000</rank></locale>
