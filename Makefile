@@ -30,7 +30,7 @@ mockbuild: dist
 	mkdir -p ./mockbuild-results/
 	mock --root $(MOCK_CONFIG) --buildsrpm --spec langtable.spec --sources ./dist/
 	cp /var/lib/mock/$(MOCK_CONFIG)/result/* ./mockbuild-results
-	mock --rebuild ./mockbuild-results/*.src.rpm
+	mock --root $(MOCK_CONFIG) --rebuild ./mockbuild-results/*.src.rpm
 	cp /var/lib/mock/$(MOCK_CONFIG)/result/* ./mockbuild-results
 
 .PHONY: review
