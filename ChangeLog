@@ -1,3 +1,9 @@
+2013-05-10  Mike FABIAN  <mfabian@redhat.com>
+
+	* Version 0.0.2 released.
+	* Prefer values for language, script, and territory found in
+	languageId over those found in the other parameters
+
 2013-05-07  Mike FABIAN  <mfabian@redhat.com>
 
 	* Version 0.0.1 released.

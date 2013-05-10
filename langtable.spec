@@ -1,5 +1,5 @@
 Name:           langtable
-Version:        0.0.1
+Version:        0.0.2
 Release:        1%{?dist}
 Summary:        For guessing reasonable defaults for locale, keyboard, territory, …
 Group:          Development/Tools
@@ -63,6 +63,10 @@ perl -pi -e "s%datadir = '(.*)'%datadir = '%{_datadir}/langtable'%" langtable.py
 %{_datadir}/langtable/*
 
 %changelog
+* Fri May 10 2013 Mike FABIAN <mfabian@redhat.com> - 0.0.2-1
+- update to 0.0.2
+- Prefer values for language, script, and territory found in languageId over those found in the other parameters
+
 * Tue May 07 2013 Mike FABIAN <mfabian@redhat.com> - 0.0.1-1
 - initial package
 
