@@ -7,6 +7,7 @@
 >>> from langtable import language_name
 >>> from langtable import territory_name
 >>> from langtable import test_cldr_locale_pattern
+>>> from langtable import supports_ascii
 
 ######################################################################
 # Start of tests to reproduce the results from mangleLocale(inLocale) in anaconda, see:
@@ -829,3 +830,12 @@
 
 >>> test_cldr_locale_pattern(localeId="srx_Artc_Kx") # doctest: +NORMALIZE_WHITESPACE
     []
+
+>>> supports_ascii("jp") # doctest: +NORMALIZE_WHITESPACE
+    True
+
+>>> supports_ascii("ru") # doctest: +NORMALIZE_WHITESPACE
+    False
+
+>>> supports_ascii("not_existing_in_database") # doctest: +NORMALIZE_WHITESPACE
+    False

@@ -833,6 +833,22 @@ def list_consolefonts(concise=True, show_weights=False, languageId = None, scrip
     else:
         return ranked_list_to_list(ranked_list)
 
+def supports_ascii(keyboardId=None):
+    '''
+    Returns True if the keyboard layout with that id can be used to
+    type ASCII, returns false if the keyboard layout can not be used
+    to type ASCII or if typing ASCII with that keyboard layout is
+    difficult.
+
+    >>> supports_ascii("jp")
+    True
+    >>> supports_ascii("ru")
+    False
+    '''
+    if keyboardId in keyboards:
+        return keyboards[keyboardId].ascii
+    return False
+
 def test_cldr_locale_pattern(localeId):
     '''
     Internal test function, do not use this.
