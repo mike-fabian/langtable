@@ -7,7 +7,7 @@ Group:          Development/Tools
 # imported from CLDR and are thus under the Unicode license, the
 # short name for this license is "MIT", see:
 # https://fedoraproject.org/wiki/Licensing:MIT?rd=Licensing/MIT#Modern_Style_without_sublicense_.28Unicode.29
-License:        GPLv3+ and MIT
+License:        GPLv3+
 URL:            https://github.com/mike-fabian/langtable
 Source0:        http://mfabian.fedorapeople.org/langtable/%{name}-%{version}.tar.gz
 BuildArch:      noarch
@@ -24,6 +24,7 @@ already known.
 %package python
 Summary:        Python module to query the langtable-data
 Group:          Development/Tools
+License:        GPLv3+
 Requires:       %{name} = %{version}-%{release}
 Requires:       %{name}-data = %{version}-%{release}
 Requires:       python-lxml
@@ -35,6 +36,7 @@ from langtable-data.
 %package data
 Summary:        Data files for langtable
 Group:          Development/Tools
+License:        GPLv3+ and MIT
 Requires:       %{name} = %{version}-%{release}
 
 %description data
