@@ -258,6 +258,18 @@
     </countries>
   </keyboard>
   <keyboard>
+    <keyboardId>de</keyboardId>
+    <description>German</description>
+    <ascii>True</ascii>
+    <languages>
+      <language><languageId>de</languageId><rank>1000</rank></language>
+    </languages>
+    <countries>
+      <country><countryId>DE</countryId><rank>900</rank></country>
+      <country><countryId>LU</countryId><rank>100</rank></country>
+    </countries>
+  </keyboard>
+  <keyboard>
     <keyboardId>de(deadacute)</keyboardId>
     <description>German (dead acute)</description>
     <ascii>True</ascii>
