@@ -541,6 +541,17 @@
     </countries>
   </keyboard>
   <keyboard>
+    <keyboardId>in(eng)</keyboardId>
+    <description>English (India, with RupeeSign)</description>
+    <ascii>True</ascii>
+    <languages>
+      <language><languageId>en</languageId><rank>1000</rank></language>
+    </languages>
+    <countries>
+      <country><countryId>IN</countryId><rank>1000</rank></country>
+    </countries>
+  </keyboard>
+  <keyboard>
     <keyboardId>in(urd-winkeys)</keyboardId>
     <description>Urdu (Winkeys)</description>
     <ascii>False</ascii>
@@ -1172,7 +1183,6 @@
       <country><countryId>DJ</countryId><rank>100</rank></country>
       <country><countryId>GL</countryId><rank>100</rank></country>
       <country><countryId>ID</countryId><rank>100</rank></country>
-      <country><countryId>IN</countryId><rank>100</rank></country>
       <country><countryId>LK</countryId><rank>100</rank></country>
       <country><countryId>MG</countryId><rank>100</rank></country>
       <country><countryId>MY</countryId><rank>100</rank></country>
