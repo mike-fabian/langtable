@@ -10,6 +10,7 @@ install:
 
 .PHONY: test-local
 test-local:
+	python langtable.py
 	(cd data/; PYTHONPATH=.. python -m doctest ../test_cases.txt)
 
 .PHONY: test

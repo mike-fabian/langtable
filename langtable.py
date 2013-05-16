@@ -594,6 +594,20 @@ def _parse_and_split_languageId(languageId=None, scriptId=None, territoryId=None
     return (languageId, scriptId, territoryId)
 
 def territory_name(territoryId = None, languageIdQuery = None, scriptIdQuery = None, territoryIdQuery = None):
+    '''Query translations of territory names
+
+    Examples:
+
+    Switzerland is called “Schweiz” in German:
+
+    >>> print territory_name(territoryId="CH", languageIdQuery="de").encode("UTF-8")
+    Schweiz
+
+    And it is called “Svizzera” in Italian:
+
+    >>> print territory_name(territoryId="CH", languageIdQuery="it").encode("UTF-8")
+    Svizzera
+    '''
     languageIdQuery, scriptIdQuery, territoryIdQuery = _parse_and_split_languageId(
         languageId=languageIdQuery,
         scriptId=scriptIdQuery,
@@ -618,6 +632,47 @@ def territory_name(territoryId = None, languageIdQuery = None, scriptIdQuery = N
     return ''
 
 def language_name(languageId = None, scriptId = None, territoryId = None, languageIdQuery = None, scriptIdQuery = None, territoryIdQuery = None):
+    '''Query translations of language names
+
+    Examples:
+
+    >>> print language_name(languageId="sr").encode("UTF-8")
+    Српски
+
+    I.e. the endonym for “Serbian” in the default Cyrillic script is
+    “Српски”.
+
+    If the script “Cyrl” is supplied as well, the result does not change
+    because it is already clear that this is Serbian in Cyrillic script.
+    So there is no need to print “Српски (Ћирилица)” here:
+
+    >>> print language_name(languageId="sr", scriptId="Cyrl").encode("UTF-8")
+    Српски
+
+    And in Latin script the endonym is:
+
+    >>> print language_name(languageId="sr", scriptId="Latn").encode("UTF-8")
+    Srpski
+
+    Again there is no need to print “Srpski (Latinica)” here, “Srpski”
+    alone is already clear enough.
+
+    And “Serbian” translated to English is:
+
+    >>> print language_name(languageId="sr", languageIdQuery="en").encode("UTF-8")
+    Serbian
+
+    If the language name for “Serbian with Cyrillic script” is
+    queried in English, the English name for the script needs to be in
+    the output to distinguish it from “Serbian with Latin script”:
+
+    >>> print language_name(languageId="sr", scriptId="Cyrl", languageIdQuery="en").encode("UTF-8")
+    Serbian (Cyrillic)
+
+    >>> print language_name(languageId="sr", scriptId="Latn", languageIdQuery="en").encode("UTF-8")
+    Serbian (Latin)
+
+    '''
     languageId, scriptId, territoryId = _parse_and_split_languageId(
         languageId=languageId,
         scriptId=scriptId,
@@ -722,6 +777,32 @@ def language_name(languageId = None, scriptId = None, territoryId = None, langua
 extra_bonus = 1000000
 
 def list_locales(concise=True, show_weights=False, languageId = None, scriptId = None, territoryId = None):
+    '''List suitable glibc locales
+
+    Examples:
+
+    List the suitable locales for the language “German”:
+
+    >>> list_locales(languageId="de")
+    ['de_DE.UTF-8', 'de_AT.UTF-8', 'de_CH.UTF-8', 'de_BE.UTF-8', 'de_LU.UTF-8']
+
+    So this returns a list of locales for German. These lists are
+    sorted in order of decreasing likelyhood, i.e. the most common
+    value comes first.
+
+    One can also list the possible locales for the territory “Switzerland”:
+
+    >>> list_locales(territoryId="CH")
+    ['de_CH.UTF-8', 'fr_CH.UTF-8', 'it_CH.UTF-8', 'wae_CH.UTF-8']
+
+
+    If one knows both, the language “German” and the territory
+    “Switzerland”, the result is unique:
+
+    >>> list_locales(languageId="de", territoryId="CH")
+    ['de_CH.UTF-8']
+
+    '''
     ranked_locales = {}
     skipTerritory = False
     languageId, scriptId, territoryId = _parse_and_split_languageId(
@@ -765,6 +846,26 @@ def list_locales(concise=True, show_weights=False, languageId = None, scriptId =
         return _ranked_list_to_list(ranked_list)
 
 def list_keyboards(concise=True, show_weights=False, languageId = None, scriptId = None, territoryId = None):
+    '''List likely X11 keyboard layouts
+
+    Examples:
+
+    Listing likely X11 keyboard layouts for “German”:
+
+    >>> list_keyboards(languageId="de")
+    ['de(nodeadkeys)', 'de(deadacute)', 'at(nodeadkeys)', 'ch', 'be(oss)']
+
+    Listing likely X11 keyboard layouts for “Switzerland”:
+
+    >>> list_keyboards(territoryId="CH")
+    ['ch', 'ch(fr)', 'it']
+
+    When specifying both “German” *and* “Switzerland”, the
+    returned X11 keyboard layout is unique:
+
+    >>> list_keyboards(languageId="de", territoryId="CH")
+    ['ch']
+    '''
     ranked_keyboards = {}
     skipTerritory = False
     languageId, scriptId, territoryId = _parse_and_split_languageId(

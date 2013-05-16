@@ -46,7 +46,17 @@ To run the test cases using the installed files:
 How to use it
 =============
 
-Some examples to show the usage (More examples are in the file test_cases.txt):
+import langtable
+
+Functions in the public API:
+
+     init()
+     list_locales()
+     list_keyboards()
+     list_consolefonts()
+     language_name()
+     territory_name()
+     supports_ascii()
 
 Initialization:
 
@@ -59,72 +69,7 @@ Initialization:
     >>> langtable.init()
     langtable.init()
 
-Querying the possible locales for the language “German”:
+Some examples to show the usage are found in the documentation
+of the public functions in langtable.py.
 
-    >>> langtable.list_locales(languageId="de")
-    langtable.list_locales(languageId="de")
-    ['de_DE.UTF-8', 'de_AT.UTF-8', 'de_CH.UTF-8', 'de_BE.UTF-8', 'de_LU.UTF-8']
-
-So this returns a list of locales for German. These lists are sorted in order
-of decreasing likelyhood, i.e. the most common value comes first.
-
-One can also query the possible locales for the territory “Switzerland”:
-
-    >>> langtable.list_locales(territoryId="CH")
-    langtable.list_locales(territoryId="CH")
-    ['de_CH.UTF-8', 'fr_CH.UTF-8', 'it_CH.UTF-8', 'wae_CH.UTF-8']
-
-If one knows both, the language “German” and the territory “Switzerland”, the result is
-unique:
-
-    >>> langtable.list_locales(languageId="de", territoryId="CH")
-    langtable.list_locales(languageId="de", territoryId="CH")
-    ['de_CH.UTF-8']
-
-Listing likely X11 keyboard layouts for “German”:
-
-    >>> langtable.list_keyboards(languageId="de")
-    langtable.list_keyboards(languageId="de")
-    ['de(nodeadkeys)', 'de(deadacute)', 'at(nodeadkeys)', 'ch', 'be(oss)']
-
-Listing likely X11 keyboard layouts for “Switzerland”:
-
-    >>> langtable.list_keyboards(territoryId="CH")
-    langtable.list_keyboards(territoryId="CH")
-    ['ch', 'ch(fr)', 'it']
-
-When specifying both “German” *and* “Switzerland”, the returned
-X11 keyboard layout is unique:
-
-    >>> langtable.list_keyboards(languageId="de", territoryId="CH")
-    langtable.list_keyboards(languageId="de", territoryId="CH")
-    ['ch']
-
-One can also query the translations of language names:
-
-    >>> print langtable.language_name(languageId="sr").encode("UTF-8")
-    print langtable.language_name(languageId="sr").encode("UTF-8")
-    Српски
-
-I.e. the endonym for “Serbian” in the default Cyrillic script is “Српски”.
-And in Latin script it is:
-
-    >>> print langtable.language_name(languageId="sr", scriptId="Latn").encode("UTF-8")
-    print langtable.language_name(languageId="sr", scriptId="Latn").encode("UTF-8")
-    Srpski
-
-And “Serbian” translated to “English” is:
-
-    >>> print langtable.language_name(languageId="sr", languageIdQuery="en").encode("UTF-8")
-    print langtable.language_name(languageId="sr", languageIdQuery="en").encode("UTF-8")
-    Serbian
-
-Names for territories can also be queried:
-
-    >>> print langtable.territory_name(territoryId="CH", languageIdQuery="de").encode("UTF-8")
-    print langtable.territory_name(territoryId="CH", languageIdQuery="de").encode("UTF-8")
-    Schweiz
-    >>> print langtable.territory_name(territoryId="CH", languageIdQuery="it").encode("UTF-8")
-    print langtable.territory_name(territoryId="CH", languageIdQuery="it").encode("UTF-8")
-    Svizzera
-    >>>
+(Some more examples are in the test cases in the file test_cases.txt):
