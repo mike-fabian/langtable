@@ -13,7 +13,8 @@ test-local:
 	(cd data/; PYTHONPATH=.. python -m doctest ../test_cases.txt)
 
 .PHONY: test
-test:
+test: install
+	python langtable.py
 	(cd $(DATADIR); python -m doctest $(SRCDIR)/test_cases.txt)
 
 .PHONY: dist

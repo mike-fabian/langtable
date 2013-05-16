@@ -888,3 +888,7 @@ def init(debug = False,
                languagesfilename,
                keyboardsfilename)
 
+if __name__ == "__main__":
+    import doctest
+    init()
+    doctest.testmod()
