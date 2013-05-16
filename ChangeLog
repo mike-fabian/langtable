@@ -1,3 +1,16 @@
+2013-05-16  Mike FABIAN  <mfabian@redhat.com>
+
+	* Version 0.0.3 released.
+	* Move the examples from the README to the source code
+	* Some tweaks for the translation of Serbian
+	* Prefix all global functions and global variables which are internal with “_”
+	* Rename country → territory, countries → territories in keyboards.xml
+	* Add keyboard “in(eng)” and make it the default for all Indian languages
+	* Add a comment stating which functions should be considered public API
+	* Add a supports_ascii() function
+	* Run Python’s doctest also on langtable.py, not only the extra test_cases.txt
+	* Add  License:  tags  to subpackages in .spec file
+
 2013-05-10  Mike FABIAN  <mfabian@redhat.com>
 
 	* Version 0.0.2 released.

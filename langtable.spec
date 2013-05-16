@@ -1,7 +1,7 @@
 Name:           langtable
-Version:        0.0.2
+Version:        0.0.3
 Release:        1%{?dist}
-Summary:        For guessing reasonable defaults for locale, keyboard, territory, …
+Summary:        Guessing reasonable defaults for locale, keyboard layout, territory, and language.
 Group:          Development/Tools
 # the translations in languages.xml and territories.xml are (mostly)
 # imported from CLDR and are thus under the Unicode license, the
@@ -15,8 +15,8 @@ BuildRequires:  python-lxml
 BuildRequires:  python2-devel
 
 %description
-langtable is used to guess reasonable defaults for locale, keyboard,
-territory, …, if part of that information is already known. For
+langtable is used to guess reasonable defaults for locale, keyboard layout,
+territory, and language, if part of that information is already known. For
 example, guess the territory and the keyboard layout if the language
 is known or guess the language and keyboard layout if the territory is
 already known.
@@ -53,7 +53,7 @@ perl -pi -e "s,_datadir = '(.*)',_datadir = '%{_datadir}/langtable'," langtable.
 %{__python} setup.py install --skip-build --prefix=%{_prefix} --install-data=%{_datadir}/langtable --root $RPM_BUILD_ROOT
 
 %check
-(cd $RPM_BUILD_DIR/%{name}-%{version}/data; PYTHONPATH=.. %{__python} -m doctest ../test_cases.txt)
+(cd $RPM_BUILD_DIR/%{name}-%{version}/data; PYTHONPATH=.. %{__python} -m doctest ../test_cases.txt; %{__python} ../langtable.py)
 
 %files
 %doc README COPYING ChangeLog unicode-license.txt test_cases.txt
@@ -65,6 +65,17 @@ perl -pi -e "s,_datadir = '(.*)',_datadir = '%{_datadir}/langtable'," langtable.
 %{_datadir}/langtable/*
 
 %changelog
+* Thu May 16 2013 Mike FABIAN <mfabian@redhat.com> - 0.0.3-1
+- Update to 0.0.3
+- Move the examples from the README to the source code
+- Some tweaks for the translation of Serbian
+- Prefix all global functions and global variables which are internal with “_”
+- Rename country → territory, countries → territories in keyboards.xml
+- Add keyboard “in(eng)” and make it the default for all Indian languages
+- Add a comment stating which functions should be considered public API
+- Add a supports_ascii() function
+- Run Python’s doctest also on langtable.py, not only the extra test_cases.txt
+
 * Fri May 10 2013 Mike FABIAN <mfabian@redhat.com> - 0.0.2-1
 - update to 0.0.2
 - Prefer values for language, script, and territory found in languageId over those found in the other parameters
