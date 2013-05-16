@@ -30,21 +30,21 @@ def parse_args():
     import argparse
     parser = argparse.ArgumentParser(
         description='langtable')
-    parser.add_argument('-T', '--territoriesfilename',
+    parser.add_argument('-T', '--territoriesoutputfile',
                         nargs='?',
                         type=str,
-                        default='./data/territories.xml',
-                        help='territories file, default is ./territories.xml')
-    parser.add_argument('-K', '--keyboardsfilename',
+                        default='./data/territories.xml.new',
+                        help='territories output file, default is ./data/territories.xml.new')
+    parser.add_argument('-K', '--keyboardsoutputfile',
                         nargs='?',
                         type=str,
-                        default='./data/keyboards.xml',
-                        help='keyboards file, default is ./keyboards.xml')
-    parser.add_argument('-L', '--languagesfilename',
+                        default='./data/keyboards.xml.new',
+                        help='keyboards file, default is ./data/keyboards.xml.new')
+    parser.add_argument('-L', '--languagesoutputfile',
                         nargs='?',
                         type=str,
-                        default='./data/languages.xml',
-                        help='languages file, default is ./languages.xml')
+                        default='./data/languages.xml.new',
+                        help='languages output file, default is ./data/languages.xml.new')
     parser.add_argument('-l', '--logfilename',
                         nargs='?',
                         type=str,
@@ -161,17 +161,15 @@ def main():
     else:
         opts['debug'] = False
 
-    langtable.init(debug = True,
+    langtable._init(debug = True,
                     logfilename = args.logfilename,
-                    territoriesfilename = args.territoriesfilename,
-                    languagesfilename = args.languagesfilename,
-                    keyboardsfilename = args.keyboardsfilename)
+                    datadir = './data')
 
     get_translations_from_cldr(main_cldr_dir='/local/mfabian/src/cldr-svn/trunk/common/main')
 
-    langtable._write_files(territoriesfilename = args.territoriesfilename+'.new',
-                           languagesfilename = args.languagesfilename+'.new',
-                           keyboardsfilename = args.keyboardsfilename+'.new')
+    langtable._write_files(territoriesfilename = args.territoriesoutputfile,
+                           languagesfilename = args.languagesoutputfile,
+                           keyboardsfilename = args.keyboardsoutputfile)
 
 
 if __name__ == '__main__':

@@ -8,11 +8,6 @@ install:
 	perl -pi -e "s,_datadir = '(.*)',_datadir = '$(DATADIR)'," langtable.py
 	DISTUTILS_DEBUG=$(DEBUG) python ./setup.py install --prefix=$(DESTDIR) --install-data=$(DATADIR)
 
-.PHONY: test-local
-test-local:
-	python langtable.py
-	(cd data/; PYTHONPATH=.. python -m doctest ../test_cases.txt)
-
 .PHONY: test
 test: install
 	python langtable.py

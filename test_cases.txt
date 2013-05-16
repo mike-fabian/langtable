@@ -1,5 +1,4 @@
 >>> import langtable
->>> langtable.init(debug = True, logfilename="/dev/null", territoriesfilename="./territories.xml", languagesfilename="./languages.xml", keyboardsfilename="./keyboards.xml")
 >>> from langtable import list_locales
 >>> from langtable import list_keyboards
 >>> from langtable import list_consolefonts

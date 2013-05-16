@@ -18,7 +18,6 @@
 ######################################################################
 # Public API:
 #
-#     init()
 #     list_locales()
 #     list_keyboards()
 #     list_consolefonts()
@@ -32,6 +31,7 @@
 #
 ######################################################################
 
+import os
 import re
 import logging
 from lxml import etree
@@ -1006,10 +1006,15 @@ def init(debug = False,
          territoriesfilename = _datadir +'/territories.xml',
          languagesfilename = _datadir + '/languages.xml',
          keyboardsfilename = _datadir + '/keyboards.xml'):
-    if not territoriesfilename \
-       or not languagesfilename \
-       or not keyboardsfilename:
-        return
+    '''
+    Only for backwards compatibility, does nothing
+    '''
+    return
+
+def _init(debug = False,
+         logfilename = '/dev/null',
+         datadir = _datadir):
+
     log_level = logging.INFO
     if debug:
         log_level = logging.DEBUG
@@ -1018,11 +1023,43 @@ def init(debug = False,
                         format="%(levelname)s: %(message)s",
                         level=log_level)
 
+    territoriesfilename = os.path.join(datadir, 'territories.xml')
+    if not os.path.isfile(territoriesfilename):
+        territoriesfilename = './territories.xml'
+        if not os.path.isfile(territoriesfilename):
+            import traceback
+            traceback.print_exc()
+            return
+    languagesfilename = os.path.join(datadir, 'languages.xml')
+    if not os.path.isfile(languagesfilename):
+        languagesfilename = './languages.xml'
+        if not os.path.isfile(languagesfilename):
+            import traceback
+            traceback.print_exc()
+            return
+    keyboardsfilename = os.path.join(datadir, 'keyboards.xml')
+    if not os.path.isfile(keyboardsfilename):
+        keyboardsfilename = './keyboards.xml'
+        if not os.path.isfile(keyboardsfilename):
+            import traceback
+            traceback.print_exc()
+            return
+
     _read_files(territoriesfilename,
                languagesfilename,
                keyboardsfilename)
 
+class __ModuleInitializer:
+    def __init__(self):
+        _init()
+        return
+
+    def __del__(self):
+        return
+
+__module_init = __ModuleInitializer()
+
 if __name__ == "__main__":
     import doctest
-    init()
+    _init()
     doctest.testmod()

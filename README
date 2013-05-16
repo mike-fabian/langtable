@@ -50,24 +50,12 @@ import langtable
 
 Functions in the public API:
 
-     init()
      list_locales()
      list_keyboards()
      list_consolefonts()
      language_name()
      territory_name()
      supports_ascii()
-
-Initialization:
-
-    $ python
-    Python 2.7.3 (default, Aug  9 2012, 17:23:57) 
-    [GCC 4.7.1 20120720 (Red Hat 4.7.1-5)] on linux2
-    Type "help", "copyright", "credits" or "license" for more information.
-    >>> import langtable
-    import langtable
-    >>> langtable.init()
-    langtable.init()
 
 Some examples to show the usage are found in the documentation
 of the public functions in langtable.py.
