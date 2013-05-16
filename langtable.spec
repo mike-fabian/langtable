@@ -46,7 +46,7 @@ This package contains the data files for langtable.
 %setup -q
 
 %build
-perl -pi -e "s%datadir = '(.*)'%datadir = '%{_datadir}/langtable'%" langtable.py
+perl -pi -e "s,_datadir = '(.*)',_datadir = '%{_datadir}/langtable'," langtable.py
 %{__python} setup.py build
 
 %install

@@ -33,17 +33,17 @@ def parse_args():
     parser.add_argument('-T', '--territoriesfilename',
                         nargs='?',
                         type=str,
-                        default='./territories.xml',
+                        default='./data/territories.xml',
                         help='territories file, default is ./territories.xml')
     parser.add_argument('-K', '--keyboardsfilename',
                         nargs='?',
                         type=str,
-                        default='./keyboards.xml',
+                        default='./data/keyboards.xml',
                         help='keyboards file, default is ./keyboards.xml')
     parser.add_argument('-L', '--languagesfilename',
                         nargs='?',
                         type=str,
-                        default='./languages.xml',
+                        default='./data/languages.xml',
                         help='languages file, default is ./languages.xml')
     parser.add_argument('-l', '--logfilename',
                         nargs='?',
@@ -91,21 +91,21 @@ def read_translations_from_cldr_file(file = None):
     return
 
 def get_translations_from_cldr(main_cldr_dir = None):
-    for target_language in sorted(langtable.languages):
+    for target_language in sorted(langtable._languages_db):
         cldr_file = main_cldr_dir+'/'+target_language+'.xml'
         if not os.path.exists(cldr_file):
             continue
         read_translations_from_cldr_file(cldr_file)
         for language_to_translate in translations_languages:
-            if language_to_translate in langtable.languages:
-                if target_language not in langtable.languages[language_to_translate].names:
+            if language_to_translate in langtable._languages_db:
+                if target_language not in langtable._languages_db[language_to_translate].names:
                     print "Missing: %(language_to_translate)s → %(target_language)s = %(tr)s" \
                         %{'language_to_translate': language_to_translate,
                           'target_language': target_language,
                           'tr': translations_languages[language_to_translate].encode('UTF-8')}
-                    langtable.languages[language_to_translate].names[target_language] = translations_languages[language_to_translate]
+                    langtable._languages_db[language_to_translate].names[target_language] = translations_languages[language_to_translate]
                 elif translations_languages[language_to_translate] \
-                     == langtable.languages[language_to_translate].names[target_language]:
+                     == langtable._languages_db[language_to_translate].names[target_language]:
                     if opts['debug']:
                         print "Identical: %(language_to_translate)s → %(target_language)s = %(tr)s" \
                             %{'language_to_translate': language_to_translate,
@@ -115,7 +115,7 @@ def get_translations_from_cldr(main_cldr_dir = None):
                     print "- %(language_to_translate)s → %(target_language)s = %(tr)s" \
                         %{'language_to_translate': language_to_translate,
                           'target_language': target_language,
-                          'tr': langtable.languages[language_to_translate].names[target_language].encode('UTF-8')}
+                          'tr': langtable._languages_db[language_to_translate].names[target_language].encode('UTF-8')}
                     print "+ %(language_to_translate)s → %(target_language)s = %(tr)s" \
                         %{'language_to_translate': language_to_translate,
                           'target_language': target_language,
@@ -125,15 +125,15 @@ def get_translations_from_cldr(main_cldr_dir = None):
                     print "Not in langtable: %(language_to_translate)s" \
                         %{'language_to_translate': language_to_translate}
         for territory_to_translate in translations_territories:
-            if territory_to_translate in langtable.territories:
-                if target_language not in langtable.territories[territory_to_translate].names:
+            if territory_to_translate in langtable._territories_db:
+                if target_language not in langtable._territories_db[territory_to_translate].names:
                     print "Missing: %(territory_to_translate)s → %(target_language)s = %(tr)s" \
                         %{'territory_to_translate': territory_to_translate,
                           'target_language': target_language,
                           'tr': translations_territories[territory_to_translate].encode('UTF-8')}
-                    langtable.territories[territory_to_translate].names[target_language] = translations_territories[territory_to_translate]
+                    langtable._territories_db[territory_to_translate].names[target_language] = translations_territories[territory_to_translate]
                 elif translations_territories[territory_to_translate] \
-                     == langtable.territories[territory_to_translate].names[target_language]:
+                     == langtable._territories_db[territory_to_translate].names[target_language]:
                     if opts['debug']:
                         print "Identical: %(territory_to_translate)s → %(target_language)s = %(tr)s" \
                             %{'territory_to_translate': territory_to_translate,
@@ -143,7 +143,7 @@ def get_translations_from_cldr(main_cldr_dir = None):
                     print "- %(territory_to_translate)s → %(target_language)s = %(tr)s" \
                         %{'territory_to_translate': territory_to_translate,
                           'target_language': target_language,
-                          'tr': langtable.territories[territory_to_translate].names[target_language].encode('UTF-8')}
+                          'tr': langtable._territories_db[territory_to_translate].names[target_language].encode('UTF-8')}
                     print "+ %(territory_to_translate)s → %(target_language)s = %(tr)s" \
                         %{'territory_to_translate': territory_to_translate,
                           'target_language': target_language,
@@ -169,7 +169,7 @@ def main():
 
     get_translations_from_cldr(main_cldr_dir='/local/mfabian/src/cldr-svn/trunk/common/main')
 
-    langtable.write_files(territoriesfilename = args.territoriesfilename+'.new',
+    langtable._write_files(territoriesfilename = args.territoriesfilename+'.new',
                            languagesfilename = args.languagesfilename+'.new',
                            keyboardsfilename = args.keyboardsfilename+'.new')
 

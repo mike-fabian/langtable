@@ -3,10 +3,10 @@
 >>> from langtable import list_locales
 >>> from langtable import list_keyboards
 >>> from langtable import list_consolefonts
->>> from langtable import test_language_territory
+>>> from langtable import _test_language_territory
 >>> from langtable import language_name
 >>> from langtable import territory_name
->>> from langtable import test_cldr_locale_pattern
+>>> from langtable import _test_cldr_locale_pattern
 >>> from langtable import supports_ascii
 
 ######################################################################
@@ -362,7 +362,7 @@
 >>> list_consolefonts(languageId="de", territoryId="GR") # doctest: +NORMALIZE_WHITESPACE
     ['latarcyrheb-sun16', 'iso07u-16', 'LatGrkCyr-8x16']
 
->>> test_language_territory(show_weights=False, languageId=None, territoryId=None) # doctest: +NORMALIZE_WHITESPACE
+>>> _test_language_territory(show_weights=False, languageId=None, territoryId=None) # doctest: +NORMALIZE_WHITESPACE
     None: []
     None: []
      +: []
@@ -370,7 +370,7 @@
     None: []
      +: []
 
->>> test_language_territory(show_weights=False, languageId="be", territoryId="BY") # doctest: +NORMALIZE_WHITESPACE
+>>> _test_language_territory(show_weights=False, languageId="be", territoryId="BY") # doctest: +NORMALIZE_WHITESPACE
     be: ['be_BY.UTF-8', 'be_BY.UTF-8@latin']
     BY: ['be_BY.UTF-8', 'be_BY.UTF-8@latin']
      +: ['be_BY.UTF-8']
@@ -378,7 +378,7 @@
     BY: ['by']
      +: ['by']
 
->>> test_language_territory(show_weights=False, languageId="de", territoryId="CH") # doctest: +NORMALIZE_WHITESPACE
+>>> _test_language_territory(show_weights=False, languageId="de", territoryId="CH") # doctest: +NORMALIZE_WHITESPACE
     de: ['de_DE.UTF-8', 'de_AT.UTF-8', 'de_CH.UTF-8', 'de_BE.UTF-8', 'de_LU.UTF-8']
     CH: ['de_CH.UTF-8', 'fr_CH.UTF-8', 'it_CH.UTF-8', 'wae_CH.UTF-8']
      +: ['de_CH.UTF-8']
@@ -386,7 +386,7 @@
     CH: ['ch', 'ch(fr)', 'it']
      +: ['ch']
 
->>> test_language_territory(show_weights=False, languageId="fr", territoryId="CH") # doctest: +NORMALIZE_WHITESPACE
+>>> _test_language_territory(show_weights=False, languageId="fr", territoryId="CH") # doctest: +NORMALIZE_WHITESPACE
     fr: ['fr_FR.UTF-8', 'fr_CA.UTF-8', 'fr_BE.UTF-8', 'fr_CH.UTF-8', 'fr_LU.UTF-8']
     CH: ['de_CH.UTF-8', 'fr_CH.UTF-8', 'it_CH.UTF-8', 'wae_CH.UTF-8']
      +: ['fr_CH.UTF-8']
@@ -394,7 +394,7 @@
     CH: ['ch', 'ch(fr)', 'it']
      +: ['ch(fr)']
 
->>> test_language_territory(show_weights=False, languageId="fr", territoryId="FR") # doctest: +NORMALIZE_WHITESPACE
+>>> _test_language_territory(show_weights=False, languageId="fr", territoryId="FR") # doctest: +NORMALIZE_WHITESPACE
     fr: ['fr_FR.UTF-8', 'fr_CA.UTF-8', 'fr_BE.UTF-8', 'fr_CH.UTF-8', 'fr_LU.UTF-8']
     FR: ['fr_FR.UTF-8', 'br_FR.UTF-8', 'oc_FR.UTF-8', 'ca_FR.UTF-8']
      +: ['fr_FR.UTF-8']
@@ -402,7 +402,7 @@
     FR: ['fr(oss)']
      +: ['fr(oss)']
 
->>> test_language_territory(show_weights=False, languageId="de", territoryId="FR") # doctest: +NORMALIZE_WHITESPACE
+>>> _test_language_territory(show_weights=False, languageId="de", territoryId="FR") # doctest: +NORMALIZE_WHITESPACE
     de: ['de_DE.UTF-8', 'de_AT.UTF-8', 'de_CH.UTF-8', 'de_BE.UTF-8', 'de_LU.UTF-8']
     FR: ['fr_FR.UTF-8', 'br_FR.UTF-8', 'oc_FR.UTF-8', 'ca_FR.UTF-8']
      +: ['de_DE.UTF-8', 'de_AT.UTF-8', 'de_CH.UTF-8', 'de_BE.UTF-8', 'fr_FR.UTF-8', 'de_LU.UTF-8', 'br_FR.UTF-8', 'oc_FR.UTF-8', 'ca_FR.UTF-8']
@@ -410,7 +410,7 @@
     FR: ['fr(oss)']
      +: ['fr(oss)', 'de(nodeadkeys)', 'de(deadacute)', 'at(nodeadkeys)', 'ch', 'be(oss)']
 
->>> test_language_territory(show_weights=False, languageId="de", territoryId="BE") # doctest: +NORMALIZE_WHITESPACE
+>>> _test_language_territory(show_weights=False, languageId="de", territoryId="BE") # doctest: +NORMALIZE_WHITESPACE
     de: ['de_DE.UTF-8', 'de_AT.UTF-8', 'de_CH.UTF-8', 'de_BE.UTF-8', 'de_LU.UTF-8']
     BE: ['nl_BE.UTF-8', 'fr_BE.UTF-8', 'de_BE.UTF-8', 'wa_BE.UTF-8', 'li_BE.UTF-8']
      +: ['de_BE.UTF-8']
@@ -418,7 +418,7 @@
     BE: ['be(oss)']
      +: ['be(oss)']
 
->>> test_language_territory(show_weights=False, languageId="de", territoryId="AT") # doctest: +NORMALIZE_WHITESPACE
+>>> _test_language_territory(show_weights=False, languageId="de", territoryId="AT") # doctest: +NORMALIZE_WHITESPACE
     de: ['de_DE.UTF-8', 'de_AT.UTF-8', 'de_CH.UTF-8', 'de_BE.UTF-8', 'de_LU.UTF-8']
     AT: ['de_AT.UTF-8']
      +: ['de_AT.UTF-8']
@@ -426,7 +426,7 @@
     AT: ['at(nodeadkeys)']
      +: ['at(nodeadkeys)']
 
->>> test_language_territory(show_weights=False, languageId="de", territoryId="JP") # doctest: +NORMALIZE_WHITESPACE
+>>> _test_language_territory(show_weights=False, languageId="de", territoryId="JP") # doctest: +NORMALIZE_WHITESPACE
     de: ['de_DE.UTF-8', 'de_AT.UTF-8', 'de_CH.UTF-8', 'de_BE.UTF-8', 'de_LU.UTF-8']
     JP: ['ja_JP.UTF-8']
      +: ['de_DE.UTF-8', 'de_AT.UTF-8', 'de_CH.UTF-8', 'ja_JP.UTF-8', 'de_BE.UTF-8', 'de_LU.UTF-8']
@@ -434,7 +434,7 @@
     JP: ['jp']
      +: ['jp', 'de(nodeadkeys)', 'de(deadacute)', 'at(nodeadkeys)', 'ch', 'be(oss)']
 
->>> test_language_territory(show_weights=False, languageId="ja", territoryId="DE") # doctest: +NORMALIZE_WHITESPACE
+>>> _test_language_territory(show_weights=False, languageId="ja", territoryId="DE") # doctest: +NORMALIZE_WHITESPACE
     ja: ['ja_JP.UTF-8']
     DE: ['de_DE.UTF-8', 'nds_DE.UTF-8', 'hsb_DE.UTF-8', 'fy_DE.UTF-8']
      +: ['ja_JP.UTF-8', 'de_DE.UTF-8', 'nds_DE.UTF-8', 'hsb_DE.UTF-8', 'fy_DE.UTF-8']
@@ -442,7 +442,7 @@
     DE: ['de(nodeadkeys)', 'de(deadacute)']
      +: ['jp', 'de(nodeadkeys)', 'de(deadacute)']
 
->>> test_language_territory(show_weights=False, languageId="de", territoryId="ZA") # doctest: +NORMALIZE_WHITESPACE
+>>> _test_language_territory(show_weights=False, languageId="de", territoryId="ZA") # doctest: +NORMALIZE_WHITESPACE
     de: ['de_DE.UTF-8', 'de_AT.UTF-8', 'de_CH.UTF-8', 'de_BE.UTF-8', 'de_LU.UTF-8']
     ZA: ['zu_ZA.UTF-8', 'xh_ZA.UTF-8', 'af_ZA.UTF-8', 'en_ZA.UTF-8', 'nso_ZA.UTF-8', 'tn_ZA.UTF-8', 'st_ZA.UTF-8', 'ts_ZA.UTF-8', 'ss_ZA.UTF-8', 've_ZA.UTF-8', 'nr_ZA.UTF-8']
      +: ['de_DE.UTF-8', 'de_AT.UTF-8', 'de_CH.UTF-8', 'de_BE.UTF-8', 'de_LU.UTF-8', 'zu_ZA.UTF-8', 'xh_ZA.UTF-8', 'af_ZA.UTF-8', 'en_ZA.UTF-8', 'nso_ZA.UTF-8', 'tn_ZA.UTF-8', 'st_ZA.UTF-8', 'ts_ZA.UTF-8', 'ss_ZA.UTF-8', 've_ZA.UTF-8', 'nr_ZA.UTF-8']
@@ -450,7 +450,7 @@
     ZA: ['us']
      +: ['us', 'de(nodeadkeys)', 'de(deadacute)', 'at(nodeadkeys)', 'ch', 'be(oss)']
 
->>> test_language_territory(show_weights=False, languageId="ar", territoryId="EG") # doctest: +NORMALIZE_WHITESPACE
+>>> _test_language_territory(show_weights=False, languageId="ar", territoryId="EG") # doctest: +NORMALIZE_WHITESPACE
     ar: ['ar_EG.UTF-8', 'ar_SD.UTF-8', 'ar_DZ.UTF-8', 'ar_MA.UTF-8', 'ar_IQ.UTF-8', 'ar_SA.UTF-8', 'ar_YE.UTF-8', 'ar_SY.UTF-8', 'ar_TN.UTF-8', 'ar_LY.UTF-8', 'ar_JO.UTF-8', 'ar_AE.UTF-8', 'ar_LB.UTF-8', 'ar_KW.UTF-8', 'ar_OM.UTF-8', 'ar_QA.UTF-8', 'ar_BH.UTF-8', 'ar_IN.UTF-8']
     EG: ['ar_EG.UTF-8']
      +: ['ar_EG.UTF-8']
@@ -458,7 +458,7 @@
     EG: ['ara']
      +: ['ara']
 
->>> test_language_territory(show_weights=False, languageId="ar", territoryId="IN") # doctest: +NORMALIZE_WHITESPACE
+>>> _test_language_territory(show_weights=False, languageId="ar", territoryId="IN") # doctest: +NORMALIZE_WHITESPACE
     ar: ['ar_EG.UTF-8', 'ar_SD.UTF-8', 'ar_DZ.UTF-8', 'ar_MA.UTF-8', 'ar_IQ.UTF-8', 'ar_SA.UTF-8', 'ar_YE.UTF-8', 'ar_SY.UTF-8', 'ar_TN.UTF-8', 'ar_LY.UTF-8', 'ar_JO.UTF-8', 'ar_AE.UTF-8', 'ar_LB.UTF-8', 'ar_KW.UTF-8', 'ar_OM.UTF-8', 'ar_QA.UTF-8', 'ar_BH.UTF-8', 'ar_IN.UTF-8']
     IN: ['hi_IN.UTF-8', 'en_IN.UTF-8', 'bn_IN.UTF-8', 'te_IN.UTF-8', 'mr_IN.UTF-8', 'ta_IN.UTF-8', 'ur_IN.UTF-8', 'gu_IN.UTF-8', 'kn_IN.UTF-8', 'ml_IN.UTF-8', 'or_IN.UTF-8', 'pa_IN.UTF-8', 'as_IN.UTF-8', 'mai_IN.UTF-8', 'sat_IN.UTF-8', 'ks_IN.UTF-8', 'ks_IN.UTF-8@devanagari', 'kok_IN.UTF-8', 'sd_IN.UTF-8', 'sd_IN.UTF-8@devanagari', 'doi_IN.UTF-8', 'mni_IN.UTF-8', 'brx_IN.UTF-8', 'bho_IN.UTF-8', 'bo_IN.UTF-8', 'hne_IN.UTF-8', 'mag_IN.UTF-8', 'ar_IN.UTF-8']
      +: ['ar_IN.UTF-8']
@@ -466,7 +466,7 @@
     IN: ['in(eng)']
      +: ['in(eng)', 'ara', 'ara(azerty)', 'iq', 'ma', 'sy']
 
->>> test_language_territory(show_weights=False, languageId="ar", territoryId="DE") # doctest: +NORMALIZE_WHITESPACE
+>>> _test_language_territory(show_weights=False, languageId="ar", territoryId="DE") # doctest: +NORMALIZE_WHITESPACE
     ar: ['ar_EG.UTF-8', 'ar_SD.UTF-8', 'ar_DZ.UTF-8', 'ar_MA.UTF-8', 'ar_IQ.UTF-8', 'ar_SA.UTF-8', 'ar_YE.UTF-8', 'ar_SY.UTF-8', 'ar_TN.UTF-8', 'ar_LY.UTF-8', 'ar_JO.UTF-8', 'ar_AE.UTF-8', 'ar_LB.UTF-8', 'ar_KW.UTF-8', 'ar_OM.UTF-8', 'ar_QA.UTF-8', 'ar_BH.UTF-8', 'ar_IN.UTF-8']
     DE: ['de_DE.UTF-8', 'nds_DE.UTF-8', 'hsb_DE.UTF-8', 'fy_DE.UTF-8']
      +: ['ar_EG.UTF-8', 'ar_SD.UTF-8', 'ar_DZ.UTF-8', 'ar_MA.UTF-8', 'ar_IQ.UTF-8', 'ar_SA.UTF-8', 'ar_YE.UTF-8', 'ar_SY.UTF-8', 'ar_TN.UTF-8', 'ar_LY.UTF-8', 'ar_JO.UTF-8', 'ar_AE.UTF-8', 'ar_LB.UTF-8', 'ar_KW.UTF-8', 'ar_OM.UTF-8', 'ar_QA.UTF-8', 'de_DE.UTF-8', 'ar_BH.UTF-8', 'ar_IN.UTF-8', 'nds_DE.UTF-8', 'hsb_DE.UTF-8', 'fy_DE.UTF-8']
@@ -474,7 +474,7 @@
     DE: ['de(nodeadkeys)', 'de(deadacute)']
      +: ['de(nodeadkeys)', 'ara', 'de(deadacute)', 'ara(azerty)', 'iq', 'ma', 'sy']
 
->>> test_language_territory(show_weights=False, languageId="as", territoryId="IN") # doctest: +NORMALIZE_WHITESPACE
+>>> _test_language_territory(show_weights=False, languageId="as", territoryId="IN") # doctest: +NORMALIZE_WHITESPACE
     as: ['as_IN.UTF-8']
     IN: ['hi_IN.UTF-8', 'en_IN.UTF-8', 'bn_IN.UTF-8', 'te_IN.UTF-8', 'mr_IN.UTF-8', 'ta_IN.UTF-8', 'ur_IN.UTF-8', 'gu_IN.UTF-8', 'kn_IN.UTF-8', 'ml_IN.UTF-8', 'or_IN.UTF-8', 'pa_IN.UTF-8', 'as_IN.UTF-8', 'mai_IN.UTF-8', 'sat_IN.UTF-8', 'ks_IN.UTF-8', 'ks_IN.UTF-8@devanagari', 'kok_IN.UTF-8', 'sd_IN.UTF-8', 'sd_IN.UTF-8@devanagari', 'doi_IN.UTF-8', 'mni_IN.UTF-8', 'brx_IN.UTF-8', 'bho_IN.UTF-8', 'bo_IN.UTF-8', 'hne_IN.UTF-8', 'mag_IN.UTF-8', 'ar_IN.UTF-8']
      +: ['as_IN.UTF-8']
@@ -482,7 +482,7 @@
     IN: ['in(eng)']
      +: ['in(eng)']
 
->>> test_language_territory(show_weights=False, languageId="bn", territoryId="BD") # doctest: +NORMALIZE_WHITESPACE
+>>> _test_language_territory(show_weights=False, languageId="bn", territoryId="BD") # doctest: +NORMALIZE_WHITESPACE
     bn: ['bn_BD.UTF-8', 'bn_IN.UTF-8']
     BD: ['bn_BD.UTF-8']
      +: ['bn_BD.UTF-8']
@@ -490,7 +490,7 @@
     BD: ['us']
      +: ['us', 'in(eng)']
 
->>> test_language_territory(show_weights=False, languageId="bn", territoryId="IN") # doctest: +NORMALIZE_WHITESPACE
+>>> _test_language_territory(show_weights=False, languageId="bn", territoryId="IN") # doctest: +NORMALIZE_WHITESPACE
     bn: ['bn_BD.UTF-8', 'bn_IN.UTF-8']
     IN: ['hi_IN.UTF-8', 'en_IN.UTF-8', 'bn_IN.UTF-8', 'te_IN.UTF-8', 'mr_IN.UTF-8', 'ta_IN.UTF-8', 'ur_IN.UTF-8', 'gu_IN.UTF-8', 'kn_IN.UTF-8', 'ml_IN.UTF-8', 'or_IN.UTF-8', 'pa_IN.UTF-8', 'as_IN.UTF-8', 'mai_IN.UTF-8', 'sat_IN.UTF-8', 'ks_IN.UTF-8', 'ks_IN.UTF-8@devanagari', 'kok_IN.UTF-8', 'sd_IN.UTF-8', 'sd_IN.UTF-8@devanagari', 'doi_IN.UTF-8', 'mni_IN.UTF-8', 'brx_IN.UTF-8', 'bho_IN.UTF-8', 'bo_IN.UTF-8', 'hne_IN.UTF-8', 'mag_IN.UTF-8', 'ar_IN.UTF-8']
      +: ['bn_IN.UTF-8']
@@ -498,7 +498,7 @@
     IN: ['in(eng)']
      +: ['in(eng)']
 
->>> test_language_territory(show_weights=False, languageId="zh", territoryId="CN") # doctest: +NORMALIZE_WHITESPACE
+>>> _test_language_territory(show_weights=False, languageId="zh", territoryId="CN") # doctest: +NORMALIZE_WHITESPACE
     zh: ['zh_CN.UTF-8', 'zh_TW.UTF-8', 'zh_HK.UTF-8', 'zh_SG.UTF-8']
     CN: ['zh_CN.UTF-8']
      +: ['zh_CN.UTF-8']
@@ -506,7 +506,7 @@
     CN: ['cn']
      +: ['cn']
 
->>> test_language_territory(show_weights=False, languageId="zh", territoryId="TW") # doctest: +NORMALIZE_WHITESPACE
+>>> _test_language_territory(show_weights=False, languageId="zh", territoryId="TW") # doctest: +NORMALIZE_WHITESPACE
     zh: ['zh_CN.UTF-8', 'zh_TW.UTF-8', 'zh_HK.UTF-8', 'zh_SG.UTF-8']
     TW: ['zh_TW.UTF-8']
      +: ['zh_TW.UTF-8']
@@ -514,7 +514,7 @@
     TW: ['cn']
      +: ['cn']
 
->>> test_language_territory(show_weights=False, languageId="zh", territoryId="HK") # doctest: +NORMALIZE_WHITESPACE
+>>> _test_language_territory(show_weights=False, languageId="zh", territoryId="HK") # doctest: +NORMALIZE_WHITESPACE
     zh: ['zh_CN.UTF-8', 'zh_TW.UTF-8', 'zh_HK.UTF-8', 'zh_SG.UTF-8']
     HK: ['zh_HK.UTF-8']
      +: ['zh_HK.UTF-8']
@@ -522,7 +522,7 @@
     HK: ['cn']
      +: ['cn']
 
->>> test_language_territory(show_weights=False, languageId="zh", territoryId="MO") # doctest: +NORMALIZE_WHITESPACE
+>>> _test_language_territory(show_weights=False, languageId="zh", territoryId="MO") # doctest: +NORMALIZE_WHITESPACE
     zh: ['zh_CN.UTF-8', 'zh_TW.UTF-8', 'zh_HK.UTF-8', 'zh_SG.UTF-8']
     MO: ['zh_HK.UTF-8']
      +: ['zh_HK.UTF-8']
@@ -530,7 +530,7 @@
     MO: ['cn']
      +: ['cn']
 
->>> test_language_territory(show_weights=False, languageId="zh", territoryId="SG") # doctest: +NORMALIZE_WHITESPACE
+>>> _test_language_territory(show_weights=False, languageId="zh", territoryId="SG") # doctest: +NORMALIZE_WHITESPACE
     zh: ['zh_CN.UTF-8', 'zh_TW.UTF-8', 'zh_HK.UTF-8', 'zh_SG.UTF-8']
     SG: ['zh_SG.UTF-8', 'en_SG.UTF-8']
      +: ['zh_SG.UTF-8']
@@ -538,7 +538,7 @@
     SG: ['us', 'cn']
      +: ['cn']
 
->>> test_language_territory(show_weights=False, languageId="en", territoryId="SG") # doctest: +NORMALIZE_WHITESPACE
+>>> _test_language_territory(show_weights=False, languageId="en", territoryId="SG") # doctest: +NORMALIZE_WHITESPACE
     en: ['en_US.UTF-8', 'en_GB.UTF-8', 'en_IN.UTF-8', 'en_AU.UTF-8', 'en_CA.UTF-8', 'en_DK.UTF-8', 'en_IE.UTF-8', 'en_NZ.UTF-8', 'en_NG.UTF-8', 'en_HK.UTF-8', 'en_PH.UTF-8', 'en_SG.UTF-8', 'en_ZA.UTF-8', 'en_ZM.UTF-8', 'en_ZW.UTF-8', 'en_BW.UTF-8', 'en_AG.UTF-8']
     SG: ['zh_SG.UTF-8', 'en_SG.UTF-8']
      +: ['en_SG.UTF-8']
@@ -546,7 +546,7 @@
     SG: ['us', 'cn']
      +: ['us']
 
->>> test_language_territory(show_weights=False, languageId="zh", scriptId = "Hant", territoryId=None) # doctest: +NORMALIZE_WHITESPACE
+>>> _test_language_territory(show_weights=False, languageId="zh", scriptId = "Hant", territoryId=None) # doctest: +NORMALIZE_WHITESPACE
     zh: ['zh_CN.UTF-8', 'zh_TW.UTF-8', 'zh_HK.UTF-8', 'zh_SG.UTF-8']
     None: []
      +: ['zh_TW.UTF-8', 'zh_HK.UTF-8']
@@ -554,7 +554,7 @@
     None: []
      +: ['cn']
 
->>> test_language_territory(show_weights=False, languageId="zh", scriptId = "Hans", territoryId=None) # doctest: +NORMALIZE_WHITESPACE
+>>> _test_language_territory(show_weights=False, languageId="zh", scriptId = "Hans", territoryId=None) # doctest: +NORMALIZE_WHITESPACE
     zh: ['zh_CN.UTF-8', 'zh_TW.UTF-8', 'zh_HK.UTF-8', 'zh_SG.UTF-8']
     None: []
      +: ['zh_CN.UTF-8', 'zh_SG.UTF-8']
@@ -562,7 +562,7 @@
     None: []
      +: ['cn']
 
->>> test_language_territory(show_weights=False, languageId="zh", scriptId = "Hans", territoryId="SG") # doctest: +NORMALIZE_WHITESPACE
+>>> _test_language_territory(show_weights=False, languageId="zh", scriptId = "Hans", territoryId="SG") # doctest: +NORMALIZE_WHITESPACE
     zh: ['zh_CN.UTF-8', 'zh_TW.UTF-8', 'zh_HK.UTF-8', 'zh_SG.UTF-8']
     SG: ['zh_SG.UTF-8', 'en_SG.UTF-8']
      +: ['zh_SG.UTF-8']
@@ -570,7 +570,7 @@
     SG: ['us', 'cn']
      +: ['cn']
 
->>> test_language_territory(show_weights=False, languageId="zh", scriptId = "Hans", territoryId="TW") # doctest: +NORMALIZE_WHITESPACE
+>>> _test_language_territory(show_weights=False, languageId="zh", scriptId = "Hans", territoryId="TW") # doctest: +NORMALIZE_WHITESPACE
     zh: ['zh_CN.UTF-8', 'zh_TW.UTF-8', 'zh_HK.UTF-8', 'zh_SG.UTF-8']
     TW: ['zh_TW.UTF-8']
      +: ['zh_CN.UTF-8', 'zh_SG.UTF-8', 'zh_TW.UTF-8']
@@ -578,7 +578,7 @@
     TW: ['cn']
      +: ['cn']
 
->>> test_language_territory(show_weights=False, languageId="zh", scriptId = "Hant", territoryId="HK") # doctest: +NORMALIZE_WHITESPACE
+>>> _test_language_territory(show_weights=False, languageId="zh", scriptId = "Hant", territoryId="HK") # doctest: +NORMALIZE_WHITESPACE
     zh: ['zh_CN.UTF-8', 'zh_TW.UTF-8', 'zh_HK.UTF-8', 'zh_SG.UTF-8']
     HK: ['zh_HK.UTF-8']
      +: ['zh_HK.UTF-8']
@@ -586,7 +586,7 @@
     HK: ['cn']
      +: ['cn']
 
->>> test_language_territory(show_weights=False, languageId="zh", scriptId = "Hant", territoryId="MO") # doctest: +NORMALIZE_WHITESPACE
+>>> _test_language_territory(show_weights=False, languageId="zh", scriptId = "Hant", territoryId="MO") # doctest: +NORMALIZE_WHITESPACE
     zh: ['zh_CN.UTF-8', 'zh_TW.UTF-8', 'zh_HK.UTF-8', 'zh_SG.UTF-8']
     MO: ['zh_HK.UTF-8']
      +: ['zh_HK.UTF-8']
@@ -594,7 +594,7 @@
     MO: ['cn']
      +: ['cn']
 
->>> test_language_territory(show_weights=False, languageId="zh", scriptId = "Hant", territoryId="CN") # doctest: +NORMALIZE_WHITESPACE
+>>> _test_language_territory(show_weights=False, languageId="zh", scriptId = "Hant", territoryId="CN") # doctest: +NORMALIZE_WHITESPACE
     zh: ['zh_CN.UTF-8', 'zh_TW.UTF-8', 'zh_HK.UTF-8', 'zh_SG.UTF-8']
     CN: ['zh_CN.UTF-8']
      +: ['zh_TW.UTF-8', 'zh_HK.UTF-8', 'zh_CN.UTF-8']
@@ -796,39 +796,39 @@
 # testing locale pattern regexp:
 #  valid patterns:
 
->>> test_cldr_locale_pattern(localeId="srx_XK") # doctest: +NORMALIZE_WHITESPACE
+>>> _test_cldr_locale_pattern(localeId="srx_XK") # doctest: +NORMALIZE_WHITESPACE
     [('language', 'srx'), ('script', None), ('territory', 'XK')]
 
->>> test_cldr_locale_pattern(localeId="sr_XK") # doctest: +NORMALIZE_WHITESPACE
+>>> _test_cldr_locale_pattern(localeId="sr_XK") # doctest: +NORMALIZE_WHITESPACE
     [('language', 'sr'), ('script', None), ('territory', 'XK')]
 
->>> test_cldr_locale_pattern(localeId="sr@foo") # doctest: +NORMALIZE_WHITESPACE
+>>> _test_cldr_locale_pattern(localeId="sr@foo") # doctest: +NORMALIZE_WHITESPACE
     [('language', 'sr'), ('script', None), ('territory', None)]
 
->>> test_cldr_locale_pattern(localeId="sr_Cyrl_RS") # doctest: +NORMALIZE_WHITESPACE
+>>> _test_cldr_locale_pattern(localeId="sr_Cyrl_RS") # doctest: +NORMALIZE_WHITESPACE
     [('language', 'sr'), ('script', 'Cyrl'), ('territory', 'RS')]
 
->>> test_cldr_locale_pattern(localeId="sr_Cyrl_RS@foo") # doctest: +NORMALIZE_WHITESPACE
+>>> _test_cldr_locale_pattern(localeId="sr_Cyrl_RS@foo") # doctest: +NORMALIZE_WHITESPACE
     [('language', 'sr'), ('script', 'Cyrl'), ('territory', 'RS')]
 
->>> test_cldr_locale_pattern(localeId="srx_Artc_XK") # doctest: +NORMALIZE_WHITESPACE
+>>> _test_cldr_locale_pattern(localeId="srx_Artc_XK") # doctest: +NORMALIZE_WHITESPACE
     [('language', 'srx'), ('script', 'Artc'), ('territory', 'XK')]
 
 #----------------------------------------------------------------------
 # invalid patterns:
->>> test_cldr_locale_pattern(localeId="srxf_Artc_XK") # doctest: +NORMALIZE_WHITESPACE
+>>> _test_cldr_locale_pattern(localeId="srxf_Artc_XK") # doctest: +NORMALIZE_WHITESPACE
     []
 
->>> test_cldr_locale_pattern(localeId="srx_ARtc_XK") # doctest: +NORMALIZE_WHITESPACE
+>>> _test_cldr_locale_pattern(localeId="srx_ARtc_XK") # doctest: +NORMALIZE_WHITESPACE
     []
 
->>> test_cldr_locale_pattern(localeId="srx_Artc_XXK") # doctest: +NORMALIZE_WHITESPACE
+>>> _test_cldr_locale_pattern(localeId="srx_Artc_XXK") # doctest: +NORMALIZE_WHITESPACE
     []
 
->>> test_cldr_locale_pattern(localeId="srx_XXK") # doctest: +NORMALIZE_WHITESPACE
+>>> _test_cldr_locale_pattern(localeId="srx_XXK") # doctest: +NORMALIZE_WHITESPACE
     []
 
->>> test_cldr_locale_pattern(localeId="srx_Artc_Kx") # doctest: +NORMALIZE_WHITESPACE
+>>> _test_cldr_locale_pattern(localeId="srx_Artc_Kx") # doctest: +NORMALIZE_WHITESPACE
     []
 
 >>> supports_ascii("jp") # doctest: +NORMALIZE_WHITESPACE

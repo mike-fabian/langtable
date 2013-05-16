@@ -5,7 +5,7 @@ PWD := $(shell pwd)
 SRCDIR=$(PWD)
 
 install:
-	perl -pi -e "s%datadir = '(.*)'%datadir = '$(DATADIR)'%" langtable.py
+	perl -pi -e "s,_datadir = '(.*)',_datadir = '$(DATADIR)'," langtable.py
 	DISTUTILS_DEBUG=$(DEBUG) python ./setup.py install --prefix=$(DESTDIR) --install-data=$(DATADIR)
 
 .PHONY: test-local
