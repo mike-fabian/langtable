@@ -728,11 +728,32 @@
 >>> print language_name(languageId="sr").encode("UTF-8") # doctest: +NORMALIZE_WHITESPACE
     Српски
 
+>>> print language_name(languageId="sr", territoryId="RS").encode("UTF-8") # doctest: +NORMALIZE_WHITESPACE
+    Српски (Србија)
+
+>>> print language_name(languageId="sr", territoryId="ME").encode("UTF-8") # doctest: +NORMALIZE_WHITESPACE
+    Српски (Црна Гора)
+
+>>> print language_name(languageId="sr", scriptId="Cyrl").encode("UTF-8") # doctest: +NORMALIZE_WHITESPACE
+    Српски
+
+>>> print language_name(languageId="sr", scriptId="Latn").encode("UTF-8") # doctest: +NORMALIZE_WHITESPACE
+    Srpski
+
 >>> print language_name(languageId="sr", scriptId="Cyrl", territoryId="RS").encode("UTF-8") # doctest: +NORMALIZE_WHITESPACE
-    Српски (Ћирилица)
+    Српски
 
 >>> print language_name(languageId="sr", scriptId="Latn", territoryId="RS").encode("UTF-8") # doctest: +NORMALIZE_WHITESPACE
-    Srpski (Latinica)
+    Srpski
+
+>>> print language_name(languageId="sr", languageIdQuery="en").encode("UTF-8") # doctest: +NORMALIZE_WHITESPACE
+    Serbian
+
+>>> print language_name(languageId="sr", territoryId="RS", languageIdQuery="en").encode("UTF-8") # doctest: +NORMALIZE_WHITESPACE
+    Serbian (Serbia)
+
+>>> print language_name(languageId="sr", territoryId="ME", languageIdQuery="en").encode("UTF-8") # doctest: +NORMALIZE_WHITESPACE
+    Serbian (Montenegro)
 
 >>> print language_name(languageId="sr", scriptId="Cyrl", territoryId="RS", languageIdQuery="en").encode("UTF-8") # doctest: +NORMALIZE_WHITESPACE
     Serbian (Cyrillic)

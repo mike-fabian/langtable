@@ -14807,6 +14807,7 @@
       <name><languageId>so</languageId><name>Seerbiyaan</name></name>
       <name><languageId>sq</languageId><name>Serbisht</name></name>
       <name><languageId>sr</languageId><name>Српски</name></name>
+      <name><languageId>sr_Cyrl</languageId><name>Српски</name></name>
       <name><languageId>sr_Latn</languageId><name>Srpski</name></name>
       <name><languageId>st</languageId><name>Se-serbian</name></name>
       <name><languageId>sv</languageId><name>serbiska</name></name>
@@ -14857,7 +14858,8 @@
     <names>
       <name><languageId>de</languageId><name>Serbisch (Kyrillisch)</name></name>
       <name><languageId>en</languageId><name>Serbian (Cyrillic)</name></name>
-      <name><languageId>sr</languageId><name>Српски (Ћирилица)</name></name>
+      <name><languageId>sr</languageId><name>Српски</name></name>
+      <name><languageId>sr_Cyrl</languageId><name>Српски</name></name>
       <name><languageId>sr_Latn</languageId><name>Srpski (Ćirilica)</name></name>
     </names>
     <locales>
@@ -14888,7 +14890,8 @@
       <name><languageId>de</languageId><name>Serbisch (Lateinish)</name></name>
       <name><languageId>en</languageId><name>Serbian (Latin)</name></name>
       <name><languageId>sr</languageId><name>Српски (Латиница)</name></name>
-      <name><languageId>sr_Latn</languageId><name>Srpski (Latinica)</name></name>
+      <name><languageId>sr_Cyrl</languageId><name>Српски (Латиница)</name></name>
+      <name><languageId>sr_Latn</languageId><name>Srpski</name></name>
     </names>
     <locales>
       <locale><localeId>sr_RS.UTF-8@latin</localeId><rank>1000</rank></locale>
