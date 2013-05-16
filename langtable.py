@@ -15,6 +15,22 @@
 # You should have received a copy of the GNU General Public License
 # along with this program.  If not, see <http://www.gnu.org/licenses/>
 
+######################################################################
+# Public API:
+#
+#     init()
+#     list_locales()
+#     list_keyboards()
+#     list_consolefonts()
+#     language_name()
+#     territory_name()
+#     supports_ascii()
+#
+# All other functions are internal and should not be used by
+# a user of langtable.py.
+#
+######################################################################
+
 import re
 import logging
 from lxml import etree
