@@ -1001,16 +1001,6 @@ def _test_language_territory(show_weights=False, languageId=None, scriptId=None,
           )
     return
 
-def init(debug = False,
-         logfilename = '/dev/null',
-         territoriesfilename = _datadir +'/territories.xml',
-         languagesfilename = _datadir + '/languages.xml',
-         keyboardsfilename = _datadir + '/keyboards.xml'):
-    '''
-    Only for backwards compatibility, does nothing
-    '''
-    return
-
 def _init(debug = False,
          logfilename = '/dev/null',
          datadir = _datadir):
