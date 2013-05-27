@@ -1,3 +1,9 @@
+2013-05-27  Mike FABIAN  <mfabian@redhat.com>
+
+	* Version 0.0.4 released.
+	* Remove backwards compatibility init() function
+	* Add ia (Interlingua), see https://bugzilla.redhat.com/show_bug.cgi?id=872423
+
 2013-05-16  Mike FABIAN  <mfabian@redhat.com>
 
 	* Version 0.0.3 released.

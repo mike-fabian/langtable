@@ -1,5 +1,5 @@
 Name:           langtable
-Version:        0.0.3
+Version:        0.0.4
 Release:        1%{?dist}
 Summary:        Guessing reasonable defaults for locale, keyboard layout, territory, and language.
 Group:          Development/Tools
@@ -65,6 +65,11 @@ perl -pi -e "s,_datadir = '(.*)',_datadir = '%{_datadir}/langtable'," langtable.
 %{_datadir}/langtable/*
 
 %changelog
+* Mon May 27 2013 Mike FABIAN <mfabian@redhat.com> - 0.0.4-1
+- Update to 0.0.4
+- Remove backwards compatibility init() function
+- Add ia (Interlingua), see https://bugzilla.redhat.com/show_bug.cgi?id=872423
+
 * Thu May 16 2013 Mike FABIAN <mfabian@redhat.com> - 0.0.3-1
 - Update to 0.0.3
 - Move the examples from the README to the source code
