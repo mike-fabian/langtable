@@ -605,17 +605,17 @@
     ia: ['ia_FR.UTF-8']
     None: []
      +: ['ia_FR.UTF-8']
-    ia: ['us']
+    ia: ['us(euro)']
     None: []
-     +: ['us']
+     +: ['us(euro)']
 
 >>> _test_language_territory(show_weights=False, languageId="ia", territoryId="DE") # doctest: +NORMALIZE_WHITESPACE
     ia: ['ia_FR.UTF-8']
     DE: ['de_DE.UTF-8', 'nds_DE.UTF-8', 'hsb_DE.UTF-8', 'fy_DE.UTF-8']
      +: ['ia_FR.UTF-8', 'de_DE.UTF-8', 'nds_DE.UTF-8', 'hsb_DE.UTF-8', 'fy_DE.UTF-8']
-    ia: ['us']
+    ia: ['us(euro)']
     DE: ['de(nodeadkeys)', 'de(deadacute)']
-     +: ['us', 'de(nodeadkeys)', 'de(deadacute)']
+     +: ['us(euro)', 'de(nodeadkeys)', 'de(deadacute)']
 
 >>> print language_name(languageId="de").encode("UTF-8") # doctest: +NORMALIZE_WHITESPACE
     Deutsch
