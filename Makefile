@@ -7,6 +7,7 @@ SRCDIR=$(PWD)
 install:
 	perl -pi -e "s,_datadir = '(.*)',_datadir = '$(DATADIR)'," langtable.py
 	DISTUTILS_DEBUG=$(DEBUG) python ./setup.py install --prefix=$(DESTDIR) --install-data=$(DATADIR)
+	gzip --force --best $(DATADIR)/*.xml
 
 .PHONY: test
 test: install

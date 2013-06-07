@@ -34,6 +34,7 @@
 import os
 import re
 import logging
+import gzip
 from lxml import etree
 
 # will be replaced by “make install”:
@@ -531,16 +532,24 @@ def _write_keyboards_file(file):
     file.write('</keyboards>\n')
     return
 
-def _read_files(territoriesfilename, languagesfilename, keyboardsfilename):
-    with open(territoriesfilename, 'r') as territoriesfile:
-        logging.info("reading territories file=%s" %territoriesfile)
-        _read_territories_file(territoriesfile)
-    with open(languagesfilename, 'r') as languagesfile:
-        logging.info("reading languages file=%s" %languagesfile)
-        _read_languages_file(languagesfile)
-    with open(keyboardsfilename, 'r') as keyboardsfile:
-        logging.info("reading keyboards file=%s" %keyboardsfile)
-        _read_keyboards_file(keyboardsfile)
+def _read_file(datadir, filename, reader_function):
+    '''
+    Only for internal use
+    '''
+    for dir in [datadir, '.']:
+        path = os.path.join(dir, filename)
+        if os.path.isfile(path):
+            with open(path) as file:
+                logging.info('reading file=%s' %file)
+                reader_function(file)
+            return
+        path = os.path.join(dir, filename+'.gz')
+        if os.path.isfile(path):
+            with gzip.open(path) as file:
+                logging.info('reading file=%s' %file)
+                reader_function(file)
+            return
+    logging.info('no readable file found.')
 
 def _write_files(territoriesfilename, languagesfilename, keyboardsfilename):
     '''
@@ -1013,31 +1022,9 @@ def _init(debug = False,
                         format="%(levelname)s: %(message)s",
                         level=log_level)
 
-    territoriesfilename = os.path.join(datadir, 'territories.xml')
-    if not os.path.isfile(territoriesfilename):
-        territoriesfilename = './territories.xml'
-        if not os.path.isfile(territoriesfilename):
-            import traceback
-            traceback.print_exc()
-            return
-    languagesfilename = os.path.join(datadir, 'languages.xml')
-    if not os.path.isfile(languagesfilename):
-        languagesfilename = './languages.xml'
-        if not os.path.isfile(languagesfilename):
-            import traceback
-            traceback.print_exc()
-            return
-    keyboardsfilename = os.path.join(datadir, 'keyboards.xml')
-    if not os.path.isfile(keyboardsfilename):
-        keyboardsfilename = './keyboards.xml'
-        if not os.path.isfile(keyboardsfilename):
-            import traceback
-            traceback.print_exc()
-            return
-
-    _read_files(territoriesfilename,
-               languagesfilename,
-               keyboardsfilename)
+    _read_file(datadir, 'territories.xml', _read_territories_file)
+    _read_file(datadir, 'languages.xml', _read_languages_file)
+    _read_file(datadir, 'keyboards.xml', _read_keyboards_file)
 
 class __ModuleInitializer:
     def __init__(self):
