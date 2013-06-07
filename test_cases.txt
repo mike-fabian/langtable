@@ -873,5 +873,11 @@
 >>> supports_ascii("ru") # doctest: +NORMALIZE_WHITESPACE
     False
 
+>>> supports_ascii("cz") # doctest: +NORMALIZE_WHITESPACE
+    True
+
+>>> supports_ascii("sk") # doctest: +NORMALIZE_WHITESPACE
+    True
+
 >>> supports_ascii("not_existing_in_database") # doctest: +NORMALIZE_WHITESPACE
     False

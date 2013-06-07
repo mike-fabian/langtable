@@ -249,7 +249,7 @@
   <keyboard>
     <keyboardId>cz</keyboardId>
     <description>Czech</description>
-    <ascii>False</ascii>
+    <ascii>True</ascii>
     <languages>
       <language><languageId>cs</languageId><rank>1000</rank></language>
     </languages>
@@ -1036,7 +1036,7 @@
   <keyboard>
     <keyboardId>sk</keyboardId>
     <description>Slovak</description>
-    <ascii>False</ascii>
+    <ascii>True</ascii>
     <languages>
       <language><languageId>sk</languageId><rank>1000</rank></language>
     </languages>
