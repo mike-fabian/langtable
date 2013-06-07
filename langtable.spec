@@ -1,5 +1,5 @@
 Name:           langtable
-Version:        0.0.4
+Version:        0.0.5
 Release:        1%{?dist}
 Summary:        Guessing reasonable defaults for locale, keyboard layout, territory, and language.
 Group:          Development/Tools
@@ -51,6 +51,7 @@ perl -pi -e "s,_datadir = '(.*)',_datadir = '%{_datadir}/langtable'," langtable.
 
 %install
 %{__python} setup.py install --skip-build --prefix=%{_prefix} --install-data=%{_datadir}/langtable --root $RPM_BUILD_ROOT
+gzip --force --best $RPM_BUILD_ROOT/%{_datadir}/langtable/*.xml
 
 %check
 (cd $RPM_BUILD_DIR/%{name}-%{version}/data; PYTHONPATH=.. %{__python} -m doctest ../test_cases.txt; %{__python} ../langtable.py)
@@ -65,6 +66,12 @@ perl -pi -e "s,_datadir = '(.*)',_datadir = '%{_datadir}/langtable'," langtable.
 %{_datadir}/langtable/*
 
 %changelog
+* Fri Jun 07 2013 Mike FABIAN <mfabian@redhat.com> - 0.0.5-1
+- Update to 0.0.5
+- Accept script names as used by glibc locales as well
+- Support reading gzipped xml files
+- Set ASCII support to “True” for cz and sk keyboard layouts
+
 * Mon May 27 2013 Mike FABIAN <mfabian@redhat.com> - 0.0.4-1
 - Update to 0.0.4
 - Remove backwards compatibility init() function

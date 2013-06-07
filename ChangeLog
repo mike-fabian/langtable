@@ -1,3 +1,10 @@
+2013-06-07  Mike FABIAN  <mfabian@redhat.com>
+
+	* Version 0.0.5 released.
+	* Accept script names as used by glibc locales as well
+	* Support reading gzipped xml files
+	* Set ASCII support to “True” for cz and sk keyboard layouts
+
 2013-05-27  Mike FABIAN  <mfabian@redhat.com>
 
 	* Version 0.0.4 released.
