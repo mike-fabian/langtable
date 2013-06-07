@@ -13184,6 +13184,7 @@
       <locale><localeId>mhr_RU.UTF-8</localeId><rank>11</rank></locale>
       <locale><localeId>os_RU.UTF-8</localeId><rank>10</rank></locale>
       <locale><localeId>tt_RU.UTF-8</localeId><rank>9</rank></locale>
+      <locale><localeId>tt_RU.UTF-8@iqtelif</localeId><rank>1</rank></locale>
     </locales>
     <languages>
       <language><languageId>ru</languageId><rank>950</rank></language>
@@ -13191,9 +13192,12 @@
       <language><languageId>mhr</languageId><rank>11</rank></language>
       <language><languageId>os</languageId><rank>10</rank></language>
       <language><languageId>tt</languageId><rank>9</rank></language>
+      <language><languageId>tt_Latn</languageId><rank>1</rank></language>
     </languages>
     <keyboards>
-      <keyboard><keyboardId>ru</keyboardId><rank>1000</rank></keyboard>
+      <keyboard><keyboardId>ru</keyboardId><rank>999</rank></keyboard>
+      <keyboard><keyboardId>ru(tt)</keyboardId><rank>2</rank></keyboard>
+      <keyboard><keyboardId>us(altgr-intl)</keyboardId><rank>1</rank></keyboard>
     </keyboards>
     <consolefonts>
       <consolefont><consolefontId>latarcyrheb-sun16</consolefontId><rank>1000</rank></consolefont>

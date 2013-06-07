@@ -16919,12 +16919,45 @@
       <name><languageId>th</languageId><name>ตาตาร์</name></name>
       <name><languageId>tig</languageId><name>ታታርኛ</name></name>
       <name><languageId>tr</languageId><name>Tatarca</name></name>
+      <name><languageId>tt</languageId><name>татар теле</name></name>
+      <name><languageId>tt_Cyrl</languageId><name>татар теле</name></name>
+      <name><languageId>tt_Latn</languageId><name>tatar tele</name></name>
       <name><languageId>uk</languageId><name>татарська</name></name>
       <name><languageId>ur</languageId><name>تاتار</name></name>
       <name><languageId>vi</languageId><name>Tiếng Tatar</name></name>
       <name><languageId>zh</languageId><name>塔塔尔文</name></name>
       <name><languageId>zh_Hant</languageId><name>韃靼文</name></name>
       <name><languageId>zu</languageId><name>isi-Tatar</name></name>
+    </names>
+    <locales>
+      <locale><localeId>tt_RU.UTF-8</localeId><rank>999</rank></locale>
+      <locale><localeId>tt_RU.UTF-8@iqtelif</localeId><rank>1</rank></locale>
+    </locales>
+    <territories>
+      <territory><territoryId>RU</territoryId><rank>1000</rank></territory>
+    </territories>
+    <keyboards>
+      <keyboard><keyboardId>ru(tt)</keyboardId><rank>999</rank></keyboard>
+      <keyboard><keyboardId>us(altgr-intl)</keyboardId><rank>1</rank></keyboard>
+    </keyboards>
+    <consolefonts>
+      <consolefont><consolefontId>latarcyrheb-sun16</consolefontId><rank>1000</rank></consolefont>
+    </consolefonts>
+    <timezones>
+      <timezone><timezoneId>Europe/Moscow</timezoneId><rank>1000</rank></timezone>
+    </timezones>
+  </language>
+  <language>
+    <languageId>tt_Cyrl</languageId>
+    <iso639-1>tt</iso639-1>
+    <iso639-2-t>tat</iso639-2-t>
+    <iso639-2-b>tat</iso639-2-b>
+    <names>
+      <name><languageId>de</languageId><name>Tatarisch (Kyrillisch)</name></name>
+      <name><languageId>en</languageId><name>Tatar (Cyrillic)</name></name>
+      <name><languageId>tt</languageId><name>татар теле</name></name>
+      <name><languageId>tt_Cyrl</languageId><name>татар теле</name></name>
+      <name><languageId>tt_Latn</languageId><name>tatar tele</name></name>
     </names>
     <locales>
       <locale><localeId>tt_RU.UTF-8</localeId><rank>1000</rank></locale>
@@ -16934,6 +16967,34 @@
     </territories>
     <keyboards>
       <keyboard><keyboardId>ru(tt)</keyboardId><rank>1000</rank></keyboard>
+    </keyboards>
+    <consolefonts>
+      <consolefont><consolefontId>latarcyrheb-sun16</consolefontId><rank>1000</rank></consolefont>
+    </consolefonts>
+    <timezones>
+      <timezone><timezoneId>Europe/Moscow</timezoneId><rank>1000</rank></timezone>
+    </timezones>
+  </language>
+  <language>
+    <languageId>tt_Latn</languageId>
+    <iso639-1>tt</iso639-1>
+    <iso639-2-t>tat</iso639-2-t>
+    <iso639-2-b>tat</iso639-2-b>
+    <names>
+      <name><languageId>de</languageId><name>Tatarisch (Lateinish)</name></name>
+      <name><languageId>en</languageId><name>Tatar (Latin)</name></name>
+      <name><languageId>tt</languageId><name>татар теле</name></name>
+      <name><languageId>tt_Cyrl</languageId><name>татар теле</name></name>
+      <name><languageId>tt_Latn</languageId><name>tatar tele</name></name>
+    </names>
+    <locales>
+      <locale><localeId>tt_RU.UTF-8@iqtelif</localeId><rank>1000</rank></locale>
+    </locales>
+    <territories>
+      <territory><territoryId>RU</territoryId><rank>1000</rank></territory>
+    </territories>
+    <keyboards>
+      <keyboard><keyboardId>us(altgr-intl)</keyboardId><rank>1000</rank></keyboard>
     </keyboards>
     <consolefonts>
       <consolefont><consolefontId>latarcyrheb-sun16</consolefontId><rank>1000</rank></consolefont>
