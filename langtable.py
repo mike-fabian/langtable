@@ -63,6 +63,14 @@ _cldr_locale_pattern = re.compile(
     +'(?=$|@' # locale string ends here or only options follow
     +')){0,1}')
 
+# http://www.unicode.org/iso15924/iso15924-codes.html
+_glibc_script_ids = {
+    'latin': 'Latn',
+    'iqtelif': 'Latn', # Tatar, tt_RU.UTF-8@iqtelif, http://en.wikipedia.org/wiki/User:Ultranet/%C4%B0QTElif
+    'cyrillic': 'Cyrl',
+    'devanagari': 'Deva',
+}
+
 _territories_db = {}
 _languages_db = {}
 _keyboards_db = {}
@@ -587,9 +595,20 @@ def _make_ranked_list_concise(ranked_list, cut_off_factor=1000):
 def _parse_and_split_languageId(languageId=None, scriptId=None, territoryId=None):
     '''
     Parses languageId and if it contains a valid ICU locale id,
-    return the values for language, script, and territory found
+    returns the values for language, script, and territory found
     in languageId instead of the original values given.
+
+    Before parsing, it replaces glibc names for scripts like “latin”
+    with the iso-15924 script names like “Latn”, both in the
+    languageId and the scriptId parameter. I.e.  language id like
+    “sr_latin_RS” is accepted as well and treated the same as
+    “sr_Latn_RS”.
     '''
+    for key in _glibc_script_ids:
+        if scriptId:
+            scriptId = scriptId.replace(key, _glibc_script_ids[key])
+        if languageId:
+            languageId = languageId.replace(key, _glibc_script_ids[key])
     if (languageId):
         match = _cldr_locale_pattern.match(languageId)
         if match:
