@@ -11,7 +11,6 @@ License:        GPLv3+
 URL:            https://github.com/mike-fabian/langtable
 Source0:        http://mfabian.fedorapeople.org/langtable/%{name}-%{version}.tar.gz
 BuildArch:      noarch
-BuildRequires:  python-lxml
 BuildRequires:  python2-devel
 
 %description
@@ -27,7 +26,6 @@ Group:          Development/Tools
 License:        GPLv3+
 Requires:       %{name} = %{version}-%{release}
 Requires:       %{name}-data = %{version}-%{release}
-Requires:       python-lxml
 
 %description python
 This package contains a Python module to query the data

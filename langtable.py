@@ -35,7 +35,9 @@ import os
 import re
 import logging
 import gzip
-from lxml import etree
+
+import xml.parsers.expat
+from xml.sax.handler import ContentHandler
 
 # will be replaced by “make install”:
 _datadir = '/usr/share/langtable'
@@ -104,269 +106,319 @@ class keyboard_db_item:
         self.languages = languages
         self.territories = territories
 
-def _read_territories_file(file):
-    territoriesTree = etree.parse(file).getroot()
-    if len(territoriesTree):
-        if territoriesTree.tag != 'territories':
-            logging.error("Wrong tag: territoriesTree.tag=%s." %territoriesTree.tag)
-            exit(1)
-        for territoryTree in territoriesTree:
-            territoryId = None
-            names = {}
-            locales = {}
-            languages = {}
-            keyboards = {}
-            consolefonts = {}
-            timezones = {}
-            for territoryElement in territoryTree:
-                if territoryElement.tag == 'territoryId':
-                    territoryId = territoryElement.text
-                elif territoryElement.tag == 'names' and len(territoryElement):
-                    for nameTree in territoryElement:
-                        if nameTree.tag == 'name' and len(nameTree):
-                            languageId = None
-                            name = None
-                            for nameElement in nameTree:
-                                if nameElement.tag == 'languageId':
-                                    languageId = nameElement.text
-                                elif nameElement.tag == 'name':
-                                    name = nameElement.text
-                            if languageId != None and name != None:
-                                names[languageId] = name
-                elif territoryElement.tag  == 'locales' and len(territoryElement):
-                    for localeTree in territoryElement:
-                        if localeTree.tag == 'locale' and len(localeTree):
-                            localeId = None
-                            rank = int(0)
-                            for localeElement in localeTree:
-                                if localeElement.tag == 'localeId':
-                                    localeId = localeElement.text
-                                elif localeElement.tag == 'rank':
-                                    rank = int(localeElement.text)
-                            if localeId != None:
-                                locales[localeId] = rank
-                elif territoryElement.tag  == 'languages' and len(territoryElement):
-                    for languageTree in territoryElement:
-                        if languageTree.tag == 'language' and len(languageTree):
-                            languageId = None
-                            rank = int(0)
-                            for languageElement in languageTree:
-                                if languageElement.tag == 'languageId':
-                                    languageId = languageElement.text
-                                elif languageElement.tag == 'rank':
-                                    rank = int(languageElement.text)
-                            if languageId != None:
-                                languages[languageId] = rank
-                elif territoryElement.tag == 'keyboards' and len(territoryElement):
-                    for keyboardTree in territoryElement:
-                        if keyboardTree.tag == 'keyboard' and len(keyboardTree):
-                            keyboardId = None
-                            rank = int(0)
-                            for keyboardElement in keyboardTree:
-                                if keyboardElement.tag == 'keyboardId':
-                                    keyboardId = keyboardElement.text
-                                elif keyboardElement.tag == 'rank':
-                                    rank = int(keyboardElement.text)
-                            if keyboardId != None:
-                                keyboards[keyboardId] = rank
-                elif territoryElement.tag == 'consolefonts' and len(territoryElement):
-                    for consolefontTree in territoryElement:
-                        if consolefontTree.tag == 'consolefont' and len(consolefontTree):
-                            consolefontId = None
-                            rank = int(0)
-                            for consolefontElement in consolefontTree:
-                                if consolefontElement.tag == 'consolefontId':
-                                    consolefontId = consolefontElement.text
-                                elif consolefontElement.tag == 'rank':
-                                    rank = int(consolefontElement.text)
-                            if consolefontId != None:
-                                consolefonts[consolefontId] = rank
-                elif territoryElement.tag == 'timezones' and len(territoryElement):
-                    for timezoneTree in territoryElement:
-                        if timezoneTree.tag == 'timezone' and len(timezoneTree):
-                            timezoneId = None
-                            rank  = 0
-                            for timezoneElement in timezoneTree:
-                                if  timezoneElement.tag == 'timezoneId':
-                                    timezoneId = timezoneElement.text
-                                elif timezoneElement.tag == 'rank':
-                                    rank = int(timezoneElement.text)
-                            if timezoneId != None:
-                                timezones[timezoneId] = rank
-            if territoryId != None:
-                _territories_db[territoryId] = territory_db_item(
-                    names = names,
-                    locales = locales,
-                    languages = languages,
-                    keyboards = keyboards,
-                    consolefonts = consolefonts,
-                    timezones = timezones)
-    return
+# xml.sax.handler.ContentHandler is not inherited from the 'object' class,
+# 'super' keyword wouldn't work, we need to inherit it on our own
+class LangtableContentHandler(ContentHandler, object):
+    """
+    A base class inherited from the xml.sax.handler.ContentHandler class
+    providing handling for SAX events produced when parsing the langtable data
+    files.
 
-def _read_languages_file(file):
-    languagesTree = etree.parse(file).getroot()
-    if len(languagesTree):
-        if languagesTree.tag != 'languages':
-            logging.error("Wrong tag: languagesTree.tag=%s." %languagesTree.tag)
-            exit(1)
-        for languageTree in languagesTree:
-            languageId = None
-            iso639_1 = None
-            iso639_2_t = None
-            iso639_2_b = None
-            names = {}
-            locales = {}
-            territories = {}
-            keyboards = {}
-            consolefonts = {}
-            timezones = {}
-            for languageElement in  languageTree:
-                if  languageElement.tag == 'languageId':
-                    languageId = languageElement.text
-                elif languageElement.tag == 'iso639-1':
-                    iso639_1 = languageElement.text
-                elif languageElement.tag == 'iso639-2-t':
-                    iso639_2_t = languageElement.text
-                elif languageElement.tag == 'iso639-2-b':
-                    iso639_2_b = languageElement.text
-                elif languageElement.tag == 'names' and len(languageElement):
-                    for nameTree in languageElement:
-                        if nameTree.tag == 'name' and len(nameTree):
-                            languageIdName = None
-                            name = None
-                            for nameElement in nameTree:
-                                if nameElement.tag == 'languageId':
-                                    languageIdName = nameElement.text
-                                elif nameElement.tag == 'name':
-                                    name = nameElement.text
-                            if languageId != None and name != None:
-                                names[languageIdName] = name
-                elif languageElement.tag  == 'locales' and len(languageElement):
-                    for  localeTree in languageElement:
-                        if localeTree.tag == 'locale' and len(localeTree):
-                            localeId = None
-                            rank = int(0)
-                            for localeElement in localeTree:
-                                if localeElement.tag == 'localeId':
-                                    localeId = localeElement.text
-                                elif localeElement.tag == 'rank':
-                                    rank = int(localeElement.text)
-                            if localeId != None:
-                                locales[localeId] = rank
-                elif languageElement.tag  == 'territories' and len(languageElement):
-                    for  territoryTree in languageElement:
-                        if territoryTree.tag == 'territory' and len(territoryTree):
-                            territoryId = None
-                            rank = int(0)
-                            for territoryElement in territoryTree:
-                                if territoryElement.tag == 'territoryId':
-                                    territoryId = territoryElement.text
-                                elif territoryElement.tag == 'rank':
-                                    rank = int(territoryElement.text)
-                            if territoryId != None:
-                                territories[territoryId] = rank
-                elif languageElement.tag == 'keyboards' and len(languageElement):
-                    for keyboardTree in languageElement:
-                        if keyboardTree.tag == 'keyboard' and len(keyboardTree):
-                            keyboardId = None
-                            rank = int(0)
-                            for keyboardElement in keyboardTree:
-                                if keyboardElement.tag == 'keyboardId':
-                                    keyboardId = keyboardElement.text
-                                elif keyboardElement.tag == 'rank':
-                                    rank = int(keyboardElement.text)
-                            if keyboardId != None:
-                                keyboards[keyboardId] = rank
-                elif languageElement.tag == 'consolefonts' and len(languageElement):
-                    for consolefontTree in languageElement:
-                        if consolefontTree.tag == 'consolefont' and len(consolefontTree):
-                            consolefontId = None
-                            rank = int(0)
-                            for consolefontElement in consolefontTree:
-                                if consolefontElement.tag == 'consolefontId':
-                                    consolefontId = consolefontElement.text
-                                elif consolefontElement.tag == 'rank':
-                                    rank = int(consolefontElement.text)
-                            if consolefontId != None:
-                                consolefonts[consolefontId] = rank
-                elif languageElement.tag == 'timezones' and len(languageElement):
-                    for timezoneTree in languageElement:
-                        if timezoneTree.tag == 'timezone' and len(timezoneTree):
-                            timezoneId = None
-                            rank  = 0
-                            for timezoneElement in timezoneTree:
-                                if  timezoneElement.tag == 'timezoneId':
-                                    timezoneId = timezoneElement.text
-                                elif timezoneElement.tag == 'rank':
-                                    rank = int(timezoneElement.text)
-                            if timezoneId != None:
-                                timezones[timezoneId] = rank
-            if languageId != None:
-                _languages_db[languageId] = language_db_item(
-                    iso639_1 = iso639_1,
-                    iso639_2_t = iso639_2_t,
-                    iso639_2_b = iso639_2_b,
-                    names = names,
-                    locales = locales,
-                    territories = territories,
-                    keyboards = keyboards,
-                    consolefonts = consolefonts,
-                    timezones = timezones)
-    return
+    """
 
-def _read_keyboards_file(file):
-    keyboardsTree = etree.parse(file).getroot()
-    if len(keyboardsTree):
-        if keyboardsTree.tag != 'keyboards':
-            logging.error("Wrong tag: keyboardsTree.tag=%s." %keyboardsTree.tag)
-            exit(1)
-        for keyboardTree in keyboardsTree:
-            keyboardId = None
-            description = None
-            ascii = True
-            comment = None
-            languages = {}
-            territories = {}
-            for keyboardElement in keyboardTree:
-                if keyboardElement.tag == 'keyboardId':
-                    keyboardId = keyboardElement.text
-                elif keyboardElement.tag == 'description':
-                    description = keyboardElement.text
-                elif keyboardElement.tag == 'ascii':
-                    ascii = (keyboardElement.text.lower() == u'true')
-                elif keyboardElement.tag == 'comment':
-                    comment = keyboardElement.text
-                elif keyboardElement.tag  == 'languages' and len(keyboardElement):
-                    for languageTree in keyboardElement:
-                        if languageTree.tag == 'language' and len(languageTree):
-                            languageId = None
-                            rank = int(0)
-                            for languageElement in languageTree:
-                                if languageElement.tag == 'languageId':
-                                    languageId = languageElement.text
-                                elif languageElement.tag == 'rank':
-                                    rank = int(languageElement.text)
-                            if languageId != None:
-                                languages[languageId] = rank
-                elif keyboardElement.tag  == 'territories' and len(keyboardElement):
-                    for territoryTree in keyboardElement:
-                        if territoryTree.tag == 'territory' and len(territoryTree):
-                            languageId = None
-                            rank = int(0)
-                            for territoryElement in territoryTree:
-                                if territoryElement.tag == 'territoryId':
-                                    territoryId = territoryElement.text
-                                elif territoryElement.tag == 'rank':
-                                    rank = int(territoryElement.text)
-                            if territoryId != None:
-                                territories[territoryId] = rank
-            if keyboardId != None:
-                _keyboards_db[keyboardId] = keyboard_db_item(
-                    description = description,
-                    ascii = ascii,
-                    comment = comment,
-                    languages = languages,
-                    territories = territories)
+    def __init__(self):
+        # internal attribute used to set where the upcoming text data should be
+        # stored
+        self._save_to = None
+
+    def characters(self, content):
+        """Handler for the text data event."""
+
+        if self._save_to is None:
+            # don't know where to save data
+            return
+
+        # text content may split in multiple events
+        old_value = getattr(self, self._save_to)
+        if old_value:
+            new_value = old_value + content
+        else:
+            new_value = content
+
+        setattr(self, self._save_to, new_value)
+
+class TerritoriesContentHandler(LangtableContentHandler):
+    """Handler for SAX events produced when parsing the territories.xml file."""
+
+    def __init__(self):
+        super(TerritoriesContentHandler, self).__init__()
+
+        # simple values
+        self._territoryId = None
+
+        # helper variables
+        self._item_id = None
+        self._item_rank = None
+        self._item_name = None
+
+        # dictionaries
+        self._names = None
+        self._locales = None
+        self._languages = None
+        self._keyboards = None
+        self._consolefonts = None
+        self._timezones = None
+
+    def startElement(self, name, attrs):
+        if name == u"territory":
+            self._names = dict()
+            self._locales = dict()
+            self._languages = dict()
+            self._keyboards = dict()
+            self._consolefonts = dict()
+            self._timezones = dict()
+
+        # non-dict values
+        elif name == u"territoryId":
+            self._save_to = "_territoryId"
+
+        # dict items
+        elif name in (u"languageId", u"localeId", u"keyboardId",
+                      u"consolefontId", u"timezoneId"):
+            self._save_to = "_item_id"
+        elif name == u"trName":
+            self._save_to = "_item_name"
+        elif name == u"rank":
+            self._save_to = "_item_rank"
+
+    def endElement(self, name):
+        # we don't allow text to appear on the same level as elements so outside
+        # of an element no text should appear
+        self._save_to = None
+
+        if name == u"territory":
+            _territories_db[str(self._territoryId)] = territory_db_item(
+                names = self._names,
+                locales = self._locales,
+                languages = self._languages,
+                keyboards = self._keyboards,
+                consolefonts = self._consolefonts,
+                timezones = self._timezones)
+
+            # clean after ourselves
+            self._territoryId = None
+            self._names = None
+            self._locales = None
+            self._languages = None
+            self._keyboards = None
+            self._consolefonts = None
+            self._timezones = None
+
+        # populating dictionaries
+        elif name == u"name":
+            self._names[str(self._item_id)] = self._item_name
+            self._clear_item()
+        elif name == u"locale":
+            self._locales[str(self._item_id)] = int(self._item_rank)
+            self._clear_item()
+        elif name == u"language":
+            self._languages[str(self._item_id)] = int(self._item_rank)
+            self._clear_item()
+        elif name == u"keyboard":
+            self._keyboards[str(self._item_id)] = int(self._item_rank)
+            self._clear_item()
+        elif name == u"consolefont":
+            self._consolefonts[str(self._item_id)] = int(self._item_rank)
+            self._clear_item()
+        elif name == u"timezone":
+            self._timezones[str(self._item_id)] = int(self._item_rank)
+            self._clear_item()
+
+    def _clear_item(self):
+        self._item_id = None
+        self._item_name = None
+        self._item_rank = None
+
+class KeyboardsContentHandler(LangtableContentHandler):
+    """Handler for SAX events produced when parsing the keyboards.xml file."""
+
+    def __init__(self):
+        super(KeyboardsContentHandler, self).__init__()
+
+        # simple values
+        self._keyboardId = None
+        self._description = None
+        self._ascii = None
+        self._comment = None
+
+        # helper variables
+        self._item_id = None
+        self._item_rank = None
+
+        # dictionaries
+        self._languages = None
+        self._territories = None
+
+    def startElement(self, name, attrs):
+        if name == u"keyboard":
+            self._languages = dict()
+            self._territories = dict()
+
+        # non-dict values
+        elif name == u"keyboardId":
+            self._save_to = "_keyboardId"
+        elif name == u"description":
+            self._save_to = "_description"
+        elif name == u"ascii":
+            self._save_to = "_ascii"
+        elif name == u"comment":
+            self._save_to = "_comment"
+
+        # dict items
+        elif name in (u"languageId", u"territoryId"):
+            self._save_to = "_item_id"
+        elif name == u"rank":
+            self._save_to = "_item_rank"
+
+    def endElement(self, name):
+        # we don't allow text to appear on the same level as elements so outside
+        # of an element no text should appear
+        self._save_to = None
+
+        if name == u"keyboard":
+            _keyboards_db[str(self._keyboardId)] = keyboard_db_item(
+                description = self._description,
+                ascii = self._ascii == u"True",
+                comment = self._comment,
+                languages = self._languages,
+                territories = self._territories)
+
+            # clean after ourselves
+            self._keyboardId = None
+            self._description = None
+            self._ascii = None
+            self._comment = None
+            self._languages = None
+            self._territories = None
+
+        # populating dictionaries
+        elif name == u"language":
+            self._languages[str(self._item_id)] = int(self._item_rank)
+            self._clear_item()
+        elif name == u"territory":
+            self._territories[str(self._item_id)] = int(self._item_rank)
+            self._clear_item()
+
+    def _clear_item(self):
+        self._item_id = None
+        self._item_rank = None
+
+class LanguagesContentHandler(LangtableContentHandler):
+    """Handler for SAX events produced when parsing the languages.xml file."""
+
+    def __init__(self):
+        super(LanguagesContentHandler, self).__init__()
+        # simple values
+        self._languageId = None
+        self._iso639_1 = None
+        self._iso639_2_t = None
+        self._iso639_2_b = None
+
+        # helper variables
+        self._item_id = None
+        self._item_rank = None
+        self._item_name = None
+
+        # flag to distinguish 'languageId' elements inside and outside of the
+        # 'names' element
+        self._in_names = False
+
+        # dictionaries
+        self._names = None
+        self._locales = None
+        self._territories = None
+        self._keyboards = None
+        self._consolefonts = None
+        self._timezones = None
+
+    def startElement(self, name, attrs):
+        if name == u"language":
+            self._names = dict()
+            self._locales = dict()
+            self._territories = dict()
+            self._keyboards = dict()
+            self._consolefonts = dict()
+            self._timezones = dict()
+
+        # non-dict values
+        elif name == u"languageId" and not self._in_names:
+            # ID of the language
+            self._save_to = "_languageId"
+        elif name == u"iso639-1":
+            self._save_to = "_iso639_1"
+        elif name == u"iso639-2-t":
+            self._save_to = "_iso639_2_t"
+        elif name == u"iso639-2-b":
+            self._save_to = "_iso639_2_b"
+        elif name == u"names":
+            self._in_names = True
+
+        # dict items
+        elif name in (u"localeId", u"territoryId", u"keyboardId",
+                      u"consolefontId", u"timezoneId"):
+            self._save_to = "_item_id"
+        elif name == u"languageId" and self._in_names:
+            # ID of the translated name's language
+            self._save_to = "_item_id"
+        elif name == u"trName":
+            self._save_to = "_item_name"
+        elif name == u"rank":
+            self._save_to = "_item_rank"
+
+    def endElement(self, name):
+        # we don't allow text to appear on the same level as elements so outside
+        # of an element no text should appear
+        self._save_to = None
+
+        if name == u"language":
+            _languages_db[str(self._languageId)] = language_db_item(
+                iso639_1 = self._iso639_1,
+                iso639_2_t = self._iso639_2_t,
+                iso639_2_b = self._iso639_2_b,
+                names = self._names,
+                locales = self._locales,
+                territories = self._territories,
+                keyboards = self._keyboards,
+                consolefonts = self._consolefonts,
+                timezones = self._timezones)
+
+            # clean after ourselves
+            self._languageId = None
+            self._names = None
+            self._locales = None
+            self._territories = None
+            self._keyboards = None
+            self._consolefonts = None
+            self._timezones = None
+
+        # leaving the "names" element
+        elif name == u"names":
+            self._in_names = False
+
+        # populating dictionaries
+        elif name == u"name":
+            self._names[str(self._item_id)] = self._item_name
+            self._clear_item()
+        elif name == u"locale":
+            self._locales[str(self._item_id)] = int(self._item_rank)
+            self._clear_item()
+        elif name == u"territory":
+            self._territories[str(self._item_id)] = int(self._item_rank)
+            self._clear_item()
+        elif name == u"keyboard":
+            self._keyboards[str(self._item_id)] = int(self._item_rank)
+            self._clear_item()
+        elif name == u"consolefont":
+            self._consolefonts[str(self._item_id)] = int(self._item_rank)
+            self._clear_item()
+        elif name == u"timezone":
+            self._timezones[str(self._item_id)] = int(self._item_rank)
+            self._clear_item()
+
+    def _clear_item(self):
+        self._item_id = None
+        self._item_name = None
+        self._item_rank = None
 
 def _write_territories_file(file):
     '''
@@ -540,22 +592,35 @@ def _write_keyboards_file(file):
     file.write('</keyboards>\n')
     return
 
-def _read_file(datadir, filename, reader_function):
+def _expat_parse(file, sax_handler):
+    """
+    Only for internal use. Parses a given file object with a given SAX handler
+    using an expat parser.
+    """
+
+    parser = xml.parsers.expat.ParserCreate()
+    parser.StartElementHandler = sax_handler.startElement
+    parser.EndElementHandler = sax_handler.endElement
+    parser.CharacterDataHandler = sax_handler.characters
+    parser.ParseFile(file)
+
+def _read_file(datadir, filename, sax_handler):
     '''
     Only for internal use
     '''
+
     for dir in [datadir, '.']:
         path = os.path.join(dir, filename)
         if os.path.isfile(path):
             with open(path) as file:
                 logging.info('reading file=%s' %file)
-                reader_function(file)
+                _expat_parse(file, sax_handler)
             return
         path = os.path.join(dir, filename+'.gz')
         if os.path.isfile(path):
             with gzip.open(path) as file:
                 logging.info('reading file=%s' %file)
-                reader_function(file)
+                _expat_parse(file, sax_handler)
             return
     logging.info('no readable file found.')
 
@@ -1041,9 +1106,9 @@ def _init(debug = False,
                         format="%(levelname)s: %(message)s",
                         level=log_level)
 
-    _read_file(datadir, 'territories.xml', _read_territories_file)
-    _read_file(datadir, 'languages.xml', _read_languages_file)
-    _read_file(datadir, 'keyboards.xml', _read_keyboards_file)
+    _read_file(datadir, 'territories.xml', TerritoriesContentHandler())
+    _read_file(datadir, 'languages.xml', LanguagesContentHandler())
+    _read_file(datadir, 'keyboards.xml', KeyboardsContentHandler())
 
 class __ModuleInitializer:
     def __init__(self):
