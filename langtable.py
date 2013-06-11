@@ -384,6 +384,9 @@ class LanguagesContentHandler(LangtableContentHandler):
 
             # clean after ourselves
             self._languageId = None
+            self._iso639_1 = None
+            self._iso639_2_t = None
+            self._iso639_2_b = None
             self._names = None
             self._locales = None
             self._territories = None
