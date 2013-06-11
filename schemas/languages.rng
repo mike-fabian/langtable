@@ -1,0 +1,119 @@
+<element name="languages" xmlns="http://relaxng.org/ns/structure/1.0"
+         datatypeLibrary="http://www.w3.org/2001/XMLSchema-datatypes">
+  <zeroOrMore>
+    <element name="language">
+      <element name="languageId">
+        <text />
+      </element>
+      <element name="iso639-1">
+        <choice>
+          <data type="string">
+            <param name="minLength">2</param>
+            <param name="maxLength">3</param>
+          </data>
+          <value>None</value>
+        </choice>
+      </element>
+      <element name="iso639-2-t">
+        <choice>
+          <data type="string">
+            <param name="length">3</param>
+          </data>
+          <value>None</value>
+        </choice>
+      </element>
+      <element name="iso639-2-b">
+        <choice>
+          <data type="string">
+            <param name="length">3</param>
+          </data>
+          <value>None</value>
+        </choice>
+      </element>
+      <optional>
+        <element name="names">
+          <zeroOrMore>
+            <element name="name">
+              <element name="languageId">
+                <text />
+              </element>
+              <element name="name">
+                <text />
+              </element>
+            </element>
+          </zeroOrMore>
+        </element>
+      </optional>
+      <optional>
+        <element name="locales">
+          <zeroOrMore>
+            <element name="locale">
+              <element name="localeId">
+                <text />
+              </element>
+              <element name="rank">
+                <data type="nonNegativeInteger" />
+              </element>
+            </element>
+          </zeroOrMore>
+        </element>
+      </optional>
+      <optional>
+        <element name="territories">
+          <zeroOrMore>
+            <element name="territory">
+              <element name="territoryId">
+                <text />
+              </element>
+              <element name="rank">
+                <data type="nonNegativeInteger" />
+              </element>
+            </element>
+          </zeroOrMore>
+        </element>
+      </optional>
+      <optional>
+        <element name="keyboards">
+          <zeroOrMore>
+            <element name="keyboard">
+              <element name="keyboardId">
+                <text />
+              </element>
+              <element name="rank">
+                <data type="nonNegativeInteger" />
+              </element>
+            </element>
+          </zeroOrMore>
+        </element>
+      </optional>
+      <optional>
+        <element name="consolefonts">
+          <zeroOrMore>
+            <element name="consolefont">
+              <element name="consolefontId">
+                <text />
+              </element>
+              <element name="rank">
+                <data type="nonNegativeInteger" />
+              </element>
+            </element>
+          </zeroOrMore>
+        </element>
+      </optional>
+      <optional>
+        <element name="timezones">
+          <zeroOrMore>
+            <element name="timezone">
+              <element name="timezoneId">
+                <text />
+              </element>
+              <element name="rank">
+                <data type="nonNegativeInteger" />
+              </element>
+            </element>
+          </zeroOrMore>
+        </element>
+      </optional>
+    </element>
+  </zeroOrMore>
+</element>

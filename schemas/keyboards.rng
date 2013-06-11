@@ -1,0 +1,48 @@
+<element name="keyboards" xmlns="http://relaxng.org/ns/structure/1.0"
+         datatypeLibrary="http://www.w3.org/2001/XMLSchema-datatypes">
+  <zeroOrMore>
+    <element name="keyboard">
+      <element name="keyboardId">
+        <text />
+      </element>
+      <element name="description">
+        <text />
+      </element>
+      <element name="ascii">
+        <choice>
+          <value>True</value>
+          <value>False</value>
+        </choice>
+      </element>
+      <optional>
+        <element name="comment">
+          <text />
+        </element>
+      </optional>
+      <element name="languages">
+        <zeroOrMore>
+          <element name="language">
+            <element name="languageId">
+              <text />
+            </element>
+            <element name="rank">
+              <data type="nonNegativeInteger" />
+            </element>
+          </element>
+        </zeroOrMore>
+      </element>
+      <element name="territories">
+        <zeroOrMore>
+          <element name="territory">
+            <element name="territoryId">
+              <text />
+            </element>
+            <element name="rank">
+              <data type="nonNegativeInteger" />
+            </element>
+          </element>
+        </zeroOrMore>
+      </element>
+    </element>
+  </zeroOrMore>
+</element>

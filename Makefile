@@ -13,6 +13,9 @@ install:
 test: install
 	python langtable.py
 	(cd $(DATADIR); python -m doctest $(SRCDIR)/test_cases.txt)
+	xmllint --noout --relaxng schemas/keyboards.rng data/keyboards.xml
+	xmllint --noout --relaxng schemas/languages.rng data/languages.xml
+	xmllint --noout --relaxng schemas/territories.rng data/territories.xml
 
 .PHONY: dist
 dist:
