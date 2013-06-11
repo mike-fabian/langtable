@@ -438,7 +438,7 @@ def _write_territories_file(file):
             file.write(
                 '      <name>'
                 +'<languageId>'+name+'</languageId>'
-                +'<name>'+names[name].encode('UTF-8')+'</name>'
+                +'<trName>'+names[name].encode('UTF-8')+'</trName>'
                 +'</name>\n')
         file.write('    </names>\n')
         locales = _territories_db[territoryId].locales
@@ -508,7 +508,7 @@ def _write_languages_file(file):
             file.write(
                 '      <name>'
                 +'<languageId>'+name+'</languageId>'
-                +'<name>'+names[name].encode('UTF-8')+'</name>'
+                +'<trName>'+names[name].encode('UTF-8')+'</trName>'
                 +'</name>\n')
         file.write('    </names>\n')
         locales = _languages_db[languageId].locales
