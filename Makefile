@@ -13,9 +13,9 @@ install:
 test: install
 	python langtable.py
 	(cd $(DATADIR); python -m doctest $(SRCDIR)/test_cases.txt)
-	xmllint --noout --relaxng schemas/keyboards.rng data/keyboards.xml
-	xmllint --noout --relaxng schemas/languages.rng data/languages.xml
-	xmllint --noout --relaxng schemas/territories.rng data/territories.xml
+	xmllint --noout --relaxng $(DATADIR)/schemas/keyboards.rng $(DATADIR)/keyboards.xml.gz
+	xmllint --noout --relaxng $(DATADIR)/schemas/languages.rng $(DATADIR)/languages.xml.gz
+	xmllint --noout --relaxng $(DATADIR)/schemas/territories.rng $(DATADIR)/territories.xml.gz
 
 .PHONY: dist
 dist:
@@ -38,3 +38,11 @@ mockbuild: dist
 review: mockbuild
 	cp *.spec ./mockbuild-results/
 	(cd ./mockbuild-results/; fedora-review -n langtable -m $(MOCK_CONFIG) )
+
+# .rnc files for editing with Emacs
+# https://fedoraproject.org/wiki/How_to_use_Emacs_for_XML_editing
+%.rnc: %.rng
+	trang $< $@
+
+rnc: schemas/keyboards.rnc schemas/languages.rnc schemas/territories.rnc
+	cp schemas/*.rnc data/

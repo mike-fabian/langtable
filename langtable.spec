@@ -55,15 +55,18 @@ gzip --force --best $RPM_BUILD_ROOT/%{_datadir}/langtable/*.xml
 
 %check
 (cd $RPM_BUILD_DIR/%{name}-%{version}/data; PYTHONPATH=.. %{__python} -m doctest ../test_cases.txt; %{__python} ../langtable.py)
-
+xmllint --noout --relaxng $RPM_BUILD_ROOT/%{_datadir}/langtable/schemas/keyboards.rng $RPM_BUILD_ROOT/%{_datadir}/langtable/keyboards.xml.gz
+xmllint --noout --relaxng $RPM_BUILD_ROOT/%{_datadir}/langtable/schemas/languages.rng $RPM_BUILD_ROOT/%{_datadir}/langtable/languages.xml.gz
+xmllint --noout --relaxng $RPM_BUILD_ROOT/%{_datadir}/langtable/schemas/territories.rng $RPM_BUILD_ROOT/%{_datadir}/langtable/territories.xml.gz
 %files
 %doc README COPYING ChangeLog unicode-license.txt test_cases.txt
+%{_datadir}/langtable/schemas
 
 %files python
 %{python_sitelib}/*
 
 %files data
-%{_datadir}/langtable/*
+%{_datadir}/langtable/*.xml.gz
 
 %changelog
 * Fri Jun 07 2013 Mike FABIAN <mfabian@redhat.com> - 0.0.5-1

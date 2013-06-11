@@ -3,6 +3,7 @@ MANIFEST
 *.new
 *.pyc
 *.log
+*.rnc
 /build/
 /dist/
 /mockbuild-results/
