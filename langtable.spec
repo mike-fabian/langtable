@@ -1,5 +1,5 @@
 Name:           langtable
-Version:        0.0.5
+Version:        0.0.6
 Release:        1%{?dist}
 Summary:        Guessing reasonable defaults for locale, keyboard layout, territory, and language.
 Group:          Development/Tools
@@ -56,6 +56,7 @@ gzip --force --best $RPM_BUILD_ROOT/%{_datadir}/langtable/*.xml
 xmllint --noout --relaxng $RPM_BUILD_ROOT/%{_datadir}/langtable/schemas/keyboards.rng $RPM_BUILD_ROOT/%{_datadir}/langtable/keyboards.xml.gz
 xmllint --noout --relaxng $RPM_BUILD_ROOT/%{_datadir}/langtable/schemas/languages.rng $RPM_BUILD_ROOT/%{_datadir}/langtable/languages.xml.gz
 xmllint --noout --relaxng $RPM_BUILD_ROOT/%{_datadir}/langtable/schemas/territories.rng $RPM_BUILD_ROOT/%{_datadir}/langtable/territories.xml.gz
+
 %files
 %doc README COPYING ChangeLog unicode-license.txt test_cases.txt
 %{_datadir}/langtable/schemas
@@ -67,6 +68,12 @@ xmllint --noout --relaxng $RPM_BUILD_ROOT/%{_datadir}/langtable/schemas/territor
 %{_datadir}/langtable/*.xml.gz
 
 %changelog
+* Wed Jun 12 2013 Mike FABIAN <mfabian@redhat.com> - 0.0.6-1
+- Update to 0.0.6
+- Add RelaxNG schemas for the XML files (Vratislav Podzimek <vpodzime@redhat.com>)
+- Use SAX instead of the ElementTree (Vratislav Podzimek <vpodzime@redhat.com>)
+- Use 'trName' instead of 'name' for translated names (Vratislav Podzimek <vpodzime@redhat.com>)
+
 * Fri Jun 07 2013 Mike FABIAN <mfabian@redhat.com> - 0.0.5-1
 - Update to 0.0.5
 - Accept script names as used by glibc locales as well

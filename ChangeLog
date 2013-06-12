@@ -1,3 +1,10 @@
+2013-06-12  Mike FABIAN  <mfabian@redhat.com>
+
+	* Version 0.0.6 released.
+	* Add RelaxNG schemas for the XML files (Vratislav Podzimek <vpodzime@redhat.com>)
+	* Use SAX instead of the ElementTree (Vratislav Podzimek <vpodzime@redhat.com>)
+	* Use 'trName' instead of 'name' for translated names (Vratislav Podzimek <vpodzime@redhat.com>)
+
 2013-06-07  Mike FABIAN  <mfabian@redhat.com>
 
 	* Version 0.0.5 released.
