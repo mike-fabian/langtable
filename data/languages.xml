@@ -14052,7 +14052,7 @@
     <iso639-2-t>snd</iso639-2-t>
     <iso639-2-b>snd</iso639-2-b>
     <names>
-      <name><languageId>en</languageId><trName>Sindhi</trName></name>
+      <name><languageId>en</languageId><trName>Sindhi (Devanagari script)</trName></name>
       <name><languageId>sd</languageId><trName>سنڌي</trName></name>
       <name><languageId>sd_Arab</languageId><trName>سنڌي</trName></name>
       <name><languageId>sd_Deva</languageId><trName>सिन्धी</trName></name>
@@ -15047,8 +15047,8 @@
     <names>
       <name><languageId>de</languageId><trName>Serbisch (Kyrillisch)</trName></name>
       <name><languageId>en</languageId><trName>Serbian (Cyrillic)</trName></name>
-      <name><languageId>sr</languageId><trName>Српски</trName></name>
-      <name><languageId>sr_Cyrl</languageId><trName>Српски</trName></name>
+      <name><languageId>sr</languageId><trName>Српски (Ћирилица)</trName></name>
+      <name><languageId>sr_Cyrl</languageId><trName>Српски (Ћирилица)</trName></name>
       <name><languageId>sr_Latn</languageId><trName>Srpski (Ćirilica)</trName></name>
     </names>
     <locales>
@@ -15080,7 +15080,7 @@
       <name><languageId>en</languageId><trName>Serbian (Latin)</trName></name>
       <name><languageId>sr</languageId><trName>Српски (Латиница)</trName></name>
       <name><languageId>sr_Cyrl</languageId><trName>Српски (Латиница)</trName></name>
-      <name><languageId>sr_Latn</languageId><trName>Srpski</trName></name>
+      <name><languageId>sr_Latn</languageId><trName>Srpski (Latinica)</trName></name>
     </names>
     <locales>
       <locale><localeId>sr_RS.UTF-8@latin</localeId><rank>1000</rank></locale>

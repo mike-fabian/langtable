@@ -741,29 +741,23 @@ def language_name(languageId = None, scriptId = None, territoryId = None, langua
     I.e. the endonym for “Serbian” in the default Cyrillic script is
     “Српски”.
 
-    If the script “Cyrl” is supplied as well, the result does not change
-    because it is already clear that this is Serbian in Cyrillic script.
-    So there is no need to print “Српски (Ћирилица)” here:
+    If the script “Cyrl” is supplied as well, the name of the
+    script is added for clarity:
 
     >>> print language_name(languageId="sr", scriptId="Cyrl").encode("UTF-8")
-    Српски
+    Српски (Ћирилица)
 
     And in Latin script the endonym is:
 
     >>> print language_name(languageId="sr", scriptId="Latn").encode("UTF-8")
-    Srpski
-
-    Again there is no need to print “Srpski (Latinica)” here, “Srpski”
-    alone is already clear enough.
+    Srpski (Latinica)
 
     And “Serbian” translated to English is:
 
     >>> print language_name(languageId="sr", languageIdQuery="en").encode("UTF-8")
     Serbian
 
-    If the language name for “Serbian with Cyrillic script” is
-    queried in English, the English name for the script needs to be in
-    the output to distinguish it from “Serbian with Latin script”:
+    And with adding the script information:
 
     >>> print language_name(languageId="sr", scriptId="Cyrl", languageIdQuery="en").encode("UTF-8")
     Serbian (Cyrillic)

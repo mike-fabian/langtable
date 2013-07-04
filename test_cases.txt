@@ -7,6 +7,7 @@
 >>> from langtable import territory_name
 >>> from langtable import _test_cldr_locale_pattern
 >>> from langtable import supports_ascii
+>>> from langtable import languageId
 
 ######################################################################
 # Start of tests to reproduce the results from mangleLocale(inLocale) in anaconda, see:
@@ -774,16 +775,16 @@
     Српски (Црна Гора)
 
 >>> print language_name(languageId="sr", scriptId="Cyrl").encode("UTF-8") # doctest: +NORMALIZE_WHITESPACE
-    Српски
+    Српски (Ћирилица)
 
 >>> print language_name(languageId="sr", scriptId="Latn").encode("UTF-8") # doctest: +NORMALIZE_WHITESPACE
-    Srpski
+    Srpski (Latinica)
 
 >>> print language_name(languageId="sr", scriptId="Cyrl", territoryId="RS").encode("UTF-8") # doctest: +NORMALIZE_WHITESPACE
-    Српски
+    Српски (Ћирилица)
 
 >>> print language_name(languageId="sr", scriptId="Latn", territoryId="RS").encode("UTF-8") # doctest: +NORMALIZE_WHITESPACE
-    Srpski
+    Srpski (Latinica)
 
 >>> print language_name(languageId="sr", languageIdQuery="en").encode("UTF-8") # doctest: +NORMALIZE_WHITESPACE
     Serbian
@@ -905,3 +906,9 @@
 
 >>> supports_ascii("not_existing_in_database") # doctest: +NORMALIZE_WHITESPACE
     False
+
+>>> languageId("Sindhi")  # doctest: +NORMALIZE_WHITESPACE
+    'sd'
+
+>>> languageId("Српски")  # doctest: +NORMALIZE_WHITESPACE
+    'sr'
