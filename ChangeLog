@@ -1,3 +1,11 @@
+2013-07-04  Mike FABIAN  <mfabian@redhat.com>
+
+	* Version 0.0.7 released.
+	* Add examples for list_consolefonts()
+	* Add a list_timezones() function
+	* Add functions languageId() and territoryId()
+	* Fix some translations of language names to get unique results returned by languageId()
+
 2013-06-12  Mike FABIAN  <mfabian@redhat.com>
 
 	* Version 0.0.6 released.

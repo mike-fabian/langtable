@@ -1,5 +1,5 @@
 Name:           langtable
-Version:        0.0.6
+Version:        0.0.7
 Release:        1%{?dist}
 Summary:        Guessing reasonable defaults for locale, keyboard layout, territory, and language.
 Group:          Development/Tools
@@ -68,6 +68,13 @@ xmllint --noout --relaxng $RPM_BUILD_ROOT/%{_datadir}/langtable/schemas/territor
 %{_datadir}/langtable/*.xml.gz
 
 %changelog
+* Thu Jul 04 2013 Mike FABIAN <mfabian@redhat.com> - 0.0.7-1
+- Update to 0.0.7
+- Add examples for list_consolefonts()
+- Add a list_timezones() function
+- Add functions languageId() and territoryId()
+- Fix some translations of language names to get unique results returned by languageId()
+
 * Wed Jun 12 2013 Mike FABIAN <mfabian@redhat.com> - 0.0.6-1
 - Update to 0.0.6
 - Add RelaxNG schemas for the XML files (Vratislav Podzimek <vpodzime@redhat.com>)
