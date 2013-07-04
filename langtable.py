@@ -24,6 +24,8 @@
 #     list_timezones()
 #     language_name()
 #     territory_name()
+#     languageId()
+#     territoryId()
 #     supports_ascii()
 #
 # These are the functions which do not start with an “_” in their name.
@@ -869,6 +871,70 @@ def language_name(languageId = None, scriptId = None, territoryId = None, langua
                 icuLocaleIdQuery = languageIdQuery
                 if icuLocaleIdQuery in _languages_db[icuLocaleId].names:
                     return _languages_db[icuLocaleId].names[icuLocaleIdQuery]
+    return ''
+
+def territoryId(territoryName = u''):
+    '''Query the territoryId from a translated name of a territory.
+
+    The translated name given should be a Python Unicode string or an
+    UTF-8 encoded string.
+
+    The translated name can be in any language. But there will be only
+    a result if the translation matches exactly.
+
+    >>> territoryId("India")
+    'IN'
+
+    >>> territoryId("भारत")
+    'IN'
+
+    >>> territoryId("インド")
+    'IN'
+
+    >>> territoryId("Latin America")
+    '419'
+
+    >>> territoryId("Latinoamérica")
+    '419'
+
+    '''
+    if not territoryName:
+        return ''
+    if type(territoryName) != type(u''):
+        territoryName = territoryName.decode('UTF-8')
+    for territoryId in _territories_db:
+        for icuLocaleId in _territories_db[territoryId].names:
+            if territoryName == _territories_db[territoryId].names[icuLocaleId]:
+                return territoryId
+    return ''
+
+def languageId(languageName = u''):
+    '''Query the languageId from a translated name of a language.
+
+    The translated name given should be a Python Unicode string or an
+    UTF-8 encoded string.
+
+    The translated name can be in any language. But there will be only
+    a result if the translation matches exactly.
+
+    >>> languageId("Marathi")
+    'mr'
+
+    >>> languageId("मराठी")
+    'mr'
+
+    >>> languageId("マラーティー語")
+    'mr'
+
+    '''
+    if not languageName:
+        return ''
+    if type(languageName) != type(u''):
+        languageName = languageName.decode('UTF-8')
+    for languageId in _languages_db:
+        for icuLocaleId in _languages_db[languageId].names:
+            if languageName == _languages_db[languageId].names[icuLocaleId]:
+                return languageId
     return ''
 
 extra_bonus = 1000000
