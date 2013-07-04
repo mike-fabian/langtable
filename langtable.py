@@ -21,6 +21,7 @@
 #     list_locales()
 #     list_keyboards()
 #     list_consolefonts()
+#     list_timezones()
 #     language_name()
 #     territory_name()
 #     supports_ascii()
@@ -1071,6 +1072,73 @@ def list_consolefonts(concise=True, show_weights=False, languageId = None, scrip
                     ranked_consolefonts[consolefont] *= extra_bonus
                 ranked_consolefonts[consolefont] *= territory_bonus
     ranked_list = _dictionary_to_ranked_list(ranked_consolefonts)
+    if concise:
+        ranked_list = _make_ranked_list_concise(ranked_list)
+    if show_weights:
+        return ranked_list
+    else:
+        return _ranked_list_to_list(ranked_list)
+
+def list_timezones(concise=True, show_weights=False, languageId = None, scriptId = None, territoryId = None):
+    '''List likely timezones
+
+    Examples:
+
+    >>> list_timezones(territoryId="DE")
+    ['Europe/Berlin']
+
+    >>> list_timezones(languageId="de")
+    ['Europe/Berlin', 'Europe/Vienna', 'Europe/Zurich', 'Europe/Brussels', 'Europe/Luxembourg']
+
+    >>> list_timezones(territoryId="CH")
+    ['Europe/Zurich']
+
+    >>> list_timezones(languageId="fr", territoryId="CH")
+    ['Europe/Zurich']
+
+    >>> list_timezones(languageId="fr")
+    ['Europe/Paris', 'America/Montreal', 'Europe/Brussels', 'Europe/Zurich', 'Europe/Luxembourg']
+
+    The territory gets more weight than the language:
+
+    >>> list_timezones(languageId="ja", territoryId="CH")
+    ['Europe/Zurich', 'Asia/Tokyo']
+    '''
+    ranked_timezones = {}
+    skipTerritory = False
+    languageId, scriptId, territoryId = _parse_and_split_languageId(
+        languageId=languageId,
+        scriptId=scriptId,
+        territoryId=territoryId)
+    if languageId and scriptId and territoryId and languageId+'_'+scriptId+'_'+territoryId in _languages_db:
+        languageId = languageId+'_'+scriptId+'_'+territoryId
+        skipTerritory = True
+    elif languageId and scriptId and languageId+'_'+scriptId in _languages_db:
+        languageId = languageId+'_'+scriptId
+    elif languageId and territoryId and languageId+'_'+territoryId in _languages_db:
+        languageId = languageId+'_'+territoryId
+        skipTerritory = True
+    language_bonus = 1
+    if languageId in _languages_db:
+        for timezone in _languages_db[languageId].timezones:
+            if _languages_db[languageId].timezones[timezone] != 0:
+                if timezone not in ranked_timezones:
+                    ranked_timezones[timezone] = _languages_db[languageId].timezones[timezone]
+                else:
+                    ranked_timezones[timezone] *= _languages_db[languageId].timezones[timezone]
+                    ranked_timezones[timezone] *= extra_bonus
+                ranked_timezones[timezone] *= language_bonus
+    territory_bonus = 100
+    if territoryId in _territories_db:
+        for timezone in _territories_db[territoryId].timezones:
+            if _territories_db[territoryId].timezones[timezone] != 0:
+                if timezone not in ranked_timezones:
+                    ranked_timezones[timezone] = _territories_db[territoryId].timezones[timezone]
+                else:
+                    ranked_timezones[timezone] *= _territories_db[territoryId].timezones[timezone]
+                    ranked_timezones[timezone] *= extra_bonus
+                ranked_timezones[timezone] *= territory_bonus
+    ranked_list = _dictionary_to_ranked_list(ranked_timezones)
     if concise:
         ranked_list = _make_ranked_list_concise(ranked_list)
     if show_weights:
