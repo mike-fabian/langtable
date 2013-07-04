@@ -1005,6 +1005,37 @@ def list_keyboards(concise=True, show_weights=False, languageId = None, scriptId
         return _ranked_list_to_list(ranked_list)
 
 def list_consolefonts(concise=True, show_weights=False, languageId = None, scriptId = None, territoryId = None):
+    '''List likely Linux Console fonts
+
+    Examples:
+
+    Listing likely console fonts  for English:
+
+    >>> list_consolefonts(languageId="en")
+    ['latarcyrheb-sun16']
+
+    Listing likely console fonts for Greek:
+
+    >>> list_consolefonts(languageId="el")
+    ['iso07u-16', 'LatGrkCyr-8x16']
+
+    Listing likely console fonts for Greece:
+
+    >>> list_consolefonts(territoryId="GR")
+    ['iso07u-16', 'LatGrkCyr-8x16']
+
+    Listing likely console fonts for Greek in Greece:
+
+    list_consolefonts(languageId="el", territoryId="GR")
+    ['iso07u-16']
+
+    Listing likely console fonts for Greek in a non-Greek country like
+    the UK (the language has higher weight):
+
+    >>> list_consolefonts(languageId="el", territoryId="GB")
+    ['iso07u-16', 'LatGrkCyr-8x16', 'latarcyrheb-sun16']
+
+    '''
     ranked_consolefonts = {}
     skipTerritory = False
     languageId, scriptId, territoryId = _parse_and_split_languageId(
