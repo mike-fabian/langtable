@@ -917,7 +917,7 @@
     True
 
 >>> supports_ascii("not_existing_in_database") # doctest: +NORMALIZE_WHITESPACE
-    False
+    True
 
 >>> languageId("Sindhi")  # doctest: +NORMALIZE_WHITESPACE
     'sd'

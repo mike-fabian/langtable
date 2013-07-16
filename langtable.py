@@ -1220,7 +1220,7 @@ def supports_ascii(keyboardId=None):
     '''
     if keyboardId in _keyboards_db:
         return _keyboards_db[keyboardId].ascii
-    return False
+    return True
 
 def _test_cldr_locale_pattern(localeId):
     '''
