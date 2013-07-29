@@ -228,12 +228,113 @@
     </timezones>
   </language>
   <language>
+    <languageId>ak</languageId>
+    <iso639-1>ak</iso639-1>
+    <iso639-2-t>aka</iso639-2-t>
+    <iso639-2-b>aka</iso639-2-b>
+    <names>
+      <name><languageId>af</languageId><trName>Akan</trName></name>
+      <name><languageId>ak</languageId><trName>Akan</trName></name>
+      <name><languageId>am</languageId><trName>አካንኛ</trName></name>
+      <name><languageId>ar</languageId><trName>الأكانية</trName></name>
+      <name><languageId>az</languageId><trName>akanca</trName></name>
+      <name><languageId>bem</languageId><trName>Ichi Akan</trName></name>
+      <name><languageId>bg</languageId><trName>акан</trName></name>
+      <name><languageId>bn</languageId><trName>আকান</trName></name>
+      <name><languageId>br</languageId><trName>akan</trName></name>
+      <name><languageId>brx</languageId><trName>अकन</trName></name>
+      <name><languageId>bs</languageId><trName>akan</trName></name>
+      <name><languageId>ca</languageId><trName>àkan</trName></name>
+      <name><languageId>cs</languageId><trName>akanština</trName></name>
+      <name><languageId>cy</languageId><trName>Acaneg</trName></name>
+      <name><languageId>da</languageId><trName>akan</trName></name>
+      <name><languageId>de</languageId><trName>Akan</trName></name>
+      <name><languageId>el</languageId><trName>Ακάν</trName></name>
+      <name><languageId>en</languageId><trName>Akan</trName></name>
+      <name><languageId>es</languageId><trName>akan</trName></name>
+      <name><languageId>et</languageId><trName>akani</trName></name>
+      <name><languageId>eu</languageId><trName>Akanera</trName></name>
+      <name><languageId>fa</languageId><trName>آکان</trName></name>
+      <name><languageId>ff</languageId><trName>Akaan</trName></name>
+      <name><languageId>fi</languageId><trName>akan</trName></name>
+      <name><languageId>fil</languageId><trName>Akan</trName></name>
+      <name><languageId>fr</languageId><trName>akan</trName></name>
+      <name><languageId>gl</languageId><trName>akán</trName></name>
+      <name><languageId>gu</languageId><trName>અકાન</trName></name>
+      <name><languageId>ha</languageId><trName>Akan</trName></name>
+      <name><languageId>he</languageId><trName>אקאן</trName></name>
+      <name><languageId>hi</languageId><trName>अकन</trName></name>
+      <name><languageId>hr</languageId><trName>akanski</trName></name>
+      <name><languageId>hu</languageId><trName>akan</trName></name>
+      <name><languageId>id</languageId><trName>Akan</trName></name>
+      <name><languageId>ig</languageId><trName>Akan</trName></name>
+      <name><languageId>is</languageId><trName>akan</trName></name>
+      <name><languageId>it</languageId><trName>akan</trName></name>
+      <name><languageId>ja</languageId><trName>アカン語</trName></name>
+      <name><languageId>ka</languageId><trName>აკანი</trName></name>
+      <name><languageId>kn</languageId><trName>ಅಕಾನ್</trName></name>
+      <name><languageId>ko</languageId><trName>아칸어</trName></name>
+      <name><languageId>ks</languageId><trName>اَکان</trName></name>
+      <name><languageId>lg</languageId><trName>Lu-akaani</trName></name>
+      <name><languageId>lo</languageId><trName>ອາການ</trName></name>
+      <name><languageId>lt</languageId><trName>akanų</trName></name>
+      <name><languageId>lv</languageId><trName>akanu</trName></name>
+      <name><languageId>mg</languageId><trName>Akan</trName></name>
+      <name><languageId>mk</languageId><trName>акан</trName></name>
+      <name><languageId>ml</languageId><trName>അകാൻ</trName></name>
+      <name><languageId>mr</languageId><trName>अकान</trName></name>
+      <name><languageId>ms</languageId><trName>Akan</trName></name>
+      <name><languageId>mt</languageId><trName>Akan</trName></name>
+      <name><languageId>nb</languageId><trName>akan</trName></name>
+      <name><languageId>nl</languageId><trName>Akan</trName></name>
+      <name><languageId>nn</languageId><trName>akan</trName></name>
+      <name><languageId>or</languageId><trName>ଅକନ୍</trName></name>
+      <name><languageId>pl</languageId><trName>akan</trName></name>
+      <name><languageId>pt</languageId><trName>akan</trName></name>
+      <name><languageId>ro</languageId><trName>akan</trName></name>
+      <name><languageId>ru</languageId><trName>акан</trName></name>
+      <name><languageId>sk</languageId><trName>akančina</trName></name>
+      <name><languageId>sl</languageId><trName>akanščina</trName></name>
+      <name><languageId>so</languageId><trName>Akan</trName></name>
+      <name><languageId>sr</languageId><trName>Акан</trName></name>
+      <name><languageId>sr_Latn</languageId><trName>Akan</trName></name>
+      <name><languageId>sv</languageId><trName>akan</trName></name>
+      <name><languageId>sw</languageId><trName>Kiakani</trName></name>
+      <name><languageId>ta</languageId><trName>ஆகான்</trName></name>
+      <name><languageId>te</languageId><trName>అకాన్</trName></name>
+      <name><languageId>th</languageId><trName>อาคัน</trName></name>
+      <name><languageId>tr</languageId><trName>Akan</trName></name>
+      <name><languageId>uk</languageId><trName>акан</trName></name>
+      <name><languageId>ur</languageId><trName>اکان</trName></name>
+      <name><languageId>vi</languageId><trName>Tiếng Akan</trName></name>
+      <name><languageId>yo</languageId><trName>Èdè Akani</trName></name>
+      <name><languageId>zh</languageId><trName>阿肯文</trName></name>
+      <name><languageId>zh_Hant</languageId><trName>阿坎文</trName></name>
+      <name><languageId>zu</languageId><trName>I-Akan</trName></name>
+    </names>
+    <locales>
+    </locales>
+    <territories>
+      <territory><territoryId>GH</territoryId><rank>1000</rank></territory>
+    </territories>
+    <keyboards>
+      <keyboard><keyboardId>us(altgr-intl)</keyboardId><rank>1000</rank></keyboard>
+    </keyboards>
+    <consolefonts>
+      <consolefont><consolefontId>latarcyrheb-sun16</consolefontId><rank>1000</rank></consolefont>
+    </consolefonts>
+    <timezones>
+      <timezone><timezoneId>Africa/Accra</timezoneId><rank>1000</rank></timezone>
+    </timezones>
+  </language>
+  <language>
     <languageId>am</languageId>
     <iso639-1>am</iso639-1>
     <iso639-2-t>amh</iso639-2-t>
     <iso639-2-b>amh</iso639-2-b>
     <names>
       <name><languageId>af</languageId><trName>Amharies</trName></name>
+      <name><languageId>ak</languageId><trName>Amarik</trName></name>
       <name><languageId>am</languageId><trName>አማርኛ</trName></name>
       <name><languageId>ar</languageId><trName>الأمهرية</trName></name>
       <name><languageId>ast</languageId><trName>amharicu</trName></name>
@@ -453,6 +554,7 @@
     <iso639-2-b>ara</iso639-2-b>
     <names>
       <name><languageId>af</languageId><trName>Arabies</trName></name>
+      <name><languageId>ak</languageId><trName>Arabik</trName></name>
       <name><languageId>am</languageId><trName>ዐርቢኛ</trName></name>
       <name><languageId>ar</languageId><trName>العربية</trName></name>
       <name><languageId>ast</languageId><trName>árabe</trName></name>
@@ -981,6 +1083,7 @@
     <iso639-2-b>bel</iso639-2-b>
     <names>
       <name><languageId>af</languageId><trName>Wit-Russies</trName></name>
+      <name><languageId>ak</languageId><trName>Belarus kasa</trName></name>
       <name><languageId>am</languageId><trName>ቤላራሻኛ</trName></name>
       <name><languageId>ar</languageId><trName>البيلوروسية</trName></name>
       <name><languageId>ast</languageId><trName>bielorrusu</trName></name>
@@ -1299,6 +1402,7 @@
     <iso639-2-b>bul</iso639-2-b>
     <names>
       <name><languageId>af</languageId><trName>Bulgaars</trName></name>
+      <name><languageId>ak</languageId><trName>Bɔlgeria kasa</trName></name>
       <name><languageId>am</languageId><trName>ቡልጋሪኛ</trName></name>
       <name><languageId>ar</languageId><trName>البلغارية</trName></name>
       <name><languageId>ast</languageId><trName>búlgaru</trName></name>
@@ -1515,6 +1619,7 @@
     <iso639-2-b>ben</iso639-2-b>
     <names>
       <name><languageId>af</languageId><trName>Bengaals</trName></name>
+      <name><languageId>ak</languageId><trName>Bengali kasa</trName></name>
       <name><languageId>am</languageId><trName>ቤንጋሊኛ</trName></name>
       <name><languageId>ar</languageId><trName>البنغالية</trName></name>
       <name><languageId>ast</languageId><trName>bengalín</trName></name>
@@ -2393,6 +2498,7 @@
     <iso639-2-b>cze</iso639-2-b>
     <names>
       <name><languageId>af</languageId><trName>Tsjeggies</trName></name>
+      <name><languageId>ak</languageId><trName>Kyɛk kasa</trName></name>
       <name><languageId>am</languageId><trName>ቼክኛ</trName></name>
       <name><languageId>ar</languageId><trName>التشيكية</trName></name>
       <name><languageId>ast</languageId><trName>checu</trName></name>
@@ -2957,6 +3063,7 @@
     <iso639-2-b>ger</iso639-2-b>
     <names>
       <name><languageId>af</languageId><trName>Duits</trName></name>
+      <name><languageId>ak</languageId><trName>Gyaaman</trName></name>
       <name><languageId>am</languageId><trName>ጀርመን</trName></name>
       <name><languageId>ar</languageId><trName>الألمانية</trName></name>
       <name><languageId>ast</languageId><trName>alemán</trName></name>
@@ -3400,6 +3507,7 @@
     <iso639-2-b>gre</iso639-2-b>
     <names>
       <name><languageId>af</languageId><trName>Grieks</trName></name>
+      <name><languageId>ak</languageId><trName>Greek kasa</trName></name>
       <name><languageId>am</languageId><trName>ግሪክኛ</trName></name>
       <name><languageId>ar</languageId><trName>اليونانية</trName></name>
       <name><languageId>ast</languageId><trName>griegu</trName></name>
@@ -3539,6 +3647,7 @@
     <iso639-2-b>eng</iso639-2-b>
     <names>
       <name><languageId>af</languageId><trName>Engels</trName></name>
+      <name><languageId>ak</languageId><trName>Borɔfo</trName></name>
       <name><languageId>am</languageId><trName>እንግሊዝኛ</trName></name>
       <name><languageId>ar</languageId><trName>الإنجليزية</trName></name>
       <name><languageId>ast</languageId><trName>inglés</trName></name>
@@ -3896,6 +4005,7 @@
     <iso639-2-b>spa</iso639-2-b>
     <names>
       <name><languageId>af</languageId><trName>Spaans</trName></name>
+      <name><languageId>ak</languageId><trName>Spain kasa</trName></name>
       <name><languageId>am</languageId><trName>ስፓኒሽ</trName></name>
       <name><languageId>ar</languageId><trName>الإسبانية</trName></name>
       <name><languageId>ast</languageId><trName>español</trName></name>
@@ -4411,6 +4521,7 @@
     <iso639-2-b>per</iso639-2-b>
     <names>
       <name><languageId>af</languageId><trName>Persies</trName></name>
+      <name><languageId>ak</languageId><trName>Pɛɛhyia kasa</trName></name>
       <name><languageId>am</languageId><trName>ፐርሺያኛ</trName></name>
       <name><languageId>ar</languageId><trName>الفارسية</trName></name>
       <name><languageId>ast</languageId><trName>persa</trName></name>
@@ -5017,6 +5128,7 @@
     <iso639-2-b>fre</iso639-2-b>
     <names>
       <name><languageId>af</languageId><trName>Frans</trName></name>
+      <name><languageId>ak</languageId><trName>Frɛnkye</trName></name>
       <name><languageId>am</languageId><trName>ፈረንሳይኛ</trName></name>
       <name><languageId>ar</languageId><trName>الفرنسية</trName></name>
       <name><languageId>ast</languageId><trName>francés</trName></name>
@@ -6166,6 +6278,7 @@
     <iso639-2-b>hau</iso639-2-b>
     <names>
       <name><languageId>af</languageId><trName>Hausa</trName></name>
+      <name><languageId>ak</languageId><trName>Hausa</trName></name>
       <name><languageId>am</languageId><trName>ሃውሳኛ</trName></name>
       <name><languageId>ar</languageId><trName>الهوسا</trName></name>
       <name><languageId>ast</languageId><trName>ḥausa</trName></name>
@@ -6418,6 +6531,7 @@
     <iso639-2-b>hin</iso639-2-b>
     <names>
       <name><languageId>af</languageId><trName>Hindi</trName></name>
+      <name><languageId>ak</languageId><trName>Hindi</trName></name>
       <name><languageId>am</languageId><trName>ሒንዱኛ</trName></name>
       <name><languageId>ar</languageId><trName>الهندية</trName></name>
       <name><languageId>ast</languageId><trName>hindi</trName></name>
@@ -6905,6 +7019,7 @@
     <iso639-2-b>hun</iso639-2-b>
     <names>
       <name><languageId>af</languageId><trName>Hongaars</trName></name>
+      <name><languageId>ak</languageId><trName>Hangri kasa</trName></name>
       <name><languageId>am</languageId><trName>ሀንጋሪኛ</trName></name>
       <name><languageId>ar</languageId><trName>الهنغارية</trName></name>
       <name><languageId>ast</languageId><trName>húngaru</trName></name>
@@ -7280,6 +7395,7 @@
     <iso639-2-b>ind</iso639-2-b>
     <names>
       <name><languageId>af</languageId><trName>Indonesies</trName></name>
+      <name><languageId>ak</languageId><trName>Indonihyia kasa</trName></name>
       <name><languageId>am</languageId><trName>ኢንዶኔዥኛ</trName></name>
       <name><languageId>ar</languageId><trName>الإندونيسية</trName></name>
       <name><languageId>ast</languageId><trName>indonesiu</trName></name>
@@ -7415,6 +7531,7 @@
     <iso639-2-b>ibo</iso639-2-b>
     <names>
       <name><languageId>af</languageId><trName>Igbo</trName></name>
+      <name><languageId>ak</languageId><trName>Igbo</trName></name>
       <name><languageId>am</languageId><trName>ኢግቦኛ</trName></name>
       <name><languageId>ar</languageId><trName>الإيجبو</trName></name>
       <name><languageId>ast</languageId><trName>igbo</trName></name>
@@ -7836,6 +7953,7 @@
     <iso639-2-b>ita</iso639-2-b>
     <names>
       <name><languageId>af</languageId><trName>Italiaans</trName></name>
+      <name><languageId>ak</languageId><trName>Italy kasa</trName></name>
       <name><languageId>am</languageId><trName>ጣሊያንኛ</trName></name>
       <name><languageId>ar</languageId><trName>الإيطالية</trName></name>
       <name><languageId>ast</languageId><trName>italianu</trName></name>
@@ -8101,6 +8219,7 @@
     <iso639-2-b>jpn</iso639-2-b>
     <names>
       <name><languageId>af</languageId><trName>Japannees</trName></name>
+      <name><languageId>ak</languageId><trName>Gyapan kasa</trName></name>
       <name><languageId>am</languageId><trName>ጃፓንኛ</trName></name>
       <name><languageId>ar</languageId><trName>اليابانية</trName></name>
       <name><languageId>ast</languageId><trName>xaponés</trName></name>
@@ -8577,6 +8696,7 @@
     <iso639-2-b>khm</iso639-2-b>
     <names>
       <name><languageId>af</languageId><trName>Khmer</trName></name>
+      <name><languageId>ak</languageId><trName>Kambodia kasa</trName></name>
       <name><languageId>am</languageId><trName>ክመርኛ ማእከላዊ</trName></name>
       <name><languageId>ar</languageId><trName>الخميرية</trName></name>
       <name><languageId>as</languageId><trName>কম্বোডিয়ান</trName></name>
@@ -8832,6 +8952,7 @@
     <iso639-2-b>kor</iso639-2-b>
     <names>
       <name><languageId>af</languageId><trName>Koreaans</trName></name>
+      <name><languageId>ak</languageId><trName>Korea kasa</trName></name>
       <name><languageId>am</languageId><trName>ኮሪያኛ</trName></name>
       <name><languageId>ar</languageId><trName>الكورية</trName></name>
       <name><languageId>ast</languageId><trName>coreanu</trName></name>
@@ -11284,6 +11405,7 @@
     <iso639-2-b>may</iso639-2-b>
     <names>
       <name><languageId>af</languageId><trName>Maleisies</trName></name>
+      <name><languageId>ak</languageId><trName>Malay kasa</trName></name>
       <name><languageId>am</languageId><trName>ማላይኛ</trName></name>
       <name><languageId>ar</languageId><trName>لغة الملايو</trName></name>
       <name><languageId>ast</languageId><trName>malayu</trName></name>
@@ -11545,6 +11667,7 @@
     <iso639-2-b>bur</iso639-2-b>
     <names>
       <name><languageId>af</languageId><trName>Birmaans</trName></name>
+      <name><languageId>ak</languageId><trName>Bɛɛmis kasa</trName></name>
       <name><languageId>am</languageId><trName>ቡርማኛ</trName></name>
       <name><languageId>ar</languageId><trName>البورمية</trName></name>
       <name><languageId>ast</languageId><trName>birmanu</trName></name>
@@ -11898,6 +12021,7 @@
     <iso639-2-b>nep</iso639-2-b>
     <names>
       <name><languageId>af</languageId><trName>Nepalees</trName></name>
+      <name><languageId>ak</languageId><trName>Nɛpal kasa</trName></name>
       <name><languageId>am</languageId><trName>ኔፓሊኛ</trName></name>
       <name><languageId>ar</languageId><trName>النيبالية</trName></name>
       <name><languageId>ast</languageId><trName>nepalés</trName></name>
@@ -12031,6 +12155,7 @@
     <iso639-2-b>dut</iso639-2-b>
     <names>
       <name><languageId>af</languageId><trName>Nederlands</trName></name>
+      <name><languageId>ak</languageId><trName>Dɛɛkye</trName></name>
       <name><languageId>am</languageId><trName>ደች</trName></name>
       <name><languageId>ar</languageId><trName>الهولندية</trName></name>
       <name><languageId>ast</languageId><trName>neerlandés</trName></name>
@@ -13047,6 +13172,7 @@
     <iso639-2-b>pan</iso639-2-b>
     <names>
       <name><languageId>af</languageId><trName>Pandjabi</trName></name>
+      <name><languageId>ak</languageId><trName>Pungyabi kasa</trName></name>
       <name><languageId>am</languageId><trName>ፑንጃብኛ</trName></name>
       <name><languageId>ar</languageId><trName>البنجابية</trName></name>
       <name><languageId>ast</languageId><trName>punyabí</trName></name>
@@ -13268,6 +13394,7 @@
     <iso639-2-b>pol</iso639-2-b>
     <names>
       <name><languageId>af</languageId><trName>Pools</trName></name>
+      <name><languageId>ak</languageId><trName>Pɔland kasa</trName></name>
       <name><languageId>am</languageId><trName>ፖሊሽኛ</trName></name>
       <name><languageId>ar</languageId><trName>البولندية</trName></name>
       <name><languageId>ast</languageId><trName>polacu</trName></name>
@@ -13528,6 +13655,7 @@
     <iso639-2-b>por</iso639-2-b>
     <names>
       <name><languageId>af</languageId><trName>Portugees</trName></name>
+      <name><languageId>ak</languageId><trName>Pɔɔtugal kasa</trName></name>
       <name><languageId>am</languageId><trName>ፖርቹጋልኛ</trName></name>
       <name><languageId>ar</languageId><trName>البرتغالية</trName></name>
       <name><languageId>ast</languageId><trName>portugués</trName></name>
@@ -13688,6 +13816,7 @@
     <iso639-2-b>rum</iso639-2-b>
     <names>
       <name><languageId>af</languageId><trName>Roemeens</trName></name>
+      <name><languageId>ak</languageId><trName>Romenia kasa</trName></name>
       <name><languageId>am</languageId><trName>ሮማኒያን</trName></name>
       <name><languageId>ar</languageId><trName>الرومانية</trName></name>
       <name><languageId>ast</languageId><trName>rumanu</trName></name>
@@ -13823,6 +13952,7 @@
     <iso639-2-b>rus</iso639-2-b>
     <names>
       <name><languageId>af</languageId><trName>Russies</trName></name>
+      <name><languageId>ak</languageId><trName>Rahyia kasa</trName></name>
       <name><languageId>am</languageId><trName>ራሽኛ</trName></name>
       <name><languageId>ar</languageId><trName>الروسية</trName></name>
       <name><languageId>ast</languageId><trName>rusu</trName></name>
@@ -13981,6 +14111,7 @@
     <iso639-2-b>kin</iso639-2-b>
     <names>
       <name><languageId>af</languageId><trName>Rwandees</trName></name>
+      <name><languageId>ak</languageId><trName>Rewanda kasa</trName></name>
       <name><languageId>am</languageId><trName>ኪንያርዋንድኛ</trName></name>
       <name><languageId>ar</languageId><trName>الكينيارواندا</trName></name>
       <name><languageId>az</languageId><trName>kinyarvanda dili</trName></name>
@@ -15155,6 +15286,7 @@
     <iso639-2-b>som</iso639-2-b>
     <names>
       <name><languageId>af</languageId><trName>Somalies</trName></name>
+      <name><languageId>ak</languageId><trName>Somalia kasa</trName></name>
       <name><languageId>am</languageId><trName>ሱማልኛ</trName></name>
       <name><languageId>ar</languageId><trName>الصومالية</trName></name>
       <name><languageId>ast</languageId><trName>somalín</trName></name>
@@ -15826,6 +15958,7 @@
     <iso639-2-b>swe</iso639-2-b>
     <names>
       <name><languageId>af</languageId><trName>Sweeds</trName></name>
+      <name><languageId>ak</languageId><trName>Sweden kasa</trName></name>
       <name><languageId>am</languageId><trName>ስዊድንኛ</trName></name>
       <name><languageId>ar</languageId><trName>السويدية</trName></name>
       <name><languageId>ast</languageId><trName>suecu</trName></name>
@@ -16097,6 +16230,7 @@
     <iso639-2-b>tam</iso639-2-b>
     <names>
       <name><languageId>af</languageId><trName>Tamil</trName></name>
+      <name><languageId>ak</languageId><trName>Tamil kasa</trName></name>
       <name><languageId>am</languageId><trName>ታሚልኛ</trName></name>
       <name><languageId>ar</languageId><trName>التاميلية</trName></name>
       <name><languageId>ast</languageId><trName>tamil</trName></name>
@@ -16479,6 +16613,7 @@
     <iso639-2-b>tha</iso639-2-b>
     <names>
       <name><languageId>af</languageId><trName>Thais</trName></name>
+      <name><languageId>ak</languageId><trName>Taeland kasa</trName></name>
       <name><languageId>am</languageId><trName>ታይኛ</trName></name>
       <name><languageId>ar</languageId><trName>التايلاندية</trName></name>
       <name><languageId>ast</languageId><trName>tailandés</trName></name>
@@ -17149,6 +17284,7 @@
     <iso639-2-b>tur</iso639-2-b>
     <names>
       <name><languageId>af</languageId><trName>Turks</trName></name>
+      <name><languageId>ak</languageId><trName>Tɛɛki kasa</trName></name>
       <name><languageId>am</languageId><trName>ቱርክኛ</trName></name>
       <name><languageId>ar</languageId><trName>التركية</trName></name>
       <name><languageId>ast</languageId><trName>turcu</trName></name>
@@ -17683,6 +17819,7 @@
     <iso639-2-b>ukr</iso639-2-b>
     <names>
       <name><languageId>af</languageId><trName>Oekraïens</trName></name>
+      <name><languageId>ak</languageId><trName>Ukren kasa</trName></name>
       <name><languageId>am</languageId><trName>ዩክሬንኛ</trName></name>
       <name><languageId>ar</languageId><trName>الأوكرانية</trName></name>
       <name><languageId>ast</languageId><trName>ucraín</trName></name>
@@ -17848,6 +17985,7 @@
     <iso639-2-b>urd</iso639-2-b>
     <names>
       <name><languageId>af</languageId><trName>Oerdoe</trName></name>
+      <name><languageId>ak</languageId><trName>Urdu kasa</trName></name>
       <name><languageId>am</languageId><trName>ኡርዱኛ</trName></name>
       <name><languageId>ar</languageId><trName>الأردية</trName></name>
       <name><languageId>ast</languageId><trName>indostánicu</trName></name>
@@ -18212,6 +18350,7 @@
     <iso639-2-b>vie</iso639-2-b>
     <names>
       <name><languageId>af</languageId><trName>Viëtnamees</trName></name>
+      <name><languageId>ak</languageId><trName>Viɛtnam kasa</trName></name>
       <name><languageId>am</languageId><trName>ቪትናምኛ</trName></name>
       <name><languageId>ar</languageId><trName>الفيتنامية</trName></name>
       <name><languageId>ast</languageId><trName>vietnamín</trName></name>
@@ -18964,6 +19103,7 @@
     <iso639-2-b>yor</iso639-2-b>
     <names>
       <name><languageId>af</languageId><trName>Yoruba</trName></name>
+      <name><languageId>ak</languageId><trName>Yoruba</trName></name>
       <name><languageId>am</languageId><trName>ዮሩባዊኛ</trName></name>
       <name><languageId>ar</languageId><trName>اليوروبية</trName></name>
       <name><languageId>ast</languageId><trName>yoruba</trName></name>
@@ -19176,6 +19316,7 @@
     <iso639-2-b>chi</iso639-2-b>
     <names>
       <name><languageId>af</languageId><trName>Sjinees</trName></name>
+      <name><languageId>ak</languageId><trName>Kyaena kasa</trName></name>
       <name><languageId>am</languageId><trName>ቻይንኛ</trName></name>
       <name><languageId>ar</languageId><trName>الصينية</trName></name>
       <name><languageId>ast</languageId><trName>chinu</trName></name>
@@ -19693,6 +19834,7 @@
     <iso639-2-b>zul</iso639-2-b>
     <names>
       <name><languageId>af</languageId><trName>Zoeloe</trName></name>
+      <name><languageId>ak</languageId><trName>Zulu</trName></name>
       <name><languageId>am</languageId><trName>ዙሉኛ</trName></name>
       <name><languageId>ar</languageId><trName>الزولو</trName></name>
       <name><languageId>ast</languageId><trName>zulú</trName></name>

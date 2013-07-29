@@ -186,6 +186,7 @@
     <territoryId>AD</territoryId>
     <names>
       <name><languageId>af</languageId><trName>Andorra</trName></name>
+      <name><languageId>ak</languageId><trName>Andora</trName></name>
       <name><languageId>am</languageId><trName>አንዶራ</trName></name>
       <name><languageId>ar</languageId><trName>أندورا</trName></name>
       <name><languageId>ast</languageId><trName>Andorra</trName></name>
@@ -309,6 +310,7 @@
     <territoryId>AE</territoryId>
     <names>
       <name><languageId>af</languageId><trName>Verenigde Arabiese Emirate</trName></name>
+      <name><languageId>ak</languageId><trName>United Arab Emirates</trName></name>
       <name><languageId>am</languageId><trName>የተባበሩት አረብ ኤምሬትስ</trName></name>
       <name><languageId>ar</languageId><trName>الإمارات العربية المتحدة</trName></name>
       <name><languageId>ast</languageId><trName>Emiratos Árabes Xuníos</trName></name>
@@ -431,6 +433,7 @@
     <territoryId>AF</territoryId>
     <names>
       <name><languageId>af</languageId><trName>Afganistan</trName></name>
+      <name><languageId>ak</languageId><trName>Afganistan</trName></name>
       <name><languageId>am</languageId><trName>አፍጋኒስታን</trName></name>
       <name><languageId>ar</languageId><trName>أفغانستان</trName></name>
       <name><languageId>ast</languageId><trName>Afganistán</trName></name>
@@ -553,6 +556,7 @@
     <territoryId>AG</territoryId>
     <names>
       <name><languageId>af</languageId><trName>Antigua en Barbuda</trName></name>
+      <name><languageId>ak</languageId><trName>Antigua ne Baabuda</trName></name>
       <name><languageId>am</languageId><trName>አንቲጓ እና ባሩዳ</trName></name>
       <name><languageId>ar</languageId><trName>أنتيغوا وبربودا</trName></name>
       <name><languageId>ast</languageId><trName>Antigua y Barbuda</trName></name>
@@ -673,6 +677,7 @@
     <territoryId>AL</territoryId>
     <names>
       <name><languageId>af</languageId><trName>Albanië</trName></name>
+      <name><languageId>ak</languageId><trName>Albenia</trName></name>
       <name><languageId>am</languageId><trName>አልባኒያ</trName></name>
       <name><languageId>ar</languageId><trName>ألبانيا</trName></name>
       <name><languageId>ast</languageId><trName>Albania</trName></name>
@@ -797,6 +802,7 @@
     <territoryId>AM</territoryId>
     <names>
       <name><languageId>af</languageId><trName>Armenië</trName></name>
+      <name><languageId>ak</languageId><trName>Aamenia</trName></name>
       <name><languageId>am</languageId><trName>አርሜኒያ</trName></name>
       <name><languageId>ar</languageId><trName>أرمينيا</trName></name>
       <name><languageId>ast</languageId><trName>Armenia</trName></name>
@@ -920,6 +926,7 @@
     <territoryId>AN</territoryId>
     <names>
       <name><languageId>af</languageId><trName>Nederlands-Antille</trName></name>
+      <name><languageId>ak</languageId><trName>Nɛdɛland Antelez</trName></name>
       <name><languageId>am</languageId><trName>ኔዘርላንድስ አንቲልስ</trName></name>
       <name><languageId>ar</languageId><trName>جزر الأنتيل الهولندية</trName></name>
       <name><languageId>az</languageId><trName>Hollandiya antilleri</trName></name>
@@ -1033,6 +1040,7 @@
     <territoryId>AR</territoryId>
     <names>
       <name><languageId>af</languageId><trName>Argentinië</trName></name>
+      <name><languageId>ak</languageId><trName>Agyɛntina</trName></name>
       <name><languageId>am</languageId><trName>አርጀንቲና</trName></name>
       <name><languageId>ar</languageId><trName>الأرجنتين</trName></name>
       <name><languageId>ast</languageId><trName>Arxentina</trName></name>
@@ -1167,6 +1175,7 @@
     <territoryId>AT</territoryId>
     <names>
       <name><languageId>af</languageId><trName>Oostenryk</trName></name>
+      <name><languageId>ak</languageId><trName>Ɔstria</trName></name>
       <name><languageId>am</languageId><trName>ኦስትሪያ</trName></name>
       <name><languageId>ar</languageId><trName>النمسا</trName></name>
       <name><languageId>ast</languageId><trName>Austria</trName></name>
@@ -1291,6 +1300,7 @@
     <territoryId>AU</territoryId>
     <names>
       <name><languageId>af</languageId><trName>Australië</trName></name>
+      <name><languageId>ak</languageId><trName>Ɔstrelia</trName></name>
       <name><languageId>am</languageId><trName>አውስትሬሊያ</trName></name>
       <name><languageId>ar</languageId><trName>أستراليا</trName></name>
       <name><languageId>ast</languageId><trName>Australia</trName></name>
@@ -1425,6 +1435,7 @@
     <territoryId>AW</territoryId>
     <names>
       <name><languageId>af</languageId><trName>Aruba</trName></name>
+      <name><languageId>ak</languageId><trName>Aruba</trName></name>
       <name><languageId>am</languageId><trName>አሩባ</trName></name>
       <name><languageId>ar</languageId><trName>آروبا</trName></name>
       <name><languageId>ast</languageId><trName>Aruba</trName></name>
@@ -1548,6 +1559,7 @@
     <territoryId>AZ</territoryId>
     <names>
       <name><languageId>af</languageId><trName>Aserbeidjan</trName></name>
+      <name><languageId>ak</languageId><trName>Azebaegyan</trName></name>
       <name><languageId>am</languageId><trName>አዘርባጃን</trName></name>
       <name><languageId>ar</languageId><trName>أذربيجان</trName></name>
       <name><languageId>ast</languageId><trName>Azerbaixán</trName></name>
@@ -1671,6 +1683,7 @@
     <territoryId>BA</territoryId>
     <names>
       <name><languageId>af</languageId><trName>Bosnië en Herzegowina</trName></name>
+      <name><languageId>ak</languageId><trName>Bosnia ne Hɛzegovina</trName></name>
       <name><languageId>am</languageId><trName>ቦስኒያ እና ሄርዞጎቪኒያ</trName></name>
       <name><languageId>ar</languageId><trName>البوسنة والهرسك</trName></name>
       <name><languageId>ast</languageId><trName>Bosnia y Herzegovina</trName></name>
@@ -1796,6 +1809,7 @@
     <territoryId>BD</territoryId>
     <names>
       <name><languageId>af</languageId><trName>Bangladesj</trName></name>
+      <name><languageId>ak</languageId><trName>Bangladɛhye</trName></name>
       <name><languageId>am</languageId><trName>ባንግላዲሽ</trName></name>
       <name><languageId>ar</languageId><trName>بنجلاديش</trName></name>
       <name><languageId>ast</languageId><trName>Bangladex</trName></name>
@@ -1918,6 +1932,7 @@
     <territoryId>BE</territoryId>
     <names>
       <name><languageId>af</languageId><trName>België</trName></name>
+      <name><languageId>ak</languageId><trName>Bɛlgyium</trName></name>
       <name><languageId>am</languageId><trName>ቤልጄም</trName></name>
       <name><languageId>ar</languageId><trName>بلجيكا</trName></name>
       <name><languageId>ast</languageId><trName>Bélxica</trName></name>
@@ -2050,6 +2065,7 @@
     <territoryId>BG</territoryId>
     <names>
       <name><languageId>af</languageId><trName>Bulgarye</trName></name>
+      <name><languageId>ak</languageId><trName>Bɔlgeria</trName></name>
       <name><languageId>am</languageId><trName>ቡልጌሪያ</trName></name>
       <name><languageId>ar</languageId><trName>بلغاريا</trName></name>
       <name><languageId>ast</languageId><trName>Bulgaria</trName></name>
@@ -2174,6 +2190,7 @@
     <territoryId>BH</territoryId>
     <names>
       <name><languageId>af</languageId><trName>Bahrein</trName></name>
+      <name><languageId>ak</languageId><trName>Baren</trName></name>
       <name><languageId>am</languageId><trName>ባህሬን</trName></name>
       <name><languageId>ar</languageId><trName>البحرين</trName></name>
       <name><languageId>ast</languageId><trName>Baḥréin</trName></name>
@@ -2296,6 +2313,7 @@
     <territoryId>BO</territoryId>
     <names>
       <name><languageId>af</languageId><trName>Bolivië</trName></name>
+      <name><languageId>ak</languageId><trName>Bolivia</trName></name>
       <name><languageId>am</languageId><trName>ቦሊቪያ</trName></name>
       <name><languageId>ar</languageId><trName>بوليفيا</trName></name>
       <name><languageId>ast</languageId><trName>Bolivia</trName></name>
@@ -2419,6 +2437,7 @@
     <territoryId>BR</territoryId>
     <names>
       <name><languageId>af</languageId><trName>Brasilië</trName></name>
+      <name><languageId>ak</languageId><trName>Brazil</trName></name>
       <name><languageId>am</languageId><trName>ብራዚል</trName></name>
       <name><languageId>ar</languageId><trName>البرازيل</trName></name>
       <name><languageId>as</languageId><trName>ব্ৰাজিল</trName></name>
@@ -2561,6 +2580,7 @@
     <territoryId>BT</territoryId>
     <names>
       <name><languageId>af</languageId><trName>Bhoetan</trName></name>
+      <name><languageId>ak</languageId><trName>Butan</trName></name>
       <name><languageId>am</languageId><trName>ቡህታን</trName></name>
       <name><languageId>ar</languageId><trName>بوتان</trName></name>
       <name><languageId>ast</languageId><trName>Bután</trName></name>
@@ -2684,6 +2704,7 @@
     <territoryId>BW</territoryId>
     <names>
       <name><languageId>af</languageId><trName>Botswana</trName></name>
+      <name><languageId>ak</languageId><trName>Bɔtswana</trName></name>
       <name><languageId>am</languageId><trName>ቦትስዋና</trName></name>
       <name><languageId>ar</languageId><trName>بتسوانا</trName></name>
       <name><languageId>ast</languageId><trName>Botsuana</trName></name>
@@ -2806,6 +2827,7 @@
     <territoryId>BY</territoryId>
     <names>
       <name><languageId>af</languageId><trName>Wit-Rusland</trName></name>
+      <name><languageId>ak</languageId><trName>Bɛlarus</trName></name>
       <name><languageId>am</languageId><trName>ቤላሩስ</trName></name>
       <name><languageId>ar</languageId><trName>روسيا البيضاء</trName></name>
       <name><languageId>ast</languageId><trName>Bielorrusia</trName></name>
@@ -2934,6 +2956,7 @@
     <territoryId>CA</territoryId>
     <names>
       <name><languageId>af</languageId><trName>Kanada</trName></name>
+      <name><languageId>ak</languageId><trName>Kanada</trName></name>
       <name><languageId>am</languageId><trName>ካናዳ</trName></name>
       <name><languageId>ar</languageId><trName>كندا</trName></name>
       <name><languageId>ast</languageId><trName>Canadá</trName></name>
@@ -3091,6 +3114,7 @@
     <territoryId>CH</territoryId>
     <names>
       <name><languageId>af</languageId><trName>Switserland</trName></name>
+      <name><languageId>ak</languageId><trName>Swetzaland</trName></name>
       <name><languageId>am</languageId><trName>ስዊዘርላንድ</trName></name>
       <name><languageId>ar</languageId><trName>سويسرا</trName></name>
       <name><languageId>ast</languageId><trName>Suiza</trName></name>
@@ -3224,6 +3248,7 @@
     <territoryId>CL</territoryId>
     <names>
       <name><languageId>af</languageId><trName>Chili</trName></name>
+      <name><languageId>ak</languageId><trName>Kyili</trName></name>
       <name><languageId>am</languageId><trName>ቺሊ</trName></name>
       <name><languageId>ar</languageId><trName>شيلي</trName></name>
       <name><languageId>ast</languageId><trName>Chile</trName></name>
@@ -3348,6 +3373,7 @@
     <territoryId>CN</territoryId>
     <names>
       <name><languageId>af</languageId><trName>Sjina</trName></name>
+      <name><languageId>ak</languageId><trName>Kyaena</trName></name>
       <name><languageId>am</languageId><trName>ቻይና</trName></name>
       <name><languageId>ar</languageId><trName>الصين</trName></name>
       <name><languageId>as</languageId><trName>চীন</trName></name>
@@ -3477,6 +3503,7 @@
     <territoryId>CO</territoryId>
     <names>
       <name><languageId>af</languageId><trName>Kolombië</trName></name>
+      <name><languageId>ak</languageId><trName>Kolombia</trName></name>
       <name><languageId>am</languageId><trName>ኮሎምቢያ</trName></name>
       <name><languageId>ar</languageId><trName>كولومبيا</trName></name>
       <name><languageId>ast</languageId><trName>Colombia</trName></name>
@@ -3601,6 +3628,7 @@
     <territoryId>CR</territoryId>
     <names>
       <name><languageId>af</languageId><trName>Costa Rica</trName></name>
+      <name><languageId>ak</languageId><trName>Kɔsta Rika</trName></name>
       <name><languageId>am</languageId><trName>ኮስታ ሪካ</trName></name>
       <name><languageId>ar</languageId><trName>كوستاريكا</trName></name>
       <name><languageId>ast</languageId><trName>Costa Rica</trName></name>
@@ -3720,6 +3748,7 @@
     <territoryId>CU</territoryId>
     <names>
       <name><languageId>af</languageId><trName>Kuba</trName></name>
+      <name><languageId>ak</languageId><trName>Kuba</trName></name>
       <name><languageId>am</languageId><trName>ኩባ</trName></name>
       <name><languageId>ar</languageId><trName>كوبا</trName></name>
       <name><languageId>ast</languageId><trName>Cuba</trName></name>
@@ -3841,6 +3870,7 @@
     <territoryId>CY</territoryId>
     <names>
       <name><languageId>af</languageId><trName>Ciprus</trName></name>
+      <name><languageId>ak</languageId><trName>Saeprɔs</trName></name>
       <name><languageId>am</languageId><trName>ሳይፕረስ</trName></name>
       <name><languageId>ar</languageId><trName>قبرص</trName></name>
       <name><languageId>ast</languageId><trName>Xipre</trName></name>
@@ -3964,6 +3994,7 @@
     <territoryId>CZ</territoryId>
     <names>
       <name><languageId>af</languageId><trName>Tjeggiese Republiek</trName></name>
+      <name><languageId>ak</languageId><trName>Kyɛk Kurokɛse</trName></name>
       <name><languageId>am</languageId><trName>ቼክ ሪፑብሊክ</trName></name>
       <name><languageId>ar</languageId><trName>جمهورية التشيك</trName></name>
       <name><languageId>ast</languageId><trName>Chequia</trName></name>
@@ -4087,6 +4118,7 @@
     <territoryId>DE</territoryId>
     <names>
       <name><languageId>af</languageId><trName>Duitsland</trName></name>
+      <name><languageId>ak</languageId><trName>Gyaaman</trName></name>
       <name><languageId>am</languageId><trName>ጀርመን</trName></name>
       <name><languageId>ar</languageId><trName>ألمانيا</trName></name>
       <name><languageId>as</languageId><trName>জাৰ্মানি</trName></name>
@@ -4223,6 +4255,7 @@
     <names>
       <name><languageId>aa</languageId><trName>Yabuuti</trName></name>
       <name><languageId>af</languageId><trName>Djiboeti</trName></name>
+      <name><languageId>ak</languageId><trName>Gyibuti</trName></name>
       <name><languageId>am</languageId><trName>ጂቡቲ</trName></name>
       <name><languageId>ar</languageId><trName>جيبوتي</trName></name>
       <name><languageId>ast</languageId><trName>Xibuti</trName></name>
@@ -4348,6 +4381,7 @@
     <territoryId>DK</territoryId>
     <names>
       <name><languageId>af</languageId><trName>Denemarke</trName></name>
+      <name><languageId>ak</languageId><trName>Dɛnmak</trName></name>
       <name><languageId>am</languageId><trName>ዴንማርክ</trName></name>
       <name><languageId>ar</languageId><trName>الدانمرك</trName></name>
       <name><languageId>ast</languageId><trName>Dinamarca</trName></name>
@@ -4474,6 +4508,7 @@
     <territoryId>DO</territoryId>
     <names>
       <name><languageId>af</languageId><trName>Dominikaanse Republiek</trName></name>
+      <name><languageId>ak</languageId><trName>Dɔmeneka Kurokɛse</trName></name>
       <name><languageId>am</languageId><trName>ዶሚኒክ ሪፑብሊክ</trName></name>
       <name><languageId>ar</languageId><trName>جمهورية الدومينيك</trName></name>
       <name><languageId>ast</languageId><trName>República Dominicana</trName></name>
@@ -4596,6 +4631,7 @@
     <territoryId>DZ</territoryId>
     <names>
       <name><languageId>af</languageId><trName>Algerië</trName></name>
+      <name><languageId>ak</languageId><trName>Ɔlgyeria</trName></name>
       <name><languageId>am</languageId><trName>አልጄሪያ</trName></name>
       <name><languageId>ar</languageId><trName>الجزائر</trName></name>
       <name><languageId>ast</languageId><trName>Arxelia</trName></name>
@@ -4720,6 +4756,7 @@
     <territoryId>EC</territoryId>
     <names>
       <name><languageId>af</languageId><trName>Ecuador</trName></name>
+      <name><languageId>ak</languageId><trName>Ikuwadɔ</trName></name>
       <name><languageId>am</languageId><trName>ኢኳዶር</trName></name>
       <name><languageId>ar</languageId><trName>الإكوادور</trName></name>
       <name><languageId>ast</languageId><trName>Ecuador</trName></name>
@@ -4844,6 +4881,7 @@
     <territoryId>EE</territoryId>
     <names>
       <name><languageId>af</languageId><trName>Estland</trName></name>
+      <name><languageId>ak</languageId><trName>Ɛstonia</trName></name>
       <name><languageId>am</languageId><trName>ኤስቶኒያ</trName></name>
       <name><languageId>ar</languageId><trName>أستونيا</trName></name>
       <name><languageId>ast</languageId><trName>Estonia</trName></name>
@@ -4967,6 +5005,7 @@
     <territoryId>EG</territoryId>
     <names>
       <name><languageId>af</languageId><trName>Egipte</trName></name>
+      <name><languageId>ak</languageId><trName>Nisrim</trName></name>
       <name><languageId>am</languageId><trName>ግብጽ</trName></name>
       <name><languageId>ar</languageId><trName>مصر</trName></name>
       <name><languageId>ast</languageId><trName>Exiptu</trName></name>
@@ -5092,6 +5131,7 @@
     <names>
       <name><languageId>aa</languageId><trName>Eretria</trName></name>
       <name><languageId>af</languageId><trName>Eritrea</trName></name>
+      <name><languageId>ak</languageId><trName>Ɛritrea</trName></name>
       <name><languageId>am</languageId><trName>ኤርትራ</trName></name>
       <name><languageId>ar</languageId><trName>أريتريا</trName></name>
       <name><languageId>ast</languageId><trName>Eritrea</trName></name>
@@ -5224,6 +5264,7 @@
     <territoryId>ES</territoryId>
     <names>
       <name><languageId>af</languageId><trName>Spanje</trName></name>
+      <name><languageId>ak</languageId><trName>Spain</trName></name>
       <name><languageId>am</languageId><trName>ስፔን</trName></name>
       <name><languageId>ar</languageId><trName>إسبانيا</trName></name>
       <name><languageId>ast</languageId><trName>España</trName></name>
@@ -5359,6 +5400,7 @@
     <names>
       <name><languageId>aa</languageId><trName>Otobbia</trName></name>
       <name><languageId>af</languageId><trName>Ethiopië</trName></name>
+      <name><languageId>ak</languageId><trName>Ithiopia</trName></name>
       <name><languageId>am</languageId><trName>ኢትዮጵያ</trName></name>
       <name><languageId>ar</languageId><trName>إثيوبيا</trName></name>
       <name><languageId>ast</languageId><trName>Etiopía</trName></name>
@@ -5499,6 +5541,7 @@
     <territoryId>FI</territoryId>
     <names>
       <name><languageId>af</languageId><trName>Finland</trName></name>
+      <name><languageId>ak</languageId><trName>Finland</trName></name>
       <name><languageId>am</languageId><trName>ፊንላንድ</trName></name>
       <name><languageId>ar</languageId><trName>فنلندا</trName></name>
       <name><languageId>ast</languageId><trName>Finlandia</trName></name>
@@ -5738,6 +5781,7 @@
     <territoryId>FR</territoryId>
     <names>
       <name><languageId>af</languageId><trName>Frankryk</trName></name>
+      <name><languageId>ak</languageId><trName>Frɛnkyeman</trName></name>
       <name><languageId>am</languageId><trName>ፈረንሳይ</trName></name>
       <name><languageId>ar</languageId><trName>فرنسا</trName></name>
       <name><languageId>as</languageId><trName>ফ্ৰান্স</trName></name>
@@ -5874,6 +5918,7 @@
     <territoryId>GB</territoryId>
     <names>
       <name><languageId>af</languageId><trName>Groot-Brittanje</trName></name>
+      <name><languageId>ak</languageId><trName>Ahendiman Nkabom</trName></name>
       <name><languageId>am</languageId><trName>እንግሊዝ</trName></name>
       <name><languageId>ar</languageId><trName>المملكة المتحدة</trName></name>
       <name><languageId>as</languageId><trName>সংযুক্ত ৰাজ্য</trName></name>
@@ -6011,6 +6056,7 @@
     <territoryId>GE</territoryId>
     <names>
       <name><languageId>af</languageId><trName>Georgië</trName></name>
+      <name><languageId>ak</languageId><trName>Gyɔgyea</trName></name>
       <name><languageId>am</languageId><trName>ጆርጂያ</trName></name>
       <name><languageId>ar</languageId><trName>جورجيا</trName></name>
       <name><languageId>ast</languageId><trName>Xeorxa</trName></name>
@@ -6132,9 +6178,132 @@
     </timezones>
   </territory>
   <territory>
+    <territoryId>GH</territoryId>
+    <names>
+      <name><languageId>af</languageId><trName>Ghana</trName></name>
+      <name><languageId>ak</languageId><trName>Gaana</trName></name>
+      <name><languageId>am</languageId><trName>ጋና</trName></name>
+      <name><languageId>ar</languageId><trName>غانا</trName></name>
+      <name><languageId>ast</languageId><trName>Ghana</trName></name>
+      <name><languageId>az</languageId><trName>Qana</trName></name>
+      <name><languageId>be</languageId><trName>Гана</trName></name>
+      <name><languageId>bg</languageId><trName>Гана</trName></name>
+      <name><languageId>bn</languageId><trName>ঘানা</trName></name>
+      <name><languageId>bo</languageId><trName>གྷ་ན།</trName></name>
+      <name><languageId>br</languageId><trName>Ghana</trName></name>
+      <name><languageId>brx</languageId><trName>घाना</trName></name>
+      <name><languageId>bs</languageId><trName>Gana</trName></name>
+      <name><languageId>ca</languageId><trName>Ghana</trName></name>
+      <name><languageId>cs</languageId><trName>Ghana</trName></name>
+      <name><languageId>cy</languageId><trName>Ghana</trName></name>
+      <name><languageId>da</languageId><trName>Ghana</trName></name>
+      <name><languageId>de</languageId><trName>Ghana</trName></name>
+      <name><languageId>dz</languageId><trName>གྷ་ན</trName></name>
+      <name><languageId>el</languageId><trName>Γκάνα</trName></name>
+      <name><languageId>en</languageId><trName>Ghana</trName></name>
+      <name><languageId>eo</languageId><trName>Ganao</trName></name>
+      <name><languageId>es</languageId><trName>Ghana</trName></name>
+      <name><languageId>et</languageId><trName>Ghana</trName></name>
+      <name><languageId>eu</languageId><trName>Ghana</trName></name>
+      <name><languageId>fa</languageId><trName>غنا</trName></name>
+      <name><languageId>ff</languageId><trName>Ganaa</trName></name>
+      <name><languageId>fi</languageId><trName>Ghana</trName></name>
+      <name><languageId>fil</languageId><trName>Ghana</trName></name>
+      <name><languageId>fo</languageId><trName>Ghana</trName></name>
+      <name><languageId>fr</languageId><trName>Ghana</trName></name>
+      <name><languageId>fur</languageId><trName>Ghana</trName></name>
+      <name><languageId>ga</languageId><trName>Gána</trName></name>
+      <name><languageId>gd</languageId><trName>Gàna</trName></name>
+      <name><languageId>gl</languageId><trName>Gana</trName></name>
+      <name><languageId>gu</languageId><trName>ઘાના</trName></name>
+      <name><languageId>ha</languageId><trName>Gana</trName></name>
+      <name><languageId>he</languageId><trName>גאנה</trName></name>
+      <name><languageId>hi</languageId><trName>घाना</trName></name>
+      <name><languageId>hr</languageId><trName>Gana</trName></name>
+      <name><languageId>hu</languageId><trName>Ghána</trName></name>
+      <name><languageId>hy</languageId><trName>Գանա</trName></name>
+      <name><languageId>ia</languageId><trName>Ghana</trName></name>
+      <name><languageId>id</languageId><trName>Ghana</trName></name>
+      <name><languageId>is</languageId><trName>Gana</trName></name>
+      <name><languageId>it</languageId><trName>Ghana</trName></name>
+      <name><languageId>ja</languageId><trName>ガーナ</trName></name>
+      <name><languageId>ka</languageId><trName>განა</trName></name>
+      <name><languageId>kk</languageId><trName>Гана</trName></name>
+      <name><languageId>kl</languageId><trName>Ghana</trName></name>
+      <name><languageId>km</languageId><trName>ហ្គាណា</trName></name>
+      <name><languageId>kn</languageId><trName>ಘಾನಾ</trName></name>
+      <name><languageId>ko</languageId><trName>가나</trName></name>
+      <name><languageId>ks</languageId><trName>گانا</trName></name>
+      <name><languageId>ky</languageId><trName>Гана</trName></name>
+      <name><languageId>lg</languageId><trName>Gana</trName></name>
+      <name><languageId>lo</languageId><trName>ການ່າ</trName></name>
+      <name><languageId>lt</languageId><trName>Gana</trName></name>
+      <name><languageId>lv</languageId><trName>Gana</trName></name>
+      <name><languageId>mg</languageId><trName>Ghana</trName></name>
+      <name><languageId>mk</languageId><trName>Гана</trName></name>
+      <name><languageId>ml</languageId><trName>ഘാന</trName></name>
+      <name><languageId>mn</languageId><trName>Гана</trName></name>
+      <name><languageId>mr</languageId><trName>घाना</trName></name>
+      <name><languageId>ms</languageId><trName>Ghana</trName></name>
+      <name><languageId>mt</languageId><trName>Gana</trName></name>
+      <name><languageId>my</languageId><trName>ဂါနာ</trName></name>
+      <name><languageId>nb</languageId><trName>Ghana</trName></name>
+      <name><languageId>ne</languageId><trName>घाना</trName></name>
+      <name><languageId>nl</languageId><trName>Ghana</trName></name>
+      <name><languageId>nn</languageId><trName>Ghana</trName></name>
+      <name><languageId>or</languageId><trName>ଘାନା</trName></name>
+      <name><languageId>pa</languageId><trName>ਘਾਨਾ</trName></name>
+      <name><languageId>pl</languageId><trName>Ghana</trName></name>
+      <name><languageId>ps</languageId><trName>ګانا</trName></name>
+      <name><languageId>pt</languageId><trName>Gana</trName></name>
+      <name><languageId>ro</languageId><trName>Ghana</trName></name>
+      <name><languageId>ru</languageId><trName>Гана</trName></name>
+      <name><languageId>se</languageId><trName>Ghana</trName></name>
+      <name><languageId>si</languageId><trName>ඝානාව</trName></name>
+      <name><languageId>sk</languageId><trName>Ghana</trName></name>
+      <name><languageId>sl</languageId><trName>Gana</trName></name>
+      <name><languageId>so</languageId><trName>Gaana</trName></name>
+      <name><languageId>sq</languageId><trName>Ganë</trName></name>
+      <name><languageId>sr</languageId><trName>Гана</trName></name>
+      <name><languageId>sr_Latn</languageId><trName>Gana</trName></name>
+      <name><languageId>sv</languageId><trName>Ghana</trName></name>
+      <name><languageId>sw</languageId><trName>Ghana</trName></name>
+      <name><languageId>ta</languageId><trName>கானா</trName></name>
+      <name><languageId>te</languageId><trName>ఘనా</trName></name>
+      <name><languageId>th</languageId><trName>กานา</trName></name>
+      <name><languageId>ti</languageId><trName>ጋና</trName></name>
+      <name><languageId>tr</languageId><trName>Gana</trName></name>
+      <name><languageId>uk</languageId><trName>Гана</trName></name>
+      <name><languageId>ur</languageId><trName>گھانا</trName></name>
+      <name><languageId>uz</languageId><trName>Гана</trName></name>
+      <name><languageId>vi</languageId><trName>Ghana</trName></name>
+      <name><languageId>wae</languageId><trName>Gana</trName></name>
+      <name><languageId>yo</languageId><trName>Orílẹ́ède Gana</trName></name>
+      <name><languageId>zh</languageId><trName>加纳</trName></name>
+      <name><languageId>zh_Hant</languageId><trName>迦納</trName></name>
+      <name><languageId>zu</languageId><trName>i-Ghana</trName></name>
+    </names>
+    <locales>
+    </locales>
+    <languages>
+      <language><languageId>en</languageId><rank>900</rank></language>
+      <language><languageId>ak</languageId><rank>100</rank></language>
+    </languages>
+    <keyboards>
+      <keyboard><keyboardId>us(altgr-intl)</keyboardId><rank>1000</rank></keyboard>
+    </keyboards>
+    <consolefonts>
+      <consolefont><consolefontId>latarcyrheb-sun16</consolefontId><rank>1000</rank></consolefont>
+    </consolefonts>
+    <timezones>
+      <timezone><timezoneId>Africa/Accra</timezoneId><rank>1000</rank></timezone>
+    </timezones>
+  </territory>
+  <territory>
     <territoryId>GL</territoryId>
     <names>
       <name><languageId>af</languageId><trName>Groenland</trName></name>
+      <name><languageId>ak</languageId><trName>Greenman</trName></name>
       <name><languageId>am</languageId><trName>ግሪንላንድ</trName></name>
       <name><languageId>ar</languageId><trName>غرينلاند</trName></name>
       <name><languageId>ast</languageId><trName>Groenlandia</trName></name>
@@ -6257,6 +6426,7 @@
     <territoryId>GR</territoryId>
     <names>
       <name><languageId>af</languageId><trName>Griekeland</trName></name>
+      <name><languageId>ak</languageId><trName>Greekman</trName></name>
       <name><languageId>am</languageId><trName>ግሪክ</trName></name>
       <name><languageId>ar</languageId><trName>اليونان</trName></name>
       <name><languageId>ast</languageId><trName>Grecia</trName></name>
@@ -6382,6 +6552,7 @@
     <territoryId>GT</territoryId>
     <names>
       <name><languageId>af</languageId><trName>Guatemala</trName></name>
+      <name><languageId>ak</languageId><trName>Guwatemala</trName></name>
       <name><languageId>am</languageId><trName>ጉዋቲማላ</trName></name>
       <name><languageId>ar</languageId><trName>غواتيمالا</trName></name>
       <name><languageId>ast</languageId><trName>Guatemala</trName></name>
@@ -6617,6 +6788,7 @@
     <territoryId>HN</territoryId>
     <names>
       <name><languageId>af</languageId><trName>Honduras</trName></name>
+      <name><languageId>ak</languageId><trName>Hɔnduras</trName></name>
       <name><languageId>am</languageId><trName>ሆንዱራስ</trName></name>
       <name><languageId>ar</languageId><trName>هندوراس</trName></name>
       <name><languageId>ast</languageId><trName>Hondures</trName></name>
@@ -6738,6 +6910,7 @@
     <territoryId>HR</territoryId>
     <names>
       <name><languageId>af</languageId><trName>Kroasië</trName></name>
+      <name><languageId>ak</languageId><trName>Krowehyia</trName></name>
       <name><languageId>am</languageId><trName>ክሮኤሽያ</trName></name>
       <name><languageId>ar</languageId><trName>كرواتيا</trName></name>
       <name><languageId>ast</languageId><trName>Croacia</trName></name>
@@ -6861,6 +7034,7 @@
     <territoryId>HT</territoryId>
     <names>
       <name><languageId>af</languageId><trName>Haïti</trName></name>
+      <name><languageId>ak</languageId><trName>Heiti</trName></name>
       <name><languageId>am</languageId><trName>ሀይቲ</trName></name>
       <name><languageId>ar</languageId><trName>هايتي</trName></name>
       <name><languageId>ast</languageId><trName>Haití</trName></name>
@@ -6988,6 +7162,7 @@
     <territoryId>HU</territoryId>
     <names>
       <name><languageId>af</languageId><trName>Hongarye</trName></name>
+      <name><languageId>ak</languageId><trName>Hangari</trName></name>
       <name><languageId>am</languageId><trName>ሀንጋሪ</trName></name>
       <name><languageId>ar</languageId><trName>هنغاريا</trName></name>
       <name><languageId>ast</languageId><trName>Hungría</trName></name>
@@ -7112,6 +7287,7 @@
     <territoryId>ID</territoryId>
     <names>
       <name><languageId>af</languageId><trName>Indonesië</trName></name>
+      <name><languageId>ak</languageId><trName>Indɔnehyia</trName></name>
       <name><languageId>am</languageId><trName>ኢንዶኔዢያ</trName></name>
       <name><languageId>ar</languageId><trName>أندونيسيا</trName></name>
       <name><languageId>ast</languageId><trName>Indonesia</trName></name>
@@ -7236,6 +7412,7 @@
     <territoryId>IE</territoryId>
     <names>
       <name><languageId>af</languageId><trName>Ierland</trName></name>
+      <name><languageId>ak</languageId><trName>Aereland</trName></name>
       <name><languageId>am</languageId><trName>አየርላንድ</trName></name>
       <name><languageId>ar</languageId><trName>أيرلندا</trName></name>
       <name><languageId>ast</languageId><trName>Irlanda</trName></name>
@@ -7362,6 +7539,7 @@
     <territoryId>IL</territoryId>
     <names>
       <name><languageId>af</languageId><trName>Israel</trName></name>
+      <name><languageId>ak</languageId><trName>Israel</trName></name>
       <name><languageId>am</languageId><trName>እስራኤል</trName></name>
       <name><languageId>ar</languageId><trName>إسرائيل</trName></name>
       <name><languageId>ast</languageId><trName>Israel</trName></name>
@@ -7487,6 +7665,7 @@
     <territoryId>IN</territoryId>
     <names>
       <name><languageId>af</languageId><trName>Indië</trName></name>
+      <name><languageId>ak</languageId><trName>India</trName></name>
       <name><languageId>am</languageId><trName>ህንድ</trName></name>
       <name><languageId>ar</languageId><trName>الهند</trName></name>
       <name><languageId>as</languageId><trName>ভাৰত</trName></name>
@@ -7671,6 +7850,7 @@
     <territoryId>IQ</territoryId>
     <names>
       <name><languageId>af</languageId><trName>Irak</trName></name>
+      <name><languageId>ak</languageId><trName>Irak</trName></name>
       <name><languageId>am</languageId><trName>ኢራቅ</trName></name>
       <name><languageId>ar</languageId><trName>العراق</trName></name>
       <name><languageId>ast</languageId><trName>Iraq</trName></name>
@@ -7795,6 +7975,7 @@
     <territoryId>IR</territoryId>
     <names>
       <name><languageId>af</languageId><trName>Iran</trName></name>
+      <name><languageId>ak</languageId><trName>Iran</trName></name>
       <name><languageId>am</languageId><trName>ኢራን</trName></name>
       <name><languageId>ar</languageId><trName>إيران</trName></name>
       <name><languageId>ast</languageId><trName>Irán</trName></name>
@@ -7915,6 +8096,7 @@
     <territoryId>IS</territoryId>
     <names>
       <name><languageId>af</languageId><trName>Ysland</trName></name>
+      <name><languageId>ak</languageId><trName>Aesland</trName></name>
       <name><languageId>am</languageId><trName>አይስላንድ</trName></name>
       <name><languageId>ar</languageId><trName>أيسلندا</trName></name>
       <name><languageId>ast</languageId><trName>Islandia</trName></name>
@@ -8039,6 +8221,7 @@
     <territoryId>IT</territoryId>
     <names>
       <name><languageId>af</languageId><trName>Italië</trName></name>
+      <name><languageId>ak</languageId><trName>Itali</trName></name>
       <name><languageId>am</languageId><trName>ጣሊያን</trName></name>
       <name><languageId>ar</languageId><trName>إيطاليا</trName></name>
       <name><languageId>as</languageId><trName>ইটালি</trName></name>
@@ -8175,6 +8358,7 @@
     <territoryId>JO</territoryId>
     <names>
       <name><languageId>af</languageId><trName>Jordanië</trName></name>
+      <name><languageId>ak</languageId><trName>Gyɔdan</trName></name>
       <name><languageId>am</languageId><trName>ጆርዳን</trName></name>
       <name><languageId>ar</languageId><trName>الأردن</trName></name>
       <name><languageId>ast</languageId><trName>Xordania</trName></name>
@@ -8297,6 +8481,7 @@
     <territoryId>JP</territoryId>
     <names>
       <name><languageId>af</languageId><trName>Japan</trName></name>
+      <name><languageId>ak</languageId><trName>Gyapan</trName></name>
       <name><languageId>am</languageId><trName>ጃፓን</trName></name>
       <name><languageId>ar</languageId><trName>اليابان</trName></name>
       <name><languageId>as</languageId><trName>জাপান</trName></name>
@@ -8425,6 +8610,7 @@
     <territoryId>KE</territoryId>
     <names>
       <name><languageId>af</languageId><trName>Kenia</trName></name>
+      <name><languageId>ak</languageId><trName>Kɛnya</trName></name>
       <name><languageId>am</languageId><trName>ኬንያ</trName></name>
       <name><languageId>ar</languageId><trName>كينيا</trName></name>
       <name><languageId>ast</languageId><trName>Kenia</trName></name>
@@ -8551,6 +8737,7 @@
     <territoryId>KG</territoryId>
     <names>
       <name><languageId>af</languageId><trName>Kirgisië</trName></name>
+      <name><languageId>ak</languageId><trName>Kɛɛgestan</trName></name>
       <name><languageId>am</languageId><trName>ኪርጊስታን</trName></name>
       <name><languageId>ar</languageId><trName>قرغيزستان</trName></name>
       <name><languageId>ast</languageId><trName>Kirguistán</trName></name>
@@ -8669,6 +8856,7 @@
     <territoryId>KH</territoryId>
     <names>
       <name><languageId>af</languageId><trName>Kambodja</trName></name>
+      <name><languageId>ak</languageId><trName>Kambodia</trName></name>
       <name><languageId>am</languageId><trName>ካምቦዲያ</trName></name>
       <name><languageId>ar</languageId><trName>كمبوديا</trName></name>
       <name><languageId>ast</languageId><trName>Camboya</trName></name>
@@ -8793,6 +8981,7 @@
     <territoryId>KR</territoryId>
     <names>
       <name><languageId>af</languageId><trName>Suid-Korea</trName></name>
+      <name><languageId>ak</languageId><trName>Anaafo Koria</trName></name>
       <name><languageId>am</languageId><trName>ደቡብ ኮሪያ</trName></name>
       <name><languageId>ar</languageId><trName>كوريا الجنوبية</trName></name>
       <name><languageId>ast</languageId><trName>Corea del Sur</trName></name>
@@ -8916,6 +9105,7 @@
     <territoryId>KW</territoryId>
     <names>
       <name><languageId>af</languageId><trName>Koeweit</trName></name>
+      <name><languageId>ak</languageId><trName>Kuwete</trName></name>
       <name><languageId>am</languageId><trName>ክዌት</trName></name>
       <name><languageId>ar</languageId><trName>الكويت</trName></name>
       <name><languageId>ast</languageId><trName>Kuwait</trName></name>
@@ -9039,6 +9229,7 @@
     <territoryId>KZ</territoryId>
     <names>
       <name><languageId>af</languageId><trName>Kasakstan</trName></name>
+      <name><languageId>ak</languageId><trName>Kazakstan</trName></name>
       <name><languageId>am</languageId><trName>ካዛኪስታን</trName></name>
       <name><languageId>ar</languageId><trName>كازاخستان</trName></name>
       <name><languageId>ast</languageId><trName>Kazakstán</trName></name>
@@ -9158,6 +9349,7 @@
     <territoryId>LA</territoryId>
     <names>
       <name><languageId>af</languageId><trName>Laos</trName></name>
+      <name><languageId>ak</languageId><trName>Laos</trName></name>
       <name><languageId>am</languageId><trName>ላኦስ</trName></name>
       <name><languageId>ar</languageId><trName>لاوس</trName></name>
       <name><languageId>ast</languageId><trName>Laos</trName></name>
@@ -9278,6 +9470,7 @@
     <territoryId>LB</territoryId>
     <names>
       <name><languageId>af</languageId><trName>Libanon</trName></name>
+      <name><languageId>ak</languageId><trName>Lɛbanɔn</trName></name>
       <name><languageId>am</languageId><trName>ሊባኖስ</trName></name>
       <name><languageId>ar</languageId><trName>لبنان</trName></name>
       <name><languageId>ast</languageId><trName>Líbanu</trName></name>
@@ -9402,6 +9595,7 @@
     <territoryId>LK</territoryId>
     <names>
       <name><languageId>af</languageId><trName>Sri Lanka</trName></name>
+      <name><languageId>ak</languageId><trName>Sri Lanka</trName></name>
       <name><languageId>am</languageId><trName>ሲሪላንካ</trName></name>
       <name><languageId>ar</languageId><trName>سريلانكا</trName></name>
       <name><languageId>ast</languageId><trName>Sri Lanka</trName></name>
@@ -9522,6 +9716,7 @@
     <territoryId>LT</territoryId>
     <names>
       <name><languageId>af</languageId><trName>Litaue</trName></name>
+      <name><languageId>ak</languageId><trName>Lituwenia</trName></name>
       <name><languageId>am</languageId><trName>ሊቱዌኒያ</trName></name>
       <name><languageId>ar</languageId><trName>ليتوانيا</trName></name>
       <name><languageId>ast</languageId><trName>Lituania</trName></name>
@@ -9645,6 +9840,7 @@
     <territoryId>LU</territoryId>
     <names>
       <name><languageId>af</languageId><trName>Luxemburg</trName></name>
+      <name><languageId>ak</languageId><trName>Laksembɛg</trName></name>
       <name><languageId>am</languageId><trName>ሉክሰምበርግ</trName></name>
       <name><languageId>ar</languageId><trName>لوكسمبورغ</trName></name>
       <name><languageId>ast</languageId><trName>Luxemburgu</trName></name>
@@ -9772,6 +9968,7 @@
     <territoryId>LV</territoryId>
     <names>
       <name><languageId>af</languageId><trName>Letland</trName></name>
+      <name><languageId>ak</languageId><trName>Latvia</trName></name>
       <name><languageId>am</languageId><trName>ላትቪያ</trName></name>
       <name><languageId>ar</languageId><trName>لاتفيا</trName></name>
       <name><languageId>ast</languageId><trName>Letonia</trName></name>
@@ -9895,6 +10092,7 @@
     <territoryId>LY</territoryId>
     <names>
       <name><languageId>af</languageId><trName>Libië</trName></name>
+      <name><languageId>ak</languageId><trName>Libya</trName></name>
       <name><languageId>am</languageId><trName>ሊቢያ</trName></name>
       <name><languageId>ar</languageId><trName>ليبيا</trName></name>
       <name><languageId>ast</languageId><trName>Libia</trName></name>
@@ -10020,6 +10218,7 @@
     <territoryId>MA</territoryId>
     <names>
       <name><languageId>af</languageId><trName>Marokko</trName></name>
+      <name><languageId>ak</languageId><trName>Moroko</trName></name>
       <name><languageId>am</languageId><trName>ሞሮኮ</trName></name>
       <name><languageId>ar</languageId><trName>المغرب</trName></name>
       <name><languageId>ast</languageId><trName>Marruecos</trName></name>
@@ -10253,6 +10452,7 @@
     <territoryId>MG</territoryId>
     <names>
       <name><languageId>af</languageId><trName>Madagaskar</trName></name>
+      <name><languageId>ak</languageId><trName>Madagaska</trName></name>
       <name><languageId>am</languageId><trName>ማዳጋስካር</trName></name>
       <name><languageId>ar</languageId><trName>مدغشقر</trName></name>
       <name><languageId>ast</languageId><trName>Madagascar</trName></name>
@@ -10373,6 +10573,7 @@
     <territoryId>MK</territoryId>
     <names>
       <name><languageId>af</languageId><trName>Macedonië</trName></name>
+      <name><languageId>ak</languageId><trName>Masedonia</trName></name>
       <name><languageId>am</languageId><trName>ማሴዶንያ[FYROM]</trName></name>
       <name><languageId>ar</languageId><trName>مقدونيا- جمهورية مقدونيا اليوغسلافية السابقة</trName></name>
       <name><languageId>ast</languageId><trName>Macedonia [ARYDM]</trName></name>
@@ -10498,6 +10699,7 @@
     <territoryId>MM</territoryId>
     <names>
       <name><languageId>af</languageId><trName>Mianmar</trName></name>
+      <name><languageId>ak</languageId><trName>Miyanma</trName></name>
       <name><languageId>am</languageId><trName>ማይናማር[በርማ]</trName></name>
       <name><languageId>ar</languageId><trName>ميانمار -بورما</trName></name>
       <name><languageId>ast</languageId><trName>Myanmar [Birmania]</trName></name>
@@ -10618,6 +10820,7 @@
     <territoryId>MN</territoryId>
     <names>
       <name><languageId>af</languageId><trName>Mongolië</trName></name>
+      <name><languageId>ak</languageId><trName>Mɔngolia</trName></name>
       <name><languageId>am</languageId><trName>ሞንጎሊያ</trName></name>
       <name><languageId>ar</languageId><trName>منغوليا</trName></name>
       <name><languageId>ast</languageId><trName>Mongolia</trName></name>
@@ -10859,6 +11062,7 @@
     <territoryId>MT</territoryId>
     <names>
       <name><languageId>af</languageId><trName>Malta</trName></name>
+      <name><languageId>ak</languageId><trName>Mɔlta</trName></name>
       <name><languageId>am</languageId><trName>ማልታ</trName></name>
       <name><languageId>ar</languageId><trName>مالطا</trName></name>
       <name><languageId>ast</languageId><trName>Malta</trName></name>
@@ -10982,6 +11186,7 @@
     <territoryId>MV</territoryId>
     <names>
       <name><languageId>af</languageId><trName>Maledive</trName></name>
+      <name><languageId>ak</languageId><trName>Maldives</trName></name>
       <name><languageId>am</languageId><trName>ማልዲቭስ</trName></name>
       <name><languageId>ar</languageId><trName>جزر المالديف</trName></name>
       <name><languageId>ast</languageId><trName>Les Maldives</trName></name>
@@ -11101,6 +11306,7 @@
     <territoryId>MX</territoryId>
     <names>
       <name><languageId>af</languageId><trName>Meksiko</trName></name>
+      <name><languageId>ak</languageId><trName>Mɛksiko</trName></name>
       <name><languageId>am</languageId><trName>ሜክሲኮ</trName></name>
       <name><languageId>ar</languageId><trName>المكسيك</trName></name>
       <name><languageId>ast</languageId><trName>Méxicu</trName></name>
@@ -11235,6 +11441,7 @@
     <territoryId>MY</territoryId>
     <names>
       <name><languageId>af</languageId><trName>Maleisië</trName></name>
+      <name><languageId>ak</languageId><trName>Malehyia</trName></name>
       <name><languageId>am</languageId><trName>ማሌዢያ</trName></name>
       <name><languageId>ar</languageId><trName>ماليزيا</trName></name>
       <name><languageId>ast</languageId><trName>Malasia</trName></name>
@@ -11360,6 +11567,7 @@
     <territoryId>NG</territoryId>
     <names>
       <name><languageId>af</languageId><trName>Nigerië</trName></name>
+      <name><languageId>ak</languageId><trName>Naegyeria</trName></name>
       <name><languageId>am</languageId><trName>ናይጄሪያ</trName></name>
       <name><languageId>ar</languageId><trName>نيجيريا</trName></name>
       <name><languageId>ast</languageId><trName>Nixeria</trName></name>
@@ -11494,6 +11702,7 @@
     <territoryId>NI</territoryId>
     <names>
       <name><languageId>af</languageId><trName>Nicaragua</trName></name>
+      <name><languageId>ak</languageId><trName>Nekaraguwa</trName></name>
       <name><languageId>am</languageId><trName>ኒካራጓ</trName></name>
       <name><languageId>ar</languageId><trName>نيكاراغوا</trName></name>
       <name><languageId>ast</languageId><trName>Nicaragua</trName></name>
@@ -11615,6 +11824,7 @@
     <territoryId>NL</territoryId>
     <names>
       <name><languageId>af</languageId><trName>Nederland</trName></name>
+      <name><languageId>ak</languageId><trName>Nɛdɛland</trName></name>
       <name><languageId>am</languageId><trName>ኔዘርላንድ</trName></name>
       <name><languageId>ar</languageId><trName>هولندا</trName></name>
       <name><languageId>ast</languageId><trName>Países Baxos</trName></name>
@@ -11747,6 +11957,7 @@
     <territoryId>NO</territoryId>
     <names>
       <name><languageId>af</languageId><trName>Noorweë</trName></name>
+      <name><languageId>ak</languageId><trName>Nɔɔwe</trName></name>
       <name><languageId>am</languageId><trName>ኖርዌ</trName></name>
       <name><languageId>ar</languageId><trName>النرويج</trName></name>
       <name><languageId>ast</languageId><trName>Noruega</trName></name>
@@ -11875,6 +12086,7 @@
     <territoryId>NP</territoryId>
     <names>
       <name><languageId>af</languageId><trName>Nepal</trName></name>
+      <name><languageId>ak</languageId><trName>Nɛpɔl</trName></name>
       <name><languageId>am</languageId><trName>ኔፓል</trName></name>
       <name><languageId>ar</languageId><trName>نيبال</trName></name>
       <name><languageId>ast</languageId><trName>Nepal</trName></name>
@@ -11999,6 +12211,7 @@
     <territoryId>NZ</territoryId>
     <names>
       <name><languageId>af</languageId><trName>Nieu-Seeland</trName></name>
+      <name><languageId>ak</languageId><trName>Ziland Foforo</trName></name>
       <name><languageId>am</languageId><trName>ኒው ዚላንድ</trName></name>
       <name><languageId>ar</languageId><trName>نيوزيلاندا</trName></name>
       <name><languageId>ast</languageId><trName>Nueva Zelanda</trName></name>
@@ -12126,6 +12339,7 @@
     <territoryId>OM</territoryId>
     <names>
       <name><languageId>af</languageId><trName>Oman</trName></name>
+      <name><languageId>ak</languageId><trName>Oman</trName></name>
       <name><languageId>am</languageId><trName>ኦማን</trName></name>
       <name><languageId>ar</languageId><trName>عُمان</trName></name>
       <name><languageId>ast</languageId><trName>Omán</trName></name>
@@ -12246,6 +12460,7 @@
     <territoryId>PA</territoryId>
     <names>
       <name><languageId>af</languageId><trName>Panama</trName></name>
+      <name><languageId>ak</languageId><trName>Panama</trName></name>
       <name><languageId>am</languageId><trName>ፓናማ</trName></name>
       <name><languageId>ar</languageId><trName>بنما</trName></name>
       <name><languageId>ast</languageId><trName>Panamá</trName></name>
@@ -12365,6 +12580,7 @@
     <territoryId>PE</territoryId>
     <names>
       <name><languageId>af</languageId><trName>Peru</trName></name>
+      <name><languageId>ak</languageId><trName>Peru</trName></name>
       <name><languageId>am</languageId><trName>ፔሩ</trName></name>
       <name><languageId>ar</languageId><trName>بيرو</trName></name>
       <name><languageId>ast</languageId><trName>Perú</trName></name>
@@ -12488,6 +12704,7 @@
     <territoryId>PH</territoryId>
     <names>
       <name><languageId>af</languageId><trName>Filippyne</trName></name>
+      <name><languageId>ak</languageId><trName>Philippines</trName></name>
       <name><languageId>am</languageId><trName>ፊሊፒንስ</trName></name>
       <name><languageId>ar</languageId><trName>الفيلبين</trName></name>
       <name><languageId>ast</languageId><trName>Filipines</trName></name>
@@ -12613,6 +12830,7 @@
     <territoryId>PK</territoryId>
     <names>
       <name><languageId>af</languageId><trName>Pakistan</trName></name>
+      <name><languageId>ak</languageId><trName>Pakistan</trName></name>
       <name><languageId>am</languageId><trName>ፓኪስታን</trName></name>
       <name><languageId>ar</languageId><trName>باكستان</trName></name>
       <name><languageId>ast</languageId><trName>Pakistan</trName></name>
@@ -12736,6 +12954,7 @@
     <territoryId>PL</territoryId>
     <names>
       <name><languageId>af</languageId><trName>Pole</trName></name>
+      <name><languageId>ak</languageId><trName>Poland</trName></name>
       <name><languageId>am</languageId><trName>ፖላንድ</trName></name>
       <name><languageId>ar</languageId><trName>بولندا</trName></name>
       <name><languageId>ast</languageId><trName>Polonia</trName></name>
@@ -12862,6 +13081,7 @@
     <territoryId>PR</territoryId>
     <names>
       <name><languageId>af</languageId><trName>Puerto Rico</trName></name>
+      <name><languageId>ak</languageId><trName>Puɛto Riko</trName></name>
       <name><languageId>am</languageId><trName>ፖርታ ሪኮ</trName></name>
       <name><languageId>ar</languageId><trName>بورتوريكو</trName></name>
       <name><languageId>ast</languageId><trName>Puertu Ricu</trName></name>
@@ -12983,6 +13203,7 @@
     <territoryId>PT</territoryId>
     <names>
       <name><languageId>af</languageId><trName>Portugal</trName></name>
+      <name><languageId>ak</languageId><trName>Pɔtugal</trName></name>
       <name><languageId>am</languageId><trName>ፖርቱጋል</trName></name>
       <name><languageId>ar</languageId><trName>البرتغال</trName></name>
       <name><languageId>ast</languageId><trName>Portugal</trName></name>
@@ -13106,6 +13327,7 @@
     <territoryId>PY</territoryId>
     <names>
       <name><languageId>af</languageId><trName>Paraguay</trName></name>
+      <name><languageId>ak</languageId><trName>Paraguay</trName></name>
       <name><languageId>am</languageId><trName>ፓራጓይ</trName></name>
       <name><languageId>ar</languageId><trName>باراغواي</trName></name>
       <name><languageId>ast</languageId><trName>Paraguay</trName></name>
@@ -13226,6 +13448,7 @@
     <territoryId>QA</territoryId>
     <names>
       <name><languageId>af</languageId><trName>Katar</trName></name>
+      <name><languageId>ak</languageId><trName>Kata</trName></name>
       <name><languageId>am</languageId><trName>ኳታር</trName></name>
       <name><languageId>ar</languageId><trName>قطر</trName></name>
       <name><languageId>ast</languageId><trName>Qatar</trName></name>
@@ -13345,6 +13568,7 @@
     <territoryId>RO</territoryId>
     <names>
       <name><languageId>af</languageId><trName>Roemenië</trName></name>
+      <name><languageId>ak</languageId><trName>Romenia</trName></name>
       <name><languageId>am</languageId><trName>ሮሜኒያ</trName></name>
       <name><languageId>ar</languageId><trName>رومانيا</trName></name>
       <name><languageId>ast</languageId><trName>Rumanía</trName></name>
@@ -13580,6 +13804,7 @@
     <territoryId>RU</territoryId>
     <names>
       <name><languageId>af</languageId><trName>Rusland</trName></name>
+      <name><languageId>ak</languageId><trName>Rɔhyea</trName></name>
       <name><languageId>am</languageId><trName>ራሺያ</trName></name>
       <name><languageId>ar</languageId><trName>روسيا</trName></name>
       <name><languageId>as</languageId><trName>ৰুচ</trName></name>
@@ -13736,6 +13961,7 @@
     <territoryId>RW</territoryId>
     <names>
       <name><languageId>af</languageId><trName>Rwanda</trName></name>
+      <name><languageId>ak</languageId><trName>Rwanda</trName></name>
       <name><languageId>am</languageId><trName>ሩዋንዳ</trName></name>
       <name><languageId>ar</languageId><trName>رواندا</trName></name>
       <name><languageId>ast</languageId><trName>Ruanda</trName></name>
@@ -13858,6 +14084,7 @@
     <territoryId>SA</territoryId>
     <names>
       <name><languageId>af</languageId><trName>Saoedi-Arabië</trName></name>
+      <name><languageId>ak</languageId><trName>Saudi Arabia</trName></name>
       <name><languageId>am</languageId><trName>ሳውድአረቢያ</trName></name>
       <name><languageId>ar</languageId><trName>المملكة العربية السعودية</trName></name>
       <name><languageId>ast</languageId><trName>Arabia Saudita</trName></name>
@@ -13982,6 +14209,7 @@
     <territoryId>SD</territoryId>
     <names>
       <name><languageId>af</languageId><trName>Soedan</trName></name>
+      <name><languageId>ak</languageId><trName>Sudan</trName></name>
       <name><languageId>am</languageId><trName>ሱዳን</trName></name>
       <name><languageId>ar</languageId><trName>السودان</trName></name>
       <name><languageId>ast</languageId><trName>Sudán</trName></name>
@@ -14105,6 +14333,7 @@
     <territoryId>SE</territoryId>
     <names>
       <name><languageId>af</languageId><trName>Swede</trName></name>
+      <name><languageId>ak</languageId><trName>Sweden</trName></name>
       <name><languageId>am</languageId><trName>ስዊድን</trName></name>
       <name><languageId>ar</languageId><trName>السويد</trName></name>
       <name><languageId>ast</languageId><trName>Suecia</trName></name>
@@ -14229,6 +14458,7 @@
     <territoryId>SG</territoryId>
     <names>
       <name><languageId>af</languageId><trName>Singapoer</trName></name>
+      <name><languageId>ak</languageId><trName>Singapɔ</trName></name>
       <name><languageId>am</languageId><trName>ሲንጋፖር</trName></name>
       <name><languageId>ar</languageId><trName>سنغافورة</trName></name>
       <name><languageId>ast</languageId><trName>Singapur</trName></name>
@@ -14354,6 +14584,7 @@
     <territoryId>SI</territoryId>
     <names>
       <name><languageId>af</languageId><trName>Slowenië</trName></name>
+      <name><languageId>ak</languageId><trName>Slovinia</trName></name>
       <name><languageId>am</languageId><trName>ስሎቬኒያ</trName></name>
       <name><languageId>ar</languageId><trName>سلوفينيا</trName></name>
       <name><languageId>ast</languageId><trName>Eslovenia</trName></name>
@@ -14477,6 +14708,7 @@
     <territoryId>SK</territoryId>
     <names>
       <name><languageId>af</languageId><trName>Slowakye</trName></name>
+      <name><languageId>ak</languageId><trName>Slovakia</trName></name>
       <name><languageId>am</languageId><trName>ስሎቫኪያ</trName></name>
       <name><languageId>ar</languageId><trName>سلوفاكيا</trName></name>
       <name><languageId>ast</languageId><trName>Eslovaquia</trName></name>
@@ -14600,6 +14832,7 @@
     <territoryId>SN</territoryId>
     <names>
       <name><languageId>af</languageId><trName>Senegal</trName></name>
+      <name><languageId>ak</languageId><trName>Senegal</trName></name>
       <name><languageId>am</languageId><trName>ሴኔጋል</trName></name>
       <name><languageId>ar</languageId><trName>السنغال</trName></name>
       <name><languageId>ast</languageId><trName>Senegal</trName></name>
@@ -14727,6 +14960,7 @@
     <territoryId>SO</territoryId>
     <names>
       <name><languageId>af</languageId><trName>Somalië</trName></name>
+      <name><languageId>ak</languageId><trName>Somalia</trName></name>
       <name><languageId>am</languageId><trName>ሱማሌ</trName></name>
       <name><languageId>ar</languageId><trName>الصومال</trName></name>
       <name><languageId>ast</languageId><trName>Somalia</trName></name>
@@ -14851,6 +15085,7 @@
     <territoryId>SV</territoryId>
     <names>
       <name><languageId>af</languageId><trName>Salvador</trName></name>
+      <name><languageId>ak</languageId><trName>Ɛl Salvadɔ</trName></name>
       <name><languageId>am</languageId><trName>ኤል ሳልቫዶር</trName></name>
       <name><languageId>ar</languageId><trName>السلفادور</trName></name>
       <name><languageId>ast</languageId><trName>El Salvador</trName></name>
@@ -14971,6 +15206,7 @@
     <territoryId>SY</territoryId>
     <names>
       <name><languageId>af</languageId><trName>Sirië</trName></name>
+      <name><languageId>ak</languageId><trName>Siria</trName></name>
       <name><languageId>am</languageId><trName>ሲሪያ</trName></name>
       <name><languageId>ar</languageId><trName>سوريا</trName></name>
       <name><languageId>ast</languageId><trName>Siria</trName></name>
@@ -15094,6 +15330,7 @@
     <territoryId>TH</territoryId>
     <names>
       <name><languageId>af</languageId><trName>Thailand</trName></name>
+      <name><languageId>ak</languageId><trName>Taeland</trName></name>
       <name><languageId>am</languageId><trName>ታይላንድ</trName></name>
       <name><languageId>ar</languageId><trName>تايلند</trName></name>
       <name><languageId>ast</languageId><trName>Tailandia</trName></name>
@@ -15218,6 +15455,7 @@
     <territoryId>TJ</territoryId>
     <names>
       <name><languageId>af</languageId><trName>Tadjikistan</trName></name>
+      <name><languageId>ak</languageId><trName>Tajikistan</trName></name>
       <name><languageId>am</languageId><trName>ታጃኪስታን</trName></name>
       <name><languageId>ar</languageId><trName>طاجكستان</trName></name>
       <name><languageId>ast</languageId><trName>Taxiquistán</trName></name>
@@ -15342,6 +15580,7 @@
     <territoryId>TM</territoryId>
     <names>
       <name><languageId>af</languageId><trName>Turkmenië</trName></name>
+      <name><languageId>ak</languageId><trName>Tɛkmɛnistan</trName></name>
       <name><languageId>am</languageId><trName>ቱርክሜኒስታን</trName></name>
       <name><languageId>ar</languageId><trName>تركمانستان</trName></name>
       <name><languageId>ast</languageId><trName>Turkmenistán</trName></name>
@@ -15461,6 +15700,7 @@
     <territoryId>TN</territoryId>
     <names>
       <name><languageId>af</languageId><trName>Tunisië</trName></name>
+      <name><languageId>ak</languageId><trName>Tunihyia</trName></name>
       <name><languageId>am</languageId><trName>ቱኒዚያ</trName></name>
       <name><languageId>ar</languageId><trName>تونس</trName></name>
       <name><languageId>ast</languageId><trName>Tunicia</trName></name>
@@ -15583,6 +15823,7 @@
     <territoryId>TR</territoryId>
     <names>
       <name><languageId>af</languageId><trName>Turkye</trName></name>
+      <name><languageId>ak</languageId><trName>Tɛɛki</trName></name>
       <name><languageId>am</languageId><trName>ቱርክ</trName></name>
       <name><languageId>ar</languageId><trName>تركيا</trName></name>
       <name><languageId>ast</languageId><trName>Turquía</trName></name>
@@ -15708,6 +15949,7 @@
     <territoryId>TW</territoryId>
     <names>
       <name><languageId>af</languageId><trName>Taiwan</trName></name>
+      <name><languageId>ak</languageId><trName>Taiwan</trName></name>
       <name><languageId>am</languageId><trName>ታይዋን</trName></name>
       <name><languageId>ar</languageId><trName>تايوان</trName></name>
       <name><languageId>ast</languageId><trName>Taiwán</trName></name>
@@ -15829,6 +16071,7 @@
     <territoryId>TZ</territoryId>
     <names>
       <name><languageId>af</languageId><trName>Tanzanië</trName></name>
+      <name><languageId>ak</languageId><trName>Tanzania</trName></name>
       <name><languageId>am</languageId><trName>ታንዛኒያ</trName></name>
       <name><languageId>ar</languageId><trName>تانزانيا</trName></name>
       <name><languageId>ast</languageId><trName>Tanzania</trName></name>
@@ -15953,6 +16196,7 @@
     <territoryId>UA</territoryId>
     <names>
       <name><languageId>af</languageId><trName>Oekraine</trName></name>
+      <name><languageId>ak</languageId><trName>Ukren</trName></name>
       <name><languageId>am</languageId><trName>ዩክሬን</trName></name>
       <name><languageId>ar</languageId><trName>أوكرانيا</trName></name>
       <name><languageId>ast</languageId><trName>Ucraína</trName></name>
@@ -16082,6 +16326,7 @@
     <territoryId>UG</territoryId>
     <names>
       <name><languageId>af</languageId><trName>Uganda</trName></name>
+      <name><languageId>ak</languageId><trName>Uganda</trName></name>
       <name><languageId>am</languageId><trName>ዩጋንዳ</trName></name>
       <name><languageId>ar</languageId><trName>أوغندا</trName></name>
       <name><languageId>ast</languageId><trName>Uganda</trName></name>
@@ -16205,6 +16450,7 @@
     <territoryId>US</territoryId>
     <names>
       <name><languageId>af</languageId><trName>Verenigde State van Amerika</trName></name>
+      <name><languageId>ak</languageId><trName>Amɛrika</trName></name>
       <name><languageId>am</languageId><trName>ዩናይትድ ስቴትስ</trName></name>
       <name><languageId>ar</languageId><trName>الولايات المتحدة</trName></name>
       <name><languageId>as</languageId><trName>যুক্তৰাষ্ট্ৰ</trName></name>
@@ -16367,6 +16613,7 @@
     <territoryId>UY</territoryId>
     <names>
       <name><languageId>af</languageId><trName>Uruguay</trName></name>
+      <name><languageId>ak</languageId><trName>Yurugwae</trName></name>
       <name><languageId>am</languageId><trName>ኡራጓይ</trName></name>
       <name><languageId>ar</languageId><trName>أورغواي</trName></name>
       <name><languageId>ast</languageId><trName>Uruguay</trName></name>
@@ -16488,6 +16735,7 @@
     <territoryId>UZ</territoryId>
     <names>
       <name><languageId>af</languageId><trName>Oesbekistan</trName></name>
+      <name><languageId>ak</languageId><trName>Uzbɛkistan</trName></name>
       <name><languageId>am</languageId><trName>ዩዝበኪስታን</trName></name>
       <name><languageId>ar</languageId><trName>أوزبكستان</trName></name>
       <name><languageId>ast</languageId><trName>Uzbequistán</trName></name>
@@ -16614,6 +16862,7 @@
     <territoryId>VE</territoryId>
     <names>
       <name><languageId>af</languageId><trName>Venezuela</trName></name>
+      <name><languageId>ak</languageId><trName>Venezuela</trName></name>
       <name><languageId>am</languageId><trName>ቬንዙዌላ</trName></name>
       <name><languageId>ar</languageId><trName>فنزويلا</trName></name>
       <name><languageId>ast</languageId><trName>Venezuela</trName></name>
@@ -16737,6 +16986,7 @@
     <territoryId>VN</territoryId>
     <names>
       <name><languageId>af</languageId><trName>Viëtnam</trName></name>
+      <name><languageId>ak</languageId><trName>Viɛtnam</trName></name>
       <name><languageId>am</languageId><trName>ቬትናም</trName></name>
       <name><languageId>ar</languageId><trName>فيتنام</trName></name>
       <name><languageId>ast</languageId><trName>Vietnam</trName></name>
@@ -16856,6 +17106,7 @@
     <territoryId>YE</territoryId>
     <names>
       <name><languageId>af</languageId><trName>Jemen</trName></name>
+      <name><languageId>ak</languageId><trName>Yɛmen</trName></name>
       <name><languageId>am</languageId><trName>የመን</trName></name>
       <name><languageId>ar</languageId><trName>اليمن</trName></name>
       <name><languageId>ast</languageId><trName>Yemen</trName></name>
@@ -16980,6 +17231,7 @@
     <territoryId>ZA</territoryId>
     <names>
       <name><languageId>af</languageId><trName>Suid-Afrika</trName></name>
+      <name><languageId>ak</languageId><trName>Afrika Anaafo</trName></name>
       <name><languageId>am</languageId><trName>ደቡብ አፍሪካ</trName></name>
       <name><languageId>ar</languageId><trName>جنوب أفريقيا</trName></name>
       <name><languageId>ast</languageId><trName>Sudáfrica</trName></name>
@@ -17123,6 +17375,7 @@
     <territoryId>ZM</territoryId>
     <names>
       <name><languageId>af</languageId><trName>Zambië</trName></name>
+      <name><languageId>ak</languageId><trName>Zambia</trName></name>
       <name><languageId>am</languageId><trName>ዛምቢያ</trName></name>
       <name><languageId>ar</languageId><trName>زامبيا</trName></name>
       <name><languageId>ast</languageId><trName>Zambia</trName></name>
@@ -17249,6 +17502,7 @@
     <territoryId>ZW</territoryId>
     <names>
       <name><languageId>af</languageId><trName>Zimbabwe</trName></name>
+      <name><languageId>ak</languageId><trName>Zembabwe</trName></name>
       <name><languageId>am</languageId><trName>ዚምቧቤ</trName></name>
       <name><languageId>ar</languageId><trName>زيمبابوي</trName></name>
       <name><languageId>ast</languageId><trName>Zimbabue</trName></name>
