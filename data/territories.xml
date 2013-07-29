@@ -2202,6 +2202,128 @@
     </timezones>
   </territory>
   <territory>
+    <territoryId>BF</territoryId>
+    <names>
+      <name><languageId>af</languageId><trName>Burkina Faso</trName></name>
+      <name><languageId>ak</languageId><trName>Bɔkina Faso</trName></name>
+      <name><languageId>am</languageId><trName>ቡርኪና ፋሶ</trName></name>
+      <name><languageId>ar</languageId><trName>بوركينا فاسو</trName></name>
+      <name><languageId>ast</languageId><trName>Burkina Fasu</trName></name>
+      <name><languageId>az</languageId><trName>Burkina Faso</trName></name>
+      <name><languageId>be</languageId><trName>Буркіна-Фасо</trName></name>
+      <name><languageId>bg</languageId><trName>Буркина Фасо</trName></name>
+      <name><languageId>bn</languageId><trName>বুরকিনা ফাসো</trName></name>
+      <name><languageId>bo</languageId><trName>བརཀི་ན། ཕསོ།</trName></name>
+      <name><languageId>br</languageId><trName>Burkina Faso</trName></name>
+      <name><languageId>brx</languageId><trName>बुर्किना फासो</trName></name>
+      <name><languageId>bs</languageId><trName>Burkina Faso</trName></name>
+      <name><languageId>ca</languageId><trName>Burkina Faso</trName></name>
+      <name><languageId>cs</languageId><trName>Burkina Faso</trName></name>
+      <name><languageId>cy</languageId><trName>Burkina Faso</trName></name>
+      <name><languageId>da</languageId><trName>Burkina Faso</trName></name>
+      <name><languageId>de</languageId><trName>Burkina Faso</trName></name>
+      <name><languageId>dz</languageId><trName>བྷར་ཀི་ན་ ཕེ་སོ</trName></name>
+      <name><languageId>el</languageId><trName>Μπουρκίνα Φάσο</trName></name>
+      <name><languageId>en</languageId><trName>Burkina Faso</trName></name>
+      <name><languageId>eo</languageId><trName>Burkino</trName></name>
+      <name><languageId>es</languageId><trName>Burkina Faso</trName></name>
+      <name><languageId>et</languageId><trName>Burkina Faso</trName></name>
+      <name><languageId>eu</languageId><trName>Burkina Faso</trName></name>
+      <name><languageId>fa</languageId><trName>بورکینافاسو</trName></name>
+      <name><languageId>ff</languageId><trName>Burkibaa Faaso</trName></name>
+      <name><languageId>fi</languageId><trName>Burkina Faso</trName></name>
+      <name><languageId>fil</languageId><trName>Burkina Faso</trName></name>
+      <name><languageId>fo</languageId><trName>Burkina Faso</trName></name>
+      <name><languageId>fr</languageId><trName>Burkina Faso</trName></name>
+      <name><languageId>fur</languageId><trName>Burkina Faso</trName></name>
+      <name><languageId>ga</languageId><trName>Buircíne Fasó</trName></name>
+      <name><languageId>gd</languageId><trName>Buirciona Faso</trName></name>
+      <name><languageId>gl</languageId><trName>Burkina Faso</trName></name>
+      <name><languageId>gu</languageId><trName>બુર્કિના ફાસો</trName></name>
+      <name><languageId>ha</languageId><trName>Burkina Faso</trName></name>
+      <name><languageId>he</languageId><trName>בורקינה פאסו</trName></name>
+      <name><languageId>hi</languageId><trName>बुर्किना फ़ासो</trName></name>
+      <name><languageId>hr</languageId><trName>Burkina Faso</trName></name>
+      <name><languageId>hu</languageId><trName>Burkina Faso</trName></name>
+      <name><languageId>hy</languageId><trName>Բուրկինա Ֆասո</trName></name>
+      <name><languageId>ia</languageId><trName>Burkina Faso</trName></name>
+      <name><languageId>id</languageId><trName>Burkina Faso</trName></name>
+      <name><languageId>is</languageId><trName>Búrkína Fasó</trName></name>
+      <name><languageId>it</languageId><trName>Burkina Faso</trName></name>
+      <name><languageId>ja</languageId><trName>ブルキナファソ</trName></name>
+      <name><languageId>ka</languageId><trName>ბურკინა-ფასო</trName></name>
+      <name><languageId>kk</languageId><trName>Буркина-Фасо</trName></name>
+      <name><languageId>kl</languageId><trName>Burkina Faso</trName></name>
+      <name><languageId>km</languageId><trName>ប៊ូរគីណាហ្វាសូ</trName></name>
+      <name><languageId>kn</languageId><trName>ಬುರ್ಕಿನಾ ಫಾಸೋ</trName></name>
+      <name><languageId>ko</languageId><trName>부르키나파소</trName></name>
+      <name><languageId>ks</languageId><trName>بُرکِنا فیسو</trName></name>
+      <name><languageId>ky</languageId><trName>Буркина Фасо</trName></name>
+      <name><languageId>lg</languageId><trName>Burukina Faso</trName></name>
+      <name><languageId>ln</languageId><trName>Bukina Faso</trName></name>
+      <name><languageId>lo</languageId><trName>ເບີກິນາ ຟາໂຊ</trName></name>
+      <name><languageId>lt</languageId><trName>Burkina Fasas</trName></name>
+      <name><languageId>lv</languageId><trName>Burkinafaso</trName></name>
+      <name><languageId>mg</languageId><trName>Borkina Faso</trName></name>
+      <name><languageId>mk</languageId><trName>Буркина Фасо</trName></name>
+      <name><languageId>ml</languageId><trName>ബുർക്കിനാ ഫാസോ</trName></name>
+      <name><languageId>mn</languageId><trName>Буркина фасо</trName></name>
+      <name><languageId>mr</languageId><trName>बुर्किना फासो</trName></name>
+      <name><languageId>ms</languageId><trName>Burkina Faso</trName></name>
+      <name><languageId>mt</languageId><trName>Burkina Faso</trName></name>
+      <name><languageId>my</languageId><trName>ဘာကီနာ ဖာဆို</trName></name>
+      <name><languageId>nb</languageId><trName>Burkina Faso</trName></name>
+      <name><languageId>ne</languageId><trName>बर्किना फासो</trName></name>
+      <name><languageId>nl</languageId><trName>Burkina Faso</trName></name>
+      <name><languageId>nn</languageId><trName>Burkina Faso</trName></name>
+      <name><languageId>or</languageId><trName>ବୁର୍କିନୋ ଫାସୋ</trName></name>
+      <name><languageId>pa</languageId><trName>ਬੁਰਕੀਨਾ ਫ਼ਾਸੋ</trName></name>
+      <name><languageId>pl</languageId><trName>Burkina Faso</trName></name>
+      <name><languageId>pt</languageId><trName>Burquina Faso</trName></name>
+      <name><languageId>ro</languageId><trName>Burkina Faso</trName></name>
+      <name><languageId>ru</languageId><trName>Буркина-Фасо</trName></name>
+      <name><languageId>se</languageId><trName>Burkina Faso</trName></name>
+      <name><languageId>si</languageId><trName>බර්කිනා ෆාසෝ</trName></name>
+      <name><languageId>sk</languageId><trName>Burkina Faso</trName></name>
+      <name><languageId>sl</languageId><trName>Burkina Faso</trName></name>
+      <name><languageId>so</languageId><trName>Burkiina Faaso</trName></name>
+      <name><languageId>sq</languageId><trName>Burkina Faso</trName></name>
+      <name><languageId>sr</languageId><trName>Буркина Фасо</trName></name>
+      <name><languageId>sr_Latn</languageId><trName>Burkina Faso</trName></name>
+      <name><languageId>sv</languageId><trName>Burkina Faso</trName></name>
+      <name><languageId>sw</languageId><trName>Bukinafaso</trName></name>
+      <name><languageId>ta</languageId><trName>புர்கினா ஃபாஸோ</trName></name>
+      <name><languageId>te</languageId><trName>బుర్కినా ఫాసో</trName></name>
+      <name><languageId>th</languageId><trName>บูร์กินาฟาโซ</trName></name>
+      <name><languageId>ti</languageId><trName>ቡርኪና ፋሶ</trName></name>
+      <name><languageId>tr</languageId><trName>Burkina Faso</trName></name>
+      <name><languageId>uk</languageId><trName>Буркіна-Фасо</trName></name>
+      <name><languageId>ur</languageId><trName>برکینا فاسو</trName></name>
+      <name><languageId>uz</languageId><trName>Буркина-Фасо</trName></name>
+      <name><languageId>vi</languageId><trName>Burkina Faso</trName></name>
+      <name><languageId>wae</languageId><trName>Burkina Faso</trName></name>
+      <name><languageId>yo</languageId><trName>Orílẹ́ède Bùùkíná Fasò</trName></name>
+      <name><languageId>zh</languageId><trName>布基纳法索</trName></name>
+      <name><languageId>zh_Hant</languageId><trName>布吉納法索</trName></name>
+      <name><languageId>zu</languageId><trName>i-Burkina Faso</trName></name>
+    </names>
+    <locales>
+    </locales>
+    <languages>
+      <language><languageId>fr</languageId><rank>700</rank></language>
+      <language><languageId>mos</languageId><rank>200</rank></language>
+    </languages>
+    <keyboards>
+      <keyboard><keyboardId>fr(oss)</keyboardId><rank>1000</rank></keyboard>
+    </keyboards>
+    <consolefonts>
+      <consolefont><consolefontId>latarcyrheb-sun16</consolefontId><rank>1000</rank></consolefont>
+    </consolefonts>
+    <timezones>
+      <timezone><timezoneId>Africa/Ouagadougou</timezoneId><rank>1000</rank></timezone>
+    </timezones>
+  </territory>
+  <territory>
     <territoryId>BG</territoryId>
     <names>
       <name><languageId>af</languageId><trName>Bulgarye</trName></name>

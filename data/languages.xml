@@ -12122,6 +12122,89 @@
     </timezones>
   </language>
   <language>
+    <languageId>mos</languageId>
+    <iso639-1>None</iso639-1>
+    <iso639-2-t>mos</iso639-2-t>
+    <iso639-2-b>mos</iso639-2-b>
+    <names>
+      <name><languageId>ar</languageId><trName>الموسي</trName></name>
+      <name><languageId>az</languageId><trName>mosi dili</trName></name>
+      <name><languageId>be</languageId><trName>мосі</trName></name>
+      <name><languageId>bg</languageId><trName>моси</trName></name>
+      <name><languageId>bn</languageId><trName>মসি</trName></name>
+      <name><languageId>brx</languageId><trName>मोस्सी</trName></name>
+      <name><languageId>bs</languageId><trName>mosi</trName></name>
+      <name><languageId>ca</languageId><trName>moré</trName></name>
+      <name><languageId>cs</languageId><trName>mosi</trName></name>
+      <name><languageId>cy</languageId><trName>Mosi</trName></name>
+      <name><languageId>da</languageId><trName>mossi</trName></name>
+      <name><languageId>de</languageId><trName>Mossi-Sprache</trName></name>
+      <name><languageId>el</languageId><trName>Μόσι</trName></name>
+      <name><languageId>en</languageId><trName>Mossi</trName></name>
+      <name><languageId>es</languageId><trName>mossi</trName></name>
+      <name><languageId>et</languageId><trName>more</trName></name>
+      <name><languageId>fa</languageId><trName>ماسیایی</trName></name>
+      <name><languageId>fi</languageId><trName>mossi</trName></name>
+      <name><languageId>fr</languageId><trName>moré</trName></name>
+      <name><languageId>gu</languageId><trName>મોસ્સી</trName></name>
+      <name><languageId>he</languageId><trName>מוסי</trName></name>
+      <name><languageId>hi</languageId><trName>मोस्सी</trName></name>
+      <name><languageId>hr</languageId><trName>mossi</trName></name>
+      <name><languageId>hu</languageId><trName>moszi</trName></name>
+      <name><languageId>id</languageId><trName>Mossi</trName></name>
+      <name><languageId>is</languageId><trName>mossí</trName></name>
+      <name><languageId>it</languageId><trName>mossi</trName></name>
+      <name><languageId>ja</languageId><trName>モシ語</trName></name>
+      <name><languageId>ka</languageId><trName>მოორე</trName></name>
+      <name><languageId>kn</languageId><trName>ಮೊಸ್ಸಿ</trName></name>
+      <name><languageId>ko</languageId><trName>모시어</trName></name>
+      <name><languageId>ks</languageId><trName>موسی</trName></name>
+      <name><languageId>lo</languageId><trName>ມອສຊີ</trName></name>
+      <name><languageId>lt</languageId><trName>mosi</trName></name>
+      <name><languageId>lv</languageId><trName>mosu</trName></name>
+      <name><languageId>mk</languageId><trName>моси</trName></name>
+      <name><languageId>ml</languageId><trName>മൊസ്സി</trName></name>
+      <name><languageId>mr</languageId><trName>मोस्सी</trName></name>
+      <name><languageId>mt</languageId><trName>Mossi</trName></name>
+      <name><languageId>nb</languageId><trName>mossi</trName></name>
+      <name><languageId>nl</languageId><trName>Mossi</trName></name>
+      <name><languageId>nn</languageId><trName>mossi</trName></name>
+      <name><languageId>or</languageId><trName>ମୋସି</trName></name>
+      <name><languageId>pl</languageId><trName>mossi</trName></name>
+      <name><languageId>pt</languageId><trName>mossi</trName></name>
+      <name><languageId>ro</languageId><trName>mossi</trName></name>
+      <name><languageId>ru</languageId><trName>моси</trName></name>
+      <name><languageId>sk</languageId><trName>mossi</trName></name>
+      <name><languageId>sl</languageId><trName>mosijščina</trName></name>
+      <name><languageId>sr</languageId><trName>Моси</trName></name>
+      <name><languageId>sr_Latn</languageId><trName>Mosi</trName></name>
+      <name><languageId>sv</languageId><trName>mossi</trName></name>
+      <name><languageId>sw</languageId><trName>Kimoore</trName></name>
+      <name><languageId>ta</languageId><trName>மோஸ்ஸி</trName></name>
+      <name><languageId>te</languageId><trName>మోస్సి</trName></name>
+      <name><languageId>th</languageId><trName>โมซี</trName></name>
+      <name><languageId>tr</languageId><trName>Mossi</trName></name>
+      <name><languageId>uk</languageId><trName>моссі</trName></name>
+      <name><languageId>vi</languageId><trName>Tiếng Mossi</trName></name>
+      <name><languageId>zh</languageId><trName>莫西文</trName></name>
+      <name><languageId>zh_Hant</languageId><trName>莫西文</trName></name>
+    </names>
+    <locales>
+    </locales>
+    <territories>
+      <territory><territoryId>BF</territoryId><rank>1000</rank></territory>
+    </territories>
+    <keyboards>
+      <keyboard><keyboardId>fr(oss)</keyboardId><rank>1000</rank></keyboard>
+    </keyboards>
+    <consolefonts>
+      <consolefont><consolefontId>latarcyrheb-sun16</consolefontId><rank>1000</rank></consolefont>
+    </consolefonts>
+    <timezones>
+      <timezone><timezoneId>Africa/Ouagadougou</timezoneId><rank>1000</rank></timezone>
+    </timezones>
+  </language>
+  <language>
     <languageId>mr</languageId>
     <iso639-1>mr</iso639-1>
     <iso639-2-t>mar</iso639-2-t>
