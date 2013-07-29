@@ -158,6 +158,7 @@
       <name><languageId>kok</languageId><trName>अफ्रिकान्स</trName></name>
       <name><languageId>ks</languageId><trName>اَفریٖکانٛز</trName></name>
       <name><languageId>ky</languageId><trName>африкаанча</trName></name>
+      <name><languageId>ln</languageId><trName>afrikansi</trName></name>
       <name><languageId>lo</languageId><trName>ອາຟຣິກາອານ</trName></name>
       <name><languageId>lt</languageId><trName>afrikanų</trName></name>
       <name><languageId>lv</languageId><trName>afrikandu</trName></name>
@@ -276,6 +277,7 @@
       <name><languageId>ko</languageId><trName>아칸어</trName></name>
       <name><languageId>ks</languageId><trName>اَکان</trName></name>
       <name><languageId>lg</languageId><trName>Lu-akaani</trName></name>
+      <name><languageId>ln</languageId><trName>akan</trName></name>
       <name><languageId>lo</languageId><trName>ອາການ</trName></name>
       <name><languageId>lt</languageId><trName>akanų</trName></name>
       <name><languageId>lv</languageId><trName>akanu</trName></name>
@@ -391,6 +393,7 @@
       <name><languageId>ks</languageId><trName>اَمہاری</trName></name>
       <name><languageId>ky</languageId><trName>амхарча</trName></name>
       <name><languageId>lg</languageId><trName>Lu-amhariki</trName></name>
+      <name><languageId>ln</languageId><trName>liamariki</trName></name>
       <name><languageId>lo</languageId><trName>ອຳຫາຣິກ</trName></name>
       <name><languageId>lt</languageId><trName>amharų</trName></name>
       <name><languageId>lv</languageId><trName>amharu</trName></name>
@@ -614,6 +617,7 @@
       <name><languageId>kw</languageId><trName>Arabek</trName></name>
       <name><languageId>ky</languageId><trName>арабча</trName></name>
       <name><languageId>lg</languageId><trName>Luwarabu</trName></name>
+      <name><languageId>ln</languageId><trName>lialabo</trName></name>
       <name><languageId>lo</languageId><trName>ອາຣັບ</trName></name>
       <name><languageId>lt</languageId><trName>arabų</trName></name>
       <name><languageId>lv</languageId><trName>arābu</trName></name>
@@ -1142,6 +1146,7 @@
       <name><languageId>ks</languageId><trName>بیلَروٗشیَن</trName></name>
       <name><languageId>ky</languageId><trName>беларусча</trName></name>
       <name><languageId>lg</languageId><trName>Lubelarusi</trName></name>
+      <name><languageId>ln</languageId><trName>libyelorisí</trName></name>
       <name><languageId>lo</languageId><trName>ເບລາລຸດຊີ</trName></name>
       <name><languageId>lt</languageId><trName>baltarusių</trName></name>
       <name><languageId>lv</languageId><trName>baltkrievu</trName></name>
@@ -1460,6 +1465,7 @@
       <name><languageId>ks</languageId><trName>بینا</trName></name>
       <name><languageId>ky</languageId><trName>болгарияча</trName></name>
       <name><languageId>lg</languageId><trName>Lubulugariya</trName></name>
+      <name><languageId>ln</languageId><trName>libiligali</trName></name>
       <name><languageId>lo</languageId><trName>ບຸນກາຣີ</trName></name>
       <name><languageId>lt</languageId><trName>bulgarų</trName></name>
       <name><languageId>lv</languageId><trName>bulgāru</trName></name>
@@ -1679,6 +1685,7 @@
       <name><languageId>ks</languageId><trName>بَنٛگٲلۍ</trName></name>
       <name><languageId>ky</languageId><trName>бангладешче</trName></name>
       <name><languageId>lg</languageId><trName>Lubengali</trName></name>
+      <name><languageId>ln</languageId><trName>libengali</trName></name>
       <name><languageId>lo</languageId><trName>ເບັງການ</trName></name>
       <name><languageId>lt</languageId><trName>bengalų</trName></name>
       <name><languageId>lv</languageId><trName>bengāļu</trName></name>
@@ -2644,6 +2651,7 @@
       <name><languageId>ks</languageId><trName>چیٚک</trName></name>
       <name><languageId>ky</languageId><trName>чех тили</trName></name>
       <name><languageId>lg</languageId><trName>Luceeke</trName></name>
+      <name><languageId>ln</languageId><trName>litshekɛ</trName></name>
       <name><languageId>lo</languageId><trName>ເຊັກ</trName></name>
       <name><languageId>lt</languageId><trName>čekų</trName></name>
       <name><languageId>lv</languageId><trName>čehu</trName></name>
@@ -3214,6 +3222,7 @@
       <name><languageId>kw</languageId><trName>Almaynek</trName></name>
       <name><languageId>ky</languageId><trName>немисче</trName></name>
       <name><languageId>lg</languageId><trName>Ludaaki</trName></name>
+      <name><languageId>ln</languageId><trName>lialemá</trName></name>
       <name><languageId>lo</languageId><trName>ເຍຍລະມັນ</trName></name>
       <name><languageId>lt</languageId><trName>vokiečių</trName></name>
       <name><languageId>lv</languageId><trName>vācu</trName></name>
@@ -3738,6 +3747,7 @@
       <name><languageId>ks</languageId><trName>یوٗنٲنی</trName></name>
       <name><languageId>ky</languageId><trName>грекче</trName></name>
       <name><languageId>lg</languageId><trName>Lugereeki/Luyonaani</trName></name>
+      <name><languageId>ln</languageId><trName>ligeleki</trName></name>
       <name><languageId>lo</languageId><trName>ກເຣັກ</trName></name>
       <name><languageId>lt</languageId><trName>graikų</trName></name>
       <name><languageId>lv</languageId><trName>grieķu</trName></name>
@@ -3882,6 +3892,7 @@
       <name><languageId>kw</languageId><trName>Sowsnek</trName></name>
       <name><languageId>ky</languageId><trName>англисче</trName></name>
       <name><languageId>lg</languageId><trName>Lungereza</trName></name>
+      <name><languageId>ln</languageId><trName>lingɛlɛ́sa</trName></name>
       <name><languageId>lo</languageId><trName>ອັງກິດ</trName></name>
       <name><languageId>lt</languageId><trName>anglų</trName></name>
       <name><languageId>lv</languageId><trName>angļu</trName></name>
@@ -4241,6 +4252,7 @@
       <name><languageId>kw</languageId><trName>Spaynek</trName></name>
       <name><languageId>ky</languageId><trName>испанча</trName></name>
       <name><languageId>lg</languageId><trName>Lusipanya</trName></name>
+      <name><languageId>ln</languageId><trName>lisipanye</trName></name>
       <name><languageId>lo</languageId><trName>ແອສປາໂຍນ</trName></name>
       <name><languageId>lt</languageId><trName>ispanų</trName></name>
       <name><languageId>lv</languageId><trName>spāņu</trName></name>
@@ -4755,6 +4767,7 @@
       <name><languageId>ks</languageId><trName>فارسی</trName></name>
       <name><languageId>ky</languageId><trName>фарзча</trName></name>
       <name><languageId>lg</languageId><trName>Luperusi</trName></name>
+      <name><languageId>ln</languageId><trName>lipelésanɛ</trName></name>
       <name><languageId>lo</languageId><trName>ເປີເຊຍ</trName></name>
       <name><languageId>lt</languageId><trName>persų</trName></name>
       <name><languageId>lv</languageId><trName>persiešu</trName></name>
@@ -5481,6 +5494,7 @@
       <name><languageId>kw</languageId><trName>Frenkek</trName></name>
       <name><languageId>ky</languageId><trName>французча</trName></name>
       <name><languageId>lg</languageId><trName>Lufalansa</trName></name>
+      <name><languageId>ln</languageId><trName>lifalansɛ́</trName></name>
       <name><languageId>lo</languageId><trName>ຝຣັ່ງ</trName></name>
       <name><languageId>lt</languageId><trName>prancūzų</trName></name>
       <name><languageId>lv</languageId><trName>franču</trName></name>
@@ -6625,6 +6639,7 @@
       <name><languageId>ks</languageId><trName>ہاوسا</trName></name>
       <name><languageId>ky</languageId><trName>хаусача</trName></name>
       <name><languageId>lg</languageId><trName>Luhawuza</trName></name>
+      <name><languageId>ln</languageId><trName>hausa</trName></name>
       <name><languageId>lo</languageId><trName>ຮູຊາ</trName></name>
       <name><languageId>lt</languageId><trName>hausų</trName></name>
       <name><languageId>lv</languageId><trName>hausu</trName></name>
@@ -6858,6 +6873,7 @@
       <name><languageId>kok</languageId><trName>हेब्रु</trName></name>
       <name><languageId>ks</languageId><trName>عبرٲنۍ</trName></name>
       <name><languageId>ky</languageId><trName>еврейче</trName></name>
+      <name><languageId>ln</languageId><trName>liébeleo</trName></name>
       <name><languageId>lo</languageId><trName>ເຫບຣິວ</trName></name>
       <name><languageId>lt</languageId><trName>hebrajų</trName></name>
       <name><languageId>lv</languageId><trName>ivrits</trName></name>
@@ -6995,6 +7011,7 @@
       <name><languageId>ks</languageId><trName>ہِندی</trName></name>
       <name><languageId>ky</languageId><trName>индусча</trName></name>
       <name><languageId>lg</languageId><trName>Luhindu</trName></name>
+      <name><languageId>ln</languageId><trName>lihindi</trName></name>
       <name><languageId>lo</languageId><trName>ຮິນດູ</trName></name>
       <name><languageId>lt</languageId><trName>hindi</trName></name>
       <name><languageId>lv</languageId><trName>hindi</trName></name>
@@ -7561,6 +7578,7 @@
       <name><languageId>ks</languageId><trName>ہَنٛگیریَن</trName></name>
       <name><languageId>ky</languageId><trName>венгрияча</trName></name>
       <name><languageId>lg</languageId><trName>Luhangare</trName></name>
+      <name><languageId>ln</languageId><trName>liongili</trName></name>
       <name><languageId>lo</languageId><trName>ຮັງກາລຽນ</trName></name>
       <name><languageId>lt</languageId><trName>vengrų</trName></name>
       <name><languageId>lv</languageId><trName>ungāru</trName></name>
@@ -7939,6 +7957,7 @@
       <name><languageId>ks</languageId><trName>اِنڈونیشیا</trName></name>
       <name><languageId>ky</languageId><trName>индонезияча</trName></name>
       <name><languageId>lg</languageId><trName>Luyindonezya</trName></name>
+      <name><languageId>ln</languageId><trName>lindonezi</trName></name>
       <name><languageId>lo</languageId><trName>ອິນດອນຊຽນ</trName></name>
       <name><languageId>lt</languageId><trName>indonieziečių</trName></name>
       <name><languageId>lv</languageId><trName>indonēziešu</trName></name>
@@ -8068,6 +8087,7 @@
       <name><languageId>ks</languageId><trName>اِگبو</trName></name>
       <name><languageId>ky</languageId><trName>игбочо</trName></name>
       <name><languageId>lg</languageId><trName>Luyibo</trName></name>
+      <name><languageId>ln</languageId><trName>igbo</trName></name>
       <name><languageId>lo</languageId><trName>ໄອຈີໂບ</trName></name>
       <name><languageId>lt</languageId><trName>igbų</trName></name>
       <name><languageId>lv</languageId><trName>igbo</trName></name>
@@ -8499,6 +8519,7 @@
       <name><languageId>kw</languageId><trName>Italek</trName></name>
       <name><languageId>ky</languageId><trName>италиянча</trName></name>
       <name><languageId>lg</languageId><trName>Luyitale</trName></name>
+      <name><languageId>ln</languageId><trName>litaliano</trName></name>
       <name><languageId>lo</languageId><trName>ອີຕາລີ</trName></name>
       <name><languageId>lt</languageId><trName>italų</trName></name>
       <name><languageId>lv</languageId><trName>itāļu</trName></name>
@@ -8766,6 +8787,7 @@
       <name><languageId>kw</languageId><trName>Japanek</trName></name>
       <name><languageId>ky</languageId><trName>япончо</trName></name>
       <name><languageId>lg</languageId><trName>Lujapani</trName></name>
+      <name><languageId>ln</languageId><trName>lizapɔ</trName></name>
       <name><languageId>lo</languageId><trName>ເຈແປນນຣິດ</trName></name>
       <name><languageId>lt</languageId><trName>japonų</trName></name>
       <name><languageId>lv</languageId><trName>japāņu</trName></name>
@@ -8966,6 +8988,102 @@
     </consolefonts>
     <timezones>
       <timezone><timezoneId>Asia/Tbilisi</timezoneId><rank>1000</rank></timezone>
+    </timezones>
+  </language>
+  <language>
+    <languageId>kg</languageId>
+    <iso639-1>kg</iso639-1>
+    <iso639-2-t>kon</iso639-2-t>
+    <iso639-2-b>kon</iso639-2-b>
+    <names>
+      <name><languageId>af</languageId><trName>Kongolees</trName></name>
+      <name><languageId>am</languageId><trName>ኮንጎኛ</trName></name>
+      <name><languageId>ar</languageId><trName>الكونغو</trName></name>
+      <name><languageId>az</languageId><trName>konqo dili</trName></name>
+      <name><languageId>bg</languageId><trName>конгоански</trName></name>
+      <name><languageId>bn</languageId><trName>কঙ্গো</trName></name>
+      <name><languageId>br</languageId><trName>kongo</trName></name>
+      <name><languageId>brx</languageId><trName>कॉंगो</trName></name>
+      <name><languageId>bs</languageId><trName>kongo</trName></name>
+      <name><languageId>ca</languageId><trName>kongo</trName></name>
+      <name><languageId>cs</languageId><trName>konžština</trName></name>
+      <name><languageId>cy</languageId><trName>Congo</trName></name>
+      <name><languageId>da</languageId><trName>kongo</trName></name>
+      <name><languageId>de</languageId><trName>Kongolesisch</trName></name>
+      <name><languageId>el</languageId><trName>Κονγκό</trName></name>
+      <name><languageId>en</languageId><trName>Kongo</trName></name>
+      <name><languageId>es</languageId><trName>kongo</trName></name>
+      <name><languageId>et</languageId><trName>kongo</trName></name>
+      <name><languageId>eu</languageId><trName>Kikongoa</trName></name>
+      <name><languageId>fa</languageId><trName>کنگویی</trName></name>
+      <name><languageId>fi</languageId><trName>kongo</trName></name>
+      <name><languageId>fil</languageId><trName>Kongo</trName></name>
+      <name><languageId>fr</languageId><trName>kongo</trName></name>
+      <name><languageId>gl</languageId><trName>kongo</trName></name>
+      <name><languageId>gu</languageId><trName>કોંગો</trName></name>
+      <name><languageId>he</languageId><trName>קונגו</trName></name>
+      <name><languageId>hi</languageId><trName>कोंगो</trName></name>
+      <name><languageId>hr</languageId><trName>kongo</trName></name>
+      <name><languageId>hu</languageId><trName>kongo</trName></name>
+      <name><languageId>id</languageId><trName>Kongo</trName></name>
+      <name><languageId>is</languageId><trName>kongóska</trName></name>
+      <name><languageId>it</languageId><trName>kongo</trName></name>
+      <name><languageId>ja</languageId><trName>コンゴ語</trName></name>
+      <name><languageId>ka</languageId><trName>კონგო</trName></name>
+      <name><languageId>kn</languageId><trName>ಕೊಂಗೊ</trName></name>
+      <name><languageId>ko</languageId><trName>콩고어</trName></name>
+      <name><languageId>ks</languageId><trName>کونٛگو</trName></name>
+      <name><languageId>ln</languageId><trName>kikɔ́ngɔ</trName></name>
+      <name><languageId>lo</languageId><trName>ຄອງໂກ</trName></name>
+      <name><languageId>lt</languageId><trName>Kongo</trName></name>
+      <name><languageId>lv</languageId><trName>kongu</trName></name>
+      <name><languageId>mk</languageId><trName>конго</trName></name>
+      <name><languageId>ml</languageId><trName>കോംഗോ</trName></name>
+      <name><languageId>mr</languageId><trName>काँगो</trName></name>
+      <name><languageId>ms</languageId><trName>Kongo</trName></name>
+      <name><languageId>mt</languageId><trName>Kongo</trName></name>
+      <name><languageId>my</languageId><trName>ကွန်ဂို</trName></name>
+      <name><languageId>nb</languageId><trName>kikongo</trName></name>
+      <name><languageId>nl</languageId><trName>Kongo</trName></name>
+      <name><languageId>nn</languageId><trName>kikongo</trName></name>
+      <name><languageId>or</languageId><trName>କଙ୍ଗୋ</trName></name>
+      <name><languageId>pl</languageId><trName>kongo</trName></name>
+      <name><languageId>pt</languageId><trName>congolês</trName></name>
+      <name><languageId>ro</languageId><trName>congoleză</trName></name>
+      <name><languageId>ru</languageId><trName>конго</trName></name>
+      <name><languageId>sk</languageId><trName>kongčina</trName></name>
+      <name><languageId>sl</languageId><trName>kongovščina</trName></name>
+      <name><languageId>sr</languageId><trName>Конго</trName></name>
+      <name><languageId>sr_Latn</languageId><trName>Kongo</trName></name>
+      <name><languageId>sv</languageId><trName>kikongo</trName></name>
+      <name><languageId>sw</languageId><trName>Kikongo</trName></name>
+      <name><languageId>ta</languageId><trName>காங்கோ</trName></name>
+      <name><languageId>te</languageId><trName>కోంగో</trName></name>
+      <name><languageId>th</languageId><trName>คองโก</trName></name>
+      <name><languageId>tr</languageId><trName>Kongo</trName></name>
+      <name><languageId>uk</languageId><trName>конґолезька</trName></name>
+      <name><languageId>ur</languageId><trName>کانگو</trName></name>
+      <name><languageId>vi</languageId><trName>Tiếng Congo</trName></name>
+      <name><languageId>zh</languageId><trName>刚果文</trName></name>
+      <name><languageId>zh_Hant</languageId><trName>剛果文</trName></name>
+      <name><languageId>zu</languageId><trName>Isi-Kongo</trName></name>
+    </names>
+    <locales>
+    </locales>
+    <territories>
+      <territory><territoryId>CD</territoryId><rank>700</rank></territory>
+      <territory><territoryId>CG</territoryId><rank>200</rank></territory>
+      <territory><territoryId>AO</territoryId><rank>100</rank></territory>
+    </territories>
+    <keyboards>
+      <keyboard><keyboardId>fr(oss)</keyboardId><rank>1000</rank></keyboard>
+    </keyboards>
+    <consolefonts>
+      <consolefont><consolefontId>latarcyrheb-sun16</consolefontId><rank>1000</rank></consolefont>
+    </consolefonts>
+    <timezones>
+      <timezone><timezoneId>Africa/Kinshasa</timezoneId><rank>800</rank></timezone>
+      <timezone><timezoneId>Africa/Brazzaville</timezoneId><rank>200</rank></timezone>
     </timezones>
   </language>
   <language>
@@ -9240,6 +9358,7 @@
       <name><languageId>ks</languageId><trName>خَمیر</trName></name>
       <name><languageId>ky</languageId><trName>кмерче</trName></name>
       <name><languageId>lg</languageId><trName>Lukme</trName></name>
+      <name><languageId>ln</languageId><trName>likambodza</trName></name>
       <name><languageId>lo</languageId><trName>ເຄເຫັດເມີ</trName></name>
       <name><languageId>lt</languageId><trName>khmerų</trName></name>
       <name><languageId>lv</languageId><trName>khmeru</trName></name>
@@ -9499,6 +9618,7 @@
       <name><languageId>ks</languageId><trName>کوریَن</trName></name>
       <name><languageId>ky</languageId><trName>корейче</trName></name>
       <name><languageId>lg</languageId><trName>Lukoreya</trName></name>
+      <name><languageId>ln</languageId><trName>likoreya</trName></name>
       <name><languageId>lo</languageId><trName>ໂກລຽນ</trName></name>
       <name><languageId>lt</languageId><trName>korėjiečių</trName></name>
       <name><languageId>lv</languageId><trName>korejiešu</trName></name>
@@ -10227,6 +10347,7 @@
       <name><languageId>kok</languageId><trName>लाटिन</trName></name>
       <name><languageId>ks</languageId><trName>لاتیٖنی</trName></name>
       <name><languageId>ky</languageId><trName>латынча</trName></name>
+      <name><languageId>ln</languageId><trName>latina</trName></name>
       <name><languageId>lo</languageId><trName>ລາຕິນ</trName></name>
       <name><languageId>lt</languageId><trName>lotynų</trName></name>
       <name><languageId>lv</languageId><trName>latīņu</trName></name>
@@ -10621,6 +10742,115 @@
     </consolefonts>
     <timezones>
       <timezone><timezoneId>Europe/Rome</timezoneId><rank>1000</rank></timezone>
+    </timezones>
+  </language>
+  <language>
+    <languageId>ln</languageId>
+    <iso639-1>ln</iso639-1>
+    <iso639-2-t>lin</iso639-2-t>
+    <iso639-2-b>lin</iso639-2-b>
+    <names>
+      <name><languageId>af</languageId><trName>Lingaals</trName></name>
+      <name><languageId>am</languageId><trName>ሊንጋላኛ</trName></name>
+      <name><languageId>ar</languageId><trName>اللينجالا</trName></name>
+      <name><languageId>az</languageId><trName>Linqala dili</trName></name>
+      <name><languageId>be</languageId><trName>лінгала</trName></name>
+      <name><languageId>bg</languageId><trName>лингала</trName></name>
+      <name><languageId>bn</languageId><trName>লিঙ্গালা</trName></name>
+      <name><languageId>br</languageId><trName>lingala</trName></name>
+      <name><languageId>brx</languageId><trName>लिंगाला</trName></name>
+      <name><languageId>bs</languageId><trName>lingala</trName></name>
+      <name><languageId>byn</languageId><trName>ሊንጋላኛ</trName></name>
+      <name><languageId>ca</languageId><trName>lingala</trName></name>
+      <name><languageId>cs</languageId><trName>lingalština</trName></name>
+      <name><languageId>cy</languageId><trName>Lingala</trName></name>
+      <name><languageId>da</languageId><trName>lingala</trName></name>
+      <name><languageId>de</languageId><trName>Lingala</trName></name>
+      <name><languageId>el</languageId><trName>Λινγκάλα</trName></name>
+      <name><languageId>en</languageId><trName>Lingala</trName></name>
+      <name><languageId>eo</languageId><trName>lingala</trName></name>
+      <name><languageId>es</languageId><trName>lingala</trName></name>
+      <name><languageId>et</languageId><trName>lingala</trName></name>
+      <name><languageId>eu</languageId><trName>lingala</trName></name>
+      <name><languageId>fa</languageId><trName>لینگالا</trName></name>
+      <name><languageId>fi</languageId><trName>lingala</trName></name>
+      <name><languageId>fil</languageId><trName>Lingala</trName></name>
+      <name><languageId>fo</languageId><trName>lingala</trName></name>
+      <name><languageId>fr</languageId><trName>lingala</trName></name>
+      <name><languageId>fur</languageId><trName>lingala</trName></name>
+      <name><languageId>ga</languageId><trName>ln</trName></name>
+      <name><languageId>gd</languageId><trName>Lingala</trName></name>
+      <name><languageId>gl</languageId><trName>lingala</trName></name>
+      <name><languageId>gu</languageId><trName>લિંગાલા</trName></name>
+      <name><languageId>ha</languageId><trName>Lingala</trName></name>
+      <name><languageId>he</languageId><trName>לינגלה</trName></name>
+      <name><languageId>hi</languageId><trName>लिंगाला</trName></name>
+      <name><languageId>hr</languageId><trName>lingala</trName></name>
+      <name><languageId>hu</languageId><trName>lingala</trName></name>
+      <name><languageId>hy</languageId><trName>Լինգալա</trName></name>
+      <name><languageId>ia</languageId><trName>lingala</trName></name>
+      <name><languageId>id</languageId><trName>Lingala</trName></name>
+      <name><languageId>is</languageId><trName>lingala</trName></name>
+      <name><languageId>it</languageId><trName>lingala</trName></name>
+      <name><languageId>ja</languageId><trName>リンガラ語</trName></name>
+      <name><languageId>ka</languageId><trName>ლინგალა</trName></name>
+      <name><languageId>kk</languageId><trName>лингала</trName></name>
+      <name><languageId>km</languageId><trName>លីនកាឡា</trName></name>
+      <name><languageId>kn</languageId><trName>ಲಿಂಗಾಲ</trName></name>
+      <name><languageId>ko</languageId><trName>링갈라어</trName></name>
+      <name><languageId>kok</languageId><trName>लिंगाला</trName></name>
+      <name><languageId>ks</languageId><trName>لِنگالا</trName></name>
+      <name><languageId>ln</languageId><trName>lingála</trName></name>
+      <name><languageId>lo</languageId><trName>ລິງກາລາ</trName></name>
+      <name><languageId>lt</languageId><trName>lingala</trName></name>
+      <name><languageId>lv</languageId><trName>lingala</trName></name>
+      <name><languageId>mk</languageId><trName>лингала</trName></name>
+      <name><languageId>ml</languageId><trName>ലിംഗാല</trName></name>
+      <name><languageId>mn</languageId><trName>лингала</trName></name>
+      <name><languageId>mr</languageId><trName>लिंगाला</trName></name>
+      <name><languageId>ms</languageId><trName>Lingala</trName></name>
+      <name><languageId>mt</languageId><trName>Lingaljan</trName></name>
+      <name><languageId>nb</languageId><trName>lingala</trName></name>
+      <name><languageId>ne</languageId><trName>लिंगाला</trName></name>
+      <name><languageId>nl</languageId><trName>Lingala</trName></name>
+      <name><languageId>nn</languageId><trName>lingala</trName></name>
+      <name><languageId>or</languageId><trName>ଲିଙ୍ଗାଲା</trName></name>
+      <name><languageId>pl</languageId><trName>lingala</trName></name>
+      <name><languageId>pt</languageId><trName>lingala</trName></name>
+      <name><languageId>ro</languageId><trName>lingala</trName></name>
+      <name><languageId>ru</languageId><trName>лингала</trName></name>
+      <name><languageId>rw</languageId><trName>Ilingala</trName></name>
+      <name><languageId>sk</languageId><trName>lingalčina</trName></name>
+      <name><languageId>sl</languageId><trName>lingala</trName></name>
+      <name><languageId>so</languageId><trName>Lingala</trName></name>
+      <name><languageId>sq</languageId><trName>Lingala</trName></name>
+      <name><languageId>sr</languageId><trName>Лингала</trName></name>
+      <name><languageId>sr_Latn</languageId><trName>Lingala</trName></name>
+      <name><languageId>sv</languageId><trName>lingala</trName></name>
+      <name><languageId>sw</languageId><trName>Kilingala</trName></name>
+      <name><languageId>ta</languageId><trName>லிங்காலா</trName></name>
+      <name><languageId>te</languageId><trName>లింగాల</trName></name>
+      <name><languageId>th</languageId><trName>ลิงกาลา</trName></name>
+      <name><languageId>tig</languageId><trName>ሊንጋላኛ</trName></name>
+      <name><languageId>tr</languageId><trName>Lingala</trName></name>
+      <name><languageId>uk</languageId><trName>лінгала</trName></name>
+      <name><languageId>ur</languageId><trName>لِنگَلا</trName></name>
+      <name><languageId>vi</languageId><trName>Tiếng Lingala</trName></name>
+      <name><languageId>wae</languageId><trName>Lingala</trName></name>
+      <name><languageId>xh</languageId><trName>Iilwimi</trName></name>
+      <name><languageId>zh</languageId><trName>林加拉文</trName></name>
+      <name><languageId>zh_Hant</languageId><trName>林加拉文</trName></name>
+      <name><languageId>zu</languageId><trName>isi-Lingala</trName></name>
+    </names>
+    <locales>
+    </locales>
+    <territories>
+    </territories>
+    <keyboards>
+    </keyboards>
+    <consolefonts>
+    </consolefonts>
+    <timezones>
     </timezones>
   </language>
   <language>
@@ -12083,6 +12313,7 @@
       <name><languageId>ks</languageId><trName>مَلَے</trName></name>
       <name><languageId>ky</languageId><trName>малайча</trName></name>
       <name><languageId>lg</languageId><trName>Lumalayi</trName></name>
+      <name><languageId>ln</languageId><trName>limalezi</trName></name>
       <name><languageId>lo</languageId><trName>ເມລາຍ</trName></name>
       <name><languageId>lt</languageId><trName>malajiečių</trName></name>
       <name><languageId>lv</languageId><trName>malajiešu</trName></name>
@@ -12342,6 +12573,7 @@
       <name><languageId>ks</languageId><trName>بٔمیٖز</trName></name>
       <name><languageId>ky</languageId><trName>бурмача</trName></name>
       <name><languageId>lg</languageId><trName>Lubbama</trName></name>
+      <name><languageId>ln</languageId><trName>libilimá</trName></name>
       <name><languageId>lo</languageId><trName>ມຽນມ່າ</trName></name>
       <name><languageId>lt</languageId><trName>birmiečių</trName></name>
       <name><languageId>lv</languageId><trName>birmiešu</trName></name>
@@ -12699,6 +12931,7 @@
       <name><languageId>ks</languageId><trName>نیٚپٲلۍ</trName></name>
       <name><languageId>ky</languageId><trName>непалча</trName></name>
       <name><languageId>lg</languageId><trName>Lunepali</trName></name>
+      <name><languageId>ln</languageId><trName>linepalɛ</trName></name>
       <name><languageId>lo</languageId><trName>ເນປານ</trName></name>
       <name><languageId>lt</languageId><trName>nepalų</trName></name>
       <name><languageId>lv</languageId><trName>nepāliešu</trName></name>
@@ -12836,6 +13069,7 @@
       <name><languageId>kw</languageId><trName>Iseldiryek</trName></name>
       <name><languageId>ky</languageId><trName>голландча</trName></name>
       <name><languageId>lg</languageId><trName>Luholandi</trName></name>
+      <name><languageId>ln</languageId><trName>lifalamá</trName></name>
       <name><languageId>lo</languageId><trName>ດັດຣ</trName></name>
       <name><languageId>lt</languageId><trName>olandų</trName></name>
       <name><languageId>lv</languageId><trName>holandiešu</trName></name>
@@ -13850,6 +14084,7 @@
       <name><languageId>ks</languageId><trName>پَنجٲبۍ</trName></name>
       <name><languageId>ky</languageId><trName>пунжабиче</trName></name>
       <name><languageId>lg</languageId><trName>Lupunjabi</trName></name>
+      <name><languageId>ln</languageId><trName>lipendzabi</trName></name>
       <name><languageId>lo</languageId><trName>ປັນຈາບ</trName></name>
       <name><languageId>lt</languageId><trName>pendžabų</trName></name>
       <name><languageId>lv</languageId><trName>pandžabu</trName></name>
@@ -14074,6 +14309,7 @@
       <name><languageId>ks</languageId><trName>پالِش</trName></name>
       <name><languageId>ky</languageId><trName>полякча</trName></name>
       <name><languageId>lg</languageId><trName>Lupolandi</trName></name>
+      <name><languageId>ln</languageId><trName>lipolonɛ</trName></name>
       <name><languageId>lo</languageId><trName>ໂປໂລຍ</trName></name>
       <name><languageId>lt</languageId><trName>lenkų</trName></name>
       <name><languageId>lv</languageId><trName>poļu</trName></name>
@@ -14337,6 +14573,7 @@
       <name><languageId>kw</languageId><trName>Portyngalek</trName></name>
       <name><languageId>ky</languageId><trName>португалча</trName></name>
       <name><languageId>lg</languageId><trName>Lupotugiizi</trName></name>
+      <name><languageId>ln</languageId><trName>lipulutugɛ́si</trName></name>
       <name><languageId>lo</languageId><trName>ປອກຕຸຍການ</trName></name>
       <name><languageId>lt</languageId><trName>portugalų</trName></name>
       <name><languageId>lv</languageId><trName>portugāļu</trName></name>
@@ -14496,6 +14733,7 @@
       <name><languageId>ks</languageId><trName>رومٲنی</trName></name>
       <name><languageId>ky</languageId><trName>румынияча</trName></name>
       <name><languageId>lg</languageId><trName>Lulomaniya</trName></name>
+      <name><languageId>ln</languageId><trName>liromani</trName></name>
       <name><languageId>lo</languageId><trName>ໂຣມານີ</trName></name>
       <name><languageId>lt</languageId><trName>rumunų</trName></name>
       <name><languageId>lv</languageId><trName>rumāņu</trName></name>
@@ -14635,6 +14873,7 @@
       <name><languageId>kw</languageId><trName>Russek</trName></name>
       <name><languageId>ky</languageId><trName>орусча</trName></name>
       <name><languageId>lg</languageId><trName>Lulasa</trName></name>
+      <name><languageId>ln</languageId><trName>lirisí</trName></name>
       <name><languageId>lo</languageId><trName>ລັດເຊຍ</trName></name>
       <name><languageId>lt</languageId><trName>rusų</trName></name>
       <name><languageId>lv</languageId><trName>krievu</trName></name>
@@ -14781,6 +15020,7 @@
       <name><languageId>kok</languageId><trName>किन्यार्वान्डा</trName></name>
       <name><languageId>ks</languageId><trName>کِنیاوِندا</trName></name>
       <name><languageId>lg</languageId><trName>Lunarwanda</trName></name>
+      <name><languageId>ln</languageId><trName>kinyarwanda</trName></name>
       <name><languageId>lo</languageId><trName>ຄິນຢາວານດາ</trName></name>
       <name><languageId>lt</languageId><trName>kinjarvanda</trName></name>
       <name><languageId>lv</languageId><trName>kiņaruanda</trName></name>
@@ -15966,6 +16206,7 @@
       <name><languageId>ks</languageId><trName>سومٲلی</trName></name>
       <name><languageId>ky</languageId><trName>сомаличе</trName></name>
       <name><languageId>lg</languageId><trName>Lusomaliya</trName></name>
+      <name><languageId>ln</languageId><trName>lisomali</trName></name>
       <name><languageId>lo</languageId><trName>ໂຊມາລີ</trName></name>
       <name><languageId>lt</languageId><trName>somalių</trName></name>
       <name><languageId>lv</languageId><trName>somāļu</trName></name>
@@ -16641,6 +16882,7 @@
       <name><languageId>ks</languageId><trName>سویٖڈِش</trName></name>
       <name><languageId>ky</languageId><trName>шведче</trName></name>
       <name><languageId>lg</languageId><trName>Luswideni</trName></name>
+      <name><languageId>ln</languageId><trName>lisuwedɛ</trName></name>
       <name><languageId>lo</languageId><trName>ສະເວດດຣິດ</trName></name>
       <name><languageId>lt</languageId><trName>švedų</trName></name>
       <name><languageId>lv</languageId><trName>zviedru</trName></name>
@@ -16776,6 +17018,7 @@
       <name><languageId>kok</languageId><trName>स्वाहिली</trName></name>
       <name><languageId>ks</languageId><trName>سواہِلی</trName></name>
       <name><languageId>ky</languageId><trName>суахиличе</trName></name>
+      <name><languageId>ln</languageId><trName>kiswahíli</trName></name>
       <name><languageId>lo</languageId><trName>ຊວາຮີລີ</trName></name>
       <name><languageId>lt</languageId><trName>svahilių</trName></name>
       <name><languageId>lv</languageId><trName>svahili</trName></name>
@@ -16912,6 +17155,7 @@
       <name><languageId>ks</languageId><trName>تَمِل</trName></name>
       <name><languageId>ky</languageId><trName>тамилче</trName></name>
       <name><languageId>lg</languageId><trName>Lutamiiru</trName></name>
+      <name><languageId>ln</languageId><trName>litamuli</trName></name>
       <name><languageId>lo</languageId><trName>ທະມິນ</trName></name>
       <name><languageId>lt</languageId><trName>tamilų</trName></name>
       <name><languageId>lv</languageId><trName>tamilu</trName></name>
@@ -17296,6 +17540,7 @@
       <name><languageId>ks</languageId><trName>تھاے</trName></name>
       <name><languageId>ky</languageId><trName>тайча</trName></name>
       <name><languageId>lg</languageId><trName>Luttaayi</trName></name>
+      <name><languageId>ln</languageId><trName>litaye</trName></name>
       <name><languageId>lo</languageId><trName>ໄທ</trName></name>
       <name><languageId>lt</languageId><trName>tajų</trName></name>
       <name><languageId>lv</languageId><trName>taju</trName></name>
@@ -17967,6 +18212,7 @@
       <name><languageId>ks</languageId><trName>تُرکِش</trName></name>
       <name><languageId>ky</languageId><trName>туркчо</trName></name>
       <name><languageId>lg</languageId><trName>Lutake</trName></name>
+      <name><languageId>ln</languageId><trName>litiliki</trName></name>
       <name><languageId>lo</languageId><trName>ຕວກກີ</trName></name>
       <name><languageId>lt</languageId><trName>turkų</trName></name>
       <name><languageId>lv</languageId><trName>turku</trName></name>
@@ -18502,6 +18748,7 @@
       <name><languageId>ks</languageId><trName>یوٗکرینیٲیی</trName></name>
       <name><languageId>ky</languageId><trName>украинче</trName></name>
       <name><languageId>lg</languageId><trName>Luyukurayine</trName></name>
+      <name><languageId>ln</languageId><trName>likrɛni</trName></name>
       <name><languageId>lo</languageId><trName>ອູແກຣນ</trName></name>
       <name><languageId>lt</languageId><trName>ukrainiečių</trName></name>
       <name><languageId>lv</languageId><trName>ukraiņu</trName></name>
@@ -18668,6 +18915,7 @@
       <name><languageId>ks</languageId><trName>اُردوٗ</trName></name>
       <name><languageId>ky</languageId><trName>урдуча</trName></name>
       <name><languageId>lg</languageId><trName>Lu-urudu</trName></name>
+      <name><languageId>ln</languageId><trName>liurdu</trName></name>
       <name><languageId>lo</languageId><trName>ອູຣະດູ</trName></name>
       <name><languageId>lt</languageId><trName>urdų</trName></name>
       <name><languageId>lv</languageId><trName>urdu</trName></name>
@@ -19034,6 +19282,7 @@
       <name><languageId>ks</languageId><trName>وِیَتنَمیٖز</trName></name>
       <name><languageId>ky</languageId><trName>вьетнамча</trName></name>
       <name><languageId>lg</languageId><trName>Luvyetinaamu</trName></name>
+      <name><languageId>ln</languageId><trName>liviyetinámi</trName></name>
       <name><languageId>lo</languageId><trName>ຫວຽດນາມ</trName></name>
       <name><languageId>lt</languageId><trName>vietnamiečių</trName></name>
       <name><languageId>lv</languageId><trName>vjetnamiešu</trName></name>
@@ -19783,6 +20032,7 @@
       <name><languageId>ks</languageId><trName>یورُبا</trName></name>
       <name><languageId>ky</languageId><trName>йорубача</trName></name>
       <name><languageId>lg</languageId><trName>Luyoruba</trName></name>
+      <name><languageId>ln</languageId><trName>yoruba</trName></name>
       <name><languageId>lo</languageId><trName>ໂຢລູບາ</trName></name>
       <name><languageId>lt</languageId><trName>jorubų</trName></name>
       <name><languageId>lv</languageId><trName>jorubu</trName></name>
@@ -20001,6 +20251,7 @@
       <name><languageId>kw</languageId><trName>Chinek</trName></name>
       <name><languageId>ky</languageId><trName>кытайча</trName></name>
       <name><languageId>lg</languageId><trName>Lucayina</trName></name>
+      <name><languageId>ln</languageId><trName>lisinwa</trName></name>
       <name><languageId>lo</languageId><trName>ຈີນ</trName></name>
       <name><languageId>lt</languageId><trName>kinų</trName></name>
       <name><languageId>lv</languageId><trName>ķīniešu</trName></name>
@@ -20520,6 +20771,7 @@
       <name><languageId>ks</languageId><trName>زُلوٗ</trName></name>
       <name><languageId>ky</languageId><trName>зулуча</trName></name>
       <name><languageId>lg</languageId><trName>Luzzulu</trName></name>
+      <name><languageId>ln</languageId><trName>zulu</trName></name>
       <name><languageId>lo</languageId><trName>ຊູລູ</trName></name>
       <name><languageId>lt</languageId><trName>zulų</trName></name>
       <name><languageId>lv</languageId><trName>zulu</trName></name>
