@@ -13554,6 +13554,131 @@
     </timezones>
   </territory>
   <territory>
+    <territoryId>PG</territoryId>
+    <names>
+      <name><languageId>af</languageId><trName>Papoea-Nieu-Guinee</trName></name>
+      <name><languageId>ak</languageId><trName>Papua Guinea Foforo</trName></name>
+      <name><languageId>am</languageId><trName>ፓፑዋ ኒው ጊኒ</trName></name>
+      <name><languageId>ar</languageId><trName>بابوا غينيا الجديدة</trName></name>
+      <name><languageId>ast</languageId><trName>Papúa Nueva Guinea</trName></name>
+      <name><languageId>az</languageId><trName>Papua Yeni Qvineya</trName></name>
+      <name><languageId>be</languageId><trName>Папуа — Новая Гвінея</trName></name>
+      <name><languageId>bg</languageId><trName>Папуа Нова Гвинея</trName></name>
+      <name><languageId>bn</languageId><trName>পাপুয়া নিউ গিনি</trName></name>
+      <name><languageId>bo</languageId><trName>པ་པུ་ཨ། ནིའུ། གྷི་ནི།</trName></name>
+      <name><languageId>br</languageId><trName>Papoua Ginea-Nevez</trName></name>
+      <name><languageId>brx</languageId><trName>पापुआ न्यू गिनी</trName></name>
+      <name><languageId>bs</languageId><trName>Papua Nova Gvineja</trName></name>
+      <name><languageId>byn</languageId><trName>ፓፑዋ ኒው ጊኒ</trName></name>
+      <name><languageId>ca</languageId><trName>Papua Nova Guinea</trName></name>
+      <name><languageId>cs</languageId><trName>Papua-Nová Guinea</trName></name>
+      <name><languageId>cy</languageId><trName>Papua Guinea Newydd</trName></name>
+      <name><languageId>da</languageId><trName>Papua Ny Guinea</trName></name>
+      <name><languageId>de</languageId><trName>Papua-Neuguinea</trName></name>
+      <name><languageId>dz</languageId><trName>པ་པུ་ ནིའུ་གི་ནི</trName></name>
+      <name><languageId>el</languageId><trName>Παπούα Νέα Γουινέα</trName></name>
+      <name><languageId>en</languageId><trName>Papua New Guinea</trName></name>
+      <name><languageId>eo</languageId><trName>Papuo-Nov-Gvineo</trName></name>
+      <name><languageId>es</languageId><trName>Papúa Nueva Guinea</trName></name>
+      <name><languageId>et</languageId><trName>Paapua Uus-Guinea</trName></name>
+      <name><languageId>eu</languageId><trName>Papua Ginea Berria</trName></name>
+      <name><languageId>fa</languageId><trName>پاپوا گینهٔ نو</trName></name>
+      <name><languageId>ff</languageId><trName>Papuwaa Nuwel Gine</trName></name>
+      <name><languageId>fi</languageId><trName>Papua-Uusi-Guinea</trName></name>
+      <name><languageId>fil</languageId><trName>Papua New Guinea</trName></name>
+      <name><languageId>fo</languageId><trName>Papua Nýguinea</trName></name>
+      <name><languageId>fr</languageId><trName>Papouasie-Nouvelle-Guinée</trName></name>
+      <name><languageId>fur</languageId><trName>Papue Gnove Guinee</trName></name>
+      <name><languageId>ga</languageId><trName>Nua-Ghuine Phapua</trName></name>
+      <name><languageId>gd</languageId><trName>Gini Nuadh Phaputhach</trName></name>
+      <name><languageId>gl</languageId><trName>Papúa Nova Guinea</trName></name>
+      <name><languageId>gu</languageId><trName>પાપુઆ ન્યૂ ગિની</trName></name>
+      <name><languageId>ha</languageId><trName>Papuwa Nugini</trName></name>
+      <name><languageId>he</languageId><trName>פפואה גיניאה החדשה</trName></name>
+      <name><languageId>hi</languageId><trName>पापुआ न्यू गिनी</trName></name>
+      <name><languageId>hr</languageId><trName>Papua Nova Gvineja</trName></name>
+      <name><languageId>hu</languageId><trName>Pápua Új-Guinea</trName></name>
+      <name><languageId>hy</languageId><trName>Պապուա Նոր Գվինեա</trName></name>
+      <name><languageId>ia</languageId><trName>Papua Nove Guinea</trName></name>
+      <name><languageId>id</languageId><trName>Papua Nugini</trName></name>
+      <name><languageId>is</languageId><trName>Papúa Nýja-Gínea</trName></name>
+      <name><languageId>it</languageId><trName>Papua Nuova Guinea</trName></name>
+      <name><languageId>ja</languageId><trName>パプアニューギニア</trName></name>
+      <name><languageId>ka</languageId><trName>პაპუა-ახალი გვინეა</trName></name>
+      <name><languageId>kk</languageId><trName>Папуа — Жаңа Гвинея</trName></name>
+      <name><languageId>kl</languageId><trName>Papua Nutaaq Guinea</trName></name>
+      <name><languageId>km</languageId><trName>ប៉ាពូអានូវែលហ្គីណេ</trName></name>
+      <name><languageId>kn</languageId><trName>ಪಪುವಾ ನ್ಯೂಗೀನಿಯಾ</trName></name>
+      <name><languageId>ko</languageId><trName>파푸아뉴기니</trName></name>
+      <name><languageId>ks</languageId><trName>پاپُوا نیوٗ گیٖنی</trName></name>
+      <name><languageId>ky</languageId><trName>Папуа Жаӊы Гине</trName></name>
+      <name><languageId>lg</languageId><trName>Papwa Nyugini</trName></name>
+      <name><languageId>ln</languageId><trName>Papwazi Ginɛ ya sika</trName></name>
+      <name><languageId>lo</languageId><trName>ປາປົວນິວກີນີ</trName></name>
+      <name><languageId>lt</languageId><trName>Papua Naujoji Gvinėja</trName></name>
+      <name><languageId>lv</languageId><trName>Papua-Jaungvineja</trName></name>
+      <name><languageId>mg</languageId><trName>Papouasie-Nouvelle-Guinée</trName></name>
+      <name><languageId>mk</languageId><trName>Папуа Нова Гвинеја</trName></name>
+      <name><languageId>ml</languageId><trName>പപ്പുവ ന്യൂ ഗ്വിനി</trName></name>
+      <name><languageId>mn</languageId><trName>Папуа Шинэ Гвиней</trName></name>
+      <name><languageId>mr</languageId><trName>पापुआ न्यू गिनी</trName></name>
+      <name><languageId>ms</languageId><trName>Papua New Guinea</trName></name>
+      <name><languageId>mt</languageId><trName>Papwa-Ginea Ġdida</trName></name>
+      <name><languageId>my</languageId><trName>ပါပူရာနယူးဂီနီ</trName></name>
+      <name><languageId>nb</languageId><trName>Papua Ny-Guinea</trName></name>
+      <name><languageId>ne</languageId><trName>पपुआ न्यू गाइनिया</trName></name>
+      <name><languageId>nl</languageId><trName>Papoea-Nieuw-Guinea</trName></name>
+      <name><languageId>nn</languageId><trName>Papua Ny-Guinea</trName></name>
+      <name><languageId>or</languageId><trName>ପପୁଆ ନ୍ୟୁ ଗୁଏନିଆ</trName></name>
+      <name><languageId>pa</languageId><trName>ਪਾਪੂਆ ਨਿਊ ਗਿਨੀ</trName></name>
+      <name><languageId>pl</languageId><trName>Papua-Nowa Gwinea</trName></name>
+      <name><languageId>pt</languageId><trName>Papua-Nova Guiné</trName></name>
+      <name><languageId>ro</languageId><trName>Papua-Noua Guinee</trName></name>
+      <name><languageId>ru</languageId><trName>Папуа – Новая Гвинея</trName></name>
+      <name><languageId>se</languageId><trName>Papua-Ođđa-Guinea</trName></name>
+      <name><languageId>si</languageId><trName>පැපුවා නිව් ගිනියාව</trName></name>
+      <name><languageId>sk</languageId><trName>Papua Nová Guinea</trName></name>
+      <name><languageId>sl</languageId><trName>Papua Nova Gvineja</trName></name>
+      <name><languageId>so</languageId><trName>Papua New Guinea</trName></name>
+      <name><languageId>sq</languageId><trName>Papua Guineja e Re</trName></name>
+      <name><languageId>sr</languageId><trName>Папуа Нова Гвинеја</trName></name>
+      <name><languageId>sr_Latn</languageId><trName>Papua Nova Gvineja</trName></name>
+      <name><languageId>sv</languageId><trName>Papua Nya Guinea</trName></name>
+      <name><languageId>sw</languageId><trName>Papua</trName></name>
+      <name><languageId>ta</languageId><trName>பாப்புவா நியூ கினி</trName></name>
+      <name><languageId>te</languageId><trName>పాపువా న్యు గినియా</trName></name>
+      <name><languageId>th</languageId><trName>ปาปัวนิวกินี</trName></name>
+      <name><languageId>ti</languageId><trName>ፓፑዋ ኒው ጊኒ</trName></name>
+      <name><languageId>tig</languageId><trName>ፓፑዋ ኒው ጊኒ</trName></name>
+      <name><languageId>tr</languageId><trName>Papua Yeni Gine</trName></name>
+      <name><languageId>uk</languageId><trName>Папуа Нова Гвінея</trName></name>
+      <name><languageId>ur</languageId><trName>پاپوآ نیو گنی</trName></name>
+      <name><languageId>uz</languageId><trName>Папуа Янги Гвинея</trName></name>
+      <name><languageId>vi</languageId><trName>Papua New Guinea</trName></name>
+      <name><languageId>wae</languageId><trName>Papua Niwginea</trName></name>
+      <name><languageId>wal</languageId><trName>ፓፑዋ ኒው ጊኒ</trName></name>
+      <name><languageId>yo</languageId><trName>Orílẹ́ède Paapu ti Giini</trName></name>
+      <name><languageId>zh</languageId><trName>巴布亚新几内亚</trName></name>
+      <name><languageId>zh_Hant</languageId><trName>巴布亞紐幾內亞</trName></name>
+      <name><languageId>zu</languageId><trName>i-Papua New Guinea</trName></name>
+    </names>
+    <locales>
+    </locales>
+    <languages>
+      <language><languageId>tpi</languageId><rank>600</rank></language>
+      <language><languageId>en</languageId><rank>400</rank></language>
+    </languages>
+    <keyboards>
+      <keyboard><keyboardId>us</keyboardId><rank>1000</rank></keyboard>
+    </keyboards>
+    <consolefonts>
+      <consolefont><consolefontId>latarcyrheb-sun16</consolefontId><rank>1000</rank></consolefont>
+    </consolefonts>
+    <timezones>
+      <timezone><timezoneId>Pacific/Port_Moresby</timezoneId><rank>1000</rank></timezone>
+    </timezones>
+  </territory>
+  <territory>
     <territoryId>PH</territoryId>
     <names>
       <name><languageId>af</languageId><trName>Filippyne</trName></name>

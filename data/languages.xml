@@ -18642,6 +18642,98 @@
     </timezones>
   </language>
   <language>
+    <languageId>tpi</languageId>
+    <iso639-1>None</iso639-1>
+    <iso639-2-t>tpi</iso639-2-t>
+    <iso639-2-b>tpi</iso639-2-b>
+    <names>
+      <name><languageId>af</languageId><trName>Tok Pisin</trName></name>
+      <name><languageId>am</languageId><trName>ቶክ ፒሲን</trName></name>
+      <name><languageId>ar</languageId><trName>التوك بيسين</trName></name>
+      <name><languageId>az</languageId><trName>tok pisin dili</trName></name>
+      <name><languageId>bg</languageId><trName>ток писин</trName></name>
+      <name><languageId>bn</languageId><trName>টোক পিসিন</trName></name>
+      <name><languageId>br</languageId><trName>tok pisin</trName></name>
+      <name><languageId>brx</languageId><trName>तोक पिसीन</trName></name>
+      <name><languageId>bs</languageId><trName>tok pisin</trName></name>
+      <name><languageId>ca</languageId><trName>tok pisin</trName></name>
+      <name><languageId>cs</languageId><trName>tok pisin</trName></name>
+      <name><languageId>da</languageId><trName>tok pisin</trName></name>
+      <name><languageId>de</languageId><trName>Neumelanesisch</trName></name>
+      <name><languageId>el</languageId><trName>Τοκ Πισίν</trName></name>
+      <name><languageId>en</languageId><trName>Tok Pisin</trName></name>
+      <name><languageId>es</languageId><trName>tok pisin</trName></name>
+      <name><languageId>et</languageId><trName>uusmelaneesia</trName></name>
+      <name><languageId>eu</languageId><trName>tok pisina</trName></name>
+      <name><languageId>fa</languageId><trName>توک‌پیسینی</trName></name>
+      <name><languageId>fi</languageId><trName>tok-pisin</trName></name>
+      <name><languageId>fil</languageId><trName>Tok Pisin</trName></name>
+      <name><languageId>fo</languageId><trName>tok pisin</trName></name>
+      <name><languageId>fr</languageId><trName>tok pisin</trName></name>
+      <name><languageId>gd</languageId><trName>Tok Pisin</trName></name>
+      <name><languageId>gl</languageId><trName>tok pisin</trName></name>
+      <name><languageId>gu</languageId><trName>ટોક પિસિન</trName></name>
+      <name><languageId>he</languageId><trName>טוק פיסין</trName></name>
+      <name><languageId>hi</languageId><trName>टोक पिसिन</trName></name>
+      <name><languageId>hr</languageId><trName>tok pisin</trName></name>
+      <name><languageId>hu</languageId><trName>tok pisin</trName></name>
+      <name><languageId>id</languageId><trName>Tok Pisin</trName></name>
+      <name><languageId>is</languageId><trName>tokpisin</trName></name>
+      <name><languageId>it</languageId><trName>tok pisin</trName></name>
+      <name><languageId>ja</languageId><trName>トク・ピシン語</trName></name>
+      <name><languageId>kn</languageId><trName>ಟೋಕ್ ಪಿಸಿನ್</trName></name>
+      <name><languageId>ko</languageId><trName>토크 피신어</trName></name>
+      <name><languageId>ks</languageId><trName>ٹاک پِسِن</trName></name>
+      <name><languageId>lo</languageId><trName>ທອກພີຊິນ</trName></name>
+      <name><languageId>lt</languageId><trName>tok pisin</trName></name>
+      <name><languageId>lv</languageId><trName>tokpisins</trName></name>
+      <name><languageId>mk</languageId><trName>ток писин</trName></name>
+      <name><languageId>ml</languageId><trName>ടോക് പിസിൻ</trName></name>
+      <name><languageId>mr</languageId><trName>टोक पिसिन</trName></name>
+      <name><languageId>ms</languageId><trName>Tok Pisin</trName></name>
+      <name><languageId>mt</languageId><trName>Tok Pisin</trName></name>
+      <name><languageId>nb</languageId><trName>tok pisin</trName></name>
+      <name><languageId>nl</languageId><trName>Tok Pisin</trName></name>
+      <name><languageId>nn</languageId><trName>tok pisin</trName></name>
+      <name><languageId>or</languageId><trName>ଟୋକ୍ ପିସିନ୍</trName></name>
+      <name><languageId>pl</languageId><trName>tok pisin</trName></name>
+      <name><languageId>pt</languageId><trName>tok pisin</trName></name>
+      <name><languageId>ro</languageId><trName>tok pisin</trName></name>
+      <name><languageId>ru</languageId><trName>ток-писин</trName></name>
+      <name><languageId>sk</languageId><trName>tok pisin</trName></name>
+      <name><languageId>sl</languageId><trName>tok pisin</trName></name>
+      <name><languageId>sr</languageId><trName>Ток Писин</trName></name>
+      <name><languageId>sr_Latn</languageId><trName>Tok Pisin</trName></name>
+      <name><languageId>sv</languageId><trName>tok pisin</trName></name>
+      <name><languageId>sw</languageId><trName>Kitokpisin</trName></name>
+      <name><languageId>ta</languageId><trName>டோக் பிஸின்</trName></name>
+      <name><languageId>te</languageId><trName>టోక్ పిసిన్</trName></name>
+      <name><languageId>th</languageId><trName>ท็อกพิซิน</trName></name>
+      <name><languageId>tr</languageId><trName>Tok Pisin</trName></name>
+      <name><languageId>uk</languageId><trName>ток-пісін</trName></name>
+      <name><languageId>ur</languageId><trName>ٹوک پِسِن</trName></name>
+      <name><languageId>vi</languageId><trName>Tiếng Tok Pisin</trName></name>
+      <name><languageId>wae</languageId><trName>Niwmelanesiš</trName></name>
+      <name><languageId>zh</languageId><trName>托克皮辛文</trName></name>
+      <name><languageId>zh_Hant</languageId><trName>托比辛文</trName></name>
+      <name><languageId>zu</languageId><trName>isi-Tok Pisin</trName></name>
+    </names>
+    <locales>
+    </locales>
+    <territories>
+      <territory><territoryId>PG</territoryId><rank>1000</rank></territory>
+    </territories>
+    <keyboards>
+      <keyboard><keyboardId>us</keyboardId><rank>1000</rank></keyboard>
+    </keyboards>
+    <consolefonts>
+      <consolefont><consolefontId>latarcyrheb-sun16</consolefontId><rank>1000</rank></consolefont>
+    </consolefonts>
+    <timezones>
+      <timezone><timezoneId>Pacific/Port_Moresby</timezoneId><rank>1000</rank></timezone>
+    </timezones>
+  </language>
+  <language>
     <languageId>tr</languageId>
     <iso639-1>tr</iso639-1>
     <iso639-2-t>tur</iso639-2-t>
