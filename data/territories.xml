@@ -16456,6 +16456,127 @@
     </timezones>
   </territory>
   <territory>
+    <territoryId>TL</territoryId>
+    <names>
+      <name><languageId>af</languageId><trName>Oos-Timor</trName></name>
+      <name><languageId>ak</languageId><trName>Timɔ Boka</trName></name>
+      <name><languageId>am</languageId><trName>ምስራቅ ቲሞር</trName></name>
+      <name><languageId>ar</languageId><trName>تيمور الشرقية</trName></name>
+      <name><languageId>ast</languageId><trName>Timor Este</trName></name>
+      <name><languageId>az</languageId><trName>Doğu Timor</trName></name>
+      <name><languageId>be</languageId><trName>Усходні Тымор</trName></name>
+      <name><languageId>bg</languageId><trName>Източен Тимор</trName></name>
+      <name><languageId>bn</languageId><trName>পূর্ব টিমোর</trName></name>
+      <name><languageId>br</languageId><trName>Timor ar Reter</trName></name>
+      <name><languageId>brx</languageId><trName>पूर्वी तिमोर</trName></name>
+      <name><languageId>bs</languageId><trName>Istočni Timor</trName></name>
+      <name><languageId>byn</languageId><trName>ምስራቅ ቲሞር</trName></name>
+      <name><languageId>ca</languageId><trName>Timor Oriental</trName></name>
+      <name><languageId>cs</languageId><trName>Východní Timor</trName></name>
+      <name><languageId>cy</languageId><trName>Dwyrain Timor</trName></name>
+      <name><languageId>da</languageId><trName>Østtimor</trName></name>
+      <name><languageId>de</languageId><trName>Osttimor</trName></name>
+      <name><languageId>dz</languageId><trName>ཤར་ཕྱོགས་ཏི་་མོར</trName></name>
+      <name><languageId>el</languageId><trName>Ανατολικό Τιμόρ</trName></name>
+      <name><languageId>en</languageId><trName>East Timor</trName></name>
+      <name><languageId>es</languageId><trName>Timor Oriental</trName></name>
+      <name><languageId>et</languageId><trName>Ida-Timor</trName></name>
+      <name><languageId>eu</languageId><trName>Timor ekialdea</trName></name>
+      <name><languageId>fa</languageId><trName>تیمور شرقی</trName></name>
+      <name><languageId>ff</languageId><trName>Timoor Fuɗnaange</trName></name>
+      <name><languageId>fi</languageId><trName>Timor-Leste</trName></name>
+      <name><languageId>fil</languageId><trName>East Timor</trName></name>
+      <name><languageId>fo</languageId><trName>Eystur-Timor</trName></name>
+      <name><languageId>fr</languageId><trName>Timor oriental</trName></name>
+      <name><languageId>fur</languageId><trName>Timor orientâl</trName></name>
+      <name><languageId>ga</languageId><trName>Tíomór Thoir</trName></name>
+      <name><languageId>gd</languageId><trName>Tìomor an Ear</trName></name>
+      <name><languageId>gl</languageId><trName>Timor Leste</trName></name>
+      <name><languageId>gu</languageId><trName>પૂર્વ તિમોર</trName></name>
+      <name><languageId>ha</languageId><trName>Timor Ta Gabas</trName></name>
+      <name><languageId>he</languageId><trName>מזרח טימור</trName></name>
+      <name><languageId>hi</languageId><trName>पूर्वी तिमोर</trName></name>
+      <name><languageId>hr</languageId><trName>Istočni Timor</trName></name>
+      <name><languageId>hu</languageId><trName>Kelet-Timor</trName></name>
+      <name><languageId>hy</languageId><trName>Արևելյան Թիմոր</trName></name>
+      <name><languageId>ia</languageId><trName>Timor del Est</trName></name>
+      <name><languageId>id</languageId><trName>Timor Leste</trName></name>
+      <name><languageId>is</languageId><trName>Austur-Tímor</trName></name>
+      <name><languageId>it</languageId><trName>Timor Est</trName></name>
+      <name><languageId>ja</languageId><trName>東ティモール</trName></name>
+      <name><languageId>ka</languageId><trName>აღმოსავლეთი ტიმორი</trName></name>
+      <name><languageId>kk</languageId><trName>Шығыс Тимор</trName></name>
+      <name><languageId>kl</languageId><trName>Timor Kangilliit</trName></name>
+      <name><languageId>km</languageId><trName>ទីម័រ​ខាង​កើត</trName></name>
+      <name><languageId>kn</languageId><trName>ಈಸ್ಟ್ ಟಿಮೋರ್</trName></name>
+      <name><languageId>ko</languageId><trName>동티모르</trName></name>
+      <name><languageId>ks</languageId><trName>مَشرِقی تایمور</trName></name>
+      <name><languageId>ky</languageId><trName>Чыгыш Тимор</trName></name>
+      <name><languageId>lg</languageId><trName>Timowa</trName></name>
+      <name><languageId>ln</languageId><trName>Timor ya monyɛlɛ</trName></name>
+      <name><languageId>lo</languageId><trName>ທິມໍ ຕາເວັນອອກ</trName></name>
+      <name><languageId>lt</languageId><trName>Rytų Timoras</trName></name>
+      <name><languageId>lv</languageId><trName>Austrumtimora</trName></name>
+      <name><languageId>mg</languageId><trName>Timor Atsinanana</trName></name>
+      <name><languageId>mk</languageId><trName>Источен Тимор</trName></name>
+      <name><languageId>ml</languageId><trName>കിഴക്കൻ തിമോർ</trName></name>
+      <name><languageId>mn</languageId><trName>Зүүн Тимор</trName></name>
+      <name><languageId>mr</languageId><trName>पूर्व तिमोर</trName></name>
+      <name><languageId>ms</languageId><trName>Timor Timur</trName></name>
+      <name><languageId>mt</languageId><trName>Timor tal-Lvant</trName></name>
+      <name><languageId>my</languageId><trName>အရှေ့တီမော</trName></name>
+      <name><languageId>nb</languageId><trName>Øst-Timor</trName></name>
+      <name><languageId>ne</languageId><trName>पृर्वी टीमोर</trName></name>
+      <name><languageId>nl</languageId><trName>Oost-Timor</trName></name>
+      <name><languageId>nn</languageId><trName>Aust-Timor</trName></name>
+      <name><languageId>or</languageId><trName>ପୁର୍ବ ତିମୋର୍</trName></name>
+      <name><languageId>pa</languageId><trName>ਪੂਰਬੀ ਟੀਮੁਰ</trName></name>
+      <name><languageId>pl</languageId><trName>Timor Wschodni</trName></name>
+      <name><languageId>pt</languageId><trName>Timor-Leste</trName></name>
+      <name><languageId>ro</languageId><trName>Timorul de Est</trName></name>
+      <name><languageId>ru</languageId><trName>Восточный Тимор</trName></name>
+      <name><languageId>se</languageId><trName>Nuorta-Timor</trName></name>
+      <name><languageId>si</languageId><trName>නැගෙනහිර ටිමෝරය</trName></name>
+      <name><languageId>sk</languageId><trName>Východný Timor</trName></name>
+      <name><languageId>sl</languageId><trName>Vzhodni Timor</trName></name>
+      <name><languageId>so</languageId><trName>Timorka bari</trName></name>
+      <name><languageId>sq</languageId><trName>Timori Lindor</trName></name>
+      <name><languageId>sr</languageId><trName>Источни Тимор</trName></name>
+      <name><languageId>sr_Latn</languageId><trName>Istočni Timor</trName></name>
+      <name><languageId>sv</languageId><trName>Östtimor</trName></name>
+      <name><languageId>sw</languageId><trName>Timor ya Mashariki</trName></name>
+      <name><languageId>ta</languageId><trName>கிழக்கு தைமோர்</trName></name>
+      <name><languageId>te</languageId><trName>తూర్పు తైమూర్</trName></name>
+      <name><languageId>th</languageId><trName>ติมอร์ตะวันออก</trName></name>
+      <name><languageId>ti</languageId><trName>ምስራቅ ቲሞር</trName></name>
+      <name><languageId>tig</languageId><trName>ምስራቅ ቲሞር</trName></name>
+      <name><languageId>tr</languageId><trName>Doğu Timor</trName></name>
+      <name><languageId>uk</languageId><trName>Східний Тімор</trName></name>
+      <name><languageId>ur</languageId><trName>مشرقی تیمور</trName></name>
+      <name><languageId>uz</languageId><trName>Шарқий Тимор</trName></name>
+      <name><languageId>vi</languageId><trName>Đông Timor</trName></name>
+      <name><languageId>wae</languageId><trName>Wešttimor</trName></name>
+      <name><languageId>wal</languageId><trName>ምስራቅ ቲሞር</trName></name>
+      <name><languageId>yo</languageId><trName>Orílẹ́ède ÌlàOòrùn Tímọ̀</trName></name>
+      <name><languageId>zh</languageId><trName>东帝汶</trName></name>
+      <name><languageId>zh_Hant</languageId><trName>東帝汶</trName></name>
+      <name><languageId>zu</languageId><trName>i-East Timor</trName></name>
+    </names>
+    <locales>
+    </locales>
+    <languages>
+    </languages>
+    <keyboards>
+      <keyboard><keyboardId>us(altgr-intl)</keyboardId><rank>50</rank></keyboard>
+    </keyboards>
+    <consolefonts>
+      <consolefont><consolefontId>latarcyrheb-sun16</consolefontId><rank>1000</rank></consolefont>
+    </consolefonts>
+    <timezones>
+      <timezone><timezoneId>Asia/Dili</timezoneId><rank>1000</rank></timezone>
+    </timezones>
+  </territory>
+  <territory>
     <territoryId>TM</territoryId>
     <names>
       <name><languageId>af</languageId><trName>Turkmenië</trName></name>
