@@ -591,6 +591,7 @@
       <name><languageId>gl</languageId><trName>árabe</trName></name>
       <name><languageId>gu</languageId><trName>અરબી</trName></name>
       <name><languageId>ha</languageId><trName>Larabci</trName></name>
+      <name><languageId>haw</languageId><trName>ʻAlapia</trName></name>
       <name><languageId>he</languageId><trName>ערבית</trName></name>
       <name><languageId>hi</languageId><trName>अरबी</trName></name>
       <name><languageId>hr</languageId><trName>arapski</trName></name>
@@ -2923,6 +2924,7 @@
       <name><languageId>gl</languageId><trName>galés</trName></name>
       <name><languageId>gu</languageId><trName>વેલ્શ</trName></name>
       <name><languageId>ha</languageId><trName>Kabilar Welsh</trName></name>
+      <name><languageId>haw</languageId><trName>Wale</trName></name>
       <name><languageId>he</languageId><trName>וולשית</trName></name>
       <name><languageId>hi</languageId><trName>वेल्श</trName></name>
       <name><languageId>hr</languageId><trName>velški</trName></name>
@@ -3052,6 +3054,7 @@
       <name><languageId>gl</languageId><trName>dinamarqués</trName></name>
       <name><languageId>gu</languageId><trName>ડેનિશ</trName></name>
       <name><languageId>ha</languageId><trName>Danish</trName></name>
+      <name><languageId>haw</languageId><trName>Kenemaka</trName></name>
       <name><languageId>he</languageId><trName>דנית</trName></name>
       <name><languageId>hi</languageId><trName>डेनिश</trName></name>
       <name><languageId>hr</languageId><trName>danski</trName></name>
@@ -3188,6 +3191,7 @@
       <name><languageId>gl</languageId><trName>alemán</trName></name>
       <name><languageId>gu</languageId><trName>જર્મન</trName></name>
       <name><languageId>ha</languageId><trName>Jamusanci</trName></name>
+      <name><languageId>haw</languageId><trName>Kelemānia</trName></name>
       <name><languageId>he</languageId><trName>גרמנית</trName></name>
       <name><languageId>hi</languageId><trName>जर्मन</trName></name>
       <name><languageId>hr</languageId><trName>njemački</trName></name>
@@ -3713,6 +3717,7 @@
       <name><languageId>gl</languageId><trName>grego</trName></name>
       <name><languageId>gu</languageId><trName>ગ્રીક</trName></name>
       <name><languageId>ha</languageId><trName>Girkanci</trName></name>
+      <name><languageId>haw</languageId><trName>Helene</trName></name>
       <name><languageId>he</languageId><trName>יוונית</trName></name>
       <name><languageId>hi</languageId><trName>यूनानी</trName></name>
       <name><languageId>hr</languageId><trName>grčki</trName></name>
@@ -3854,6 +3859,7 @@
       <name><languageId>gl</languageId><trName>inglés</trName></name>
       <name><languageId>gu</languageId><trName>અંગ્રેજી</trName></name>
       <name><languageId>ha</languageId><trName>Turanci</trName></name>
+      <name><languageId>haw</languageId><trName>Pelekānia</trName></name>
       <name><languageId>he</languageId><trName>אנגלית</trName></name>
       <name><languageId>hi</languageId><trName>अंग्रेज़ी</trName></name>
       <name><languageId>hr</languageId><trName>engleski</trName></name>
@@ -4212,6 +4218,7 @@
       <name><languageId>gl</languageId><trName>español</trName></name>
       <name><languageId>gu</languageId><trName>સ્પેનિશ</trName></name>
       <name><languageId>ha</languageId><trName>Ispaniyanci</trName></name>
+      <name><languageId>haw</languageId><trName>Paniolo</trName></name>
       <name><languageId>he</languageId><trName>ספרדית</trName></name>
       <name><languageId>hi</languageId><trName>स्पेनी</trName></name>
       <name><languageId>hr</languageId><trName>španjolski</trName></name>
@@ -5200,6 +5207,7 @@
       <name><languageId>gd</languageId><trName>Fìdis</trName></name>
       <name><languageId>gl</languageId><trName>fixiano</trName></name>
       <name><languageId>gu</languageId><trName>ફિજીયન</trName></name>
+      <name><languageId>haw</languageId><trName>Pīkī</trName></name>
       <name><languageId>he</languageId><trName>פיג׳ית</trName></name>
       <name><languageId>hi</languageId><trName>फ़ीजी</trName></name>
       <name><languageId>hr</languageId><trName>fidžijski</trName></name>
@@ -5450,6 +5458,7 @@
       <name><languageId>gl</languageId><trName>francés</trName></name>
       <name><languageId>gu</languageId><trName>ફ્રેન્ચ</trName></name>
       <name><languageId>ha</languageId><trName>Faransanci</trName></name>
+      <name><languageId>haw</languageId><trName>Palani</trName></name>
       <name><languageId>he</languageId><trName>צרפתית</trName></name>
       <name><languageId>hi</languageId><trName>फ़्रांसीसी</trName></name>
       <name><languageId>hr</languageId><trName>francuski</trName></name>
@@ -5819,6 +5828,7 @@
       <name><languageId>gl</languageId><trName>irlandés</trName></name>
       <name><languageId>gu</languageId><trName>આઇરિશ</trName></name>
       <name><languageId>ha</languageId><trName>Dan Ailan</trName></name>
+      <name><languageId>haw</languageId><trName>ʻAiliki</trName></name>
       <name><languageId>he</languageId><trName>אירית</trName></name>
       <name><languageId>hi</languageId><trName>आइरिश</trName></name>
       <name><languageId>hr</languageId><trName>irski</trName></name>
@@ -6678,6 +6688,116 @@
     </timezones>
   </language>
   <language>
+    <languageId>haw</languageId>
+    <iso639-1>None</iso639-1>
+    <iso639-2-t>haw</iso639-2-t>
+    <iso639-2-b>haw</iso639-2-b>
+    <names>
+      <name><languageId>af</languageId><trName>Hawaiies</trName></name>
+      <name><languageId>am</languageId><trName>ሃዊያኛ</trName></name>
+      <name><languageId>ar</languageId><trName>لغة أهل الهاواي</trName></name>
+      <name><languageId>ast</languageId><trName>ḥawaianu</trName></name>
+      <name><languageId>az</languageId><trName>havay</trName></name>
+      <name><languageId>bg</languageId><trName>хавайски</trName></name>
+      <name><languageId>bn</languageId><trName>হাওয়াইয়ান</trName></name>
+      <name><languageId>br</languageId><trName>hawaieg</trName></name>
+      <name><languageId>brx</languageId><trName>हवाईअन</trName></name>
+      <name><languageId>bs</languageId><trName>havajski</trName></name>
+      <name><languageId>ca</languageId><trName>hawaià</trName></name>
+      <name><languageId>cs</languageId><trName>havajština</trName></name>
+      <name><languageId>cy</languageId><trName>Hawäieg</trName></name>
+      <name><languageId>da</languageId><trName>hawaiiansk</trName></name>
+      <name><languageId>de</languageId><trName>Hawaiisch</trName></name>
+      <name><languageId>dz</languageId><trName>ཧ་ཝ་ཡིའི་ཁ</trName></name>
+      <name><languageId>el</languageId><trName>Χαβανεζικά</trName></name>
+      <name><languageId>en</languageId><trName>Hawaiian</trName></name>
+      <name><languageId>eo</languageId><trName>havaja</trName></name>
+      <name><languageId>es</languageId><trName>hawaiano</trName></name>
+      <name><languageId>et</languageId><trName>havai</trName></name>
+      <name><languageId>eu</languageId><trName>hawaiiera</trName></name>
+      <name><languageId>fa</languageId><trName>هاوائیایی</trName></name>
+      <name><languageId>fi</languageId><trName>havaiji</trName></name>
+      <name><languageId>fil</languageId><trName>Hawaiian</trName></name>
+      <name><languageId>fo</languageId><trName>hawaiianskt</trName></name>
+      <name><languageId>fr</languageId><trName>hawaïen</trName></name>
+      <name><languageId>ga</languageId><trName>Haváíais</trName></name>
+      <name><languageId>gl</languageId><trName>hawaiano</trName></name>
+      <name><languageId>gu</languageId><trName>હાવાઇયન</trName></name>
+      <name><languageId>haw</languageId><trName>ʻŌlelo Hawaiʻi</trName></name>
+      <name><languageId>he</languageId><trName>הוואית</trName></name>
+      <name><languageId>hi</languageId><trName>हवाई</trName></name>
+      <name><languageId>hr</languageId><trName>havajski</trName></name>
+      <name><languageId>hu</languageId><trName>hawaii</trName></name>
+      <name><languageId>hy</languageId><trName>հավայիերեն</trName></name>
+      <name><languageId>id</languageId><trName>Hawaii</trName></name>
+      <name><languageId>is</languageId><trName>havaíska</trName></name>
+      <name><languageId>it</languageId><trName>hawaiano</trName></name>
+      <name><languageId>ja</languageId><trName>ハワイ語</trName></name>
+      <name><languageId>ka</languageId><trName>ჰავაიური</trName></name>
+      <name><languageId>kk</languageId><trName>гавай</trName></name>
+      <name><languageId>km</languageId><trName>ហាវៃ</trName></name>
+      <name><languageId>kn</languageId><trName>ಹವಾಯಿಯನ್</trName></name>
+      <name><languageId>ko</languageId><trName>하와이어</trName></name>
+      <name><languageId>ks</languageId><trName>ہوایِیَن</trName></name>
+      <name><languageId>ky</languageId><trName>гаваиче</trName></name>
+      <name><languageId>lo</languageId><trName>ຮາໄວອຽນ</trName></name>
+      <name><languageId>lt</languageId><trName>havajiečių</trName></name>
+      <name><languageId>lv</languageId><trName>havajiešu</trName></name>
+      <name><languageId>mk</languageId><trName>хавајски</trName></name>
+      <name><languageId>ml</languageId><trName>ഹവായിയൻ</trName></name>
+      <name><languageId>mn</languageId><trName>хавай</trName></name>
+      <name><languageId>mr</languageId><trName>हवाईयन</trName></name>
+      <name><languageId>ms</languageId><trName>Hawaii</trName></name>
+      <name><languageId>mt</languageId><trName>Ħawajjan</trName></name>
+      <name><languageId>my</languageId><trName>ဟာဝေယံ</trName></name>
+      <name><languageId>nb</languageId><trName>hawaiisk</trName></name>
+      <name><languageId>ne</languageId><trName>हवाइयन</trName></name>
+      <name><languageId>nl</languageId><trName>Hawaïaans</trName></name>
+      <name><languageId>nn</languageId><trName>hawaiisk</trName></name>
+      <name><languageId>or</languageId><trName>ହାୱାଇନ୍</trName></name>
+      <name><languageId>pa</languageId><trName>ਹਵਾਈਅਨ</trName></name>
+      <name><languageId>pl</languageId><trName>hawajski</trName></name>
+      <name><languageId>pt</languageId><trName>havaiano</trName></name>
+      <name><languageId>ro</languageId><trName>hawaiiană</trName></name>
+      <name><languageId>ru</languageId><trName>гавайский</trName></name>
+      <name><languageId>se</languageId><trName>hawaiigiella</trName></name>
+      <name><languageId>si</languageId><trName>හවායි</trName></name>
+      <name><languageId>sk</languageId><trName>havajčina</trName></name>
+      <name><languageId>sl</languageId><trName>havajščina</trName></name>
+      <name><languageId>sq</languageId><trName>Havajane</trName></name>
+      <name><languageId>sr</languageId><trName>Хавајски</trName></name>
+      <name><languageId>sr_Latn</languageId><trName>Havajski</trName></name>
+      <name><languageId>sv</languageId><trName>hawaiiska</trName></name>
+      <name><languageId>sw</languageId><trName>Kihawai</trName></name>
+      <name><languageId>ta</languageId><trName>ஹவாய்யான்</trName></name>
+      <name><languageId>te</languageId><trName>హవాయియన్</trName></name>
+      <name><languageId>th</languageId><trName>ฮาวาย</trName></name>
+      <name><languageId>tr</languageId><trName>Hawaii Dili</trName></name>
+      <name><languageId>uk</languageId><trName>гавайська</trName></name>
+      <name><languageId>ur</languageId><trName>ہوائی کا باشندہ</trName></name>
+      <name><languageId>uz</languageId><trName>Гавайча</trName></name>
+      <name><languageId>vi</languageId><trName>Tiếng Hawaii</trName></name>
+      <name><languageId>wae</languageId><trName>Hawaíaniš</trName></name>
+      <name><languageId>zh</languageId><trName>夏威夷文</trName></name>
+      <name><languageId>zh_Hant</languageId><trName>夏威夷文</trName></name>
+      <name><languageId>zu</languageId><trName>isi-Hawaiian</trName></name>
+    </names>
+    <locales>
+    </locales>
+    <territories>
+      <territory><territoryId>US</territoryId><rank>1000</rank></territory>
+    </territories>
+    <keyboards>
+      <keyboard><keyboardId>us(altgr-intl)</keyboardId><rank>1000</rank></keyboard>
+    </keyboards>
+    <consolefonts>
+      <consolefont><consolefontId>latarcyrheb-sun16</consolefontId><rank>1000</rank></consolefont>
+    </consolefonts>
+    <timezones>
+      <timezone><timezoneId>Pacific/Honolulu</timezoneId><rank>1000</rank></timezone>
+    </timezones>
+  </language>
+  <language>
     <languageId>he</languageId>
     <iso639-1>he</iso639-1>
     <iso639-2-t>heb</iso639-2-t>
@@ -6718,6 +6838,7 @@
       <name><languageId>gl</languageId><trName>hebreo</trName></name>
       <name><languageId>gu</languageId><trName>હીબ્રુ</trName></name>
       <name><languageId>ha</languageId><trName>Yahudanci</trName></name>
+      <name><languageId>haw</languageId><trName>Hebera</trName></name>
       <name><languageId>he</languageId><trName>עברית</trName></name>
       <name><languageId>hi</languageId><trName>हीब्रू</trName></name>
       <name><languageId>hr</languageId><trName>hebrejski</trName></name>
@@ -8275,6 +8396,7 @@
       <name><languageId>gl</languageId><trName>italiano</trName></name>
       <name><languageId>gu</languageId><trName>ઇટાલિયન</trName></name>
       <name><languageId>ha</languageId><trName>Italiyanci</trName></name>
+      <name><languageId>haw</languageId><trName>ʻĪkālia</trName></name>
       <name><languageId>he</languageId><trName>איטלקית</trName></name>
       <name><languageId>hi</languageId><trName>इतालवी</trName></name>
       <name><languageId>hr</languageId><trName>talijanski</trName></name>
@@ -8541,6 +8663,7 @@
       <name><languageId>gl</languageId><trName>xaponés</trName></name>
       <name><languageId>gu</languageId><trName>જાપાનીઝ</trName></name>
       <name><languageId>ha</languageId><trName>Japananci</trName></name>
+      <name><languageId>haw</languageId><trName>Kepanī</trName></name>
       <name><languageId>he</languageId><trName>יפנית</trName></name>
       <name><languageId>hi</languageId><trName>जापानी</trName></name>
       <name><languageId>hr</languageId><trName>japanski</trName></name>
@@ -9274,6 +9397,7 @@
       <name><languageId>gl</languageId><trName>coreano</trName></name>
       <name><languageId>gu</languageId><trName>કોરિયન</trName></name>
       <name><languageId>ha</languageId><trName>Harshen Koreya</trName></name>
+      <name><languageId>haw</languageId><trName>Kōlea</trName></name>
       <name><languageId>he</languageId><trName>קוריאנית</trName></name>
       <name><languageId>hi</languageId><trName>कोरियाई</trName></name>
       <name><languageId>hr</languageId><trName>korejski</trName></name>
@@ -11020,6 +11144,7 @@
       <name><languageId>gd</languageId><trName>Māori</trName></name>
       <name><languageId>gl</languageId><trName>maorí</trName></name>
       <name><languageId>gu</languageId><trName>માઓરી</trName></name>
+      <name><languageId>haw</languageId><trName>Māori</trName></name>
       <name><languageId>he</languageId><trName>מאורית</trName></name>
       <name><languageId>hi</languageId><trName>माओरी</trName></name>
       <name><languageId>hr</languageId><trName>maorski</trName></name>
@@ -12477,6 +12602,7 @@
       <name><languageId>gl</languageId><trName>holandés</trName></name>
       <name><languageId>gu</languageId><trName>ડચ</trName></name>
       <name><languageId>ha</languageId><trName>Holanci</trName></name>
+      <name><languageId>haw</languageId><trName>Hōlani</trName></name>
       <name><languageId>he</languageId><trName>הולנדית</trName></name>
       <name><languageId>hi</languageId><trName>डच</trName></name>
       <name><languageId>hr</languageId><trName>nizozemski</trName></name>
@@ -13977,6 +14103,7 @@
       <name><languageId>gl</languageId><trName>portugués</trName></name>
       <name><languageId>gu</languageId><trName>પોર્ટુગીઝ</trName></name>
       <name><languageId>ha</languageId><trName>Harshen Portugal</trName></name>
+      <name><languageId>haw</languageId><trName>Pukikī</trName></name>
       <name><languageId>he</languageId><trName>פורטוגזית</trName></name>
       <name><languageId>hi</languageId><trName>पुर्तगाली</trName></name>
       <name><languageId>hr</languageId><trName>portugalski</trName></name>
@@ -14274,6 +14401,7 @@
       <name><languageId>gl</languageId><trName>ruso</trName></name>
       <name><languageId>gu</languageId><trName>રશિયન</trName></name>
       <name><languageId>ha</languageId><trName>Rashanci</trName></name>
+      <name><languageId>haw</languageId><trName>Lūkia</trName></name>
       <name><languageId>he</languageId><trName>רוסית</trName></name>
       <name><languageId>hi</languageId><trName>रूसी</trName></name>
       <name><languageId>hr</languageId><trName>ruski</trName></name>
@@ -16280,6 +16408,7 @@
       <name><languageId>gl</languageId><trName>sueco</trName></name>
       <name><languageId>gu</languageId><trName>સ્વીડિશ</trName></name>
       <name><languageId>ha</languageId><trName>Harshen Suwedan</trName></name>
+      <name><languageId>haw</languageId><trName>Kuekene</trName></name>
       <name><languageId>he</languageId><trName>שוודית</trName></name>
       <name><languageId>hi</languageId><trName>स्वीडिश</trName></name>
       <name><languageId>hr</languageId><trName>švedski</trName></name>
@@ -18672,6 +18801,7 @@
       <name><languageId>gl</languageId><trName>vietnamita</trName></name>
       <name><languageId>gu</languageId><trName>વિયેતનામીસ</trName></name>
       <name><languageId>ha</languageId><trName>Harshen Biyetinam</trName></name>
+      <name><languageId>haw</languageId><trName>Wiekanama</trName></name>
       <name><languageId>he</languageId><trName>ויאטנמית</trName></name>
       <name><languageId>hi</languageId><trName>वियतनामी</trName></name>
       <name><languageId>hr</languageId><trName>vijetnamski</trName></name>
@@ -19638,6 +19768,7 @@
       <name><languageId>gl</languageId><trName>chinés</trName></name>
       <name><languageId>gu</languageId><trName>ચાઇનીઝ</trName></name>
       <name><languageId>ha</languageId><trName>Harshen Sin</trName></name>
+      <name><languageId>haw</languageId><trName>Pākē</trName></name>
       <name><languageId>he</languageId><trName>סינית</trName></name>
       <name><languageId>hi</languageId><trName>चीनी</trName></name>
       <name><languageId>hr</languageId><trName>kineski</trName></name>
@@ -19828,6 +19959,7 @@
       <name><languageId>gd</languageId><trName>Sìnis Shimplichte</trName></name>
       <name><languageId>gl</languageId><trName>chinés simplificado</trName></name>
       <name><languageId>gu</languageId><trName>સરળીકૃત ચિની</trName></name>
+      <name><languageId>haw</languageId><trName>Pākē Hoʻomaʻalahi ʻia</trName></name>
       <name><languageId>he</languageId><trName>סינית (מפושטת)</trName></name>
       <name><languageId>hi</languageId><trName>सरलीकृत चीनी</trName></name>
       <name><languageId>hr</languageId><trName>kineski (pojednostavljeni)</trName></name>
@@ -19946,6 +20078,7 @@
       <name><languageId>gd</languageId><trName>Sìnis Thradaiseanta</trName></name>
       <name><languageId>gl</languageId><trName>chinés tradicional</trName></name>
       <name><languageId>gu</languageId><trName>પારંપરિક ચિની</trName></name>
+      <name><languageId>haw</languageId><trName>Pākē Kuʻuna</trName></name>
       <name><languageId>he</languageId><trName>סינית מסורתית</trName></name>
       <name><languageId>hi</languageId><trName>पारंपरिक चीनी</trName></name>
       <name><languageId>hr</languageId><trName>kineski (tradicionalni)</trName></name>

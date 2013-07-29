@@ -1337,6 +1337,7 @@
       <name><languageId>gl</languageId><trName>Australia</trName></name>
       <name><languageId>gu</languageId><trName>ઑસ્ટ્રેલિયા</trName></name>
       <name><languageId>ha</languageId><trName>Ostareliya</trName></name>
+      <name><languageId>haw</languageId><trName>Nūhōlani</trName></name>
       <name><languageId>he</languageId><trName>אוסטרליה</trName></name>
       <name><languageId>hi</languageId><trName>ऑस्ट्रेलिया</trName></name>
       <name><languageId>hr</languageId><trName>Australija</trName></name>
@@ -2992,6 +2993,7 @@
       <name><languageId>gl</languageId><trName>Canadá</trName></name>
       <name><languageId>gu</languageId><trName>કેનેડા</trName></name>
       <name><languageId>ha</languageId><trName>Kanada</trName></name>
+      <name><languageId>haw</languageId><trName>Kanakā</trName></name>
       <name><languageId>he</languageId><trName>קנדה</trName></name>
       <name><languageId>hi</languageId><trName>कनाडा</trName></name>
       <name><languageId>hr</languageId><trName>Kanada</trName></name>
@@ -3411,6 +3413,7 @@
       <name><languageId>gl</languageId><trName>China</trName></name>
       <name><languageId>gu</languageId><trName>ચીન</trName></name>
       <name><languageId>ha</languageId><trName>Caina, Sin</trName></name>
+      <name><languageId>haw</languageId><trName>Kina</trName></name>
       <name><languageId>he</languageId><trName>סין</trName></name>
       <name><languageId>hi</languageId><trName>चीन</trName></name>
       <name><languageId>hr</languageId><trName>Kina</trName></name>
@@ -4156,6 +4159,7 @@
       <name><languageId>gl</languageId><trName>Alemaña</trName></name>
       <name><languageId>gu</languageId><trName>જર્મની</trName></name>
       <name><languageId>ha</languageId><trName>Jamus</trName></name>
+      <name><languageId>haw</languageId><trName>Kelemānia</trName></name>
       <name><languageId>he</languageId><trName>גרמניה</trName></name>
       <name><languageId>hi</languageId><trName>जर्मनी</trName></name>
       <name><languageId>hr</languageId><trName>Njemačka</trName></name>
@@ -4418,6 +4422,7 @@
       <name><languageId>gl</languageId><trName>Dinamarca</trName></name>
       <name><languageId>gu</languageId><trName>ડેનમાર્ક</trName></name>
       <name><languageId>ha</languageId><trName>Danmark</trName></name>
+      <name><languageId>haw</languageId><trName>Kenemaka</trName></name>
       <name><languageId>he</languageId><trName>דנמרק</trName></name>
       <name><languageId>hi</languageId><trName>डेनमार्क</trName></name>
       <name><languageId>hr</languageId><trName>Danska</trName></name>
@@ -5301,6 +5306,7 @@
       <name><languageId>gl</languageId><trName>España</trName></name>
       <name><languageId>gu</languageId><trName>સ્પેન</trName></name>
       <name><languageId>ha</languageId><trName>Sipen</trName></name>
+      <name><languageId>haw</languageId><trName>Kepania</trName></name>
       <name><languageId>he</languageId><trName>ספרד</trName></name>
       <name><languageId>hi</languageId><trName>स्पेन</trName></name>
       <name><languageId>hr</languageId><trName>Španjolska</trName></name>
@@ -5942,6 +5948,7 @@
       <name><languageId>gl</languageId><trName>Francia</trName></name>
       <name><languageId>gu</languageId><trName>ફ્રાંસ</trName></name>
       <name><languageId>ha</languageId><trName>Faransa</trName></name>
+      <name><languageId>haw</languageId><trName>Palani</trName></name>
       <name><languageId>he</languageId><trName>צרפת</trName></name>
       <name><languageId>hi</languageId><trName>फ़्रांस</trName></name>
       <name><languageId>hr</languageId><trName>Francuska</trName></name>
@@ -6080,6 +6087,7 @@
       <name><languageId>gu</languageId><trName>યુનાઇટેડ કિંગડમ</trName></name>
       <name><languageId>gv</languageId><trName>Rywvaneth Unys</trName></name>
       <name><languageId>ha</languageId><trName>Birtaniya</trName></name>
+      <name><languageId>haw</languageId><trName>Aupuni Mōʻī Hui Pū ʻIa</trName></name>
       <name><languageId>he</languageId><trName>בריטניה</trName></name>
       <name><languageId>hi</languageId><trName>ब्रिटेन</trName></name>
       <name><languageId>hr</languageId><trName>Velika Britanija</trName></name>
@@ -6586,6 +6594,7 @@
       <name><languageId>gl</languageId><trName>Grecia</trName></name>
       <name><languageId>gu</languageId><trName>ગ્રીસ</trName></name>
       <name><languageId>ha</languageId><trName>Girka</trName></name>
+      <name><languageId>haw</languageId><trName>Helene</trName></name>
       <name><languageId>he</languageId><trName>יוון</trName></name>
       <name><languageId>hi</languageId><trName>यूनान</trName></name>
       <name><languageId>hr</languageId><trName>Grčka</trName></name>
@@ -7572,6 +7581,7 @@
       <name><languageId>gl</languageId><trName>Irlanda</trName></name>
       <name><languageId>gu</languageId><trName>આયર્લેંડ</trName></name>
       <name><languageId>ha</languageId><trName>Ayalan</trName></name>
+      <name><languageId>haw</languageId><trName>ʻIlelani</trName></name>
       <name><languageId>he</languageId><trName>אירלנד</trName></name>
       <name><languageId>hi</languageId><trName>आयरलैंड</trName></name>
       <name><languageId>hr</languageId><trName>Irska</trName></name>
@@ -7699,6 +7709,7 @@
       <name><languageId>gl</languageId><trName>Israel</trName></name>
       <name><languageId>gu</languageId><trName>ઇઝરાઇલ</trName></name>
       <name><languageId>ha</languageId><trName>Izira'ila</trName></name>
+      <name><languageId>haw</languageId><trName>ʻIseraʻela</trName></name>
       <name><languageId>he</languageId><trName>ישראל</trName></name>
       <name><languageId>hi</languageId><trName>इसराइल</trName></name>
       <name><languageId>hr</languageId><trName>Izrael</trName></name>
@@ -7826,6 +7837,7 @@
       <name><languageId>gl</languageId><trName>India</trName></name>
       <name><languageId>gu</languageId><trName>ભારત</trName></name>
       <name><languageId>ha</languageId><trName>Indiya</trName></name>
+      <name><languageId>haw</languageId><trName>ʻĪnia</trName></name>
       <name><languageId>he</languageId><trName>הודו</trName></name>
       <name><languageId>hi</languageId><trName>भारत</trName></name>
       <name><languageId>hr</languageId><trName>Indija</trName></name>
@@ -8382,6 +8394,7 @@
       <name><languageId>gl</languageId><trName>Italia</trName></name>
       <name><languageId>gu</languageId><trName>ઇટાલી</trName></name>
       <name><languageId>ha</languageId><trName>Italiya</trName></name>
+      <name><languageId>haw</languageId><trName>ʻĪkālia</trName></name>
       <name><languageId>he</languageId><trName>איטליה</trName></name>
       <name><languageId>hi</languageId><trName>इटली</trName></name>
       <name><languageId>hr</languageId><trName>Italija</trName></name>
@@ -8642,6 +8655,7 @@
       <name><languageId>gl</languageId><trName>Xapón</trName></name>
       <name><languageId>gu</languageId><trName>જાપાન</trName></name>
       <name><languageId>ha</languageId><trName>Japan</trName></name>
+      <name><languageId>haw</languageId><trName>Iāpana</trName></name>
       <name><languageId>he</languageId><trName>יפן</trName></name>
       <name><languageId>hi</languageId><trName>जापान</trName></name>
       <name><languageId>hr</languageId><trName>Japan</trName></name>
@@ -11466,6 +11480,7 @@
       <name><languageId>gl</languageId><trName>México</trName></name>
       <name><languageId>gu</languageId><trName>મેક્સિકો</trName></name>
       <name><languageId>ha</languageId><trName>Makasiko</trName></name>
+      <name><languageId>haw</languageId><trName>Mekiko</trName></name>
       <name><languageId>he</languageId><trName>מקסיקו</trName></name>
       <name><languageId>hi</languageId><trName>मेक्सिको</trName></name>
       <name><languageId>hr</languageId><trName>Meksiko</trName></name>
@@ -11984,6 +11999,7 @@
       <name><languageId>gl</languageId><trName>Países Baixos</trName></name>
       <name><languageId>gu</languageId><trName>નેધરલેન્ડ</trName></name>
       <name><languageId>ha</languageId><trName>Holan</trName></name>
+      <name><languageId>haw</languageId><trName>Hōlani</trName></name>
       <name><languageId>he</languageId><trName>הולנד</trName></name>
       <name><languageId>hi</languageId><trName>नीदरलैंड</trName></name>
       <name><languageId>hr</languageId><trName>Nizozemska</trName></name>
@@ -12371,6 +12387,7 @@
       <name><languageId>gl</languageId><trName>Nova Celandia</trName></name>
       <name><languageId>gu</languageId><trName>ન્યુઝીલેન્ડ</trName></name>
       <name><languageId>ha</languageId><trName>Nuzilan</trName></name>
+      <name><languageId>haw</languageId><trName>Aotearoa</trName></name>
       <name><languageId>he</languageId><trName>ניו זילנד</trName></name>
       <name><languageId>hi</languageId><trName>न्यूज़ीलैंड</trName></name>
       <name><languageId>hr</languageId><trName>Novi Zeland</trName></name>
@@ -12863,6 +12880,7 @@
       <name><languageId>gl</languageId><trName>Filipinas</trName></name>
       <name><languageId>gu</languageId><trName>ફિલિપિન્સ</trName></name>
       <name><languageId>ha</languageId><trName>Filipin</trName></name>
+      <name><languageId>haw</languageId><trName>ʻĀina Pilipino</trName></name>
       <name><languageId>he</languageId><trName>פיליפינים</trName></name>
       <name><languageId>hi</languageId><trName>फ़िलिपीन्स</trName></name>
       <name><languageId>hr</languageId><trName>Filipini</trName></name>
@@ -13965,6 +13983,7 @@
       <name><languageId>gl</languageId><trName>Rusia</trName></name>
       <name><languageId>gu</languageId><trName>રશિયન ફેડરેશન</trName></name>
       <name><languageId>ha</languageId><trName>Rasha</trName></name>
+      <name><languageId>haw</languageId><trName>Lūkia</trName></name>
       <name><languageId>he</languageId><trName>רוסיה</trName></name>
       <name><languageId>hi</languageId><trName>रूस</trName></name>
       <name><languageId>hr</languageId><trName>Rusija</trName></name>
@@ -16611,6 +16630,7 @@
       <name><languageId>gl</languageId><trName>Estados Unidos de América</trName></name>
       <name><languageId>gu</languageId><trName>સંયુકત રાજ્ય/ અમેરિકા</trName></name>
       <name><languageId>ha</languageId><trName>Amurka</trName></name>
+      <name><languageId>haw</languageId><trName>ʻAmelika Hui Pū ʻIa</trName></name>
       <name><languageId>he</languageId><trName>ארצות הברית</trName></name>
       <name><languageId>hi</languageId><trName>संयुक्त राज्य अमेरिका</trName></name>
       <name><languageId>hr</languageId><trName>Sjedinjene Države</trName></name>
