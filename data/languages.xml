@@ -2406,6 +2406,93 @@
     </timezones>
   </language>
   <language>
+    <languageId>cop</languageId>
+    <iso639-1>None</iso639-1>
+    <iso639-2-t>cop</iso639-2-t>
+    <iso639-2-b>cop</iso639-2-b>
+    <names>
+      <name><languageId>af</languageId><trName>Kopties</trName></name>
+      <name><languageId>ar</languageId><trName>القبطية</trName></name>
+      <name><languageId>az</languageId><trName>kopt dili</trName></name>
+      <name><languageId>be</languageId><trName>копцкая</trName></name>
+      <name><languageId>bg</languageId><trName>коптски</trName></name>
+      <name><languageId>bn</languageId><trName>কপটিক</trName></name>
+      <name><languageId>br</languageId><trName>kopteg</trName></name>
+      <name><languageId>brx</languageId><trName>कॉप्टीक्</trName></name>
+      <name><languageId>bs</languageId><trName>koptski</trName></name>
+      <name><languageId>ca</languageId><trName>copte</trName></name>
+      <name><languageId>cop</languageId><trName>ⲘⲉⲧⲢⲉⲙ̀ⲛⲭⲏⲙⲓ</trName></name>
+      <name><languageId>cs</languageId><trName>koptština</trName></name>
+      <name><languageId>cy</languageId><trName>Copteg</trName></name>
+      <name><languageId>da</languageId><trName>koptisk</trName></name>
+      <name><languageId>de</languageId><trName>Koptisch</trName></name>
+      <name><languageId>el</languageId><trName>Κοπτικά</trName></name>
+      <name><languageId>en</languageId><trName>Coptic</trName></name>
+      <name><languageId>es</languageId><trName>copto</trName></name>
+      <name><languageId>et</languageId><trName>kopti</trName></name>
+      <name><languageId>fa</languageId><trName>قبطی</trName></name>
+      <name><languageId>fi</languageId><trName>kopti</trName></name>
+      <name><languageId>fr</languageId><trName>copte</trName></name>
+      <name><languageId>fur</languageId><trName>coptic</trName></name>
+      <name><languageId>gu</languageId><trName>કોપ્ટિક</trName></name>
+      <name><languageId>he</languageId><trName>קופטית</trName></name>
+      <name><languageId>hi</languageId><trName>कॉप्टिक</trName></name>
+      <name><languageId>hr</languageId><trName>koptski</trName></name>
+      <name><languageId>hu</languageId><trName>kopt</trName></name>
+      <name><languageId>id</languageId><trName>Koptik</trName></name>
+      <name><languageId>is</languageId><trName>koptíska</trName></name>
+      <name><languageId>it</languageId><trName>copto</trName></name>
+      <name><languageId>ja</languageId><trName>コプト語</trName></name>
+      <name><languageId>ka</languageId><trName>კოპტური</trName></name>
+      <name><languageId>kn</languageId><trName>ಕೊಪ್ಟಿಕ್</trName></name>
+      <name><languageId>ko</languageId><trName>콥트어</trName></name>
+      <name><languageId>ks</languageId><trName>کاپٹِک</trName></name>
+      <name><languageId>lo</languageId><trName>ຄອບຕິກ</trName></name>
+      <name><languageId>lt</languageId><trName>koptų</trName></name>
+      <name><languageId>lv</languageId><trName>koptu</trName></name>
+      <name><languageId>mk</languageId><trName>коптски</trName></name>
+      <name><languageId>ml</languageId><trName>കോപ്റ്റിക്</trName></name>
+      <name><languageId>mr</languageId><trName>कॉप्टिक</trName></name>
+      <name><languageId>mt</languageId><trName>Koptiku</trName></name>
+      <name><languageId>nb</languageId><trName>koptisk</trName></name>
+      <name><languageId>nl</languageId><trName>Koptisch</trName></name>
+      <name><languageId>nn</languageId><trName>koptisk</trName></name>
+      <name><languageId>or</languageId><trName>କପ୍ଟିକ୍</trName></name>
+      <name><languageId>os</languageId><trName>коптаг</trName></name>
+      <name><languageId>pl</languageId><trName>koptyjski</trName></name>
+      <name><languageId>pt</languageId><trName>copta</trName></name>
+      <name><languageId>ro</languageId><trName>coptă</trName></name>
+      <name><languageId>ru</languageId><trName>коптский</trName></name>
+      <name><languageId>sk</languageId><trName>koptčina</trName></name>
+      <name><languageId>sl</languageId><trName>koptščina</trName></name>
+      <name><languageId>sr</languageId><trName>Коптски</trName></name>
+      <name><languageId>sr_Latn</languageId><trName>Koptski</trName></name>
+      <name><languageId>sv</languageId><trName>koptiska</trName></name>
+      <name><languageId>sw</languageId><trName>Kikhufti</trName></name>
+      <name><languageId>ta</languageId><trName>காப்டிக்</trName></name>
+      <name><languageId>te</languageId><trName>కోప్టిక్</trName></name>
+      <name><languageId>th</languageId><trName>คอปติก</trName></name>
+      <name><languageId>tr</languageId><trName>Kıptice</trName></name>
+      <name><languageId>uk</languageId><trName>коптська</trName></name>
+      <name><languageId>vi</languageId><trName>Tiếng Coptic</trName></name>
+      <name><languageId>zh</languageId><trName>科普特文</trName></name>
+      <name><languageId>zh_Hant</languageId><trName>科普特文</trName></name>
+    </names>
+    <locales>
+    </locales>
+    <territories>
+      <territory><territoryId>EG</territoryId><rank>1000</rank></territory>
+    </territories>
+    <keyboards>
+    </keyboards>
+    <consolefonts>
+      <consolefont><consolefontId>latarcyrheb-sun16</consolefontId><rank>1000</rank></consolefont>
+    </consolefonts>
+    <timezones>
+      <timezone><timezoneId>Africa/Cairo</timezoneId><rank>1000</rank></timezone>
+    </timezones>
+  </language>
+  <language>
     <languageId>crh</languageId>
     <iso639-1>None</iso639-1>
     <iso639-2-t>crh</iso639-2-t>
