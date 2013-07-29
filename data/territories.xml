@@ -12956,6 +12956,7 @@
       <language><languageId>en</languageId><rank>300</rank></language>
       <language><languageId>tl</languageId><rank>200</rank></language>
       <language><languageId>ilo</languageId><rank>20</rank></language>
+      <language><languageId>hil</languageId><rank>10</rank></language>
     </languages>
     <keyboards>
       <keyboard><keyboardId>ph</keyboardId><rank>1000</rank></keyboard>
