@@ -5632,6 +5632,98 @@
     </timezones>
   </language>
   <language>
+    <languageId>grc</languageId>
+    <iso639-1>None</iso639-1>
+    <iso639-2-t>grc</iso639-2-t>
+    <iso639-2-b>grc</iso639-2-b>
+    <names>
+      <name><languageId>af</languageId><trName>Antieke Grieks</trName></name>
+      <name><languageId>ar</languageId><trName>اليونانية القديمة</trName></name>
+      <name><languageId>az</languageId><trName>qədimi yunanca</trName></name>
+      <name><languageId>be</languageId><trName>старагрэцкая</trName></name>
+      <name><languageId>bg</languageId><trName>древногръцки</trName></name>
+      <name><languageId>bn</languageId><trName>প্রাচীন গ্রীক</trName></name>
+      <name><languageId>br</languageId><trName>henc'hresianeg</trName></name>
+      <name><languageId>brx</languageId><trName>प्राचीन यूनानी</trName></name>
+      <name><languageId>bs</languageId><trName>starogrčki</trName></name>
+      <name><languageId>ca</languageId><trName>grec antic</trName></name>
+      <name><languageId>cs</languageId><trName>starořečtina</trName></name>
+      <name><languageId>cy</languageId><trName>Hen Roeg</trName></name>
+      <name><languageId>da</languageId><trName>oldgræsk</trName></name>
+      <name><languageId>de</languageId><trName>Altgriechisch</trName></name>
+      <name><languageId>dz</languageId><trName>གིརིཀ, སྔ་དུས་ཀྱི (༡༤༥༣)</trName></name>
+      <name><languageId>el</languageId><trName>Αρχαία ελληνική γλώσσα</trName></name>
+      <name><languageId>en</languageId><trName>Ancient Greek</trName></name>
+      <name><languageId>es</languageId><trName>griego antiguo</trName></name>
+      <name><languageId>et</languageId><trName>vanakreeka</trName></name>
+      <name><languageId>fa</languageId><trName>یونانی کهن</trName></name>
+      <name><languageId>fi</languageId><trName>muinaiskreikka</trName></name>
+      <name><languageId>fr</languageId><trName>grec ancien</trName></name>
+      <name><languageId>fur</languageId><trName>vieri grêc</trName></name>
+      <name><languageId>gl</languageId><trName>grego antigo</trName></name>
+      <name><languageId>grc</languageId><trName>ἡ Ἑλληνικὴ γλῶττα</trName></name>
+      <name><languageId>gu</languageId><trName>પ્રાચીન ગ્રીક</trName></name>
+      <name><languageId>he</languageId><trName>יוונית עתיקה</trName></name>
+      <name><languageId>hi</languageId><trName>प्राचीन यूनानी</trName></name>
+      <name><languageId>hr</languageId><trName>starogrčki</trName></name>
+      <name><languageId>hu</languageId><trName>ógörög</trName></name>
+      <name><languageId>id</languageId><trName>Yunani Kuno</trName></name>
+      <name><languageId>is</languageId><trName>forngríska</trName></name>
+      <name><languageId>it</languageId><trName>greco antico</trName></name>
+      <name><languageId>ja</languageId><trName>古代ギリシャ語</trName></name>
+      <name><languageId>ka</languageId><trName>ძველი ბერძნული</trName></name>
+      <name><languageId>kn</languageId><trName>ಪ್ರಾಚೀನ ಗ್ರೀಕ್</trName></name>
+      <name><languageId>ko</languageId><trName>그리스어, 고대</trName></name>
+      <name><languageId>ks</languageId><trName>قدیٖم یوٗنٲنی</trName></name>
+      <name><languageId>lo</languageId><trName>ແອນຊຽນກຣີກ</trName></name>
+      <name><languageId>lt</languageId><trName>senovės graikų</trName></name>
+      <name><languageId>lv</languageId><trName>sengrieķu</trName></name>
+      <name><languageId>mk</languageId><trName>старогрчки</trName></name>
+      <name><languageId>ml</languageId><trName>പുരാതന യവന ഭാഷ</trName></name>
+      <name><languageId>mr</languageId><trName>प्राचीन ग्रीक</trName></name>
+      <name><languageId>mt</languageId><trName>Grieg, Antik</trName></name>
+      <name><languageId>my</languageId><trName>ရှေးဟောင်း ဂရိ</trName></name>
+      <name><languageId>nb</languageId><trName>gammelgresk</trName></name>
+      <name><languageId>nl</languageId><trName>Oudgrieks</trName></name>
+      <name><languageId>nn</languageId><trName>gammalgresk</trName></name>
+      <name><languageId>or</languageId><trName>ପ୍ରାଚୀନ୍ ୟୁନାନୀ</trName></name>
+      <name><languageId>os</languageId><trName>рагон бердзейнаг</trName></name>
+      <name><languageId>pl</languageId><trName>starogrecki</trName></name>
+      <name><languageId>pt</languageId><trName>grego arcaico</trName></name>
+      <name><languageId>ro</languageId><trName>greacă veche</trName></name>
+      <name><languageId>ru</languageId><trName>древнегреческий</trName></name>
+      <name><languageId>sk</languageId><trName>starogréčtina</trName></name>
+      <name><languageId>sl</languageId><trName>stara grščina</trName></name>
+      <name><languageId>sr</languageId><trName>Старогрчки</trName></name>
+      <name><languageId>sr_Latn</languageId><trName>Starogrčki</trName></name>
+      <name><languageId>sv</languageId><trName>forngrekiska</trName></name>
+      <name><languageId>sw</languageId><trName>Kiyunani</trName></name>
+      <name><languageId>ta</languageId><trName>பண்டைய கிரேக்கம்</trName></name>
+      <name><languageId>te</languageId><trName>ప్రాచీన గ్రీక్</trName></name>
+      <name><languageId>th</languageId><trName>กรีกโบราณ</trName></name>
+      <name><languageId>tr</languageId><trName>Antik Yunanca</trName></name>
+      <name><languageId>uk</languageId><trName>давньогрецька</trName></name>
+      <name><languageId>vi</languageId><trName>Tiếng Hy Lạp cổ</trName></name>
+      <name><languageId>zh</languageId><trName>古希腊文</trName></name>
+      <name><languageId>zh_Hant</languageId><trName>古希臘文</trName></name>
+    </names>
+    <locales>
+    </locales>
+    <territories>
+      <territory><territoryId>GR</territoryId><rank>1000</rank></territory>
+    </territories>
+    <keyboards>
+      <keyboard><keyboardId>gr</keyboardId><rank>1000</rank></keyboard>
+    </keyboards>
+    <consolefonts>
+      <consolefont><consolefontId>iso07u-16</consolefontId><rank>1000</rank></consolefont>
+      <consolefont><consolefontId>LatGrkCyr-8x16</consolefontId><rank>10</rank></consolefont>
+    </consolefonts>
+    <timezones>
+      <timezone><timezoneId>Europe/Athens</timezoneId><rank>900</rank></timezone>
+    </timezones>
+  </language>
+  <language>
     <languageId>gu</languageId>
     <iso639-1>gu</iso639-1>
     <iso639-2-t>guj</iso639-2-t>
