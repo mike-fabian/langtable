@@ -3384,6 +3384,88 @@
     </timezones>
   </language>
   <language>
+    <languageId>dsb</languageId>
+    <iso639-1>None</iso639-1>
+    <iso639-2-t>dsb</iso639-2-t>
+    <iso639-2-b>dsb</iso639-2-b>
+    <names>
+      <name><languageId>ar</languageId><trName>الصربية السفلى</trName></name>
+      <name><languageId>az</languageId><trName>aşağı sorbca</trName></name>
+      <name><languageId>bg</languageId><trName>долносербски</trName></name>
+      <name><languageId>bn</languageId><trName>নিম্নতর সোর্বিয়ান</trName></name>
+      <name><languageId>br</languageId><trName>izelsorabeg</trName></name>
+      <name><languageId>brx</languageId><trName>सोर्बियन्</trName></name>
+      <name><languageId>bs</languageId><trName>niski sorbijanski</trName></name>
+      <name><languageId>ca</languageId><trName>baix sòrab</trName></name>
+      <name><languageId>cs</languageId><trName>dolnolužická srbština</trName></name>
+      <name><languageId>cy</languageId><trName>Sorbeg Isaf</trName></name>
+      <name><languageId>da</languageId><trName>nedersorbisk</trName></name>
+      <name><languageId>de</languageId><trName>Niedersorbisch</trName></name>
+      <name><languageId>el</languageId><trName>Γλώσσα Κάτω Λουσατίας</trName></name>
+      <name><languageId>en</languageId><trName>Lower Sorbian</trName></name>
+      <name><languageId>es</languageId><trName>sorbio inferior</trName></name>
+      <name><languageId>et</languageId><trName>alamsorbi</trName></name>
+      <name><languageId>fa</languageId><trName>صُربی سفلی</trName></name>
+      <name><languageId>fi</languageId><trName>alasorbi</trName></name>
+      <name><languageId>fr</languageId><trName>bas-sorabe</trName></name>
+      <name><languageId>gd</languageId><trName>Sòrbais Ìochdarach</trName></name>
+      <name><languageId>gu</languageId><trName>નિમ્ન સોર્બિયન</trName></name>
+      <name><languageId>he</languageId><trName>סורביאן נמוכה</trName></name>
+      <name><languageId>hi</languageId><trName>निचला सॉर्बियन</trName></name>
+      <name><languageId>hr</languageId><trName>lužičkosrpski</trName></name>
+      <name><languageId>hu</languageId><trName>alsó szorb</trName></name>
+      <name><languageId>id</languageId><trName>Sorbia Rendah</trName></name>
+      <name><languageId>is</languageId><trName>lágsorbneska</trName></name>
+      <name><languageId>it</languageId><trName>basso sorabo</trName></name>
+      <name><languageId>ja</languageId><trName>低ソルビア語</trName></name>
+      <name><languageId>kn</languageId><trName>ಲೋವರ್ ಸೋರ್ಬಿಯನ್</trName></name>
+      <name><languageId>ko</languageId><trName>저지 소르비아어</trName></name>
+      <name><languageId>ks</languageId><trName>بوٚنِم ساربِیَن</trName></name>
+      <name><languageId>lo</languageId><trName>ຊໍບຽນຕໍ່ກວ່າ</trName></name>
+      <name><languageId>lt</languageId><trName>Žemutinės Serbijos</trName></name>
+      <name><languageId>lv</languageId><trName>lejassorbu</trName></name>
+      <name><languageId>mk</languageId><trName>долносорбиски</trName></name>
+      <name><languageId>ml</languageId><trName>ലോവർ സോർബിയൻ</trName></name>
+      <name><languageId>mr</languageId><trName>निम्न सोर्बियन</trName></name>
+      <name><languageId>mt</languageId><trName>Lower Sorbian</trName></name>
+      <name><languageId>nb</languageId><trName>lavsorbisk</trName></name>
+      <name><languageId>nl</languageId><trName>Nedersorbisch</trName></name>
+      <name><languageId>nn</languageId><trName>lågsorbisk</trName></name>
+      <name><languageId>or</languageId><trName>ନିଚଳା ସର୍ବିଆନ୍</trName></name>
+      <name><languageId>pl</languageId><trName>dolnołużycki</trName></name>
+      <name><languageId>pt</languageId><trName>sérvio baixo</trName></name>
+      <name><languageId>ro</languageId><trName>sorabă de jos</trName></name>
+      <name><languageId>ru</languageId><trName>нижнелужицкий</trName></name>
+      <name><languageId>sk</languageId><trName>dolnolužická srbčina</trName></name>
+      <name><languageId>sl</languageId><trName>dolnja lužiška srbščina</trName></name>
+      <name><languageId>sr</languageId><trName>Ниски сорбијански</trName></name>
+      <name><languageId>sr_Latn</languageId><trName>Niski sorbijanski</trName></name>
+      <name><languageId>sv</languageId><trName>lågsorbiska</trName></name>
+      <name><languageId>ta</languageId><trName>லோவர் சோர்பியன்</trName></name>
+      <name><languageId>te</languageId><trName>లోవర్ సోర్బియన్</trName></name>
+      <name><languageId>th</languageId><trName>ซอร์บส์ตอนล่าง</trName></name>
+      <name><languageId>tr</languageId><trName>Aşağı Sorbça</trName></name>
+      <name><languageId>uk</languageId><trName>нижньолужицька</trName></name>
+      <name><languageId>vi</languageId><trName>Tiếng Hạ Sorbia</trName></name>
+      <name><languageId>zh</languageId><trName>下索布文</trName></name>
+      <name><languageId>zh_Hant</languageId><trName>下索布文</trName></name>
+    </names>
+    <locales>
+    </locales>
+    <territories>
+      <territory><territoryId>DE</territoryId><rank>1000</rank></territory>
+    </territories>
+    <keyboards>
+      <keyboard><keyboardId>us(altgr-intl)</keyboardId><rank>1000</rank></keyboard>
+    </keyboards>
+    <consolefonts>
+      <consolefont><consolefontId>latarcyrheb-sun16</consolefontId><rank>1000</rank></consolefont>
+    </consolefonts>
+    <timezones>
+      <timezone><timezoneId>Europe/Berlin</timezoneId><rank>1000</rank></timezone>
+    </timezones>
+  </language>
+  <language>
     <languageId>dv</languageId>
     <iso639-1>dv</iso639-1>
     <iso639-2-t>div</iso639-2-t>
