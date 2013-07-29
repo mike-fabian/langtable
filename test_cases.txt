@@ -687,6 +687,18 @@
 >>> print language_name(languageId="pt", territoryId="BR", languageIdQuery="de").encode("UTF-8") # doctest: +NORMALIZE_WHITESPACE
     Portugiesisch (Brasilien)
 
+>>> print language_name(languageId="mai", territoryId="IN", languageIdQuery="en").encode("UTF-8") # doctest: +NORMALIZE_WHITESPACE
+    Maithili (India)
+
+>>> print language_name(languageId="mai", territoryId="NP", languageIdQuery="en").encode("UTF-8") # doctest: +NORMALIZE_WHITESPACE
+    Maithili (Nepal)
+
+>>> print language_name(languageId="mai", territoryId="IN", languageIdQuery="mai").encode("UTF-8") # doctest: +NORMALIZE_WHITESPACE
+    मैथिली
+
+>>> print language_name(languageId="mai", territoryId="NP", languageIdQuery="mai").encode("UTF-8") # doctest: +NORMALIZE_WHITESPACE
+    मैथिली
+
 >>> print language_name(languageId="zh").encode("UTF-8") # doctest: +NORMALIZE_WHITESPACE
     中文
 
