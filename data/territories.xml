@@ -17003,6 +17003,127 @@
     </timezones>
   </territory>
   <territory>
+    <territoryId>VA</territoryId>
+    <names>
+      <name><languageId>af</languageId><trName>Vatikaanstad</trName></name>
+      <name><languageId>ak</languageId><trName>Vatican Man</trName></name>
+      <name><languageId>am</languageId><trName>ቫቲካን ከተማ</trName></name>
+      <name><languageId>ar</languageId><trName>الفاتيكان</trName></name>
+      <name><languageId>ast</languageId><trName>Ciudá del Vaticanu</trName></name>
+      <name><languageId>az</languageId><trName>Vatikan</trName></name>
+      <name><languageId>be</languageId><trName>Ватыкан</trName></name>
+      <name><languageId>bg</languageId><trName>Ватикан</trName></name>
+      <name><languageId>bn</languageId><trName>ভ্যাটিকান সিটি</trName></name>
+      <name><languageId>bo</languageId><trName>ཝེ་ཊི་ཀན།</trName></name>
+      <name><languageId>br</languageId><trName>Vatikan</trName></name>
+      <name><languageId>brx</languageId><trName>वैटिकन</trName></name>
+      <name><languageId>bs</languageId><trName>Vatikan</trName></name>
+      <name><languageId>ca</languageId><trName>Ciutat del Vaticà</trName></name>
+      <name><languageId>cs</languageId><trName>Vatikán</trName></name>
+      <name><languageId>cy</languageId><trName>Y Fatican</trName></name>
+      <name><languageId>da</languageId><trName>Vatikanstaten</trName></name>
+      <name><languageId>de</languageId><trName>Vatikanstadt</trName></name>
+      <name><languageId>dz</languageId><trName>བ་ཊི་ཀཱན་ སི་ཊི</trName></name>
+      <name><languageId>el</languageId><trName>Βατικανό</trName></name>
+      <name><languageId>en</languageId><trName>Vatican City</trName></name>
+      <name><languageId>eo</languageId><trName>Vatikano</trName></name>
+      <name><languageId>es</languageId><trName>Ciudad del Vaticano</trName></name>
+      <name><languageId>et</languageId><trName>Vatikan</trName></name>
+      <name><languageId>eu</languageId><trName>Vatikano Hiria</trName></name>
+      <name><languageId>fa</languageId><trName>واتیکان</trName></name>
+      <name><languageId>ff</languageId><trName>Dowla Waticaan</trName></name>
+      <name><languageId>fi</languageId><trName>Vatikaani</trName></name>
+      <name><languageId>fil</languageId><trName>Vatican City</trName></name>
+      <name><languageId>fo</languageId><trName>Vatikan</trName></name>
+      <name><languageId>fr</languageId><trName>État de la Cité du Vatican</trName></name>
+      <name><languageId>fur</languageId><trName>Vatican</trName></name>
+      <name><languageId>ga</languageId><trName>An Vatacáin</trName></name>
+      <name><languageId>gd</languageId><trName>Cathair na Bhatacain</trName></name>
+      <name><languageId>gl</languageId><trName>Cidade do Vaticano</trName></name>
+      <name><languageId>gu</languageId><trName>વેટિકન</trName></name>
+      <name><languageId>ha</languageId><trName>Batikan</trName></name>
+      <name><languageId>he</languageId><trName>הוותיקן</trName></name>
+      <name><languageId>hi</languageId><trName>वेटिकन सिटी</trName></name>
+      <name><languageId>hr</languageId><trName>Sveta Stolica</trName></name>
+      <name><languageId>hu</languageId><trName>Vatikán</trName></name>
+      <name><languageId>hy</languageId><trName>Վատիկան քաղաք-պետություն</trName></name>
+      <name><languageId>id</languageId><trName>Vatikan</trName></name>
+      <name><languageId>is</languageId><trName>Páfastóll</trName></name>
+      <name><languageId>it</languageId><trName>Città del Vaticano</trName></name>
+      <name><languageId>ja</languageId><trName>バチカン市国</trName></name>
+      <name><languageId>ka</languageId><trName>ქალაქი ვატიკანი</trName></name>
+      <name><languageId>kk</languageId><trName>Ватикан</trName></name>
+      <name><languageId>kl</languageId><trName>Vatikani</trName></name>
+      <name><languageId>km</languageId><trName>ទីក្រុងវ៉ាទីកង់</trName></name>
+      <name><languageId>kn</languageId><trName>ವ್ಯಾಟಿಕನ್</trName></name>
+      <name><languageId>ko</languageId><trName>바티칸</trName></name>
+      <name><languageId>ks</languageId><trName>ویٹِکَن سِٹی</trName></name>
+      <name><languageId>ky</languageId><trName>Ватикан</trName></name>
+      <name><languageId>lg</languageId><trName>Vatikaani</trName></name>
+      <name><languageId>lo</languageId><trName>ນະຄອນ ວາຕິກັນ</trName></name>
+      <name><languageId>lt</languageId><trName>Vatikano Miesto Valstybė</trName></name>
+      <name><languageId>lv</languageId><trName>Vatikāns</trName></name>
+      <name><languageId>mg</languageId><trName>Firenen'i Vatikana</trName></name>
+      <name><languageId>mk</languageId><trName>Ватикан</trName></name>
+      <name><languageId>ml</languageId><trName>വത്തിക്കാൻ</trName></name>
+      <name><languageId>mn</languageId><trName>Ватикан хот улс</trName></name>
+      <name><languageId>mr</languageId><trName>व्हॅटिकन सिटी</trName></name>
+      <name><languageId>ms</languageId><trName>Kota Vatican</trName></name>
+      <name><languageId>mt</languageId><trName>Vatikan</trName></name>
+      <name><languageId>my</languageId><trName>ဗာတီကန်စီတီး</trName></name>
+      <name><languageId>nb</languageId><trName>Vatikanstaten</trName></name>
+      <name><languageId>ne</languageId><trName>भेटिकन सिटी</trName></name>
+      <name><languageId>nl</languageId><trName>Vaticaanstad</trName></name>
+      <name><languageId>nn</languageId><trName>Vatikanstaten</trName></name>
+      <name><languageId>or</languageId><trName>ଭାଟିକାନ୍</trName></name>
+      <name><languageId>pa</languageId><trName>ਵੈਟਿਕਨ ਸਿਟੀ</trName></name>
+      <name><languageId>pl</languageId><trName>Watykan</trName></name>
+      <name><languageId>pt</languageId><trName>Cidade do Vaticano</trName></name>
+      <name><languageId>ro</languageId><trName>Statul Cetății Vaticanului</trName></name>
+      <name><languageId>ru</languageId><trName>Ватикан</trName></name>
+      <name><languageId>se</languageId><trName>Vatikána</trName></name>
+      <name><languageId>si</languageId><trName>වතිකානු නගරය</trName></name>
+      <name><languageId>sk</languageId><trName>Vatikán</trName></name>
+      <name><languageId>sl</languageId><trName>Vatikan</trName></name>
+      <name><languageId>so</languageId><trName>Faatikaan</trName></name>
+      <name><languageId>sq</languageId><trName>Vatikan</trName></name>
+      <name><languageId>sr</languageId><trName>Ватикан</trName></name>
+      <name><languageId>sr_Latn</languageId><trName>Vatikan</trName></name>
+      <name><languageId>sv</languageId><trName>Vatikanstaten</trName></name>
+      <name><languageId>sw</languageId><trName>Vatikani</trName></name>
+      <name><languageId>ta</languageId><trName>வாடிகன் நகரம்</trName></name>
+      <name><languageId>te</languageId><trName>వాటికన్ నగరం</trName></name>
+      <name><languageId>th</languageId><trName>นครวาติกัน</trName></name>
+      <name><languageId>ti</languageId><trName>ቫቲካን</trName></name>
+      <name><languageId>tr</languageId><trName>Vatikan</trName></name>
+      <name><languageId>uk</languageId><trName>Ватикан</trName></name>
+      <name><languageId>ur</languageId><trName>واٹیکن سٹی</trName></name>
+      <name><languageId>uz</languageId><trName>Ватикан</trName></name>
+      <name><languageId>vi</languageId><trName>Thành Vatican</trName></name>
+      <name><languageId>wae</languageId><trName>Vatikan</trName></name>
+      <name><languageId>yo</languageId><trName>Orílẹ́ède Fatikani</trName></name>
+      <name><languageId>zh</languageId><trName>梵蒂冈</trName></name>
+      <name><languageId>zh_Hant</languageId><trName>梵蒂岡</trName></name>
+      <name><languageId>zu</languageId><trName>i-Vatican City</trName></name>
+    </names>
+    <locales>
+      <locale><localeId>it_IT.UTF-8</localeId><rank>1000</rank></locale>
+    </locales>
+    <languages>
+      <language><languageId>it</languageId><rank>900</rank></language>
+      <language><languageId>la</languageId><rank>100</rank></language>
+    </languages>
+    <keyboards>
+      <keyboard><keyboardId>it</keyboardId><rank>1000</rank></keyboard>
+    </keyboards>
+    <consolefonts>
+      <consolefont><consolefontId>latarcyrheb-sun16</consolefontId><rank>1000</rank></consolefont>
+    </consolefonts>
+    <timezones>
+      <timezone><timezoneId>Europe/Vatican</timezoneId><rank>1000</rank></timezone>
+    </timezones>
+  </territory>
+  <territory>
     <territoryId>VE</territoryId>
     <names>
       <name><languageId>af</languageId><trName>Venezuela</trName></name>
