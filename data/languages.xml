@@ -13659,6 +13659,101 @@
     </timezones>
   </language>
   <language>
+    <languageId>ny</languageId>
+    <iso639-1>ny</iso639-1>
+    <iso639-2-t>nya</iso639-2-t>
+    <iso639-2-b>nya</iso639-2-b>
+    <names>
+      <name><languageId>af</languageId><trName>Nyanja</trName></name>
+      <name><languageId>am</languageId><trName>ንያንጃ</trName></name>
+      <name><languageId>ar</languageId><trName>النيانجا</trName></name>
+      <name><languageId>az</languageId><trName>nyanca dili</trName></name>
+      <name><languageId>bg</languageId><trName>чинянджа</trName></name>
+      <name><languageId>bn</languageId><trName>নায়াঞ্জা</trName></name>
+      <name><languageId>br</languageId><trName>nyanja</trName></name>
+      <name><languageId>brx</languageId><trName>न्यानजा</trName></name>
+      <name><languageId>bs</languageId><trName>njanja</trName></name>
+      <name><languageId>ca</languageId><trName>nyanja</trName></name>
+      <name><languageId>cs</languageId><trName>ňandžština</trName></name>
+      <name><languageId>cy</languageId><trName>Nianja</trName></name>
+      <name><languageId>da</languageId><trName>nyanja</trName></name>
+      <name><languageId>de</languageId><trName>Nyanja-Sprache</trName></name>
+      <name><languageId>el</languageId><trName>Νιάντζα</trName></name>
+      <name><languageId>en</languageId><trName>Nyanja</trName></name>
+      <name><languageId>es</languageId><trName>nyanja</trName></name>
+      <name><languageId>et</languageId><trName>njandža</trName></name>
+      <name><languageId>eu</languageId><trName>nyanja</trName></name>
+      <name><languageId>fa</languageId><trName>نیانجایی</trName></name>
+      <name><languageId>fi</languageId><trName>njandža</trName></name>
+      <name><languageId>fil</languageId><trName>Nyanja</trName></name>
+      <name><languageId>fo</languageId><trName>nyanja</trName></name>
+      <name><languageId>fr</languageId><trName>nyanja</trName></name>
+      <name><languageId>gl</languageId><trName>chewa</trName></name>
+      <name><languageId>gu</languageId><trName>ન્યાન્જા</trName></name>
+      <name><languageId>he</languageId><trName>ניאנג׳ה</trName></name>
+      <name><languageId>hi</languageId><trName>न्यानजा</trName></name>
+      <name><languageId>hr</languageId><trName>nyanja</trName></name>
+      <name><languageId>hu</languageId><trName>nyanja</trName></name>
+      <name><languageId>id</languageId><trName>Nyanja</trName></name>
+      <name><languageId>is</languageId><trName>njanja; sísjeva; sjeva</trName></name>
+      <name><languageId>it</languageId><trName>nyanja</trName></name>
+      <name><languageId>ja</languageId><trName>ニャンジャ語</trName></name>
+      <name><languageId>ka</languageId><trName>ნიანჯა</trName></name>
+      <name><languageId>kk</languageId><trName>ньянджа</trName></name>
+      <name><languageId>kn</languageId><trName>ನ್ಯಾಂಜಾ</trName></name>
+      <name><languageId>ko</languageId><trName>니안자어; 치츄어; 츄어</trName></name>
+      <name><languageId>ks</languageId><trName>نِیَنجا</trName></name>
+      <name><languageId>lo</languageId><trName>ນານຈາ</trName></name>
+      <name><languageId>lt</languageId><trName>nianja</trName></name>
+      <name><languageId>lv</languageId><trName>čičeva</trName></name>
+      <name><languageId>mk</languageId><trName>њања</trName></name>
+      <name><languageId>ml</languageId><trName>ന്യൻജ</trName></name>
+      <name><languageId>mr</languageId><trName>न्यान्जा</trName></name>
+      <name><languageId>ms</languageId><trName>Nyanja</trName></name>
+      <name><languageId>mt</languageId><trName>Ċiċewa; Njanġa</trName></name>
+      <name><languageId>nb</languageId><trName>nyanja</trName></name>
+      <name><languageId>nl</languageId><trName>Nyanja</trName></name>
+      <name><languageId>nn</languageId><trName>nyanja</trName></name>
+      <name><languageId>ny</languageId><trName>Nyanja</trName></name>
+      <name><languageId>or</languageId><trName>ନିୟାଞ୍ଜ</trName></name>
+      <name><languageId>pl</languageId><trName>njandża</trName></name>
+      <name><languageId>pt</languageId><trName>nianja</trName></name>
+      <name><languageId>ro</languageId><trName>nyanja</trName></name>
+      <name><languageId>ru</languageId><trName>ньянджа</trName></name>
+      <name><languageId>sk</languageId><trName>čewa</trName></name>
+      <name><languageId>sl</languageId><trName>njanščina</trName></name>
+      <name><languageId>sr</languageId><trName>Њања</trName></name>
+      <name><languageId>sr_Latn</languageId><trName>Njanja</trName></name>
+      <name><languageId>sv</languageId><trName>nyanja</trName></name>
+      <name><languageId>sw</languageId><trName>Kinyanja</trName></name>
+      <name><languageId>ta</languageId><trName>நயன்ஜா</trName></name>
+      <name><languageId>te</languageId><trName>న్యాన్జా</trName></name>
+      <name><languageId>th</languageId><trName>เนียนจา</trName></name>
+      <name><languageId>tr</languageId><trName>Nyanja</trName></name>
+      <name><languageId>uk</languageId><trName>ньянджа</trName></name>
+      <name><languageId>ur</languageId><trName>نیانجا</trName></name>
+      <name><languageId>vi</languageId><trName>Tiếng Nyanja</trName></name>
+      <name><languageId>wae</languageId><trName>Nyanja</trName></name>
+      <name><languageId>zh</languageId><trName>尼扬扎文</trName></name>
+      <name><languageId>zh_Hant</languageId><trName>尼揚賈文</trName></name>
+      <name><languageId>zu</languageId><trName>isi-Nyanja</trName></name>
+    </names>
+    <locales>
+    </locales>
+    <territories>
+      <territory><territoryId>MW</territoryId><rank>1000</rank></territory>
+    </territories>
+    <keyboards>
+      <keyboard><keyboardId>us</keyboardId><rank>1000</rank></keyboard>
+    </keyboards>
+    <consolefonts>
+      <consolefont><consolefontId>latarcyrheb-sun16</consolefontId><rank>1000</rank></consolefont>
+    </consolefonts>
+    <timezones>
+      <timezone><timezoneId>Africa/Blantyre</timezoneId><rank>1000</rank></timezone>
+    </timezones>
+  </language>
+  <language>
     <languageId>oc</languageId>
     <iso639-1>oc</iso639-1>
     <iso639-2-t>oci</iso639-2-t>
