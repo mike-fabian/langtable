@@ -16460,6 +16460,91 @@
     </timezones>
   </language>
   <language>
+    <languageId>smj</languageId>
+    <iso639-1>None</iso639-1>
+    <iso639-2-t>smj</iso639-2-t>
+    <iso639-2-b>smj</iso639-2-b>
+    <names>
+      <name><languageId>ar</languageId><trName>اللول سامي</trName></name>
+      <name><languageId>az</languageId><trName>lule sami dili</trName></name>
+      <name><languageId>bg</languageId><trName>луле-саамски</trName></name>
+      <name><languageId>bn</languageId><trName>লুলে সামি</trName></name>
+      <name><languageId>br</languageId><trName>sámi Luleå</trName></name>
+      <name><languageId>brx</languageId><trName>लुले सामी</trName></name>
+      <name><languageId>bs</languageId><trName>lule sami</trName></name>
+      <name><languageId>ca</languageId><trName>sami lule</trName></name>
+      <name><languageId>cs</languageId><trName>sámština [lulejská]</trName></name>
+      <name><languageId>cy</languageId><trName>Sami Lwle</trName></name>
+      <name><languageId>da</languageId><trName>lule sami</trName></name>
+      <name><languageId>de</languageId><trName>Lule-Lappisch</trName></name>
+      <name><languageId>el</languageId><trName>Λούλε Σάμι</trName></name>
+      <name><languageId>en</languageId><trName>Lule Sami</trName></name>
+      <name><languageId>es</languageId><trName>sami lule</trName></name>
+      <name><languageId>et</languageId><trName>lule saami</trName></name>
+      <name><languageId>fi</languageId><trName>luulajansaame</trName></name>
+      <name><languageId>fr</languageId><trName>sami de Lule</trName></name>
+      <name><languageId>gd</languageId><trName>Sàmais Lule</trName></name>
+      <name><languageId>gu</languageId><trName>લ્યુલ સામી</trName></name>
+      <name><languageId>he</languageId><trName>לולה סאמי</trName></name>
+      <name><languageId>hi</languageId><trName>ल्युल सामी</trName></name>
+      <name><languageId>hr</languageId><trName>lule sami</trName></name>
+      <name><languageId>hu</languageId><trName>lule számi</trName></name>
+      <name><languageId>id</languageId><trName>Lule Sami</trName></name>
+      <name><languageId>is</languageId><trName>lúlesamíska</trName></name>
+      <name><languageId>it</languageId><trName>sami lule</trName></name>
+      <name><languageId>ja</languageId><trName>ルレ・サーミ語</trName></name>
+      <name><languageId>kn</languageId><trName>ಲೂಲ್ ಸಾಮಿ</trName></name>
+      <name><languageId>ko</languageId><trName>룰레 사미어</trName></name>
+      <name><languageId>ks</languageId><trName>لولیے سَمی</trName></name>
+      <name><languageId>lo</languageId><trName>ລຸນຊາມິ</trName></name>
+      <name><languageId>lt</languageId><trName>lule sami</trName></name>
+      <name><languageId>lv</languageId><trName>luleo sāmu</trName></name>
+      <name><languageId>mk</languageId><trName>луле сами</trName></name>
+      <name><languageId>ml</languageId><trName>ലൂലീ സമി</trName></name>
+      <name><languageId>mr</languageId><trName>ल्युल सामी</trName></name>
+      <name><languageId>mt</languageId><trName>Lule Sami</trName></name>
+      <name><languageId>nb</languageId><trName>lulesamisk</trName></name>
+      <name><languageId>nl</languageId><trName>Lule Sami</trName></name>
+      <name><languageId>nn</languageId><trName>lulesamisk</trName></name>
+      <name><languageId>or</languageId><trName>ଲୁଲେ ସାମି</trName></name>
+      <name><languageId>pl</languageId><trName>lapoński Lule</trName></name>
+      <name><languageId>pt</languageId><trName>lule sami</trName></name>
+      <name><languageId>ro</languageId><trName>lule sami</trName></name>
+      <name><languageId>ru</languageId><trName>луле-саамский</trName></name>
+      <name><languageId>se</languageId><trName>julevsámegiella</trName></name>
+      <name><languageId>sk</languageId><trName>luleská saamčina</trName></name>
+      <name><languageId>sl</languageId><trName>luleška samijščina</trName></name>
+      <name><languageId>sr</languageId><trName>Луле сами</trName></name>
+      <name><languageId>sr_Latn</languageId><trName>Lule sami</trName></name>
+      <name><languageId>sv</languageId><trName>lulesamiska</trName></name>
+      <name><languageId>ta</languageId><trName>லுலே சாமி</trName></name>
+      <name><languageId>te</languageId><trName>లులే సామి</trName></name>
+      <name><languageId>th</languageId><trName>ซามิลูเล</trName></name>
+      <name><languageId>tr</languageId><trName>Lule Sami</trName></name>
+      <name><languageId>uk</languageId><trName>саамська луле</trName></name>
+      <name><languageId>vi</languageId><trName>Tiếng Lule Sami</trName></name>
+      <name><languageId>zh</languageId><trName>律勒欧萨莫斯文</trName></name>
+      <name><languageId>zh_Hant</languageId><trName>魯勒薩米文</trName></name>
+    </names>
+    <locales>
+    </locales>
+    <territories>
+      <territory><territoryId>SE</territoryId><rank>900</rank></territory>
+      <territory><territoryId>NO</territoryId><rank>100</rank></territory>
+    </territories>
+    <keyboards>
+      <keyboard><keyboardId>se</keyboardId><rank>1000</rank></keyboard>
+      <keyboard><keyboardId>no</keyboardId><rank>900</rank></keyboard>
+    </keyboards>
+    <consolefonts>
+      <consolefont><consolefontId>latarcyrheb-sun16</consolefontId><rank>1000</rank></consolefont>
+    </consolefonts>
+    <timezones>
+      <timezone><timezoneId>Europe/Stockholm</timezoneId><rank>900</rank></timezone>
+      <timezone><timezoneId>Europe/Oslo</timezoneId><rank>100</rank></timezone>
+    </timezones>
+  </language>
+  <language>
     <languageId>so</languageId>
     <iso639-1>so</iso639-1>
     <iso639-2-t>som</iso639-2-t>
