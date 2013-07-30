@@ -825,6 +825,27 @@
 >>> print language_name(languageId="sr_Latn_RS", scriptId="Cyrl", territoryId="DE", languageIdQuery="en").encode("UTF-8") # doctest: +NORMALIZE_WHITESPACE
     Serbian (Latin)
 
+>>> print language_name(languageId="pa").encode("UTF-8") # doctest: +NORMALIZE_WHITESPACE
+    ਪੰਜਾਬੀ
+
+>>> print language_name(languageId="pa", territoryId="PK").encode("UTF-8") # doctest: +NORMALIZE_WHITESPACE
+    پنجاب (پکستان)
+
+>>> print language_name(languageId="pa", scriptId="Arab", territoryId="PK").encode("UTF-8") # doctest: +NORMALIZE_WHITESPACE
+    پنجاب (پکستان)
+
+>>> print language_name(languageId="pa", territoryId="IN").encode("UTF-8") # doctest: +NORMALIZE_WHITESPACE
+    ਪੰਜਾਬੀ (ਭਾਰਤ)
+
+>>> print language_name(languageId="pa", scriptId="Guru", territoryId="IN").encode("UTF-8") # doctest: +NORMALIZE_WHITESPACE
+    ਪੰਜਾਬੀ (ਭਾਰਤ)
+
+>>> print language_name(languageId="pa", scriptId="Arab").encode("UTF-8") # doctest: +NORMALIZE_WHITESPACE
+    پنجاب
+
+>>> print language_name(languageId="pa", scriptId="Guru").encode("UTF-8") # doctest: +NORMALIZE_WHITESPACE
+    ਪੰਜਾਬੀ
+
 >>> print territory_name(territoryId="AE", languageIdQuery="ar").encode("UTF-8") # doctest: +NORMALIZE_WHITESPACE
     الإمارات العربية المتحدة
 
