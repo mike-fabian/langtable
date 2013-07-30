@@ -14318,12 +14318,12 @@
       <name><languageId>zu</languageId><trName>isi-Punjabi</trName></name>
     </names>
     <locales>
-      <locale><localeId>pa_PK.UTF-8</localeId><rank>600</rank></locale>
-      <locale><localeId>pa_IN.UTF-8</localeId><rank>400</rank></locale>
+      <locale><localeId>pa_IN.UTF-8</localeId><rank>600</rank></locale>
+      <locale><localeId>pa_PK.UTF-8</localeId><rank>400</rank></locale>
     </locales>
     <territories>
-      <territory><territoryId>PK</territoryId><rank>600</rank></territory>
-      <territory><territoryId>IN</territoryId><rank>400</rank></territory>
+      <territory><territoryId>IN</territoryId><rank>600</rank></territory>
+      <territory><territoryId>PK</territoryId><rank>400</rank></territory>
     </territories>
     <keyboards>
       <keyboard><keyboardId>in(eng)</keyboardId><rank>1000</rank></keyboard>

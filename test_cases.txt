@@ -187,14 +187,22 @@
 >>> list_locales(show_weights=False, languageId="or") # doctest: +NORMALIZE_WHITESPACE
     ['or_IN.UTF-8']
 
-# this puts pa_PK first instead of pa_IN from mangleLocale
-# (because there seem to be more speakers of pa in PK than in IN).
-# It should not matter at though at the moment, all our nds translations
-# are  in /usr/share/locale/pa/LC_MESSAGES/ at the moment,
-# the right translations will be chosen no matter whether pa_PK.UTF-8
-# or pa_IN.UTF-8 is set as the locale.
+# This puts pa_IN first instead of pa_PK to make it do the
+# same as mangleLocale did. There seem to be more speakers of pa in PK
+# than in IN, nevertheless pa_IN is more important for us because
+# we have *only* Punjabi translations for India (all our Punjabi
+# translations use Gurmukhi script (used by the pa_IN.UTF-8 glibc locale).
+# None of our translations use the Perso-Arabic Shahmukhī alphabet
+# used by the pa_PK.UTF-8 glibc locale.
+# All of our Punjabi translations are currently in /usr/share/locale/pa,
+# as they use the Gurmukhi script and seem to be specific to India,
+# they should probably move to /usr/share/locale/pa_IN in future.
+#
+# Giving pa_IN.UTF-8 higher weight should fix
+# https://bugzilla.redhat.com/show_bug.cgi?id=986155
+# Bug 986155 - Punjabi (India) missing in language installation list
 >>> list_locales(show_weights=False, languageId="pa") # doctest: +NORMALIZE_WHITESPACE
-    ['pa_PK.UTF-8', 'pa_IN.UTF-8']
+    ['pa_IN.UTF-8', 'pa_PK.UTF-8']
 
 >>> list_locales(show_weights=False, languageId="pl") # doctest: +NORMALIZE_WHITESPACE
     ['pl_PL.UTF-8']
