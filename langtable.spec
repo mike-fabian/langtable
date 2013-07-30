@@ -1,5 +1,5 @@
 Name:           langtable
-Version:        0.0.7
+Version:        0.0.8
 Release:        1%{?dist}
 Summary:        Guessing reasonable defaults for locale, keyboard layout, territory, and language.
 Group:          Development/Tools
@@ -68,6 +68,14 @@ xmllint --noout --relaxng $RPM_BUILD_ROOT/%{_datadir}/langtable/schemas/territor
 %{_datadir}/langtable/*.xml.gz
 
 %changelog
+* Tue Jul 30 2013 Mike FABIAN <mfabian@redhat.com> - 0.0.8-1
+- Update to 0.0.8
+- Add endonym for Maithili
+- Return True by default from supports_ascii (by Vratislav Podzimek)
+- Add grc, eo, ak, GH, cop, dsb, fj, FJ, haw, hil, la, VA, ln, kg, CD, CG, AO, mos, BF, ny, MW, smj, tet, TL, tpi, PG (Resolves: rhbz#985332 - some language codes are missing)
+- Import more translations from CLDR
+- Give pa_IN.UTF-8 higher weight than pa_PK.UTF-8 (Resolves: rhbz#986658, rhbz#986155)
+
 * Thu Jul 04 2013 Mike FABIAN <mfabian@redhat.com> - 0.0.7-1
 - Update to 0.0.7
 - Add examples for list_consolefonts()

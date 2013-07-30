@@ -1,3 +1,12 @@
+2013-07-30  Mike FABIAN  <mfabian@redhat.com>
+
+	* Version 0.0.8 released.
+	* Add endonym for Maithili
+	* Return True by default from supports_ascii (by Vratislav Podzimek)
+	* Add grc, eo, ak, GH, cop, dsb, fj, FJ, haw, hil, la, VA, ln, kg, CD, CG, AO, mos, BF, ny, MW, smj, tet, TL, tpi, PG (Resolves: rhbz#985332 - some language codes are missing)
+	* Import more translations from CLDR
+	* Give pa_IN.UTF-8 higher weight than pa_PK.UTF-8 (Resolves: rhbz#986658, rhbz#986155)
+
 2013-07-04  Mike FABIAN  <mfabian@redhat.com>
 
 	* Version 0.0.7 released.
