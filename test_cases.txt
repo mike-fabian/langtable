@@ -953,3 +953,30 @@
 
 >>> languageId("Српски")  # doctest: +NORMALIZE_WHITESPACE
     'sr'
+
+>>> languageId("Serbian")  # doctest: +NORMALIZE_WHITESPACE
+    'sr'
+
+>>> languageId("Serbian (Cyrillic)")  # doctest: +NORMALIZE_WHITESPACE
+    'sr_Cyrl'
+
+>>> languageId("Serbian (Latin)")  # doctest: +NORMALIZE_WHITESPACE
+    'sr_Latn'
+
+>>> languageId("Српски (Ћирилица)")  # doctest: +NORMALIZE_WHITESPACE
+    'sr_Cyrl'
+
+>>> languageId("Српски (Србија)")  # doctest: +NORMALIZE_WHITESPACE
+    'sr_RS'
+
+>>> languageId("Portuguese")  # doctest: +NORMALIZE_WHITESPACE
+    'pt'
+
+>>> languageId("Portuguese (Brazil)")  # doctest: +NORMALIZE_WHITESPACE
+    'pt_BR'
+
+>>> languageId("Portuguese (Portugal)")  # doctest: +NORMALIZE_WHITESPACE
+    'pt_PT'
+
+>>> languageId("Portugiesisch (Brasilien)")  # doctest: +NORMALIZE_WHITESPACE
+    'pt_BR'

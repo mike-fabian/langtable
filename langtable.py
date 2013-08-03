@@ -929,6 +929,21 @@ def languageId(languageName = u''):
         for icuLocaleId in _languages_db[languageId].names:
             if languageName == _languages_db[languageId].names[icuLocaleId]:
                 return languageId
+    language_territory_pattern = re.compile(
+        r'^(?P<language_name>[\S]+)[\s]+[(](?P<territory_name>[\S]+)[)]',
+        re.MULTILINE|re.UNICODE)
+    match = language_territory_pattern.search(languageName)
+    if match:
+        language_name = match.group('language_name')
+        territory_name = match.group('territory_name')
+        for languageId in _languages_db:
+            for icuLocaleId in _languages_db[languageId].names:
+                if language_name == _languages_db[languageId].names[icuLocaleId]:
+                    for territoryId in _territories_db:
+                        for icuLocaleId_territory in _territories_db[territoryId].names:
+                            if territory_name == _territories_db[territoryId].names[icuLocaleId_territory]:
+                                return languageId+'_'+territoryId
+
     return ''
 
 extra_bonus = 1000000
