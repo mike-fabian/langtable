@@ -1,3 +1,9 @@
+2013-08-03  Mike FABIAN  <mfabian@redhat.com>
+
+	* Version 0.0.9 released.
+	* Add endonyms for pa_Arab (and pa_PK) and translation of country name for Pakistan for pa_Arab
+	* make languageId() return something even if a language name like "language (territory)" is given (Resolves: rhbz#986659 - some language name to its locale code failed)
+
 2013-07-30  Mike FABIAN  <mfabian@redhat.com>
 
 	* Version 0.0.8 released.

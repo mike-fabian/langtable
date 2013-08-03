@@ -1,5 +1,5 @@
 Name:           langtable
-Version:        0.0.8
+Version:        0.0.9
 Release:        1%{?dist}
 Summary:        Guessing reasonable defaults for locale, keyboard layout, territory, and language.
 Group:          Development/Tools
@@ -68,6 +68,11 @@ xmllint --noout --relaxng $RPM_BUILD_ROOT/%{_datadir}/langtable/schemas/territor
 %{_datadir}/langtable/*.xml.gz
 
 %changelog
+* Sat Aug 03 2013 Mike FABIAN <mfabian@redhat.com> - 0.0.9-1
+- Update to 0.0.9
+- Add endonyms for pa_Arab (and pa_PK) and translation of country name for Pakistan for pa_Arab
+- make languageId() return something even if a language name like "language (territory)" is given (Resolves: rhbz#986659 - some language name to its locale code failed)
+
 * Tue Jul 30 2013 Mike FABIAN <mfabian@redhat.com> - 0.0.8-1
 - Update to 0.0.8
 - Add endonym for Maithili
