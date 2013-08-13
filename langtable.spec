@@ -1,5 +1,5 @@
 Name:           langtable
-Version:        0.0.9
+Version:        0.0.10
 Release:        1%{?dist}
 Summary:        Guessing reasonable defaults for locale, keyboard layout, territory, and language.
 Group:          Development/Tools
@@ -68,6 +68,10 @@ xmllint --noout --relaxng $RPM_BUILD_ROOT/%{_datadir}/langtable/schemas/territor
 %{_datadir}/langtable/*.xml.gz
 
 %changelog
+* Tue Aug 13 2013 Mike FABIAN <mfabian@redhat.com> - 0.0.10-1
+- Update to 0.0.10
+- Add translations for Belarusian and Belarus in Latin script (reported by Vratislav Podzimek)
+
 * Sat Aug 03 2013 Mike FABIAN <mfabian@redhat.com> - 0.0.9-1
 - Update to 0.0.9
 - Add endonyms for pa_Arab (and pa_PK) and translation of country name for Pakistan for pa_Arab
