@@ -825,6 +825,43 @@
 >>> print language_name(languageId="sr_Latn_RS", scriptId="Cyrl", territoryId="DE", languageIdQuery="en").encode("UTF-8") # doctest: +NORMALIZE_WHITESPACE
     Serbian (Latin)
 
+>>> print language_name(languageId="be").encode("UTF-8") # doctest: +NORMALIZE_WHITESPACE
+    беларуская
+
+>>> print language_name(languageId="be", territoryId="BY").encode("UTF-8") # doctest: +NORMALIZE_WHITESPACE
+    беларуская (Беларусь)
+
+>>> print language_name(languageId="be", scriptId="Cyrl").encode("UTF-8") # doctest: +NORMALIZE_WHITESPACE
+    беларуская
+
+>>> print language_name(languageId="be", scriptId="Latn").encode("UTF-8") # doctest: +NORMALIZE_WHITESPACE
+    biełaruskaja
+
+>>> print language_name(languageId="be", scriptId="latin", languageIdQuery="be", scriptIdQuery="latin").encode("UTF-8") # doctest: +NORMALIZE_WHITESPACE
+    biełaruskaja
+
+>>> print language_name(languageId="be", scriptId="Cyrl", territoryId="BY").encode("UTF-8") # doctest: +NORMALIZE_WHITESPACE
+    беларуская (Беларусь)
+
+>>> print language_name(languageId="be", scriptId="Latn", territoryId="BY").encode("UTF-8") # doctest: +NORMALIZE_WHITESPACE
+    biełaruskaja (Bielaruś)
+
+>>> print language_name(languageId="be", languageIdQuery="en").encode("UTF-8") # doctest: +NORMALIZE_WHITESPACE
+    Belarusian
+
+>>> print language_name(languageId="be", territoryId="BY", languageIdQuery="en").encode("UTF-8") # doctest: +NORMALIZE_WHITESPACE
+    Belarusian (Belarus)
+
+>>> print language_name(languageId="be", scriptId="Cyrl", territoryId="BY", languageIdQuery="en").encode("UTF-8") # doctest: +NORMALIZE_WHITESPACE
+    Belarusian (Belarus)
+
+>>> print language_name(languageId="be", scriptId="Latn", territoryId="BY", languageIdQuery="en").encode("UTF-8") # doctest: +NORMALIZE_WHITESPACE
+    Belarusian (Belarus)
+
+# script and territory given in languageId override script and territory in extra parameters:
+>>> print language_name(languageId="be_Latn_BY", scriptId="Cyrl", territoryId="DE", languageIdQuery="en").encode("UTF-8") # doctest: +NORMALIZE_WHITESPACE
+    Belarusian (Belarus)
+
 >>> print language_name(languageId="pa").encode("UTF-8") # doctest: +NORMALIZE_WHITESPACE
     ਪੰਜਾਬੀ
 

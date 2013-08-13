@@ -1094,6 +1094,8 @@
       <name><languageId>ast</languageId><trName>bielorrusu</trName></name>
       <name><languageId>az</languageId><trName>belarusca</trName></name>
       <name><languageId>be</languageId><trName>беларуская</trName></name>
+      <name><languageId>be_Cyrl</languageId><trName>беларуская</trName></name>
+      <name><languageId>be_Latn</languageId><trName>biełaruskaja</trName></name>
       <name><languageId>bem</languageId><trName>Ichi Belarus</trName></name>
       <name><languageId>bg</languageId><trName>беларуски</trName></name>
       <name><languageId>bn</languageId><trName>বেলারুশিয়</trName></name>
