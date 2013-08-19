@@ -109,7 +109,7 @@
       <name><languageId>am</languageId><trName>አፍሪካንኛ</trName></name>
       <name><languageId>ar</languageId><trName>الأفريقية</trName></name>
       <name><languageId>ast</languageId><trName>afrikaans</trName></name>
-      <name><languageId>az</languageId><trName>Afrikaanca</trName></name>
+      <name><languageId>az</languageId><trName>afrikaans</trName></name>
       <name><languageId>be</languageId><trName>афрыкаанс</trName></name>
       <name><languageId>bg</languageId><trName>африканс</trName></name>
       <name><languageId>bn</languageId><trName>আফ্রিকান্স</trName></name>
@@ -340,7 +340,7 @@
       <name><languageId>am</languageId><trName>አማርኛ</trName></name>
       <name><languageId>ar</languageId><trName>الأمهرية</trName></name>
       <name><languageId>ast</languageId><trName>amharicu</trName></name>
-      <name><languageId>az</languageId><trName>amarikcə</trName></name>
+      <name><languageId>az</languageId><trName>amhar</trName></name>
       <name><languageId>be</languageId><trName>амхарская</trName></name>
       <name><languageId>bem</languageId><trName>Ichi Amhari</trName></name>
       <name><languageId>bg</languageId><trName>амхарски</trName></name>
@@ -561,7 +561,7 @@
       <name><languageId>am</languageId><trName>ዐርቢኛ</trName></name>
       <name><languageId>ar</languageId><trName>العربية</trName></name>
       <name><languageId>ast</languageId><trName>árabe</trName></name>
-      <name><languageId>az</languageId><trName>Ərəbcə</trName></name>
+      <name><languageId>az</languageId><trName>ərəb</trName></name>
       <name><languageId>be</languageId><trName>арабская</trName></name>
       <name><languageId>bem</languageId><trName>Ichi Arab</trName></name>
       <name><languageId>bg</languageId><trName>арабски</trName></name>
@@ -962,7 +962,7 @@
       <name><languageId>am</languageId><trName>አዘርባጃንኛ</trName></name>
       <name><languageId>ar</languageId><trName>الأذرية</trName></name>
       <name><languageId>ast</languageId><trName>azerbaixanu</trName></name>
-      <name><languageId>az</languageId><trName>azərbaycanca</trName></name>
+      <name><languageId>az</languageId><trName>azərbaycan</trName></name>
       <name><languageId>be</languageId><trName>азербайджанская</trName></name>
       <name><languageId>bg</languageId><trName>азърбайджански</trName></name>
       <name><languageId>bn</languageId><trName>আজারবাইজানীয়</trName></name>
@@ -1092,7 +1092,7 @@
       <name><languageId>am</languageId><trName>ቤላራሻኛ</trName></name>
       <name><languageId>ar</languageId><trName>البيلوروسية</trName></name>
       <name><languageId>ast</languageId><trName>bielorrusu</trName></name>
-      <name><languageId>az</languageId><trName>belarusca</trName></name>
+      <name><languageId>az</languageId><trName>belarus</trName></name>
       <name><languageId>be</languageId><trName>беларуская</trName></name>
       <name><languageId>be_Cyrl</languageId><trName>беларуская</trName></name>
       <name><languageId>be_Latn</languageId><trName>biełaruskaja</trName></name>
@@ -1414,7 +1414,7 @@
       <name><languageId>am</languageId><trName>ቡልጋሪኛ</trName></name>
       <name><languageId>ar</languageId><trName>البلغارية</trName></name>
       <name><languageId>ast</languageId><trName>búlgaru</trName></name>
-      <name><languageId>az</languageId><trName>bolqarca</trName></name>
+      <name><languageId>az</languageId><trName>bolqar</trName></name>
       <name><languageId>be</languageId><trName>балгарская</trName></name>
       <name><languageId>bem</languageId><trName>Ichi Bulgariani</trName></name>
       <name><languageId>bg</languageId><trName>български</trName></name>
@@ -1632,7 +1632,7 @@
       <name><languageId>am</languageId><trName>ቤንጋሊኛ</trName></name>
       <name><languageId>ar</languageId><trName>البنغالية</trName></name>
       <name><languageId>ast</languageId><trName>bengalín</trName></name>
-      <name><languageId>az</languageId><trName>Benqal dili</trName></name>
+      <name><languageId>az</languageId><trName>benqal</trName></name>
       <name><languageId>be</languageId><trName>бенгальская</trName></name>
       <name><languageId>bem</languageId><trName>Ichi Bengali</trName></name>
       <name><languageId>bg</languageId><trName>бенгалски</trName></name>
@@ -1771,7 +1771,7 @@
       <name><languageId>am</languageId><trName>ቲቤታንኛ</trName></name>
       <name><languageId>ar</languageId><trName>التبتية</trName></name>
       <name><languageId>ast</languageId><trName>tibetanu</trName></name>
-      <name><languageId>az</languageId><trName>tibet dili</trName></name>
+      <name><languageId>az</languageId><trName>tibet</trName></name>
       <name><languageId>bg</languageId><trName>тибетски</trName></name>
       <name><languageId>bn</languageId><trName>তিব্বতি</trName></name>
       <name><languageId>bo</languageId><trName>པོད་སྐད་</trName></name>
@@ -2075,7 +2075,7 @@
       <name><languageId>am</languageId><trName>ቦስኒያንኛ</trName></name>
       <name><languageId>ar</languageId><trName>البوسنية</trName></name>
       <name><languageId>ast</languageId><trName>bosniu</trName></name>
-      <name><languageId>az</languageId><trName>bosniya dili</trName></name>
+      <name><languageId>az</languageId><trName>bosniak</trName></name>
       <name><languageId>be</languageId><trName>баснійская</trName></name>
       <name><languageId>bg</languageId><trName>босненски</trName></name>
       <name><languageId>bn</languageId><trName>বসনীয়</trName></name>
@@ -2286,7 +2286,7 @@
       <name><languageId>am</languageId><trName>ካታላንኛ</trName></name>
       <name><languageId>ar</languageId><trName>الكتالانية</trName></name>
       <name><languageId>ast</languageId><trName>catalán</trName></name>
-      <name><languageId>az</languageId><trName>katalanca</trName></name>
+      <name><languageId>az</languageId><trName>katalan</trName></name>
       <name><languageId>be</languageId><trName>каталонская</trName></name>
       <name><languageId>bg</languageId><trName>каталонски</trName></name>
       <name><languageId>bn</languageId><trName>কাতালান</trName></name>
@@ -2599,7 +2599,7 @@
       <name><languageId>am</languageId><trName>ቼክኛ</trName></name>
       <name><languageId>ar</languageId><trName>التشيكية</trName></name>
       <name><languageId>ast</languageId><trName>checu</trName></name>
-      <name><languageId>az</languageId><trName>çex dili</trName></name>
+      <name><languageId>az</languageId><trName>çex</trName></name>
       <name><languageId>be</languageId><trName>чэшская</trName></name>
       <name><languageId>bem</languageId><trName>Ichi Cheki</trName></name>
       <name><languageId>bg</languageId><trName>чешки</trName></name>
@@ -2903,7 +2903,7 @@
       <name><languageId>am</languageId><trName>ወልሽ</trName></name>
       <name><languageId>ar</languageId><trName>الولزية</trName></name>
       <name><languageId>ast</languageId><trName>galés</trName></name>
-      <name><languageId>az</languageId><trName>uelscə</trName></name>
+      <name><languageId>az</languageId><trName>uels</trName></name>
       <name><languageId>be</languageId><trName>валійская</trName></name>
       <name><languageId>bg</languageId><trName>уелски</trName></name>
       <name><languageId>bn</languageId><trName>ওয়েলশ</trName></name>
@@ -3032,7 +3032,7 @@
       <name><languageId>am</languageId><trName>ዴኒሽ</trName></name>
       <name><languageId>ar</languageId><trName>الدانماركية</trName></name>
       <name><languageId>ast</languageId><trName>danés</trName></name>
-      <name><languageId>az</languageId><trName>danimarka dili</trName></name>
+      <name><languageId>az</languageId><trName>danimarka</trName></name>
       <name><languageId>be</languageId><trName>дацкая</trName></name>
       <name><languageId>bg</languageId><trName>датски</trName></name>
       <name><languageId>bn</languageId><trName>ডেনিশ</trName></name>
@@ -3167,7 +3167,7 @@
       <name><languageId>am</languageId><trName>ጀርመን</trName></name>
       <name><languageId>ar</languageId><trName>الألمانية</trName></name>
       <name><languageId>ast</languageId><trName>alemán</trName></name>
-      <name><languageId>az</languageId><trName>almanca</trName></name>
+      <name><languageId>az</languageId><trName>alman</trName></name>
       <name><languageId>be</languageId><trName>нямецкая</trName></name>
       <name><languageId>bem</languageId><trName>Ichi Jemani</trName></name>
       <name><languageId>bg</languageId><trName>немски</trName></name>
@@ -3695,7 +3695,7 @@
       <name><languageId>am</languageId><trName>ግሪክኛ</trName></name>
       <name><languageId>ar</languageId><trName>اليونانية</trName></name>
       <name><languageId>ast</languageId><trName>griegu</trName></name>
-      <name><languageId>az</languageId><trName>yunanca</trName></name>
+      <name><languageId>az</languageId><trName>yunan</trName></name>
       <name><languageId>be</languageId><trName>грэцкая</trName></name>
       <name><languageId>bem</languageId><trName>Ichi Griki</trName></name>
       <name><languageId>bg</languageId><trName>гръцки</trName></name>
@@ -3837,7 +3837,7 @@
       <name><languageId>am</languageId><trName>እንግሊዝኛ</trName></name>
       <name><languageId>ar</languageId><trName>الإنجليزية</trName></name>
       <name><languageId>ast</languageId><trName>inglés</trName></name>
-      <name><languageId>az</languageId><trName>ingiliscə</trName></name>
+      <name><languageId>az</languageId><trName>ingilis</trName></name>
       <name><languageId>be</languageId><trName>англійская</trName></name>
       <name><languageId>bem</languageId><trName>Ichi Sungu</trName></name>
       <name><languageId>bg</languageId><trName>английски</trName></name>
@@ -4197,7 +4197,7 @@
       <name><languageId>am</languageId><trName>ስፓኒሽ</trName></name>
       <name><languageId>ar</languageId><trName>الإسبانية</trName></name>
       <name><languageId>ast</languageId><trName>español</trName></name>
-      <name><languageId>az</languageId><trName>ispanca</trName></name>
+      <name><languageId>az</languageId><trName>ispan</trName></name>
       <name><languageId>be</languageId><trName>іспанская</trName></name>
       <name><languageId>bem</languageId><trName>Ichi Spanishi</trName></name>
       <name><languageId>bg</languageId><trName>испански</trName></name>
@@ -4453,7 +4453,7 @@
       <name><languageId>am</languageId><trName>ኢስቶኒያንኛ</trName></name>
       <name><languageId>ar</languageId><trName>الإستونية</trName></name>
       <name><languageId>ast</languageId><trName>estoniu</trName></name>
-      <name><languageId>az</languageId><trName>estonca</trName></name>
+      <name><languageId>az</languageId><trName>eston</trName></name>
       <name><languageId>be</languageId><trName>эстонская</trName></name>
       <name><languageId>bg</languageId><trName>естонски</trName></name>
       <name><languageId>bn</languageId><trName>এস্তোনীয়</trName></name>
@@ -4584,7 +4584,7 @@
       <name><languageId>am</languageId><trName>ባስክኛ</trName></name>
       <name><languageId>ar</languageId><trName>لغة الباسك</trName></name>
       <name><languageId>ast</languageId><trName>vascu</trName></name>
-      <name><languageId>az</languageId><trName>bask dili</trName></name>
+      <name><languageId>az</languageId><trName>bask</trName></name>
       <name><languageId>be</languageId><trName>баскская</trName></name>
       <name><languageId>bg</languageId><trName>баски</trName></name>
       <name><languageId>bn</languageId><trName>বাস্ক</trName></name>
@@ -4715,7 +4715,7 @@
       <name><languageId>am</languageId><trName>ፐርሺያኛ</trName></name>
       <name><languageId>ar</languageId><trName>الفارسية</trName></name>
       <name><languageId>ast</languageId><trName>persa</trName></name>
-      <name><languageId>az</languageId><trName>farsca</trName></name>
+      <name><languageId>az</languageId><trName>fars</trName></name>
       <name><languageId>be</languageId><trName>фарсі</trName></name>
       <name><languageId>bem</languageId><trName>Ichi Pesia</trName></name>
       <name><languageId>bg</languageId><trName>персийски</trName></name>
@@ -4935,7 +4935,7 @@
       <name><languageId>am</languageId><trName>ፊኒሽ</trName></name>
       <name><languageId>ar</languageId><trName>الفنلندية</trName></name>
       <name><languageId>ast</languageId><trName>finlandés</trName></name>
-      <name><languageId>az</languageId><trName>fincə</trName></name>
+      <name><languageId>az</languageId><trName>fin</trName></name>
       <name><languageId>be</languageId><trName>фінская</trName></name>
       <name><languageId>bg</languageId><trName>фински</trName></name>
       <name><languageId>bn</languageId><trName>ফিনিশ</trName></name>
@@ -5067,7 +5067,7 @@
       <name><languageId>am</languageId><trName>ፊሊፒንኛ</trName></name>
       <name><languageId>ar</languageId><trName>الفلبينية</trName></name>
       <name><languageId>ast</languageId><trName>filipín</trName></name>
-      <name><languageId>az</languageId><trName>taqaloqca</trName></name>
+      <name><languageId>az</languageId><trName>filippin</trName></name>
       <name><languageId>be</languageId><trName>тагальская</trName></name>
       <name><languageId>bg</languageId><trName>филипински</trName></name>
       <name><languageId>bn</languageId><trName>ফিলিপিনো</trName></name>
@@ -5309,7 +5309,7 @@
       <name><languageId>am</languageId><trName>ፋሮኛ</trName></name>
       <name><languageId>ar</languageId><trName>الفارويز</trName></name>
       <name><languageId>ast</languageId><trName>feroés</trName></name>
-      <name><languageId>az</languageId><trName>farer dili</trName></name>
+      <name><languageId>az</languageId><trName>farer</trName></name>
       <name><languageId>be</languageId><trName>фарэрская</trName></name>
       <name><languageId>bg</languageId><trName>фарьорски</trName></name>
       <name><languageId>bn</languageId><trName>ফেরাউনি</trName></name>
@@ -5439,7 +5439,7 @@
       <name><languageId>am</languageId><trName>ፈረንሳይኛ</trName></name>
       <name><languageId>ar</languageId><trName>الفرنسية</trName></name>
       <name><languageId>ast</languageId><trName>francés</trName></name>
-      <name><languageId>az</languageId><trName>fransızca</trName></name>
+      <name><languageId>az</languageId><trName>fransız</trName></name>
       <name><languageId>be</languageId><trName>французская</trName></name>
       <name><languageId>bem</languageId><trName>Ichi Frenchi</trName></name>
       <name><languageId>bg</languageId><trName>френски</trName></name>
@@ -5681,7 +5681,7 @@
       <name><languageId>am</languageId><trName>የምዕራብ ፍሪስኛ</trName></name>
       <name><languageId>ar</languageId><trName>الفريزيان</trName></name>
       <name><languageId>ast</languageId><trName>frisón occidental</trName></name>
-      <name><languageId>az</languageId><trName>frisk dili</trName></name>
+      <name><languageId>az</languageId><trName>friz</trName></name>
       <name><languageId>be</languageId><trName>фрызская</trName></name>
       <name><languageId>bg</languageId><trName>фризийски</trName></name>
       <name><languageId>bn</languageId><trName>পশ্চিম ফ্রিসিয়</trName></name>
@@ -5813,7 +5813,7 @@
       <name><languageId>am</languageId><trName>አይሪሽ</trName></name>
       <name><languageId>ar</languageId><trName>الأيرلندية</trName></name>
       <name><languageId>ast</languageId><trName>irlandés</trName></name>
-      <name><languageId>az</languageId><trName>irlandca</trName></name>
+      <name><languageId>az</languageId><trName>irland</trName></name>
       <name><languageId>be</languageId><trName>ірландская</trName></name>
       <name><languageId>bg</languageId><trName>ирландски</trName></name>
       <name><languageId>bn</languageId><trName>আইরিশ</trName></name>
@@ -6154,7 +6154,7 @@
       <name><languageId>am</languageId><trName>ጌሊክ</trName></name>
       <name><languageId>ar</languageId><trName>الجاليكية</trName></name>
       <name><languageId>ast</languageId><trName>gallegu</trName></name>
-      <name><languageId>az</languageId><trName>qalisian dili</trName></name>
+      <name><languageId>az</languageId><trName>qalisian</trName></name>
       <name><languageId>be</languageId><trName>галісійская</trName></name>
       <name><languageId>bg</languageId><trName>галисийски</trName></name>
       <name><languageId>bn</languageId><trName>গ্যালিশিয়</trName></name>
@@ -6373,7 +6373,7 @@
       <name><languageId>am</languageId><trName>ጉጃርቲኛ</trName></name>
       <name><languageId>ar</languageId><trName>الغوجاراتية</trName></name>
       <name><languageId>ast</languageId><trName>guyaratí</trName></name>
-      <name><languageId>az</languageId><trName>gujarati dili</trName></name>
+      <name><languageId>az</languageId><trName>qucarat</trName></name>
       <name><languageId>be</languageId><trName>гуяраці</trName></name>
       <name><languageId>bg</languageId><trName>гуджарати</trName></name>
       <name><languageId>bn</languageId><trName>গুজরাটি</trName></name>
@@ -6592,7 +6592,7 @@
       <name><languageId>am</languageId><trName>ሃውሳኛ</trName></name>
       <name><languageId>ar</languageId><trName>الهوسا</trName></name>
       <name><languageId>ast</languageId><trName>ḥausa</trName></name>
-      <name><languageId>az</languageId><trName>Hausa dili</trName></name>
+      <name><languageId>az</languageId><trName>hausa</trName></name>
       <name><languageId>bem</languageId><trName>Ichi Hausa</trName></name>
       <name><languageId>bg</languageId><trName>хауза</trName></name>
       <name><languageId>bn</languageId><trName>হাউসা</trName></name>
@@ -6824,7 +6824,7 @@
       <name><languageId>am</languageId><trName>ዕብራስጥ</trName></name>
       <name><languageId>ar</languageId><trName>العبرية</trName></name>
       <name><languageId>ast</languageId><trName>hebréu</trName></name>
-      <name><languageId>az</languageId><trName>ivritcə</trName></name>
+      <name><languageId>az</languageId><trName>ivrit</trName></name>
       <name><languageId>be</languageId><trName>іўрыт</trName></name>
       <name><languageId>bg</languageId><trName>иврит</trName></name>
       <name><languageId>bn</languageId><trName>হিব্রু</trName></name>
@@ -6958,7 +6958,7 @@
       <name><languageId>am</languageId><trName>ሒንዱኛ</trName></name>
       <name><languageId>ar</languageId><trName>الهندية</trName></name>
       <name><languageId>ast</languageId><trName>hindi</trName></name>
-      <name><languageId>az</languageId><trName>hindi dili</trName></name>
+      <name><languageId>az</languageId><trName>hindi</trName></name>
       <name><languageId>be</languageId><trName>хіндзі</trName></name>
       <name><languageId>bem</languageId><trName>Ichi Hindu</trName></name>
       <name><languageId>bg</languageId><trName>хинди</trName></name>
@@ -7200,7 +7200,7 @@
       <name><languageId>am</languageId><trName>ክሮሽያንኛ</trName></name>
       <name><languageId>ar</languageId><trName>الكرواتية</trName></name>
       <name><languageId>ast</languageId><trName>croata</trName></name>
-      <name><languageId>az</languageId><trName>xorvatca</trName></name>
+      <name><languageId>az</languageId><trName>xorvat</trName></name>
       <name><languageId>be</languageId><trName>харвацкая</trName></name>
       <name><languageId>bg</languageId><trName>хърватски</trName></name>
       <name><languageId>bn</languageId><trName>ক্রোয়েশীয়</trName></name>
@@ -7413,7 +7413,7 @@
       <name><languageId>am</languageId><trName>ሃይትኛ</trName></name>
       <name><languageId>ar</languageId><trName>الهايتية</trName></name>
       <name><languageId>ast</languageId><trName>haitianu</trName></name>
-      <name><languageId>az</languageId><trName>haiti dili</trName></name>
+      <name><languageId>az</languageId><trName>haiti</trName></name>
       <name><languageId>bg</languageId><trName>хаитянски</trName></name>
       <name><languageId>bn</languageId><trName>হাইতিয়ান</trName></name>
       <name><languageId>br</languageId><trName>haitieg</trName></name>
@@ -7527,7 +7527,7 @@
       <name><languageId>am</languageId><trName>ሀንጋሪኛ</trName></name>
       <name><languageId>ar</languageId><trName>الهنغارية</trName></name>
       <name><languageId>ast</languageId><trName>húngaru</trName></name>
-      <name><languageId>az</languageId><trName>macarca</trName></name>
+      <name><languageId>az</languageId><trName>macar</trName></name>
       <name><languageId>be</languageId><trName>венгерская</trName></name>
       <name><languageId>bem</languageId><trName>Ichi Hangarian</trName></name>
       <name><languageId>bg</languageId><trName>унгарски</trName></name>
@@ -7663,7 +7663,7 @@
       <name><languageId>am</languageId><trName>አርመናዊ</trName></name>
       <name><languageId>ar</languageId><trName>الأرمينية</trName></name>
       <name><languageId>ast</languageId><trName>armeniu</trName></name>
-      <name><languageId>az</languageId><trName>Ermənicə</trName></name>
+      <name><languageId>az</languageId><trName>erməni</trName></name>
       <name><languageId>be</languageId><trName>армянская</trName></name>
       <name><languageId>bg</languageId><trName>арменски</trName></name>
       <name><languageId>bn</languageId><trName>আর্মেনিয়</trName></name>
@@ -7904,7 +7904,7 @@
       <name><languageId>am</languageId><trName>ኢንዶኔዥኛ</trName></name>
       <name><languageId>ar</languageId><trName>الإندونيسية</trName></name>
       <name><languageId>ast</languageId><trName>indonesiu</trName></name>
-      <name><languageId>az</languageId><trName>indoneziya dili</trName></name>
+      <name><languageId>az</languageId><trName>indoneziya</trName></name>
       <name><languageId>be</languageId><trName>інданезійская</trName></name>
       <name><languageId>bem</languageId><trName>Ichi Indonesiani</trName></name>
       <name><languageId>bg</languageId><trName>индонезийски</trName></name>
@@ -8041,7 +8041,7 @@
       <name><languageId>am</languageId><trName>ኢግቦኛ</trName></name>
       <name><languageId>ar</languageId><trName>الإيجبو</trName></name>
       <name><languageId>ast</languageId><trName>igbo</trName></name>
-      <name><languageId>az</languageId><trName>iqbo dili</trName></name>
+      <name><languageId>az</languageId><trName>iqbo</trName></name>
       <name><languageId>bem</languageId><trName>Ichi Ibo</trName></name>
       <name><languageId>bg</languageId><trName>игбо</trName></name>
       <name><languageId>bn</languageId><trName>ইগ্‌বো</trName></name>
@@ -8333,7 +8333,7 @@
       <name><languageId>am</languageId><trName>አይስላንድኛ</trName></name>
       <name><languageId>ar</languageId><trName>الأيسلاندية</trName></name>
       <name><languageId>ast</languageId><trName>islandés</trName></name>
-      <name><languageId>az</languageId><trName>isləndcə</trName></name>
+      <name><languageId>az</languageId><trName>island</trName></name>
       <name><languageId>be</languageId><trName>ісландская</trName></name>
       <name><languageId>bg</languageId><trName>исландски</trName></name>
       <name><languageId>bn</languageId><trName>আইসল্যান্ডীয়</trName></name>
@@ -8464,7 +8464,7 @@
       <name><languageId>am</languageId><trName>ጣሊያንኛ</trName></name>
       <name><languageId>ar</languageId><trName>الإيطالية</trName></name>
       <name><languageId>ast</languageId><trName>italianu</trName></name>
-      <name><languageId>az</languageId><trName>italyanca</trName></name>
+      <name><languageId>az</languageId><trName>italyan</trName></name>
       <name><languageId>be</languageId><trName>італьянская</trName></name>
       <name><languageId>bem</languageId><trName>Ichi Italiani</trName></name>
       <name><languageId>bg</languageId><trName>италиански</trName></name>
@@ -8732,7 +8732,7 @@
       <name><languageId>am</languageId><trName>ጃፓንኛ</trName></name>
       <name><languageId>ar</languageId><trName>اليابانية</trName></name>
       <name><languageId>ast</languageId><trName>xaponés</trName></name>
-      <name><languageId>az</languageId><trName>yaponca</trName></name>
+      <name><languageId>az</languageId><trName>yapon</trName></name>
       <name><languageId>be</languageId><trName>японская</trName></name>
       <name><languageId>bem</languageId><trName>Ichi Japanisi</trName></name>
       <name><languageId>bg</languageId><trName>японски</trName></name>
@@ -8873,7 +8873,7 @@
       <name><languageId>am</languageId><trName>ጆርጂያን</trName></name>
       <name><languageId>ar</languageId><trName>الجورجية</trName></name>
       <name><languageId>ast</languageId><trName>xeorxanu</trName></name>
-      <name><languageId>az</languageId><trName>gürcü dili</trName></name>
+      <name><languageId>az</languageId><trName>gürcü</trName></name>
       <name><languageId>be</languageId><trName>грузінская</trName></name>
       <name><languageId>bg</languageId><trName>грузински</trName></name>
       <name><languageId>bn</languageId><trName>জর্জিয়ান</trName></name>
@@ -9098,7 +9098,7 @@
       <name><languageId>am</languageId><trName>ካዛክኛ</trName></name>
       <name><languageId>ar</languageId><trName>الكازاخستانية</trName></name>
       <name><languageId>ast</languageId><trName>kazaquistanín</trName></name>
-      <name><languageId>az</languageId><trName>qazax dili</trName></name>
+      <name><languageId>az</languageId><trName>qazax</trName></name>
       <name><languageId>be</languageId><trName>казахская</trName></name>
       <name><languageId>bg</languageId><trName>казахски</trName></name>
       <name><languageId>bn</languageId><trName>কাজাখ</trName></name>
@@ -9308,7 +9308,7 @@
       <name><languageId>ar</languageId><trName>الخميرية</trName></name>
       <name><languageId>as</languageId><trName>কম্বোডিয়ান</trName></name>
       <name><languageId>ast</languageId><trName>ḥemer</trName></name>
-      <name><languageId>az</languageId><trName>kambodiya dili</trName></name>
+      <name><languageId>az</languageId><trName>kxmer</trName></name>
       <name><languageId>bem</languageId><trName>Ichi Khmer</trName></name>
       <name><languageId>bg</languageId><trName>кхмерски</trName></name>
       <name><languageId>bn</languageId><trName>খমের</trName></name>
@@ -9436,7 +9436,7 @@
       <name><languageId>am</languageId><trName>ካናዳኛ</trName></name>
       <name><languageId>ar</languageId><trName>الكانادا</trName></name>
       <name><languageId>ast</languageId><trName>canarés</trName></name>
-      <name><languageId>az</languageId><trName>kannada dili</trName></name>
+      <name><languageId>az</languageId><trName>kannada</trName></name>
       <name><languageId>be</languageId><trName>каннада</trName></name>
       <name><languageId>bg</languageId><trName>каннада</trName></name>
       <name><languageId>bn</languageId><trName>কান্নাড়ী</trName></name>
@@ -9564,7 +9564,7 @@
       <name><languageId>am</languageId><trName>ኮሪያኛ</trName></name>
       <name><languageId>ar</languageId><trName>الكورية</trName></name>
       <name><languageId>ast</languageId><trName>coreanu</trName></name>
-      <name><languageId>az</languageId><trName>koreya dili</trName></name>
+      <name><languageId>az</languageId><trName>koreya</trName></name>
       <name><languageId>be</languageId><trName>карэйская</trName></name>
       <name><languageId>bem</languageId><trName>Ichi Koriani</trName></name>
       <name><languageId>bg</languageId><trName>корейски</trName></name>
@@ -9785,7 +9785,7 @@
       <name><languageId>am</languageId><trName>ካሽሚርኛ</trName></name>
       <name><languageId>ar</languageId><trName>الكشميرية</trName></name>
       <name><languageId>ast</languageId><trName>cachemirés</trName></name>
-      <name><languageId>az</languageId><trName>kəşmir dili</trName></name>
+      <name><languageId>az</languageId><trName>kaşmir</trName></name>
       <name><languageId>bg</languageId><trName>кашмирски</trName></name>
       <name><languageId>bn</languageId><trName>কাশ্মীরী</trName></name>
       <name><languageId>br</languageId><trName>kashmiri</trName></name>
@@ -9959,7 +9959,7 @@
       <name><languageId>am</languageId><trName>ኩርድሽኛ</trName></name>
       <name><languageId>ar</languageId><trName>الكردية</trName></name>
       <name><languageId>ast</languageId><trName>curdu</trName></name>
-      <name><languageId>az</languageId><trName>kürdcə</trName></name>
+      <name><languageId>az</languageId><trName>kürd</trName></name>
       <name><languageId>be</languageId><trName>курдская</trName></name>
       <name><languageId>bg</languageId><trName>кюрдски</trName></name>
       <name><languageId>bn</languageId><trName>কুর্দি</trName></name>
@@ -10175,7 +10175,7 @@
       <name><languageId>am</languageId><trName>ኪርጊዝኛ</trName></name>
       <name><languageId>ar</languageId><trName>القيرغستانية</trName></name>
       <name><languageId>ast</languageId><trName>kirguistanín</trName></name>
-      <name><languageId>az</languageId><trName>qırğızca</trName></name>
+      <name><languageId>az</languageId><trName>qırğız</trName></name>
       <name><languageId>bg</languageId><trName>киргизски</trName></name>
       <name><languageId>bn</languageId><trName>কির্গিজ</trName></name>
       <name><languageId>br</languageId><trName>kirgiz</trName></name>
@@ -10429,7 +10429,7 @@
       <name><languageId>am</languageId><trName>ሉክዘምበርገርኛ</trName></name>
       <name><languageId>ar</languageId><trName>اللوكسمبرجية</trName></name>
       <name><languageId>ast</languageId><trName>luxemburgués</trName></name>
-      <name><languageId>az</languageId><trName>luksemburq dili</trName></name>
+      <name><languageId>az</languageId><trName>lüksemburq</trName></name>
       <name><languageId>bg</languageId><trName>люксембургски</trName></name>
       <name><languageId>bn</languageId><trName>লুক্সেমবার্গীয়</trName></name>
       <name><languageId>br</languageId><trName>luksembourgeg</trName></name>
@@ -10865,7 +10865,7 @@
       <name><languageId>am</languageId><trName>ላውስኛ</trName></name>
       <name><languageId>ar</languageId><trName>اللاوية</trName></name>
       <name><languageId>ast</languageId><trName>laosianu</trName></name>
-      <name><languageId>az</languageId><trName>laos dili</trName></name>
+      <name><languageId>az</languageId><trName>laos</trName></name>
       <name><languageId>be</languageId><trName>лаоская</trName></name>
       <name><languageId>bg</languageId><trName>лаоски</trName></name>
       <name><languageId>bn</languageId><trName>লাও</trName></name>
@@ -10988,7 +10988,7 @@
       <name><languageId>am</languageId><trName>ሉቴንያንኛ</trName></name>
       <name><languageId>ar</languageId><trName>اللتوانية</trName></name>
       <name><languageId>ast</languageId><trName>lituanu</trName></name>
-      <name><languageId>az</languageId><trName>litva dili</trName></name>
+      <name><languageId>az</languageId><trName>litva</trName></name>
       <name><languageId>be</languageId><trName>літоўская</trName></name>
       <name><languageId>bg</languageId><trName>литовски</trName></name>
       <name><languageId>bn</languageId><trName>লিথুয়েনীয</trName></name>
@@ -11118,7 +11118,7 @@
       <name><languageId>am</languageId><trName>ላትቪያን</trName></name>
       <name><languageId>ar</languageId><trName>اللاتفية</trName></name>
       <name><languageId>ast</languageId><trName>letón</trName></name>
-      <name><languageId>az</languageId><trName>latışca</trName></name>
+      <name><languageId>az</languageId><trName>latış</trName></name>
       <name><languageId>be</languageId><trName>латышская</trName></name>
       <name><languageId>bg</languageId><trName>латвийски</trName></name>
       <name><languageId>bn</languageId><trName>লাত্‌ভীয়</trName></name>
@@ -11415,7 +11415,7 @@
       <name><languageId>am</languageId><trName>ማላጋስኛ</trName></name>
       <name><languageId>ar</languageId><trName>المالاجاشية</trName></name>
       <name><languageId>ast</languageId><trName>malgaxe</trName></name>
-      <name><languageId>az</languageId><trName>malaqas dili</trName></name>
+      <name><languageId>az</languageId><trName>malaqas</trName></name>
       <name><languageId>be</languageId><trName>мальгашская</trName></name>
       <name><languageId>bg</languageId><trName>малгашки</trName></name>
       <name><languageId>bn</languageId><trName>মালাগাসি</trName></name>
@@ -11558,7 +11558,7 @@
       <name><languageId>am</languageId><trName>ማዮሪኛ</trName></name>
       <name><languageId>ar</languageId><trName>الماورية</trName></name>
       <name><languageId>ast</languageId><trName>maorí</trName></name>
-      <name><languageId>az</languageId><trName>maori dili</trName></name>
+      <name><languageId>az</languageId><trName>maori</trName></name>
       <name><languageId>bg</languageId><trName>маорски</trName></name>
       <name><languageId>bn</languageId><trName>মাওরি</trName></name>
       <name><languageId>br</languageId><trName>maori</trName></name>
@@ -11674,7 +11674,7 @@
       <name><languageId>am</languageId><trName>ማሴዶንኛ</trName></name>
       <name><languageId>ar</languageId><trName>المقدونية</trName></name>
       <name><languageId>ast</languageId><trName>macedoniu</trName></name>
-      <name><languageId>az</languageId><trName>makedoniya dili</trName></name>
+      <name><languageId>az</languageId><trName>makedon</trName></name>
       <name><languageId>be</languageId><trName>македонская</trName></name>
       <name><languageId>bg</languageId><trName>македонски</trName></name>
       <name><languageId>bn</languageId><trName>ম্যাসেডোনীয</trName></name>
@@ -11802,7 +11802,7 @@
       <name><languageId>am</languageId><trName>ማላያላምኛ</trName></name>
       <name><languageId>ar</languageId><trName>الماليالام</trName></name>
       <name><languageId>ast</languageId><trName>malayalam</trName></name>
-      <name><languageId>az</languageId><trName>malayalamca</trName></name>
+      <name><languageId>az</languageId><trName>malayalam</trName></name>
       <name><languageId>be</languageId><trName>малаяламская</trName></name>
       <name><languageId>bg</languageId><trName>малаялам</trName></name>
       <name><languageId>bn</languageId><trName>মালেয়ালাম</trName></name>
@@ -12216,7 +12216,7 @@
       <name><languageId>am</languageId><trName>ማራቲኛ</trName></name>
       <name><languageId>ar</languageId><trName>الماراثي</trName></name>
       <name><languageId>ast</languageId><trName>maratí</trName></name>
-      <name><languageId>az</languageId><trName>marati dili</trName></name>
+      <name><languageId>az</languageId><trName>marati</trName></name>
       <name><languageId>be</languageId><trName>маратхі</trName></name>
       <name><languageId>bg</languageId><trName>маратхи</trName></name>
       <name><languageId>bn</languageId><trName>মারাঠি</trName></name>
@@ -12344,7 +12344,7 @@
       <name><languageId>am</languageId><trName>ማላይኛ</trName></name>
       <name><languageId>ar</languageId><trName>لغة الملايو</trName></name>
       <name><languageId>ast</languageId><trName>malayu</trName></name>
-      <name><languageId>az</languageId><trName>malayca</trName></name>
+      <name><languageId>az</languageId><trName>malay</trName></name>
       <name><languageId>be</languageId><trName>малайская</trName></name>
       <name><languageId>bem</languageId><trName>Ichi Maleshani</trName></name>
       <name><languageId>bg</languageId><trName>малайски</trName></name>
@@ -12478,7 +12478,7 @@
       <name><languageId>am</languageId><trName>ማልቲስኛ</trName></name>
       <name><languageId>ar</languageId><trName>المالطية</trName></name>
       <name><languageId>ast</languageId><trName>maltés</trName></name>
-      <name><languageId>az</languageId><trName>malta dili</trName></name>
+      <name><languageId>az</languageId><trName>malta</trName></name>
       <name><languageId>be</languageId><trName>мальтыйская</trName></name>
       <name><languageId>bg</languageId><trName>малтийски</trName></name>
       <name><languageId>bn</languageId><trName>মল্টিয়</trName></name>
@@ -12607,7 +12607,7 @@
       <name><languageId>am</languageId><trName>ቡርማኛ</trName></name>
       <name><languageId>ar</languageId><trName>البورمية</trName></name>
       <name><languageId>ast</languageId><trName>birmanu</trName></name>
-      <name><languageId>az</languageId><trName>burmis dili</trName></name>
+      <name><languageId>az</languageId><trName>birma</trName></name>
       <name><languageId>bem</languageId><trName>Ichi Burma</trName></name>
       <name><languageId>bg</languageId><trName>бирмански</trName></name>
       <name><languageId>bn</languageId><trName>বর্মি</trName></name>
@@ -12758,7 +12758,7 @@
       <name><languageId>am</languageId><trName>የኖርዌይ ቦክማል</trName></name>
       <name><languageId>ar</languageId><trName>البوكمالية النرويجية</trName></name>
       <name><languageId>ast</languageId><trName>noruegu Bokmål</trName></name>
-      <name><languageId>az</languageId><trName>norvec bokmal dili</trName></name>
+      <name><languageId>az</languageId><trName>bokmal norveç</trName></name>
       <name><languageId>be</languageId><trName>нарвэская букмал</trName></name>
       <name><languageId>bg</languageId><trName>норвежки бокмал</trName></name>
       <name><languageId>bn</languageId><trName>নরওয়ে বোকমাল</trName></name>
@@ -12962,7 +12962,7 @@
       <name><languageId>am</languageId><trName>ኔፓሊኛ</trName></name>
       <name><languageId>ar</languageId><trName>النيبالية</trName></name>
       <name><languageId>ast</languageId><trName>nepalés</trName></name>
-      <name><languageId>az</languageId><trName>nepalca</trName></name>
+      <name><languageId>az</languageId><trName>nepal</trName></name>
       <name><languageId>be</languageId><trName>непальская</trName></name>
       <name><languageId>bem</languageId><trName>Ichi Nepali</trName></name>
       <name><languageId>bg</languageId><trName>непалски</trName></name>
@@ -13097,7 +13097,7 @@
       <name><languageId>am</languageId><trName>ደች</trName></name>
       <name><languageId>ar</languageId><trName>الهولندية</trName></name>
       <name><languageId>ast</languageId><trName>neerlandés</trName></name>
-      <name><languageId>az</languageId><trName>hollandca</trName></name>
+      <name><languageId>az</languageId><trName>holland</trName></name>
       <name><languageId>be</languageId><trName>галандская</trName></name>
       <name><languageId>bem</languageId><trName>Ichi Dachi</trName></name>
       <name><languageId>bg</languageId><trName>холандски</trName></name>
@@ -13244,7 +13244,7 @@
       <name><languageId>am</languageId><trName>የኖርዌይ ናይኖርስክ</trName></name>
       <name><languageId>ar</languageId><trName>النينورسك النرويجي</trName></name>
       <name><languageId>ast</languageId><trName>noruegu Nynorsk</trName></name>
-      <name><languageId>az</languageId><trName>norveç ninorsk dili</trName></name>
+      <name><languageId>az</languageId><trName>nünorsk norveç</trName></name>
       <name><languageId>be</languageId><trName>нарвежская (нюнорск)</trName></name>
       <name><languageId>bg</languageId><trName>съвременен норвежки</trName></name>
       <name><languageId>bn</languageId><trName>নরওয়েজীয়ান নিনর্স্ক</trName></name>
@@ -13985,7 +13985,7 @@
       <name><languageId>am</languageId><trName>ኦሪያኛ</trName></name>
       <name><languageId>ar</languageId><trName>الأورييا</trName></name>
       <name><languageId>ast</languageId><trName>oriya</trName></name>
-      <name><languageId>az</languageId><trName>Oriyə dili</trName></name>
+      <name><languageId>az</languageId><trName>oriya</trName></name>
       <name><languageId>be</languageId><trName>орыя</trName></name>
       <name><languageId>bg</languageId><trName>ория</trName></name>
       <name><languageId>bn</languageId><trName>উড়িয়া</trName></name>
@@ -14211,7 +14211,7 @@
       <name><languageId>am</languageId><trName>ፑንጃብኛ</trName></name>
       <name><languageId>ar</languageId><trName>البنجابية</trName></name>
       <name><languageId>ast</languageId><trName>punyabí</trName></name>
-      <name><languageId>az</languageId><trName>puncab dili</trName></name>
+      <name><languageId>az</languageId><trName>pəncab</trName></name>
       <name><languageId>be</languageId><trName>панджабі</trName></name>
       <name><languageId>bem</languageId><trName>Ichi Punjabi</trName></name>
       <name><languageId>bg</languageId><trName>пенджабски</trName></name>
@@ -14437,7 +14437,7 @@
       <name><languageId>am</languageId><trName>ፖሊሽኛ</trName></name>
       <name><languageId>ar</languageId><trName>البولندية</trName></name>
       <name><languageId>ast</languageId><trName>polacu</trName></name>
-      <name><languageId>az</languageId><trName>Polish dili</trName></name>
+      <name><languageId>az</languageId><trName>polyak</trName></name>
       <name><languageId>be</languageId><trName>польская</trName></name>
       <name><languageId>bem</languageId><trName>Ichi Polishi</trName></name>
       <name><languageId>bg</languageId><trName>полски</trName></name>
@@ -14574,7 +14574,7 @@
       <name><languageId>am</languageId><trName>ፑሽቶ</trName></name>
       <name><languageId>ar</languageId><trName>بشتو</trName></name>
       <name><languageId>ast</languageId><trName>pashtu</trName></name>
-      <name><languageId>az</languageId><trName>Puştu dili</trName></name>
+      <name><languageId>az</languageId><trName>puştu</trName></name>
       <name><languageId>be</languageId><trName>пушту</trName></name>
       <name><languageId>bg</languageId><trName>пущу</trName></name>
       <name><languageId>bn</languageId><trName>পুশতো</trName></name>
@@ -14699,7 +14699,7 @@
       <name><languageId>am</languageId><trName>ፖርቹጋልኛ</trName></name>
       <name><languageId>ar</languageId><trName>البرتغالية</trName></name>
       <name><languageId>ast</languageId><trName>portugués</trName></name>
-      <name><languageId>az</languageId><trName>portuqalca</trName></name>
+      <name><languageId>az</languageId><trName>portuqal</trName></name>
       <name><languageId>be</languageId><trName>партугальская</trName></name>
       <name><languageId>bem</languageId><trName>Ichi Potogisi</trName></name>
       <name><languageId>bg</languageId><trName>португалски</trName></name>
@@ -15138,7 +15138,7 @@
       <name><languageId>am</languageId><trName>ራሽኛ</trName></name>
       <name><languageId>ar</languageId><trName>الروسية</trName></name>
       <name><languageId>ast</languageId><trName>rusu</trName></name>
-      <name><languageId>az</languageId><trName>rusca</trName></name>
+      <name><languageId>az</languageId><trName>rus</trName></name>
       <name><languageId>be</languageId><trName>руская</trName></name>
       <name><languageId>bem</languageId><trName>Ichi Rusiani</trName></name>
       <name><languageId>bg</languageId><trName>руски</trName></name>
@@ -15408,7 +15408,7 @@
       <name><languageId>am</languageId><trName>ሳንስክሪትኛ</trName></name>
       <name><languageId>ar</languageId><trName>السنسكريتية</trName></name>
       <name><languageId>ast</languageId><trName>sánscritu</trName></name>
-      <name><languageId>az</languageId><trName>Sanskrit dili</trName></name>
+      <name><languageId>az</languageId><trName>sanskrit</trName></name>
       <name><languageId>be</languageId><trName>санскрыт</trName></name>
       <name><languageId>bg</languageId><trName>санкскритски</trName></name>
       <name><languageId>bn</languageId><trName>সংষ্কৃত</trName></name>
@@ -15701,7 +15701,7 @@
       <name><languageId>am</languageId><trName>ሲንድሂኛ</trName></name>
       <name><languageId>ar</languageId><trName>السندية</trName></name>
       <name><languageId>ast</languageId><trName>sindhi</trName></name>
-      <name><languageId>az</languageId><trName>sindhi dili</trName></name>
+      <name><languageId>az</languageId><trName>sindhi</trName></name>
       <name><languageId>be</languageId><trName>сіндхі</trName></name>
       <name><languageId>bg</languageId><trName>синдхи</trName></name>
       <name><languageId>bn</languageId><trName>সিন্ধি</trName></name>
@@ -16008,7 +16008,7 @@
       <name><languageId>am</languageId><trName>ሲንሃልኛ</trName></name>
       <name><languageId>ar</languageId><trName>السنهالية</trName></name>
       <name><languageId>ast</languageId><trName>cingalés</trName></name>
-      <name><languageId>az</languageId><trName>sinhaliscə</trName></name>
+      <name><languageId>az</languageId><trName>sinhal</trName></name>
       <name><languageId>be</languageId><trName>сінгальская</trName></name>
       <name><languageId>bg</languageId><trName>синхалски</trName></name>
       <name><languageId>bn</languageId><trName>সিংহলী</trName></name>
@@ -16219,7 +16219,7 @@
       <name><languageId>am</languageId><trName>ስሎቫክኛ</trName></name>
       <name><languageId>ar</languageId><trName>السلوفاكية</trName></name>
       <name><languageId>ast</languageId><trName>eslovacu</trName></name>
-      <name><languageId>az</languageId><trName>slovakca</trName></name>
+      <name><languageId>az</languageId><trName>slovak</trName></name>
       <name><languageId>be</languageId><trName>славацкая</trName></name>
       <name><languageId>bg</languageId><trName>словашки</trName></name>
       <name><languageId>bn</languageId><trName>স্লোভাক</trName></name>
@@ -16347,7 +16347,7 @@
       <name><languageId>am</languageId><trName>ስሎቪኛ</trName></name>
       <name><languageId>ar</languageId><trName>السلوفانية</trName></name>
       <name><languageId>ast</languageId><trName>eslovenu</trName></name>
-      <name><languageId>az</languageId><trName>slovencə</trName></name>
+      <name><languageId>az</languageId><trName>sloven</trName></name>
       <name><languageId>be</languageId><trName>славенская</trName></name>
       <name><languageId>bg</languageId><trName>словенски</trName></name>
       <name><languageId>bn</languageId><trName>স্লোভেনীয়</trName></name>
@@ -16560,7 +16560,7 @@
       <name><languageId>am</languageId><trName>ሱማልኛ</trName></name>
       <name><languageId>ar</languageId><trName>الصومالية</trName></name>
       <name><languageId>ast</languageId><trName>somalín</trName></name>
-      <name><languageId>az</languageId><trName>somali dili</trName></name>
+      <name><languageId>az</languageId><trName>somali</trName></name>
       <name><languageId>be</languageId><trName>самалійская</trName></name>
       <name><languageId>bem</languageId><trName>Ichi Somalia</trName></name>
       <name><languageId>bg</languageId><trName>сомалийски</trName></name>
@@ -16698,7 +16698,7 @@
       <name><languageId>am</languageId><trName>ልቤኒኛ</trName></name>
       <name><languageId>ar</languageId><trName>الألبانية</trName></name>
       <name><languageId>ast</languageId><trName>albanu</trName></name>
-      <name><languageId>az</languageId><trName>Albanca</trName></name>
+      <name><languageId>az</languageId><trName>alban</trName></name>
       <name><languageId>be</languageId><trName>албанская</trName></name>
       <name><languageId>bg</languageId><trName>албански</trName></name>
       <name><languageId>bn</languageId><trName>আলবেনীয়</trName></name>
@@ -16825,7 +16825,7 @@
       <name><languageId>am</languageId><trName>ሰርቢኛ</trName></name>
       <name><languageId>ar</languageId><trName>الصربية</trName></name>
       <name><languageId>ast</languageId><trName>serbiu</trName></name>
-      <name><languageId>az</languageId><trName>serb dili</trName></name>
+      <name><languageId>az</languageId><trName>serb</trName></name>
       <name><languageId>be</languageId><trName>сербская</trName></name>
       <name><languageId>bg</languageId><trName>сръбски</trName></name>
       <name><languageId>bn</languageId><trName>সার্বীয়</trName></name>
@@ -17233,7 +17233,7 @@
       <name><languageId>am</languageId><trName>ስዊድንኛ</trName></name>
       <name><languageId>ar</languageId><trName>السويدية</trName></name>
       <name><languageId>ast</languageId><trName>suecu</trName></name>
-      <name><languageId>az</languageId><trName>isveçcə</trName></name>
+      <name><languageId>az</languageId><trName>isveç</trName></name>
       <name><languageId>be</languageId><trName>шведская</trName></name>
       <name><languageId>bem</languageId><trName>Ichi Swideni</trName></name>
       <name><languageId>bg</languageId><trName>шведски</trName></name>
@@ -17375,7 +17375,7 @@
       <name><languageId>am</languageId><trName>ስዋሂሊኛ</trName></name>
       <name><languageId>ar</languageId><trName>السواحلية</trName></name>
       <name><languageId>ast</languageId><trName>suaḥili</trName></name>
-      <name><languageId>az</languageId><trName>suahilicə</trName></name>
+      <name><languageId>az</languageId><trName>suahili</trName></name>
       <name><languageId>be</languageId><trName>суахілі</trName></name>
       <name><languageId>bg</languageId><trName>суахили</trName></name>
       <name><languageId>bn</languageId><trName>সোয়াহিলি</trName></name>
@@ -17508,7 +17508,7 @@
       <name><languageId>am</languageId><trName>ታሚልኛ</trName></name>
       <name><languageId>ar</languageId><trName>التاميلية</trName></name>
       <name><languageId>ast</languageId><trName>tamil</trName></name>
-      <name><languageId>az</languageId><trName>tamilcə</trName></name>
+      <name><languageId>az</languageId><trName>tamil</trName></name>
       <name><languageId>be</languageId><trName>тамільская</trName></name>
       <name><languageId>bem</languageId><trName>Ichi Tamil</trName></name>
       <name><languageId>bg</languageId><trName>тамилски</trName></name>
@@ -17647,7 +17647,7 @@
       <name><languageId>am</languageId><trName>ተሉጉኛ</trName></name>
       <name><languageId>ar</languageId><trName>التيلجو</trName></name>
       <name><languageId>ast</languageId><trName>telugu</trName></name>
-      <name><languageId>az</languageId><trName>teluqu dili</trName></name>
+      <name><languageId>az</languageId><trName>teluqu</trName></name>
       <name><languageId>be</languageId><trName>тэлугу</trName></name>
       <name><languageId>bg</languageId><trName>телугу</trName></name>
       <name><languageId>bn</languageId><trName>তেলেগু</trName></name>
@@ -17867,7 +17867,7 @@
       <name><languageId>am</languageId><trName>ታጂኪኛ</trName></name>
       <name><languageId>ar</languageId><trName>الطاجيكية</trName></name>
       <name><languageId>ast</languageId><trName>taxiquistanín</trName></name>
-      <name><languageId>az</languageId><trName>tacik dili</trName></name>
+      <name><languageId>az</languageId><trName>tacik</trName></name>
       <name><languageId>be</languageId><trName>таджыкская</trName></name>
       <name><languageId>bg</languageId><trName>таджикски</trName></name>
       <name><languageId>bn</languageId><trName>তাজিক</trName></name>
@@ -17985,7 +17985,7 @@
       <name><languageId>am</languageId><trName>ታይኛ</trName></name>
       <name><languageId>ar</languageId><trName>التايلاندية</trName></name>
       <name><languageId>ast</languageId><trName>tailandés</trName></name>
-      <name><languageId>az</languageId><trName>tayca</trName></name>
+      <name><languageId>az</languageId><trName>tay</trName></name>
       <name><languageId>be</languageId><trName>тайская</trName></name>
       <name><languageId>bem</languageId><trName>Ichi Thai</trName></name>
       <name><languageId>bg</languageId><trName>таи</trName></name>
@@ -18122,7 +18122,7 @@
       <name><languageId>am</languageId><trName>ትግርኛ</trName></name>
       <name><languageId>ar</languageId><trName>التيجرينيا</trName></name>
       <name><languageId>ast</languageId><trName>tigrinya</trName></name>
-      <name><languageId>az</languageId><trName>tiqrin dili</trName></name>
+      <name><languageId>az</languageId><trName>tiqrin</trName></name>
       <name><languageId>be</languageId><trName>тыгрынья</trName></name>
       <name><languageId>bg</languageId><trName>тигриня</trName></name>
       <name><languageId>bn</languageId><trName>তিগরিনিয়া</trName></name>
@@ -18335,7 +18335,7 @@
       <name><languageId>am</languageId><trName>ቱርክመንኛ</trName></name>
       <name><languageId>ar</languageId><trName>التركمانية</trName></name>
       <name><languageId>ast</languageId><trName>turcomanu</trName></name>
-      <name><languageId>az</languageId><trName>türkməncə</trName></name>
+      <name><languageId>az</languageId><trName>türkmən</trName></name>
       <name><languageId>be</languageId><trName>туркменская</trName></name>
       <name><languageId>bg</languageId><trName>туркменски</trName></name>
       <name><languageId>bn</languageId><trName>তুর্কমেনী</trName></name>
@@ -18749,7 +18749,7 @@
       <name><languageId>am</languageId><trName>ቱርክኛ</trName></name>
       <name><languageId>ar</languageId><trName>التركية</trName></name>
       <name><languageId>ast</languageId><trName>turcu</trName></name>
-      <name><languageId>az</languageId><trName>türkcə</trName></name>
+      <name><languageId>az</languageId><trName>türk</trName></name>
       <name><languageId>be</languageId><trName>турэцкая</trName></name>
       <name><languageId>bem</languageId><trName>Ichi Takishi</trName></name>
       <name><languageId>bg</languageId><trName>турски</trName></name>
@@ -18985,7 +18985,7 @@
       <name><languageId>am</languageId><trName>ታታርኛ</trName></name>
       <name><languageId>ar</languageId><trName>التتارية</trName></name>
       <name><languageId>ast</languageId><trName>tártaru</trName></name>
-      <name><languageId>az</languageId><trName>tatarca</trName></name>
+      <name><languageId>az</languageId><trName>tatar</trName></name>
       <name><languageId>be</languageId><trName>татарская</trName></name>
       <name><languageId>bg</languageId><trName>татарски</trName></name>
       <name><languageId>bn</languageId><trName>তাতার</trName></name>
@@ -19161,7 +19161,7 @@
       <name><languageId>am</languageId><trName>ኡይገር</trName></name>
       <name><languageId>ar</languageId><trName>الأيغورية</trName></name>
       <name><languageId>ast</languageId><trName>uigur</trName></name>
-      <name><languageId>az</languageId><trName>uyğurca</trName></name>
+      <name><languageId>az</languageId><trName>uyğur</trName></name>
       <name><languageId>be</languageId><trName>уйгурская</trName></name>
       <name><languageId>bg</languageId><trName>уйгурски</trName></name>
       <name><languageId>bn</languageId><trName>ইউঘুর</trName></name>
@@ -19285,7 +19285,7 @@
       <name><languageId>am</languageId><trName>ዩክሬንኛ</trName></name>
       <name><languageId>ar</languageId><trName>الأوكرانية</trName></name>
       <name><languageId>ast</languageId><trName>ucraín</trName></name>
-      <name><languageId>az</languageId><trName>ukraynaca</trName></name>
+      <name><languageId>az</languageId><trName>ukrayna</trName></name>
       <name><languageId>be</languageId><trName>украінская</trName></name>
       <name><languageId>bem</languageId><trName>Ichi Ukraniani</trName></name>
       <name><languageId>bg</languageId><trName>украински</trName></name>
@@ -19452,7 +19452,7 @@
       <name><languageId>am</languageId><trName>ኡርዱኛ</trName></name>
       <name><languageId>ar</languageId><trName>الأردية</trName></name>
       <name><languageId>ast</languageId><trName>indostánicu</trName></name>
-      <name><languageId>az</languageId><trName>urduca</trName></name>
+      <name><languageId>az</languageId><trName>urdu</trName></name>
       <name><languageId>be</languageId><trName>урду</trName></name>
       <name><languageId>bem</languageId><trName>Ichi Urudu</trName></name>
       <name><languageId>bg</languageId><trName>урду</trName></name>
@@ -19592,7 +19592,7 @@
       <name><languageId>am</languageId><trName>ኡዝቤክኛ</trName></name>
       <name><languageId>ar</languageId><trName>الأوزباكية</trName></name>
       <name><languageId>ast</languageId><trName>uzbequistanín</trName></name>
-      <name><languageId>az</languageId><trName>özbəkcə</trName></name>
+      <name><languageId>az</languageId><trName>özbək</trName></name>
       <name><languageId>be</languageId><trName>узбекская</trName></name>
       <name><languageId>bg</languageId><trName>узбекски</trName></name>
       <name><languageId>bn</languageId><trName>উজবেকীয়</trName></name>
@@ -19818,7 +19818,7 @@
       <name><languageId>am</languageId><trName>ቪትናምኛ</trName></name>
       <name><languageId>ar</languageId><trName>الفيتنامية</trName></name>
       <name><languageId>ast</languageId><trName>vietnamín</trName></name>
-      <name><languageId>az</languageId><trName>vyetnamca</trName></name>
+      <name><languageId>az</languageId><trName>vyetnam</trName></name>
       <name><languageId>be</languageId><trName>в'етнамская</trName></name>
       <name><languageId>bem</languageId><trName>Ichi Vietinamu</trName></name>
       <name><languageId>bg</languageId><trName>виетнамски</trName></name>
@@ -20185,7 +20185,7 @@
       <name><languageId>am</languageId><trName>ዎሎፍኛ</trName></name>
       <name><languageId>ar</languageId><trName>الولوف</trName></name>
       <name><languageId>ast</languageId><trName>wolof</trName></name>
-      <name><languageId>az</languageId><trName>volof dili</trName></name>
+      <name><languageId>az</languageId><trName>volof</trName></name>
       <name><languageId>bg</languageId><trName>волоф</trName></name>
       <name><languageId>bn</languageId><trName>উওলোফ</trName></name>
       <name><languageId>br</languageId><trName>wolof</trName></name>
@@ -20299,7 +20299,7 @@
       <name><languageId>am</languageId><trName>ዞሳኛ</trName></name>
       <name><languageId>ar</languageId><trName>الخوسا</trName></name>
       <name><languageId>ast</languageId><trName>xhosa</trName></name>
-      <name><languageId>az</languageId><trName>xosa dili</trName></name>
+      <name><languageId>az</languageId><trName>xosa</trName></name>
       <name><languageId>be</languageId><trName>хоса</trName></name>
       <name><languageId>bg</languageId><trName>ксоса</trName></name>
       <name><languageId>bn</languageId><trName>জোসা</trName></name>
@@ -20573,7 +20573,7 @@
       <name><languageId>am</languageId><trName>ዮሩባዊኛ</trName></name>
       <name><languageId>ar</languageId><trName>اليوروبية</trName></name>
       <name><languageId>ast</languageId><trName>yoruba</trName></name>
-      <name><languageId>az</languageId><trName>yoruba dili</trName></name>
+      <name><languageId>az</languageId><trName>yoruba</trName></name>
       <name><languageId>bem</languageId><trName>Ichi Yoruba</trName></name>
       <name><languageId>bg</languageId><trName>йоруба</trName></name>
       <name><languageId>bn</languageId><trName>ইওরুবা</trName></name>
@@ -20787,7 +20787,7 @@
       <name><languageId>am</languageId><trName>ቻይንኛ</trName></name>
       <name><languageId>ar</languageId><trName>الصينية</trName></name>
       <name><languageId>ast</languageId><trName>chinu</trName></name>
-      <name><languageId>az</languageId><trName>çincə</trName></name>
+      <name><languageId>az</languageId><trName>çin</trName></name>
       <name><languageId>be</languageId><trName>кітайская</trName></name>
       <name><languageId>bem</languageId><trName>Ichi Chainisi</trName></name>
       <name><languageId>bg</languageId><trName>китайски</trName></name>
@@ -20984,7 +20984,7 @@
       <name><languageId>am</languageId><trName>ቀለል ያለ ቻይንኛ</trName></name>
       <name><languageId>ar</languageId><trName>الصينية المبسطة</trName></name>
       <name><languageId>ast</languageId><trName>chinu simplificáu</trName></name>
-      <name><languageId>az</languageId><trName>adi çincə</trName></name>
+      <name><languageId>az</languageId><trName>sadələşmiş çin</trName></name>
       <name><languageId>be</languageId><trName>спрошчаная кітайская</trName></name>
       <name><languageId>bg</languageId><trName>опростен китайски</trName></name>
       <name><languageId>bn</languageId><trName>সহজ চীনা</trName></name>
@@ -21103,7 +21103,7 @@
       <name><languageId>am</languageId><trName>ባህላዊ ቻይንኛ</trName></name>
       <name><languageId>ar</languageId><trName>الصينية التقليدية</trName></name>
       <name><languageId>ast</languageId><trName>chinu tradicional</trName></name>
-      <name><languageId>az</languageId><trName>gələnəksəl çincə</trName></name>
+      <name><languageId>az</languageId><trName>ənənəvi çin</trName></name>
       <name><languageId>be</languageId><trName>традыцыйная кітайская</trName></name>
       <name><languageId>bg</languageId><trName>традиционен китайски</trName></name>
       <name><languageId>bn</languageId><trName>প্রথাগত চীনা</trName></name>
@@ -21309,7 +21309,7 @@
       <name><languageId>am</languageId><trName>ዙሉኛ</trName></name>
       <name><languageId>ar</languageId><trName>الزولو</trName></name>
       <name><languageId>ast</languageId><trName>zulú</trName></name>
-      <name><languageId>az</languageId><trName>zulu dili</trName></name>
+      <name><languageId>az</languageId><trName>zulu</trName></name>
       <name><languageId>be</languageId><trName>зулу</trName></name>
       <name><languageId>bem</languageId><trName>Ichi Zulu</trName></name>
       <name><languageId>bg</languageId><trName>зулуски</trName></name>
