@@ -3,7 +3,7 @@
   <territory>
     <territoryId>419</territoryId>
     <names>
-      <name><languageId>af</languageId><trName>Latyns Amerika</trName></name>
+      <name><languageId>af</languageId><trName>Latyns-Amerika</trName></name>
       <name><languageId>am</languageId><trName>ላቲን አሜሪካ</trName></name>
       <name><languageId>ar</languageId><trName>أمريكا اللاتينية</trName></name>
       <name><languageId>ast</languageId><trName>América Llatina</trName></name>
@@ -1694,7 +1694,7 @@
   <territory>
     <territoryId>AZ</territoryId>
     <names>
-      <name><languageId>af</languageId><trName>Aserbeidjan</trName></name>
+      <name><languageId>af</languageId><trName>Azerbeidjan</trName></name>
       <name><languageId>ak</languageId><trName>Azebaegyan</trName></name>
       <name><languageId>am</languageId><trName>አዘርባጃን</trName></name>
       <name><languageId>ar</languageId><trName>أذربيجان</trName></name>
@@ -4024,7 +4024,7 @@
   <territory>
     <territoryId>CO</territoryId>
     <names>
-      <name><languageId>af</languageId><trName>Kolombië</trName></name>
+      <name><languageId>af</languageId><trName>Colombië</trName></name>
       <name><languageId>ak</languageId><trName>Kolombia</trName></name>
       <name><languageId>am</languageId><trName>ኮሎምቢያ</trName></name>
       <name><languageId>ar</languageId><trName>كولومبيا</trName></name>
@@ -4394,7 +4394,7 @@
   <territory>
     <territoryId>CY</territoryId>
     <names>
-      <name><languageId>af</languageId><trName>Ciprus</trName></name>
+      <name><languageId>af</languageId><trName>Siprus</trName></name>
       <name><languageId>ak</languageId><trName>Saeprɔs</trName></name>
       <name><languageId>am</languageId><trName>ሳይፕረስ</trName></name>
       <name><languageId>ar</languageId><trName>قبرص</trName></name>
@@ -6587,7 +6587,7 @@
   <territory>
     <territoryId>GB</territoryId>
     <names>
-      <name><languageId>af</languageId><trName>Groot-Brittanje</trName></name>
+      <name><languageId>af</languageId><trName>Verenigde Koninkryk</trName></name>
       <name><languageId>ak</languageId><trName>Ahendiman Nkabom</trName></name>
       <name><languageId>am</languageId><trName>እንግሊዝ</trName></name>
       <name><languageId>ar</languageId><trName>المملكة المتحدة</trName></name>
@@ -11286,7 +11286,7 @@
   <territory>
     <territoryId>MK</territoryId>
     <names>
-      <name><languageId>af</languageId><trName>Macedonië</trName></name>
+      <name><languageId>af</languageId><trName>Macedonië [VYRM]</trName></name>
       <name><languageId>ak</languageId><trName>Masedonia</trName></name>
       <name><languageId>am</languageId><trName>ማሴዶንያ[FYROM]</trName></name>
       <name><languageId>ar</languageId><trName>مقدونيا- جمهورية مقدونيا اليوغسلافية السابقة</trName></name>
@@ -16090,7 +16090,7 @@
   <territory>
     <territoryId>SV</territoryId>
     <names>
-      <name><languageId>af</languageId><trName>Salvador</trName></name>
+      <name><languageId>af</languageId><trName>El Salvador</trName></name>
       <name><languageId>ak</languageId><trName>Ɛl Salvadɔ</trName></name>
       <name><languageId>am</languageId><trName>ኤል ሳልቫዶር</trName></name>
       <name><languageId>ar</languageId><trName>السلفادور</trName></name>
@@ -17331,7 +17331,7 @@
   <territory>
     <territoryId>UA</territoryId>
     <names>
-      <name><languageId>af</languageId><trName>Oekraine</trName></name>
+      <name><languageId>af</languageId><trName>Oekraïne</trName></name>
       <name><languageId>ak</languageId><trName>Ukren</trName></name>
       <name><languageId>am</languageId><trName>ዩክሬን</trName></name>
       <name><languageId>ar</languageId><trName>أوكرانيا</trName></name>
