@@ -862,6 +862,12 @@
 >>> print language_name(languageId="be_Latn_BY", scriptId="Cyrl", territoryId="DE", languageIdQuery="en").encode("UTF-8") # doctest: +NORMALIZE_WHITESPACE
     Belarusian (Belarus)
 
+>>> print language_name(languageId="nds", territoryId="DE").encode("UTF-8") # doctest: +NORMALIZE_WHITESPACE
+    Plattdüütsch (Düütschland)
+
+>>> print language_name(languageId="nds", territoryId="NL").encode("UTF-8") # doctest: +NORMALIZE_WHITESPACE
+    Plattdüütsch (Nedderlannen)
+
 >>> print language_name(languageId="pa").encode("UTF-8") # doctest: +NORMALIZE_WHITESPACE
     ਪੰਜਾਬੀ
 
