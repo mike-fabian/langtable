@@ -2999,7 +2999,7 @@
       <name><languageId>ast</languageId><trName>Botsuana</trName></name>
       <name><languageId>az</languageId><trName>Botsvana</trName></name>
       <name><languageId>be</languageId><trName>Батсвана</trName></name>
-      <name><languageId>bg</languageId><trName>Ботсуана</trName></name>
+      <name><languageId>bg</languageId><trName>Ботсвана</trName></name>
       <name><languageId>bn</languageId><trName>বতসোয়ানা</trName></name>
       <name><languageId>bo</languageId><trName>བོཙ་ཝ་ན།</trName></name>
       <name><languageId>br</languageId><trName>Botswana</trName></name>
@@ -4560,7 +4560,7 @@
       <name><languageId>ast</languageId><trName>Chequia</trName></name>
       <name><languageId>az</languageId><trName>Çexiya</trName></name>
       <name><languageId>be</languageId><trName>Чэхія</trName></name>
-      <name><languageId>bg</languageId><trName>Чешка република</trName></name>
+      <name><languageId>bg</languageId><trName>Чехия</trName></name>
       <name><languageId>bn</languageId><trName>চেক প্রজাতন্ত্র</trName></name>
       <name><languageId>bo</languageId><trName>ཅཻག་སྤྱི་མཐུན་རྒྱལ་ཁབ།</trName></name>
       <name><languageId>br</languageId><trName>Republik Tchek</trName></name>
@@ -6645,7 +6645,7 @@
       <name><languageId>ast</languageId><trName>Reinu Xuníu</trName></name>
       <name><languageId>az</languageId><trName>Birləşmiş Krallıq</trName></name>
       <name><languageId>be</languageId><trName>Велікабрытанія</trName></name>
-      <name><languageId>bg</languageId><trName>Обединено кралство</trName></name>
+      <name><languageId>bg</languageId><trName>Великобритания</trName></name>
       <name><languageId>bn</languageId><trName>যুক্তরাজ্য</trName></name>
       <name><languageId>bo</languageId><trName>དབྱིན་ཇི་</trName></name>
       <name><languageId>br</languageId><trName>Rouantelezh-Unanet</trName></name>
@@ -7412,7 +7412,7 @@
       <name><languageId>ast</languageId><trName>ARE China de Ḥong Kong</trName></name>
       <name><languageId>az</languageId><trName>Honq Konq Xüsusi İnzibati Ərazi Çin</trName></name>
       <name><languageId>be</languageId><trName>Гон-Конг, Кітай (САР)</trName></name>
-      <name><languageId>bg</languageId><trName>Хонг-Конг О.А.Р. на Китай</trName></name>
+      <name><languageId>bg</languageId><trName>Хонконг САР на Китай</trName></name>
       <name><languageId>bn</languageId><trName>হংকং এসএআর চীনা</trName></name>
       <name><languageId>bo</languageId><trName>ཧོང་ཀོང༌།</trName></name>
       <name><languageId>br</languageId><trName>Hong Kong RMD Sina</trName></name>
@@ -7654,7 +7654,7 @@
       <name><languageId>ast</languageId><trName>Croacia</trName></name>
       <name><languageId>az</languageId><trName>Xorvatiya</trName></name>
       <name><languageId>be</languageId><trName>Харватыя</trName></name>
-      <name><languageId>bg</languageId><trName>Хърватска</trName></name>
+      <name><languageId>bg</languageId><trName>Хърватия</trName></name>
       <name><languageId>bn</languageId><trName>ক্রোয়েশিয়া</trName></name>
       <name><languageId>bo</languageId><trName>ཀུརོ་ཤི་ཡ།</trName></name>
       <name><languageId>br</languageId><trName>Kroatia</trName></name>
@@ -8738,7 +8738,7 @@
       <name><languageId>ast</languageId><trName>Irán</trName></name>
       <name><languageId>az</languageId><trName>İran</trName></name>
       <name><languageId>be</languageId><trName>Іран, Ісламская Рэспубліка</trName></name>
-      <name><languageId>bg</languageId><trName>Иран, Ислямска република</trName></name>
+      <name><languageId>bg</languageId><trName>Иран</trName></name>
       <name><languageId>bn</languageId><trName>ইরান</trName></name>
       <name><languageId>bo</languageId><trName>ཨི་རཱན།</trName></name>
       <name><languageId>br</languageId><trName>Iran</trName></name>
@@ -9762,7 +9762,7 @@
       <name><languageId>ast</languageId><trName>Corea del Sur</trName></name>
       <name><languageId>az</languageId><trName>Cənubi Koreya</trName></name>
       <name><languageId>be</languageId><trName>Паўднёвая Карэя</trName></name>
-      <name><languageId>bg</languageId><trName>Корея, Южна</trName></name>
+      <name><languageId>bg</languageId><trName>Южна Корея</trName></name>
       <name><languageId>bn</languageId><trName>দক্ষিণ কোরিয়া</trName></name>
       <name><languageId>bo</languageId><trName>ཀོ་རི་ཡ། ལྷོ་མ།</trName></name>
       <name><languageId>br</languageId><trName>Korea ar Su</trName></name>
@@ -10136,7 +10136,7 @@
       <name><languageId>ast</languageId><trName>Laos</trName></name>
       <name><languageId>az</languageId><trName>Laos</trName></name>
       <name><languageId>be</languageId><trName>Лаоская Народна-Дэмакратычная Рэспубліка</trName></name>
-      <name><languageId>bg</languageId><trName>Народна демократична република Лаос</trName></name>
+      <name><languageId>bg</languageId><trName>Лаос</trName></name>
       <name><languageId>bn</languageId><trName>লাওস</trName></name>
       <name><languageId>bo</languageId><trName>ལཱ་འོས།</trName></name>
       <name><languageId>br</languageId><trName>Laos</trName></name>
@@ -10891,7 +10891,7 @@
       <name><languageId>ast</languageId><trName>Libia</trName></name>
       <name><languageId>az</languageId><trName>Liviya</trName></name>
       <name><languageId>be</languageId><trName>Лівійская Арабская Джамахірыя</trName></name>
-      <name><languageId>bg</languageId><trName>Либийска арабска джамахирия</trName></name>
+      <name><languageId>bg</languageId><trName>Либия</trName></name>
       <name><languageId>bn</languageId><trName>লিবিয়া</trName></name>
       <name><languageId>bo</languageId><trName>ལི་བི་ཡ།</trName></name>
       <name><languageId>br</languageId><trName>Libia</trName></name>
@@ -11758,7 +11758,7 @@
       <name><languageId>ast</languageId><trName>ARE China de Macáu</trName></name>
       <name><languageId>az</languageId><trName>Makao Xüsusi İnzibati Ərazi Çin</trName></name>
       <name><languageId>be</languageId><trName>Макао, Кітай (САР)</trName></name>
-      <name><languageId>bg</languageId><trName>Макао О.А.Р. на Китай</trName></name>
+      <name><languageId>bg</languageId><trName>Макао САР на Китай</trName></name>
       <name><languageId>bn</languageId><trName>ম্যাকাও এসএআর চীনা</trName></name>
       <name><languageId>bo</languageId><trName>མེ་ཀའོ།</trName></name>
       <name><languageId>br</languageId><trName>Macau RMD Sina</trName></name>
@@ -12775,7 +12775,7 @@
       <name><languageId>ast</languageId><trName>Países Baxos</trName></name>
       <name><languageId>az</languageId><trName>Niderland</trName></name>
       <name><languageId>be</languageId><trName>Нідэрланды</trName></name>
-      <name><languageId>bg</languageId><trName>Холандия</trName></name>
+      <name><languageId>bg</languageId><trName>Нидерландия</trName></name>
       <name><languageId>bn</languageId><trName>নেদারল্যান্ডস</trName></name>
       <name><languageId>bo</languageId><trName>ཧའོ་ལན།</trName></name>
       <name><languageId>br</languageId><trName>Izelvroioù</trName></name>
@@ -14921,7 +14921,7 @@
       <name><languageId>ast</languageId><trName>Rusia</trName></name>
       <name><languageId>az</languageId><trName>Rusiya</trName></name>
       <name><languageId>be</languageId><trName>Расія</trName></name>
-      <name><languageId>bg</languageId><trName>Руска федерация</trName></name>
+      <name><languageId>bg</languageId><trName>Русия</trName></name>
       <name><languageId>bn</languageId><trName>রাশিয়া</trName></name>
       <name><languageId>bo</languageId><trName>ཨུ་རུ་སུ་</trName></name>
       <name><languageId>br</languageId><trName>Rusia</trName></name>
@@ -16222,7 +16222,7 @@
       <name><languageId>ast</languageId><trName>El Salvador</trName></name>
       <name><languageId>az</languageId><trName>Salvador</trName></name>
       <name><languageId>be</languageId><trName>Сальвадор</trName></name>
-      <name><languageId>bg</languageId><trName>Ел Салвадор</trName></name>
+      <name><languageId>bg</languageId><trName>Салвадор</trName></name>
       <name><languageId>bn</languageId><trName>এল সালভেদর</trName></name>
       <name><languageId>bo</languageId><trName>ཨེལ། སཱལ་ཝ་ཌོར།</trName></name>
       <name><languageId>br</languageId><trName>Salvador</trName></name>
@@ -16345,7 +16345,7 @@
       <name><languageId>ast</languageId><trName>Siria</trName></name>
       <name><languageId>az</languageId><trName>Suriya</trName></name>
       <name><languageId>be</languageId><trName>Сірыйская Арабская Рэспубліка</trName></name>
-      <name><languageId>bg</languageId><trName>Сирийска арабска република</trName></name>
+      <name><languageId>bg</languageId><trName>Сирия</trName></name>
       <name><languageId>bn</languageId><trName>সিরিয়া</trName></name>
       <name><languageId>br</languageId><trName>Siria</trName></name>
       <name><languageId>brx</languageId><trName>सीरिया</trName></name>

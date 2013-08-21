@@ -968,7 +968,7 @@
       <name><languageId>ast</languageId><trName>azerbaixanu</trName></name>
       <name><languageId>az</languageId><trName>azərbaycan</trName></name>
       <name><languageId>be</languageId><trName>азербайджанская</trName></name>
-      <name><languageId>bg</languageId><trName>азърбайджански</trName></name>
+      <name><languageId>bg</languageId><trName>азербайджански</trName></name>
       <name><languageId>bn</languageId><trName>আজারবাইজানীয়</trName></name>
       <name><languageId>br</languageId><trName>azeri</trName></name>
       <name><languageId>brx</languageId><trName>अज़रबैजानी</trName></name>
@@ -10227,7 +10227,7 @@
       <name><languageId>ar</languageId><trName>القيرغستانية</trName></name>
       <name><languageId>ast</languageId><trName>kirguistanín</trName></name>
       <name><languageId>az</languageId><trName>qırğız</trName></name>
-      <name><languageId>bg</languageId><trName>киргизски</trName></name>
+      <name><languageId>bg</languageId><trName>киргизки</trName></name>
       <name><languageId>bn</languageId><trName>কির্গিজ</trName></name>
       <name><languageId>br</languageId><trName>kirgiz</trName></name>
       <name><languageId>brx</languageId><trName>किरग़ीज़्</trName></name>
@@ -12280,7 +12280,7 @@
       <name><languageId>ast</languageId><trName>maratí</trName></name>
       <name><languageId>az</languageId><trName>marati</trName></name>
       <name><languageId>be</languageId><trName>маратхі</trName></name>
-      <name><languageId>bg</languageId><trName>маратхи</trName></name>
+      <name><languageId>bg</languageId><trName>марати</trName></name>
       <name><languageId>bn</languageId><trName>মারাঠি</trName></name>
       <name><languageId>bo</languageId><trName>མ་ར་ཐི་སྐད།</trName></name>
       <name><languageId>br</languageId><trName>marathi</trName></name>
@@ -12826,7 +12826,7 @@
       <name><languageId>ast</languageId><trName>noruegu Bokmål</trName></name>
       <name><languageId>az</languageId><trName>bokmal norveç</trName></name>
       <name><languageId>be</languageId><trName>нарвэская букмал</trName></name>
-      <name><languageId>bg</languageId><trName>норвежки бокмал</trName></name>
+      <name><languageId>bg</languageId><trName>норвежки букмол</trName></name>
       <name><languageId>bn</languageId><trName>নরওয়ে বোকমাল</trName></name>
       <name><languageId>br</languageId><trName>norvegeg bokmål</trName></name>
       <name><languageId>brx</languageId><trName>नोर्वेगी बोकमाल</trName></name>
@@ -13168,7 +13168,7 @@
       <name><languageId>az</languageId><trName>holland</trName></name>
       <name><languageId>be</languageId><trName>галандская</trName></name>
       <name><languageId>bem</languageId><trName>Ichi Dachi</trName></name>
-      <name><languageId>bg</languageId><trName>холандски</trName></name>
+      <name><languageId>bg</languageId><trName>нидерландски</trName></name>
       <name><languageId>bn</languageId><trName>ডাচ</trName></name>
       <name><languageId>bo</languageId><trName>ཧའོ་ལན་སྐད།</trName></name>
       <name><languageId>br</languageId><trName>nederlandeg</trName></name>
@@ -13315,7 +13315,7 @@
       <name><languageId>ast</languageId><trName>noruegu Nynorsk</trName></name>
       <name><languageId>az</languageId><trName>nünorsk norveç</trName></name>
       <name><languageId>be</languageId><trName>нарвежская (нюнорск)</trName></name>
-      <name><languageId>bg</languageId><trName>съвременен норвежки</trName></name>
+      <name><languageId>bg</languageId><trName>норвежки нюнорск</trName></name>
       <name><languageId>bn</languageId><trName>নরওয়েজীয়ান নিনর্স্ক</trName></name>
       <name><languageId>bo</languageId><trName>ནོ་ཝེ་སྐད།</trName></name>
       <name><languageId>br</languageId><trName>norvegeg nynorsk</trName></name>
@@ -14649,7 +14649,7 @@
       <name><languageId>ast</languageId><trName>pashtu</trName></name>
       <name><languageId>az</languageId><trName>puştu</trName></name>
       <name><languageId>be</languageId><trName>пушту</trName></name>
-      <name><languageId>bg</languageId><trName>пущу</trName></name>
+      <name><languageId>bg</languageId><trName>пущунски</trName></name>
       <name><languageId>bn</languageId><trName>পুশতো</trName></name>
       <name><languageId>br</languageId><trName>pachto</trName></name>
       <name><languageId>brx</languageId><trName>पख़्तु</trName></name>
@@ -18079,7 +18079,7 @@
       <name><languageId>az</languageId><trName>tay</trName></name>
       <name><languageId>be</languageId><trName>тайская</trName></name>
       <name><languageId>bem</languageId><trName>Ichi Thai</trName></name>
-      <name><languageId>bg</languageId><trName>таи</trName></name>
+      <name><languageId>bg</languageId><trName>тайски</trName></name>
       <name><languageId>bn</languageId><trName>থাই</trName></name>
       <name><languageId>bo</languageId><trName>ཐའའི་ཡུལ་སྐད།</trName></name>
       <name><languageId>br</languageId><trName>thai</trName></name>
