@@ -9,7 +9,7 @@
       <name><languageId>ast</languageId><trName>América Llatina</trName></name>
       <name><languageId>az</languageId><trName>Latın Amerikası</trName></name>
       <name><languageId>bg</languageId><trName>Латинска Америка</trName></name>
-      <name><languageId>bn</languageId><trName>ল্যাটিন আমেরিকা এবং ক্যারাবিয়ান</trName></name>
+      <name><languageId>bn</languageId><trName>ল্যাটিন আমেরিকা</trName></name>
       <name><languageId>br</languageId><trName>Amerika Latin</trName></name>
       <name><languageId>brx</languageId><trName>लैटिन अमरिका एवं करीबी</trName></name>
       <name><languageId>bs</languageId><trName>Latinska Amerika</trName></name>
@@ -327,7 +327,7 @@
       <name><languageId>brx</languageId><trName>संयुक्त अरब अमीरात</trName></name>
       <name><languageId>bs</languageId><trName>Ujedinjeni Arapski Emirati</trName></name>
       <name><languageId>byn</languageId><trName>የተባበሩት አረብ ኤምሬትስ</trName></name>
-      <name><languageId>ca</languageId><trName>Unió dels Emirats Àrabs</trName></name>
+      <name><languageId>ca</languageId><trName>Emirats Àrabs Units</trName></name>
       <name><languageId>cs</languageId><trName>Spojené arabské emiráty</trName></name>
       <name><languageId>cy</languageId><trName>Emiradau Arabaidd Unedig</trName></name>
       <name><languageId>da</languageId><trName>Forenede Arabiske Emirater</trName></name>
@@ -6644,7 +6644,7 @@
       <name><languageId>as</languageId><trName>সংযুক্ত ৰাজ্য</trName></name>
       <name><languageId>ast</languageId><trName>Reinu Xuníu</trName></name>
       <name><languageId>az</languageId><trName>Birləşmiş Krallıq</trName></name>
-      <name><languageId>be</languageId><trName>Велікабрытанія</trName></name>
+      <name><languageId>be</languageId><trName>Вялікабрытанія</trName></name>
       <name><languageId>bg</languageId><trName>Великобритания</trName></name>
       <name><languageId>bn</languageId><trName>যুক্তরাজ্য</trName></name>
       <name><languageId>bo</languageId><trName>དབྱིན་ཇི་</trName></name>
@@ -7419,7 +7419,7 @@
       <name><languageId>brx</languageId><trName>हाँगकाँग विशेष प्रशासनिक क्षेत्र चीन</trName></name>
       <name><languageId>bs</languageId><trName>Hong Kong (S. A. R. Kina)</trName></name>
       <name><languageId>byn</languageId><trName>ሆንግ ኮንግ</trName></name>
-      <name><languageId>ca</languageId><trName>Regió adm. especial xinesa de Hong Kong</trName></name>
+      <name><languageId>ca</languageId><trName>Hong Kong [RAE Xina]</trName></name>
       <name><languageId>cs</languageId><trName>Hongkong - ZAO Číny</trName></name>
       <name><languageId>cy</languageId><trName>Hong Kong RhGA Tsieina</trName></name>
       <name><languageId>da</languageId><trName>Hongkong SAR</trName></name>
@@ -8737,7 +8737,7 @@
       <name><languageId>ar</languageId><trName>إيران</trName></name>
       <name><languageId>ast</languageId><trName>Irán</trName></name>
       <name><languageId>az</languageId><trName>İran</trName></name>
-      <name><languageId>be</languageId><trName>Іран, Ісламская Рэспубліка</trName></name>
+      <name><languageId>be</languageId><trName>Іран</trName></name>
       <name><languageId>bg</languageId><trName>Иран</trName></name>
       <name><languageId>bn</languageId><trName>ইরান</trName></name>
       <name><languageId>bo</languageId><trName>ཨི་རཱན།</trName></name>
@@ -10135,7 +10135,7 @@
       <name><languageId>ar</languageId><trName>لاوس</trName></name>
       <name><languageId>ast</languageId><trName>Laos</trName></name>
       <name><languageId>az</languageId><trName>Laos</trName></name>
-      <name><languageId>be</languageId><trName>Лаоская Народна-Дэмакратычная Рэспубліка</trName></name>
+      <name><languageId>be</languageId><trName>Лаос</trName></name>
       <name><languageId>bg</languageId><trName>Лаос</trName></name>
       <name><languageId>bn</languageId><trName>লাওস</trName></name>
       <name><languageId>bo</languageId><trName>ལཱ་འོས།</trName></name>
@@ -10890,7 +10890,7 @@
       <name><languageId>ar</languageId><trName>ليبيا</trName></name>
       <name><languageId>ast</languageId><trName>Libia</trName></name>
       <name><languageId>az</languageId><trName>Liviya</trName></name>
-      <name><languageId>be</languageId><trName>Лівійская Арабская Джамахірыя</trName></name>
+      <name><languageId>be</languageId><trName>Лівія</trName></name>
       <name><languageId>bg</languageId><trName>Либия</trName></name>
       <name><languageId>bn</languageId><trName>লিবিয়া</trName></name>
       <name><languageId>bo</languageId><trName>ལི་བི་ཡ།</trName></name>
@@ -11375,11 +11375,11 @@
     <names>
       <name><languageId>af</languageId><trName>Macedonië [VYRM]</trName></name>
       <name><languageId>ak</languageId><trName>Masedonia</trName></name>
-      <name><languageId>am</languageId><trName>ማሴዶንያ[FYROM]</trName></name>
+      <name><languageId>am</languageId><trName>መቄዶንያ [የቀድሞ የዩጎስላቭ መቄዶንያ ሪፐብሊክ]</trName></name>
       <name><languageId>ar</languageId><trName>مقدونيا- جمهورية مقدونيا اليوغسلافية السابقة</trName></name>
       <name><languageId>ast</languageId><trName>Macedonia [ARYDM]</trName></name>
       <name><languageId>az</languageId><trName>Makedoniya [FYROM]</trName></name>
-      <name><languageId>be</languageId><trName>Македонія, БЮР</trName></name>
+      <name><languageId>be</languageId><trName>Рэспубліка Македонія</trName></name>
       <name><languageId>bg</languageId><trName>Македония [БЮРМ]</trName></name>
       <name><languageId>bn</languageId><trName>মেসিডোনিয়া[FYROM]</trName></name>
       <name><languageId>br</languageId><trName>Makedonia [RYKM]</trName></name>
@@ -11509,7 +11509,7 @@
       <name><languageId>az</languageId><trName>Myanma</trName></name>
       <name><languageId>be</languageId><trName>М'янма</trName></name>
       <name><languageId>bg</languageId><trName>Мианмар [Бирма]</trName></name>
-      <name><languageId>bn</languageId><trName>মায়ানমার</trName></name>
+      <name><languageId>bn</languageId><trName>মায়ানমার [বার্মা]</trName></name>
       <name><languageId>bo</languageId><trName>འབར་མ།</trName></name>
       <name><languageId>br</languageId><trName>Myanmar [Birmania]</trName></name>
       <name><languageId>brx</languageId><trName>म्यानमार</trName></name>
@@ -11753,7 +11753,7 @@
     <territoryId>MO</territoryId>
     <names>
       <name><languageId>af</languageId><trName>Macau SAR China</trName></name>
-      <name><languageId>am</languageId><trName>ማካኡSAR ቻይና</trName></name>
+      <name><languageId>am</languageId><trName>ማካኡ ልዩ የአስተዳደር ክልል ቻይና</trName></name>
       <name><languageId>ar</languageId><trName>مكاو الصينية [منطقة إدارية خاصة]</trName></name>
       <name><languageId>ast</languageId><trName>ARE China de Macáu</trName></name>
       <name><languageId>az</languageId><trName>Makao Xüsusi İnzibati Ərazi Çin</trName></name>
@@ -11765,7 +11765,7 @@
       <name><languageId>brx</languageId><trName>मकाओ विशेष प्रशासनिक क्षेत्र (चीन)</trName></name>
       <name><languageId>bs</languageId><trName>Makao (S. A. R. Kina)</trName></name>
       <name><languageId>byn</languageId><trName>ማካዎ</trName></name>
-      <name><languageId>ca</languageId><trName>Regió administrativa especial xinesa de Macau</trName></name>
+      <name><languageId>ca</languageId><trName>Macau [RAE Xina]</trName></name>
       <name><languageId>cs</languageId><trName>Macao - ZAO Číny</trName></name>
       <name><languageId>cy</languageId><trName>Macau RhGA Tsieina</trName></name>
       <name><languageId>da</languageId><trName>Macao SAR</trName></name>
@@ -12002,7 +12002,7 @@
       <name><languageId>ar</languageId><trName>جزر المالديف</trName></name>
       <name><languageId>ast</languageId><trName>Les Maldives</trName></name>
       <name><languageId>az</languageId><trName>Maldiv Adaları</trName></name>
-      <name><languageId>be</languageId><trName>Мальдыўскія Астравы</trName></name>
+      <name><languageId>be</languageId><trName>Мальдывы</trName></name>
       <name><languageId>bg</languageId><trName>Малдиви</trName></name>
       <name><languageId>bn</languageId><trName>মালদ্বীপ</trName></name>
       <name><languageId>bo</languageId><trName>མལ་དྭིབ།</trName></name>
@@ -13794,7 +13794,7 @@
       <name><languageId>af</languageId><trName>Filippyne</trName></name>
       <name><languageId>ak</languageId><trName>Philippines</trName></name>
       <name><languageId>am</languageId><trName>ፊሊፒንስ</trName></name>
-      <name><languageId>ar</languageId><trName>الفيلبين</trName></name>
+      <name><languageId>ar</languageId><trName>الفلبين</trName></name>
       <name><languageId>ast</languageId><trName>Filipines</trName></name>
       <name><languageId>az</languageId><trName>Filippin</trName></name>
       <name><languageId>be</languageId><trName>Філіпіны</trName></name>
@@ -16344,7 +16344,7 @@
       <name><languageId>ar</languageId><trName>سوريا</trName></name>
       <name><languageId>ast</languageId><trName>Siria</trName></name>
       <name><languageId>az</languageId><trName>Suriya</trName></name>
-      <name><languageId>be</languageId><trName>Сірыйская Арабская Рэспубліка</trName></name>
+      <name><languageId>be</languageId><trName>Сірыя</trName></name>
       <name><languageId>bg</languageId><trName>Сирия</trName></name>
       <name><languageId>bn</languageId><trName>সিরিয়া</trName></name>
       <name><languageId>br</languageId><trName>Siria</trName></name>
@@ -16467,7 +16467,7 @@
       <name><languageId>af</languageId><trName>Thailand</trName></name>
       <name><languageId>ak</languageId><trName>Taeland</trName></name>
       <name><languageId>am</languageId><trName>ታይላንድ</trName></name>
-      <name><languageId>ar</languageId><trName>تايلند</trName></name>
+      <name><languageId>ar</languageId><trName>تايلاند</trName></name>
       <name><languageId>ast</languageId><trName>Tailandia</trName></name>
       <name><languageId>az</languageId><trName>Tayland</trName></name>
       <name><languageId>be</languageId><trName>Тайланд</trName></name>
@@ -17345,7 +17345,7 @@
       <name><languageId>ar</languageId><trName>تانزانيا</trName></name>
       <name><languageId>ast</languageId><trName>Tanzania</trName></name>
       <name><languageId>az</languageId><trName>Tanzaniya</trName></name>
-      <name><languageId>be</languageId><trName>Танзанія, Аб'яднаная Рэспубліка</trName></name>
+      <name><languageId>be</languageId><trName>Танзанія</trName></name>
       <name><languageId>bg</languageId><trName>Танзания</trName></name>
       <name><languageId>bn</languageId><trName>তাঞ্জানিয়া</trName></name>
       <name><languageId>br</languageId><trName>Tanzania</trName></name>
@@ -17731,7 +17731,7 @@
       <name><languageId>as</languageId><trName>যুক্তৰাষ্ট্ৰ</trName></name>
       <name><languageId>ast</languageId><trName>Estaos Xuníos</trName></name>
       <name><languageId>az</languageId><trName>Amerika Birləşmiş Ştatları</trName></name>
-      <name><languageId>be</languageId><trName>Злучаныя Штаты</trName></name>
+      <name><languageId>be</languageId><trName>Злучаныя Штаты Амерыкі</trName></name>
       <name><languageId>bg</languageId><trName>САЩ</trName></name>
       <name><languageId>bn</languageId><trName>মার্কিন যুক্তরাষ্ট্র</trName></name>
       <name><languageId>bo</languageId><trName>ཨ་མེ་རི་ཀ་</trName></name>
