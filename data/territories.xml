@@ -5875,7 +5875,7 @@
       <name><languageId>fa</languageId><trName>اسپانیا</trName></name>
       <name><languageId>ff</languageId><trName>Espaañ</trName></name>
       <name><languageId>fi</languageId><trName>Espanja</trName></name>
-      <name><languageId>fil</languageId><trName>Espanya</trName></name>
+      <name><languageId>fil</languageId><trName>Spain</trName></name>
       <name><languageId>fo</languageId><trName>Spania</trName></name>
       <name><languageId>fr</languageId><trName>Espagne</trName></name>
       <name><languageId>fur</languageId><trName>Spagne</trName></name>
@@ -7502,7 +7502,7 @@
       <name><languageId>wal</languageId><trName>ሆንግ ኮንግ</trName></name>
       <name><languageId>zh</languageId><trName>中国香港特别行政区</trName></name>
       <name><languageId>zh_Hant</languageId><trName>中華人民共和國香港特別行政區</trName></name>
-      <name><languageId>zu</languageId><trName>e-Hong Kong SAR China</trName></name>
+      <name><languageId>zu</languageId><trName>i-Hong Kong SAR China</trName></name>
     </names>
     <locales>
       <locale><localeId>zh_HK.UTF-8</localeId><rank>1000</rank></locale>
@@ -9011,7 +9011,7 @@
       <name><languageId>fa</languageId><trName>ایتالیا</trName></name>
       <name><languageId>ff</languageId><trName>Itali</trName></name>
       <name><languageId>fi</languageId><trName>Italia</trName></name>
-      <name><languageId>fil</languageId><trName>Italya</trName></name>
+      <name><languageId>fil</languageId><trName>Italy</trName></name>
       <name><languageId>fo</languageId><trName>Italia</trName></name>
       <name><languageId>fr</languageId><trName>Italie</trName></name>
       <name><languageId>fur</languageId><trName>Italie</trName></name>
@@ -11477,7 +11477,7 @@
       <name><languageId>yo</languageId><trName>Orílẹ́ède Masidonia</trName></name>
       <name><languageId>zh</languageId><trName>马其顿（前南斯拉夫的马其顿共和国）</trName></name>
       <name><languageId>zh_Hant</languageId><trName>前南斯拉夫馬其頓共和國</trName></name>
-      <name><languageId>zu</languageId><trName>isi-Macedonia [FYROM]</trName></name>
+      <name><languageId>zu</languageId><trName>i-Macedonia [FYROM]</trName></name>
     </names>
     <locales>
       <locale><localeId>mk_MK.UTF-8</localeId><rank>900</rank></locale>
@@ -11603,7 +11603,7 @@
       <name><languageId>yo</languageId><trName>Orílẹ́ède Manamari</trName></name>
       <name><languageId>zh</languageId><trName>缅甸</trName></name>
       <name><languageId>zh_Hant</languageId><trName>緬甸</trName></name>
-      <name><languageId>zu</languageId><trName>e-Myanmar [Burma]</trName></name>
+      <name><languageId>zu</languageId><trName>i-Myanmar [Burma]</trName></name>
     </names>
     <locales>
       <locale><localeId>my_MM.UTF-8</localeId><rank>1000</rank></locale>
@@ -14943,7 +14943,7 @@
       <name><languageId>fa</languageId><trName>روسیه</trName></name>
       <name><languageId>ff</languageId><trName>Riisii</trName></name>
       <name><languageId>fi</languageId><trName>Venäjä</trName></name>
-      <name><languageId>fil</languageId><trName>Russian Federation</trName></name>
+      <name><languageId>fil</languageId><trName>Russia</trName></name>
       <name><languageId>fo</languageId><trName>Russland</trName></name>
       <name><languageId>fr</languageId><trName>Russie</trName></name>
       <name><languageId>fur</languageId><trName>Russie</trName></name>
@@ -18746,7 +18746,7 @@
       <name><languageId>yo</languageId><trName>Orílẹ́ède Ariwa Afirika</trName></name>
       <name><languageId>zh</languageId><trName>南非</trName></name>
       <name><languageId>zh_Hant</languageId><trName>南非</trName></name>
-      <name><languageId>zu</languageId><trName>iNingizimu Afrika</trName></name>
+      <name><languageId>zu</languageId><trName>i-South Africa</trName></name>
     </names>
     <locales>
       <locale><localeId>zu_ZA.UTF-8</localeId><rank>227</rank></locale>

@@ -211,7 +211,7 @@
       <name><languageId>yo</languageId><trName>Èdè Afrikani</trName></name>
       <name><languageId>zh</languageId><trName>南非荷兰文</trName></name>
       <name><languageId>zh_Hant</languageId><trName>南非荷蘭文</trName></name>
-      <name><languageId>zu</languageId><trName>isiBhunu</trName></name>
+      <name><languageId>zu</languageId><trName>isi-Afrikaans</trName></name>
     </names>
     <locales>
       <locale><localeId>af_ZA.UTF-8</localeId><rank>1000</rank></locale>
@@ -674,7 +674,7 @@
       <name><languageId>yo</languageId><trName>Èdè Arabiki</trName></name>
       <name><languageId>zh</languageId><trName>阿拉伯文</trName></name>
       <name><languageId>zh_Hant</languageId><trName>阿拉伯文</trName></name>
-      <name><languageId>zu</languageId><trName>isi-Alabhu</trName></name>
+      <name><languageId>zu</languageId><trName>isi-Arabic</trName></name>
     </names>
     <locales>
       <locale><localeId>ar_EG.UTF-8</localeId><rank>300</rank></locale>
@@ -3295,7 +3295,7 @@
       <name><languageId>yo</languageId><trName>Èdè Ilẹ̀ Gemani</trName></name>
       <name><languageId>zh</languageId><trName>德文</trName></name>
       <name><languageId>zh_Hant</languageId><trName>德文</trName></name>
-      <name><languageId>zu</languageId><trName>isiJalimani</trName></name>
+      <name><languageId>zu</languageId><trName>isi-German</trName></name>
     </names>
     <locales>
       <locale><localeId>de_DE.UTF-8</localeId><rank>600</rank></locale>
@@ -3734,7 +3734,7 @@
       <name><languageId>fa</languageId><trName>یونانی</trName></name>
       <name><languageId>ff</languageId><trName>Gerke</trName></name>
       <name><languageId>fi</languageId><trName>kreikka</trName></name>
-      <name><languageId>fil</languageId><trName>Griyego</trName></name>
+      <name><languageId>fil</languageId><trName>Greek</trName></name>
       <name><languageId>fo</languageId><trName>grikiskt</trName></name>
       <name><languageId>fr</languageId><trName>grec</trName></name>
       <name><languageId>fur</languageId><trName>grêc</trName></name>
@@ -4240,7 +4240,7 @@
       <name><languageId>fa</languageId><trName>اسپانیایی</trName></name>
       <name><languageId>ff</languageId><trName>Español</trName></name>
       <name><languageId>fi</languageId><trName>espanja</trName></name>
-      <name><languageId>fil</languageId><trName>Espanyol</trName></name>
+      <name><languageId>fil</languageId><trName>Spanish</trName></name>
       <name><languageId>fo</languageId><trName>spanskt</trName></name>
       <name><languageId>fr</languageId><trName>espagnol</trName></name>
       <name><languageId>fur</languageId><trName>spagnûl</trName></name>
@@ -4329,7 +4329,7 @@
       <name><languageId>yo</languageId><trName>Èdè Sipanisi</trName></name>
       <name><languageId>zh</languageId><trName>西班牙文</trName></name>
       <name><languageId>zh_Hant</languageId><trName>西班牙文</trName></name>
-      <name><languageId>zu</languageId><trName>isiSpeyini</trName></name>
+      <name><languageId>zu</languageId><trName>isi-Spanish</trName></name>
     </names>
     <locales>
       <locale><localeId>es_ES.UTF-8</localeId><rank>1000</rank></locale>
@@ -5356,7 +5356,7 @@
       <name><languageId>eu</languageId><trName>faroera</trName></name>
       <name><languageId>fa</languageId><trName>فارویی</trName></name>
       <name><languageId>fi</languageId><trName>fääri</trName></name>
-      <name><languageId>fil</languageId><trName>Faroeso</trName></name>
+      <name><languageId>fil</languageId><trName>Faroese</trName></name>
       <name><languageId>fo</languageId><trName>føroyskt</trName></name>
       <name><languageId>fr</languageId><trName>féroïen</trName></name>
       <name><languageId>fur</languageId><trName>faroês</trName></name>
@@ -5490,7 +5490,7 @@
       <name><languageId>fa</languageId><trName>فرانسوی</trName></name>
       <name><languageId>ff</languageId><trName>Farayseere</trName></name>
       <name><languageId>fi</languageId><trName>ranska</trName></name>
-      <name><languageId>fil</languageId><trName>Pranses</trName></name>
+      <name><languageId>fil</languageId><trName>French</trName></name>
       <name><languageId>fo</languageId><trName>franskt</trName></name>
       <name><languageId>fr</languageId><trName>français</trName></name>
       <name><languageId>fur</languageId><trName>francês</trName></name>
@@ -6879,7 +6879,7 @@
       <name><languageId>eu</languageId><trName>hebreera</trName></name>
       <name><languageId>fa</languageId><trName>عبری</trName></name>
       <name><languageId>fi</languageId><trName>heprea</trName></name>
-      <name><languageId>fil</languageId><trName>Hebreo</trName></name>
+      <name><languageId>fil</languageId><trName>Hebrew</trName></name>
       <name><languageId>fo</languageId><trName>hebraiskt</trName></name>
       <name><languageId>fr</languageId><trName>hébreu</trName></name>
       <name><languageId>fur</languageId><trName>ebraic</trName></name>
@@ -7102,7 +7102,7 @@
       <name><languageId>yo</languageId><trName>Èdè Hindi</trName></name>
       <name><languageId>zh</languageId><trName>印地文</trName></name>
       <name><languageId>zh_Hant</languageId><trName>北印度文</trName></name>
-      <name><languageId>zu</languageId><trName>isiHindi</trName></name>
+      <name><languageId>zu</languageId><trName>isi-Hindi</trName></name>
     </names>
     <locales>
       <locale><localeId>hi_IN.UTF-8</localeId><rank>1000</rank></locale>
@@ -8531,7 +8531,7 @@
       <name><languageId>fa</languageId><trName>ایتالیایی</trName></name>
       <name><languageId>ff</languageId><trName>Italiyeere</trName></name>
       <name><languageId>fi</languageId><trName>italia</trName></name>
-      <name><languageId>fil</languageId><trName>Italyano</trName></name>
+      <name><languageId>fil</languageId><trName>Italian</trName></name>
       <name><languageId>fo</languageId><trName>italskt</trName></name>
       <name><languageId>fr</languageId><trName>italien</trName></name>
       <name><languageId>fur</languageId><trName>talian</trName></name>
@@ -9877,7 +9877,7 @@
       <name><languageId>kn</languageId><trName>ಕಾಶ್ಮೀರಿ</trName></name>
       <name><languageId>ko</languageId><trName>카슈미르어</trName></name>
       <name><languageId>kok</languageId><trName>कश्मीरी</trName></name>
-      <name><languageId>ks</languageId><trName>کأشُر</trName></name>
+      <name><languageId>ks</languageId><trName>کٲشُر</trName></name>
       <name><languageId>ks_Arab</languageId><trName>کأشُر</trName></name>
       <name><languageId>ks_Deva</languageId><trName>कॉशुर</trName></name>
       <name><languageId>ks_Latn</languageId><trName>kạ̄šur</trName></name>
@@ -14798,7 +14798,7 @@
       <name><languageId>fa</languageId><trName>پرتغالی</trName></name>
       <name><languageId>ff</languageId><trName>Purtugeere</trName></name>
       <name><languageId>fi</languageId><trName>portugali</trName></name>
-      <name><languageId>fil</languageId><trName>Portuges</trName></name>
+      <name><languageId>fil</languageId><trName>Portuguese</trName></name>
       <name><languageId>fo</languageId><trName>portugisiskt</trName></name>
       <name><languageId>fr</languageId><trName>portugais</trName></name>
       <name><languageId>fur</languageId><trName>portughês</trName></name>
@@ -19280,7 +19280,7 @@
       <name><languageId>eu</languageId><trName>uigurrera</trName></name>
       <name><languageId>fa</languageId><trName>اویغوری</trName></name>
       <name><languageId>fi</languageId><trName>uiguuri</trName></name>
-      <name><languageId>fil</languageId><trName>Uyghur</trName></name>
+      <name><languageId>fil</languageId><trName>Uighur</trName></name>
       <name><languageId>fo</languageId><trName>uighur</trName></name>
       <name><languageId>fr</languageId><trName>ouïgour</trName></name>
       <name><languageId>fur</languageId><trName>uigur</trName></name>
@@ -21111,7 +21111,7 @@
       <name><languageId>eu</languageId><trName>txinera soildua</trName></name>
       <name><languageId>fa</languageId><trName>چینی ساده‌شده</trName></name>
       <name><languageId>fi</languageId><trName>yksinkertaistettu kiina</trName></name>
-      <name><languageId>fil</languageId><trName>Chinese (pinasimple)</trName></name>
+      <name><languageId>fil</languageId><trName>Simplified Chinese</trName></name>
       <name><languageId>fr</languageId><trName>chinois simplifié</trName></name>
       <name><languageId>fur</languageId><trName>cinês semplificât</trName></name>
       <name><languageId>ga</languageId><trName>Sínis Shimplithe</trName></name>
@@ -21231,7 +21231,7 @@
       <name><languageId>eu</languageId><trName>txinera tradizionala</trName></name>
       <name><languageId>fa</languageId><trName>چینی سنتی</trName></name>
       <name><languageId>fi</languageId><trName>perinteinen kiina</trName></name>
-      <name><languageId>fil</languageId><trName>Chinese (tradisyunal)</trName></name>
+      <name><languageId>fil</languageId><trName>Traditional Chinese</trName></name>
       <name><languageId>fr</languageId><trName>chinois traditionnel</trName></name>
       <name><languageId>fur</languageId><trName>cinês tradizionâl</trName></name>
       <name><languageId>ga</languageId><trName>Sínis Thraidisiúnta</trName></name>
