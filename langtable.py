@@ -927,7 +927,7 @@ def languageId(languageName = u''):
         languageName = languageName.decode('UTF-8')
     for languageId in _languages_db:
         for icuLocaleId in _languages_db[languageId].names:
-            if languageName == _languages_db[languageId].names[icuLocaleId]:
+            if languageName.lower() == _languages_db[languageId].names[icuLocaleId].lower():
                 return languageId
     language_territory_pattern = re.compile(
         r'^(?P<language_name>[\S]+)[\s]+[(](?P<territory_name>[\S]+)[)]',
@@ -938,10 +938,10 @@ def languageId(languageName = u''):
         territory_name = match.group('territory_name')
         for languageId in _languages_db:
             for icuLocaleId in _languages_db[languageId].names:
-                if language_name == _languages_db[languageId].names[icuLocaleId]:
+                if language_name.lower() == _languages_db[languageId].names[icuLocaleId].lower():
                     for territoryId in _territories_db:
                         for icuLocaleId_territory in _territories_db[territoryId].names:
-                            if territory_name == _territories_db[territoryId].names[icuLocaleId_territory]:
+                            if territory_name.lower() == _territories_db[territoryId].names[icuLocaleId_territory].lower():
                                 return languageId+'_'+territoryId
 
     return ''

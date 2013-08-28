@@ -1023,3 +1023,16 @@
 
 >>> languageId("Portugiesisch (Brasilien)")  # doctest: +NORMALIZE_WHITESPACE
     'pt_BR'
+
+>>> languageId("Shuswap language")  # doctest: +NORMALIZE_WHITESPACE
+    'shs'
+
+>>> languageId("Shuswap Language")  # doctest: +NORMALIZE_WHITESPACE
+    'shs'
+
+>>> languageId("shuswap language")  # doctest: +NORMALIZE_WHITESPACE
+    'shs'
+
+>>> languageId("sHuSwAp laNguAge")  # doctest: +NORMALIZE_WHITESPACE
+    'shs'
+
