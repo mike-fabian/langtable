@@ -1,5 +1,5 @@
 Name:           langtable
-Version:        0.0.11
+Version:        0.0.12
 Release:        1%{?dist}
 Summary:        Guessing reasonable defaults for locale, keyboard layout, territory, and language.
 Group:          Development/Tools
@@ -68,6 +68,10 @@ xmllint --noout --relaxng $RPM_BUILD_ROOT/%{_datadir}/langtable/schemas/territor
 %{_datadir}/langtable/*.xml.gz
 
 %changelog
+* Wed Aug 28 2013 Mike FABIAN <mfabian@redhat.com> - 0.0.12-1
+- Update to 0.0.12
+- Match case insensitively in languageId() (Resolves: rhbz#1002000 (case insensitive languageId function needed))
+
 * Mon Aug 19 2013 Mike FABIAN <mfabian@redhat.com> - 0.0.11-1
 - Update to 0.0.11
 - Add translations for DE and NL territories in nds (reported by Vratislav Podzimek)
