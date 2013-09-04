@@ -22,6 +22,7 @@ from lxml import etree
 import langtable
 from langtable import list_locales
 from langtable import list_keyboards
+from langtable import timezone_name
 
 opts = {}
 opts['debug'] = False
@@ -45,6 +46,16 @@ def parse_args():
                         type=str,
                         default='./data/languages.xml.new',
                         help='languages output file, default is ./data/languages.xml.new')
+    parser.add_argument('-z', '--timezonesoutputfile',
+                        nargs='?',
+                        type=str,
+                        default='./data/timezones.xml.new',
+                        help='timezones output file, default is ./data/timezones.xml.new')
+    parser.add_argument('-p', '--timezoneidpartsoutputfile',
+                        nargs='?',
+                        type=str,
+                        default='./data/timezoneidparts.xml.new',
+                        help='timezoneidparts output file, default is ./data/timezoneidparts.xml.new')
     parser.add_argument('-l', '--logfilename',
                         nargs='?',
                         type=str,
@@ -57,10 +68,22 @@ def parse_args():
 
 translations_languages = {}
 translations_territories = {}
+translations_timezone_cities = {}
+timezone_city_aliases = {
+    'Calcutta': 'Kolkata',
+    'Asmera': 'Asmara',
+    'Coral_Harbour': 'Atikokan',
+    'Truk': 'Chuuk',
+    'Faeroe': 'Faroe',
+    'Saigon': 'Ho_Chi_Minh',
+    'Katmandu': 'Kathmandu',
+    'Ponape': 'Pohnpei',
+}
 
 def read_translations_from_cldr_file(file = None):
     translations_languages.clear()
     translations_territories.clear()
+    translations_timezone_cities.clear()
     if file:
         ldmlTree = etree.parse(file).getroot()
         if ldmlTree.tag != 'ldml':
@@ -88,6 +111,26 @@ def read_translations_from_cldr_file(file = None):
                                         translation = element.text
                                         if not (element.get('alt') == 'short' and territoryId in translations_territories):
                                             translations_territories[territoryId] = translation
+                if element.tag == 'dates':
+                    datesTree = element
+                    for element in datesTree:
+                        if element.tag == 'timeZoneNames':
+                            timeZoneNamesTree = element
+                            if len(timeZoneNamesTree):
+                                for element in timeZoneNamesTree:
+                                    if element.tag == 'zone':
+                                        zoneId = element.get('type')
+                                        idParts = zoneId.split('/')
+                                        if len(idParts):
+                                            idPart = idParts[-1]
+                                            zoneTree = element
+                                            for element in zoneTree:
+                                                if element.tag == 'exemplarCity':
+                                                    cityTranslation = element.text
+                                                    translations_timezone_cities[idPart] = cityTranslation
+    for alias in timezone_city_aliases:
+        if alias in translations_timezone_cities:
+            translations_timezone_cities[timezone_city_aliases[alias]] = translations_timezone_cities[alias]
     return
 
 def get_translations_from_cldr(main_cldr_dir = None):
@@ -152,8 +195,43 @@ def get_translations_from_cldr(main_cldr_dir = None):
                 if opts['debug']:
                     print "Not in langtable: %(territory_to_translate)s" \
                         %{'territory_to_translate': territory_to_translate}
+        for timezone_city_to_translate in translations_timezone_cities:
+            if timezone_city_to_translate in langtable._timezoneIdParts_db:
+                if target_language not in langtable._timezoneIdParts_db[timezone_city_to_translate].names:
+                    if timezone_city_to_translate not in ['Vevay', 'Center']:
+                        print "Missing: %(timezone_city_to_translate)s → %(target_language)s = %(tr)s" \
+                            %{'timezone_city_to_translate': timezone_city_to_translate,
+                              'target_language': target_language,
+                              'tr': translations_timezone_cities[timezone_city_to_translate].encode('UTF-8')}
+                        langtable._timezoneIdParts_db[timezone_city_to_translate].names[target_language] = translations_timezone_cities[timezone_city_to_translate]
+                elif translations_timezone_cities[timezone_city_to_translate] \
+                     == langtable._timezoneIdParts_db[timezone_city_to_translate].names[target_language]:
+                    if opts['debug']:
+                        print "Identical: %(timezone_city_to_translate)s → %(target_language)s = %(tr)s" \
+                            %{'timezone_city_to_translate': timezone_city_to_translate,
+                              'target_language': target_language,
+                              'tr': translations_timezone_cities[timezone_city_to_translate].encode('UTF-8')}
+                else:
+                    if timezone_city_to_translate not in ['Marengo', 'Knox', 'Tell_City', 'Beulah', 'Winamac', 'Vincennes', 'Petersburg', 'Monticello', 'New_Salem', 'Center', 'Melbourne', 'Darwin', 'Hobart', 'Sydney', 'Broken_Hill', 'Mendoza', 'Perth', 'San_Juan', 'Cordoba', 'Brisbane', 'Adelaide', 'Catamarca', 'Currie', 'Vevay', 'Eucla']:
+                        print "- %(timezone_city_to_translate)s → %(target_language)s = %(tr)s" \
+                            %{'timezone_city_to_translate': timezone_city_to_translate,
+                              'target_language': target_language,
+                              'tr': langtable._timezoneIdParts_db[timezone_city_to_translate].names[target_language].encode('UTF-8')}
+                        print "+ %(timezone_city_to_translate)s → %(target_language)s = %(tr)s" \
+                            %{'timezone_city_to_translate': timezone_city_to_translate,
+                              'target_language': target_language,
+                              'tr': translations_timezone_cities[timezone_city_to_translate].encode('UTF-8')}
     return
 
+def _test_timezone_names():
+    from pytz import common_timezones
+    languages_supported_by_anaconda = ['af', 'am', 'ar', 'as', 'ast', 'bal', 'be', 'bg', 'bn', 'bn_IN', 'bs', 'ca', 'cs', 'cy', 'da', 'de', 'de_CH', 'el', 'en', 'en_GB', 'es', 'et', 'eu', 'eu_ES', 'fa', 'fi', 'fr', 'gl', 'gu', 'he', 'hi', 'hr', 'hu', 'hy', 'ia', 'id', 'ilo', 'is', 'it', 'ja', 'ka', 'kk', 'kn', 'ko', 'lt', 'lv', 'mai', 'mk', 'ml', 'mr', 'ms', 'nb', 'nds', 'ne', 'nl', 'nn', 'nso', 'or', 'pa', 'pl', 'pt', 'pt_BR', 'ro', 'ru', 'si', 'sk', 'sl', 'sq', 'sr', 'sr_Latn', 'sv', 'ta', 'te', 'tg', 'th', 'tr', 'uk', 'ur', 'vi', 'zh_CN', 'zh_TW', 'zu']
+    for icuLocaleId in languages_supported_by_anaconda:
+        for timezoneId in common_timezones:
+            print "%(lang)s: '%(id)s' -> '%(tr)s'" %{
+                'lang': icuLocaleId,
+                'id': timezoneId,
+                'tr': timezone_name(timezoneId=timezoneId, languageIdQuery=icuLocaleId)}
 def main():
     args = parse_args()
     if args.debug:
@@ -167,9 +245,13 @@ def main():
 
     get_translations_from_cldr(main_cldr_dir='/local/mfabian/src/cldr-svn/trunk/common/main')
 
+    #_test_timezone_names()
+
     langtable._write_files(territoriesfilename = args.territoriesoutputfile,
                            languagesfilename = args.languagesoutputfile,
-                           keyboardsfilename = args.keyboardsoutputfile)
+                           keyboardsfilename = args.keyboardsoutputfile,
+                           timezonesfilename = args.timezonesoutputfile,
+                           timezoneidpartsfilename = args.timezoneidpartsoutputfile)
 
 
 if __name__ == '__main__':

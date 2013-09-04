@@ -1036,3 +1036,31 @@
 >>> languageId("sHuSwAp laNguAge")  # doctest: +NORMALIZE_WHITESPACE
     'shs'
 
+>>> print langtable.timezone_name(timezoneId='US/Mountain', languageIdQuery='ja').encode('UTF-8')  # doctest: +NORMALIZE_WHITESPACE
+   アメリカ合衆国/山地時間
+
+>>> print langtable.timezone_name(timezoneId='US/Pacific', languageIdQuery='ja').encode('UTF-8')  # doctest: +NORMALIZE_WHITESPACE
+   アメリカ合衆国/太平洋時間
+
+>>> print langtable.timezone_name(timezoneId='America/North_Dakota/Center', languageIdQuery='es').encode('UTF-8')  # doctest: +NORMALIZE_WHITESPACE
+    América/Dakota del Norte/Centro
+
+>>> print langtable.timezone_name(timezoneId='Europe/Berlin', languageIdQuery='zh').encode('UTF-8')  # doctest: +NORMALIZE_WHITESPACE
+    欧洲/柏林
+
+>>> print langtable.timezone_name(timezoneId='Europe/Berlin', languageIdQuery='zh_Hant').encode('UTF-8')  # doctest: +NORMALIZE_WHITESPACE
+   歐洲/柏林
+
+>>> print langtable.timezone_name(timezoneId='Europe/Berlin', languageIdQuery='zh_CN').encode('UTF-8')  # doctest: +NORMALIZE_WHITESPACE
+    欧洲/柏林
+>>> print langtable.timezone_name(timezoneId='Europe/Berlin', languageIdQuery='zh_TW').encode('UTF-8')  # doctest: +NORMALIZE_WHITESPACE
+    欧洲/柏林
+
+>>> print(langtable.timezone_name(timezoneId='GMT+1', languageIdQuery='cs'))  # doctest: +NORMALIZE_WHITESPACE
+    GMT+1
+
+>>> print(langtable.timezone_name(timezoneId='foo/bar', languageIdQuery='cs'))  # doctest: +NORMALIZE_WHITESPACE
+    foo/bar
+
+>>> print(langtable.timezone_name(timezoneId='Europe/foo/bar', languageIdQuery='cs'))  # doctest: +NORMALIZE_WHITESPACE
+    Evropa/foo/bar

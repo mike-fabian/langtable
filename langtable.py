@@ -24,6 +24,7 @@
 #     list_timezones()
 #     language_name()
 #     territory_name()
+#     timezone_name()
 #     languageId()
 #     territoryId()
 #     supports_ascii()
@@ -79,6 +80,8 @@ _glibc_script_ids = {
 _territories_db = {}
 _languages_db = {}
 _keyboards_db = {}
+_timezones_db = {}
+_timezoneIdParts_db = {}
 
 class territory_db_item:
     def __init__(self, names = None, locales=None, languages=None, keyboards=None, consolefonts=None, timezones=None):
@@ -108,6 +111,14 @@ class keyboard_db_item:
         self.comment = comment
         self.languages = languages
         self.territories = territories
+
+class timezone_db_item:
+    def __init__(self, names=None):
+        self.names = names
+
+class timezoneIdPart_db_item:
+    def __init__(self, names=None):
+        self.names = names
 
 # xml.sax.handler.ContentHandler is not inherited from the 'object' class,
 # 'super' keyword wouldn't work, we need to inherit it on our own
@@ -426,6 +437,112 @@ class LanguagesContentHandler(LangtableContentHandler):
         self._item_name = None
         self._item_rank = None
 
+class TimezonesContentHandler(LangtableContentHandler):
+    """Handler for SAX events produced when parsing the timezones.xml file."""
+
+    def __init__(self):
+        super(TimezonesContentHandler, self).__init__()
+        # simple values
+        self._timezoneId = None
+
+        # helper variables
+        self._item_id = None
+        self._item_name = None
+
+        # dictionaries
+        self._names = None
+
+    def startElement(self, name, attrs):
+        if name == u"timezone":
+            self._names = dict()
+
+        # non-dict values
+        elif name == u"timezoneId":
+            # ID of the timezone
+            self._save_to = "_timezoneId"
+
+        # dict items
+        elif name == u"languageId":
+            # ID of the translated timezone's language
+            self._save_to = "_item_id"
+        elif name == u"trName":
+            self._save_to = "_item_name"
+
+    def endElement(self, name):
+        # we don't allow text to appear on the same level as elements so outside
+        # of an element no text should appear
+        self._save_to = None
+
+        if name == u"timezone":
+            _timezones_db[str(self._timezoneId)] = timezone_db_item(
+                names = self._names)
+
+            # clean after ourselves
+            self._timezoneId = None
+            self._names = None
+
+        # populating dictionaries
+        elif name == u"name":
+            self._names[str(self._item_id)] = self._item_name
+            self._clear_item()
+
+    def _clear_item(self):
+        self._item_id = None
+        self._item_name = None
+
+class TimezoneIdPartsContentHandler(LangtableContentHandler):
+    """Handler for SAX events produced when parsing the timezoneidparts.xml file."""
+
+    def __init__(self):
+        super(TimezoneIdPartsContentHandler, self).__init__()
+        # simple values
+        self._timezoneIdPartId = None
+
+        # helper variables
+        self._item_id = None
+        self._item_name = None
+
+        # dictionaries
+        self._names = None
+
+    def startElement(self, name, attrs):
+        if name == u"timezoneIdPart":
+            self._names = dict()
+
+        # non-dict values
+        elif name == u"timezoneIdPartId":
+            # partial timezone ID
+            self._save_to = "_timezoneIdPartId"
+
+        # dict items
+        elif name == u"languageId":
+            # ID of the translated partial timezone ID's language
+            self._save_to = "_item_id"
+        elif name == u"trName":
+            self._save_to = "_item_name"
+
+    def endElement(self, name):
+        # we don't allow text to appear on the same level as elements so outside
+        # of an element no text should appear
+        self._save_to = None
+
+        if name == u"timezoneIdPart":
+            _timezoneIdParts_db[str(self._timezoneIdPartId)] = timezoneIdPart_db_item(
+                names = self._names)
+
+            # clean after ourselves
+            self._timezoneIdPartId = None
+            self._names = None
+
+        # populating dictionaries
+        elif name == u"name":
+            self._names[str(self._item_id)] = self._item_name
+            self._clear_item()
+
+    def _clear_item(self):
+        self._item_id = None
+        self._item_name = None
+
 def _write_territories_file(file):
     '''
     Only for internal use
@@ -598,6 +715,50 @@ def _write_keyboards_file(file):
     file.write('</keyboards>\n')
     return
 
+def _write_timezones_file(file):
+    '''
+    Only for internal use
+    '''
+    file.write('<?xml version="1.0" encoding="UTF-8"?>\n')
+    file.write('<timezones>\n')
+    for timezoneId in sorted(_timezones_db):
+        file.write('  <timezone>\n')
+        file.write('    <timezoneId>'+timezoneId+'</timezoneId>\n')
+        names = _timezones_db[timezoneId].names
+        file.write('    <names>\n')
+        for name in sorted(names):
+            file.write(
+                '      <name>'
+                +'<languageId>'+name+'</languageId>'
+                +'<trName>'+names[name].encode('UTF-8')+'</trName>'
+                +'</name>\n')
+        file.write('    </names>\n')
+        file.write('  </timezone>\n')
+    file.write('</timezones>\n')
+    return
+
+def _write_timezoneIdParts_file(file):
+    '''
+    Only for internal use
+    '''
+    file.write('<?xml version="1.0" encoding="UTF-8"?>\n')
+    file.write('<timezoneIdParts>\n')
+    for timezoneIdPartId in sorted(_timezoneIdParts_db):
+        file.write('  <timezoneIdPart>\n')
+        file.write('    <timezoneIdPartId>'+timezoneIdPartId+'</timezoneIdPartId>\n')
+        names = _timezoneIdParts_db[timezoneIdPartId].names
+        file.write('    <names>\n')
+        for name in sorted(names):
+            file.write(
+                '      <name>'
+                +'<languageId>'+name+'</languageId>'
+                +'<trName>'+names[name].encode('UTF-8')+'</trName>'
+                +'</name>\n')
+        file.write('    </names>\n')
+        file.write('  </timezoneIdPart>\n')
+    file.write('</timezoneIdParts>\n')
+    return
+
 def _expat_parse(file, sax_handler):
     """
     Only for internal use. Parses a given file object with a given SAX handler
@@ -630,7 +791,7 @@ def _read_file(datadir, filename, sax_handler):
             return
     logging.info('no readable file found.')
 
-def _write_files(territoriesfilename, languagesfilename, keyboardsfilename):
+def _write_files(territoriesfilename, languagesfilename, keyboardsfilename, timezonesfilename, timezoneidpartsfilename):
     '''
     Only for internal use
     '''
@@ -643,6 +804,15 @@ def _write_files(territoriesfilename, languagesfilename, keyboardsfilename):
     with open(keyboardsfilename, 'w') as keyboardsfile:
         logging.info("writing keyboards file=%s" %keyboardsfile)
         _write_keyboards_file(keyboardsfile)
+    with open(keyboardsfilename, 'w') as keyboardsfile:
+        logging.info("writing keyboards file=%s" %keyboardsfile)
+        _write_keyboards_file(keyboardsfile)
+    with open(timezonesfilename, 'w') as timezonesfile:
+        logging.info("writing timezones file=%s" %timezonesfile)
+        _write_timezones_file(timezonesfile)
+    with open(timezoneidpartsfilename, 'w') as timezoneidpartsfile:
+        logging.info("writing timezoneidparts file=%s" %timezoneidpartsfile)
+        _write_timezoneIdParts_file(timezoneidpartsfile)
     return
 
 def _dictionary_to_ranked_list(dict, reverse=True):
@@ -865,6 +1035,77 @@ def language_name(languageId = None, scriptId = None, territoryId = None, langua
                 icuLocaleIdQuery = languageIdQuery
                 if icuLocaleIdQuery in _languages_db[icuLocaleId].names:
                     return _languages_db[icuLocaleId].names[icuLocaleIdQuery]
+    return ''
+
+def _timezone_name_from_id_parts(timezoneId = None, icuLocaleIdQuery = None):
+    '''Query translation of timezone IDs by querying translations
+    for each part of the ID seperately and putting the results together
+    '''
+    if not (timezoneId and icuLocaleIdQuery):
+        return ''
+    timezoneId_parts = timezoneId.split('/')
+    part_names = []
+    for timezoneId_part in timezoneId_parts:
+        if timezoneId_part not in _timezoneIdParts_db:
+            part_names.append(timezoneId_part)
+            continue
+        if icuLocaleIdQuery in _timezoneIdParts_db[timezoneId_part].names:
+            name = _timezoneIdParts_db[timezoneId_part].names[icuLocaleIdQuery]
+            if name:
+                part_names.append(name)
+        elif icuLocaleIdQuery == 'en':
+            name = timezoneId_part.replace('_', ' ')
+            part_names.append(name)
+    if len(part_names) == len(timezoneId_parts):
+        return u'/'.join(part_names)
+    return ''
+
+def timezone_name(timezoneId = None, languageIdQuery = None, scriptIdQuery = None, territoryIdQuery = None):
+    '''Query translations of timezone IDs
+
+    Examples:
+
+    '''
+    languageIdQuery, scriptIdQuery, territoryIdQuery = _parse_and_split_languageId(
+        languageId=languageIdQuery,
+        scriptId=scriptIdQuery,
+        territoryId=territoryIdQuery)
+    if languageIdQuery and scriptIdQuery and territoryIdQuery:
+        icuLocaleIdQuery = languageIdQuery+'_'+scriptIdQuery+'_'+territoryIdQuery
+        if timezoneId in _timezones_db:
+            if icuLocaleIdQuery in _timezones_db[timezoneId].names:
+                return _timezones_db[timezoneId].names[icuLocaleIdQuery]
+        name_from_parts = _timezone_name_from_id_parts(
+            timezoneId=timezoneId, icuLocaleIdQuery=icuLocaleIdQuery)
+        if name_from_parts:
+            return name_from_parts
+    if languageIdQuery and scriptIdQuery:
+        icuLocaleIdQuery = languageIdQuery+'_'+scriptIdQuery
+        if timezoneId in _timezones_db:
+            if icuLocaleIdQuery in _timezones_db[timezoneId].names:
+                return _timezones_db[timezoneId].names[icuLocaleIdQuery]
+        name_from_parts = _timezone_name_from_id_parts(
+            timezoneId=timezoneId, icuLocaleIdQuery=icuLocaleIdQuery)
+        if name_from_parts:
+            return name_from_parts
+    if languageIdQuery and territoryIdQuery:
+        icuLocaleIdQuery = languageIdQuery+'_'+territoryIdQuery
+        if timezoneId in _timezones_db:
+            if icuLocaleIdQuery in _timezones_db[timezoneId].names:
+                return _timezones_db[timezoneId].names[icuLocaleIdQuery]
+        name_from_parts = _timezone_name_from_id_parts(
+            timezoneId=timezoneId, icuLocaleIdQuery=icuLocaleIdQuery)
+        if name_from_parts:
+            return name_from_parts
+    if languageIdQuery:
+        icuLocaleIdQuery = languageIdQuery
+        if timezoneId in _timezones_db:
+            if icuLocaleIdQuery in _timezones_db[timezoneId].names:
+                return _timezones_db[timezoneId].names[icuLocaleIdQuery]
+        name_from_parts = _timezone_name_from_id_parts(
+            timezoneId=timezoneId, icuLocaleIdQuery=icuLocaleIdQuery)
+        if name_from_parts:
+            return name_from_parts
     return ''
 
 def territoryId(territoryName = u''):
@@ -1286,6 +1527,8 @@ def _init(debug = False,
     _read_file(datadir, 'territories.xml', TerritoriesContentHandler())
     _read_file(datadir, 'languages.xml', LanguagesContentHandler())
     _read_file(datadir, 'keyboards.xml', KeyboardsContentHandler())
+    _read_file(datadir, 'timezones.xml', TimezonesContentHandler())
+    _read_file(datadir, 'timezoneidparts.xml', TimezoneIdPartsContentHandler())
 
 class __ModuleInitializer:
     def __init__(self):

@@ -1,3 +1,7 @@
+2014-01-09  Mike FABIAN  <mfabian@redhat.com>
+
+	* Add support for timezone translations to resolve part of rhbz#1015209
+
 2013-09-05  Mike FABIAN  <mfabian@redhat.com>
 
 	* Version 0.0.13 released.

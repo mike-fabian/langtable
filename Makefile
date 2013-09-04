@@ -16,6 +16,8 @@ test: install
 	xmllint --noout --relaxng $(DATADIR)/schemas/keyboards.rng $(DATADIR)/keyboards.xml.gz
 	xmllint --noout --relaxng $(DATADIR)/schemas/languages.rng $(DATADIR)/languages.xml.gz
 	xmllint --noout --relaxng $(DATADIR)/schemas/territories.rng $(DATADIR)/territories.xml.gz
+	xmllint --noout --relaxng $(DATADIR)/schemas/timezones.rng $(DATADIR)/timezones.xml.gz
+	xmllint --noout --relaxng $(DATADIR)/schemas/timezoneidparts.rng $(DATADIR)/timezoneidparts.xml.gz
 
 .PHONY: dist
 dist:
@@ -44,5 +46,5 @@ review: mockbuild
 %.rnc: %.rng
 	trang $< $@
 
-rnc: schemas/keyboards.rnc schemas/languages.rnc schemas/territories.rnc
+rnc: schemas/keyboards.rnc schemas/languages.rnc schemas/territories.rnc schemas/timezones.rnc schemas/timezoneidparts.rnc
 	cp schemas/*.rnc data/
