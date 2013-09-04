@@ -1,0 +1,24 @@
+<element name="timezones" xmlns="http://relaxng.org/ns/structure/1.0"
+         datatypeLibrary="http://www.w3.org/2001/XMLSchema-datatypes">
+  <zeroOrMore>
+    <element name="timezone">
+      <element name="timezoneId">
+        <text />
+      </element>
+      <optional>
+        <element name="names">
+          <zeroOrMore>
+            <element name="name">
+              <element name="languageId">
+                <text />
+              </element>
+              <element name="trName">
+                <text />
+              </element>
+            </element>
+          </zeroOrMore>
+        </element>
+      </optional>
+    </element>
+  </zeroOrMore>
+</element>

@@ -1044,3 +1044,9 @@
 
 >>> languageId("Low German (Germany)")  # doctest: +NORMALIZE_WHITESPACE
     'nds_DE'
+
+>>> print langtable.timezone_name(timezoneId='America/North_Dakota/Center', languageIdQuery='ja').encode('UTF-8')  # doctest: +NORMALIZE_WHITESPACE
+    アメリカ/ノースダコタ州/センター
+
+>>> print langtable.timezone_name(timezoneId='America/North_Dakota/Center', languageIdQuery='de').encode('UTF-8')  # doctest: +NORMALIZE_WHITESPACE
+    Amerika/Nord Dakota/Center
