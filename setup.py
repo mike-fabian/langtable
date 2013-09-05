@@ -4,7 +4,7 @@ from distutils.core import setup
 
 
 setup(name='langtable',
-      version='0.0.12',
+      version='0.0.13',
       description='guess reasonable defaults for locale, keyboard, territory, ...',
       long_description=open('README').read(),
       license="GPLv3+",
