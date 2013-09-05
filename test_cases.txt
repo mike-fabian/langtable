@@ -342,19 +342,19 @@
 
 # script and territory given in languageId override script and territory in extra parameters:
 >>> list_keyboards(languageId="sr_Latn", scriptId="Cyrl", territoryId="BE") # doctest: +NORMALIZE_WHITESPACE
-    ['sr(latin)', 'be(oss)']
+    ['rs(latin)', 'be(oss)']
 
 # script and territory given in languageId override script and territory in extra parameters:
 >>> list_keyboards(languageId="sr_Latn_RS", scriptId="Cyrl", territoryId="BE") # doctest: +NORMALIZE_WHITESPACE
-    ['sr(latin)']
+    ['rs(latin)']
 
 # script and territory given in languageId override script and territory in extra parameters:
 >>> list_keyboards(languageId="sr_Cyrl", scriptId="Latn", territoryId="BE") # doctest: +NORMALIZE_WHITESPACE
-    ['sr', 'be(oss)']
+    ['rs', 'be(oss)']
 
 # script and territory given in languageId override script and territory in extra parameters:
 >>> list_keyboards(languageId="sr_Cyrl_RS", scriptId="Latn", territoryId="BE") # doctest: +NORMALIZE_WHITESPACE
-    ['sr']
+    ['rs']
 
 >>> list_consolefonts(languageId="de", territoryId="DE") # doctest: +NORMALIZE_WHITESPACE
     ['latarcyrheb-sun16']

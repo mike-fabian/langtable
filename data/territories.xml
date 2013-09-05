@@ -14900,8 +14900,8 @@
       <language><languageId>sr</languageId><rank>1000</rank></language>
     </languages>
     <keyboards>
-      <keyboard><keyboardId>sr</keyboardId><rank>600</rank></keyboard>
-      <keyboard><keyboardId>sr(latin)</keyboardId><rank>400</rank></keyboard>
+      <keyboard><keyboardId>rs</keyboardId><rank>600</rank></keyboard>
+      <keyboard><keyboardId>rs(latin)</keyboardId><rank>400</rank></keyboard>
     </keyboards>
     <consolefonts>
       <consolefont><consolefontId>latarcyrheb-sun16</consolefontId><rank>1000</rank></consolefont>
