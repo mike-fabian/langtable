@@ -5637,7 +5637,7 @@
       <name><languageId>bg</languageId><trName>Катамарка</trName></name>
       <name><languageId>bn</languageId><trName>ক্যাটামার্কা</trName></name>
       <name><languageId>brx</languageId><trName>काटामार्का</trName></name>
-      <name><languageId>bs</languageId><trName>Katamarka (Argentina)</trName></name>
+      <name><languageId>bs</languageId><trName>Katamarka</trName></name>
       <name><languageId>ca</languageId><trName>Catamarca</trName></name>
       <name><languageId>cs</languageId><trName>Catamarca</trName></name>
       <name><languageId>cy</languageId><trName>Catamarca</trName></name>
@@ -7087,7 +7087,7 @@
       <name><languageId>bg</languageId><trName>Кордоба</trName></name>
       <name><languageId>bn</languageId><trName>কর্ডোবা</trName></name>
       <name><languageId>brx</languageId><trName>कोर्डोबा</trName></name>
-      <name><languageId>bs</languageId><trName>Kordoba (Argentina)</trName></name>
+      <name><languageId>bs</languageId><trName>Kordoba</trName></name>
       <name><languageId>ca</languageId><trName>Córdoba</trName></name>
       <name><languageId>cs</languageId><trName>Córdoba</trName></name>
       <name><languageId>cy</languageId><trName>Córdoba</trName></name>
@@ -7103,7 +7103,7 @@
       <name><languageId>fr</languageId><trName>Córdoba</trName></name>
       <name><languageId>gl</languageId><trName>Córdoba</trName></name>
       <name><languageId>gu</languageId><trName>કોર્ડોબા</trName></name>
-      <name><languageId>he</languageId><trName>אמריקה/קורדובה</trName></name>
+      <name><languageId>he</languageId><trName>קורדובה</trName></name>
       <name><languageId>hi</languageId><trName>कोर्डोबा</trName></name>
       <name><languageId>hr</languageId><trName>Cordoba</trName></name>
       <name><languageId>hu</languageId><trName>Córdoba</trName></name>
@@ -12404,7 +12404,7 @@
       <name><languageId>th</languageId><trName>อินดีแอนา</trName></name>
       <name><languageId>tr</languageId><trName>Indiana</trName></name>
       <name><languageId>uk</languageId><trName>Індіана</trName></name>
-      <name><languageId>ur</languageId><trName>انڈیانا</trName></name>
+      <name><languageId>ur</languageId><trName>انڈیاناgit </trName></name>
       <name><languageId>uz</languageId><trName>Indiana</trName></name>
       <name><languageId>vi</languageId><trName>Indiana</trName></name>
       <name><languageId>zh</languageId><trName>印第安纳州</trName></name>
@@ -19214,7 +19214,7 @@
       <name><languageId>bg</languageId><trName>Мендоса</trName></name>
       <name><languageId>bn</languageId><trName>মেন্ডোজা</trName></name>
       <name><languageId>brx</languageId><trName>मेंडोज़ा</trName></name>
-      <name><languageId>bs</languageId><trName>Mendoza (Argentina)</trName></name>
+      <name><languageId>bs</languageId><trName>Mendoza</trName></name>
       <name><languageId>ca</languageId><trName>Mendoza</trName></name>
       <name><languageId>cs</languageId><trName>Mendoza</trName></name>
       <name><languageId>cy</languageId><trName>Mendoza</trName></name>
@@ -19230,7 +19230,7 @@
       <name><languageId>fr</languageId><trName>Mendoza</trName></name>
       <name><languageId>gl</languageId><trName>Mendoza</trName></name>
       <name><languageId>gu</languageId><trName>મેન્ડોઝા</trName></name>
-      <name><languageId>he</languageId><trName>אמריקה/מנדוזה</trName></name>
+      <name><languageId>he</languageId><trName>מנדוזה</trName></name>
       <name><languageId>hi</languageId><trName>मेंडोज़ा</trName></name>
       <name><languageId>hr</languageId><trName>Mendoza</trName></name>
       <name><languageId>hu</languageId><trName>Mendoza</trName></name>
@@ -26047,7 +26047,7 @@
       <name><languageId>bg</languageId><trName>Сан Хуан</trName></name>
       <name><languageId>bn</languageId><trName>সান হুয়ান</trName></name>
       <name><languageId>brx</languageId><trName>सान हुआँ</trName></name>
-      <name><languageId>bs</languageId><trName>San Huan (Argentina)</trName></name>
+      <name><languageId>bs</languageId><trName>San Huan</trName></name>
       <name><languageId>ca</languageId><trName>San Juan</trName></name>
       <name><languageId>cs</languageId><trName>San Juan</trName></name>
       <name><languageId>cy</languageId><trName>San Juan</trName></name>
@@ -26063,7 +26063,7 @@
       <name><languageId>fr</languageId><trName>San Juan</trName></name>
       <name><languageId>gl</languageId><trName>San Juan</trName></name>
       <name><languageId>gu</languageId><trName>સેન જુએન</trName></name>
-      <name><languageId>he</languageId><trName>אמריקה/ארגנטינה/סאן-חואן</trName></name>
+      <name><languageId>he</languageId><trName>סאן-חואן</trName></name>
       <name><languageId>hi</languageId><trName>सान जुआन</trName></name>
       <name><languageId>hr</languageId><trName>San Juan</trName></name>
       <name><languageId>hu</languageId><trName>San Juan</trName></name>
