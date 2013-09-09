@@ -3399,78 +3399,78 @@
   <timezoneIdPart>
     <timezoneIdPartId>Beulah</timezoneIdPartId>
     <names>
-      <name><languageId>af</languageId><trName>Beulah, North Dakota</trName></name>
-      <name><languageId>am</languageId><trName>ቤኡላህ, ሰሜን ዳኮታ</trName></name>
-      <name><languageId>ar</languageId><trName>بيولا، داكوتا الشمالية</trName></name>
-      <name><languageId>ast</languageId><trName>Beulah, Dakota del Norte</trName></name>
-      <name><languageId>az</languageId><trName>Beulah, Şimali Dakota</trName></name>
+      <name><languageId>af</languageId><trName>Beulah</trName></name>
+      <name><languageId>am</languageId><trName>ቤኡላህ</trName></name>
+      <name><languageId>ar</languageId><trName>بيولا</trName></name>
+      <name><languageId>ast</languageId><trName>Beulah</trName></name>
+      <name><languageId>az</languageId><trName>Beulah</trName></name>
       <name><languageId>bg</languageId><trName>Бюла</trName></name>
-      <name><languageId>bn</languageId><trName>বেউলা, উত্তর ডাকোটা</trName></name>
-      <name><languageId>ca</languageId><trName>Beulah, Dakota del Nord</trName></name>
-      <name><languageId>cs</languageId><trName>Beulah, Severní Dakota</trName></name>
-      <name><languageId>cy</languageId><trName>Beulah, Gogledd Dakota</trName></name>
-      <name><languageId>da</languageId><trName>Beulah, North Dakota</trName></name>
-      <name><languageId>de</languageId><trName>Beulah, North Dakota</trName></name>
-      <name><languageId>el</languageId><trName>Μπέουλαχ, Βόρεια Ντακότα</trName></name>
-      <name><languageId>es</languageId><trName>Beulah, Dakota del Norte</trName></name>
-      <name><languageId>et</languageId><trName>Beulah, North Dakota</trName></name>
-      <name><languageId>eu</languageId><trName>Beulah, Ipar Dakota</trName></name>
-      <name><languageId>fa</languageId><trName>بیولا، داکوتای شمالی</trName></name>
-      <name><languageId>fi</languageId><trName>Beulah, Pohjois-Dakota</trName></name>
-      <name><languageId>fil</languageId><trName>Beulah, North Dakota</trName></name>
-      <name><languageId>fr</languageId><trName>Beulah [Dakota du Nord]</trName></name>
-      <name><languageId>gl</languageId><trName>Beulah, Dakota do Norte</trName></name>
-      <name><languageId>gu</languageId><trName>બિયુલાહ,ઉત્તર ડેકોટા</trName></name>
-      <name><languageId>he</languageId><trName>ביולה, צפון דקוטה</trName></name>
-      <name><languageId>hi</languageId><trName>ब्यूला, उत्तरी डकोटा</trName></name>
-      <name><languageId>hr</languageId><trName>Beulah, Sjeverna Dakota</trName></name>
-      <name><languageId>hu</languageId><trName>Beulah, Észak-Dakota</trName></name>
-      <name><languageId>hy</languageId><trName>Բոյլա, Հյուսիսային Դակոտա</trName></name>
-      <name><languageId>id</languageId><trName>Beulah, Dakota Utara</trName></name>
-      <name><languageId>is</languageId><trName>Beulah, North Dakota</trName></name>
-      <name><languageId>it</languageId><trName>Beulah, Dakota del nord</trName></name>
-      <name><languageId>ja</languageId><trName>ノースダコタ州ビューラー</trName></name>
-      <name><languageId>ka</languageId><trName>ბიულა, ჩრდილოეთი დაკოტა</trName></name>
-      <name><languageId>kk</languageId><trName>Бьюла, Солтүстік Дакота</trName></name>
-      <name><languageId>km</languageId><trName>ប៊ឺឡា ដាកូតា​ខាង​ត្បូង</trName></name>
-      <name><languageId>kn</languageId><trName>ಬೆವುಲಾ ಉತ್ತರ ಡೆಕೊತಾ</trName></name>
-      <name><languageId>ko</languageId><trName>노스다코타주, 베라</trName></name>
-      <name><languageId>ky</languageId><trName>Беула, Түндүк Дакота</trName></name>
-      <name><languageId>lo</languageId><trName>ເບີລາ, ດາໂກຕາເໜືອ</trName></name>
-      <name><languageId>lt</languageId><trName>Bjula, Šiaurės Dakota</trName></name>
+      <name><languageId>bn</languageId><trName>বেউলা</trName></name>
+      <name><languageId>ca</languageId><trName>Beulah</trName></name>
+      <name><languageId>cs</languageId><trName>Beulah</trName></name>
+      <name><languageId>cy</languageId><trName>Beulah</trName></name>
+      <name><languageId>da</languageId><trName>Beulah</trName></name>
+      <name><languageId>de</languageId><trName>Beulah</trName></name>
+      <name><languageId>el</languageId><trName>Μπέουλαχ</trName></name>
+      <name><languageId>es</languageId><trName>Beulah</trName></name>
+      <name><languageId>et</languageId><trName>Beulah</trName></name>
+      <name><languageId>eu</languageId><trName>Beulah</trName></name>
+      <name><languageId>fa</languageId><trName>بیولا</trName></name>
+      <name><languageId>fi</languageId><trName>Beulah</trName></name>
+      <name><languageId>fil</languageId><trName>Beulah</trName></name>
+      <name><languageId>fr</languageId><trName>Beulah</trName></name>
+      <name><languageId>gl</languageId><trName>Beulah</trName></name>
+      <name><languageId>gu</languageId><trName>બિયુલાહ</trName></name>
+      <name><languageId>he</languageId><trName>ביולה</trName></name>
+      <name><languageId>hi</languageId><trName>ब्यूला</trName></name>
+      <name><languageId>hr</languageId><trName>Beulah</trName></name>
+      <name><languageId>hu</languageId><trName>Beulah</trName></name>
+      <name><languageId>hy</languageId><trName>Բոյլա</trName></name>
+      <name><languageId>id</languageId><trName>Beulah</trName></name>
+      <name><languageId>is</languageId><trName>Beulah</trName></name>
+      <name><languageId>it</languageId><trName>Beulah</trName></name>
+      <name><languageId>ja</languageId><trName>ビューラー</trName></name>
+      <name><languageId>ka</languageId><trName>ბიულა</trName></name>
+      <name><languageId>kk</languageId><trName>Бьюла</trName></name>
+      <name><languageId>km</languageId><trName>ប៊ឺឡា</trName></name>
+      <name><languageId>kn</languageId><trName>ಬೆವುಲಾ</trName></name>
+      <name><languageId>ko</languageId><trName>베라</trName></name>
+      <name><languageId>ky</languageId><trName>Беула</trName></name>
+      <name><languageId>lo</languageId><trName>ເບີລາ</trName></name>
+      <name><languageId>lt</languageId><trName>Bjula</trName></name>
       <name><languageId>lv</languageId><trName>Bjula</trName></name>
-      <name><languageId>mk</languageId><trName>Бјула, Северна Дакота</trName></name>
-      <name><languageId>ml</languageId><trName>ബ്യൂല, വടക്കൻ ഡെക്കോട്ട</trName></name>
-      <name><languageId>mn</languageId><trName>Била, Хойд Дакота</trName></name>
-      <name><languageId>mr</languageId><trName>ब्युलाह, उत्तर डकोटा</trName></name>
-      <name><languageId>ms</languageId><trName>Beulah, North Dakota</trName></name>
-      <name><languageId>my</languageId><trName>ဘီဥလာ မြောက်ဒါကိုတာ</trName></name>
-      <name><languageId>nb</languageId><trName>Beulah, Nord-Dakota</trName></name>
-      <name><languageId>ne</languageId><trName>बेलुआ, उत्तर डोकोटा</trName></name>
-      <name><languageId>nl</languageId><trName>Beulah, Noord-Dakota</trName></name>
-      <name><languageId>pa</languageId><trName>ਬਿਉਲਾ, ਉੱਤਰੀ ਡਕੋਟਾ</trName></name>
-      <name><languageId>pl</languageId><trName>Beulah, Dakota Północna</trName></name>
-      <name><languageId>pt</languageId><trName>Beulah, Dakota do Norte</trName></name>
-      <name><languageId>ro</languageId><trName>Beulah, Dakota de Nord</trName></name>
-      <name><languageId>ru</languageId><trName>Бойла, Северная Дакота</trName></name>
-      <name><languageId>si</languageId><trName>බියුලා, උතුරු ඩකෝටා</trName></name>
-      <name><languageId>sk</languageId><trName>Beulah, Severná Dakota</trName></name>
-      <name><languageId>sl</languageId><trName>Beulah, North Dakota</trName></name>
-      <name><languageId>sq</languageId><trName>Beula, Dakota e Veriut</trName></name>
-      <name><languageId>sr</languageId><trName>Бијула, Северна Дакота</trName></name>
-      <name><languageId>sr_Latn</languageId><trName>Bijula, Severna Dakota</trName></name>
-      <name><languageId>sv</languageId><trName>Beulah, North Dakota</trName></name>
-      <name><languageId>sw</languageId><trName>Beulah, North Dakota</trName></name>
-      <name><languageId>ta</languageId><trName>பெவுலா, வடக்கு டகோட்டா</trName></name>
-      <name><languageId>te</languageId><trName>బ్యులా, ఉత్తర డకోట</trName></name>
-      <name><languageId>th</languageId><trName>โบลาห์, นอร์ทดาโคตา</trName></name>
-      <name><languageId>tr</languageId><trName>Beulah, Kuzey Dakota</trName></name>
-      <name><languageId>uk</languageId><trName>Б’юла, Північна Дакота</trName></name>
-      <name><languageId>ur</languageId><trName>بیولاہ، شمالی ڈکوٹا</trName></name>
-      <name><languageId>uz</languageId><trName>Beulah, North Dakota</trName></name>
-      <name><languageId>vi</languageId><trName>Beulah, Bắc Dakota</trName></name>
-      <name><languageId>zh</languageId><trName>北达科他州比尤拉</trName></name>
-      <name><languageId>zh_Hant</languageId><trName>北達科他州布由拉</trName></name>
+      <name><languageId>mk</languageId><trName>Бјула</trName></name>
+      <name><languageId>ml</languageId><trName>ബ്യൂല</trName></name>
+      <name><languageId>mn</languageId><trName>Била</trName></name>
+      <name><languageId>mr</languageId><trName>ब्युलाह</trName></name>
+      <name><languageId>ms</languageId><trName>Beulah</trName></name>
+      <name><languageId>my</languageId><trName>ဘီဥလာ</trName></name>
+      <name><languageId>nb</languageId><trName>Beulah</trName></name>
+      <name><languageId>ne</languageId><trName>बेलुआ</trName></name>
+      <name><languageId>nl</languageId><trName>Beulah</trName></name>
+      <name><languageId>pa</languageId><trName>ਬਿਉਲਾ</trName></name>
+      <name><languageId>pl</languageId><trName>Beulah</trName></name>
+      <name><languageId>pt</languageId><trName>Beulah</trName></name>
+      <name><languageId>ro</languageId><trName>Beulah</trName></name>
+      <name><languageId>ru</languageId><trName>Бойла</trName></name>
+      <name><languageId>si</languageId><trName>බියුලා</trName></name>
+      <name><languageId>sk</languageId><trName>Beulah</trName></name>
+      <name><languageId>sl</languageId><trName>Beulah</trName></name>
+      <name><languageId>sq</languageId><trName>Beula</trName></name>
+      <name><languageId>sr</languageId><trName>Бијула</trName></name>
+      <name><languageId>sr_Latn</languageId><trName>Bijula</trName></name>
+      <name><languageId>sv</languageId><trName>Beulah</trName></name>
+      <name><languageId>sw</languageId><trName>Beulah</trName></name>
+      <name><languageId>ta</languageId><trName>பெவுலா</trName></name>
+      <name><languageId>te</languageId><trName>బ్యులా</trName></name>
+      <name><languageId>th</languageId><trName>โบลาห์</trName></name>
+      <name><languageId>tr</languageId><trName>Beulah</trName></name>
+      <name><languageId>uk</languageId><trName>Б’юла</trName></name>
+      <name><languageId>ur</languageId><trName>بیولاہ</trName></name>
+      <name><languageId>uz</languageId><trName>Beulah</trName></name>
+      <name><languageId>vi</languageId><trName>Beulah</trName></name>
+      <name><languageId>zh</languageId><trName>比尤拉</trName></name>
+      <name><languageId>zh_Hant</languageId><trName>布由拉</trName></name>
     </names>
   </timezoneIdPart>
   <timezoneIdPart>
@@ -5869,81 +5869,79 @@
   <timezoneIdPart>
     <timezoneIdPartId>Center</timezoneIdPartId>
     <names>
-      <name><languageId>af</languageId><trName>Center, North Dakota</trName></name>
-      <name><languageId>am</languageId><trName>መካከለኛ, ሰሜን ዳኮታ</trName></name>
+      <name><languageId>af</languageId><trName>Center</trName></name>
+      <name><languageId>am</languageId><trName>መካከለኛ</trName></name>
       <name><languageId>ar</languageId><trName>سنتر</trName></name>
-      <name><languageId>ast</languageId><trName>Center, Dakota del Norte</trName></name>
-      <name><languageId>az</languageId><trName>Mərkəz, Şimal Dakota</trName></name>
+      <name><languageId>ast</languageId><trName>Center</trName></name>
+      <name><languageId>az</languageId><trName>Mərkəz</trName></name>
       <name><languageId>bg</languageId><trName>Сентър</trName></name>
-      <name><languageId>bn</languageId><trName>মধ্য, উত্তর ডাকোটা</trName></name>
+      <name><languageId>bn</languageId><trName>মধ্য</trName></name>
       <name><languageId>brx</languageId><trName>सैन्टर</trName></name>
-      <name><languageId>bs</languageId><trName>Centar, Severna Dakota (SAD)</trName></name>
-      <name><languageId>ca</languageId><trName>Center, Dakota del Nord</trName></name>
-      <name><languageId>cs</languageId><trName>Center, Severní Dakota</trName></name>
-      <name><languageId>cy</languageId><trName>Center, Gogledd Dakota</trName></name>
-      <name><languageId>da</languageId><trName>Center, North Dakota</trName></name>
-      <name><languageId>de</languageId><trName>Center, North Dakota</trName></name>
-      <name><languageId>el</languageId><trName>Κέντρο, Βόρεια Ντακότα</trName></name>
+      <name><languageId>bs</languageId><trName>Centar</trName></name>
+      <name><languageId>ca</languageId><trName>Center</trName></name>
+      <name><languageId>cs</languageId><trName>Center</trName></name>
+      <name><languageId>cy</languageId><trName>Center</trName></name>
+      <name><languageId>da</languageId><trName>Center</trName></name>
+      <name><languageId>de</languageId><trName>Center</trName></name>
+      <name><languageId>el</languageId><trName>Κέντρο</trName></name>
       <name><languageId>es</languageId><trName>Centro</trName></name>
-      <name><languageId>et</languageId><trName>Center, North Dakota</trName></name>
-      <name><languageId>eu</languageId><trName>Erdialdea, Ipar Dakota</trName></name>
-      <name><languageId>fa</languageId><trName>سنتر، داکوتای شمالی</trName></name>
-      <name><languageId>fi</languageId><trName>Center, Pohjois-Dakota</trName></name>
-      <name><languageId>fil</languageId><trName>Center, North Dakota</trName></name>
-      <name><languageId>fr</languageId><trName>Center [Dakota du Nord]</trName></name>
-      <name><languageId>gl</languageId><trName>Center, Dakota do Norte</trName></name>
-      <name><languageId>gu</languageId><trName>સેન્ટર,ઉત્તર ડેકોટા</trName></name>
-      <name><languageId>he</languageId><trName>אמריקה/צפון דקוטה/מרכז</trName></name>
-      <name><languageId>hi</languageId><trName>मध्य, उत्तरी दाकोता</trName></name>
-      <name><languageId>hr</languageId><trName>Center, Sjeverna Dakota</trName></name>
-      <name><languageId>hu</languageId><trName>Középső, Észak-Dakota</trName></name>
-      <name><languageId>hy</languageId><trName>Հյուսիսային Դակոտա - Կենտրոն</trName></name>
-      <name><languageId>id</languageId><trName>Center, Dakota Utara</trName></name>
-      <name><languageId>is</languageId><trName>Center, North Dakota</trName></name>
-      <name><languageId>it</languageId><trName>Center, Dakota del nord</trName></name>
-      <name><languageId>ja</languageId><trName>ノースダコタ州センター</trName></name>
-      <name><languageId>ka</languageId><trName>ცენტრი, ჩრდილოეთი დაკოტა</trName></name>
-      <name><languageId>kk</languageId><trName>Солтүстік Дакота, Орталық</trName></name>
-      <name><languageId>km</languageId><trName>សីនធឺ ដាកូតា​ខាង​ជើង</trName></name>
-      <name><languageId>kn</languageId><trName>ಕೇಂದ್ರ ಉತ್ತರ ಡೆಕೊತಾ</trName></name>
-      <name><languageId>ko</languageId><trName>중부, 노스다코타</trName></name>
-      <name><languageId>ks</languageId><trName>مَرکزی جنوٗبی ڈکوٹا</trName></name>
-      <name><languageId>ky</languageId><trName>Сентер, Түндүк Дакота</trName></name>
-      <name><languageId>lo</languageId><trName>ສູນກາງ, ດາໂກດາເໝືອ</trName></name>
-      <name><languageId>lt</languageId><trName>Senteris, Šiaurės Dakota</trName></name>
-      <name><languageId>lv</languageId><trName>Centra, Ziemeļdakota</trName></name>
-      <name><languageId>mk</languageId><trName>Центар, Северна Дакота</trName></name>
-      <name><languageId>ml</languageId><trName>സെൻറർ, നോർത്ത് ഡക്കോട്ട</trName></name>
-      <name><languageId>mn</languageId><trName>Төв, Хойд Дакота</trName></name>
-      <name><languageId>mr</languageId><trName>मध्य, उत्तर डकोटा</trName></name>
-      <name><languageId>ms</languageId><trName>Center, North Dakota</trName></name>
-      <name><languageId>my</languageId><trName>စင်တာ မြောက်ဒါကိုတာ</trName></name>
-      <name><languageId>nb</languageId><trName>Center, Nord-Dakota</trName></name>
-      <name><languageId>ne</languageId><trName>उत्तर डाकोटा, केन्द्र</trName></name>
-      <name><languageId>nl</languageId><trName>Center, Noord-Dakota</trName></name>
-      <name><languageId>nn</languageId><trName>Center, Nord-Dakota</trName></name>
-      <name><languageId>pa</languageId><trName>ਸੇਂਟਰ, ਉੱਤਰੀ ਡਕੋਟਾ</trName></name>
-      <name><languageId>pl</languageId><trName>Center, Dakota Północna</trName></name>
-      <name><languageId>pt</languageId><trName>Central, Dakota do Norte</trName></name>
-      <name><languageId>ro</languageId><trName>Centru, Dakota de Nord</trName></name>
-      <name><languageId>ru</languageId><trName>Северная Дакота - Центр</trName></name>
-      <name><languageId>si</languageId><trName>මධ්‍යම, උතුරු ඩකෝටා</trName></name>
-      <name><languageId>sk</languageId><trName>Center, Severná Dakota</trName></name>
-      <name><languageId>sl</languageId><trName>Center, Severna Dakota</trName></name>
-      <name><languageId>sq</languageId><trName>Qendër, Dakota e Veriut</trName></name>
-      <name><languageId>sr</languageId><trName>Центар, Северна Дакота</trName></name>
-      <name><languageId>sr_Latn</languageId><trName>Centar, Severna Dakota</trName></name>
-      <name><languageId>sv</languageId><trName>Center, North Dakota</trName></name>
-      <name><languageId>sw</languageId><trName>Center, North Dakota</trName></name>
-      <name><languageId>ta</languageId><trName>மையம், வடக்கு டகோடா</trName></name>
-      <name><languageId>te</languageId><trName>సెంట్రల్, ఉత్తర డకోటా</trName></name>
-      <name><languageId>th</languageId><trName>เซนเตอร์, นอร์ทดาโคตา</trName></name>
-      <name><languageId>tr</languageId><trName>Merkez, Kuzey Dakota</trName></name>
+      <name><languageId>et</languageId><trName>Center</trName></name>
+      <name><languageId>eu</languageId><trName>Erdialdea</trName></name>
+      <name><languageId>fa</languageId><trName>سنتر</trName></name>
+      <name><languageId>fi</languageId><trName>Center</trName></name>
+      <name><languageId>fil</languageId><trName>Center</trName></name>
+      <name><languageId>fr</languageId><trName>Center</trName></name>
+      <name><languageId>gl</languageId><trName>Center</trName></name>
+      <name><languageId>gu</languageId><trName>સેન્ટર</trName></name>
+      <name><languageId>he</languageId><trName>מרכז</trName></name>
+      <name><languageId>hi</languageId><trName>मध्य</trName></name>
+      <name><languageId>hr</languageId><trName>Center</trName></name>
+      <name><languageId>hu</languageId><trName>Középső</trName></name>
+      <name><languageId>hy</languageId><trName>Կենտրոն</trName></name>
+      <name><languageId>id</languageId><trName>Center</trName></name>
+      <name><languageId>is</languageId><trName>Center</trName></name>
+      <name><languageId>it</languageId><trName>Center</trName></name>
+      <name><languageId>ja</languageId><trName>センター</trName></name>
+      <name><languageId>ka</languageId><trName>ცენტრი</trName></name>
+      <name><languageId>kk</languageId><trName>Орталық</trName></name>
+      <name><languageId>km</languageId><trName>សីនធឺ</trName></name>
+      <name><languageId>kn</languageId><trName>ಕೇಂದ್ರ</trName></name>
+      <name><languageId>ko</languageId><trName>중부</trName></name>
+      <name><languageId>ky</languageId><trName>Сентер</trName></name>
+      <name><languageId>lo</languageId><trName>ສູນກາງ</trName></name>
+      <name><languageId>lt</languageId><trName>Senteris</trName></name>
+      <name><languageId>lv</languageId><trName>Centra</trName></name>
+      <name><languageId>mk</languageId><trName>Центар</trName></name>
+      <name><languageId>ml</languageId><trName>സെൻറർ</trName></name>
+      <name><languageId>mn</languageId><trName>Төв</trName></name>
+      <name><languageId>mr</languageId><trName>मध्य</trName></name>
+      <name><languageId>ms</languageId><trName>Center</trName></name>
+      <name><languageId>my</languageId><trName>စင်တာ</trName></name>
+      <name><languageId>nb</languageId><trName>Center</trName></name>
+      <name><languageId>nl</languageId><trName>Center</trName></name>
+      <name><languageId>nn</languageId><trName>Center</trName></name>
+      <name><languageId>pa</languageId><trName>ਸੇਂਟਰ</trName></name>
+      <name><languageId>pl</languageId><trName>Center</trName></name>
+      <name><languageId>pt</languageId><trName>Central</trName></name>
+      <name><languageId>ro</languageId><trName>Centru</trName></name>
+      <name><languageId>ru</languageId><trName>Центр</trName></name>
+      <name><languageId>si</languageId><trName>මධ්‍යම</trName></name>
+      <name><languageId>sk</languageId><trName>Center</trName></name>
+      <name><languageId>sl</languageId><trName>Center</trName></name>
+      <name><languageId>sq</languageId><trName>Qendër</trName></name>
+      <name><languageId>sr</languageId><trName>Центар</trName></name>
+      <name><languageId>sr_Latn</languageId><trName>Centar</trName></name>
+      <name><languageId>sv</languageId><trName>Center</trName></name>
+      <name><languageId>sw</languageId><trName>Center</trName></name>
+      <name><languageId>ta</languageId><trName>மையம்</trName></name>
+      <name><languageId>te</languageId><trName>సెంట్రల్</trName></name>
+      <name><languageId>th</languageId><trName>เซนเตอร์</trName></name>
+      <name><languageId>tr</languageId><trName>Merkez</trName></name>
       <name><languageId>uk</languageId><trName>Центр</trName></name>
-      <name><languageId>ur</languageId><trName>وسط، شمالی ڈکوٹا</trName></name>
-      <name><languageId>uz</languageId><trName>Center, North Dakota</trName></name>
-      <name><languageId>vi</languageId><trName>Center, Bắc Dakota</trName></name>
-      <name><languageId>zh</languageId><trName>北达科他州申特</trName></name>
+      <name><languageId>ur</languageId><trName>وسط</trName></name>
+      <name><languageId>uz</languageId><trName>Center</trName></name>
+      <name><languageId>vi</languageId><trName>Center</trName></name>
+      <name><languageId>zh</languageId><trName>申特</trName></name>
       <name><languageId>zh_Hant</languageId><trName>申特城</trName></name>
     </names>
   </timezoneIdPart>
@@ -12338,6 +12336,79 @@
   <timezoneIdPart>
     <timezoneIdPartId>Indiana</timezoneIdPartId>
     <names>
+      <name><languageId>af</languageId><trName>Indiana</trName></name>
+      <name><languageId>am</languageId><trName>ኢንዲያና</trName></name>
+      <name><languageId>ar</languageId><trName>إنديانا</trName></name>
+      <name><languageId>ast</languageId><trName>Indiana</trName></name>
+      <name><languageId>az</languageId><trName>Noks</trName></name>
+      <name><languageId>bg</languageId><trName>Нокс</trName></name>
+      <name><languageId>bn</languageId><trName>ইন্ডিয়ানা</trName></name>
+      <name><languageId>brx</languageId><trName>नॉक्स</trName></name>
+      <name><languageId>ca</languageId><trName>Indiana</trName></name>
+      <name><languageId>cs</languageId><trName>Indiana</trName></name>
+      <name><languageId>cy</languageId><trName>Indiana</trName></name>
+      <name><languageId>da</languageId><trName>Indiana</trName></name>
+      <name><languageId>de</languageId><trName>Indiana</trName></name>
+      <name><languageId>el</languageId><trName>Ιντιάνα</trName></name>
+      <name><languageId>es</languageId><trName>Indiana</trName></name>
+      <name><languageId>et</languageId><trName>Indiana</trName></name>
+      <name><languageId>eu</languageId><trName>Indiana</trName></name>
+      <name><languageId>fa</languageId><trName>ایندیانا</trName></name>
+      <name><languageId>fi</languageId><trName>Indiana</trName></name>
+      <name><languageId>fil</languageId><trName>Indiana</trName></name>
+      <name><languageId>fr</languageId><trName>Indiana</trName></name>
+      <name><languageId>gl</languageId><trName>Indiana</trName></name>
+      <name><languageId>gu</languageId><trName>ઇન્ડિયાના</trName></name>
+      <name><languageId>he</languageId><trName>אינדיאנה</trName></name>
+      <name><languageId>hi</languageId><trName>इंडियाना</trName></name>
+      <name><languageId>hr</languageId><trName>Indiana</trName></name>
+      <name><languageId>hu</languageId><trName>Indiana</trName></name>
+      <name><languageId>hy</languageId><trName>Ինդիանա</trName></name>
+      <name><languageId>id</languageId><trName>Indiana</trName></name>
+      <name><languageId>is</languageId><trName>Indiana</trName></name>
+      <name><languageId>it</languageId><trName>Indiana</trName></name>
+      <name><languageId>ja</languageId><trName>インディアナ州</trName></name>
+      <name><languageId>ka</languageId><trName>ინდიანა</trName></name>
+      <name><languageId>kk</languageId><trName>Индиана</trName></name>
+      <name><languageId>km</languageId><trName>ឥណ្ឌា</trName></name>
+      <name><languageId>kn</languageId><trName>ಇಂಡಿಯಾನಾ</trName></name>
+      <name><languageId>ko</languageId><trName>인디애나주</trName></name>
+      <name><languageId>ky</languageId><trName>Индиана</trName></name>
+      <name><languageId>lo</languageId><trName>ອິນດີແອນາ</trName></name>
+      <name><languageId>lt</languageId><trName>Indiana</trName></name>
+      <name><languageId>lv</languageId><trName>Indiāna</trName></name>
+      <name><languageId>mk</languageId><trName>Индијана</trName></name>
+      <name><languageId>ml</languageId><trName>ഇൻഡ്യാന</trName></name>
+      <name><languageId>mn</languageId><trName>ндиана</trName></name>
+      <name><languageId>mr</languageId><trName>इंडियाना</trName></name>
+      <name><languageId>ms</languageId><trName>Indiana</trName></name>
+      <name><languageId>my</languageId><trName>အင်ဒီအားနား</trName></name>
+      <name><languageId>nb</languageId><trName>Indiana</trName></name>
+      <name><languageId>ne</languageId><trName>इण्डियाना</trName></name>
+      <name><languageId>nl</languageId><trName>Indiana</trName></name>
+      <name><languageId>pa</languageId><trName>ਇੰਡੀਆਨਾ</trName></name>
+      <name><languageId>pl</languageId><trName>Indiana</trName></name>
+      <name><languageId>pt</languageId><trName>Indiana</trName></name>
+      <name><languageId>ro</languageId><trName>Indiana</trName></name>
+      <name><languageId>ru</languageId><trName>Индиана</trName></name>
+      <name><languageId>si</languageId><trName>ඉන්දියානා</trName></name>
+      <name><languageId>sk</languageId><trName>Indiana</trName></name>
+      <name><languageId>sl</languageId><trName>Indiana</trName></name>
+      <name><languageId>sq</languageId><trName>Indiana</trName></name>
+      <name><languageId>sr</languageId><trName>Индијана</trName></name>
+      <name><languageId>sr_Latn</languageId><trName>Indijana</trName></name>
+      <name><languageId>sv</languageId><trName>Indiana</trName></name>
+      <name><languageId>sw</languageId><trName>Indiana</trName></name>
+      <name><languageId>ta</languageId><trName>இண்டியானா</trName></name>
+      <name><languageId>te</languageId><trName>ఇండియాన</trName></name>
+      <name><languageId>th</languageId><trName>อินดีแอนา</trName></name>
+      <name><languageId>tr</languageId><trName>Indiana</trName></name>
+      <name><languageId>uk</languageId><trName>Індіана</trName></name>
+      <name><languageId>ur</languageId><trName>انڈیانا</trName></name>
+      <name><languageId>uz</languageId><trName>Indiana</trName></name>
+      <name><languageId>vi</languageId><trName>Indiana</trName></name>
+      <name><languageId>zh</languageId><trName>印第安纳州</trName></name>
+      <name><languageId>zh_Hant</languageId><trName>印第安那州</trName></name>
     </names>
   </timezoneIdPart>
   <timezoneIdPart>
@@ -14644,81 +14715,81 @@
   <timezoneIdPart>
     <timezoneIdPartId>Knox</timezoneIdPartId>
     <names>
-      <name><languageId>af</languageId><trName>Knox, Indiana</trName></name>
-      <name><languageId>am</languageId><trName>ኖክስ, ኢንዲያና</trName></name>
+      <name><languageId>af</languageId><trName>Knox</trName></name>
+      <name><languageId>am</languageId><trName>ኖክስ</trName></name>
       <name><languageId>ar</languageId><trName>كونكس</trName></name>
-      <name><languageId>ast</languageId><trName>Knox, Indiana</trName></name>
+      <name><languageId>ast</languageId><trName>Knox</trName></name>
       <name><languageId>az</languageId><trName>Noks</trName></name>
       <name><languageId>bg</languageId><trName>Нокс</trName></name>
-      <name><languageId>bn</languageId><trName>নক্স, ইন্ডিয়ানা</trName></name>
+      <name><languageId>bn</languageId><trName>নক্স</trName></name>
       <name><languageId>brx</languageId><trName>नॉक्स</trName></name>
-      <name><languageId>bs</languageId><trName>Konks (SAD)</trName></name>
-      <name><languageId>ca</languageId><trName>Knox, Indiana</trName></name>
-      <name><languageId>cs</languageId><trName>Knox, Indiana</trName></name>
-      <name><languageId>cy</languageId><trName>Knox, Indiana</trName></name>
-      <name><languageId>da</languageId><trName>Knox, Indiana</trName></name>
-      <name><languageId>de</languageId><trName>Knox, Indiana</trName></name>
-      <name><languageId>el</languageId><trName>Νοξ, Ιντιάνα</trName></name>
-      <name><languageId>es</languageId><trName>Knox, Indiana</trName></name>
-      <name><languageId>et</languageId><trName>Knox, Indiana</trName></name>
-      <name><languageId>eu</languageId><trName>Knox, Indiana</trName></name>
-      <name><languageId>fa</languageId><trName>ناکس، ایندیانا</trName></name>
-      <name><languageId>fi</languageId><trName>Knox, Indiana</trName></name>
-      <name><languageId>fil</languageId><trName>Knox, Indiana</trName></name>
-      <name><languageId>fr</languageId><trName>Knox [Indiana]</trName></name>
-      <name><languageId>gl</languageId><trName>Knox, Indiana</trName></name>
-      <name><languageId>gu</languageId><trName>નોક્સ,ઇન્ડિયાના</trName></name>
-      <name><languageId>he</languageId><trName>נוקס, אינדיאנה</trName></name>
-      <name><languageId>hi</languageId><trName>नौक्स, इंडियाना</trName></name>
-      <name><languageId>hr</languageId><trName>Knox, Indiana</trName></name>
-      <name><languageId>hu</languageId><trName>Knox, Indiana</trName></name>
-      <name><languageId>hy</languageId><trName>Նոքս, Ինդիանա</trName></name>
-      <name><languageId>id</languageId><trName>Knox, Indiana</trName></name>
-      <name><languageId>is</languageId><trName>Knox, Indiana</trName></name>
-      <name><languageId>it</languageId><trName>Knox, Indiana</trName></name>
-      <name><languageId>ja</languageId><trName>インディアナ州ノックス</trName></name>
-      <name><languageId>ka</languageId><trName>ნოქსი, ინდიანა</trName></name>
-      <name><languageId>kk</languageId><trName>Нокс, Индиана</trName></name>
-      <name><languageId>km</languageId><trName>ណុក ឥណ្ឌា</trName></name>
-      <name><languageId>kn</languageId><trName>ನಾಕ್ಸ್, ಇಂಡಿಯಾನಾ</trName></name>
-      <name><languageId>ko</languageId><trName>인디애나주 녹스</trName></name>
+      <name><languageId>bs</languageId><trName>Konks</trName></name>
+      <name><languageId>ca</languageId><trName>Knox</trName></name>
+      <name><languageId>cs</languageId><trName>Knox</trName></name>
+      <name><languageId>cy</languageId><trName>Knox</trName></name>
+      <name><languageId>da</languageId><trName>Knox</trName></name>
+      <name><languageId>de</languageId><trName>Knox</trName></name>
+      <name><languageId>el</languageId><trName>Νοξ</trName></name>
+      <name><languageId>es</languageId><trName>Knox</trName></name>
+      <name><languageId>et</languageId><trName>Knox</trName></name>
+      <name><languageId>eu</languageId><trName>Knox</trName></name>
+      <name><languageId>fa</languageId><trName>ناکس</trName></name>
+      <name><languageId>fi</languageId><trName>Knox</trName></name>
+      <name><languageId>fil</languageId><trName>Knox</trName></name>
+      <name><languageId>fr</languageId><trName>Knox</trName></name>
+      <name><languageId>gl</languageId><trName>Knox</trName></name>
+      <name><languageId>gu</languageId><trName>નોક્સ</trName></name>
+      <name><languageId>he</languageId><trName>נוקס</trName></name>
+      <name><languageId>hi</languageId><trName>नौक्स</trName></name>
+      <name><languageId>hr</languageId><trName>Knox</trName></name>
+      <name><languageId>hu</languageId><trName>Knox</trName></name>
+      <name><languageId>hy</languageId><trName>Նոքս</trName></name>
+      <name><languageId>id</languageId><trName>Knox</trName></name>
+      <name><languageId>is</languageId><trName>Knox</trName></name>
+      <name><languageId>it</languageId><trName>Knox</trName></name>
+      <name><languageId>ja</languageId><trName>ノックス</trName></name>
+      <name><languageId>ka</languageId><trName>ნოქსი</trName></name>
+      <name><languageId>kk</languageId><trName>Нокс</trName></name>
+      <name><languageId>km</languageId><trName>ណុកា</trName></name>
+      <name><languageId>kn</languageId><trName>ನಾಕ್ಸ್</trName></name>
+      <name><languageId>ko</languageId><trName>녹스</trName></name>
       <name><languageId>ks</languageId><trName>نوکس</trName></name>
-      <name><languageId>ky</languageId><trName>Нокс, Индиана</trName></name>
-      <name><languageId>lo</languageId><trName>ນ໋ອກ, ອິນດີແອນາ</trName></name>
-      <name><languageId>lt</languageId><trName>Noksas, Indiana</trName></name>
-      <name><languageId>lv</languageId><trName>Noksa, Indiāna</trName></name>
-      <name><languageId>mk</languageId><trName>Нокс, Индијана</trName></name>
-      <name><languageId>ml</languageId><trName>നോക്സ്, ഇൻഡ്യാന</trName></name>
-      <name><languageId>mn</languageId><trName>Нокс, Индиана</trName></name>
-      <name><languageId>mr</languageId><trName>नॉक्स, इंडियाना</trName></name>
-      <name><languageId>ms</languageId><trName>Knox, Indiana</trName></name>
-      <name><languageId>my</languageId><trName>နို့ခ်စ် အင်ဒီအားနား</trName></name>
-      <name><languageId>nb</languageId><trName>Knox, Indiana</trName></name>
-      <name><languageId>ne</languageId><trName>नोक्स, इण्डियाना</trName></name>
-      <name><languageId>nl</languageId><trName>Knox, Indiana</trName></name>
-      <name><languageId>pa</languageId><trName>ਨੋਕਸ, ਇੰਡੀਆਨਾ</trName></name>
+      <name><languageId>ky</languageId><trName>Нокс</trName></name>
+      <name><languageId>lo</languageId><trName>ນ໋ອກ</trName></name>
+      <name><languageId>lt</languageId><trName>Noksas</trName></name>
+      <name><languageId>lv</languageId><trName>Noksa</trName></name>
+      <name><languageId>mk</languageId><trName>Нокс</trName></name>
+      <name><languageId>ml</languageId><trName>നോക്സ്</trName></name>
+      <name><languageId>mn</languageId><trName>Нокс</trName></name>
+      <name><languageId>mr</languageId><trName>नॉक्स</trName></name>
+      <name><languageId>ms</languageId><trName>Knox</trName></name>
+      <name><languageId>my</languageId><trName>နို့ခ်စ်</trName></name>
+      <name><languageId>nb</languageId><trName>Knox</trName></name>
+      <name><languageId>ne</languageId><trName>नोक्स</trName></name>
+      <name><languageId>nl</languageId><trName>Knox</trName></name>
+      <name><languageId>pa</languageId><trName>ਨੋਕਸ</trName></name>
       <name><languageId>pl</languageId><trName>Knox</trName></name>
-      <name><languageId>pt</languageId><trName>Knox, Indiana</trName></name>
-      <name><languageId>ro</languageId><trName>Knox, Indiana</trName></name>
+      <name><languageId>pt</languageId><trName>Knox</trName></name>
+      <name><languageId>ro</languageId><trName>Knox</trName></name>
       <name><languageId>ru</languageId><trName>Нокс</trName></name>
-      <name><languageId>si</languageId><trName>නොක්ස්, ඉන්දියානා</trName></name>
-      <name><languageId>sk</languageId><trName>Knox, Indiana</trName></name>
-      <name><languageId>sl</languageId><trName>Knox, Indiana</trName></name>
-      <name><languageId>sq</languageId><trName>Noks, Indiana</trName></name>
-      <name><languageId>sr</languageId><trName>Кнокс, Индијана</trName></name>
-      <name><languageId>sr_Latn</languageId><trName>Knoks, Indijana</trName></name>
-      <name><languageId>sv</languageId><trName>Knox, Indiana</trName></name>
-      <name><languageId>sw</languageId><trName>Knox, Indiana</trName></name>
-      <name><languageId>ta</languageId><trName>நாக்ஸ், இண்டியானா</trName></name>
-      <name><languageId>te</languageId><trName>నోక్స్, ఇండియాన</trName></name>
-      <name><languageId>th</languageId><trName>นอกซ์, อินดีแอนา</trName></name>
-      <name><languageId>tr</languageId><trName>Knox, Indiana</trName></name>
+      <name><languageId>si</languageId><trName>නොක්ස්</trName></name>
+      <name><languageId>sk</languageId><trName>Knox</trName></name>
+      <name><languageId>sl</languageId><trName>Knox</trName></name>
+      <name><languageId>sq</languageId><trName>Noks</trName></name>
+      <name><languageId>sr</languageId><trName>Кнокс</trName></name>
+      <name><languageId>sr_Latn</languageId><trName>Knoks</trName></name>
+      <name><languageId>sv</languageId><trName>Knox</trName></name>
+      <name><languageId>sw</languageId><trName>Knox</trName></name>
+      <name><languageId>ta</languageId><trName>நாக்ஸ்</trName></name>
+      <name><languageId>te</languageId><trName>నోక్స్</trName></name>
+      <name><languageId>th</languageId><trName>นอกซ์</trName></name>
+      <name><languageId>tr</languageId><trName>Knox</trName></name>
       <name><languageId>uk</languageId><trName>Нокс</trName></name>
-      <name><languageId>ur</languageId><trName>کنوکس، انڈیانا</trName></name>
-      <name><languageId>uz</languageId><trName>Knox, Indiana</trName></name>
-      <name><languageId>vi</languageId><trName>Knox, Indiana</trName></name>
-      <name><languageId>zh</languageId><trName>印第安纳州诺克斯</trName></name>
-      <name><languageId>zh_Hant</languageId><trName>印第安那州諾克斯</trName></name>
+      <name><languageId>ur</languageId><trName>کنوکس</trName></name>
+      <name><languageId>uz</languageId><trName>Knox</trName></name>
+      <name><languageId>vi</languageId><trName>Knox</trName></name>
+      <name><languageId>zh</languageId><trName>诺克斯</trName></name>
+      <name><languageId>zh_Hant</languageId><trName>諾克斯</trName></name>
     </names>
   </timezoneIdPart>
   <timezoneIdPart>
@@ -18032,81 +18103,81 @@
   <timezoneIdPart>
     <timezoneIdPartId>Marengo</timezoneIdPartId>
     <names>
-      <name><languageId>af</languageId><trName>Marengo, Indiana</trName></name>
-      <name><languageId>am</languageId><trName>ማሬንጎ, ኢንዲያና</trName></name>
+      <name><languageId>af</languageId><trName>Marengo</trName></name>
+      <name><languageId>am</languageId><trName>ማሬንጎ</trName></name>
       <name><languageId>ar</languageId><trName>مارنجو</trName></name>
-      <name><languageId>ast</languageId><trName>Marengo, Indiana</trName></name>
+      <name><languageId>ast</languageId><trName>Marengo</trName></name>
       <name><languageId>az</languageId><trName>Marenqo</trName></name>
       <name><languageId>bg</languageId><trName>Маренго</trName></name>
-      <name><languageId>bn</languageId><trName>মারেঙ্গো, ইন্ডিয়ানা</trName></name>
+      <name><languageId>bn</languageId><trName>মারেঙ্গো</trName></name>
       <name><languageId>brx</languageId><trName>मारेंगो</trName></name>
-      <name><languageId>bs</languageId><trName>Marengo (SAD)</trName></name>
-      <name><languageId>ca</languageId><trName>Marengo, Indiana</trName></name>
-      <name><languageId>cs</languageId><trName>Marengo, Indiana</trName></name>
-      <name><languageId>cy</languageId><trName>Marengo, Indiana</trName></name>
-      <name><languageId>da</languageId><trName>Marengo, Indiana</trName></name>
-      <name><languageId>de</languageId><trName>Marengo, Indiana</trName></name>
-      <name><languageId>el</languageId><trName>Μαρένγκο, Ιντιάνα</trName></name>
-      <name><languageId>es</languageId><trName>Marengo, Indiana</trName></name>
-      <name><languageId>et</languageId><trName>Marengo, Indiana</trName></name>
-      <name><languageId>eu</languageId><trName>Marengo, Indiana</trName></name>
-      <name><languageId>fa</languageId><trName>مارنگو، ایندیانا</trName></name>
-      <name><languageId>fi</languageId><trName>Marengo, Indiana</trName></name>
-      <name><languageId>fil</languageId><trName>Marengo, Indiana</trName></name>
-      <name><languageId>fr</languageId><trName>Marengo [Indiana]</trName></name>
-      <name><languageId>gl</languageId><trName>Marengo, Indiana</trName></name>
-      <name><languageId>gu</languageId><trName>મેરેંગો, ઇન્ડિયાના</trName></name>
-      <name><languageId>he</languageId><trName>מרנגו, אינדיאנה</trName></name>
-      <name><languageId>hi</languageId><trName>मारेंगो, इंडियाना</trName></name>
-      <name><languageId>hr</languageId><trName>Marengo, Indiana</trName></name>
-      <name><languageId>hu</languageId><trName>Marengo, Indiana</trName></name>
-      <name><languageId>hy</languageId><trName>Մարենգո, Ինդիանա</trName></name>
-      <name><languageId>id</languageId><trName>Marengo, Indiana</trName></name>
-      <name><languageId>is</languageId><trName>Marengo, Indiana</trName></name>
-      <name><languageId>it</languageId><trName>Marengo, Indiana</trName></name>
-      <name><languageId>ja</languageId><trName>インディアナ州マレンゴ</trName></name>
-      <name><languageId>ka</languageId><trName>მარენგო, ინდიანა</trName></name>
-      <name><languageId>kk</languageId><trName>Маренго, Индиана</trName></name>
-      <name><languageId>km</languageId><trName>ម៉ារេនកូ ឥណ្ឌា</trName></name>
-      <name><languageId>kn</languageId><trName>ಮಾರೆಂಗೋ, ಇಂಡಿಯಾನಾ</trName></name>
-      <name><languageId>ko</languageId><trName>인디애나주, 마렝고</trName></name>
+      <name><languageId>bs</languageId><trName>Marengo</trName></name>
+      <name><languageId>ca</languageId><trName>Marengo</trName></name>
+      <name><languageId>cs</languageId><trName>Marengo</trName></name>
+      <name><languageId>cy</languageId><trName>Marengo</trName></name>
+      <name><languageId>da</languageId><trName>Marengo</trName></name>
+      <name><languageId>de</languageId><trName>Marengo</trName></name>
+      <name><languageId>el</languageId><trName>Μαρένγκο</trName></name>
+      <name><languageId>es</languageId><trName>Marengo</trName></name>
+      <name><languageId>et</languageId><trName>Marengo</trName></name>
+      <name><languageId>eu</languageId><trName>Marengo</trName></name>
+      <name><languageId>fa</languageId><trName>مارنگو</trName></name>
+      <name><languageId>fi</languageId><trName>Marengo</trName></name>
+      <name><languageId>fil</languageId><trName>Marengo</trName></name>
+      <name><languageId>fr</languageId><trName>Marengo</trName></name>
+      <name><languageId>gl</languageId><trName>Marengo</trName></name>
+      <name><languageId>gu</languageId><trName>મેરેંગો</trName></name>
+      <name><languageId>he</languageId><trName>מרנגו</trName></name>
+      <name><languageId>hi</languageId><trName>मारेंगो</trName></name>
+      <name><languageId>hr</languageId><trName>Marengo</trName></name>
+      <name><languageId>hu</languageId><trName>Marengo</trName></name>
+      <name><languageId>hy</languageId><trName>Մարենգո</trName></name>
+      <name><languageId>id</languageId><trName>Marengo</trName></name>
+      <name><languageId>is</languageId><trName>Marengo</trName></name>
+      <name><languageId>it</languageId><trName>Marengo</trName></name>
+      <name><languageId>ja</languageId><trName>マレンゴ</trName></name>
+      <name><languageId>ka</languageId><trName>მარენგო</trName></name>
+      <name><languageId>kk</languageId><trName>Маренго</trName></name>
+      <name><languageId>km</languageId><trName>ម៉ារេនកូ</trName></name>
+      <name><languageId>kn</languageId><trName>ಮಾರೆಂಗೋ</trName></name>
+      <name><languageId>ko</languageId><trName>마렝고</trName></name>
       <name><languageId>ks</languageId><trName>میٚریٚنگو</trName></name>
-      <name><languageId>ky</languageId><trName>Маренго, Индиана</trName></name>
-      <name><languageId>lo</languageId><trName>ມາເຣນໂກ, ອິນດີເອນາ</trName></name>
-      <name><languageId>lt</languageId><trName>Marengas, Indiana</trName></name>
-      <name><languageId>lv</languageId><trName>Marengo, Indiāna</trName></name>
-      <name><languageId>mk</languageId><trName>Маренго, Индијана</trName></name>
-      <name><languageId>ml</languageId><trName>മരെങ്കോ, ഇൻഡ്യാനാ</trName></name>
-      <name><languageId>mn</languageId><trName>Маренго, Индиана</trName></name>
-      <name><languageId>mr</languageId><trName>मारेंगो, इंडियाना</trName></name>
-      <name><languageId>ms</languageId><trName>Marengo, Indiana</trName></name>
-      <name><languageId>my</languageId><trName>မာရန်ဂို အင်ဒီအားနား</trName></name>
-      <name><languageId>nb</languageId><trName>Marengo, Indiana</trName></name>
-      <name><languageId>ne</languageId><trName>मारेन्गो, इन्डियाना</trName></name>
-      <name><languageId>nl</languageId><trName>Marengo, Indiana</trName></name>
-      <name><languageId>pa</languageId><trName>ਮਾਰੇਂਗੋ, ਇੰਡੀਆਨਾ</trName></name>
+      <name><languageId>ky</languageId><trName>Маренго</trName></name>
+      <name><languageId>lo</languageId><trName>ມາເຣນໂກ</trName></name>
+      <name><languageId>lt</languageId><trName>Marengas</trName></name>
+      <name><languageId>lv</languageId><trName>Marengo</trName></name>
+      <name><languageId>mk</languageId><trName>Маренго</trName></name>
+      <name><languageId>ml</languageId><trName>മരെങ്കോ</trName></name>
+      <name><languageId>mn</languageId><trName>Маренго</trName></name>
+      <name><languageId>mr</languageId><trName>मारेंगो</trName></name>
+      <name><languageId>ms</languageId><trName>Marengo</trName></name>
+      <name><languageId>my</languageId><trName>မာရန်ဂို</trName></name>
+      <name><languageId>nb</languageId><trName>Marengo</trName></name>
+      <name><languageId>ne</languageId><trName>मारेन्गो</trName></name>
+      <name><languageId>nl</languageId><trName>Marengo</trName></name>
+      <name><languageId>pa</languageId><trName>ਮਾਰੇਂਗੋ</trName></name>
       <name><languageId>pl</languageId><trName>Marengo</trName></name>
-      <name><languageId>pt</languageId><trName>Marengo, Indiana</trName></name>
-      <name><languageId>ro</languageId><trName>Marengo, Indiana</trName></name>
+      <name><languageId>pt</languageId><trName>Marengo</trName></name>
+      <name><languageId>ro</languageId><trName>Marengo</trName></name>
       <name><languageId>ru</languageId><trName>Маренго</trName></name>
-      <name><languageId>si</languageId><trName>මරෙන්ගෝ, ඉන්දියානා</trName></name>
-      <name><languageId>sk</languageId><trName>Marengo, Indiana</trName></name>
-      <name><languageId>sl</languageId><trName>Marengo, Indiana</trName></name>
-      <name><languageId>sq</languageId><trName>Marengo, Indiana</trName></name>
-      <name><languageId>sr</languageId><trName>Маренго, Индијана</trName></name>
-      <name><languageId>sr_Latn</languageId><trName>Marengo, Indijana</trName></name>
-      <name><languageId>sv</languageId><trName>Marengo, Indiana</trName></name>
-      <name><languageId>sw</languageId><trName>Marengo, Indiana</trName></name>
-      <name><languageId>ta</languageId><trName>மரென்கோ, இண்டியானா</trName></name>
-      <name><languageId>te</languageId><trName>మరెంగో, ఇండియాన</trName></name>
-      <name><languageId>th</languageId><trName>มาเรงโก, อินดีแอนา</trName></name>
-      <name><languageId>tr</languageId><trName>Marengo, Indiana</trName></name>
+      <name><languageId>si</languageId><trName>මරෙන්ගෝ</trName></name>
+      <name><languageId>sk</languageId><trName>Marengo</trName></name>
+      <name><languageId>sl</languageId><trName>Marengo</trName></name>
+      <name><languageId>sq</languageId><trName>Marengo</trName></name>
+      <name><languageId>sr</languageId><trName>Маренго</trName></name>
+      <name><languageId>sr_Latn</languageId><trName>Marengo</trName></name>
+      <name><languageId>sv</languageId><trName>Marengo</trName></name>
+      <name><languageId>sw</languageId><trName>Marengo</trName></name>
+      <name><languageId>ta</languageId><trName>மரென்கோ</trName></name>
+      <name><languageId>te</languageId><trName>మరెంగో</trName></name>
+      <name><languageId>th</languageId><trName>มาเรงโก</trName></name>
+      <name><languageId>tr</languageId><trName>Marengo</trName></name>
       <name><languageId>uk</languageId><trName>Маренго</trName></name>
-      <name><languageId>ur</languageId><trName>مرینگو، انڈیانا</trName></name>
-      <name><languageId>uz</languageId><trName>Marengo, Indiana</trName></name>
-      <name><languageId>vi</languageId><trName>Marengo, Indiana</trName></name>
-      <name><languageId>zh</languageId><trName>印第安纳州马伦戈</trName></name>
-      <name><languageId>zh_Hant</languageId><trName>印第安那州馬倫哥</trName></name>
+      <name><languageId>ur</languageId><trName>مرینگو</trName></name>
+      <name><languageId>uz</languageId><trName>Marengo</trName></name>
+      <name><languageId>vi</languageId><trName>Marengo</trName></name>
+      <name><languageId>zh</languageId><trName>马伦戈</trName></name>
+      <name><languageId>zh_Hant</languageId><trName>馬倫哥</trName></name>
     </names>
   </timezoneIdPart>
   <timezoneIdPart>
@@ -20977,81 +21048,81 @@
   <timezoneIdPart>
     <timezoneIdPartId>New_Salem</timezoneIdPartId>
     <names>
-      <name><languageId>af</languageId><trName>New Salem, North Dakota</trName></name>
-      <name><languageId>am</languageId><trName>አዲስ ሳሌም, ሰሜን ዳኮታ</trName></name>
+      <name><languageId>af</languageId><trName>New Salem</trName></name>
+      <name><languageId>am</languageId><trName>አዲስ ሳሌም</trName></name>
       <name><languageId>ar</languageId><trName>نيو ساليم</trName></name>
-      <name><languageId>ast</languageId><trName>Nueva Salem, Dakota del Norte</trName></name>
+      <name><languageId>ast</languageId><trName>Nueva Salem</trName></name>
       <name><languageId>az</languageId><trName>Nyu Salem</trName></name>
       <name><languageId>bg</languageId><trName>Ню Сейлъм</trName></name>
-      <name><languageId>bn</languageId><trName>নিউ সালেম, উত্তর ডাকোটা</trName></name>
+      <name><languageId>bn</languageId><trName>নিউ সালেম</trName></name>
       <name><languageId>brx</languageId><trName>न्यू सॅलेम</trName></name>
-      <name><languageId>bs</languageId><trName>Novi Salem, Severna Dakota (SAD)</trName></name>
-      <name><languageId>ca</languageId><trName>New Salem, Dakota del Nord</trName></name>
-      <name><languageId>cs</languageId><trName>New Salem, Severní Dakota</trName></name>
-      <name><languageId>cy</languageId><trName>New Salem, Gogledd Dakota</trName></name>
-      <name><languageId>da</languageId><trName>New Salem, North Dakota</trName></name>
-      <name><languageId>de</languageId><trName>New Salem, North Dakota</trName></name>
-      <name><languageId>el</languageId><trName>Νιου Σάλεμ, Βόρεια Ντακότα</trName></name>
-      <name><languageId>es</languageId><trName>New Salem, Dakota del Norte</trName></name>
-      <name><languageId>et</languageId><trName>New Salem, North Dakota</trName></name>
-      <name><languageId>eu</languageId><trName>New Salem, Ipar Dakota</trName></name>
-      <name><languageId>fa</languageId><trName>نیوسالم، داکوتای شمالی</trName></name>
-      <name><languageId>fi</languageId><trName>New Salem, Pohjois-Dakota</trName></name>
-      <name><languageId>fil</languageId><trName>New Salem, North Dakota</trName></name>
-      <name><languageId>fr</languageId><trName>New Salem [Dakota du Nord]</trName></name>
-      <name><languageId>gl</languageId><trName>New Salem, Dakota do Norte</trName></name>
-      <name><languageId>gu</languageId><trName>નવું સેલમ,ઉત્તર ડેકોટા</trName></name>
-      <name><languageId>he</languageId><trName>ניו סיילם, צפון דקוטה</trName></name>
-      <name><languageId>hi</languageId><trName>न्यू सालेम, उत्तरी डकोटा</trName></name>
-      <name><languageId>hr</languageId><trName>New Salem, Sjeverna Dakota</trName></name>
-      <name><languageId>hu</languageId><trName>New Salem, Észak-Dakota</trName></name>
-      <name><languageId>hy</languageId><trName>Նյու Սալեմ, Հյուսիսային Դակոտա</trName></name>
-      <name><languageId>id</languageId><trName>New Salem, Dakota Utara</trName></name>
-      <name><languageId>is</languageId><trName>New Salem, North Dakota</trName></name>
-      <name><languageId>it</languageId><trName>New Salem, Dakota del nord</trName></name>
-      <name><languageId>ja</languageId><trName>ノースダコタ州ニューセーラム</trName></name>
-      <name><languageId>ka</languageId><trName>ნიუ სალემი, ჩრდილოეთი დაკოტა</trName></name>
+      <name><languageId>bs</languageId><trName>Novi Salem</trName></name>
+      <name><languageId>ca</languageId><trName>New Salem</trName></name>
+      <name><languageId>cs</languageId><trName>New Salem</trName></name>
+      <name><languageId>cy</languageId><trName>New Salem</trName></name>
+      <name><languageId>da</languageId><trName>New Salem</trName></name>
+      <name><languageId>de</languageId><trName>New Salem</trName></name>
+      <name><languageId>el</languageId><trName>Νιου Σάλεμ</trName></name>
+      <name><languageId>es</languageId><trName>New Salem</trName></name>
+      <name><languageId>et</languageId><trName>New Salem</trName></name>
+      <name><languageId>eu</languageId><trName>New Salem</trName></name>
+      <name><languageId>fa</languageId><trName>نیوسالم</trName></name>
+      <name><languageId>fi</languageId><trName>New Salem</trName></name>
+      <name><languageId>fil</languageId><trName>New Salem</trName></name>
+      <name><languageId>fr</languageId><trName>New Salem</trName></name>
+      <name><languageId>gl</languageId><trName>New Salem</trName></name>
+      <name><languageId>gu</languageId><trName>નવું સેલમ</trName></name>
+      <name><languageId>he</languageId><trName>ניו סיילם</trName></name>
+      <name><languageId>hi</languageId><trName>न्यू सालेम</trName></name>
+      <name><languageId>hr</languageId><trName>New Salem</trName></name>
+      <name><languageId>hu</languageId><trName>New Salem</trName></name>
+      <name><languageId>hy</languageId><trName>Նյու Սալեմ</trName></name>
+      <name><languageId>id</languageId><trName>New Salem</trName></name>
+      <name><languageId>is</languageId><trName>New Salem</trName></name>
+      <name><languageId>it</languageId><trName>New Salem</trName></name>
+      <name><languageId>ja</languageId><trName>ニューセーラム</trName></name>
+      <name><languageId>ka</languageId><trName>ნიუ სალემი</trName></name>
       <name><languageId>kk</languageId><trName>Нью Салем</trName></name>
-      <name><languageId>km</languageId><trName>ញូ​សាឡឹម ដាកូតា​ខាង​ជើង</trName></name>
-      <name><languageId>kn</languageId><trName>ನ್ಯೂ ಸಲೇಂ, ಉತ್ತರ ಡಕೋಟಾ</trName></name>
-      <name><languageId>ko</languageId><trName>노스 다코타주, 뉴살렘</trName></name>
+      <name><languageId>km</languageId><trName>ញូ​សាឡឹម</trName></name>
+      <name><languageId>kn</languageId><trName>ನ್ಯೂ ಸಲೇಂ</trName></name>
+      <name><languageId>ko</languageId><trName>뉴살렘</trName></name>
       <name><languageId>ks</languageId><trName>نوو سیلٕم</trName></name>
-      <name><languageId>ky</languageId><trName>Ню Салем, Түндүк Дакота</trName></name>
-      <name><languageId>lo</languageId><trName>ນີວສາເລັມ, ດາໂກຕາເໜືອ</trName></name>
-      <name><languageId>lt</languageId><trName>Niu Seilemas, Šiaurės Dakota</trName></name>
-      <name><languageId>lv</languageId><trName>Ņūsalema, Ziemeļdakota</trName></name>
-      <name><languageId>mk</languageId><trName>Њу Салем, Северна Дакота</trName></name>
-      <name><languageId>ml</languageId><trName>ന്യൂ സെയ്‌ലം, നോർത്ത് ഡക്കോട്ട</trName></name>
-      <name><languageId>mn</languageId><trName>Нью-Салем, Хойд Дакота</trName></name>
-      <name><languageId>mr</languageId><trName>न्यू सालेम, उत्तर डकोटा</trName></name>
-      <name><languageId>ms</languageId><trName>New Salem, North Dakota</trName></name>
-      <name><languageId>my</languageId><trName>နယူးစီလန် မြောက်ဒါကိုတာ</trName></name>
-      <name><languageId>nb</languageId><trName>New Salem, Nord-Dakota</trName></name>
-      <name><languageId>ne</languageId><trName>नयाँ सालेम, उत्तर डाकोटा</trName></name>
-      <name><languageId>nl</languageId><trName>New Salem, Noord-Dakota</trName></name>
-      <name><languageId>pa</languageId><trName>ਨਿਊ ਸਲੇਮ, ਉੱਤਰੀ ਡਕੋਟਾ</trName></name>
-      <name><languageId>pl</languageId><trName>New Salem, Dakota Północna</trName></name>
-      <name><languageId>pt</languageId><trName>New Salen, Dakota do Norte</trName></name>
-      <name><languageId>ro</languageId><trName>New Salem, Dakota de Nord</trName></name>
+      <name><languageId>ky</languageId><trName>Ню Салем</trName></name>
+      <name><languageId>lo</languageId><trName>ນີວສາເລັມ</trName></name>
+      <name><languageId>lt</languageId><trName>Niu Seilemas</trName></name>
+      <name><languageId>lv</languageId><trName>Ņūsalema</trName></name>
+      <name><languageId>mk</languageId><trName>Њу Салем</trName></name>
+      <name><languageId>ml</languageId><trName>ന്യൂ സെയ്‌ലം</trName></name>
+      <name><languageId>mn</languageId><trName>Нью-Салем</trName></name>
+      <name><languageId>mr</languageId><trName>न्यू सालेम</trName></name>
+      <name><languageId>ms</languageId><trName>New Salem</trName></name>
+      <name><languageId>my</languageId><trName>နယူးစီလန်</trName></name>
+      <name><languageId>nb</languageId><trName>New Salem</trName></name>
+      <name><languageId>ne</languageId><trName>नयाँ सालेम</trName></name>
+      <name><languageId>nl</languageId><trName>New Salem</trName></name>
+      <name><languageId>pa</languageId><trName>ਨਿਊ ਸਲੇਮ</trName></name>
+      <name><languageId>pl</languageId><trName>New Salem</trName></name>
+      <name><languageId>pt</languageId><trName>New Salen</trName></name>
+      <name><languageId>ro</languageId><trName>New Salem</trName></name>
       <name><languageId>ru</languageId><trName>Нью-Салем</trName></name>
-      <name><languageId>si</languageId><trName>නව සලෙම්ම, උතුරු ඩකෝටා</trName></name>
-      <name><languageId>sk</languageId><trName>New Salem, Severná Dakota</trName></name>
-      <name><languageId>sl</languageId><trName>New Salem, Severna Dakota</trName></name>
-      <name><languageId>sq</languageId><trName>Nju Salem, Dakota e Veriut</trName></name>
-      <name><languageId>sr</languageId><trName>Нови Салем, Северна Даткоа</trName></name>
-      <name><languageId>sr_Latn</languageId><trName>Novi Salem, Severna Datkoa</trName></name>
-      <name><languageId>sv</languageId><trName>New Salem, North Dakota</trName></name>
-      <name><languageId>sw</languageId><trName>New Salem, North Dakota</trName></name>
-      <name><languageId>ta</languageId><trName>நியூ சலேம், வடக்கு டகோடா</trName></name>
-      <name><languageId>te</languageId><trName>న్యూ సలేమ్, దక్షిణ దకోట</trName></name>
-      <name><languageId>th</languageId><trName>นิวเซเลม, นอร์ทดาโคตา</trName></name>
-      <name><languageId>tr</languageId><trName>New Salem, Kuzey Dakota</trName></name>
+      <name><languageId>si</languageId><trName>නව සලෙම්ම</trName></name>
+      <name><languageId>sk</languageId><trName>New Salem</trName></name>
+      <name><languageId>sl</languageId><trName>New Salem</trName></name>
+      <name><languageId>sq</languageId><trName>Nju Salem</trName></name>
+      <name><languageId>sr</languageId><trName>Нови Салем</trName></name>
+      <name><languageId>sr_Latn</languageId><trName>Novi Salem</trName></name>
+      <name><languageId>sv</languageId><trName>New Salem</trName></name>
+      <name><languageId>sw</languageId><trName>New Salem</trName></name>
+      <name><languageId>ta</languageId><trName>நியூ சலேம்</trName></name>
+      <name><languageId>te</languageId><trName>న్యూ సలేమ్</trName></name>
+      <name><languageId>th</languageId><trName>นิวเซเลม</trName></name>
+      <name><languageId>tr</languageId><trName>New Salem</trName></name>
       <name><languageId>uk</languageId><trName>Нью-Салем</trName></name>
-      <name><languageId>ur</languageId><trName>نیو سلیم، شمالی ڈکوٹا</trName></name>
-      <name><languageId>uz</languageId><trName>New Salem, North Dakota</trName></name>
-      <name><languageId>vi</languageId><trName>New Salem, Bắc Dakota</trName></name>
-      <name><languageId>zh</languageId><trName>北达科他州新塞勒姆</trName></name>
-      <name><languageId>zh_Hant</languageId><trName>北達科他州紐沙倫</trName></name>
+      <name><languageId>ur</languageId><trName>نیو سلیم</trName></name>
+      <name><languageId>uz</languageId><trName>New Salem</trName></name>
+      <name><languageId>vi</languageId><trName>New Salem</trName></name>
+      <name><languageId>zh</languageId><trName>新塞勒姆</trName></name>
+      <name><languageId>zh_Hant</languageId><trName>紐沙倫</trName></name>
     </names>
   </timezoneIdPart>
   <timezoneIdPart>
@@ -21689,6 +21760,76 @@
   <timezoneIdPart>
     <timezoneIdPartId>North_Dakota</timezoneIdPartId>
     <names>
+      <name><languageId>af</languageId><trName>North Dakota</trName></name>
+      <name><languageId>am</languageId><trName>ሰሜን ዳኮታ</trName></name>
+      <name><languageId>ar</languageId><trName>داكوتا الشمالية</trName></name>
+      <name><languageId>ast</languageId><trName>Dakota del Norte</trName></name>
+      <name><languageId>az</languageId><trName>Şimali Dakota</trName></name>
+      <name><languageId>bn</languageId><trName>উত্তর ডাকোটা</trName></name>
+      <name><languageId>ca</languageId><trName>Dakota del Nord</trName></name>
+      <name><languageId>cs</languageId><trName>Severní Dakota</trName></name>
+      <name><languageId>cy</languageId><trName>Gogledd Dakota</trName></name>
+      <name><languageId>da</languageId><trName>North Dakota</trName></name>
+      <name><languageId>de</languageId><trName>North Dakota</trName></name>
+      <name><languageId>el</languageId><trName>Βόρεια Ντακότα</trName></name>
+      <name><languageId>es</languageId><trName>Dakota del Norte</trName></name>
+      <name><languageId>et</languageId><trName>North Dakota</trName></name>
+      <name><languageId>eu</languageId><trName>Ipar Dakota</trName></name>
+      <name><languageId>fa</languageId><trName>داکوتای شمالی</trName></name>
+      <name><languageId>fi</languageId><trName>Pohjois-Dakota</trName></name>
+      <name><languageId>fil</languageId><trName>North Dakota</trName></name>
+      <name><languageId>fr</languageId><trName>Dakota du Nord</trName></name>
+      <name><languageId>gl</languageId><trName>Dakota do Norte</trName></name>
+      <name><languageId>gu</languageId><trName>ઉત્તર ડેકોટા</trName></name>
+      <name><languageId>he</languageId><trName>צפון דקוטה</trName></name>
+      <name><languageId>hi</languageId><trName>उत्तरी डकोटा</trName></name>
+      <name><languageId>hr</languageId><trName>Sjeverna Dakota</trName></name>
+      <name><languageId>hu</languageId><trName>Észak-Dakota</trName></name>
+      <name><languageId>hy</languageId><trName>Հյուսիսային Դակոտա</trName></name>
+      <name><languageId>id</languageId><trName>Dakota Utara</trName></name>
+      <name><languageId>is</languageId><trName>North Dakota</trName></name>
+      <name><languageId>it</languageId><trName>Dakota del nord</trName></name>
+      <name><languageId>ja</languageId><trName>ノースダコタ州</trName></name>
+      <name><languageId>ka</languageId><trName>ჩრდილოეთი დაკოტა</trName></name>
+      <name><languageId>kk</languageId><trName>Солтүстік Дакота</trName></name>
+      <name><languageId>km</languageId><trName>ដាកូតា​ខាង​ត្បូង</trName></name>
+      <name><languageId>kn</languageId><trName>ಉತ್ತರ ಡೆಕೊತಾ</trName></name>
+      <name><languageId>ko</languageId><trName>노스다코타주</trName></name>
+      <name><languageId>ky</languageId><trName>Түндүк Дакота</trName></name>
+      <name><languageId>lo</languageId><trName>ດາໂກຕາເໜືອ</trName></name>
+      <name><languageId>lt</languageId><trName>Šiaurės Dakota</trName></name>
+      <name><languageId>mk</languageId><trName>Северна Дакота</trName></name>
+      <name><languageId>ml</languageId><trName>വടക്കൻ ഡെക്കോട്ട</trName></name>
+      <name><languageId>mn</languageId><trName>Хойд Дакота</trName></name>
+      <name><languageId>mr</languageId><trName>उत्तर डकोटा</trName></name>
+      <name><languageId>ms</languageId><trName>North Dakota</trName></name>
+      <name><languageId>my</languageId><trName>မြောက်ဒါကိုတာ</trName></name>
+      <name><languageId>nb</languageId><trName>Nord-Dakota</trName></name>
+      <name><languageId>ne</languageId><trName>उत्तर डोकोटा</trName></name>
+      <name><languageId>nl</languageId><trName>Noord-Dakota</trName></name>
+      <name><languageId>pa</languageId><trName>ਉੱਤਰੀ ਡਕੋਟਾ</trName></name>
+      <name><languageId>pl</languageId><trName>Dakota Północna</trName></name>
+      <name><languageId>pt</languageId><trName>Dakota do Norte</trName></name>
+      <name><languageId>ro</languageId><trName>Dakota de Nord</trName></name>
+      <name><languageId>ru</languageId><trName>Северная Дакота</trName></name>
+      <name><languageId>si</languageId><trName>උතුරු ඩකෝටා</trName></name>
+      <name><languageId>sk</languageId><trName>Severná Dakota</trName></name>
+      <name><languageId>sl</languageId><trName>North Dakota</trName></name>
+      <name><languageId>sq</languageId><trName>Dakota e Veriut</trName></name>
+      <name><languageId>sr</languageId><trName>Северна Дакота</trName></name>
+      <name><languageId>sr_Latn</languageId><trName>Severna Dakota</trName></name>
+      <name><languageId>sv</languageId><trName>North Dakota</trName></name>
+      <name><languageId>sw</languageId><trName>North Dakota</trName></name>
+      <name><languageId>ta</languageId><trName>வடக்கு டகோட்டா</trName></name>
+      <name><languageId>te</languageId><trName>ఉత్తర డకోట</trName></name>
+      <name><languageId>th</languageId><trName>นอร์ทดาโคตา</trName></name>
+      <name><languageId>tr</languageId><trName>Kuzey Dakota</trName></name>
+      <name><languageId>uk</languageId><trName>Північна Дакота</trName></name>
+      <name><languageId>ur</languageId><trName>شمالی ڈکوٹا</trName></name>
+      <name><languageId>uz</languageId><trName>North Dakota</trName></name>
+      <name><languageId>vi</languageId><trName>Bắc Dakota</trName></name>
+      <name><languageId>zh</languageId><trName>北达科他州</trName></name>
+      <name><languageId>zh_Hant</languageId><trName>北達科他州</trName></name>
     </names>
   </timezoneIdPart>
   <timezoneIdPart>
@@ -23036,81 +23177,81 @@
   <timezoneIdPart>
     <timezoneIdPartId>Petersburg</timezoneIdPartId>
     <names>
-      <name><languageId>af</languageId><trName>Petersburg, Indiana</trName></name>
-      <name><languageId>am</languageId><trName>ፒተርስበርግ, ኢንዲያና</trName></name>
+      <name><languageId>af</languageId><trName>Petersburg</trName></name>
+      <name><languageId>am</languageId><trName>ፒተርስበርግ</trName></name>
       <name><languageId>ar</languageId><trName>بيترسبرغ</trName></name>
-      <name><languageId>ast</languageId><trName>Petersburg, Indiana</trName></name>
+      <name><languageId>ast</languageId><trName>Petersburg</trName></name>
       <name><languageId>az</languageId><trName>Pitersburq</trName></name>
       <name><languageId>bg</languageId><trName>Питърсбърг</trName></name>
-      <name><languageId>bn</languageId><trName>পিটারর্সবার্গ, ইন্ডিয়ানা</trName></name>
+      <name><languageId>bn</languageId><trName>পিটারর্সবার্গ</trName></name>
       <name><languageId>brx</languageId><trName>पिटर्सबर्ग</trName></name>
-      <name><languageId>bs</languageId><trName>Petesburg (SAD)</trName></name>
-      <name><languageId>ca</languageId><trName>Petersburg, Indiana</trName></name>
-      <name><languageId>cs</languageId><trName>Petersburg, Indiana</trName></name>
-      <name><languageId>cy</languageId><trName>Petersburg, Indiana</trName></name>
-      <name><languageId>da</languageId><trName>Petersburg, Indiana</trName></name>
-      <name><languageId>de</languageId><trName>Petersburg, Indiana</trName></name>
-      <name><languageId>el</languageId><trName>Πίτερσμπεργκ, Ιντιάνα</trName></name>
-      <name><languageId>es</languageId><trName>Petersburg, Indiana</trName></name>
-      <name><languageId>et</languageId><trName>Petersburg, Indiana</trName></name>
-      <name><languageId>eu</languageId><trName>Petersburg, Indiana</trName></name>
-      <name><languageId>fa</languageId><trName>پیترزبرگ، ایندیانا</trName></name>
-      <name><languageId>fi</languageId><trName>Petersburg, Indiana</trName></name>
-      <name><languageId>fil</languageId><trName>Petersburg, Indiana</trName></name>
-      <name><languageId>fr</languageId><trName>Petersburg [Indiana]</trName></name>
-      <name><languageId>gl</languageId><trName>Petersburgo, Indiana</trName></name>
-      <name><languageId>gu</languageId><trName>પિટર્સબર્ગ,ઇન્ડિયાના</trName></name>
-      <name><languageId>he</languageId><trName>פיטרסבורג, אינדיאנה</trName></name>
-      <name><languageId>hi</languageId><trName>पीटर्सबर्ग, इंडियाना</trName></name>
-      <name><languageId>hr</languageId><trName>Petersburg, Indiana</trName></name>
-      <name><languageId>hu</languageId><trName>Petersburg, Indiana</trName></name>
-      <name><languageId>hy</languageId><trName>Պետերսբուրգ, Ինդիանա</trName></name>
-      <name><languageId>id</languageId><trName>Petersburg, Indiana</trName></name>
-      <name><languageId>is</languageId><trName>Petersburg, Indiana</trName></name>
-      <name><languageId>it</languageId><trName>Petersburg, Indiana</trName></name>
-      <name><languageId>ja</languageId><trName>インディアナ州ピーターズバーグ</trName></name>
-      <name><languageId>ka</languageId><trName>პიტერსბურგი, ინდიანა</trName></name>
+      <name><languageId>bs</languageId><trName>Petesburg</trName></name>
+      <name><languageId>ca</languageId><trName>Petersburg</trName></name>
+      <name><languageId>cs</languageId><trName>Petersburg</trName></name>
+      <name><languageId>cy</languageId><trName>Petersburg</trName></name>
+      <name><languageId>da</languageId><trName>Petersburg</trName></name>
+      <name><languageId>de</languageId><trName>Petersburg</trName></name>
+      <name><languageId>el</languageId><trName>Πίτερσμπεργκ</trName></name>
+      <name><languageId>es</languageId><trName>Petersburg</trName></name>
+      <name><languageId>et</languageId><trName>Petersburg</trName></name>
+      <name><languageId>eu</languageId><trName>Petersburg</trName></name>
+      <name><languageId>fa</languageId><trName>پیترزبرگ</trName></name>
+      <name><languageId>fi</languageId><trName>Petersburg</trName></name>
+      <name><languageId>fil</languageId><trName>Petersburg</trName></name>
+      <name><languageId>fr</languageId><trName>Petersburg</trName></name>
+      <name><languageId>gl</languageId><trName>Petersburgo</trName></name>
+      <name><languageId>gu</languageId><trName>પિટર્સબર્ગ</trName></name>
+      <name><languageId>he</languageId><trName>פיטרסבורג</trName></name>
+      <name><languageId>hi</languageId><trName>पीटर्सबर्ग</trName></name>
+      <name><languageId>hr</languageId><trName>Petersburg</trName></name>
+      <name><languageId>hu</languageId><trName>Petersburg</trName></name>
+      <name><languageId>hy</languageId><trName>Պետերսբուրգ</trName></name>
+      <name><languageId>id</languageId><trName>Petersburg</trName></name>
+      <name><languageId>is</languageId><trName>Petersburg</trName></name>
+      <name><languageId>it</languageId><trName>Petersburg</trName></name>
+      <name><languageId>ja</languageId><trName>ピーターズバーグ</trName></name>
+      <name><languageId>ka</languageId><trName>პიტერსბურგი</trName></name>
       <name><languageId>kk</languageId><trName>Питерсберг</trName></name>
-      <name><languageId>km</languageId><trName>ភីធើ​ប៊ឹក ឥណ្ឌា</trName></name>
-      <name><languageId>kn</languageId><trName>ಪೀಟರ್ಸ್‌ಬರ್ಗ್, ಇಂಡಿಯಾನಾ</trName></name>
-      <name><languageId>ko</languageId><trName>인디애나주, 피츠버그</trName></name>
+      <name><languageId>km</languageId><trName>ភីធើ​ប៊ឹក្ឌា</trName></name>
+      <name><languageId>kn</languageId><trName>ಪೀಟರ್ಸ್‌ಬರ್ಗ್</trName></name>
+      <name><languageId>ko</languageId><trName>피츠버그</trName></name>
       <name><languageId>ks</languageId><trName>پِٹس بٔرگ</trName></name>
-      <name><languageId>ky</languageId><trName>Питерсбург, Индиана</trName></name>
-      <name><languageId>lo</languageId><trName>ປີເຕີເບີກ, ອິນດີເອນາ</trName></name>
-      <name><languageId>lt</languageId><trName>Pitersbergas, Indiana</trName></name>
-      <name><languageId>lv</languageId><trName>Pēterburga, Indiāna</trName></name>
-      <name><languageId>mk</languageId><trName>Питерсбург, Индијана</trName></name>
-      <name><languageId>ml</languageId><trName>പീറ്റേഴ്സ്ബർഗ്, ഇൻഡ്യാന</trName></name>
-      <name><languageId>mn</languageId><trName>Питерсбург, Индиана</trName></name>
-      <name><languageId>mr</languageId><trName>पीटर्सबर्ग, इंडियाना</trName></name>
-      <name><languageId>ms</languageId><trName>Petersburg, Indiana</trName></name>
-      <name><languageId>my</languageId><trName>ပီတာဘာဂ်စ် အင်ဒီအားနား</trName></name>
-      <name><languageId>nb</languageId><trName>Petersburg, Indiana</trName></name>
-      <name><languageId>ne</languageId><trName>पिटर्सबर्ग, इन्डियाना</trName></name>
-      <name><languageId>nl</languageId><trName>Petersburg, Indiana</trName></name>
-      <name><languageId>pa</languageId><trName>ਪੀਟਰਸਬਰਗ, ਇੰਡੀਆਨਾ</trName></name>
+      <name><languageId>ky</languageId><trName>Питерсбург</trName></name>
+      <name><languageId>lo</languageId><trName>ປີເຕີເບີກ</trName></name>
+      <name><languageId>lt</languageId><trName>Pitersbergas</trName></name>
+      <name><languageId>lv</languageId><trName>Pēterburga</trName></name>
+      <name><languageId>mk</languageId><trName>Питерсбург</trName></name>
+      <name><languageId>ml</languageId><trName>പീറ്റേഴ്സ്ബർഗ്</trName></name>
+      <name><languageId>mn</languageId><trName>Питерсбург</trName></name>
+      <name><languageId>mr</languageId><trName>पीटर्सबर्ग</trName></name>
+      <name><languageId>ms</languageId><trName>Petersburg</trName></name>
+      <name><languageId>my</languageId><trName>ပီတာဘာဂ်စ်</trName></name>
+      <name><languageId>nb</languageId><trName>Petersburg</trName></name>
+      <name><languageId>ne</languageId><trName>पिटर्सबर्ग</trName></name>
+      <name><languageId>nl</languageId><trName>Petersburg</trName></name>
+      <name><languageId>pa</languageId><trName>ਪੀਟਰਸਬਰਗ</trName></name>
       <name><languageId>pl</languageId><trName>Petersburg</trName></name>
-      <name><languageId>pt</languageId><trName>Petersburg, Indiana</trName></name>
-      <name><languageId>ro</languageId><trName>Petersburg, Indiana</trName></name>
+      <name><languageId>pt</languageId><trName>Petersburg</trName></name>
+      <name><languageId>ro</languageId><trName>Petersburg</trName></name>
       <name><languageId>ru</languageId><trName>Петерсбург</trName></name>
-      <name><languageId>si</languageId><trName>පීටර්ස්බර්ග්, ඉන්දියානා</trName></name>
-      <name><languageId>sk</languageId><trName>Petersburg, Indiana</trName></name>
-      <name><languageId>sl</languageId><trName>Petersburg, Indiana</trName></name>
-      <name><languageId>sq</languageId><trName>Petërsburg, Indiana</trName></name>
-      <name><languageId>sr</languageId><trName>Петерсбург, Индијана</trName></name>
-      <name><languageId>sr_Latn</languageId><trName>Petersburg, Indijana</trName></name>
-      <name><languageId>sv</languageId><trName>Petersburg, Indiana</trName></name>
-      <name><languageId>sw</languageId><trName>Petersburg, Indiana</trName></name>
-      <name><languageId>ta</languageId><trName>பீட்டர்ஸ்பெர்க், இண்டியானா</trName></name>
-      <name><languageId>te</languageId><trName>పెటెర్స్‌బుర్గ్, ఇండియాన</trName></name>
-      <name><languageId>th</languageId><trName>ปีเตอร์สเบิร์ก, อินดีแอนา</trName></name>
-      <name><languageId>tr</languageId><trName>Petersburg, Indiana</trName></name>
+      <name><languageId>si</languageId><trName>පීටර්ස්බර්ග්</trName></name>
+      <name><languageId>sk</languageId><trName>Petersburg</trName></name>
+      <name><languageId>sl</languageId><trName>Petersburg</trName></name>
+      <name><languageId>sq</languageId><trName>Petërsburg</trName></name>
+      <name><languageId>sr</languageId><trName>Петерсбург</trName></name>
+      <name><languageId>sr_Latn</languageId><trName>Petersburg</trName></name>
+      <name><languageId>sv</languageId><trName>Petersburg</trName></name>
+      <name><languageId>sw</languageId><trName>Petersburg</trName></name>
+      <name><languageId>ta</languageId><trName>பீட்டர்ஸ்பெர்க்</trName></name>
+      <name><languageId>te</languageId><trName>పెటెర్స్‌బుర్గ్</trName></name>
+      <name><languageId>th</languageId><trName>ปีเตอร์สเบิร์ก</trName></name>
+      <name><languageId>tr</languageId><trName>Petersburg</trName></name>
       <name><languageId>uk</languageId><trName>Петербург</trName></name>
-      <name><languageId>ur</languageId><trName>پیٹرزبرگ، انڈیانا</trName></name>
-      <name><languageId>uz</languageId><trName>Petersburg, Indiana</trName></name>
-      <name><languageId>vi</languageId><trName>Petersburg, Indiana</trName></name>
-      <name><languageId>zh</languageId><trName>印第安纳州彼得斯堡</trName></name>
-      <name><languageId>zh_Hant</languageId><trName>彼得堡，印第安那州</trName></name>
+      <name><languageId>ur</languageId><trName>پیٹرزبرگ</trName></name>
+      <name><languageId>uz</languageId><trName>Petersburg</trName></name>
+      <name><languageId>vi</languageId><trName>Petersburg</trName></name>
+      <name><languageId>zh</languageId><trName>彼得斯堡</trName></name>
+      <name><languageId>zh_Hant</languageId><trName>彼得堡</trName></name>
     </names>
   </timezoneIdPart>
   <timezoneIdPart>
@@ -29143,81 +29284,81 @@
   <timezoneIdPart>
     <timezoneIdPartId>Tell_City</timezoneIdPartId>
     <names>
-      <name><languageId>af</languageId><trName>Tell City, Indiana</trName></name>
-      <name><languageId>am</languageId><trName>ቴል ከተማ, ኢንዲያና</trName></name>
-      <name><languageId>ar</languageId><trName>مدينة تل، إنديانا</trName></name>
-      <name><languageId>ast</languageId><trName>Tell City, Indiana</trName></name>
+      <name><languageId>af</languageId><trName>Tell City</trName></name>
+      <name><languageId>am</languageId><trName>ቴል ከተማ</trName></name>
+      <name><languageId>ar</languageId><trName>مدينة تل</trName></name>
+      <name><languageId>ast</languageId><trName>Tell City</trName></name>
       <name><languageId>az</languageId><trName>Tell</trName></name>
       <name><languageId>bg</languageId><trName>Тел Сити</trName></name>
-      <name><languageId>bn</languageId><trName>টেলসিটি, ইন্ডিয়ানা</trName></name>
+      <name><languageId>bn</languageId><trName>টেলসিটি</trName></name>
       <name><languageId>brx</languageId><trName>टॅल सिटी</trName></name>
-      <name><languageId>bs</languageId><trName>Tel Siti (SAD)</trName></name>
-      <name><languageId>ca</languageId><trName>Tell City, Indiana</trName></name>
-      <name><languageId>cs</languageId><trName>Tell City, Indiana</trName></name>
-      <name><languageId>cy</languageId><trName>Dinas Tell, Indiana</trName></name>
-      <name><languageId>da</languageId><trName>Tell City, Indiana</trName></name>
-      <name><languageId>de</languageId><trName>Tell City, Indiana</trName></name>
-      <name><languageId>el</languageId><trName>Τελ Σίτυ, Ιντιάνα</trName></name>
-      <name><languageId>es</languageId><trName>Tell City, Indiana</trName></name>
-      <name><languageId>et</languageId><trName>Tell City, Indiana</trName></name>
-      <name><languageId>eu</languageId><trName>Tell City, Indiana</trName></name>
-      <name><languageId>fa</languageId><trName>تل‌سیتی، ایندیانا</trName></name>
-      <name><languageId>fi</languageId><trName>Tell City, Indiana</trName></name>
-      <name><languageId>fil</languageId><trName>Tell City, Indiana</trName></name>
-      <name><languageId>fr</languageId><trName>Tell City [Indiana]</trName></name>
-      <name><languageId>gl</languageId><trName>Tell City, Indiana</trName></name>
-      <name><languageId>gu</languageId><trName>ટેલ સિટી,ઇન્ડિયાના</trName></name>
-      <name><languageId>he</languageId><trName>טל סיטי, אינדיאנה</trName></name>
-      <name><languageId>hi</languageId><trName>टेल सिटी, इंडियाना</trName></name>
-      <name><languageId>hr</languageId><trName>Tell City, Indiana</trName></name>
-      <name><languageId>hu</languageId><trName>Tell City, Indiana</trName></name>
-      <name><languageId>hy</languageId><trName>Թել-Սիթի, Ինդիանա</trName></name>
-      <name><languageId>id</languageId><trName>Tell City, Indiana</trName></name>
-      <name><languageId>is</languageId><trName>Tell City, Indiana</trName></name>
-      <name><languageId>it</languageId><trName>Tell City, Indiana</trName></name>
-      <name><languageId>ja</languageId><trName>インディアナ州テルシティ</trName></name>
-      <name><languageId>ka</languageId><trName>თელ სითი, ინდიანა</trName></name>
-      <name><languageId>kk</languageId><trName>Телл-Сити, Индиана</trName></name>
-      <name><languageId>km</languageId><trName>ថែល​ស៊ីធី ឥណ្ឌា</trName></name>
-      <name><languageId>kn</languageId><trName>ಟೆಲ್ ಸಿಟಿ, ಇಂಡಿಯಾನಾ</trName></name>
-      <name><languageId>ko</languageId><trName>인디아나주, 텔시티</trName></name>
+      <name><languageId>bs</languageId><trName>Tel Siti</trName></name>
+      <name><languageId>ca</languageId><trName>Tell City</trName></name>
+      <name><languageId>cs</languageId><trName>Tell City</trName></name>
+      <name><languageId>cy</languageId><trName>Dinas Tell</trName></name>
+      <name><languageId>da</languageId><trName>Tell City</trName></name>
+      <name><languageId>de</languageId><trName>Tell City</trName></name>
+      <name><languageId>el</languageId><trName>Τελ Σίτυ</trName></name>
+      <name><languageId>es</languageId><trName>Tell City</trName></name>
+      <name><languageId>et</languageId><trName>Tell City</trName></name>
+      <name><languageId>eu</languageId><trName>Tell City</trName></name>
+      <name><languageId>fa</languageId><trName>تل‌سیتی</trName></name>
+      <name><languageId>fi</languageId><trName>Tell City</trName></name>
+      <name><languageId>fil</languageId><trName>Tell City</trName></name>
+      <name><languageId>fr</languageId><trName>Tell City</trName></name>
+      <name><languageId>gl</languageId><trName>Tell City</trName></name>
+      <name><languageId>gu</languageId><trName>ટેલ સિટી</trName></name>
+      <name><languageId>he</languageId><trName>טל סיטי</trName></name>
+      <name><languageId>hi</languageId><trName>टेल सिटी</trName></name>
+      <name><languageId>hr</languageId><trName>Tell City</trName></name>
+      <name><languageId>hu</languageId><trName>Tell City</trName></name>
+      <name><languageId>hy</languageId><trName>Թել-Սիթի</trName></name>
+      <name><languageId>id</languageId><trName>Tell City</trName></name>
+      <name><languageId>is</languageId><trName>Tell City</trName></name>
+      <name><languageId>it</languageId><trName>Tell City</trName></name>
+      <name><languageId>ja</languageId><trName>テルシティ</trName></name>
+      <name><languageId>ka</languageId><trName>თელ სითი</trName></name>
+      <name><languageId>kk</languageId><trName>Телл-Сити</trName></name>
+      <name><languageId>km</languageId><trName>ថែល​ស៊ីធី</trName></name>
+      <name><languageId>kn</languageId><trName>ಟೆಲ್ ಸಿಟಿ</trName></name>
+      <name><languageId>ko</languageId><trName>텔시티</trName></name>
       <name><languageId>ks</languageId><trName>ٹیٚل سِٹی</trName></name>
-      <name><languageId>ky</languageId><trName>Телл шаары, Индиана</trName></name>
-      <name><languageId>lo</languageId><trName>ເທວຊິຕີ, ອິນດີເອນາ</trName></name>
-      <name><languageId>lt</languageId><trName>Tel Sitis, Indiana</trName></name>
-      <name><languageId>lv</languageId><trName>Tellsitija, Indiāna</trName></name>
-      <name><languageId>mk</languageId><trName>Тел Сити, Индијана</trName></name>
-      <name><languageId>ml</languageId><trName>റ്റെൽ സിറ്റി, ഇൻഡ്യാന</trName></name>
-      <name><languageId>mn</languageId><trName>Тел Сити, Индиана</trName></name>
-      <name><languageId>mr</languageId><trName>टेल सिटी, इंडियाना</trName></name>
-      <name><languageId>ms</languageId><trName>Tell City, Indiana</trName></name>
-      <name><languageId>my</languageId><trName>တဲလ်စီးတီး အင်ဒီအားနား</trName></name>
-      <name><languageId>nb</languageId><trName>Tell City, Indiana</trName></name>
-      <name><languageId>ne</languageId><trName>टेल सिटी, इन्डियाना</trName></name>
-      <name><languageId>nl</languageId><trName>Tell City, Indiana</trName></name>
-      <name><languageId>pa</languageId><trName>ਟੈਲ ਸਿਟੀ, ਇੰਡੀਆਨਾ</trName></name>
-      <name><languageId>pl</languageId><trName>Tell City, Indiana</trName></name>
-      <name><languageId>pt</languageId><trName>Tell City, Indiana</trName></name>
-      <name><languageId>ro</languageId><trName>Tell City, Indiana</trName></name>
+      <name><languageId>ky</languageId><trName>Телл шаары</trName></name>
+      <name><languageId>lo</languageId><trName>ເທວຊິຕີ</trName></name>
+      <name><languageId>lt</languageId><trName>Tel Sitis</trName></name>
+      <name><languageId>lv</languageId><trName>Tellsitija</trName></name>
+      <name><languageId>mk</languageId><trName>Тел Сити</trName></name>
+      <name><languageId>ml</languageId><trName>റ്റെൽ സിറ്റി</trName></name>
+      <name><languageId>mn</languageId><trName>Тел Сити</trName></name>
+      <name><languageId>mr</languageId><trName>टेल सिटी</trName></name>
+      <name><languageId>ms</languageId><trName>Tell City</trName></name>
+      <name><languageId>my</languageId><trName>တဲလ်စီးတီး</trName></name>
+      <name><languageId>nb</languageId><trName>Tell City</trName></name>
+      <name><languageId>ne</languageId><trName>टेल सिटी</trName></name>
+      <name><languageId>nl</languageId><trName>Tell City</trName></name>
+      <name><languageId>pa</languageId><trName>ਟੈਲ ਸਿਟੀ</trName></name>
+      <name><languageId>pl</languageId><trName>Tell City</trName></name>
+      <name><languageId>pt</languageId><trName>Tell City</trName></name>
+      <name><languageId>ro</languageId><trName>Tell City</trName></name>
       <name><languageId>ru</languageId><trName>Телл-Сити</trName></name>
-      <name><languageId>si</languageId><trName>ටෙල් නගරය, ඉන්දියානා</trName></name>
-      <name><languageId>sk</languageId><trName>Tell City, Indiana</trName></name>
-      <name><languageId>sl</languageId><trName>Tell City, Indiana</trName></name>
-      <name><languageId>sq</languageId><trName>Tell Siti, Indiana</trName></name>
+      <name><languageId>si</languageId><trName>ටෙල් නගරය</trName></name>
+      <name><languageId>sk</languageId><trName>Tell City</trName></name>
+      <name><languageId>sl</languageId><trName>Tell City</trName></name>
+      <name><languageId>sq</languageId><trName>Tell Siti</trName></name>
       <name><languageId>sr</languageId><trName>Тел Сити</trName></name>
       <name><languageId>sr_Latn</languageId><trName>Tel Siti</trName></name>
-      <name><languageId>sv</languageId><trName>Tell City, Indiana</trName></name>
-      <name><languageId>sw</languageId><trName>Tell City, Indiana</trName></name>
-      <name><languageId>ta</languageId><trName>டெல் சிட்டி, இண்டியானா</trName></name>
-      <name><languageId>te</languageId><trName>టెల్ నగరం, ఇండియాన</trName></name>
-      <name><languageId>th</languageId><trName>เทลล์ซิตี, อินดีแอนา</trName></name>
-      <name><languageId>tr</languageId><trName>Tell City, Indiana</trName></name>
+      <name><languageId>sv</languageId><trName>Tell City</trName></name>
+      <name><languageId>sw</languageId><trName>Tell City</trName></name>
+      <name><languageId>ta</languageId><trName>டெல் சிட்டி</trName></name>
+      <name><languageId>te</languageId><trName>టెల్ నగరం</trName></name>
+      <name><languageId>th</languageId><trName>เทลล์ซิตี</trName></name>
+      <name><languageId>tr</languageId><trName>Tell City</trName></name>
       <name><languageId>uk</languageId><trName>Телл-сіті</trName></name>
-      <name><languageId>ur</languageId><trName>ٹیل سٹی، انڈیانا</trName></name>
-      <name><languageId>uz</languageId><trName>Tell City, Indiana</trName></name>
-      <name><languageId>vi</languageId><trName>Tell City, Indiana</trName></name>
-      <name><languageId>zh</languageId><trName>印第安纳州特尔城</trName></name>
-      <name><languageId>zh_Hant</languageId><trName>印第安那州泰爾城</trName></name>
+      <name><languageId>ur</languageId><trName>ٹیل سٹی</trName></name>
+      <name><languageId>uz</languageId><trName>Tell City</trName></name>
+      <name><languageId>vi</languageId><trName>Tell City</trName></name>
+      <name><languageId>zh</languageId><trName>特尔城</trName></name>
+      <name><languageId>zh_Hant</languageId><trName>泰爾城</trName></name>
     </names>
   </timezoneIdPart>
   <timezoneIdPart>
@@ -30820,81 +30961,80 @@
   <timezoneIdPart>
     <timezoneIdPartId>Vevay</timezoneIdPartId>
     <names>
-      <name><languageId>af</languageId><trName>Vevay, Indiana</trName></name>
-      <name><languageId>am</languageId><trName>ቪቫይ, ኢንዲያና</trName></name>
+      <name><languageId>af</languageId><trName>Vevay</trName></name>
+      <name><languageId>am</languageId><trName>ቪቫይ</trName></name>
       <name><languageId>ar</languageId><trName>فيفاي</trName></name>
-      <name><languageId>ast</languageId><trName>Vevay, Indiana</trName></name>
+      <name><languageId>ast</languageId><trName>Vevay</trName></name>
       <name><languageId>az</languageId><trName>Vivey</trName></name>
       <name><languageId>bg</languageId><trName>Виви</trName></name>
-      <name><languageId>bn</languageId><trName>ভেভেয়, ইন্ডিয়ানা</trName></name>
+      <name><languageId>bn</languageId><trName>ভেভেয়</trName></name>
       <name><languageId>brx</languageId><trName>वेवे</trName></name>
-      <name><languageId>bs</languageId><trName>Vevej, Indijana</trName></name>
-      <name><languageId>ca</languageId><trName>Vevay, Indiana</trName></name>
-      <name><languageId>cs</languageId><trName>Vevay, Indiana</trName></name>
-      <name><languageId>cy</languageId><trName>Vevay, Indiana</trName></name>
-      <name><languageId>da</languageId><trName>Vevay, Indiana</trName></name>
-      <name><languageId>de</languageId><trName>Vevay, Indiana</trName></name>
-      <name><languageId>el</languageId><trName>Βεβάι, Ιντιάνα</trName></name>
-      <name><languageId>es</languageId><trName>Vevay, Indiana</trName></name>
-      <name><languageId>et</languageId><trName>Vevay, Indiana</trName></name>
-      <name><languageId>eu</languageId><trName>Vevay, Indiana</trName></name>
-      <name><languageId>fa</languageId><trName>ویوی، ایندیانا</trName></name>
-      <name><languageId>fi</languageId><trName>Vevay, Indiana</trName></name>
-      <name><languageId>fil</languageId><trName>Vevay, Indiana</trName></name>
-      <name><languageId>fr</languageId><trName>Vevay [Indiana]</trName></name>
-      <name><languageId>gl</languageId><trName>Vevay, Indiana</trName></name>
-      <name><languageId>gu</languageId><trName>વેવૈ, ઇન્ડિયાના</trName></name>
-      <name><languageId>he</languageId><trName>ויוואיי, אינדיאנה</trName></name>
-      <name><languageId>hi</languageId><trName>वेवे, इंडियाना</trName></name>
-      <name><languageId>hr</languageId><trName>Vevay, Indiana</trName></name>
-      <name><languageId>hu</languageId><trName>Vevay, Indiana</trName></name>
-      <name><languageId>hy</languageId><trName>Վիվեյ, Ինդիանա</trName></name>
-      <name><languageId>id</languageId><trName>Vevay, Indiana</trName></name>
-      <name><languageId>is</languageId><trName>Vevay, Indiana</trName></name>
-      <name><languageId>it</languageId><trName>Vevay, Indiana</trName></name>
-      <name><languageId>ja</languageId><trName>インディアナ州ビベー</trName></name>
-      <name><languageId>ka</languageId><trName>ვივეი, ინდიანა</trName></name>
-      <name><languageId>kk</languageId><trName>Вивей, Индиана</trName></name>
-      <name><languageId>km</languageId><trName>វេវ៉ៃ ឥណ្ឌា</trName></name>
-      <name><languageId>kn</languageId><trName>ವೇವಾಯ್, ಇಂಡಿಯಾನಾ</trName></name>
-      <name><languageId>ko</languageId><trName>자포로제</trName></name>
+      <name><languageId>bs</languageId><trName>Vevej</trName></name>
+      <name><languageId>ca</languageId><trName>Vevay</trName></name>
+      <name><languageId>cs</languageId><trName>Vevay</trName></name>
+      <name><languageId>cy</languageId><trName>Vevay</trName></name>
+      <name><languageId>da</languageId><trName>Vevay</trName></name>
+      <name><languageId>de</languageId><trName>Vevay</trName></name>
+      <name><languageId>el</languageId><trName>Βεβάι</trName></name>
+      <name><languageId>es</languageId><trName>Vevay</trName></name>
+      <name><languageId>et</languageId><trName>Vevay</trName></name>
+      <name><languageId>eu</languageId><trName>Vevay</trName></name>
+      <name><languageId>fa</languageId><trName>ویوی</trName></name>
+      <name><languageId>fi</languageId><trName>Vevay</trName></name>
+      <name><languageId>fil</languageId><trName>Vevay</trName></name>
+      <name><languageId>fr</languageId><trName>Vevay</trName></name>
+      <name><languageId>gl</languageId><trName>Vevay</trName></name>
+      <name><languageId>gu</languageId><trName>વેવૈ</trName></name>
+      <name><languageId>he</languageId><trName>ויוואיי</trName></name>
+      <name><languageId>hi</languageId><trName>वेवे</trName></name>
+      <name><languageId>hr</languageId><trName>Vevay</trName></name>
+      <name><languageId>hu</languageId><trName>Vevay</trName></name>
+      <name><languageId>hy</languageId><trName>Վիվեյ</trName></name>
+      <name><languageId>id</languageId><trName>Vevay</trName></name>
+      <name><languageId>is</languageId><trName>Vevay</trName></name>
+      <name><languageId>it</languageId><trName>Vevay</trName></name>
+      <name><languageId>ja</languageId><trName>ビベー</trName></name>
+      <name><languageId>ka</languageId><trName>ვივეი</trName></name>
+      <name><languageId>kk</languageId><trName>Вивей</trName></name>
+      <name><languageId>km</languageId><trName>វេវ៉ៃ</trName></name>
+      <name><languageId>kn</languageId><trName>ವೇವಾಯ್</trName></name>
       <name><languageId>ks</languageId><trName>ویٚویے</trName></name>
-      <name><languageId>ky</languageId><trName>Вивей, Индиана</trName></name>
-      <name><languageId>lo</languageId><trName>ວີເວ, ອິນດີເອນາ</trName></name>
-      <name><languageId>lt</languageId><trName>Vivis, Indiana</trName></name>
-      <name><languageId>lv</languageId><trName>Vīveja, Indiāna</trName></name>
-      <name><languageId>mk</languageId><trName>Вивеј, Индијана</trName></name>
-      <name><languageId>ml</languageId><trName>വിവെയ്, ഇൻഡ്യാന</trName></name>
-      <name><languageId>mn</languageId><trName>Вивей, Индиана</trName></name>
-      <name><languageId>mr</languageId><trName>वेवाय-इंडियाना</trName></name>
-      <name><languageId>ms</languageId><trName>Vevay, Indiana</trName></name>
-      <name><languageId>my</languageId><trName>ဗီဗဲ အင်ဒီအားနား</trName></name>
-      <name><languageId>nb</languageId><trName>Vevay, Indiana</trName></name>
-      <name><languageId>ne</languageId><trName>भेभे, इन्डियाना</trName></name>
-      <name><languageId>nl</languageId><trName>Vevay, Indiana</trName></name>
+      <name><languageId>ky</languageId><trName>Вивей</trName></name>
+      <name><languageId>lo</languageId><trName>ວີເວ</trName></name>
+      <name><languageId>lt</languageId><trName>Vivis</trName></name>
+      <name><languageId>lv</languageId><trName>Vīveja</trName></name>
+      <name><languageId>mk</languageId><trName>Вивеј</trName></name>
+      <name><languageId>ml</languageId><trName>വിവെയ്</trName></name>
+      <name><languageId>mn</languageId><trName>Вивей</trName></name>
+      <name><languageId>mr</languageId><trName>वेवाय</trName></name>
+      <name><languageId>ms</languageId><trName>Vevay</trName></name>
+      <name><languageId>my</languageId><trName>ဗီဗဲ</trName></name>
+      <name><languageId>nb</languageId><trName>Vevay</trName></name>
+      <name><languageId>ne</languageId><trName>भेभे</trName></name>
+      <name><languageId>nl</languageId><trName>Vevay</trName></name>
       <name><languageId>pa</languageId><trName>ਵੇਵੇ</trName></name>
       <name><languageId>pl</languageId><trName>Vevay</trName></name>
-      <name><languageId>pt</languageId><trName>Vevay, Indiana</trName></name>
-      <name><languageId>ro</languageId><trName>Vevay, Indiana</trName></name>
+      <name><languageId>pt</languageId><trName>Vevay</trName></name>
+      <name><languageId>ro</languageId><trName>Vevay</trName></name>
       <name><languageId>ru</languageId><trName>Вивэй</trName></name>
-      <name><languageId>si</languageId><trName>වෙවේ, ඉන්දියානා</trName></name>
-      <name><languageId>sk</languageId><trName>Vevay, Indiana</trName></name>
-      <name><languageId>sl</languageId><trName>Vevay, Indiana</trName></name>
-      <name><languageId>sq</languageId><trName>Vevëj, Indiana</trName></name>
-      <name><languageId>sr</languageId><trName>Вевај, Индијана</trName></name>
-      <name><languageId>sr_Latn</languageId><trName>Vevaj, Indijana</trName></name>
-      <name><languageId>sv</languageId><trName>Vevay, Indiana</trName></name>
-      <name><languageId>sw</languageId><trName>Vevay, Indiana</trName></name>
-      <name><languageId>ta</languageId><trName>வேவே, இண்டியானா</trName></name>
-      <name><languageId>te</languageId><trName>వెవయ్, ఇండియాన</trName></name>
-      <name><languageId>th</languageId><trName>วีเวย์, อินดีแอนา</trName></name>
-      <name><languageId>tr</languageId><trName>Vevay, Indiana</trName></name>
+      <name><languageId>si</languageId><trName>වෙවේ</trName></name>
+      <name><languageId>sk</languageId><trName>Vevay</trName></name>
+      <name><languageId>sl</languageId><trName>Vevay</trName></name>
+      <name><languageId>sq</languageId><trName>Vevëj</trName></name>
+      <name><languageId>sr</languageId><trName>Вевај</trName></name>
+      <name><languageId>sr_Latn</languageId><trName>Vevaj</trName></name>
+      <name><languageId>sv</languageId><trName>Vevay</trName></name>
+      <name><languageId>sw</languageId><trName>Vevay</trName></name>
+      <name><languageId>ta</languageId><trName>வேவே</trName></name>
+      <name><languageId>te</languageId><trName>వెవయ్</trName></name>
+      <name><languageId>th</languageId><trName>วีเวย์</trName></name>
+      <name><languageId>tr</languageId><trName>Vevay</trName></name>
       <name><languageId>uk</languageId><trName>Вівей</trName></name>
-      <name><languageId>ur</languageId><trName>ویوے، انڈیانا</trName></name>
-      <name><languageId>uz</languageId><trName>Vevay, Indiana</trName></name>
-      <name><languageId>vi</languageId><trName>Vevay, Indiana</trName></name>
-      <name><languageId>zh</languageId><trName>印第安纳州维维市</trName></name>
-      <name><languageId>zh_Hant</languageId><trName>印第安那州維威</trName></name>
+      <name><languageId>ur</languageId><trName>ویوے،</trName></name>
+      <name><languageId>uz</languageId><trName>Vevay</trName></name>
+      <name><languageId>vi</languageId><trName>Vevay</trName></name>
+      <name><languageId>zh</languageId><trName>维维市</trName></name>
+      <name><languageId>zh_Hant</languageId><trName>維威</trName></name>
     </names>
   </timezoneIdPart>
   <timezoneIdPart>
@@ -31145,81 +31285,81 @@
   <timezoneIdPart>
     <timezoneIdPartId>Vincennes</timezoneIdPartId>
     <names>
-      <name><languageId>af</languageId><trName>Vincennes, Indiana</trName></name>
-      <name><languageId>am</languageId><trName>ቪንቼንስ, ኢንዲያና</trName></name>
+      <name><languageId>af</languageId><trName>Vincennes</trName></name>
+      <name><languageId>am</languageId><trName>ቪንቼንስ</trName></name>
       <name><languageId>ar</languageId><trName>فينسينس</trName></name>
-      <name><languageId>ast</languageId><trName>Vincennes, Indiana</trName></name>
+      <name><languageId>ast</languageId><trName>Vincennes</trName></name>
       <name><languageId>az</languageId><trName>Vinsen</trName></name>
       <name><languageId>bg</languageId><trName>Винсенс</trName></name>
-      <name><languageId>bn</languageId><trName>ভিনসেন্নেস, ইন্ডিয়ানা</trName></name>
+      <name><languageId>bn</languageId><trName>ভিনসেন্নেস</trName></name>
       <name><languageId>brx</languageId><trName>वॅंसेन्</trName></name>
-      <name><languageId>bs</languageId><trName>Vincenis, Indijana</trName></name>
-      <name><languageId>ca</languageId><trName>Vincennes, Indiana</trName></name>
-      <name><languageId>cs</languageId><trName>Vincennes, Indiana</trName></name>
-      <name><languageId>cy</languageId><trName>Vincennes, Indiana</trName></name>
-      <name><languageId>da</languageId><trName>Vincennes, Indiana</trName></name>
-      <name><languageId>de</languageId><trName>Vincennes, Indiana</trName></name>
-      <name><languageId>el</languageId><trName>Βίνκενες, Ιντιάνα</trName></name>
-      <name><languageId>es</languageId><trName>Vincennes, Indiana</trName></name>
-      <name><languageId>et</languageId><trName>Vincennes, Indiana</trName></name>
-      <name><languageId>eu</languageId><trName>Vincennes, Indiana</trName></name>
-      <name><languageId>fa</languageId><trName>وینسنس، اندیانا</trName></name>
-      <name><languageId>fi</languageId><trName>Vincennes, Indiana</trName></name>
-      <name><languageId>fil</languageId><trName>Vincennes, Indiana</trName></name>
-      <name><languageId>fr</languageId><trName>Vincennes [Indiana]</trName></name>
-      <name><languageId>gl</languageId><trName>Vincennes, Indiana</trName></name>
-      <name><languageId>gu</languageId><trName>વેસેંન, ઇન્ડિયાના</trName></name>
-      <name><languageId>he</languageId><trName>וינסנס, אינדיאנה</trName></name>
-      <name><languageId>hi</languageId><trName>विंसेनेस, इंडियाना</trName></name>
-      <name><languageId>hr</languageId><trName>Vincennes, Indiana</trName></name>
-      <name><languageId>hu</languageId><trName>Vincennes, Indiana</trName></name>
-      <name><languageId>hy</languageId><trName>Վինսենս, Ինդիանա</trName></name>
-      <name><languageId>id</languageId><trName>Vincennes, Indiana</trName></name>
-      <name><languageId>is</languageId><trName>Vincennes, Indiana</trName></name>
-      <name><languageId>it</languageId><trName>Vincennes, Indiana</trName></name>
-      <name><languageId>ja</languageId><trName>インディアナ州ビンセンス</trName></name>
-      <name><languageId>ka</languageId><trName>ვინსენი, ინდიანა</trName></name>
-      <name><languageId>kk</languageId><trName>Винсенс, Индиана</trName></name>
-      <name><languageId>km</languageId><trName>វិនសេណេស ឥណ្ឌា</trName></name>
-      <name><languageId>kn</languageId><trName>ವಿನ್‌ಸೆನ್ನೀಸ್, ಇಂಡಿಯಾನಾ</trName></name>
-      <name><languageId>ko</languageId><trName>인디아나주, 뱅센</trName></name>
+      <name><languageId>bs</languageId><trName>Vincenis</trName></name>
+      <name><languageId>ca</languageId><trName>Vincennes</trName></name>
+      <name><languageId>cs</languageId><trName>Vincennes</trName></name>
+      <name><languageId>cy</languageId><trName>Vincennes</trName></name>
+      <name><languageId>da</languageId><trName>Vincennes</trName></name>
+      <name><languageId>de</languageId><trName>Vincennes</trName></name>
+      <name><languageId>el</languageId><trName>Βίνκενες</trName></name>
+      <name><languageId>es</languageId><trName>Vincennes</trName></name>
+      <name><languageId>et</languageId><trName>Vincennes</trName></name>
+      <name><languageId>eu</languageId><trName>Vincennes</trName></name>
+      <name><languageId>fa</languageId><trName>وینسنس</trName></name>
+      <name><languageId>fi</languageId><trName>Vincennes</trName></name>
+      <name><languageId>fil</languageId><trName>Vincennes</trName></name>
+      <name><languageId>fr</languageId><trName>Vincennes</trName></name>
+      <name><languageId>gl</languageId><trName>Vincennes</trName></name>
+      <name><languageId>gu</languageId><trName>વેસેંન</trName></name>
+      <name><languageId>he</languageId><trName>וינסנס</trName></name>
+      <name><languageId>hi</languageId><trName>विंसेनेस</trName></name>
+      <name><languageId>hr</languageId><trName>Vincennes</trName></name>
+      <name><languageId>hu</languageId><trName>Vincennes</trName></name>
+      <name><languageId>hy</languageId><trName>Վինսենս</trName></name>
+      <name><languageId>id</languageId><trName>Vincennes</trName></name>
+      <name><languageId>is</languageId><trName>Vincennes</trName></name>
+      <name><languageId>it</languageId><trName>Vincennes</trName></name>
+      <name><languageId>ja</languageId><trName>ビンセンス</trName></name>
+      <name><languageId>ka</languageId><trName>ვინსენი</trName></name>
+      <name><languageId>kk</languageId><trName>Винсенс</trName></name>
+      <name><languageId>km</languageId><trName>វិនសេណេស</trName></name>
+      <name><languageId>kn</languageId><trName>ವಿನ್‌ಸೆನ್ನೀಸ್</trName></name>
+      <name><languageId>ko</languageId><trName>뱅센</trName></name>
       <name><languageId>ks</languageId><trName>وِنسیٚنیٚس</trName></name>
-      <name><languageId>ky</languageId><trName>Венсен, Индиана</trName></name>
-      <name><languageId>lo</languageId><trName>ວິນເຊນເນັດ, ອິນດີເອນາ</trName></name>
-      <name><languageId>lt</languageId><trName>Vinsenas, Indiana</trName></name>
-      <name><languageId>lv</languageId><trName>Vinsensa, Indiāna</trName></name>
-      <name><languageId>mk</languageId><trName>Венсен, Индијана</trName></name>
-      <name><languageId>ml</languageId><trName>വിൻസെൻസ്, ഇൻഡ്യാന</trName></name>
-      <name><languageId>mn</languageId><trName>Винсенес, Индиана</trName></name>
-      <name><languageId>mr</languageId><trName>विंसेनस, इंडियाना</trName></name>
-      <name><languageId>ms</languageId><trName>Vincennes, Indiana</trName></name>
-      <name><languageId>my</languageId><trName>ဗင်ဆင့်စ် အင်ဒီအားနား</trName></name>
-      <name><languageId>nb</languageId><trName>Vincennes, Indiana</trName></name>
+      <name><languageId>ky</languageId><trName>Венсен</trName></name>
+      <name><languageId>lo</languageId><trName>ວິນເຊນເນັດ</trName></name>
+      <name><languageId>lt</languageId><trName>Vinsenas</trName></name>
+      <name><languageId>lv</languageId><trName>Vinsensa</trName></name>
+      <name><languageId>mk</languageId><trName>Венсен</trName></name>
+      <name><languageId>ml</languageId><trName>വിൻസെൻസ്</trName></name>
+      <name><languageId>mn</languageId><trName>Винсенес</trName></name>
+      <name><languageId>mr</languageId><trName>विंसेनस</trName></name>
+      <name><languageId>ms</languageId><trName>Vincennes</trName></name>
+      <name><languageId>my</languageId><trName>ဗင်ဆင့်စ်</trName></name>
+      <name><languageId>nb</languageId><trName>Vincennes</trName></name>
       <name><languageId>ne</languageId><trName>भिन्सेन्स</trName></name>
-      <name><languageId>nl</languageId><trName>Vincennes, Indiana</trName></name>
-      <name><languageId>pa</languageId><trName>ਵਿੰਸੇਨੇਸ, ਇੰਡੀਆਨਾ</trName></name>
+      <name><languageId>nl</languageId><trName>Vincennes</trName></name>
+      <name><languageId>pa</languageId><trName>ਵਿੰਸੇਨੇਸ</trName></name>
       <name><languageId>pl</languageId><trName>Vincennes</trName></name>
-      <name><languageId>pt</languageId><trName>Vincennes, Indiana</trName></name>
-      <name><languageId>ro</languageId><trName>Vincennes, Indiana</trName></name>
+      <name><languageId>pt</languageId><trName>Vincennes</trName></name>
+      <name><languageId>ro</languageId><trName>Vincennes</trName></name>
       <name><languageId>ru</languageId><trName>Винсенс</trName></name>
-      <name><languageId>si</languageId><trName>වින්සනස්, ඉන්දියානා</trName></name>
-      <name><languageId>sk</languageId><trName>Vincennes, Indiana</trName></name>
-      <name><languageId>sl</languageId><trName>Vincennes, Indiana</trName></name>
-      <name><languageId>sq</languageId><trName>Vincenes, Indiana</trName></name>
-      <name><languageId>sr</languageId><trName>Винценес, Индијана</trName></name>
-      <name><languageId>sr_Latn</languageId><trName>Vincenes, Indijana</trName></name>
-      <name><languageId>sv</languageId><trName>Vincennes, Indiana</trName></name>
-      <name><languageId>sw</languageId><trName>Vincennes, Indiana</trName></name>
-      <name><languageId>ta</languageId><trName>விண்செனேஸ், இண்டியானா</trName></name>
-      <name><languageId>te</languageId><trName>విన్‌సెన్నెస్, ఇండియాన</trName></name>
-      <name><languageId>th</languageId><trName>วินเซนเนส, อินดีแอนา</trName></name>
-      <name><languageId>tr</languageId><trName>Vincennes, Indiana</trName></name>
+      <name><languageId>si</languageId><trName>වින්සනස්</trName></name>
+      <name><languageId>sk</languageId><trName>Vincennes</trName></name>
+      <name><languageId>sl</languageId><trName>Vincennes</trName></name>
+      <name><languageId>sq</languageId><trName>Vincenes</trName></name>
+      <name><languageId>sr</languageId><trName>Винценес</trName></name>
+      <name><languageId>sr_Latn</languageId><trName>Vincenes</trName></name>
+      <name><languageId>sv</languageId><trName>Vincennes</trName></name>
+      <name><languageId>sw</languageId><trName>Vincennes</trName></name>
+      <name><languageId>ta</languageId><trName>விண்செனேஸ்</trName></name>
+      <name><languageId>te</languageId><trName>విన్‌సెన్నెస్</trName></name>
+      <name><languageId>th</languageId><trName>วินเซนเนส</trName></name>
+      <name><languageId>tr</languageId><trName>Vincennes</trName></name>
       <name><languageId>uk</languageId><trName>Вінсенс</trName></name>
-      <name><languageId>ur</languageId><trName>ونسینیز، انڈیانا</trName></name>
-      <name><languageId>uz</languageId><trName>Vincennes, Indiana</trName></name>
-      <name><languageId>vi</languageId><trName>Vincennes, Indiana</trName></name>
-      <name><languageId>zh</languageId><trName>印第安纳州温森斯</trName></name>
-      <name><languageId>zh_Hant</languageId><trName>印第安那州溫森斯</trName></name>
+      <name><languageId>ur</languageId><trName>ونسینیز</trName></name>
+      <name><languageId>uz</languageId><trName>Vincennes</trName></name>
+      <name><languageId>vi</languageId><trName>Vincennes</trName></name>
+      <name><languageId>zh</languageId><trName>温森斯</trName></name>
+      <name><languageId>zh_Hant</languageId><trName>溫森斯</trName></name>
     </names>
   </timezoneIdPart>
   <timezoneIdPart>
@@ -31781,81 +31921,81 @@
   <timezoneIdPart>
     <timezoneIdPartId>Winamac</timezoneIdPartId>
     <names>
-      <name><languageId>af</languageId><trName>Winamac, Indiana</trName></name>
-      <name><languageId>am</languageId><trName>ዊናማክ, ኢንዲያና</trName></name>
+      <name><languageId>af</languageId><trName>Winamac</trName></name>
+      <name><languageId>am</languageId><trName>ዊናማክ</trName></name>
       <name><languageId>ar</languageId><trName>ويناماك</trName></name>
-      <name><languageId>ast</languageId><trName>Winamac, Indiana</trName></name>
+      <name><languageId>ast</languageId><trName>Winamac</trName></name>
       <name><languageId>az</languageId><trName>Vinamak</trName></name>
       <name><languageId>bg</languageId><trName>Уинамак</trName></name>
-      <name><languageId>bn</languageId><trName>উইনাম্যাক, ইন্ডিয়ানা</trName></name>
+      <name><languageId>bn</languageId><trName>উইনাম্যাক</trName></name>
       <name><languageId>brx</languageId><trName>विनामॅक</trName></name>
-      <name><languageId>bs</languageId><trName>Vinamak, Indijana</trName></name>
-      <name><languageId>ca</languageId><trName>Winamac, Indiana</trName></name>
-      <name><languageId>cs</languageId><trName>Winamac, Indiana</trName></name>
-      <name><languageId>cy</languageId><trName>Winamac, Indiana</trName></name>
-      <name><languageId>da</languageId><trName>Winamac, Indiana</trName></name>
-      <name><languageId>de</languageId><trName>Winamac, Indiana</trName></name>
-      <name><languageId>el</languageId><trName>Γουίναμακ, Ιντιάνα</trName></name>
-      <name><languageId>es</languageId><trName>Winamac, Indiana</trName></name>
-      <name><languageId>et</languageId><trName>Winamac, Indiana</trName></name>
-      <name><languageId>eu</languageId><trName>Winamac, Indiana</trName></name>
-      <name><languageId>fa</languageId><trName>ویناماک، ایندیانا</trName></name>
-      <name><languageId>fi</languageId><trName>Winamac, Indiana</trName></name>
-      <name><languageId>fil</languageId><trName>Winamac, Indiana</trName></name>
-      <name><languageId>fr</languageId><trName>Winamac [Indiana]</trName></name>
-      <name><languageId>gl</languageId><trName>Winamac, Indiana</trName></name>
-      <name><languageId>gu</languageId><trName>વિનામેક,ઇન્ડિયાના</trName></name>
-      <name><languageId>he</languageId><trName>וינמאק, אינדיאנה</trName></name>
-      <name><languageId>hi</languageId><trName>विनामेक, इंडियाना</trName></name>
-      <name><languageId>hr</languageId><trName>Winamac, Indiana</trName></name>
-      <name><languageId>hu</languageId><trName>Winamac, Indiana</trName></name>
-      <name><languageId>hy</languageId><trName>Վինամակ, Ինդիանա</trName></name>
-      <name><languageId>id</languageId><trName>Winamac, Indiana</trName></name>
-      <name><languageId>is</languageId><trName>Winamac, Indiana</trName></name>
-      <name><languageId>it</languageId><trName>Winamac, Indiana</trName></name>
-      <name><languageId>ja</languageId><trName>インディアナ州ウィナマック</trName></name>
-      <name><languageId>ka</languageId><trName>უინემაკი, ინდიანა</trName></name>
-      <name><languageId>kk</languageId><trName>Винамак, Индиана</trName></name>
-      <name><languageId>km</languageId><trName>វីណាម៉ាក់ ឥណ្ឌា</trName></name>
-      <name><languageId>kn</languageId><trName>ವಿನಾಮೆಕ್, ಇಂಡಿಯಾನಾ</trName></name>
-      <name><languageId>ko</languageId><trName>인디아나주, 워너맥</trName></name>
+      <name><languageId>bs</languageId><trName>Vinamak</trName></name>
+      <name><languageId>ca</languageId><trName>Winamac</trName></name>
+      <name><languageId>cs</languageId><trName>Winamac</trName></name>
+      <name><languageId>cy</languageId><trName>Winamac</trName></name>
+      <name><languageId>da</languageId><trName>Winamac</trName></name>
+      <name><languageId>de</languageId><trName>Winamac</trName></name>
+      <name><languageId>el</languageId><trName>Γουίναμακ</trName></name>
+      <name><languageId>es</languageId><trName>Winamac</trName></name>
+      <name><languageId>et</languageId><trName>Winamac</trName></name>
+      <name><languageId>eu</languageId><trName>Winamac</trName></name>
+      <name><languageId>fa</languageId><trName>ویناماک</trName></name>
+      <name><languageId>fi</languageId><trName>Winamac</trName></name>
+      <name><languageId>fil</languageId><trName>Winamac</trName></name>
+      <name><languageId>fr</languageId><trName>Winamac</trName></name>
+      <name><languageId>gl</languageId><trName>Winamac</trName></name>
+      <name><languageId>gu</languageId><trName>વિનામેક</trName></name>
+      <name><languageId>he</languageId><trName>וינמאק</trName></name>
+      <name><languageId>hi</languageId><trName>विनामेक</trName></name>
+      <name><languageId>hr</languageId><trName>Winamac</trName></name>
+      <name><languageId>hu</languageId><trName>Winamac</trName></name>
+      <name><languageId>hy</languageId><trName>Վինամակ</trName></name>
+      <name><languageId>id</languageId><trName>Winamac</trName></name>
+      <name><languageId>is</languageId><trName>Winamac</trName></name>
+      <name><languageId>it</languageId><trName>Winamac</trName></name>
+      <name><languageId>ja</languageId><trName>ウィナマック</trName></name>
+      <name><languageId>ka</languageId><trName>უინემაკი</trName></name>
+      <name><languageId>kk</languageId><trName>Винамак</trName></name>
+      <name><languageId>km</languageId><trName>វីណាម៉ាក់</trName></name>
+      <name><languageId>kn</languageId><trName>ವಿನಾಮೆಕ್</trName></name>
+      <name><languageId>ko</languageId><trName>워너맥</trName></name>
       <name><languageId>ks</languageId><trName>وِنیمیک</trName></name>
-      <name><languageId>ky</languageId><trName>Уинамак, Индиана</trName></name>
-      <name><languageId>lo</languageId><trName>ວິນນາແມັກ, ອິນດີເອນາ</trName></name>
-      <name><languageId>lt</languageId><trName>Vinamakas, Indiana</trName></name>
-      <name><languageId>lv</languageId><trName>Vinimaka, Indiāna</trName></name>
-      <name><languageId>mk</languageId><trName>Винамак, Индијана</trName></name>
-      <name><languageId>ml</languageId><trName>വിനാമാക്, ഇൻഡ്യാന</trName></name>
-      <name><languageId>mn</languageId><trName>Винамак, Индиана</trName></name>
-      <name><languageId>mr</languageId><trName>विनमॅक, इंडियाना</trName></name>
-      <name><languageId>ms</languageId><trName>Winamac, Indiana</trName></name>
-      <name><languageId>my</languageId><trName>ဝီနာမက်ခ် အင်ဒီအားနား</trName></name>
-      <name><languageId>nb</languageId><trName>Winamac, Indiana</trName></name>
-      <name><languageId>ne</languageId><trName>विनामाक, इन्डियाना</trName></name>
-      <name><languageId>nl</languageId><trName>Winamac, Indiana</trName></name>
-      <name><languageId>pa</languageId><trName>ਵਿਨਮੈਕ, ਇੰਡੀਆਨਾ</trName></name>
+      <name><languageId>ky</languageId><trName>Уинамак</trName></name>
+      <name><languageId>lo</languageId><trName>ວິນນາແມັກ</trName></name>
+      <name><languageId>lt</languageId><trName>Vinamakas</trName></name>
+      <name><languageId>lv</languageId><trName>Vinimaka</trName></name>
+      <name><languageId>mk</languageId><trName>Винамак</trName></name>
+      <name><languageId>ml</languageId><trName>വിനാമാക്</trName></name>
+      <name><languageId>mn</languageId><trName>Винамак</trName></name>
+      <name><languageId>mr</languageId><trName>विनमॅक</trName></name>
+      <name><languageId>ms</languageId><trName>Winamac</trName></name>
+      <name><languageId>my</languageId><trName>ဝီနာမက်ခ်</trName></name>
+      <name><languageId>nb</languageId><trName>Winamac</trName></name>
+      <name><languageId>ne</languageId><trName>विनामाक</trName></name>
+      <name><languageId>nl</languageId><trName>Winamac</trName></name>
+      <name><languageId>pa</languageId><trName>ਵਿਨਮੈਕ</trName></name>
       <name><languageId>pl</languageId><trName>Winamac</trName></name>
-      <name><languageId>pt</languageId><trName>Winamac, Indiana</trName></name>
-      <name><languageId>ro</languageId><trName>Winamac, Indiana</trName></name>
+      <name><languageId>pt</languageId><trName>Winamac</trName></name>
+      <name><languageId>ro</languageId><trName>Winamac</trName></name>
       <name><languageId>ru</languageId><trName>Винамак</trName></name>
-      <name><languageId>si</languageId><trName>විනමැක්, ඉන්දියානා</trName></name>
-      <name><languageId>sk</languageId><trName>Winamac, Indiana</trName></name>
-      <name><languageId>sl</languageId><trName>Winamac, Indiana</trName></name>
-      <name><languageId>sq</languageId><trName>Uinamak, Indiana</trName></name>
-      <name><languageId>sr</languageId><trName>Винамак, Индијана</trName></name>
-      <name><languageId>sr_Latn</languageId><trName>Vinamak, Indijana</trName></name>
-      <name><languageId>sv</languageId><trName>Winamac, Indiana</trName></name>
-      <name><languageId>sw</languageId><trName>Winamac, Indiana</trName></name>
-      <name><languageId>ta</languageId><trName>வினாமேக், இண்டியானா</trName></name>
-      <name><languageId>te</languageId><trName>వినిమాక్, ఇండియాన</trName></name>
-      <name><languageId>th</languageId><trName>วินาแมค, อินดีแอนา</trName></name>
-      <name><languageId>tr</languageId><trName>Winamac, Indiana</trName></name>
+      <name><languageId>si</languageId><trName>විනමැක්</trName></name>
+      <name><languageId>sk</languageId><trName>Winamac</trName></name>
+      <name><languageId>sl</languageId><trName>Winamac</trName></name>
+      <name><languageId>sq</languageId><trName>Uinamak</trName></name>
+      <name><languageId>sr</languageId><trName>Винамак</trName></name>
+      <name><languageId>sr_Latn</languageId><trName>Vinamak</trName></name>
+      <name><languageId>sv</languageId><trName>Winamac</trName></name>
+      <name><languageId>sw</languageId><trName>Winamac</trName></name>
+      <name><languageId>ta</languageId><trName>வினாமேக்</trName></name>
+      <name><languageId>te</languageId><trName>వినిమాక్</trName></name>
+      <name><languageId>th</languageId><trName>วินาแมค</trName></name>
+      <name><languageId>tr</languageId><trName>Winamac</trName></name>
       <name><languageId>uk</languageId><trName>Вінамак</trName></name>
-      <name><languageId>ur</languageId><trName>وینامیک، انڈیانا</trName></name>
-      <name><languageId>uz</languageId><trName>Winamac, Indiana</trName></name>
-      <name><languageId>vi</languageId><trName>Winamac, Indiana</trName></name>
-      <name><languageId>zh</languageId><trName>印第安纳州威纳马克</trName></name>
-      <name><languageId>zh_Hant</languageId><trName>威納麥克，印第安那州</trName></name>
+      <name><languageId>ur</languageId><trName>وینامیک</trName></name>
+      <name><languageId>uz</languageId><trName>Winamac</trName></name>
+      <name><languageId>vi</languageId><trName>Winamac</trName></name>
+      <name><languageId>zh</languageId><trName>威纳马克</trName></name>
+      <name><languageId>zh_Hant</languageId><trName>威納麥克</trName></name>
     </names>
   </timezoneIdPart>
   <timezoneIdPart>
