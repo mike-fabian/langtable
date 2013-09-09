@@ -13161,6 +13161,127 @@
     </timezones>
   </territory>
   <territory>
+    <territoryId>NU</territoryId>
+    <names>
+      <name><languageId>af</languageId><trName>Niue</trName></name>
+      <name><languageId>ak</languageId><trName>Niyu</trName></name>
+      <name><languageId>am</languageId><trName>ኒኡይ</trName></name>
+      <name><languageId>ar</languageId><trName>نيوي</trName></name>
+      <name><languageId>ast</languageId><trName>Niue</trName></name>
+      <name><languageId>az</languageId><trName>Niue</trName></name>
+      <name><languageId>be</languageId><trName>Ніуэ</trName></name>
+      <name><languageId>bg</languageId><trName>Ниуе</trName></name>
+      <name><languageId>bn</languageId><trName>নিউয়ে</trName></name>
+      <name><languageId>bo</languageId><trName>ནིའུ་ཝ།</trName></name>
+      <name><languageId>br</languageId><trName>Niue</trName></name>
+      <name><languageId>brx</languageId><trName>नीयूए</trName></name>
+      <name><languageId>bs</languageId><trName>Niue</trName></name>
+      <name><languageId>ca</languageId><trName>Niue</trName></name>
+      <name><languageId>cs</languageId><trName>Niue</trName></name>
+      <name><languageId>cy</languageId><trName>Niue</trName></name>
+      <name><languageId>da</languageId><trName>Niue</trName></name>
+      <name><languageId>de</languageId><trName>Niue</trName></name>
+      <name><languageId>dz</languageId><trName>ནི་ཨུ་ཨཻ</trName></name>
+      <name><languageId>el</languageId><trName>Νιούε</trName></name>
+      <name><languageId>en</languageId><trName>Niue</trName></name>
+      <name><languageId>eo</languageId><trName>Niuo</trName></name>
+      <name><languageId>es</languageId><trName>Isla Niue</trName></name>
+      <name><languageId>et</languageId><trName>Niue</trName></name>
+      <name><languageId>eu</languageId><trName>Niue</trName></name>
+      <name><languageId>fa</languageId><trName>نیوئه</trName></name>
+      <name><languageId>ff</languageId><trName>Niuwe</trName></name>
+      <name><languageId>fi</languageId><trName>Niue</trName></name>
+      <name><languageId>fil</languageId><trName>Niue</trName></name>
+      <name><languageId>fo</languageId><trName>Niue</trName></name>
+      <name><languageId>fr</languageId><trName>Niue</trName></name>
+      <name><languageId>fur</languageId><trName>Niue</trName></name>
+      <name><languageId>ga</languageId><trName>Nívé</trName></name>
+      <name><languageId>gd</languageId><trName>Niue</trName></name>
+      <name><languageId>gl</languageId><trName>Niue</trName></name>
+      <name><languageId>gu</languageId><trName>નીયુ</trName></name>
+      <name><languageId>ha</languageId><trName>Niyu</trName></name>
+      <name><languageId>he</languageId><trName>ניווה</trName></name>
+      <name><languageId>hi</languageId><trName>नीयू</trName></name>
+      <name><languageId>hr</languageId><trName>Niue</trName></name>
+      <name><languageId>hu</languageId><trName>Niue</trName></name>
+      <name><languageId>hy</languageId><trName>Նիուե</trName></name>
+      <name><languageId>id</languageId><trName>Niue</trName></name>
+      <name><languageId>is</languageId><trName>Niue</trName></name>
+      <name><languageId>it</languageId><trName>Niue</trName></name>
+      <name><languageId>ja</languageId><trName>ニウエ島</trName></name>
+      <name><languageId>ka</languageId><trName>ნიუე</trName></name>
+      <name><languageId>kk</languageId><trName>Ниуэ</trName></name>
+      <name><languageId>kl</languageId><trName>Niue</trName></name>
+      <name><languageId>km</languageId><trName>ណៀ</trName></name>
+      <name><languageId>kn</languageId><trName>ನಿಯು</trName></name>
+      <name><languageId>ko</languageId><trName>니우에</trName></name>
+      <name><languageId>ks</languageId><trName>نیوٗ</trName></name>
+      <name><languageId>ky</languageId><trName>Ниуэ</trName></name>
+      <name><languageId>lg</languageId><trName>Niyuwe</trName></name>
+      <name><languageId>ln</languageId><trName>Nyué</trName></name>
+      <name><languageId>lo</languageId><trName>ນີອູເອ</trName></name>
+      <name><languageId>lt</languageId><trName>Niujė</trName></name>
+      <name><languageId>lv</languageId><trName>Niue</trName></name>
+      <name><languageId>mg</languageId><trName>Nioé</trName></name>
+      <name><languageId>mk</languageId><trName>Нијуе</trName></name>
+      <name><languageId>ml</languageId><trName>ന്യൂവേ</trName></name>
+      <name><languageId>mn</languageId><trName>Ниуэ</trName></name>
+      <name><languageId>mr</languageId><trName>नीयू</trName></name>
+      <name><languageId>ms</languageId><trName>Niue</trName></name>
+      <name><languageId>mt</languageId><trName>Niue</trName></name>
+      <name><languageId>my</languageId><trName>နီဥူအေ</trName></name>
+      <name><languageId>nb</languageId><trName>Niue</trName></name>
+      <name><languageId>ne</languageId><trName>नियुइ</trName></name>
+      <name><languageId>nl</languageId><trName>Niue</trName></name>
+      <name><languageId>nn</languageId><trName>Niue</trName></name>
+      <name><languageId>or</languageId><trName>ନିଉ</trName></name>
+      <name><languageId>pa</languageId><trName>ਨਿਯੂ</trName></name>
+      <name><languageId>pl</languageId><trName>Niue</trName></name>
+      <name><languageId>pt</languageId><trName>Niue</trName></name>
+      <name><languageId>ro</languageId><trName>Niue</trName></name>
+      <name><languageId>ru</languageId><trName>Ниуэ</trName></name>
+      <name><languageId>se</languageId><trName>Niue</trName></name>
+      <name><languageId>si</languageId><trName>නියූ</trName></name>
+      <name><languageId>sk</languageId><trName>Niue</trName></name>
+      <name><languageId>sl</languageId><trName>Niue</trName></name>
+      <name><languageId>so</languageId><trName>Niue</trName></name>
+      <name><languageId>sq</languageId><trName>Niue</trName></name>
+      <name><languageId>sr</languageId><trName>Ниуе</trName></name>
+      <name><languageId>sr_Latn</languageId><trName>Niue</trName></name>
+      <name><languageId>sv</languageId><trName>Niue</trName></name>
+      <name><languageId>sw</languageId><trName>Niue</trName></name>
+      <name><languageId>ta</languageId><trName>நியூ</trName></name>
+      <name><languageId>te</languageId><trName>నియు</trName></name>
+      <name><languageId>th</languageId><trName>นีอูเอ</trName></name>
+      <name><languageId>ti</languageId><trName>ኒኡይ</trName></name>
+      <name><languageId>tr</languageId><trName>Niue</trName></name>
+      <name><languageId>uk</languageId><trName>Нія</trName></name>
+      <name><languageId>ur</languageId><trName>نیئو</trName></name>
+      <name><languageId>uz</languageId><trName>Niuye</trName></name>
+      <name><languageId>vi</languageId><trName>Niue</trName></name>
+      <name><languageId>wae</languageId><trName>Niue</trName></name>
+      <name><languageId>yo</languageId><trName>Orílẹ́ède Niue</trName></name>
+      <name><languageId>zh</languageId><trName>纽埃</trName></name>
+      <name><languageId>zh_Hant</languageId><trName>紐威島</trName></name>
+      <name><languageId>zu</languageId><trName>i-Niue</trName></name>
+    </names>
+    <locales>
+      <locale><localeId>niu_NU.UTF-8</localeId><rank>1000</rank></locale>
+    </locales>
+    <languages>
+      <language><languageId>niu</languageId><rank>1000</rank></language>
+    </languages>
+    <keyboards>
+      <keyboard><keyboardId>us</keyboardId><rank>1000</rank></keyboard>
+    </keyboards>
+    <consolefonts>
+      <consolefont><consolefontId>latarcyrheb-sun16</consolefontId><rank>1000</rank></consolefont>
+    </consolefonts>
+    <timezones>
+      <timezone><timezoneId>Pacific/Niue</timezoneId><rank>600</rank></timezone>
+    </timezones>
+  </territory>
+  <territory>
     <territoryId>NZ</territoryId>
     <names>
       <name><languageId>af</languageId><trName>Nieu-Seeland</trName></name>
@@ -13273,12 +13394,14 @@
       <name><languageId>zu</languageId><trName>i-New Zealand</trName></name>
     </names>
     <locales>
-      <locale><localeId>en_NZ.UTF-8</localeId><rank>950</rank></locale>
+      <locale><localeId>en_NZ.UTF-8</localeId><rank>940</rank></locale>
       <locale><localeId>mi_NZ.UTF-8</localeId><rank>50</rank></locale>
+      <locale><localeId>niu_NZ.UTF-8</localeId><rank>10</rank></locale>
     </locales>
     <languages>
-      <language><languageId>en</languageId><rank>950</rank></language>
+      <language><languageId>en</languageId><rank>940</rank></language>
       <language><languageId>mi</languageId><rank>50</rank></language>
+      <language><languageId>niu</languageId><rank>10</rank></language>
     </languages>
     <keyboards>
       <keyboard><keyboardId>us</keyboardId><rank>1000</rank></keyboard>

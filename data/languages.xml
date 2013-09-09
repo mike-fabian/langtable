@@ -13327,6 +13327,92 @@
     </timezones>
   </language>
   <language>
+    <languageId>niu</languageId>
+    <iso639-1>None</iso639-1>
+    <iso639-2-t>niu</iso639-2-t>
+    <iso639-2-b>niu</iso639-2-b>
+    <names>
+      <name><languageId>ar</languageId><trName>النيوي</trName></name>
+      <name><languageId>az</languageId><trName>niyuan dili</trName></name>
+      <name><languageId>bg</languageId><trName>ниуеан</trName></name>
+      <name><languageId>bn</languageId><trName>নিউয়ান</trName></name>
+      <name><languageId>br</languageId><trName>niue</trName></name>
+      <name><languageId>brx</languageId><trName>नियुइआन</trName></name>
+      <name><languageId>bs</languageId><trName>niuean</trName></name>
+      <name><languageId>ca</languageId><trName>niueà</trName></name>
+      <name><languageId>cs</languageId><trName>niueština</trName></name>
+      <name><languageId>da</languageId><trName>niuean</trName></name>
+      <name><languageId>de</languageId><trName>Niue-Sprache</trName></name>
+      <name><languageId>el</languageId><trName>Νιούεαν</trName></name>
+      <name><languageId>en</languageId><trName>Niuean</trName></name>
+      <name><languageId>es</languageId><trName>niueano</trName></name>
+      <name><languageId>et</languageId><trName>niue</trName></name>
+      <name><languageId>fa</languageId><trName>نیویی</trName></name>
+      <name><languageId>fi</languageId><trName>niue</trName></name>
+      <name><languageId>fr</languageId><trName>niué</trName></name>
+      <name><languageId>gd</languageId><trName>Cànan Niue</trName></name>
+      <name><languageId>gu</languageId><trName>નિયુઆન</trName></name>
+      <name><languageId>he</languageId><trName>ניואיאן</trName></name>
+      <name><languageId>hi</languageId><trName>नियुआन</trName></name>
+      <name><languageId>hr</languageId><trName>niujski</trName></name>
+      <name><languageId>hu</languageId><trName>niui</trName></name>
+      <name><languageId>id</languageId><trName>Niuea</trName></name>
+      <name><languageId>is</languageId><trName>níveska</trName></name>
+      <name><languageId>it</languageId><trName>niue</trName></name>
+      <name><languageId>ja</languageId><trName>ニウーエイ語</trName></name>
+      <name><languageId>kn</languageId><trName>ನಿಯುವನ್</trName></name>
+      <name><languageId>ko</languageId><trName>니웨언어</trName></name>
+      <name><languageId>ks</languageId><trName>نِیویَن</trName></name>
+      <name><languageId>lo</languageId><trName>ນີ່ອູ</trName></name>
+      <name><languageId>lt</languageId><trName>niuenų</trName></name>
+      <name><languageId>lv</languageId><trName>niuāņu</trName></name>
+      <name><languageId>mk</languageId><trName>најуан</trName></name>
+      <name><languageId>ml</languageId><trName>ന്യുവാൻ</trName></name>
+      <name><languageId>mr</languageId><trName>नियुआन</trName></name>
+      <name><languageId>mt</languageId><trName>Nijuwejan</trName></name>
+      <name><languageId>nb</languageId><trName>niueansk</trName></name>
+      <name><languageId>niu</languageId><trName>ko e vagahau Niuē</trName></name>
+      <name><languageId>nl</languageId><trName>Niueaans</trName></name>
+      <name><languageId>nn</languageId><trName>niueansk</trName></name>
+      <name><languageId>or</languageId><trName>ନିୟୁଆନ୍</trName></name>
+      <name><languageId>pl</languageId><trName>niue</trName></name>
+      <name><languageId>pt</languageId><trName>niueano</trName></name>
+      <name><languageId>ro</languageId><trName>niueană</trName></name>
+      <name><languageId>ru</languageId><trName>ниуэ</trName></name>
+      <name><languageId>sk</languageId><trName>niueština</trName></name>
+      <name><languageId>sl</languageId><trName>niuejščina</trName></name>
+      <name><languageId>sr</languageId><trName>Ниуеан</trName></name>
+      <name><languageId>sr_Latn</languageId><trName>Niuean</trName></name>
+      <name><languageId>sv</languageId><trName>niueanska</trName></name>
+      <name><languageId>ta</languageId><trName>நியூவான்</trName></name>
+      <name><languageId>te</languageId><trName>నియూఇయాన్</trName></name>
+      <name><languageId>th</languageId><trName>นีอู</trName></name>
+      <name><languageId>tr</languageId><trName>Niuean</trName></name>
+      <name><languageId>uk</languageId><trName>ніуе</trName></name>
+      <name><languageId>vi</languageId><trName>Tiếng Niuean</trName></name>
+      <name><languageId>zh</languageId><trName>纽埃文</trName></name>
+      <name><languageId>zh_Hant</languageId><trName>紐埃文</trName></name>
+    </names>
+    <locales>
+      <locale><localeId>niu_NU.UTF-8</localeId><rank>600</rank></locale>
+      <locale><localeId>niu_NZ.UTF-8</localeId><rank>400</rank></locale>
+    </locales>
+    <territories>
+      <territory><territoryId>NU</territoryId><rank>600</rank></territory>
+      <territory><territoryId>NZ</territoryId><rank>400</rank></territory>
+    </territories>
+    <keyboards>
+      <keyboard><keyboardId>us</keyboardId><rank>1000</rank></keyboard>
+    </keyboards>
+    <consolefonts>
+      <consolefont><consolefontId>latarcyrheb-sun16</consolefontId><rank>1000</rank></consolefont>
+    </consolefonts>
+    <timezones>
+      <timezone><timezoneId>Pacific/Niue</timezoneId><rank>600</rank></timezone>
+      <timezone><timezoneId>Pacific/Auckland</timezoneId><rank>400</rank></timezone>
+    </timezones>
+  </language>
+  <language>
     <languageId>nl</languageId>
     <iso639-1>nl</iso639-1>
     <iso639-2-t>nld</iso639-2-t>
