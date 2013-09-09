@@ -1620,6 +1620,112 @@
   <timezoneIdPart>
     <timezoneIdPartId>Argentina</timezoneIdPartId>
     <names>
+      <name><languageId>af</languageId><trName>Argentinië</trName></name>
+      <name><languageId>ak</languageId><trName>Agyɛntina</trName></name>
+      <name><languageId>am</languageId><trName>አርጀንቲና</trName></name>
+      <name><languageId>ar</languageId><trName>الأرجنتين</trName></name>
+      <name><languageId>ast</languageId><trName>Arxentina</trName></name>
+      <name><languageId>az</languageId><trName>Argentina</trName></name>
+      <name><languageId>be</languageId><trName>Аргенціна</trName></name>
+      <name><languageId>bg</languageId><trName>Аржентина</trName></name>
+      <name><languageId>bn</languageId><trName>আর্জেণ্টাইনা</trName></name>
+      <name><languageId>bo</languageId><trName>ཨར་ཇེན་ཊི་ན།</trName></name>
+      <name><languageId>br</languageId><trName>Arcʼhantina</trName></name>
+      <name><languageId>brx</languageId><trName>अर्जेण्टिना</trName></name>
+      <name><languageId>bs</languageId><trName>Argentina</trName></name>
+      <name><languageId>byn</languageId><trName>አርጀንቲና</trName></name>
+      <name><languageId>ca</languageId><trName>Argentina</trName></name>
+      <name><languageId>cs</languageId><trName>Argentina</trName></name>
+      <name><languageId>cy</languageId><trName>Yr Ariannin</trName></name>
+      <name><languageId>da</languageId><trName>Argentina</trName></name>
+      <name><languageId>de</languageId><trName>Argentinien</trName></name>
+      <name><languageId>dz</languageId><trName>ཨར་ཇེན་ཊི་ན</trName></name>
+      <name><languageId>el</languageId><trName>Αργεντινή</trName></name>
+      <name><languageId>en</languageId><trName>Argentina</trName></name>
+      <name><languageId>eo</languageId><trName>Argentino</trName></name>
+      <name><languageId>es</languageId><trName>Argentina</trName></name>
+      <name><languageId>et</languageId><trName>Argentina</trName></name>
+      <name><languageId>eu</languageId><trName>Argentina</trName></name>
+      <name><languageId>fa</languageId><trName>آرژانتین</trName></name>
+      <name><languageId>ff</languageId><trName>Arjantiin</trName></name>
+      <name><languageId>fi</languageId><trName>Argentiina</trName></name>
+      <name><languageId>fil</languageId><trName>Argentina</trName></name>
+      <name><languageId>fo</languageId><trName>Argentina</trName></name>
+      <name><languageId>fr</languageId><trName>Argentine</trName></name>
+      <name><languageId>fur</languageId><trName>Argjentine</trName></name>
+      <name><languageId>ga</languageId><trName>An Airgintín</trName></name>
+      <name><languageId>gd</languageId><trName>An Argantain</trName></name>
+      <name><languageId>gl</languageId><trName>Arxentina</trName></name>
+      <name><languageId>gu</languageId><trName>આર્જેન્ટીના</trName></name>
+      <name><languageId>ha</languageId><trName>Arjantiniya</trName></name>
+      <name><languageId>he</languageId><trName>ארגנטינה</trName></name>
+      <name><languageId>hi</languageId><trName>अर्जेंटीना</trName></name>
+      <name><languageId>hr</languageId><trName>Argentina</trName></name>
+      <name><languageId>hu</languageId><trName>Argentína</trName></name>
+      <name><languageId>hy</languageId><trName>Արգենտինա</trName></name>
+      <name><languageId>ia</languageId><trName>Argentina</trName></name>
+      <name><languageId>id</languageId><trName>Argentina</trName></name>
+      <name><languageId>is</languageId><trName>Argentína</trName></name>
+      <name><languageId>it</languageId><trName>Argentina</trName></name>
+      <name><languageId>ja</languageId><trName>アルゼンチン</trName></name>
+      <name><languageId>ka</languageId><trName>არგენტინა</trName></name>
+      <name><languageId>kk</languageId><trName>Аргентина</trName></name>
+      <name><languageId>kl</languageId><trName>Argentina</trName></name>
+      <name><languageId>km</languageId><trName>អាហ្សង់ទីន</trName></name>
+      <name><languageId>kn</languageId><trName>ಅರ್ಜೆಂಟಿನಾ</trName></name>
+      <name><languageId>ko</languageId><trName>아르헨티나</trName></name>
+      <name><languageId>ks</languageId><trName>أرجَنٹینا</trName></name>
+      <name><languageId>ky</languageId><trName>Аргентина</trName></name>
+      <name><languageId>lg</languageId><trName>Arigentina</trName></name>
+      <name><languageId>ln</languageId><trName>Arizantinɛ</trName></name>
+      <name><languageId>lo</languageId><trName>ອາເຈນທິນາ</trName></name>
+      <name><languageId>lt</languageId><trName>Argentina</trName></name>
+      <name><languageId>lv</languageId><trName>Argentīna</trName></name>
+      <name><languageId>mg</languageId><trName>Arzantina</trName></name>
+      <name><languageId>mk</languageId><trName>Аргентина</trName></name>
+      <name><languageId>ml</languageId><trName>അർജൻറീന</trName></name>
+      <name><languageId>mn</languageId><trName>Аргентин</trName></name>
+      <name><languageId>mr</languageId><trName>अर्जेंटिना</trName></name>
+      <name><languageId>ms</languageId><trName>Argentina</trName></name>
+      <name><languageId>mt</languageId><trName>Arġentina</trName></name>
+      <name><languageId>my</languageId><trName>အာဂျင်တီးနား</trName></name>
+      <name><languageId>nb</languageId><trName>Argentina</trName></name>
+      <name><languageId>ne</languageId><trName>अर्जेन्टिना</trName></name>
+      <name><languageId>nl</languageId><trName>Argentinië</trName></name>
+      <name><languageId>nn</languageId><trName>Argentina</trName></name>
+      <name><languageId>or</languageId><trName>ଆର୍ଜେଣ୍ଟିନା</trName></name>
+      <name><languageId>pa</languageId><trName>ਅਰਜਨਟੀਨਾ</trName></name>
+      <name><languageId>pl</languageId><trName>Argentyna</trName></name>
+      <name><languageId>pt</languageId><trName>Argentina</trName></name>
+      <name><languageId>ro</languageId><trName>Argentina</trName></name>
+      <name><languageId>ru</languageId><trName>Аргентина</trName></name>
+      <name><languageId>se</languageId><trName>Argentina</trName></name>
+      <name><languageId>si</languageId><trName>ආර්ජෙන්ටිනාව</trName></name>
+      <name><languageId>sk</languageId><trName>Argentína</trName></name>
+      <name><languageId>sl</languageId><trName>Argentina</trName></name>
+      <name><languageId>so</languageId><trName>Arjantiin</trName></name>
+      <name><languageId>sq</languageId><trName>Argjentinë</trName></name>
+      <name><languageId>sr</languageId><trName>Аргентина</trName></name>
+      <name><languageId>sr_Latn</languageId><trName>Argentina</trName></name>
+      <name><languageId>sv</languageId><trName>Argentina</trName></name>
+      <name><languageId>sw</languageId><trName>Ajentina</trName></name>
+      <name><languageId>ta</languageId><trName>அர்ஜென்டினா</trName></name>
+      <name><languageId>te</languageId><trName>అర్జెంటీనా</trName></name>
+      <name><languageId>th</languageId><trName>อาร์เจนตินา</trName></name>
+      <name><languageId>ti</languageId><trName>አርጀንቲና</trName></name>
+      <name><languageId>tig</languageId><trName>አርጀንቲና</trName></name>
+      <name><languageId>tr</languageId><trName>Arjantin</trName></name>
+      <name><languageId>uk</languageId><trName>Аргентина</trName></name>
+      <name><languageId>ur</languageId><trName>ارجنٹینا</trName></name>
+      <name><languageId>uz</languageId><trName>Argentina</trName></name>
+      <name><languageId>uz_Cyrl</languageId><trName>Аргентина</trName></name>
+      <name><languageId>vi</languageId><trName>Argentina</trName></name>
+      <name><languageId>wae</languageId><trName>Argentinie</trName></name>
+      <name><languageId>wal</languageId><trName>አርጀንቲና</trName></name>
+      <name><languageId>yo</languageId><trName>Orílẹ́ède Agentínà</trName></name>
+      <name><languageId>zh</languageId><trName>阿根廷</trName></name>
+      <name><languageId>zh_Hant</languageId><trName>阿根廷</trName></name>
+      <name><languageId>zu</languageId><trName>i-Argentina</trName></name>
     </names>
   </timezoneIdPart>
   <timezoneIdPart>
