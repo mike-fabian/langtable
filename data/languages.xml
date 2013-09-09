@@ -13303,6 +13303,30 @@
     </timezones>
   </language>
   <language>
+    <languageId>nhn</languageId>
+    <iso639-1>None</iso639-1>
+    <iso639-2-t>None</iso639-2-t>
+    <iso639-2-b>None</iso639-2-b>
+    <names>
+      <name><languageId>nhn</languageId><trName>Tlaxcala–Puebla Nahuatl</trName></name>
+    </names>
+    <locales>
+      <locale><localeId>nhn_MX.UTF-8</localeId><rank>1000</rank></locale>
+    </locales>
+    <territories>
+      <territory><territoryId>MX</territoryId><rank>1000</rank></territory>
+    </territories>
+    <keyboards>
+      <keyboard><keyboardId>latam</keyboardId><rank>1000</rank></keyboard>
+    </keyboards>
+    <consolefonts>
+      <consolefont><consolefontId>latarcyrheb-sun16</consolefontId><rank>1000</rank></consolefont>
+    </consolefonts>
+    <timezones>
+      <timezone><timezoneId>America/Mexico_City</timezoneId><rank>1000</rank></timezone>
+    </timezones>
+  </language>
+  <language>
     <languageId>nl</languageId>
     <iso639-1>nl</iso639-1>
     <iso639-2-t>nld</iso639-2-t>
