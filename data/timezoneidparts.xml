@@ -323,12 +323,12 @@
     <names>
       <name><languageId>af</languageId><trName>Adelaide</trName></name>
       <name><languageId>am</languageId><trName>አዴሌእድ</trName></name>
-      <name><languageId>ar</languageId><trName>استراليا(توقيت أدليادا)</trName></name>
+      <name><languageId>ar</languageId><trName>أديليد</trName></name>
       <name><languageId>az</languageId><trName>Adelaida</trName></name>
       <name><languageId>bg</languageId><trName>Аделаида</trName></name>
       <name><languageId>bn</languageId><trName>এ্যাডেলেইড</trName></name>
       <name><languageId>brx</languageId><trName>एडलेड्</trName></name>
-      <name><languageId>bs</languageId><trName>Adelaida (Australija)</trName></name>
+      <name><languageId>bs</languageId><trName>Adelaida</trName></name>
       <name><languageId>ca</languageId><trName>Adelaide</trName></name>
       <name><languageId>cs</languageId><trName>Adelaide</trName></name>
       <name><languageId>cy</languageId><trName>Adelaide</trName></name>
@@ -2156,6 +2156,113 @@
   <timezoneIdPart>
     <timezoneIdPartId>Australia</timezoneIdPartId>
     <names>
+      <name><languageId>af</languageId><trName>Australië</trName></name>
+      <name><languageId>ak</languageId><trName>Ɔstrelia</trName></name>
+      <name><languageId>am</languageId><trName>አውስትሬሊያ</trName></name>
+      <name><languageId>ar</languageId><trName>أستراليا</trName></name>
+      <name><languageId>ast</languageId><trName>Australia</trName></name>
+      <name><languageId>az</languageId><trName>Avstraliya</trName></name>
+      <name><languageId>be</languageId><trName>Аўстралія</trName></name>
+      <name><languageId>bg</languageId><trName>Австралия</trName></name>
+      <name><languageId>bn</languageId><trName>অস্ট্রেলিয়া</trName></name>
+      <name><languageId>bo</languageId><trName>ཨསྟྲེ་ལི་ཡ།</trName></name>
+      <name><languageId>br</languageId><trName>Aostralia</trName></name>
+      <name><languageId>brx</languageId><trName>ऑस्ट्रेलिया</trName></name>
+      <name><languageId>bs</languageId><trName>Australija</trName></name>
+      <name><languageId>byn</languageId><trName>አውስትሬሊያ</trName></name>
+      <name><languageId>ca</languageId><trName>Austràlia</trName></name>
+      <name><languageId>cs</languageId><trName>Austrálie</trName></name>
+      <name><languageId>cy</languageId><trName>Awstralia</trName></name>
+      <name><languageId>da</languageId><trName>Australien</trName></name>
+      <name><languageId>de</languageId><trName>Australien</trName></name>
+      <name><languageId>dz</languageId><trName>ཨཱོས་ཊྲེལ་ལི་ཡ</trName></name>
+      <name><languageId>el</languageId><trName>Αυστραλία</trName></name>
+      <name><languageId>en</languageId><trName>Australia</trName></name>
+      <name><languageId>eo</languageId><trName>Aŭstralio</trName></name>
+      <name><languageId>es</languageId><trName>Australia</trName></name>
+      <name><languageId>et</languageId><trName>Austraalia</trName></name>
+      <name><languageId>eu</languageId><trName>Australia</trName></name>
+      <name><languageId>fa</languageId><trName>استرالیا</trName></name>
+      <name><languageId>ff</languageId><trName>Ostaraalii</trName></name>
+      <name><languageId>fi</languageId><trName>Australia</trName></name>
+      <name><languageId>fil</languageId><trName>Australia</trName></name>
+      <name><languageId>fo</languageId><trName>Avstralia</trName></name>
+      <name><languageId>fr</languageId><trName>Australie</trName></name>
+      <name><languageId>fur</languageId><trName>Australie</trName></name>
+      <name><languageId>ga</languageId><trName>An Astráil</trName></name>
+      <name><languageId>gd</languageId><trName>Astràilia</trName></name>
+      <name><languageId>gl</languageId><trName>Australia</trName></name>
+      <name><languageId>gu</languageId><trName>ઑસ્ટ્રેલિયા</trName></name>
+      <name><languageId>ha</languageId><trName>Ostareliya</trName></name>
+      <name><languageId>haw</languageId><trName>Nūhōlani</trName></name>
+      <name><languageId>he</languageId><trName>אוסטרליה</trName></name>
+      <name><languageId>hi</languageId><trName>ऑस्ट्रेलिया</trName></name>
+      <name><languageId>hr</languageId><trName>Australija</trName></name>
+      <name><languageId>hu</languageId><trName>Ausztrália</trName></name>
+      <name><languageId>hy</languageId><trName>Ավստրալիա</trName></name>
+      <name><languageId>ia</languageId><trName>Australia</trName></name>
+      <name><languageId>id</languageId><trName>Australia</trName></name>
+      <name><languageId>is</languageId><trName>Ástralía</trName></name>
+      <name><languageId>it</languageId><trName>Australia</trName></name>
+      <name><languageId>ja</languageId><trName>オーストラリア</trName></name>
+      <name><languageId>ka</languageId><trName>ავსტრალია</trName></name>
+      <name><languageId>kk</languageId><trName>Австралия</trName></name>
+      <name><languageId>kl</languageId><trName>Australia</trName></name>
+      <name><languageId>km</languageId><trName>អូស្ត្រាលី</trName></name>
+      <name><languageId>kn</languageId><trName>ಆಸ್ಟ್ರೇಲಿಯ</trName></name>
+      <name><languageId>ko</languageId><trName>오스트레일리아</trName></name>
+      <name><languageId>ks</languageId><trName>آسٹریلِیا</trName></name>
+      <name><languageId>ky</languageId><trName>Австралия</trName></name>
+      <name><languageId>lg</languageId><trName>Awusitureliya</trName></name>
+      <name><languageId>ln</languageId><trName>Ositáli</trName></name>
+      <name><languageId>lo</languageId><trName>ອອສເຕຣເລຍ</trName></name>
+      <name><languageId>lt</languageId><trName>Australija</trName></name>
+      <name><languageId>lv</languageId><trName>Austrālija</trName></name>
+      <name><languageId>mg</languageId><trName>Aostralia</trName></name>
+      <name><languageId>mk</languageId><trName>Австралија</trName></name>
+      <name><languageId>ml</languageId><trName>ഓസ്‌ട്രേലിയ</trName></name>
+      <name><languageId>mn</languageId><trName>Австрали</trName></name>
+      <name><languageId>mr</languageId><trName>ऑस्ट्रेलिया</trName></name>
+      <name><languageId>ms</languageId><trName>Australia</trName></name>
+      <name><languageId>mt</languageId><trName>Awstralja</trName></name>
+      <name><languageId>my</languageId><trName>ဩစတြေးလျ</trName></name>
+      <name><languageId>nb</languageId><trName>Australia</trName></name>
+      <name><languageId>ne</languageId><trName>अष्ट्रेलिया</trName></name>
+      <name><languageId>nl</languageId><trName>Australië</trName></name>
+      <name><languageId>nn</languageId><trName>Australia</trName></name>
+      <name><languageId>or</languageId><trName>ଅଷ୍ଟ୍ରେଲିଆ</trName></name>
+      <name><languageId>pa</languageId><trName>ਆਸਟ੍ਰੇਲੀਆ</trName></name>
+      <name><languageId>pl</languageId><trName>Australia</trName></name>
+      <name><languageId>pt</languageId><trName>Austrália</trName></name>
+      <name><languageId>ro</languageId><trName>Australia</trName></name>
+      <name><languageId>ru</languageId><trName>Австралия</trName></name>
+      <name><languageId>se</languageId><trName>Austrália</trName></name>
+      <name><languageId>si</languageId><trName>ඕස්ට්‍රේලියාව</trName></name>
+      <name><languageId>sk</languageId><trName>Austrália</trName></name>
+      <name><languageId>sl</languageId><trName>Avstralija</trName></name>
+      <name><languageId>so</languageId><trName>Awstaraaliya</trName></name>
+      <name><languageId>sq</languageId><trName>Australi</trName></name>
+      <name><languageId>sr</languageId><trName>Аустралија</trName></name>
+      <name><languageId>sr_Latn</languageId><trName>Australija</trName></name>
+      <name><languageId>sv</languageId><trName>Australien</trName></name>
+      <name><languageId>sw</languageId><trName>Australia</trName></name>
+      <name><languageId>ta</languageId><trName>ஆஸ்திரேலியா</trName></name>
+      <name><languageId>te</languageId><trName>ఆస్ట్రేలియా</trName></name>
+      <name><languageId>th</languageId><trName>ออสเตรเลีย</trName></name>
+      <name><languageId>ti</languageId><trName>አውስትሬሊያ</trName></name>
+      <name><languageId>tig</languageId><trName>አውስትሬሊያ</trName></name>
+      <name><languageId>tr</languageId><trName>Avustralya</trName></name>
+      <name><languageId>uk</languageId><trName>Австралія</trName></name>
+      <name><languageId>ur</languageId><trName>آسٹریلیا</trName></name>
+      <name><languageId>uz</languageId><trName>Avstraliya</trName></name>
+      <name><languageId>uz_Cyrl</languageId><trName>Австралия</trName></name>
+      <name><languageId>vi</languageId><trName>Úc</trName></name>
+      <name><languageId>wae</languageId><trName>Australie</trName></name>
+      <name><languageId>wal</languageId><trName>አውስትሬሊያ</trName></name>
+      <name><languageId>yo</languageId><trName>Orílẹ́ède Ástràlìá</trName></name>
+      <name><languageId>zh</languageId><trName>澳大利亚</trName></name>
+      <name><languageId>zh_Hant</languageId><trName>澳洲</trName></name>
+      <name><languageId>zu</languageId><trName>i-Australia</trName></name>
     </names>
   </timezoneIdPart>
   <timezoneIdPart>
@@ -4296,7 +4403,7 @@
       <name><languageId>bg</languageId><trName>Бризбейн</trName></name>
       <name><languageId>bn</languageId><trName>ব্রিসবেন</trName></name>
       <name><languageId>brx</languageId><trName>ब्रीसबेन्</trName></name>
-      <name><languageId>bs</languageId><trName>Brizbejn (Australija)</trName></name>
+      <name><languageId>bs</languageId><trName>Brizbejn</trName></name>
       <name><languageId>ca</languageId><trName>Brisbane</trName></name>
       <name><languageId>cs</languageId><trName>Brisbane</trName></name>
       <name><languageId>cy</languageId><trName>Brisbane</trName></name>
@@ -4312,7 +4419,7 @@
       <name><languageId>fr</languageId><trName>Brisbane</trName></name>
       <name><languageId>gl</languageId><trName>Brisbane</trName></name>
       <name><languageId>gu</languageId><trName>બ્રિસબેન</trName></name>
-      <name><languageId>he</languageId><trName>אוסטרליה/בריסבן</trName></name>
+      <name><languageId>he</languageId><trName>בריסבן</trName></name>
       <name><languageId>hi</languageId><trName>ब्रिस्बन</trName></name>
       <name><languageId>hr</languageId><trName>Brisbane</trName></name>
       <name><languageId>hu</languageId><trName>Brisbane</trName></name>
@@ -4375,7 +4482,7 @@
       <name><languageId>bg</languageId><trName>Броукън Хил</trName></name>
       <name><languageId>bn</languageId><trName>ব্রোকেন হিল</trName></name>
       <name><languageId>brx</languageId><trName>ब्रोकन हिल्</trName></name>
-      <name><languageId>bs</languageId><trName>Broken Hil (Australija)</trName></name>
+      <name><languageId>bs</languageId><trName>Broken Hil</trName></name>
       <name><languageId>ca</languageId><trName>Broken Hill</trName></name>
       <name><languageId>cs</languageId><trName>Broken Hill</trName></name>
       <name><languageId>cy</languageId><trName>Broken Hill</trName></name>
@@ -4391,7 +4498,7 @@
       <name><languageId>fr</languageId><trName>Broken Hill</trName></name>
       <name><languageId>gl</languageId><trName>Broken Hill</trName></name>
       <name><languageId>gu</languageId><trName>બ્રોકન હિલ</trName></name>
-      <name><languageId>he</languageId><trName>אוסטרליה/ברוקן-היל</trName></name>
+      <name><languageId>he</languageId><trName>ברוקן-היל</trName></name>
       <name><languageId>hi</languageId><trName>ब्रोकन हिल</trName></name>
       <name><languageId>hr</languageId><trName>Broken Hill</trName></name>
       <name><languageId>hu</languageId><trName>Broken Hill</trName></name>
@@ -7591,7 +7698,7 @@
       <name><languageId>bg</languageId><trName>Кери</trName></name>
       <name><languageId>bn</languageId><trName>কিউরি</trName></name>
       <name><languageId>brx</languageId><trName>करी</trName></name>
-      <name><languageId>bs</languageId><trName>Kurie (Australija)</trName></name>
+      <name><languageId>bs</languageId><trName>Kurie</trName></name>
       <name><languageId>ca</languageId><trName>Currie</trName></name>
       <name><languageId>cs</languageId><trName>Currie</trName></name>
       <name><languageId>cy</languageId><trName>Currie</trName></name>
@@ -7988,7 +8095,7 @@
       <name><languageId>bg</languageId><trName>Даруин</trName></name>
       <name><languageId>bn</languageId><trName>ডারউইন</trName></name>
       <name><languageId>brx</languageId><trName>डार्विन्</trName></name>
-      <name><languageId>bs</languageId><trName>Darvin (Australija)</trName></name>
+      <name><languageId>bs</languageId><trName>Darvin</trName></name>
       <name><languageId>ca</languageId><trName>Darwin</trName></name>
       <name><languageId>cs</languageId><trName>Darwin</trName></name>
       <name><languageId>cy</languageId><trName>Darwin</trName></name>
@@ -8004,7 +8111,7 @@
       <name><languageId>fr</languageId><trName>Darwin</trName></name>
       <name><languageId>gl</languageId><trName>Darwin</trName></name>
       <name><languageId>gu</languageId><trName>ડાર્વિન</trName></name>
-      <name><languageId>he</languageId><trName>אוסטרליה/דרווין</trName></name>
+      <name><languageId>he</languageId><trName>דרווין</trName></name>
       <name><languageId>hi</languageId><trName>डार्विन</trName></name>
       <name><languageId>hr</languageId><trName>Darwin</trName></name>
       <name><languageId>hu</languageId><trName>Darwin</trName></name>
@@ -9743,7 +9850,7 @@
       <name><languageId>bg</languageId><trName>Юкла</trName></name>
       <name><languageId>bn</languageId><trName>ইউক্লা</trName></name>
       <name><languageId>brx</languageId><trName>यूक्ला</trName></name>
-      <name><languageId>bs</languageId><trName>Iukla (Australija)</trName></name>
+      <name><languageId>bs</languageId><trName>Iukla</trName></name>
       <name><languageId>ca</languageId><trName>Eucla</trName></name>
       <name><languageId>cs</languageId><trName>Eucla</trName></name>
       <name><languageId>cy</languageId><trName>Eucla</trName></name>
@@ -12130,7 +12237,7 @@
       <name><languageId>bg</languageId><trName>Хобарт</trName></name>
       <name><languageId>bn</languageId><trName>হোবার্ট</trName></name>
       <name><languageId>brx</languageId><trName>होबार्ट्</trName></name>
-      <name><languageId>bs</languageId><trName>Horbat (Australija)</trName></name>
+      <name><languageId>bs</languageId><trName>Horbat</trName></name>
       <name><languageId>ca</languageId><trName>Hobart</trName></name>
       <name><languageId>cs</languageId><trName>Hobart</trName></name>
       <name><languageId>cy</languageId><trName>Hobart</trName></name>
@@ -12146,7 +12253,7 @@
       <name><languageId>fr</languageId><trName>Hobart</trName></name>
       <name><languageId>gl</languageId><trName>Hobart</trName></name>
       <name><languageId>gu</languageId><trName>હોબાર્ટ</trName></name>
-      <name><languageId>he</languageId><trName>אוסטרליה/הוברט</trName></name>
+      <name><languageId>he</languageId><trName>הוברט</trName></name>
       <name><languageId>hi</languageId><trName>होबार्ट</trName></name>
       <name><languageId>hr</languageId><trName>Hobart</trName></name>
       <name><languageId>hu</languageId><trName>Hobart</trName></name>
@@ -19314,7 +19421,7 @@
       <name><languageId>bg</languageId><trName>Мелбърн</trName></name>
       <name><languageId>bn</languageId><trName>মেলবার্ন</trName></name>
       <name><languageId>brx</languageId><trName>मेलबोर्न्</trName></name>
-      <name><languageId>bs</languageId><trName>Melburn (Australija)</trName></name>
+      <name><languageId>bs</languageId><trName>Melburn</trName></name>
       <name><languageId>ca</languageId><trName>Melbourne</trName></name>
       <name><languageId>cs</languageId><trName>Melbourne</trName></name>
       <name><languageId>cy</languageId><trName>Melbourne</trName></name>
@@ -19330,7 +19437,7 @@
       <name><languageId>fr</languageId><trName>Melbourne</trName></name>
       <name><languageId>gl</languageId><trName>Melbourne</trName></name>
       <name><languageId>gu</languageId><trName>મેલબોર્ન</trName></name>
-      <name><languageId>he</languageId><trName>אוסטרליה/מלבורן</trName></name>
+      <name><languageId>he</languageId><trName>מלבורן</trName></name>
       <name><languageId>hi</languageId><trName>मेलबोर्न</trName></name>
       <name><languageId>hr</languageId><trName>Melbourne</trName></name>
       <name><languageId>hu</languageId><trName>Melbourne</trName></name>
@@ -23284,7 +23391,7 @@
       <name><languageId>bg</languageId><trName>Пърт</trName></name>
       <name><languageId>bn</languageId><trName>পার্থ</trName></name>
       <name><languageId>brx</languageId><trName>पर्थ</trName></name>
-      <name><languageId>bs</languageId><trName>Pert (Australija)</trName></name>
+      <name><languageId>bs</languageId><trName>Pert</trName></name>
       <name><languageId>ca</languageId><trName>Perth</trName></name>
       <name><languageId>cs</languageId><trName>Perth</trName></name>
       <name><languageId>cy</languageId><trName>Perth</trName></name>
@@ -23300,7 +23407,7 @@
       <name><languageId>fr</languageId><trName>Perth</trName></name>
       <name><languageId>gl</languageId><trName>Perth</trName></name>
       <name><languageId>gu</languageId><trName>પર્થ</trName></name>
-      <name><languageId>he</languageId><trName>אוסטרליה/פרת׳</trName></name>
+      <name><languageId>he</languageId><trName>פרת׳</trName></name>
       <name><languageId>hi</languageId><trName>पर्थ</trName></name>
       <name><languageId>hr</languageId><trName>Perth</trName></name>
       <name><languageId>hu</languageId><trName>Perth</trName></name>
@@ -28680,7 +28787,7 @@
       <name><languageId>bg</languageId><trName>Сидни</trName></name>
       <name><languageId>bn</languageId><trName>সিডনি</trName></name>
       <name><languageId>brx</languageId><trName>सिडनी</trName></name>
-      <name><languageId>bs</languageId><trName>Sidnej (Australija)</trName></name>
+      <name><languageId>bs</languageId><trName>Sidnej</trName></name>
       <name><languageId>ca</languageId><trName>Sydney</trName></name>
       <name><languageId>cs</languageId><trName>Sydney</trName></name>
       <name><languageId>cy</languageId><trName>Sydney</trName></name>
@@ -28696,7 +28803,7 @@
       <name><languageId>fr</languageId><trName>Sydney</trName></name>
       <name><languageId>gl</languageId><trName>Sidney</trName></name>
       <name><languageId>gu</languageId><trName>સિડ્ની</trName></name>
-      <name><languageId>he</languageId><trName>אוסטרליה/סידני</trName></name>
+      <name><languageId>he</languageId><trName>סידני</trName></name>
       <name><languageId>hi</languageId><trName>सिडनी</trName></name>
       <name><languageId>hr</languageId><trName>Sydney</trName></name>
       <name><languageId>hu</languageId><trName>Sydney</trName></name>
