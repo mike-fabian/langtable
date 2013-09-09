@@ -14160,12 +14160,14 @@
       <name><languageId>zu</languageId><trName>i-Poland</trName></name>
     </names>
     <locales>
-      <locale><localeId>pl_PL.UTF-8</localeId><rank>990</rank></locale>
+      <locale><localeId>pl_PL.UTF-8</localeId><rank>900</rank></locale>
       <locale><localeId>csb_PL.UTF-8</localeId><rank>10</rank></locale>
+      <locale><localeId>szl_PL.UTF-8</localeId><rank>5</rank></locale>
     </locales>
     <languages>
-      <language><languageId>pl</languageId><rank>990</rank></language>
+      <language><languageId>pl</languageId><rank>900</rank></language>
       <language><languageId>csb</languageId><rank>10</rank></language>
+      <language><languageId>szl</languageId><rank>5</rank></language>
     </languages>
     <keyboards>
       <keyboard><keyboardId>pl</keyboardId><rank>1000</rank></keyboard>

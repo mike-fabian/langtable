@@ -17758,6 +17758,35 @@
     </timezones>
   </language>
   <language>
+    <languageId>szl</languageId>
+    <iso639-1>None</iso639-1>
+    <iso639-2-t>None</iso639-2-t>
+    <iso639-2-b>None</iso639-2-b>
+    <names>
+      <name><languageId>cs</languageId><trName>slezský jazyk</trName></name>
+      <name><languageId>en</languageId><trName>Silesian</trName></name>
+      <name><languageId>pl</languageId><trName>język śląski</trName></name>
+      <name><languageId>szl</languageId><trName>ślōnskŏ gŏdka</trName></name>
+    </names>
+    <locales>
+      <locale><localeId>szl_PL.UTF-8</localeId><rank>1000</rank></locale>
+    </locales>
+    <territories>
+      <territory><territoryId>PL</territoryId><rank>900</rank></territory>
+      <territory><territoryId>CZ</territoryId><rank>100</rank></territory>
+    </territories>
+    <keyboards>
+      <keyboard><keyboardId>pl</keyboardId><rank>1000</rank></keyboard>
+    </keyboards>
+    <consolefonts>
+      <consolefont><consolefontId>latarcyrheb-sun16</consolefontId><rank>1000</rank></consolefont>
+    </consolefonts>
+    <timezones>
+      <timezone><timezoneId>Europe/Warsaw</timezoneId><rank>900</rank></timezone>
+      <timezone><timezoneId>Europe/Prague</timezoneId><rank>100</rank></timezone>
+    </timezones>
+  </language>
+  <language>
     <languageId>ta</languageId>
     <iso639-1>ta</iso639-1>
     <iso639-2-t>tam</iso639-2-t>
