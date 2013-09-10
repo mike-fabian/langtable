@@ -1897,6 +1897,81 @@
   <timezoneIdPart>
     <timezoneIdPartId>Asmara</timezoneIdPartId>
     <names>
+      <name><languageId>af</languageId><trName>Asmara</trName></name>
+      <name><languageId>am</languageId><trName>አስመራ</trName></name>
+      <name><languageId>ar</languageId><trName>أسمرة</trName></name>
+      <name><languageId>az</languageId><trName>Əsmərə</trName></name>
+      <name><languageId>bg</languageId><trName>Асмара</trName></name>
+      <name><languageId>bn</languageId><trName>অ্যাসমারাহু</trName></name>
+      <name><languageId>brx</languageId><trName>अस्मेरा</trName></name>
+      <name><languageId>bs</languageId><trName>Asmera</trName></name>
+      <name><languageId>ca</languageId><trName>Asmara</trName></name>
+      <name><languageId>cs</languageId><trName>Asmara</trName></name>
+      <name><languageId>cy</languageId><trName>Asmera</trName></name>
+      <name><languageId>da</languageId><trName>Asmara</trName></name>
+      <name><languageId>de</languageId><trName>Asmara</trName></name>
+      <name><languageId>dz</languageId><trName>ཨཱས་མ་ར</trName></name>
+      <name><languageId>el</languageId><trName>Ασμάρα</trName></name>
+      <name><languageId>es</languageId><trName>Asmara</trName></name>
+      <name><languageId>et</languageId><trName>Asmara</trName></name>
+      <name><languageId>eu</languageId><trName>Asmara</trName></name>
+      <name><languageId>fa</languageId><trName>اسمره</trName></name>
+      <name><languageId>fi</languageId><trName>Asmara</trName></name>
+      <name><languageId>fil</languageId><trName>Asmara</trName></name>
+      <name><languageId>fr</languageId><trName>Asmara</trName></name>
+      <name><languageId>gl</languageId><trName>Asmak</trName></name>
+      <name><languageId>gu</languageId><trName>અસ્મારા</trName></name>
+      <name><languageId>he</languageId><trName>אסמרה</trName></name>
+      <name><languageId>hi</languageId><trName>अस्मारा</trName></name>
+      <name><languageId>hr</languageId><trName>Asmara</trName></name>
+      <name><languageId>hu</languageId><trName>Asmera</trName></name>
+      <name><languageId>hy</languageId><trName>Ասմարա</trName></name>
+      <name><languageId>id</languageId><trName>Asmara</trName></name>
+      <name><languageId>is</languageId><trName>Asmara</trName></name>
+      <name><languageId>it</languageId><trName>Asmara</trName></name>
+      <name><languageId>ja</languageId><trName>アスマラ</trName></name>
+      <name><languageId>ka</languageId><trName>ასმარა</trName></name>
+      <name><languageId>kk</languageId><trName>Асмера</trName></name>
+      <name><languageId>km</languageId><trName>អាស្មារ៉ា</trName></name>
+      <name><languageId>kn</languageId><trName>ಅಸ್ಮಾರಾ</trName></name>
+      <name><languageId>ko</languageId><trName>아스메라</trName></name>
+      <name><languageId>ks</languageId><trName>اَسمیرا</trName></name>
+      <name><languageId>ky</languageId><trName>Асмара</trName></name>
+      <name><languageId>lo</languageId><trName>ອາສມາລາ</trName></name>
+      <name><languageId>lt</languageId><trName>Asmara</trName></name>
+      <name><languageId>lv</languageId><trName>Asmara</trName></name>
+      <name><languageId>mk</languageId><trName>Асмара</trName></name>
+      <name><languageId>ml</languageId><trName>അസ്‍മാര</trName></name>
+      <name><languageId>mn</languageId><trName>Асмара</trName></name>
+      <name><languageId>mr</languageId><trName>एस्मारा</trName></name>
+      <name><languageId>ms</languageId><trName>Asmara</trName></name>
+      <name><languageId>my</languageId><trName>အားစ်မားရာ</trName></name>
+      <name><languageId>nb</languageId><trName>Asmara</trName></name>
+      <name><languageId>ne</languageId><trName>आस्मारा</trName></name>
+      <name><languageId>nl</languageId><trName>Asmara</trName></name>
+      <name><languageId>pa</languageId><trName>ਅਸਮਾਰਾ</trName></name>
+      <name><languageId>pl</languageId><trName>Asmara</trName></name>
+      <name><languageId>pt</languageId><trName>Asmara</trName></name>
+      <name><languageId>ro</languageId><trName>Asmara</trName></name>
+      <name><languageId>ru</languageId><trName>Асмера</trName></name>
+      <name><languageId>si</languageId><trName>අස්මාරා</trName></name>
+      <name><languageId>sk</languageId><trName>Asmara</trName></name>
+      <name><languageId>sl</languageId><trName>Asmara</trName></name>
+      <name><languageId>sq</languageId><trName>Asmarë</trName></name>
+      <name><languageId>sr</languageId><trName>Асмера</trName></name>
+      <name><languageId>sr_Latn</languageId><trName>Asmera</trName></name>
+      <name><languageId>sv</languageId><trName>Asmera</trName></name>
+      <name><languageId>sw</languageId><trName>Asmara</trName></name>
+      <name><languageId>ta</languageId><trName>அஸ்மாரா</trName></name>
+      <name><languageId>te</languageId><trName>అస్మారా</trName></name>
+      <name><languageId>th</languageId><trName>แอสมารา</trName></name>
+      <name><languageId>tr</languageId><trName>Asmara</trName></name>
+      <name><languageId>uk</languageId><trName>Асмера</trName></name>
+      <name><languageId>ur</languageId><trName>اسمارا</trName></name>
+      <name><languageId>uz</languageId><trName>Asmara</trName></name>
+      <name><languageId>vi</languageId><trName>Asmara</trName></name>
+      <name><languageId>zh</languageId><trName>阿斯马拉</trName></name>
+      <name><languageId>zh_Hant</languageId><trName>阿斯瑪拉</trName></name>
     </names>
   </timezoneIdPart>
   <timezoneIdPart>
@@ -2067,6 +2142,81 @@
   <timezoneIdPart>
     <timezoneIdPartId>Atikokan</timezoneIdPartId>
     <names>
+      <name><languageId>af</languageId><trName>Atikokan</trName></name>
+      <name><languageId>am</languageId><trName>አቲኮካን</trName></name>
+      <name><languageId>ar</languageId><trName>كورال هاربر</trName></name>
+      <name><languageId>az</languageId><trName>Koral Harbor</trName></name>
+      <name><languageId>bg</languageId><trName>Корал Харбър</trName></name>
+      <name><languageId>bn</languageId><trName>কোরাল হার্বার</trName></name>
+      <name><languageId>brx</languageId><trName>कॉरल बन्दरगाह</trName></name>
+      <name><languageId>bs</languageId><trName>Koral Harbur (Kanada)</trName></name>
+      <name><languageId>ca</languageId><trName>Atikokan</trName></name>
+      <name><languageId>cs</languageId><trName>Atikokan</trName></name>
+      <name><languageId>cy</languageId><trName>Atikokan</trName></name>
+      <name><languageId>da</languageId><trName>Atikokan</trName></name>
+      <name><languageId>de</languageId><trName>Atikokan</trName></name>
+      <name><languageId>dz</languageId><trName>ཨ་ཏི་ཀོ་ཀཱན</trName></name>
+      <name><languageId>el</languageId><trName>Κόραλ Χάρμπουρ</trName></name>
+      <name><languageId>es</languageId><trName>Atikokan</trName></name>
+      <name><languageId>et</languageId><trName>Atikokan</trName></name>
+      <name><languageId>eu</languageId><trName>Atikokan</trName></name>
+      <name><languageId>fa</languageId><trName>اتکوکان</trName></name>
+      <name><languageId>fi</languageId><trName>Atikokan</trName></name>
+      <name><languageId>fil</languageId><trName>Atikokan</trName></name>
+      <name><languageId>fr</languageId><trName>Atikokan</trName></name>
+      <name><languageId>gl</languageId><trName>Atikokan</trName></name>
+      <name><languageId>gu</languageId><trName>એટિકોકેન</trName></name>
+      <name><languageId>he</languageId><trName>אטיקוקן</trName></name>
+      <name><languageId>hi</languageId><trName>अटिकोकान</trName></name>
+      <name><languageId>hr</languageId><trName>Atikokan</trName></name>
+      <name><languageId>hu</languageId><trName>Atikokan</trName></name>
+      <name><languageId>hy</languageId><trName>Ատիկոկան</trName></name>
+      <name><languageId>id</languageId><trName>Atikokan</trName></name>
+      <name><languageId>is</languageId><trName>Atikokan</trName></name>
+      <name><languageId>it</languageId><trName>Atikokan</trName></name>
+      <name><languageId>ja</languageId><trName>アティコカン</trName></name>
+      <name><languageId>ka</languageId><trName>ატიკოკანი</trName></name>
+      <name><languageId>kk</languageId><trName>Корал Харбор</trName></name>
+      <name><languageId>km</languageId><trName>អាទីកូកាន</trName></name>
+      <name><languageId>kn</languageId><trName>ಅಟಿಕೊಕಾನ್</trName></name>
+      <name><languageId>ko</languageId><trName>코랄하버</trName></name>
+      <name><languageId>ks</languageId><trName>کورَل بٔنٛدٕرگاہ</trName></name>
+      <name><languageId>ky</languageId><trName>Атикокан</trName></name>
+      <name><languageId>lo</languageId><trName>ອາທິໂຄຄານ</trName></name>
+      <name><languageId>lt</languageId><trName>Atikokanas</trName></name>
+      <name><languageId>lv</languageId><trName>Koralharbora</trName></name>
+      <name><languageId>mk</languageId><trName>Корал Харбор</trName></name>
+      <name><languageId>ml</languageId><trName>കോറൽ ഹാർബർ</trName></name>
+      <name><languageId>mn</languageId><trName>Атикокан</trName></name>
+      <name><languageId>mr</languageId><trName>अॅटिकोकन</trName></name>
+      <name><languageId>ms</languageId><trName>Atikokan</trName></name>
+      <name><languageId>my</languageId><trName>အာတီကိုကန်</trName></name>
+      <name><languageId>nb</languageId><trName>Atikokan</trName></name>
+      <name><languageId>ne</languageId><trName>कोराल बन्दरगाहा</trName></name>
+      <name><languageId>nl</languageId><trName>Atikokan</trName></name>
+      <name><languageId>pa</languageId><trName>ਐਟੀਕੋਕਨ</trName></name>
+      <name><languageId>pl</languageId><trName>Atikokan</trName></name>
+      <name><languageId>pt</languageId><trName>Atikokan</trName></name>
+      <name><languageId>ro</languageId><trName>Atikokan</trName></name>
+      <name><languageId>ru</languageId><trName>Корал-Харбор</trName></name>
+      <name><languageId>si</languageId><trName>ඇටිකොකන්</trName></name>
+      <name><languageId>sk</languageId><trName>Atikokan</trName></name>
+      <name><languageId>sl</languageId><trName>Atikokan</trName></name>
+      <name><languageId>sq</languageId><trName>Atikokan</trName></name>
+      <name><languageId>sr</languageId><trName>Корал Харбур</trName></name>
+      <name><languageId>sr_Latn</languageId><trName>Koral Harbur</trName></name>
+      <name><languageId>sv</languageId><trName>Atikokan</trName></name>
+      <name><languageId>sw</languageId><trName>Atikokan</trName></name>
+      <name><languageId>ta</languageId><trName>அடிகோகன்</trName></name>
+      <name><languageId>te</languageId><trName>అటికోకన్</trName></name>
+      <name><languageId>th</languageId><trName>คอรัลฮาร์เบอร์</trName></name>
+      <name><languageId>tr</languageId><trName>Atikokan</trName></name>
+      <name><languageId>uk</languageId><trName>Корал-Харбор</trName></name>
+      <name><languageId>ur</languageId><trName>اٹیکوکن</trName></name>
+      <name><languageId>uz</languageId><trName>Atikokan</trName></name>
+      <name><languageId>vi</languageId><trName>Atikokan</trName></name>
+      <name><languageId>zh</languageId><trName>阿蒂科肯</trName></name>
+      <name><languageId>zh_Hant</languageId><trName>阿蒂科肯</trName></name>
     </names>
   </timezoneIdPart>
   <timezoneIdPart>
@@ -6882,6 +7032,80 @@
   <timezoneIdPart>
     <timezoneIdPartId>Chuuk</timezoneIdPartId>
     <names>
+      <name><languageId>af</languageId><trName>Chuuk</trName></name>
+      <name><languageId>am</languageId><trName>ቹክ</trName></name>
+      <name><languageId>ar</languageId><trName>ترك</trName></name>
+      <name><languageId>az</languageId><trName>Çuuk</trName></name>
+      <name><languageId>bg</languageId><trName>Чуюк</trName></name>
+      <name><languageId>bn</languageId><trName>ট্রুক</trName></name>
+      <name><languageId>brx</languageId><trName>ट्रुक</trName></name>
+      <name><languageId>bs</languageId><trName>Truk</trName></name>
+      <name><languageId>ca</languageId><trName>Chuuk</trName></name>
+      <name><languageId>cs</languageId><trName>Chuukské ostrovy</trName></name>
+      <name><languageId>cy</languageId><trName>Chuuk</trName></name>
+      <name><languageId>da</languageId><trName>Chuuk</trName></name>
+      <name><languageId>de</languageId><trName>Chuuk</trName></name>
+      <name><languageId>el</languageId><trName>Τσουκ</trName></name>
+      <name><languageId>es</languageId><trName>Chuuk</trName></name>
+      <name><languageId>et</languageId><trName>Chuuk</trName></name>
+      <name><languageId>eu</languageId><trName>Chuuk</trName></name>
+      <name><languageId>fa</languageId><trName>چوک</trName></name>
+      <name><languageId>fi</languageId><trName>Chuuk</trName></name>
+      <name><languageId>fil</languageId><trName>Chuuk</trName></name>
+      <name><languageId>fr</languageId><trName>Chuuk</trName></name>
+      <name><languageId>gl</languageId><trName>Chuuk</trName></name>
+      <name><languageId>gu</languageId><trName>ચુક</trName></name>
+      <name><languageId>he</languageId><trName>טרוק</trName></name>
+      <name><languageId>hi</languageId><trName>चक</trName></name>
+      <name><languageId>hr</languageId><trName>Chuuk</trName></name>
+      <name><languageId>hu</languageId><trName>Truk-szigetek</trName></name>
+      <name><languageId>hy</languageId><trName>Չուուկ</trName></name>
+      <name><languageId>id</languageId><trName>Chuuk</trName></name>
+      <name><languageId>is</languageId><trName>Chuuk</trName></name>
+      <name><languageId>it</languageId><trName>Chuuk</trName></name>
+      <name><languageId>ja</languageId><trName>チューク</trName></name>
+      <name><languageId>ka</languageId><trName>ჩუუკი</trName></name>
+      <name><languageId>kk</languageId><trName>Трук</trName></name>
+      <name><languageId>km</languageId><trName>ឈូអុក</trName></name>
+      <name><languageId>kn</languageId><trName>ಚುಕ್</trName></name>
+      <name><languageId>ko</languageId><trName>트루크</trName></name>
+      <name><languageId>ks</languageId><trName>ٹرٛک</trName></name>
+      <name><languageId>ky</languageId><trName>Чуук</trName></name>
+      <name><languageId>lo</languageId><trName>ຈັກ</trName></name>
+      <name><languageId>lt</languageId><trName>Čukas</trName></name>
+      <name><languageId>lv</languageId><trName>Trūka</trName></name>
+      <name><languageId>mk</languageId><trName>Чук</trName></name>
+      <name><languageId>ml</languageId><trName>ട്രക്</trName></name>
+      <name><languageId>mn</languageId><trName>Чүүк</trName></name>
+      <name><languageId>mr</languageId><trName>चूक</trName></name>
+      <name><languageId>ms</languageId><trName>Chuuk</trName></name>
+      <name><languageId>my</languageId><trName>ချုခ်</trName></name>
+      <name><languageId>nb</languageId><trName>Chuuk</trName></name>
+      <name><languageId>ne</languageId><trName>चूक</trName></name>
+      <name><languageId>nl</languageId><trName>Chuuk</trName></name>
+      <name><languageId>pa</languageId><trName>ਚੂਕ</trName></name>
+      <name><languageId>pl</languageId><trName>Chuuk</trName></name>
+      <name><languageId>pt</languageId><trName>Chuuk</trName></name>
+      <name><languageId>ro</languageId><trName>Chuuk</trName></name>
+      <name><languageId>ru</languageId><trName>Трук, о-ва</trName></name>
+      <name><languageId>si</languageId><trName>චූක්</trName></name>
+      <name><languageId>sk</languageId><trName>Chuuk</trName></name>
+      <name><languageId>sl</languageId><trName>Chuuk</trName></name>
+      <name><languageId>sq</languageId><trName>Çuk</trName></name>
+      <name><languageId>sr</languageId><trName>Трук</trName></name>
+      <name><languageId>sr_Latn</languageId><trName>Truk</trName></name>
+      <name><languageId>sv</languageId><trName>Chuuk</trName></name>
+      <name><languageId>sw</languageId><trName>Chuuk</trName></name>
+      <name><languageId>ta</languageId><trName>சூக்</trName></name>
+      <name><languageId>te</languageId><trName>చుక్</trName></name>
+      <name><languageId>th</languageId><trName>ทรัก</trName></name>
+      <name><languageId>tr</languageId><trName>Chuuk</trName></name>
+      <name><languageId>uk</languageId><trName>Трук</trName></name>
+      <name><languageId>ur</languageId><trName>چیوک</trName></name>
+      <name><languageId>uz</languageId><trName>Chuuk</trName></name>
+      <name><languageId>vi</languageId><trName>Chuuk</trName></name>
+      <name><languageId>zh</languageId><trName>特鲁克群岛</trName></name>
+      <name><languageId>zh_Hant</languageId><trName>楚克</trName></name>
     </names>
   </timezoneIdPart>
   <timezoneIdPart>
@@ -10005,6 +10229,83 @@
   <timezoneIdPart>
     <timezoneIdPartId>Faroe</timezoneIdPartId>
     <names>
+      <name><languageId>af</languageId><trName>Faroe</trName></name>
+      <name><languageId>am</languageId><trName>ፋሮእ</trName></name>
+      <name><languageId>ar</languageId><trName>فارو</trName></name>
+      <name><languageId>ast</languageId><trName>Islles Feroe</trName></name>
+      <name><languageId>az</languageId><trName>Farer</trName></name>
+      <name><languageId>bg</languageId><trName>Фарьорски острови</trName></name>
+      <name><languageId>bn</languageId><trName>ফ্যারো</trName></name>
+      <name><languageId>br</languageId><trName>Faero</trName></name>
+      <name><languageId>brx</languageId><trName>फ़ैरो</trName></name>
+      <name><languageId>bs</languageId><trName>Farska Ostrva</trName></name>
+      <name><languageId>ca</languageId><trName>Illes Fèroe</trName></name>
+      <name><languageId>cs</languageId><trName>Faerské ostrovy</trName></name>
+      <name><languageId>cy</languageId><trName>Føroyar</trName></name>
+      <name><languageId>da</languageId><trName>Færøerne</trName></name>
+      <name><languageId>de</languageId><trName>Färöer</trName></name>
+      <name><languageId>dz</languageId><trName>ཕཱའེ་རོ་</trName></name>
+      <name><languageId>el</languageId><trName>Φερόες</trName></name>
+      <name><languageId>es</languageId><trName>Islas Feroe</trName></name>
+      <name><languageId>et</languageId><trName>Fääri</trName></name>
+      <name><languageId>eu</languageId><trName>Faroe</trName></name>
+      <name><languageId>fa</languageId><trName>فارو</trName></name>
+      <name><languageId>fi</languageId><trName>Färsaaret</trName></name>
+      <name><languageId>fil</languageId><trName>Faroe</trName></name>
+      <name><languageId>fr</languageId><trName>Féroé</trName></name>
+      <name><languageId>gu</languageId><trName>ફેરો</trName></name>
+      <name><languageId>he</languageId><trName>פארו</trName></name>
+      <name><languageId>hi</languageId><trName>फ़ैरो</trName></name>
+      <name><languageId>hr</languageId><trName>Ferojski otoci</trName></name>
+      <name><languageId>hu</languageId><trName>Faroe</trName></name>
+      <name><languageId>hy</languageId><trName>Ֆարերյան կղզիներ</trName></name>
+      <name><languageId>id</languageId><trName>Faroe</trName></name>
+      <name><languageId>is</languageId><trName>Færeyjar</trName></name>
+      <name><languageId>it</languageId><trName>Isole Faeroe</trName></name>
+      <name><languageId>ja</languageId><trName>フェロー</trName></name>
+      <name><languageId>ka</languageId><trName>ფარერის კუნძულები</trName></name>
+      <name><languageId>kk</languageId><trName>Фарер аралдары</trName></name>
+      <name><languageId>km</languageId><trName>ហ្វារ៉ូ</trName></name>
+      <name><languageId>kn</languageId><trName>ಫ್ಯಾರೊ</trName></name>
+      <name><languageId>ko</languageId><trName>페로 제도</trName></name>
+      <name><languageId>ks</languageId><trName>فٮ۪رو</trName></name>
+      <name><languageId>ky</languageId><trName>Фарер</trName></name>
+      <name><languageId>lo</languageId><trName>ເຟໂລ</trName></name>
+      <name><languageId>lt</languageId><trName>Farerai</trName></name>
+      <name><languageId>lv</languageId><trName>Fēru salas</trName></name>
+      <name><languageId>mk</languageId><trName>Фарски Острови</trName></name>
+      <name><languageId>ml</languageId><trName>ഫെറോ</trName></name>
+      <name><languageId>mn</languageId><trName>Фароэ</trName></name>
+      <name><languageId>mr</languageId><trName>फॅरो</trName></name>
+      <name><languageId>ms</languageId><trName>Faroe</trName></name>
+      <name><languageId>my</languageId><trName>ဖဲရို</trName></name>
+      <name><languageId>nb</languageId><trName>Færøyene</trName></name>
+      <name><languageId>ne</languageId><trName>फारोइ</trName></name>
+      <name><languageId>nl</languageId><trName>Faeröer</trName></name>
+      <name><languageId>nn</languageId><trName>Færøyane</trName></name>
+      <name><languageId>pa</languageId><trName>ਫੈਰੋ</trName></name>
+      <name><languageId>pl</languageId><trName>Wyspy Owcze</trName></name>
+      <name><languageId>pt</languageId><trName>Ilhas Faroe</trName></name>
+      <name><languageId>ro</languageId><trName>Faroe</trName></name>
+      <name><languageId>ru</languageId><trName>Фарерские о-ва</trName></name>
+      <name><languageId>si</languageId><trName>ෆාරෝ</trName></name>
+      <name><languageId>sk</languageId><trName>Faerské ostrovy</trName></name>
+      <name><languageId>sl</languageId><trName>Faroe</trName></name>
+      <name><languageId>sq</languageId><trName>Faroe</trName></name>
+      <name><languageId>sr</languageId><trName>Фарска острва</trName></name>
+      <name><languageId>sr_Latn</languageId><trName>Farska ostrva</trName></name>
+      <name><languageId>sv</languageId><trName>Torshamn</trName></name>
+      <name><languageId>sw</languageId><trName>Faroe</trName></name>
+      <name><languageId>ta</languageId><trName>பேரோ</trName></name>
+      <name><languageId>te</languageId><trName>ఫరోయ్</trName></name>
+      <name><languageId>th</languageId><trName>แฟโร</trName></name>
+      <name><languageId>tr</languageId><trName>Faroe</trName></name>
+      <name><languageId>uk</languageId><trName>Фарерські острови</trName></name>
+      <name><languageId>ur</languageId><trName>فروئی</trName></name>
+      <name><languageId>uz</languageId><trName>Faroe</trName></name>
+      <name><languageId>vi</languageId><trName>Faroe</trName></name>
+      <name><languageId>zh</languageId><trName>法罗</trName></name>
+      <name><languageId>zh_Hant</languageId><trName>法羅群島</trName></name>
     </names>
   </timezoneIdPart>
   <timezoneIdPart>
@@ -12225,6 +12526,82 @@
   <timezoneIdPart>
     <timezoneIdPartId>Ho_Chi_Minh</timezoneIdPartId>
     <names>
+      <name><languageId>af</languageId><trName>Ho Tsji Minhstad</trName></name>
+      <name><languageId>am</languageId><trName>ሆ ቺ ሚንህ ከተማ</trName></name>
+      <name><languageId>ar</languageId><trName>مدينة هو تشي منة</trName></name>
+      <name><languageId>az</languageId><trName>Ho Şi Min</trName></name>
+      <name><languageId>bg</languageId><trName>Хошимин</trName></name>
+      <name><languageId>bn</languageId><trName>হো চি মিন শহর</trName></name>
+      <name><languageId>br</languageId><trName>Kêr Hô-Chi-Minh</trName></name>
+      <name><languageId>brx</languageId><trName>साइगॉन</trName></name>
+      <name><languageId>ca</languageId><trName>Ho Chi Minh</trName></name>
+      <name><languageId>cs</languageId><trName>Ho Či Minovo město</trName></name>
+      <name><languageId>cy</languageId><trName>Dinas Hô Chi Minh</trName></name>
+      <name><languageId>da</languageId><trName>Ho Chi Minh-byen</trName></name>
+      <name><languageId>de</languageId><trName>Ho-Chi-Minh-Stadt</trName></name>
+      <name><languageId>el</languageId><trName>Πόλη Χο Τσι Μινχ</trName></name>
+      <name><languageId>en</languageId><trName>Ho Chi Minh City</trName></name>
+      <name><languageId>es</languageId><trName>Ciudad Ho Chi Minh</trName></name>
+      <name><languageId>et</languageId><trName>Ho Chi Minh</trName></name>
+      <name><languageId>eu</languageId><trName>Ho Chi Minh</trName></name>
+      <name><languageId>fa</languageId><trName>هوشی‌مین‌سیتی</trName></name>
+      <name><languageId>fi</languageId><trName>Hồ Chí Minhin kaupunki</trName></name>
+      <name><languageId>fil</languageId><trName>Ho Chi Minh City</trName></name>
+      <name><languageId>fr</languageId><trName>Hô-Chi-Minh-Ville</trName></name>
+      <name><languageId>gl</languageId><trName>Ho Chi Minh</trName></name>
+      <name><languageId>gu</languageId><trName>હો ચી મીન સિટી</trName></name>
+      <name><languageId>he</languageId><trName>הו צ׳י מין סיטי</trName></name>
+      <name><languageId>hi</languageId><trName>हो ची मिन्ह सिटी</trName></name>
+      <name><languageId>hr</languageId><trName>Ho Ši Min</trName></name>
+      <name><languageId>hu</languageId><trName>Ho Si Minh-város</trName></name>
+      <name><languageId>hy</languageId><trName>Հոշիմին</trName></name>
+      <name><languageId>id</languageId><trName>Kota Ho Chi Minh</trName></name>
+      <name><languageId>is</languageId><trName>Ho Chi Minh-borg</trName></name>
+      <name><languageId>it</languageId><trName>Ho Chi Minh</trName></name>
+      <name><languageId>ja</languageId><trName>ホーチミン</trName></name>
+      <name><languageId>ka</languageId><trName>ჰოჩიმინი</trName></name>
+      <name><languageId>kk</languageId><trName>Хошимин</trName></name>
+      <name><languageId>km</languageId><trName>ហូជីមីញ</trName></name>
+      <name><languageId>kn</languageId><trName>ಹೊ ಚಿ ಮಿನ್ ಸಿಟಿ</trName></name>
+      <name><languageId>ko</languageId><trName>사이공</trName></name>
+      <name><languageId>ks</languageId><trName>سیگَن</trName></name>
+      <name><languageId>ky</languageId><trName>Хо Ши Мин</trName></name>
+      <name><languageId>lo</languageId><trName>ໂຮ່ຈີມິງ</trName></name>
+      <name><languageId>lt</languageId><trName>Hošiminas</trName></name>
+      <name><languageId>lv</languageId><trName>Hošimina</trName></name>
+      <name><languageId>mk</languageId><trName>Хо Ши Мин</trName></name>
+      <name><languageId>ml</languageId><trName>ഹോ ചി മിൻ സിറ്റി</trName></name>
+      <name><languageId>mn</languageId><trName>Хо Ши Мин</trName></name>
+      <name><languageId>mr</languageId><trName>हो चि मिन्ह शहर</trName></name>
+      <name><languageId>ms</languageId><trName>Ho Chi Minh</trName></name>
+      <name><languageId>my</languageId><trName>ဟိုချီမင်</trName></name>
+      <name><languageId>nb</languageId><trName>Ho Chi Minh-byen</trName></name>
+      <name><languageId>ne</languageId><trName>हो ची मिन्ह शहर</trName></name>
+      <name><languageId>nl</languageId><trName>Ho Chi Minhstad</trName></name>
+      <name><languageId>nn</languageId><trName>Ho Chi Minh-byen</trName></name>
+      <name><languageId>pa</languageId><trName>ਹੋ ਚਾਈ ਮਿਨ੍ਹ ਸਿਟੀ</trName></name>
+      <name><languageId>pl</languageId><trName>Ho Chi Minh (miasto)</trName></name>
+      <name><languageId>pt</languageId><trName>Ho Chi Minh</trName></name>
+      <name><languageId>ro</languageId><trName>Ho Și Min</trName></name>
+      <name><languageId>ru</languageId><trName>Хошимин</trName></name>
+      <name><languageId>si</languageId><trName>හෝචි මිං නගරය</trName></name>
+      <name><languageId>sk</languageId><trName>Hočiminovo Mesto</trName></name>
+      <name><languageId>sl</languageId><trName>Hošiminh</trName></name>
+      <name><languageId>sq</languageId><trName>Ho Çi Min</trName></name>
+      <name><languageId>sr</languageId><trName>Хо Ши Мин</trName></name>
+      <name><languageId>sr_Latn</languageId><trName>Ho Ši Min</trName></name>
+      <name><languageId>sv</languageId><trName>Ho Chi Minh-staden</trName></name>
+      <name><languageId>sw</languageId><trName>Ho Chi Minh</trName></name>
+      <name><languageId>ta</languageId><trName>ஹோ தி மின் சிட்டி</trName></name>
+      <name><languageId>te</languageId><trName>హో చి మిన్హ్ నగరం</trName></name>
+      <name><languageId>th</languageId><trName>นครโฮจิมินห์</trName></name>
+      <name><languageId>tr</languageId><trName>Ho Chi Minh Kenti</trName></name>
+      <name><languageId>uk</languageId><trName>Хошимін</trName></name>
+      <name><languageId>ur</languageId><trName>ہو چی منہ سٹی</trName></name>
+      <name><languageId>uz</languageId><trName>Ho Chi Minh</trName></name>
+      <name><languageId>vi</languageId><trName>TP Hồ Chí Minh</trName></name>
+      <name><languageId>zh</languageId><trName>胡志明市</trName></name>
+      <name><languageId>zh_Hant</languageId><trName>胡志明市</trName></name>
     </names>
   </timezoneIdPart>
   <timezoneIdPart>
@@ -14366,6 +14743,81 @@
   <timezoneIdPart>
     <timezoneIdPartId>Kathmandu</timezoneIdPartId>
     <names>
+      <name><languageId>af</languageId><trName>Katmandoe</trName></name>
+      <name><languageId>am</languageId><trName>ካትማንዱ</trName></name>
+      <name><languageId>ar</languageId><trName>كاتماندو</trName></name>
+      <name><languageId>az</languageId><trName>Katmandu</trName></name>
+      <name><languageId>bg</languageId><trName>Катманду</trName></name>
+      <name><languageId>bn</languageId><trName>কাঠমান্ডু</trName></name>
+      <name><languageId>brx</languageId><trName>काठमांडौ</trName></name>
+      <name><languageId>bs</languageId><trName>Katmandu</trName></name>
+      <name><languageId>ca</languageId><trName>Katmandú</trName></name>
+      <name><languageId>cs</languageId><trName>Káthmándú</trName></name>
+      <name><languageId>cy</languageId><trName>Kathmandu</trName></name>
+      <name><languageId>da</languageId><trName>Katmandu</trName></name>
+      <name><languageId>de</languageId><trName>Kathmandu</trName></name>
+      <name><languageId>dz</languageId><trName>ཀཱཊ་མཱན་ཌུ</trName></name>
+      <name><languageId>el</languageId><trName>Κατμαντού</trName></name>
+      <name><languageId>es</languageId><trName>Katmandú</trName></name>
+      <name><languageId>et</languageId><trName>Kathmandu</trName></name>
+      <name><languageId>eu</languageId><trName>Kathmandu</trName></name>
+      <name><languageId>fa</languageId><trName>کاتماندو</trName></name>
+      <name><languageId>fi</languageId><trName>Kathmandu</trName></name>
+      <name><languageId>fil</languageId><trName>Kathmandu</trName></name>
+      <name><languageId>fr</languageId><trName>Katmandou</trName></name>
+      <name><languageId>gl</languageId><trName>Kathmandu</trName></name>
+      <name><languageId>gu</languageId><trName>કથમન્ડુ</trName></name>
+      <name><languageId>he</languageId><trName>קטמנדו</trName></name>
+      <name><languageId>hi</languageId><trName>काठमांडू</trName></name>
+      <name><languageId>hr</languageId><trName>Kathmandu</trName></name>
+      <name><languageId>hu</languageId><trName>Katmandu</trName></name>
+      <name><languageId>hy</languageId><trName>Կատմանդու</trName></name>
+      <name><languageId>id</languageId><trName>Kathmandu</trName></name>
+      <name><languageId>is</languageId><trName>Katmandú</trName></name>
+      <name><languageId>it</languageId><trName>Kathmandu</trName></name>
+      <name><languageId>ja</languageId><trName>カトマンズ</trName></name>
+      <name><languageId>ka</languageId><trName>კატმანდუ</trName></name>
+      <name><languageId>kk</languageId><trName>Катманду</trName></name>
+      <name><languageId>km</languageId><trName>កដ្ឋមណ្ឌូ</trName></name>
+      <name><languageId>kn</languageId><trName>ಕಠ್ಮಂಡು</trName></name>
+      <name><languageId>ko</languageId><trName>카트만두</trName></name>
+      <name><languageId>ks</languageId><trName>کاٹھمَنڈوٗ</trName></name>
+      <name><languageId>ky</languageId><trName>Катманду</trName></name>
+      <name><languageId>lo</languageId><trName>ກາດສ໌ມັນດູ</trName></name>
+      <name><languageId>lt</languageId><trName>Katmandu</trName></name>
+      <name><languageId>lv</languageId><trName>Katmandu</trName></name>
+      <name><languageId>mk</languageId><trName>Катманду</trName></name>
+      <name><languageId>ml</languageId><trName>കാഠ്‌മണ്ഡു</trName></name>
+      <name><languageId>mn</languageId><trName>Катманду</trName></name>
+      <name><languageId>mr</languageId><trName>काठमांडू</trName></name>
+      <name><languageId>ms</languageId><trName>Kathmandu</trName></name>
+      <name><languageId>my</languageId><trName>ခတ္တမန္ဒူ</trName></name>
+      <name><languageId>nb</languageId><trName>Katmandu</trName></name>
+      <name><languageId>ne</languageId><trName>काठमाण्डौं</trName></name>
+      <name><languageId>nl</languageId><trName>Kathmandu</trName></name>
+      <name><languageId>pa</languageId><trName>ਕਾਠਮਾਂਡੂ</trName></name>
+      <name><languageId>pl</languageId><trName>Katmandu</trName></name>
+      <name><languageId>pt</languageId><trName>Catmandu</trName></name>
+      <name><languageId>ro</languageId><trName>Kathmandu</trName></name>
+      <name><languageId>ru</languageId><trName>Катманду</trName></name>
+      <name><languageId>si</languageId><trName>කත්මන්ඩු</trName></name>
+      <name><languageId>sk</languageId><trName>Káthmandu</trName></name>
+      <name><languageId>sl</languageId><trName>Katmandu</trName></name>
+      <name><languageId>sq</languageId><trName>Katmandu</trName></name>
+      <name><languageId>sr</languageId><trName>Катманду</trName></name>
+      <name><languageId>sr_Latn</languageId><trName>Katmandu</trName></name>
+      <name><languageId>sv</languageId><trName>Katmandu</trName></name>
+      <name><languageId>sw</languageId><trName>Kathmandu</trName></name>
+      <name><languageId>ta</languageId><trName>காத்மாண்டு</trName></name>
+      <name><languageId>te</languageId><trName>ఖాట్మండు</trName></name>
+      <name><languageId>th</languageId><trName>กาตมันดุ</trName></name>
+      <name><languageId>tr</languageId><trName>Katmandu</trName></name>
+      <name><languageId>uk</languageId><trName>Катманду</trName></name>
+      <name><languageId>ur</languageId><trName>کاٹھمنڈو</trName></name>
+      <name><languageId>uz</languageId><trName>Kathmandu</trName></name>
+      <name><languageId>vi</languageId><trName>Kathmandu</trName></name>
+      <name><languageId>zh</languageId><trName>加德满都</trName></name>
+      <name><languageId>zh_Hant</languageId><trName>加德滿都</trName></name>
     </names>
   </timezoneIdPart>
   <timezoneIdPart>
@@ -15081,6 +15533,79 @@
   <timezoneIdPart>
     <timezoneIdPartId>Kolkata</timezoneIdPartId>
     <names>
+      <name><languageId>af</languageId><trName>Kolkata</trName></name>
+      <name><languageId>am</languageId><trName>ኮልካታ</trName></name>
+      <name><languageId>ar</languageId><trName>كالكتا</trName></name>
+      <name><languageId>as</languageId><trName>এলাহাৱাদ</trName></name>
+      <name><languageId>az</languageId><trName>Kolkata</trName></name>
+      <name><languageId>bg</languageId><trName>Колката</trName></name>
+      <name><languageId>bn</languageId><trName>কলকাতা</trName></name>
+      <name><languageId>ca</languageId><trName>Calcuta</trName></name>
+      <name><languageId>cs</languageId><trName>Kalkata</trName></name>
+      <name><languageId>cy</languageId><trName>Calcutta</trName></name>
+      <name><languageId>da</languageId><trName>Kolkata</trName></name>
+      <name><languageId>de</languageId><trName>Kolkata</trName></name>
+      <name><languageId>dz</languageId><trName>ཀཱོལ་ཀ་ཊ</trName></name>
+      <name><languageId>el</languageId><trName>Καλκούτα</trName></name>
+      <name><languageId>es</languageId><trName>Calcuta</trName></name>
+      <name><languageId>et</languageId><trName>Kolkata</trName></name>
+      <name><languageId>eu</languageId><trName>Kolkata</trName></name>
+      <name><languageId>fa</languageId><trName>کلکته</trName></name>
+      <name><languageId>fi</languageId><trName>Kalkutta</trName></name>
+      <name><languageId>fil</languageId><trName>Kolkata</trName></name>
+      <name><languageId>fr</languageId><trName>Calcutta</trName></name>
+      <name><languageId>gl</languageId><trName>Calcuta</trName></name>
+      <name><languageId>gu</languageId><trName>કોલકાતા</trName></name>
+      <name><languageId>he</languageId><trName>קולקטה</trName></name>
+      <name><languageId>hi</languageId><trName>कोलकाता</trName></name>
+      <name><languageId>hr</languageId><trName>Kolkata</trName></name>
+      <name><languageId>hu</languageId><trName>Kalkutta</trName></name>
+      <name><languageId>hy</languageId><trName>Կալկուտա</trName></name>
+      <name><languageId>id</languageId><trName>Kolkata</trName></name>
+      <name><languageId>is</languageId><trName>Kalkútta</trName></name>
+      <name><languageId>it</languageId><trName>Kolkata</trName></name>
+      <name><languageId>ja</languageId><trName>コルカタ</trName></name>
+      <name><languageId>ka</languageId><trName>კალკუტა</trName></name>
+      <name><languageId>kk</languageId><trName>Колката</trName></name>
+      <name><languageId>km</languageId><trName>កុលកាតា</trName></name>
+      <name><languageId>kn</languageId><trName>ಕೊಲ್ಕತ್ತಾ</trName></name>
+      <name><languageId>ko</languageId><trName>콜카타</trName></name>
+      <name><languageId>ky</languageId><trName>Калькутта</trName></name>
+      <name><languageId>lo</languageId><trName>ໂກຣກາຕາ</trName></name>
+      <name><languageId>lt</languageId><trName>Kolkata</trName></name>
+      <name><languageId>lv</languageId><trName>Kolkata</trName></name>
+      <name><languageId>mk</languageId><trName>Колката</trName></name>
+      <name><languageId>ml</languageId><trName>കൊൽ‌ക്കത്ത</trName></name>
+      <name><languageId>mn</languageId><trName>Кольката</trName></name>
+      <name><languageId>mr</languageId><trName>कोलकाता</trName></name>
+      <name><languageId>ms</languageId><trName>Kolkata</trName></name>
+      <name><languageId>my</languageId><trName>ကိုလ်ကာတာ</trName></name>
+      <name><languageId>nb</languageId><trName>Kolkata</trName></name>
+      <name><languageId>ne</languageId><trName>कोलकाता</trName></name>
+      <name><languageId>nl</languageId><trName>Calcutta</trName></name>
+      <name><languageId>pa</languageId><trName>ਕੋਲਕਾਤਾ</trName></name>
+      <name><languageId>pl</languageId><trName>Kalkuta</trName></name>
+      <name><languageId>pt</languageId><trName>Kolkata</trName></name>
+      <name><languageId>ro</languageId><trName>Calcutta</trName></name>
+      <name><languageId>ru</languageId><trName>Калькутта</trName></name>
+      <name><languageId>si</languageId><trName>කල්කටා</trName></name>
+      <name><languageId>sk</languageId><trName>Kalkata</trName></name>
+      <name><languageId>sl</languageId><trName>Kolkata</trName></name>
+      <name><languageId>sq</languageId><trName>Kalkutë</trName></name>
+      <name><languageId>sr</languageId><trName>Калкута</trName></name>
+      <name><languageId>sr_Latn</languageId><trName>Kalkuta</trName></name>
+      <name><languageId>sv</languageId><trName>Kolkata</trName></name>
+      <name><languageId>sw</languageId><trName>Kolkata</trName></name>
+      <name><languageId>ta</languageId><trName>கொல்கத்தா</trName></name>
+      <name><languageId>te</languageId><trName>కోల్‌కతా</trName></name>
+      <name><languageId>th</languageId><trName>โกลกาตา</trName></name>
+      <name><languageId>tr</languageId><trName>Kalküta</trName></name>
+      <name><languageId>uk</languageId><trName>Колката</trName></name>
+      <name><languageId>ur</languageId><trName>کولکاتا</trName></name>
+      <name><languageId>uz</languageId><trName>Kolkata</trName></name>
+      <name><languageId>vi</languageId><trName>Kolkata</trName></name>
+      <name><languageId>zh</languageId><trName>加尔各答</trName></name>
+      <name><languageId>zh_Hant</languageId><trName>加爾各答</trName></name>
     </names>
   </timezoneIdPart>
   <timezoneIdPart>
@@ -23858,6 +24383,80 @@
   <timezoneIdPart>
     <timezoneIdPartId>Pohnpei</timezoneIdPartId>
     <names>
+      <name><languageId>af</languageId><trName>Pohnpei</trName></name>
+      <name><languageId>am</languageId><trName>ፖህንፔ</trName></name>
+      <name><languageId>ar</languageId><trName>باناب</trName></name>
+      <name><languageId>az</languageId><trName>Pohnpei</trName></name>
+      <name><languageId>bg</languageId><trName>Понпей</trName></name>
+      <name><languageId>bn</languageId><trName>পোনাপে</trName></name>
+      <name><languageId>brx</languageId><trName>पोनापे</trName></name>
+      <name><languageId>bs</languageId><trName>Ponape</trName></name>
+      <name><languageId>ca</languageId><trName>Pohnpei</trName></name>
+      <name><languageId>cs</languageId><trName>Pohnpei</trName></name>
+      <name><languageId>cy</languageId><trName>Pohnpei</trName></name>
+      <name><languageId>da</languageId><trName>Pohnpei</trName></name>
+      <name><languageId>de</languageId><trName>Pohnpei</trName></name>
+      <name><languageId>el</languageId><trName>Πονάπε</trName></name>
+      <name><languageId>es</languageId><trName>Pohnpei</trName></name>
+      <name><languageId>et</languageId><trName>Pohnpei</trName></name>
+      <name><languageId>eu</languageId><trName>Pohnpei</trName></name>
+      <name><languageId>fa</languageId><trName>پانپی</trName></name>
+      <name><languageId>fi</languageId><trName>Pohnpei</trName></name>
+      <name><languageId>fil</languageId><trName>Pohnpei</trName></name>
+      <name><languageId>fr</languageId><trName>Pohnpei</trName></name>
+      <name><languageId>gl</languageId><trName>Pohnpei</trName></name>
+      <name><languageId>gu</languageId><trName>પોન્પે</trName></name>
+      <name><languageId>he</languageId><trName>פונפה</trName></name>
+      <name><languageId>hi</languageId><trName>पोनपेई</trName></name>
+      <name><languageId>hr</languageId><trName>Pohnpei</trName></name>
+      <name><languageId>hu</languageId><trName>Ponape-szigetek</trName></name>
+      <name><languageId>hy</languageId><trName>Պոնպեի</trName></name>
+      <name><languageId>id</languageId><trName>Pohnpei</trName></name>
+      <name><languageId>is</languageId><trName>Pohnpei</trName></name>
+      <name><languageId>it</languageId><trName>Pohnpei</trName></name>
+      <name><languageId>ja</languageId><trName>ポンペイ島</trName></name>
+      <name><languageId>ka</languageId><trName>პონპეი</trName></name>
+      <name><languageId>kk</languageId><trName>Понапе</trName></name>
+      <name><languageId>km</languageId><trName>ផុនប៉ី</trName></name>
+      <name><languageId>kn</languageId><trName>ಪೋನ್‌ಪೆ</trName></name>
+      <name><languageId>ko</languageId><trName>포나페</trName></name>
+      <name><languageId>ks</languageId><trName>پوناپے</trName></name>
+      <name><languageId>ky</languageId><trName>Понпей</trName></name>
+      <name><languageId>lo</languageId><trName>ໂປນາເປ</trName></name>
+      <name><languageId>lt</languageId><trName>Ponapė</trName></name>
+      <name><languageId>lv</languageId><trName>Ponpeja</trName></name>
+      <name><languageId>mk</languageId><trName>Понпеј</trName></name>
+      <name><languageId>ml</languageId><trName>പൊനാപ്</trName></name>
+      <name><languageId>mn</languageId><trName>Понпей</trName></name>
+      <name><languageId>mr</languageId><trName>पोनपेई</trName></name>
+      <name><languageId>ms</languageId><trName>Pohnpei</trName></name>
+      <name><languageId>my</languageId><trName>ဖိုနာဖဲအ်</trName></name>
+      <name><languageId>nb</languageId><trName>Pohnpei</trName></name>
+      <name><languageId>ne</languageId><trName>पोनापे</trName></name>
+      <name><languageId>nl</languageId><trName>Pohnpei</trName></name>
+      <name><languageId>pa</languageId><trName>ਪੋਹਨਪੇਈ</trName></name>
+      <name><languageId>pl</languageId><trName>Pohnpei</trName></name>
+      <name><languageId>pt</languageId><trName>Pohnpei</trName></name>
+      <name><languageId>ro</languageId><trName>Pohnpei</trName></name>
+      <name><languageId>ru</languageId><trName>Понапе, о-в</trName></name>
+      <name><languageId>si</languageId><trName>පොන්පෙයි</trName></name>
+      <name><languageId>sk</languageId><trName>Pohnpei</trName></name>
+      <name><languageId>sl</languageId><trName>Pohnpei</trName></name>
+      <name><languageId>sq</languageId><trName>Ponapei</trName></name>
+      <name><languageId>sr</languageId><trName>Понапе</trName></name>
+      <name><languageId>sr_Latn</languageId><trName>Ponape</trName></name>
+      <name><languageId>sv</languageId><trName>Pohnpei</trName></name>
+      <name><languageId>sw</languageId><trName>Pohnpei</trName></name>
+      <name><languageId>ta</languageId><trName>ஃபோன்பெய்</trName></name>
+      <name><languageId>te</languageId><trName>పోన్‌పై</trName></name>
+      <name><languageId>th</languageId><trName>โปนาเป</trName></name>
+      <name><languageId>tr</languageId><trName>Pohnpei</trName></name>
+      <name><languageId>uk</languageId><trName>Понапе</trName></name>
+      <name><languageId>ur</languageId><trName>پونپیئی</trName></name>
+      <name><languageId>uz</languageId><trName>Pohnpei</trName></name>
+      <name><languageId>vi</languageId><trName>Pohnpei</trName></name>
+      <name><languageId>zh</languageId><trName>波纳佩岛</trName></name>
+      <name><languageId>zh_Hant</languageId><trName>波納佩</trName></name>
     </names>
   </timezoneIdPart>
   <timezoneIdPart>
