@@ -68,6 +68,16 @@ def parse_args():
 translations_languages = {}
 translations_territories = {}
 translations_timezone_cities = {}
+timezone_city_aliases = {
+    'Calcutta': 'Kolkata',
+    'Asmera': 'Asmara',
+    'Coral_Harbour': 'Atikokan',
+    'Truk': 'Chuuk',
+    'Faeroe': 'Faroe',
+    'Saigon': 'Ho_Chi_Minh',
+    'Katmandu': 'Kathmandu',
+    'Ponape': 'Pohnpei',
+}
 
 def read_translations_from_cldr_file(file = None):
     translations_languages.clear()
@@ -117,6 +127,9 @@ def read_translations_from_cldr_file(file = None):
                                                 if element.tag == 'exemplarCity':
                                                     cityTranslation = element.text
                                                     translations_timezone_cities[idPart] = cityTranslation
+    for alias in timezone_city_aliases:
+        if alias in translations_timezone_cities:
+            translations_timezone_cities[timezone_city_aliases[alias]] = translations_timezone_cities[alias]
     return
 
 def get_translations_from_cldr(main_cldr_dir = None):
