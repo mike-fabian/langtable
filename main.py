@@ -197,11 +197,12 @@ def get_translations_from_cldr(main_cldr_dir = None):
         for timezone_city_to_translate in translations_timezone_cities:
             if timezone_city_to_translate in langtable._timezoneIdParts_db:
                 if target_language not in langtable._timezoneIdParts_db[timezone_city_to_translate].names:
-                    print "Missing: %(timezone_city_to_translate)s → %(target_language)s = %(tr)s" \
-                        %{'timezone_city_to_translate': timezone_city_to_translate,
-                          'target_language': target_language,
-                          'tr': translations_timezone_cities[timezone_city_to_translate].encode('UTF-8')}
-                    langtable._timezoneIdParts_db[timezone_city_to_translate].names[target_language] = translations_timezone_cities[timezone_city_to_translate]
+                    if timezone_city_to_translate not in ['Vevay', 'Center']:
+                        print "Missing: %(timezone_city_to_translate)s → %(target_language)s = %(tr)s" \
+                            %{'timezone_city_to_translate': timezone_city_to_translate,
+                              'target_language': target_language,
+                              'tr': translations_timezone_cities[timezone_city_to_translate].encode('UTF-8')}
+                        langtable._timezoneIdParts_db[timezone_city_to_translate].names[target_language] = translations_timezone_cities[timezone_city_to_translate]
                 elif translations_timezone_cities[timezone_city_to_translate] \
                      == langtable._timezoneIdParts_db[timezone_city_to_translate].names[target_language]:
                     if opts['debug']:
@@ -210,14 +211,15 @@ def get_translations_from_cldr(main_cldr_dir = None):
                               'target_language': target_language,
                               'tr': translations_timezone_cities[timezone_city_to_translate].encode('UTF-8')}
                 else:
-                    print "- %(timezone_city_to_translate)s → %(target_language)s = %(tr)s" \
-                        %{'timezone_city_to_translate': timezone_city_to_translate,
-                          'target_language': target_language,
-                          'tr': langtable._timezoneIdParts_db[timezone_city_to_translate].names[target_language].encode('UTF-8')}
-                    print "+ %(timezone_city_to_translate)s → %(target_language)s = %(tr)s" \
-                        %{'timezone_city_to_translate': timezone_city_to_translate,
-                          'target_language': target_language,
-                          'tr': translations_timezone_cities[timezone_city_to_translate].encode('UTF-8')}
+                    if timezone_city_to_translate not in ['Marengo', 'Knox', 'Tell_City', 'Beulah', 'Winamac', 'Vincennes', 'Petersburg', 'Monticello', 'New_Salem', 'Center', 'Melbourne', 'Darwin', 'Hobart', 'Sydney', 'Broken_Hill', 'Mendoza', 'Perth', 'San_Juan', 'Cordoba', 'Brisbane', 'Adelaide', 'Catamarca', 'Currie', 'Vevay', 'Eucla']:
+                        print "- %(timezone_city_to_translate)s → %(target_language)s = %(tr)s" \
+                            %{'timezone_city_to_translate': timezone_city_to_translate,
+                              'target_language': target_language,
+                              'tr': langtable._timezoneIdParts_db[timezone_city_to_translate].names[target_language].encode('UTF-8')}
+                        print "+ %(timezone_city_to_translate)s → %(target_language)s = %(tr)s" \
+                            %{'timezone_city_to_translate': timezone_city_to_translate,
+                              'target_language': target_language,
+                              'tr': translations_timezone_cities[timezone_city_to_translate].encode('UTF-8')}
     return
 
 def main():
