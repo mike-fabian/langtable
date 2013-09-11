@@ -1036,3 +1036,11 @@
 >>> languageId("sHuSwAp laNguAge")  # doctest: +NORMALIZE_WHITESPACE
     'shs'
 
+>>> languageId("Czech (Czech Republic)")  # doctest: +NORMALIZE_WHITESPACE
+    'cs_CZ'
+
+>>> languageId("English (United Kingdom)")  # doctest: +NORMALIZE_WHITESPACE
+    'en_GB'
+
+>>> languageId("Low German (Germany)")  # doctest: +NORMALIZE_WHITESPACE
+    'nds_DE'

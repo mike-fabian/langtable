@@ -930,7 +930,7 @@ def languageId(languageName = u''):
             if languageName.lower() == _languages_db[languageId].names[icuLocaleId].lower():
                 return languageId
     language_territory_pattern = re.compile(
-        r'^(?P<language_name>[\S]+)[\s]+[(](?P<territory_name>[\S]+)[)]',
+        r'^(?P<language_name>[^()]+)[\s]+[(](?P<territory_name>[^()]+)[)]',
         re.MULTILINE|re.UNICODE)
     match = language_territory_pattern.search(languageName)
     if match:
