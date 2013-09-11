@@ -860,6 +860,13 @@ def _parse_and_split_languageId(languageId=None, scriptId=None, territoryId=None
                 territoryId = match.group('territory')
         else:
             logging.info("languageId contains invalid locale id=%s" %languageId)
+    # if the language is Chinese and only the territory is given
+    # but not the script, add the default script for the territory:
+    if languageId == 'zh' and territoryId and not scriptId:
+        if territoryId in ['CN', 'SG']:
+            scriptId = 'Hans'
+        elif territoryId in ['HK', 'MO', 'TW']:
+            scriptId = 'Hant'
     return (languageId, scriptId, territoryId)
 
 def territory_name(territoryId = None, languageIdQuery = None, scriptIdQuery = None, territoryIdQuery = None):
@@ -971,22 +978,38 @@ def language_name(languageId = None, scriptId = None, territoryId = None, langua
     if languageId and scriptId:
         icuLocaleId = languageId+'_'+scriptId
         if icuLocaleId in _languages_db:
+            cname = territory_name(territoryId=territoryId,
+                                   languageIdQuery=languageIdQuery,
+                                   scriptIdQuery=scriptIdQuery,
+                                   territoryIdQuery=territoryIdQuery)
             if languageIdQuery and  scriptIdQuery and territoryIdQuery:
                 icuLocaleIdQuery = languageIdQuery+'_'+scriptIdQuery+'_'+territoryIdQuery
                 if icuLocaleIdQuery in _languages_db[icuLocaleId].names:
-                    return _languages_db[icuLocaleId].names[icuLocaleIdQuery]
+                    lname = _languages_db[icuLocaleId].names[icuLocaleIdQuery]
+                    if cname:
+                        return lname + ' ('+cname+')'
+                    return lname
             if languageIdQuery and  scriptIdQuery:
                 icuLocaleIdQuery = languageIdQuery+'_'+scriptIdQuery
                 if icuLocaleIdQuery in _languages_db[icuLocaleId].names:
-                    return _languages_db[icuLocaleId].names[icuLocaleIdQuery]
+                    lname = _languages_db[icuLocaleId].names[icuLocaleIdQuery]
+                    if cname:
+                        return lname + ' ('+cname+')'
+                    return lname
             if  languageIdQuery and  territoryIdQuery:
                 icuLocaleIdQuery = languageIdQuery+'_'+territoryIdQuery
                 if icuLocaleIdQuery in _languages_db[icuLocaleId].names:
-                    return _languages_db[icuLocaleId].names[icuLocaleIdQuery]
+                    lname = _languages_db[icuLocaleId].names[icuLocaleIdQuery]
+                    if cname:
+                        return lname + ' ('+cname+')'
+                    return lname
             if languageIdQuery:
                 icuLocaleIdQuery = languageIdQuery
                 if icuLocaleIdQuery in _languages_db[icuLocaleId].names:
-                    return _languages_db[icuLocaleId].names[icuLocaleIdQuery]
+                    lname = _languages_db[icuLocaleId].names[icuLocaleIdQuery]
+                    if cname:
+                        return lname + ' ('+cname+')'
+                    return lname
     if languageId and territoryId:
         icuLocaleId = languageId+'_'+territoryId
         if icuLocaleId in _languages_db:

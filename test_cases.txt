@@ -753,10 +753,10 @@
     Traditionelles Chinesisch (Taiwan)
 
 >>> print language_name(languageId="zh", territoryId="TW", languageIdQuery="es").encode("UTF-8") # doctest: +NORMALIZE_WHITESPACE
-    chino (Taiwán)
+    chino tradicional (Taiwán)
 
 >>> print language_name(languageId="zh", territoryId="TW", languageIdQuery="es", territoryIdQuery="ES").encode("UTF-8") # doctest: +NORMALIZE_WHITESPACE
-    chino (Taiwán)
+    chino tradicional (Taiwán)
 
 >>> print language_name(languageId="zh", territoryId="TW", languageIdQuery="zh").encode("UTF-8") # doctest: +NORMALIZE_WHITESPACE
     繁体中文 (台湾)
@@ -771,19 +771,19 @@
     繁體中文 (中華人民共和國澳門特別行政區)
 
 >>> print language_name(languageId="zh", scriptId="Hans", territoryId="CN").encode("UTF-8") # doctest: +NORMALIZE_WHITESPACE
-    简体中文
+    简体中文 (中国)
 
 >>> print language_name(languageId="zh", scriptId="Hans", territoryId="SG").encode("UTF-8") # doctest: +NORMALIZE_WHITESPACE
-    简体中文
+    简体中文 (新加坡)
 
 >>> print language_name(languageId="zh", scriptId="Hant", territoryId="TW").encode("UTF-8") # doctest: +NORMALIZE_WHITESPACE
-    繁體中文
+    繁體中文 (台灣)
 
 >>> print language_name(languageId="zh", scriptId="Hant", territoryId="HK").encode("UTF-8") # doctest: +NORMALIZE_WHITESPACE
-    繁體中文
+    繁體中文 (中華人民共和國香港特別行政區)
 
 >>> print language_name(languageId="zh", scriptId="Hant", territoryId="MO").encode("UTF-8") # doctest: +NORMALIZE_WHITESPACE
-    繁體中文
+    繁體中文 (中華人民共和國澳門特別行政區)
 
 >>> print language_name(languageId="sr").encode("UTF-8") # doctest: +NORMALIZE_WHITESPACE
     Српски
@@ -801,10 +801,10 @@
     Srpski (Latinica)
 
 >>> print language_name(languageId="sr", scriptId="Cyrl", territoryId="RS").encode("UTF-8") # doctest: +NORMALIZE_WHITESPACE
-    Српски (Ћирилица)
+    Српски (Ћирилица) (Србија)
 
 >>> print language_name(languageId="sr", scriptId="Latn", territoryId="RS").encode("UTF-8") # doctest: +NORMALIZE_WHITESPACE
-    Srpski (Latinica)
+    Srpski (Latinica) (Srbija)
 
 >>> print language_name(languageId="sr", languageIdQuery="en").encode("UTF-8") # doctest: +NORMALIZE_WHITESPACE
     Serbian
@@ -816,14 +816,14 @@
     Serbian (Montenegro)
 
 >>> print language_name(languageId="sr", scriptId="Cyrl", territoryId="RS", languageIdQuery="en").encode("UTF-8") # doctest: +NORMALIZE_WHITESPACE
-    Serbian (Cyrillic)
+    Serbian (Cyrillic) (Serbia)
 
 >>> print language_name(languageId="sr", scriptId="Latn", territoryId="RS", languageIdQuery="en").encode("UTF-8") # doctest: +NORMALIZE_WHITESPACE
-    Serbian (Latin)
+    Serbian (Latin) (Serbia)
 
 # script and territory given in languageId override script and territory in extra parameters:
 >>> print language_name(languageId="sr_Latn_RS", scriptId="Cyrl", territoryId="DE", languageIdQuery="en").encode("UTF-8") # doctest: +NORMALIZE_WHITESPACE
-    Serbian (Latin)
+    Serbian (Latin) (Serbia)
 
 >>> print language_name(languageId="be").encode("UTF-8") # doctest: +NORMALIZE_WHITESPACE
     беларуская
@@ -1054,7 +1054,7 @@
 >>> print langtable.timezone_name(timezoneId='Europe/Berlin', languageIdQuery='zh_CN').encode('UTF-8')  # doctest: +NORMALIZE_WHITESPACE
     欧洲/柏林
 >>> print langtable.timezone_name(timezoneId='Europe/Berlin', languageIdQuery='zh_TW').encode('UTF-8')  # doctest: +NORMALIZE_WHITESPACE
-    欧洲/柏林
+    歐洲/柏林
 
 >>> print(langtable.timezone_name(timezoneId='GMT+1', languageIdQuery='cs'))  # doctest: +NORMALIZE_WHITESPACE
     GMT+1

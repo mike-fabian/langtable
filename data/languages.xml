@@ -21029,7 +21029,7 @@
     </timezones>
   </language>
   <language>
-    <languageId>zh_CN</languageId>
+    <languageId>zh_Hans_CN</languageId>
     <iso639-1>zh</iso639-1>
     <iso639-2-t>zho</iso639-2-t>
     <iso639-2-b>chi</iso639-2-b>
@@ -21054,7 +21054,7 @@
     </timezones>
   </language>
   <language>
-    <languageId>zh_HK</languageId>
+    <languageId>zh_Hant_HK</languageId>
     <iso639-1>zh</iso639-1>
     <iso639-2-t>zho</iso639-2-t>
     <iso639-2-b>chi</iso639-2-b>
@@ -21322,7 +21322,7 @@
     </timezones>
   </language>
   <language>
-    <languageId>zh_MO</languageId>
+    <languageId>zh_Hant_MO</languageId>
     <iso639-1>zh</iso639-1>
     <iso639-2-t>zho</iso639-2-t>
     <iso639-2-b>chi</iso639-2-b>
@@ -21349,7 +21349,7 @@
     </timezones>
   </language>
   <language>
-    <languageId>zh_SG</languageId>
+    <languageId>zh_Hans_SG</languageId>
     <iso639-1>zh</iso639-1>
     <iso639-2-t>zho</iso639-2-t>
     <iso639-2-b>chi</iso639-2-b>
@@ -21375,7 +21375,7 @@
     </timezones>
   </language>
   <language>
-    <languageId>zh_TW</languageId>
+    <languageId>zh_Hant_TW</languageId>
     <iso639-1>zh</iso639-1>
     <iso639-2-t>zho</iso639-2-t>
     <iso639-2-b>chi</iso639-2-b>
