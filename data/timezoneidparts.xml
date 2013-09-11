@@ -576,6 +576,84 @@
   <timezoneIdPart>
     <timezoneIdPartId>Alaska</timezoneIdPartId>
     <names>
+      <name><languageId>af</languageId><trName>Alaska</trName></name>
+      <name><languageId>am</languageId><trName>አላስካ</trName></name>
+      <name><languageId>ar</languageId><trName>ألاسكا</trName></name>
+      <name><languageId>ast</languageId><trName>Alaska</trName></name>
+      <name><languageId>az</languageId><trName>Alyaska</trName></name>
+      <name><languageId>be</languageId><trName>Аляска</trName></name>
+      <name><languageId>bg</languageId><trName>Аляска</trName></name>
+      <name><languageId>bh</languageId><trName>अलास्का</trName></name>
+      <name><languageId>bn</languageId><trName>আলাস্কা</trName></name>
+      <name><languageId>bs</languageId><trName>Aljaska</trName></name>
+      <name><languageId>ca</languageId><trName>Alaska</trName></name>
+      <name><languageId>crh</languageId><trName>Alaska</trName></name>
+      <name><languageId>cs</languageId><trName>Aljaška</trName></name>
+      <name><languageId>cy</languageId><trName>Alaska</trName></name>
+      <name><languageId>da</languageId><trName>Alaska</trName></name>
+      <name><languageId>de</languageId><trName>Alaska</trName></name>
+      <name><languageId>el</languageId><trName>Αλάσκα</trName></name>
+      <name><languageId>en</languageId><trName>Alaska</trName></name>
+      <name><languageId>eo</languageId><trName>Alasko</trName></name>
+      <name><languageId>es</languageId><trName>Alaska</trName></name>
+      <name><languageId>et</languageId><trName>Alaska</trName></name>
+      <name><languageId>eu</languageId><trName>Alaska</trName></name>
+      <name><languageId>fa</languageId><trName>آلاسکا</trName></name>
+      <name><languageId>fi</languageId><trName>Alaska</trName></name>
+      <name><languageId>fr</languageId><trName>Alaska</trName></name>
+      <name><languageId>gl</languageId><trName>Alasca</trName></name>
+      <name><languageId>he</languageId><trName>אלסקה</trName></name>
+      <name><languageId>hi</languageId><trName>अलास्का</trName></name>
+      <name><languageId>hr</languageId><trName>Aljaska</trName></name>
+      <name><languageId>hu</languageId><trName>Alaszka</trName></name>
+      <name><languageId>hy</languageId><trName>Ալյասկա</trName></name>
+      <name><languageId>ia</languageId><trName>Alaska</trName></name>
+      <name><languageId>id</languageId><trName>Alaska</trName></name>
+      <name><languageId>ilo</languageId><trName>Alaska</trName></name>
+      <name><languageId>is</languageId><trName>Alaska</trName></name>
+      <name><languageId>it</languageId><trName>Alaska</trName></name>
+      <name><languageId>ja</languageId><trName>アラスカ</trName></name>
+      <name><languageId>ka</languageId><trName>ალასკა</trName></name>
+      <name><languageId>kk</languageId><trName>Аляска штаты</trName></name>
+      <name><languageId>kn</languageId><trName>ಅಲಾಸ್ಕ</trName></name>
+      <name><languageId>ko</languageId><trName>알라스카</trName></name>
+      <name><languageId>lt</languageId><trName>Aliaska</trName></name>
+      <name><languageId>lv</languageId><trName>Aļaska</trName></name>
+      <name><languageId>mk</languageId><trName>Алјаска</trName></name>
+      <name><languageId>ml</languageId><trName>അലാസ്ക</trName></name>
+      <name><languageId>mr</languageId><trName>अलास्का</trName></name>
+      <name><languageId>ms</languageId><trName>Alaska</trName></name>
+      <name><languageId>nb</languageId><trName>Alaska</trName></name>
+      <name><languageId>nds</languageId><trName>Alaska</trName></name>
+      <name><languageId>ne</languageId><trName>अलास्का</trName></name>
+      <name><languageId>new</languageId><trName>अलास्का</trName></name>
+      <name><languageId>nl</languageId><trName>Alaska</trName></name>
+      <name><languageId>nn</languageId><trName>Alaska</trName></name>
+      <name><languageId>or</languageId><trName>ଆଲାସ୍କା</trName></name>
+      <name><languageId>pa</languageId><trName>ਅਲਾਸਕਾ</trName></name>
+      <name><languageId>pl</languageId><trName>Alaska</trName></name>
+      <name><languageId>pt</languageId><trName>Alasca</trName></name>
+      <name><languageId>pt_BR</languageId><trName>Alasca</trName></name>
+      <name><languageId>ro</languageId><trName>Alaska</trName></name>
+      <name><languageId>ru</languageId><trName>Аляска</trName></name>
+      <name><languageId>sk</languageId><trName>Alijaška</trName></name>
+      <name><languageId>sl</languageId><trName>Aljaska</trName></name>
+      <name><languageId>sq</languageId><trName>Alaska</trName></name>
+      <name><languageId>sr</languageId><trName>Аљаска</trName></name>
+      <name><languageId>sr_Cyrl</languageId><trName>Аљаска</trName></name>
+      <name><languageId>sr_Latn</languageId><trName>Aljaska</trName></name>
+      <name><languageId>sv</languageId><trName>Alaska</trName></name>
+      <name><languageId>ta</languageId><trName>அலாஸ்கா</trName></name>
+      <name><languageId>te</languageId><trName>అలాస్కా</trName></name>
+      <name><languageId>tg</languageId><trName>Аляска</trName></name>
+      <name><languageId>th</languageId><trName>อะแลสกา</trName></name>
+      <name><languageId>tr</languageId><trName>Alaska</trName></name>
+      <name><languageId>uk</languageId><trName>Аляска</trName></name>
+      <name><languageId>ur</languageId><trName>الاسکا</trName></name>
+      <name><languageId>vi</languageId><trName>Alaska</trName></name>
+      <name><languageId>wa</languageId><trName>Alaska</trName></name>
+      <name><languageId>zh</languageId><trName>阿拉斯加州</trName></name>
+      <name><languageId>zh_Hant</languageId><trName>阿拉斯加州</trName></name>
     </names>
   </timezoneIdPart>
   <timezoneIdPart>
@@ -2014,6 +2092,78 @@
   <timezoneIdPart>
     <timezoneIdPartId>Arizona</timezoneIdPartId>
     <names>
+      <name><languageId>af</languageId><trName>Arizona</trName></name>
+      <name><languageId>am</languageId><trName>አሪዞና</trName></name>
+      <name><languageId>ar</languageId><trName>أريزونا</trName></name>
+      <name><languageId>ast</languageId><trName>Arizona</trName></name>
+      <name><languageId>be</languageId><trName>Арызона</trName></name>
+      <name><languageId>bg</languageId><trName>Аризона</trName></name>
+      <name><languageId>bn</languageId><trName>অ্যারিজোনা</trName></name>
+      <name><languageId>bs</languageId><trName>Arizona</trName></name>
+      <name><languageId>ca</languageId><trName>Arizona</trName></name>
+      <name><languageId>cs</languageId><trName>Arizona</trName></name>
+      <name><languageId>cy</languageId><trName>Arizona</trName></name>
+      <name><languageId>da</languageId><trName>Arizona</trName></name>
+      <name><languageId>de</languageId><trName>Arizona</trName></name>
+      <name><languageId>el</languageId><trName>Αριζόνα</trName></name>
+      <name><languageId>en</languageId><trName>Arizona</trName></name>
+      <name><languageId>es</languageId><trName>Arizona</trName></name>
+      <name><languageId>et</languageId><trName>Arizona</trName></name>
+      <name><languageId>eu</languageId><trName>Arizona</trName></name>
+      <name><languageId>fa</languageId><trName>آریزونا</trName></name>
+      <name><languageId>fi</languageId><trName>Arizona</trName></name>
+      <name><languageId>fr</languageId><trName>Arizona</trName></name>
+      <name><languageId>gl</languageId><trName>Arizona</trName></name>
+      <name><languageId>he</languageId><trName>אריזונה</trName></name>
+      <name><languageId>hi</languageId><trName>एरीजोना</trName></name>
+      <name><languageId>hr</languageId><trName>Arizona</trName></name>
+      <name><languageId>hu</languageId><trName>Arizona</trName></name>
+      <name><languageId>hy</languageId><trName>Արիզոնա</trName></name>
+      <name><languageId>ia</languageId><trName>Arizona</trName></name>
+      <name><languageId>id</languageId><trName>Arizona</trName></name>
+      <name><languageId>ilo</languageId><trName>Arizona</trName></name>
+      <name><languageId>is</languageId><trName>Arizona</trName></name>
+      <name><languageId>it</languageId><trName>Arizona</trName></name>
+      <name><languageId>ja</languageId><trName>アリゾナ州</trName></name>
+      <name><languageId>ka</languageId><trName>არიზონა</trName></name>
+      <name><languageId>kk</languageId><trName>Аризона</trName></name>
+      <name><languageId>kn</languageId><trName>ಆರಿಜೋನ</trName></name>
+      <name><languageId>ko</languageId><trName>애리조나 주</trName></name>
+      <name><languageId>lt</languageId><trName>Arizona</trName></name>
+      <name><languageId>lv</languageId><trName>Arizona</trName></name>
+      <name><languageId>mk</languageId><trName>Аризона</trName></name>
+      <name><languageId>ml</languageId><trName>അരിസോണ</trName></name>
+      <name><languageId>mr</languageId><trName>ॲरिझोना</trName></name>
+      <name><languageId>ms</languageId><trName>Arizona</trName></name>
+      <name><languageId>nb</languageId><trName>Arizona</trName></name>
+      <name><languageId>nds</languageId><trName>Arizona</trName></name>
+      <name><languageId>ne</languageId><trName>एरिजोना</trName></name>
+      <name><languageId>new</languageId><trName>एरिजोना</trName></name>
+      <name><languageId>nl</languageId><trName>Arizona</trName></name>
+      <name><languageId>nn</languageId><trName>Arizona</trName></name>
+      <name><languageId>pa</languageId><trName>ਐਰੀਜ਼ੋਨਾ</trName></name>
+      <name><languageId>pl</languageId><trName>Arizona</trName></name>
+      <name><languageId>pt</languageId><trName>Arizona</trName></name>
+      <name><languageId>pt_BR</languageId><trName>Arizona</trName></name>
+      <name><languageId>ro</languageId><trName>Arizona</trName></name>
+      <name><languageId>ru</languageId><trName>Аризона</trName></name>
+      <name><languageId>sk</languageId><trName>Arizona</trName></name>
+      <name><languageId>sl</languageId><trName>Arizona</trName></name>
+      <name><languageId>sq</languageId><trName>Arizona</trName></name>
+      <name><languageId>sr</languageId><trName>Аризона</trName></name>
+      <name><languageId>sr_Cyrl</languageId><trName>Аризона</trName></name>
+      <name><languageId>sr_Latn</languageId><trName>Arizona</trName></name>
+      <name><languageId>sv</languageId><trName>Arizona</trName></name>
+      <name><languageId>ta</languageId><trName>அரிசோனா</trName></name>
+      <name><languageId>te</languageId><trName>ఆరిజోనా</trName></name>
+      <name><languageId>th</languageId><trName>รัฐแอริโซนา</trName></name>
+      <name><languageId>tr</languageId><trName>Arizona</trName></name>
+      <name><languageId>uk</languageId><trName>Аризона</trName></name>
+      <name><languageId>ur</languageId><trName>ایریزونا</trName></name>
+      <name><languageId>vi</languageId><trName>Arizona</trName></name>
+      <name><languageId>zh</languageId><trName>亞利桑那州</trName></name>
+      <name><languageId>zh_Hant</languageId><trName>亞利桑拿州</trName></name>
+      <name><languageId>zu</languageId><trName>Arizona</trName></name>
     </names>
   </timezoneIdPart>
   <timezoneIdPart>
@@ -6688,6 +6838,85 @@
   <timezoneIdPart>
     <timezoneIdPartId>Central</timezoneIdPartId>
     <names>
+      <name><languageId>af</languageId><trName>Sentrale tyd</trName></name>
+      <name><languageId>am</languageId><trName>መካከለኛ የሰዓት አቆጣጠር</trName></name>
+      <name><languageId>ar</languageId><trName>التوقيت المركزي</trName></name>
+      <name><languageId>ast</languageId><trName>Hora central norteamericana</trName></name>
+      <name><languageId>be</languageId><trName>Паўночнаамэрыканскі цэнтральны час</trName></name>
+      <name><languageId>bg</languageId><trName>Северноамериканско централно време</trName></name>
+      <name><languageId>bn</languageId><trName>উত্তর আমিরিকা কেন্দ্রীয় সময়</trName></name>
+      <name><languageId>bs</languageId><trName>Centralno vreme</trName></name>
+      <name><languageId>bs_Cyrl</languageId><trName>Централно време</trName></name>
+      <name><languageId>ca</languageId><trName>Hora central d'Amèrica del Nord</trName></name>
+      <name><languageId>cs</languageId><trName>Severoamerický centrální čas</trName></name>
+      <name><languageId>cy</languageId><trName>Amser Canolbarth Gogledd America</trName></name>
+      <name><languageId>da</languageId><trName>Central-tid</trName></name>
+      <name><languageId>de</languageId><trName>Nordamerikanische Inlandzeit</trName></name>
+      <name><languageId>el</languageId><trName>Κεντρική ώρα Βόρειας Αμερικής</trName></name>
+      <name><languageId>en</languageId><trName>Central Time</trName></name>
+      <name><languageId>es</languageId><trName>Hora central</trName></name>
+      <name><languageId>et</languageId><trName>Kesk-Ameerika aeg</trName></name>
+      <name><languageId>eu</languageId><trName>Ipar Amerikako erdialdeko ordua</trName></name>
+      <name><languageId>fa</languageId><trName>وقت مرکز امریکا</trName></name>
+      <name><languageId>fi</languageId><trName>Yhdysvaltain keskinen aika</trName></name>
+      <name><languageId>fr</languageId><trName>heure du centre</trName></name>
+      <name><languageId>gl</languageId><trName>Horario central</trName></name>
+      <name><languageId>gu</languageId><trName>ઉત્તર અમેરિકન મધ્ય સમય</trName></name>
+      <name><languageId>he</languageId><trName>שעון מרכז ארה״ב</trName></name>
+      <name><languageId>hi</languageId><trName>उत्तरी अमेरिकी केंद्रीय समय</trName></name>
+      <name><languageId>hr</languageId><trName>središnje vrijeme</trName></name>
+      <name><languageId>hu</languageId><trName>Középső államokbeli idő</trName></name>
+      <name><languageId>hy</languageId><trName>Միջին ամերիկյան ժամանակ</trName></name>
+      <name><languageId>id</languageId><trName>Waktu Tengah</trName></name>
+      <name><languageId>is</languageId><trName>Tími í miðhluta</trName></name>
+      <name><languageId>it</languageId><trName>Ora centrale</trName></name>
+      <name><languageId>ja</languageId><trName>中部時間</trName></name>
+      <name><languageId>ka</languageId><trName>ჩრდილოეთ ამერიკის ცენტრალური დრო</trName></name>
+      <name><languageId>kk</languageId><trName>Солтүстік Америка орталығының уақыты</trName></name>
+      <name><languageId>km</languageId><trName>ម៉ោង​ភាគ​កណ្ដាល​នៅ​អាមេរិក​ខាង​ជើង</trName></name>
+      <name><languageId>kn</languageId><trName>ಕೇಂದ್ರ ಸಮಯ</trName></name>
+      <name><languageId>ko</languageId><trName>미 중부 시간</trName></name>
+      <name><languageId>ks</languageId><trName>مرکزی ٹایِم</trName></name>
+      <name><languageId>ky</languageId><trName>Түндүк Америка борбордук убактысы</trName></name>
+      <name><languageId>lo</languageId><trName>ເວລາຕອນທ່ຽງ</trName></name>
+      <name><languageId>lt</languageId><trName>Šiaurės Amerikos centro laikas</trName></name>
+      <name><languageId>lv</languageId><trName>Centrālais laiks</trName></name>
+      <name><languageId>mk</languageId><trName>Централно време во Северна Америка</trName></name>
+      <name><languageId>ml</languageId><trName>സെൻട്രൽ സമയം</trName></name>
+      <name><languageId>mn</languageId><trName>Хойд Америкийн төв цаг</trName></name>
+      <name><languageId>mr</languageId><trName>उत्तर अमेरिकन केंद्रीय वेळ</trName></name>
+      <name><languageId>ms</languageId><trName>Waktu Pusat</trName></name>
+      <name><languageId>my</languageId><trName>အလယ်ပိုင်း အမေရိက အချိန်</trName></name>
+      <name><languageId>nb</languageId><trName>tidssone for det sentrale Nord-Amerika</trName></name>
+      <name><languageId>ne</languageId><trName>उत्तर अमेरिका केन्द्रिय समय</trName></name>
+      <name><languageId>nl</languageId><trName>Central-tijd</trName></name>
+      <name><languageId>pa</languageId><trName>ਉੱਤਰੀ ਅਮੇਰਿਕਨ ਕੇਂਦਰੀ ਸਮਾਂ</trName></name>
+      <name><languageId>pl</languageId><trName>Czas środkowoamerykański</trName></name>
+      <name><languageId>pt</languageId><trName>Horário Central</trName></name>
+      <name><languageId>pt_BR</languageId><trName>Hora Central</trName></name>
+      <name><languageId>pt_PT</languageId><trName>Horário Central</trName></name>
+      <name><languageId>ro</languageId><trName>Ora centrală</trName></name>
+      <name><languageId>ru</languageId><trName>Центральная Америка</trName></name>
+      <name><languageId>si</languageId><trName>උතුරු ඇමරිකානු මධ්‍යම වේලාව</trName></name>
+      <name><languageId>sk</languageId><trName>Centrálny čas</trName></name>
+      <name><languageId>sl</languageId><trName>Centralni čas</trName></name>
+      <name><languageId>sq</languageId><trName>Ora e SHBA-së qendrore</trName></name>
+      <name><languageId>sr</languageId><trName>Северноамерички Централно време</trName></name>
+      <name><languageId>sr_Cyrl</languageId><trName>Северноамерички Централно време</trName></name>
+      <name><languageId>sr_Latn</languageId><trName>Severnoamerički Centralno vreme</trName></name>
+      <name><languageId>sv</languageId><trName>centralnordamerikansk tid</trName></name>
+      <name><languageId>sw</languageId><trName>Saa za Kati</trName></name>
+      <name><languageId>ta</languageId><trName>மத்திய நேரம்</trName></name>
+      <name><languageId>te</languageId><trName>మధ్యమ సమయం</trName></name>
+      <name><languageId>th</languageId><trName>เวลาตอนกลาง</trName></name>
+      <name><languageId>to</languageId><trName>houa fakaʻamelika-tokelau loto</trName></name>
+      <name><languageId>tr</languageId><trName>Kuzey Amerika Merkezi Saati</trName></name>
+      <name><languageId>uk</languageId><trName>за північноамериканським центральним часом</trName></name>
+      <name><languageId>ur</languageId><trName>سنٹرل ٹائم</trName></name>
+      <name><languageId>vi</languageId><trName>Giờ miền trung</trName></name>
+      <name><languageId>zh</languageId><trName>北美中部时间</trName></name>
+      <name><languageId>zh_Hant</languageId><trName>中部時間</trName></name>
+      <name><languageId>zu</languageId><trName>esase-Central Time</trName></name>
     </names>
   </timezoneIdPart>
   <timezoneIdPart>
@@ -9965,6 +10194,86 @@
   <timezoneIdPart>
     <timezoneIdPartId>Eastern</timezoneIdPartId>
     <names>
+      <name><languageId>af</languageId><trName>Oostelike tyd</trName></name>
+      <name><languageId>am</languageId><trName>የምዕራባዊ ሰዓት አቆጣጠር</trName></name>
+      <name><languageId>ar</languageId><trName>التوقيت الشرقي</trName></name>
+      <name><languageId>ar_EG</languageId><trName>التوقيت الشرقي لأمريكا الشمالية</trName></name>
+      <name><languageId>ast</languageId><trName>Hora del este norteamericanu</trName></name>
+      <name><languageId>az</languageId><trName>Şimali Şərqi Amerika Vaxtı</trName></name>
+      <name><languageId>be</languageId><trName>Паўночнаамэрыканскі усходні час</trName></name>
+      <name><languageId>bg</languageId><trName>Северноамериканско източно време</trName></name>
+      <name><languageId>bn</languageId><trName>উত্তর আমিরিকা পূর্বাঞ্চলীয় সময়</trName></name>
+      <name><languageId>bs</languageId><trName>Istočno vreme</trName></name>
+      <name><languageId>bs_Cyrl</languageId><trName>Источно време</trName></name>
+      <name><languageId>ca</languageId><trName>Hora oriental</trName></name>
+      <name><languageId>cs</languageId><trName>Severoamerický východní čas</trName></name>
+      <name><languageId>cy</languageId><trName>Amser Dwyrain Gogledd America</trName></name>
+      <name><languageId>da</languageId><trName>Eastern-tid</trName></name>
+      <name><languageId>de</languageId><trName>Nordamerikanische Ostküstenzeit</trName></name>
+      <name><languageId>el</languageId><trName>Ανατολική ώρα Βόρειας Αμερικής</trName></name>
+      <name><languageId>en</languageId><trName>Eastern Time</trName></name>
+      <name><languageId>es</languageId><trName>Hora oriental</trName></name>
+      <name><languageId>et</languageId><trName>Idaranniku aeg</trName></name>
+      <name><languageId>eu</languageId><trName>Ipar Amerikako ekialdeko ordua</trName></name>
+      <name><languageId>fa</languageId><trName>وقت شرق امریکا</trName></name>
+      <name><languageId>fi</languageId><trName>Yhdysvaltain itäinen aika</trName></name>
+      <name><languageId>fr</languageId><trName>heure de l’Est</trName></name>
+      <name><languageId>gl</languageId><trName>Horario de América Oriental</trName></name>
+      <name><languageId>gu</languageId><trName>ઉત્તર અમેરિકન પૂર્વી સમય</trName></name>
+      <name><languageId>he</languageId><trName>שעון החוף המזרחי</trName></name>
+      <name><languageId>hi</languageId><trName>उत्तरी अमेरिकी पूर्वी समय</trName></name>
+      <name><languageId>hr</languageId><trName>istočno vrijeme</trName></name>
+      <name><languageId>hu</languageId><trName>Keleti államokbeli idő</trName></name>
+      <name><languageId>hy</languageId><trName>Արևելաամերիկյան ժամանակ</trName></name>
+      <name><languageId>id</languageId><trName>Waktu Timur</trName></name>
+      <name><languageId>is</languageId><trName>Tími í austurhluta Bandaríkjanna og Kanada</trName></name>
+      <name><languageId>it</languageId><trName>Ora orientale</trName></name>
+      <name><languageId>ja</languageId><trName>東部時間</trName></name>
+      <name><languageId>ka</languageId><trName>ჩრდილოეთ ამერიკის აღმოსავლეთის დრო</trName></name>
+      <name><languageId>kk</languageId><trName>Оңтүстік Америка шығыс бөлігінің уақыты</trName></name>
+      <name><languageId>km</languageId><trName>ម៉ោង​ភាគ​ខាង​កើត​នៅ​អាមេរិក​ខាង​ជើង</trName></name>
+      <name><languageId>kn</languageId><trName>ಪೂರ್ವ ಸಮಯ</trName></name>
+      <name><languageId>ko</languageId><trName>미 동부 시간</trName></name>
+      <name><languageId>ks</languageId><trName>مشرقی ٹایِم</trName></name>
+      <name><languageId>ky</languageId><trName>Түндүк Америка чыгыш убактысы</trName></name>
+      <name><languageId>lo</languageId><trName>ເວລາຕາເວັນອອກ</trName></name>
+      <name><languageId>lt</languageId><trName>Šiaurės Amerikos rytų laikas</trName></name>
+      <name><languageId>lv</languageId><trName>Austrumu laiks</trName></name>
+      <name><languageId>mk</languageId><trName>Источно време</trName></name>
+      <name><languageId>ml</languageId><trName>കിഴക്കൻ സമയം</trName></name>
+      <name><languageId>mr</languageId><trName>उत्तर अमेरिकन पूर्वी वेळ</trName></name>
+      <name><languageId>ms</languageId><trName>Waktu Timur</trName></name>
+      <name><languageId>my</languageId><trName>အရှေ့ပိုင်း အမေရိက အချိန်</trName></name>
+      <name><languageId>nb</languageId><trName>tidssone for den nordamerikanske østkysten</trName></name>
+      <name><languageId>ne</languageId><trName>उत्तर अमेरिकी पूर्वी समय</trName></name>
+      <name><languageId>nl</languageId><trName>Eastern-tijd</trName></name>
+      <name><languageId>pa</languageId><trName>ਉੱਤਰੀ ਅਮੇਰਿਕਨ ਪੂਰਬੀ ਸਮਾਂ</trName></name>
+      <name><languageId>pl</languageId><trName>Czas wschodnioamerykański</trName></name>
+      <name><languageId>pt</languageId><trName>Hora Oriental</trName></name>
+      <name><languageId>pt_BR</languageId><trName>Horário Oriental</trName></name>
+      <name><languageId>pt_PT</languageId><trName>Hora Oriental</trName></name>
+      <name><languageId>ro</languageId><trName>Ora orientală nord-americană</trName></name>
+      <name><languageId>ru</languageId><trName>Восточная Америка</trName></name>
+      <name><languageId>si</languageId><trName>උතුරු ඇමරිකානු නැගෙනහිර වේලාව</trName></name>
+      <name><languageId>sk</languageId><trName>Východný čas</trName></name>
+      <name><languageId>sl</languageId><trName>Vzhodni čas</trName></name>
+      <name><languageId>sq</languageId><trName>Ora e SHBA-së lindore</trName></name>
+      <name><languageId>sr</languageId><trName>Северноамерички Источно време</trName></name>
+      <name><languageId>sr_Cyrl</languageId><trName>Северноамерички Источно време</trName></name>
+      <name><languageId>sr_Latn</languageId><trName>Severnoamerički Istočno vreme</trName></name>
+      <name><languageId>sv</languageId><trName>östnordamerikansk tid</trName></name>
+      <name><languageId>sw</languageId><trName>Saa za Mashariki</trName></name>
+      <name><languageId>ta</languageId><trName>கிழக்கத்திய நேரம்</trName></name>
+      <name><languageId>te</languageId><trName>తూర్పు సమయం</trName></name>
+      <name><languageId>th</languageId><trName>เวลาตะวันออก</trName></name>
+      <name><languageId>to</languageId><trName>houa fakaʻamelika-tokelau hahake</trName></name>
+      <name><languageId>tr</languageId><trName>Kuzey Amerika Doğu Saati</trName></name>
+      <name><languageId>uk</languageId><trName>за північноамериканським східним часом</trName></name>
+      <name><languageId>ur</languageId><trName>ایسٹرن ٹائم</trName></name>
+      <name><languageId>vi</languageId><trName>Giờ miền đông</trName></name>
+      <name><languageId>zh</languageId><trName>北美东部时间</trName></name>
+      <name><languageId>zh_Hant</languageId><trName>東部時間</trName></name>
+      <name><languageId>zu</languageId><trName>esase-Eastern Time</trName></name>
     </names>
   </timezoneIdPart>
   <timezoneIdPart>
@@ -12759,6 +13068,78 @@
   <timezoneIdPart>
     <timezoneIdPartId>Hawaii</timezoneIdPartId>
     <names>
+      <name><languageId>af</languageId><trName>Hawaii</trName></name>
+      <name><languageId>am</languageId><trName>ሃዋኢ</trName></name>
+      <name><languageId>ar</languageId><trName>هاواي</trName></name>
+      <name><languageId>ast</languageId><trName>Hawaii</trName></name>
+      <name><languageId>be</languageId><trName>Гаваі</trName></name>
+      <name><languageId>bg</languageId><trName>Хаваи</trName></name>
+      <name><languageId>bn</languageId><trName>হাওয়াই</trName></name>
+      <name><languageId>bo</languageId><trName>ཧ་ཝ་ཡི།</trName></name>
+      <name><languageId>bs</languageId><trName>Hawaii</trName></name>
+      <name><languageId>ca</languageId><trName>Hawaii</trName></name>
+      <name><languageId>cs</languageId><trName>Havaj</trName></name>
+      <name><languageId>cy</languageId><trName>Hawaii</trName></name>
+      <name><languageId>da</languageId><trName>Hawaii</trName></name>
+      <name><languageId>de</languageId><trName>Hawaii</trName></name>
+      <name><languageId>el</languageId><trName>Χαβάη</trName></name>
+      <name><languageId>en</languageId><trName>Hawaii</trName></name>
+      <name><languageId>es</languageId><trName>Hawái</trName></name>
+      <name><languageId>et</languageId><trName>Hawaii</trName></name>
+      <name><languageId>eu</languageId><trName>Hawaii</trName></name>
+      <name><languageId>fa</languageId><trName>هاوائی</trName></name>
+      <name><languageId>fi</languageId><trName>Havaiji</trName></name>
+      <name><languageId>fr</languageId><trName>Hawaï</trName></name>
+      <name><languageId>gl</languageId><trName>Hawai</trName></name>
+      <name><languageId>he</languageId><trName>הוואי</trName></name>
+      <name><languageId>hi</languageId><trName>हवाई</trName></name>
+      <name><languageId>hr</languageId><trName>Havaji</trName></name>
+      <name><languageId>hu</languageId><trName>Hawaii</trName></name>
+      <name><languageId>hy</languageId><trName>Հավայի</trName></name>
+      <name><languageId>ia</languageId><trName>Hawaii</trName></name>
+      <name><languageId>id</languageId><trName>Hawaii</trName></name>
+      <name><languageId>ilo</languageId><trName>Hawai'i</trName></name>
+      <name><languageId>is</languageId><trName>Hawaii</trName></name>
+      <name><languageId>it</languageId><trName>Hawaii</trName></name>
+      <name><languageId>ja</languageId><trName>ハワイ州</trName></name>
+      <name><languageId>ka</languageId><trName>ჰავაის შტატი</trName></name>
+      <name><languageId>kn</languageId><trName>ಹವಾಯಿ</trName></name>
+      <name><languageId>ko</languageId><trName>하와이 주</trName></name>
+      <name><languageId>lt</languageId><trName>Havajai</trName></name>
+      <name><languageId>lv</languageId><trName>Havajas</trName></name>
+      <name><languageId>mk</languageId><trName>Хаваи</trName></name>
+      <name><languageId>ml</languageId><trName>ഹവായി</trName></name>
+      <name><languageId>mr</languageId><trName>हवाई</trName></name>
+      <name><languageId>ms</languageId><trName>Hawaii</trName></name>
+      <name><languageId>nb</languageId><trName>Hawaii</trName></name>
+      <name><languageId>nds</languageId><trName>Hawaii</trName></name>
+      <name><languageId>ne</languageId><trName>हवाई</trName></name>
+      <name><languageId>new</languageId><trName>हवाइ</trName></name>
+      <name><languageId>nl</languageId><trName>Hawaï</trName></name>
+      <name><languageId>nn</languageId><trName>Hawaii</trName></name>
+      <name><languageId>pa</languageId><trName>ਹਵਾਈ</trName></name>
+      <name><languageId>pl</languageId><trName>Hawaje</trName></name>
+      <name><languageId>pt</languageId><trName>Havaí</trName></name>
+      <name><languageId>pt_BR</languageId><trName>Havaí</trName></name>
+      <name><languageId>ro</languageId><trName>Hawaii</trName></name>
+      <name><languageId>ru</languageId><trName>Гавайи</trName></name>
+      <name><languageId>sk</languageId><trName>Havaj</trName></name>
+      <name><languageId>sl</languageId><trName>Havaji</trName></name>
+      <name><languageId>sq</languageId><trName>Hawaii</trName></name>
+      <name><languageId>sr</languageId><trName>Хаваји</trName></name>
+      <name><languageId>sr_Cyrl</languageId><trName>Хаваји</trName></name>
+      <name><languageId>sr_Latn</languageId><trName>Havaji</trName></name>
+      <name><languageId>sv</languageId><trName>Hawaii</trName></name>
+      <name><languageId>ta</languageId><trName>ஹவாய்</trName></name>
+      <name><languageId>te</languageId><trName>హవాయి</trName></name>
+      <name><languageId>th</languageId><trName>รัฐฮาวาย</trName></name>
+      <name><languageId>tr</languageId><trName>Hawaii</trName></name>
+      <name><languageId>uk</languageId><trName>Гаваї</trName></name>
+      <name><languageId>ur</languageId><trName>ہوائی</trName></name>
+      <name><languageId>vi</languageId><trName>Hawaii</trName></name>
+      <name><languageId>zh</languageId><trName>夏威夷州</trName></name>
+      <name><languageId>zh_Hant</languageId><trName>夏威夷州</trName></name>
+      <name><languageId>zu</languageId><trName>Hawaii</trName></name>
     </names>
   </timezoneIdPart>
   <timezoneIdPart>
@@ -21927,6 +22308,84 @@
   <timezoneIdPart>
     <timezoneIdPartId>Mountain</timezoneIdPartId>
     <names>
+      <name><languageId>af</languageId><trName>Bergtyd</trName></name>
+      <name><languageId>am</languageId><trName>የተራራ የሰዓት አቆጣጠር</trName></name>
+      <name><languageId>ar</languageId><trName>التوقيت الجبلي</trName></name>
+      <name><languageId>ast</languageId><trName>Hora de les montañes norteamericanes</trName></name>
+      <name><languageId>az</languageId><trName>Şimali Dağlıq Amerika Vaxtı</trName></name>
+      <name><languageId>be</languageId><trName>Паўночнаамэрыканскі горны час</trName></name>
+      <name><languageId>bg</languageId><trName>Северноамериканско планинско време</trName></name>
+      <name><languageId>bn</languageId><trName>উত্তর আমেরিকা মাউন্টেন সময়</trName></name>
+      <name><languageId>bs</languageId><trName>Planinsko vreme</trName></name>
+      <name><languageId>bs_Cyrl</languageId><trName>Планинско време</trName></name>
+      <name><languageId>ca</languageId><trName>Hora de muntanya d'Amèrica del Nord</trName></name>
+      <name><languageId>cs</languageId><trName>Severoamerický horský čas</trName></name>
+      <name><languageId>cy</languageId><trName>Amser Mynyddoedd Gogledd America</trName></name>
+      <name><languageId>da</languageId><trName>Mountain-tid</trName></name>
+      <name><languageId>de</languageId><trName>Rocky Mountain Zeit</trName></name>
+      <name><languageId>el</languageId><trName>Ορεινή ώρα Βόρειας Αμερικής</trName></name>
+      <name><languageId>en</languageId><trName>Mountain Time</trName></name>
+      <name><languageId>es</languageId><trName>Hora de las Montañas</trName></name>
+      <name><languageId>et</languageId><trName>Mäestikuvööndi aeg</trName></name>
+      <name><languageId>eu</languageId><trName>Ipar Amerikako mendialdeko ordua</trName></name>
+      <name><languageId>fa</languageId><trName>وقت کوهستانی امریکا</trName></name>
+      <name><languageId>fi</languageId><trName>Kalliovuorten aika</trName></name>
+      <name><languageId>fr</languageId><trName>heure des Rocheuses</trName></name>
+      <name><languageId>gl</languageId><trName>Horario das montañas de América</trName></name>
+      <name><languageId>gu</languageId><trName>ઉત્તર અમેરિકન માઉન્ટન સમય</trName></name>
+      <name><languageId>he</languageId><trName>שעון אזור ההרים בארה״ב</trName></name>
+      <name><languageId>hi</languageId><trName>उत्तरी अमेरिकी माउंटेन समय</trName></name>
+      <name><languageId>hr</languageId><trName>planinsko vrijeme</trName></name>
+      <name><languageId>hu</languageId><trName>Hegyvidéki idő</trName></name>
+      <name><languageId>hy</languageId><trName>Լեռնային ժամանակ</trName></name>
+      <name><languageId>id</languageId><trName>Waktu Pegunungan</trName></name>
+      <name><languageId>is</languageId><trName>Tími í Klettafjöllum</trName></name>
+      <name><languageId>it</languageId><trName>Ora Montagne Rocciose</trName></name>
+      <name><languageId>ja</languageId><trName>山地時間</trName></name>
+      <name><languageId>ka</languageId><trName>ჩრდილოეთ ამერიკის მაუნთინის დრო</trName></name>
+      <name><languageId>kk</languageId><trName>Оңтүстік Америка таулы бөлігінің уақыты</trName></name>
+      <name><languageId>kn</languageId><trName>ಮೌಂಟೇನ್ ಸಮಯ</trName></name>
+      <name><languageId>ko</languageId><trName>미 산지 시간</trName></name>
+      <name><languageId>ks</languageId><trName>ماونٹین ٹایِم</trName></name>
+      <name><languageId>ky</languageId><trName>Түндүк Америка тоолук убактысы</trName></name>
+      <name><languageId>lo</languageId><trName>ເວລາແຖບພູເຂົາ</trName></name>
+      <name><languageId>lt</languageId><trName>Šiaurės Amerikos kalnų laikas</trName></name>
+      <name><languageId>lv</languageId><trName>Kalnu laiks</trName></name>
+      <name><languageId>mk</languageId><trName>Планинско време</trName></name>
+      <name><languageId>ml</languageId><trName>മൌണ്ടൻ സമയം</trName></name>
+      <name><languageId>mn</languageId><trName>Хойд Америкийн уулын цаг</trName></name>
+      <name><languageId>mr</languageId><trName>उत्तर अमेरिकन पर्वतीय वेळ</trName></name>
+      <name><languageId>ms</languageId><trName>Waktu Gunung</trName></name>
+      <name><languageId>my</languageId><trName>အမေရိက တောင် အချိန်</trName></name>
+      <name><languageId>nb</languageId><trName>tidssone for Rocky Mountains</trName></name>
+      <name><languageId>ne</languageId><trName>उत्तर अमेरिकी हिमाली समय</trName></name>
+      <name><languageId>nl</languageId><trName>Mountain-tijd</trName></name>
+      <name><languageId>pa</languageId><trName>ਉੱਤਰੀ ਅਮੇਰਿਕਨ ਮਾਉਂਟੇਨ ਸਮਾਂ</trName></name>
+      <name><languageId>pl</languageId><trName>Czas górski</trName></name>
+      <name><languageId>pt</languageId><trName>Hora da Montanha</trName></name>
+      <name><languageId>pt_BR</languageId><trName>Horário da Montanha</trName></name>
+      <name><languageId>pt_PT</languageId><trName>Hora da Montanha</trName></name>
+      <name><languageId>ro</languageId><trName>Ora zonei montane</trName></name>
+      <name><languageId>ru</languageId><trName>Горное время</trName></name>
+      <name><languageId>si</languageId><trName>උතුරු ඇමරිකානු කඳුකර වේලාව</trName></name>
+      <name><languageId>sk</languageId><trName>Horský čas</trName></name>
+      <name><languageId>sl</languageId><trName>Gorski čas</trName></name>
+      <name><languageId>sq</languageId><trName>Ora amerikane e maleve shkëmborë</trName></name>
+      <name><languageId>sr</languageId><trName>Северноамерички Планинско време</trName></name>
+      <name><languageId>sr_Cyrl</languageId><trName>Северноамерички Планинско време</trName></name>
+      <name><languageId>sr_Latn</languageId><trName>Severnoamerički Planinsko vreme</trName></name>
+      <name><languageId>sv</languageId><trName>Klippiga Bergentid</trName></name>
+      <name><languageId>sw</languageId><trName>Saa za Mountain</trName></name>
+      <name><languageId>ta</languageId><trName>மவுன்டைன் நேரம்</trName></name>
+      <name><languageId>te</languageId><trName>మౌంటేన్ సమయం</trName></name>
+      <name><languageId>th</languageId><trName>เวลาแถบภูเขา</trName></name>
+      <name><languageId>tr</languageId><trName>Kuzey Amerika Dağ Saati</trName></name>
+      <name><languageId>uk</languageId><trName>за північноамериканським гірним часом</trName></name>
+      <name><languageId>ur</languageId><trName>ماؤنٹین ٹائم</trName></name>
+      <name><languageId>vi</languageId><trName>Giờ miền núi</trName></name>
+      <name><languageId>zh</languageId><trName>北美山区时间</trName></name>
+      <name><languageId>zh_Hant</languageId><trName>山區時間</trName></name>
+      <name><languageId>zu</languageId><trName>esase-Mountain Time</trName></name>
     </names>
   </timezoneIdPart>
   <timezoneIdPart>
@@ -23076,7 +23535,7 @@
       <name><languageId>kk</languageId><trName>Солтүстік Дакота</trName></name>
       <name><languageId>km</languageId><trName>ដាកូតា​ខាង​ត្បូង</trName></name>
       <name><languageId>kn</languageId><trName>ಉತ್ತರ ಡೆಕೊತಾ</trName></name>
-      <name><languageId>ko</languageId><trName>노스다코타주</trName></name>
+      <name><languageId>ko</languageId><trName>노스다코타 주</trName></name>
       <name><languageId>ky</languageId><trName>Түндүк Дакота</trName></name>
       <name><languageId>lo</languageId><trName>ດາໂກຕາເໜືອ</trName></name>
       <name><languageId>lt</languageId><trName>Šiaurės Dakota</trName></name>
@@ -31714,7 +32173,7 @@
       <name><languageId>ga</languageId><trName>Stáit Aontaithe Mheiriceá</trName></name>
       <name><languageId>gd</languageId><trName>Na Stàitean Aonaichte</trName></name>
       <name><languageId>gl</languageId><trName>Estados Unidos de América</trName></name>
-      <name><languageId>gu</languageId><trName>સંયુકત રાજ્ય/ અમેરિકા</trName></name>
+      <name><languageId>gu</languageId><trName>સંયુક્ત રાજ્ય અમેરિકા</trName></name>
       <name><languageId>ha</languageId><trName>Amurka</trName></name>
       <name><languageId>haw</languageId><trName>ʻAmelika Hui Pū ʻIa</trName></name>
       <name><languageId>he</languageId><trName>ארצות הברית</trName></name>
