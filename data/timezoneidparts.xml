@@ -1976,6 +1976,77 @@
   <timezoneIdPart>
     <timezoneIdPartId>Arctic</timezoneIdPartId>
     <names>
+      <name><languageId>af</languageId><trName>Arktiese Oseaan</trName></name>
+      <name><languageId>am</languageId><trName>አርክቲክ ውቅያኖስ</trName></name>
+      <name><languageId>ar</languageId><trName>المحيط المتجمد الشمالي</trName></name>
+      <name><languageId>as</languageId><trName>উত্তৰ মহাসাগৰ</trName></name>
+      <name><languageId>ast</languageId><trName>Océanu Glacial Árticu</trName></name>
+      <name><languageId>be</languageId><trName>Паўночны Ледавіты акіян</trName></name>
+      <name><languageId>bg</languageId><trName>Северен ледовит океан</trName></name>
+      <name><languageId>bn</languageId><trName>উত্তর মহাসাগর</trName></name>
+      <name><languageId>bs</languageId><trName>Arktički okean</trName></name>
+      <name><languageId>ca</languageId><trName>Oceà Àrtic</trName></name>
+      <name><languageId>cs</languageId><trName>Severní ledový oceán</trName></name>
+      <name><languageId>cy</languageId><trName>Cefnfor yr Arctig</trName></name>
+      <name><languageId>da</languageId><trName>Ishavet</trName></name>
+      <name><languageId>de</languageId><trName>Arktischer Ozean</trName></name>
+      <name><languageId>el</languageId><trName>Αρκτικός Ωκεανός</trName></name>
+      <name><languageId>en</languageId><trName>Arctic Ocean</trName></name>
+      <name><languageId>es</languageId><trName>Océano Ártico</trName></name>
+      <name><languageId>et</languageId><trName>Põhja-Jäämeri</trName></name>
+      <name><languageId>eu</languageId><trName>Ozeano Artikoa</trName></name>
+      <name><languageId>fa</languageId><trName>اقیانوس منجمد شمالی</trName></name>
+      <name><languageId>fi</languageId><trName>Pohjoinen jäämeri</trName></name>
+      <name><languageId>fr</languageId><trName>Océan Arctique</trName></name>
+      <name><languageId>gl</languageId><trName>Océano Ártico</trName></name>
+      <name><languageId>he</languageId><trName>אוקיינוס הקרח הצפוני</trName></name>
+      <name><languageId>hi</languageId><trName>उत्तरध्रुवीय महासागर</trName></name>
+      <name><languageId>hr</languageId><trName>Arktički ocean</trName></name>
+      <name><languageId>hu</languageId><trName>Jeges-tenger</trName></name>
+      <name><languageId>hy</languageId><trName>Հյուսիսային Սառուցյալ օվկիանոս</trName></name>
+      <name><languageId>ia</languageId><trName>Oceano Arctic</trName></name>
+      <name><languageId>id</languageId><trName>Samudra Arktik</trName></name>
+      <name><languageId>ilo</languageId><trName>Taaw Artiko</trName></name>
+      <name><languageId>is</languageId><trName>Norður-Íshaf</trName></name>
+      <name><languageId>it</languageId><trName>Mar Glaciale Artico</trName></name>
+      <name><languageId>ja</languageId><trName>北極海</trName></name>
+      <name><languageId>ka</languageId><trName>ჩრდილოეთის ყინულოვანი ოკეანე</trName></name>
+      <name><languageId>kk</languageId><trName>Солтүстік Мұзды мұхит</trName></name>
+      <name><languageId>kn</languageId><trName>ಆರ್ಕ್ಟಿಕ್ ಮಹಾಸಾಗರ</trName></name>
+      <name><languageId>ko</languageId><trName>북극해</trName></name>
+      <name><languageId>lt</languageId><trName>Arkties vandenynas</trName></name>
+      <name><languageId>lv</languageId><trName>Ziemeļu Ledus okeāns</trName></name>
+      <name><languageId>mk</languageId><trName>Северен Леден Океан</trName></name>
+      <name><languageId>ml</languageId><trName>ആർട്ടിക് സമുദ്രം</trName></name>
+      <name><languageId>mr</languageId><trName>आर्क्टिक महासागर</trName></name>
+      <name><languageId>ms</languageId><trName>Lautan Artik</trName></name>
+      <name><languageId>nb</languageId><trName>Nordishavet</trName></name>
+      <name><languageId>ne</languageId><trName>आर्कटिक महासागर</trName></name>
+      <name><languageId>new</languageId><trName>आर्टिक महासागर</trName></name>
+      <name><languageId>nl</languageId><trName>Noordelijke IJszee</trName></name>
+      <name><languageId>nn</languageId><trName>Nordishavet</trName></name>
+      <name><languageId>nso</languageId><trName>Arctic Ocean</trName></name>
+      <name><languageId>pa</languageId><trName>ਆਰਕਟਿਕ ਮਹਾਂਸਾਗਰ</trName></name>
+      <name><languageId>pl</languageId><trName>Ocean Arktyczny</trName></name>
+      <name><languageId>pt</languageId><trName>Oceano Ártico</trName></name>
+      <name><languageId>pt_BR</languageId><trName>Oceano Ártico</trName></name>
+      <name><languageId>ro</languageId><trName>Oceanul Arctic</trName></name>
+      <name><languageId>ru</languageId><trName>Северный Ледовитый океан</trName></name>
+      <name><languageId>sk</languageId><trName>Severný ľadový oceán</trName></name>
+      <name><languageId>sl</languageId><trName>Arktični ocean</trName></name>
+      <name><languageId>sr</languageId><trName>Северни ледени океан</trName></name>
+      <name><languageId>sr_Cyrl</languageId><trName>Северни ледени океан</trName></name>
+      <name><languageId>sv</languageId><trName>Norra ishavet</trName></name>
+      <name><languageId>ta</languageId><trName>ஆர்க்டிக் பெருங்கடல்</trName></name>
+      <name><languageId>te</languageId><trName>ఆర్క్‌టిక్ మహాసముద్రం</trName></name>
+      <name><languageId>tg</languageId><trName>Уқёнуси яхбастаи шимолӣ</trName></name>
+      <name><languageId>th</languageId><trName>มหาสมุทรอาร์กติก</trName></name>
+      <name><languageId>tr</languageId><trName>Arktik Okyanusu</trName></name>
+      <name><languageId>uk</languageId><trName>Північний Льодовитий океан</trName></name>
+      <name><languageId>ur</languageId><trName>بحر منجمد شمالی</trName></name>
+      <name><languageId>vi</languageId><trName>Bắc Băng Dương</trName></name>
+      <name><languageId>zh</languageId><trName>北冰洋</trName></name>
+      <name><languageId>zh_Hant</languageId><trName>北冰洋</trName></name>
     </names>
   </timezoneIdPart>
   <timezoneIdPart>
