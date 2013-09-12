@@ -13773,6 +13773,78 @@
   <timezoneIdPart>
     <timezoneIdPartId>Indian</timezoneIdPartId>
     <names>
+      <name><languageId>af</languageId><trName>Indiese Oseaan</trName></name>
+      <name><languageId>am</languageId><trName>ሕንድ ውቅያኖስ</trName></name>
+      <name><languageId>ar</languageId><trName>المحيط الهندي</trName></name>
+      <name><languageId>as</languageId><trName>ভাৰত মহাসাগৰ</trName></name>
+      <name><languageId>ast</languageId><trName>Océanu Índicu</trName></name>
+      <name><languageId>be</languageId><trName>Індыйскі акіян</trName></name>
+      <name><languageId>bg</languageId><trName>Индийски океан</trName></name>
+      <name><languageId>bn</languageId><trName>ভারত মহাসাগর</trName></name>
+      <name><languageId>bs</languageId><trName>Indijski okean</trName></name>
+      <name><languageId>ca</languageId><trName>Oceà Índic</trName></name>
+      <name><languageId>cs</languageId><trName>Indický oceán</trName></name>
+      <name><languageId>cy</languageId><trName>Cefnfor India</trName></name>
+      <name><languageId>da</languageId><trName>Indiske Ocean</trName></name>
+      <name><languageId>de</languageId><trName>Indischer Ozean</trName></name>
+      <name><languageId>el</languageId><trName>Ινδικός Ωκεανός</trName></name>
+      <name><languageId>en</languageId><trName>Indian Ocean</trName></name>
+      <name><languageId>es</languageId><trName>Océano Índico</trName></name>
+      <name><languageId>et</languageId><trName>India ookean</trName></name>
+      <name><languageId>eu</languageId><trName>Indiako ozeanoa</trName></name>
+      <name><languageId>fa</languageId><trName>اقیانوس هند</trName></name>
+      <name><languageId>fi</languageId><trName>Intian valtameri</trName></name>
+      <name><languageId>fr</languageId><trName>Océan Indien</trName></name>
+      <name><languageId>gl</languageId><trName>Océano Índico</trName></name>
+      <name><languageId>he</languageId><trName>האוקיינוס ההודי</trName></name>
+      <name><languageId>hi</languageId><trName>हिन्द महासागर</trName></name>
+      <name><languageId>hr</languageId><trName>Indijski ocean</trName></name>
+      <name><languageId>hu</languageId><trName>Indiai-óceán</trName></name>
+      <name><languageId>hy</languageId><trName>Հնդկական օվկիանոս</trName></name>
+      <name><languageId>ia</languageId><trName>Oceano Indian</trName></name>
+      <name><languageId>id</languageId><trName>Samudra Hindia</trName></name>
+      <name><languageId>ilo</languageId><trName>Taaw Indiano</trName></name>
+      <name><languageId>is</languageId><trName>Indlandshaf</trName></name>
+      <name><languageId>it</languageId><trName>Oceano Indiano</trName></name>
+      <name><languageId>ja</languageId><trName>インド洋</trName></name>
+      <name><languageId>ka</languageId><trName>ინდოეთის ოკეანე</trName></name>
+      <name><languageId>kk</languageId><trName>Үнді мұхиты</trName></name>
+      <name><languageId>kn</languageId><trName>ಹಿಂದೂ ಮಹಾಸಾಗರ</trName></name>
+      <name><languageId>ko</languageId><trName>인도양</trName></name>
+      <name><languageId>lt</languageId><trName>Indijos vandenynas</trName></name>
+      <name><languageId>lv</languageId><trName>Indijas okeāns</trName></name>
+      <name><languageId>mk</languageId><trName>Индиски Океан</trName></name>
+      <name><languageId>ml</languageId><trName>ഇന്ത്യൻ മഹാസമുദ്രം</trName></name>
+      <name><languageId>mr</languageId><trName>हिंदी महासागर</trName></name>
+      <name><languageId>ms</languageId><trName>Lautan Hindi</trName></name>
+      <name><languageId>nb</languageId><trName>Indiahavet</trName></name>
+      <name><languageId>ne</languageId><trName>हिन्द महासागर</trName></name>
+      <name><languageId>new</languageId><trName>हिन्द महासागर</trName></name>
+      <name><languageId>nl</languageId><trName>Indische Oceaan</trName></name>
+      <name><languageId>nn</languageId><trName>Indiahavet</trName></name>
+      <name><languageId>nso</languageId><trName>Indian Ocean</trName></name>
+      <name><languageId>pa</languageId><trName>ਹਿੰਦ ਮਹਾਂਸਾਗਰ</trName></name>
+      <name><languageId>pl</languageId><trName>Ocean Indyjski</trName></name>
+      <name><languageId>pt</languageId><trName>Oceano Índico</trName></name>
+      <name><languageId>pt_BR</languageId><trName>Oceano Índico</trName></name>
+      <name><languageId>ro</languageId><trName>Oceanul Indian</trName></name>
+      <name><languageId>ru</languageId><trName>Индийский океан</trName></name>
+      <name><languageId>sk</languageId><trName>Indický oceán</trName></name>
+      <name><languageId>sl</languageId><trName>Indijski ocean</trName></name>
+      <name><languageId>sq</languageId><trName>Oqeani Indian</trName></name>
+      <name><languageId>sr</languageId><trName>Индијски океан</trName></name>
+      <name><languageId>sr_Cyrl</languageId><trName>Индијски океан</trName></name>
+      <name><languageId>sv</languageId><trName>Indiska oceanen</trName></name>
+      <name><languageId>ta</languageId><trName>இந்தியப் பெருங்கடல்</trName></name>
+      <name><languageId>te</languageId><trName>హిందూ మహాసముద్రం</trName></name>
+      <name><languageId>tg</languageId><trName>Уқёнуси Ҳинд</trName></name>
+      <name><languageId>th</languageId><trName>มหาสมุทรอินเดีย</trName></name>
+      <name><languageId>tr</languageId><trName>Hint Okyanusu</trName></name>
+      <name><languageId>uk</languageId><trName>Індійський океан</trName></name>
+      <name><languageId>ur</languageId><trName>بحر ہند</trName></name>
+      <name><languageId>vi</languageId><trName>Ấn Độ Dương</trName></name>
+      <name><languageId>zh</languageId><trName>印度洋</trName></name>
+      <name><languageId>zh_Hant</languageId><trName>印度洋</trName></name>
     </names>
   </timezoneIdPart>
   <timezoneIdPart>
