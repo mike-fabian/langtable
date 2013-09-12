@@ -2749,6 +2749,80 @@
   <timezoneIdPart>
     <timezoneIdPartId>Atlantic</timezoneIdPartId>
     <names>
+      <name><languageId>af</languageId><trName>Atlantiese Oseaan</trName></name>
+      <name><languageId>am</languageId><trName>አትላንቲክ ውቅያኖስ</trName></name>
+      <name><languageId>ar</languageId><trName>المحيط الأطلسي</trName></name>
+      <name><languageId>as</languageId><trName>আটলান্টিক মহাসাগৰ</trName></name>
+      <name><languageId>ast</languageId><trName>Océanu Atlánticu</trName></name>
+      <name><languageId>be</languageId><trName>Атлантычны акіян</trName></name>
+      <name><languageId>bg</languageId><trName>Атлантически океан</trName></name>
+      <name><languageId>bn</languageId><trName>আটলান্টিক মহাসাগর</trName></name>
+      <name><languageId>bs</languageId><trName>Atlantski okean</trName></name>
+      <name><languageId>ca</languageId><trName>Oceà Atlàntic</trName></name>
+      <name><languageId>cs</languageId><trName>Atlantský oceán</trName></name>
+      <name><languageId>cy</languageId><trName>Cefnfor yr Iwerydd</trName></name>
+      <name><languageId>da</languageId><trName>Atlanterhavet</trName></name>
+      <name><languageId>de</languageId><trName>Atlantischer Ozean</trName></name>
+      <name><languageId>el</languageId><trName>Ατλαντικός Ωκεανός</trName></name>
+      <name><languageId>en</languageId><trName>Atlantic Ocean</trName></name>
+      <name><languageId>es</languageId><trName>Océano Atlántico</trName></name>
+      <name><languageId>et</languageId><trName>Atlandi ookean</trName></name>
+      <name><languageId>eu</languageId><trName>Ozeano Atlantikoa</trName></name>
+      <name><languageId>fa</languageId><trName>اقیانوس اطلس</trName></name>
+      <name><languageId>fi</languageId><trName>Atlantin valtameri</trName></name>
+      <name><languageId>fr</languageId><trName>Océan Atlantique</trName></name>
+      <name><languageId>gl</languageId><trName>Océano Atlántico</trName></name>
+      <name><languageId>he</languageId><trName>האוקיינוס האטלנטי</trName></name>
+      <name><languageId>hi</languageId><trName>अन्ध महासागर</trName></name>
+      <name><languageId>hr</languageId><trName>Atlantski ocean</trName></name>
+      <name><languageId>hu</languageId><trName>Atlanti-óceán</trName></name>
+      <name><languageId>hy</languageId><trName>Ատլանտյան օվկիանոս</trName></name>
+      <name><languageId>ia</languageId><trName>Oceano Atlantic</trName></name>
+      <name><languageId>id</languageId><trName>Samudra Atlantik</trName></name>
+      <name><languageId>ilo</languageId><trName>Taaw Atlantiko</trName></name>
+      <name><languageId>is</languageId><trName>Atlantshaf</trName></name>
+      <name><languageId>it</languageId><trName>Oceano Atlantico</trName></name>
+      <name><languageId>ja</languageId><trName>大西洋</trName></name>
+      <name><languageId>ka</languageId><trName>ატლანტის ოკეანე</trName></name>
+      <name><languageId>kk</languageId><trName>Атлант мұхиты</trName></name>
+      <name><languageId>kn</languageId><trName>ಅಟ್ಲಾಂಟಿಕ್ ಮಹಾಸಾಗರ</trName></name>
+      <name><languageId>ko</languageId><trName>대서양</trName></name>
+      <name><languageId>lt</languageId><trName>Atlanto vandenynas</trName></name>
+      <name><languageId>lv</languageId><trName>Atlantijas okeāns</trName></name>
+      <name><languageId>mk</languageId><trName>Атлантски Океан</trName></name>
+      <name><languageId>ml</languageId><trName>അറ്റ്‌ലാന്റിക് മഹാസമുദ്രം</trName></name>
+      <name><languageId>mr</languageId><trName>अटलांटिक महासागर</trName></name>
+      <name><languageId>ms</languageId><trName>Lautan Atlantik</trName></name>
+      <name><languageId>nb</languageId><trName>Atlanterhavet</trName></name>
+      <name><languageId>nds</languageId><trName>Atlantik</trName></name>
+      <name><languageId>ne</languageId><trName>एटलान्टिक महासागर</trName></name>
+      <name><languageId>new</languageId><trName>एट्लान्टिक महासागर</trName></name>
+      <name><languageId>nl</languageId><trName>Atlantische Oceaan</trName></name>
+      <name><languageId>nn</languageId><trName>Atlanterhavet</trName></name>
+      <name><languageId>nso</languageId><trName>Atlantic Ocean</trName></name>
+      <name><languageId>pa</languageId><trName>ਅੰਧ ਮਹਾਂਸਾਗਰ</trName></name>
+      <name><languageId>pl</languageId><trName>Ocean Atlantycki</trName></name>
+      <name><languageId>pt</languageId><trName>Oceano Atlântico</trName></name>
+      <name><languageId>pt_BR</languageId><trName>Oceano Atlântico</trName></name>
+      <name><languageId>ro</languageId><trName>Oceanul Atlantic</trName></name>
+      <name><languageId>ru</languageId><trName>Атлантический океан</trName></name>
+      <name><languageId>si</languageId><trName>අත්ලාන්තික් සාගරය</trName></name>
+      <name><languageId>sk</languageId><trName>Atlantický oceán</trName></name>
+      <name><languageId>sl</languageId><trName>Atlantski ocean</trName></name>
+      <name><languageId>sq</languageId><trName>Oqeani Atlantik</trName></name>
+      <name><languageId>sr</languageId><trName>Атлантски океан</trName></name>
+      <name><languageId>sr_Cyrl</languageId><trName>Атлантски океан</trName></name>
+      <name><languageId>sv</languageId><trName>Atlanten</trName></name>
+      <name><languageId>ta</languageId><trName>அத்திலாந்திக்குப் பெருங்கடல்</trName></name>
+      <name><languageId>te</languageId><trName>అట్లాంటిక్ మహాసముద్రం</trName></name>
+      <name><languageId>tg</languageId><trName>Уқёнуси Атлантик</trName></name>
+      <name><languageId>th</languageId><trName>มหาสมุทรแอตแลนติก</trName></name>
+      <name><languageId>tr</languageId><trName>Atlas Okyanusu</trName></name>
+      <name><languageId>uk</languageId><trName>Атлантичний океан</trName></name>
+      <name><languageId>ur</languageId><trName>بحر اوقیانوس</trName></name>
+      <name><languageId>vi</languageId><trName>Đại Tây Dương</trName></name>
+      <name><languageId>zh</languageId><trName>大西洋</trName></name>
+      <name><languageId>zh_Hant</languageId><trName>大西洋</trName></name>
     </names>
   </timezoneIdPart>
   <timezoneIdPart>
