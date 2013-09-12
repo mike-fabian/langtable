@@ -1,9 +1,94 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <timezones>
   <timezone>
-    <timezoneId>America/North_Dakota/Center</timezoneId>
+    <timezoneId>US/Pacific</timezoneId>
     <names>
-      <name><languageId>ja</languageId><trName>アメリカ/ノースダコタ州/センター</trName></name>
+      <name><languageId>af</languageId><trName>Verenigde State van Amerika/Pasifiese tyd</trName></name>
+      <name><languageId>am</languageId><trName>ዩናይትድ ስቴትስ/የፓስፊክ ሰዓት አቆጣጠር</trName></name>
+      <name><languageId>ar</languageId><trName>الولايات المتحدة/توقيت المحيط الهادي</trName></name>
+      <name><languageId>ast</languageId><trName>Estaos Xuníos/Hora del Pacíficu</trName></name>
+      <name><languageId>az</languageId><trName>Amerika Birləşmiş Ştatları/Şimali Amerika Sakit Okean Vaxtı</trName></name>
+      <name><languageId>be</languageId><trName>Злучаныя Штаты Амерыкі/Ціхаакіянскі час</trName></name>
+      <name><languageId>bg</languageId><trName>САЩ/Северноамериканско тихоокеанско време</trName></name>
+      <name><languageId>bn</languageId><trName>মার্কিন যুক্তরাষ্ট্র/উত্তর আমিরিকা প্রশান্ত মহাসাগরীয় সময়</trName></name>
+      <name><languageId>bs</languageId><trName>Sjedinjene Američke Države/Pacifičko vreme</trName></name>
+      <name><languageId>bs_Cyrl</languageId><trName>Сједињене Америчке Државе/Пацифичко време</trName></name>
+      <name><languageId>ca</languageId><trName>Estats Units/Hora del Pacífic</trName></name>
+      <name><languageId>cs</languageId><trName>Spojené státy/Severoamerický pacifický čas</trName></name>
+      <name><languageId>cy</languageId><trName>Yr Unol Daleithiau/Amser Cefnfor Tawel Gogledd America</trName></name>
+      <name><languageId>da</languageId><trName>USA/Pacific-tid</trName></name>
+      <name><languageId>de</languageId><trName>Vereinigte Staaten/Nordamerikanische Westküstenzeit</trName></name>
+      <name><languageId>dz</languageId><trName>ཡུ་ཨེས་ཨེ/བྱང་ཨ་མི་རི་ཀ་པེ་སི་ཕིག་ཆུ་ཚོད</trName></name>
+      <name><languageId>el</languageId><trName>Ηνωμένες Πολιτείες/Ώρα Βόρειας Αμερικής</trName></name>
+      <name><languageId>en</languageId><trName>United States/Pacific Time</trName></name>
+      <name><languageId>es</languageId><trName>Estados Unidos/Hora del Pacífico</trName></name>
+      <name><languageId>et</languageId><trName>Ameerika Ühendriigid/Vaikse ookeani aeg</trName></name>
+      <name><languageId>eu</languageId><trName>Ameriketako Estatu Batuak/Ipar Amerikako Pazifikoko ordua</trName></name>
+      <name><languageId>fa</languageId><trName>ایالات متحدهٔ امریکا/وقت غرب امریکا</trName></name>
+      <name><languageId>fi</languageId><trName>Yhdysvallat/Yhdysvaltain Tyynenmeren aika</trName></name>
+      <name><languageId>fr</languageId><trName>États-Unis/heure du Pacifique</trName></name>
+      <name><languageId>gl</languageId><trName>Estados Unidos de América/Horario do Pacífico</trName></name>
+      <name><languageId>gu</languageId><trName>સંયુક્ત રાજ્ય અમેરિકા/ઉત્તર અમેરિકન પેસિફિક સમય</trName></name>
+      <name><languageId>he</languageId><trName>ארצות הברית/שעון מערב ארה״ב</trName></name>
+      <name><languageId>hi</languageId><trName>संयुक्त राज्य/उत्तरी अमेरिकी प्रशांत समय</trName></name>
+      <name><languageId>hr</languageId><trName>Sjedinjene Američke Države/pacifičko vrijeme</trName></name>
+      <name><languageId>hu</languageId><trName>Egyesült Államok/Csendes-óceáni idő</trName></name>
+      <name><languageId>hy</languageId><trName>Ամերիկայի Միացյալ Նահանգներ/Խաղաղօվկիանոսային ժամանակ</trName></name>
+      <name><languageId>id</languageId><trName>Amerika Serikat/Waktu Pasifik</trName></name>
+      <name><languageId>is</languageId><trName>Bandaríkin/Tími á Kyrrahafssvæðinu</trName></name>
+      <name><languageId>it</languageId><trName>Stati Uniti/Ora del Pacifico</trName></name>
+      <name><languageId>ja</languageId><trName>アメリカ合衆国/太平洋時間</trName></name>
+      <name><languageId>ka</languageId><trName>ამერიკის შეერთებული შტატები/წყნარი ოკეანის დრო</trName></name>
+      <name><languageId>kk</languageId><trName>АҚШ/Тынық мұхитындағы Оңтүстік Америка уақыты</trName></name>
+      <name><languageId>km</languageId><trName>សហរដ្ឋអាមេរិក/ម៉ោង​ភាគ​ខាង​លិច​នៅ​អាមរិក​ខាង​ជើង</trName></name>
+      <name><languageId>kn</languageId><trName>ಅಮೇರಿಕಾ ಸಂಯುಕ್ತ ಸಂಸ್ಥಾನ/ಪೆಸಿಫಿಕ್ ಸಮಯ</trName></name>
+      <name><languageId>ko</languageId><trName>미국/미 태평양 시간</trName></name>
+      <name><languageId>ks</languageId><trName>یوٗنایٹِڑ سِٹیٹِس/پیسِفِک ٹایِم</trName></name>
+      <name><languageId>ky</languageId><trName>Кошмо Штаттар/Түндүк Америка Тынч океандык убактысы</trName></name>
+      <name><languageId>lo</languageId><trName>ສະຫະລັດ/ເວລາປາຊີຟິກ</trName></name>
+      <name><languageId>lt</languageId><trName>Jungtinės Valstijos/Šiaurės Amerikos Ramiojo vandenyno laikas</trName></name>
+      <name><languageId>lv</languageId><trName>Amerikas Savienotās Valstis/Klusā okeāna laiks</trName></name>
+      <name><languageId>mk</languageId><trName>Соединети Американски Држави/Пацифичко време</trName></name>
+      <name><languageId>ml</languageId><trName>അമേരിക്കൻ ഐക്യനാടുകൾ/പസഫിക് സമയം</trName></name>
+      <name><languageId>mn</languageId><trName>Америкийн Нэгдсэн Улс/Хойд Америкийн Номхон далайн цаг</trName></name>
+      <name><languageId>mr</languageId><trName>युनायटेड स्टेट्स/उत्तर अमेरिकन पॅसिफिक वेळ</trName></name>
+      <name><languageId>ms</languageId><trName>Amerika Syarikat/Waktu Pasifik</trName></name>
+      <name><languageId>my</languageId><trName>ယူနိုက်တက်စတိတ်/ပစိဖိတ် အချိန်</trName></name>
+      <name><languageId>nb</languageId><trName>USA/tidssone for den nordamerikanske Stillehavskysten</trName></name>
+      <name><languageId>ne</languageId><trName>संयुक्त राज्य/उत्तर अमेरिकी प्यासफिक समय</trName></name>
+      <name><languageId>nl</languageId><trName>Verenigde Staten/Pacific-tijd</trName></name>
+      <name><languageId>pa</languageId><trName>ਯੂਨਾਇਟੇਡ ਸਟੇਟਸ/ਉੱਤਰੀ ਅਮੇਰਿਕਨ ਪੈਸਿਫਿਕ ਸਮਾਂ</trName></name>
+      <name><languageId>pl</languageId><trName>Stany Zjednoczone/Czas pacyficzny</trName></name>
+      <name><languageId>pt</languageId><trName>Estados Unidos/Hora do Pacífico</trName></name>
+      <name><languageId>pt_BR</languageId><trName>Estados Unidos/Horário do Pacífico</trName></name>
+      <name><languageId>pt_PT</languageId><trName>Estados Unidos/Hora do Pacífico</trName></name>
+      <name><languageId>ro</languageId><trName>Statele Unite ale Americii/Ora zonei Pacific</trName></name>
+      <name><languageId>ru</languageId><trName>Соединенные Штаты/Тихоокеанское время</trName></name>
+      <name><languageId>se</languageId><trName>Amerihká ovttastuvvan stáhtat/</trName></name>
+      <name><languageId>si</languageId><trName>එක්සත් ජනපදය/උතුරු ඇමරිකානු පැසිෆික් වේලාව</trName></name>
+      <name><languageId>sk</languageId><trName>Spojené štáty/Tichomorský čas</trName></name>
+      <name><languageId>sl</languageId><trName>Združene države Amerike/Pacifiški čas</trName></name>
+      <name><languageId>so</languageId><trName>Maraykanka/</trName></name>
+      <name><languageId>sq</languageId><trName>Shtetet e Bashkuara të Amerikës/Ora amerikane e bregut të Paqësorit</trName></name>
+      <name><languageId>sr</languageId><trName>Сједињене Америчке Државе/Северноамерички Пацифичко време</trName></name>
+      <name><languageId>sr_Latn</languageId><trName>Sjedinjene Američke Države/Severnoamerički Pacifičko vreme</trName></name>
+      <name><languageId>sv</languageId><trName>USA/västnordamerikansk tid</trName></name>
+      <name><languageId>sw</languageId><trName>Marekani/Saa za Pasifiki</trName></name>
+      <name><languageId>ta</languageId><trName>ஐக்கிய அமெரிக்க குடியரசு/பசிபிக் நேரம்</trName></name>
+      <name><languageId>te</languageId><trName>అమెరికా సంయుక్త రాష్ట్రాలు/పెసిఫిక్ సమయం</trName></name>
+      <name><languageId>th</languageId><trName>สหรัฐอเมริกา/เวลาแปซิฟิก</trName></name>
+      <name><languageId>tr</languageId><trName>ABD/Kuzey Amerika Pasifik Saati</trName></name>
+      <name><languageId>uk</languageId><trName>США/за північноамериканським тихоокеанським часом</trName></name>
+      <name><languageId>ur</languageId><trName>ریاستہائے متحدہ/پیسفک ٹائم</trName></name>
+      <name><languageId>uz</languageId><trName>Qoʻshma Shtatlar/Shimoliy Amerika tinch okeani vaqti</trName></name>
+      <name><languageId>uz_Cyrl</languageId><trName>Қўшма Штатлар/Шимолий Америка тинч океани вақти</trName></name>
+      <name><languageId>vi</languageId><trName>Hoa Kỳ/Giờ Thái Bình Dương</trName></name>
+      <name><languageId>wae</languageId><trName>Amerika/</trName></name>
+      <name><languageId>wal</languageId><trName>አሜሪካ/</trName></name>
+      <name><languageId>yo</languageId><trName>Orílẹ́ède Orilẹede Amerika/</trName></name>
+      <name><languageId>zh</languageId><trName>美国/太平洋时间</trName></name>
+      <name><languageId>zh_Hant</languageId><trName>美國/太平洋時間</trName></name>
+      <name><languageId>zu</languageId><trName>i-United States/esase-Pacific Time</trName></name>
     </names>
   </timezone>
 </timezones>
