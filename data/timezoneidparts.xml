@@ -24280,6 +24280,81 @@
   <timezoneIdPart>
     <timezoneIdPartId>Pacific</timezoneIdPartId>
     <names>
+      <name><languageId>af</languageId><trName>Stille Oseaan</trName></name>
+      <name><languageId>am</languageId><trName>ሰላማዊ ውቅያኖስ</trName></name>
+      <name><languageId>ar</languageId><trName>المحيط الهادئ</trName></name>
+      <name><languageId>as</languageId><trName>প্ৰশান্ত মহাসাগৰ</trName></name>
+      <name><languageId>ast</languageId><trName>Océanu Pacíficu</trName></name>
+      <name><languageId>be</languageId><trName>Ціхі акіян</trName></name>
+      <name><languageId>bg</languageId><trName>Тихи океан</trName></name>
+      <name><languageId>bn</languageId><trName>প্রশান্ত মহাসাগর</trName></name>
+      <name><languageId>bs</languageId><trName>Tihi okean</trName></name>
+      <name><languageId>ca</languageId><trName>Oceà Pacífic</trName></name>
+      <name><languageId>cs</languageId><trName>Tichý oceán</trName></name>
+      <name><languageId>cy</languageId><trName>Y Cefnfor Tawel</trName></name>
+      <name><languageId>da</languageId><trName>Stillehavet</trName></name>
+      <name><languageId>de</languageId><trName>Pazifischer Ozean</trName></name>
+      <name><languageId>el</languageId><trName>Ειρηνικός Ωκεανός</trName></name>
+      <name><languageId>en</languageId><trName>Pacific</trName></name>
+      <name><languageId>es</languageId><trName>Océano Pacífico</trName></name>
+      <name><languageId>et</languageId><trName>Vaikne ookean</trName></name>
+      <name><languageId>eu</languageId><trName>Ozeano Barea</trName></name>
+      <name><languageId>fa</languageId><trName>اقیانوس آرام</trName></name>
+      <name><languageId>fi</languageId><trName>Tyynimeri</trName></name>
+      <name><languageId>fr</languageId><trName>Océan Pacifique</trName></name>
+      <name><languageId>gl</languageId><trName>Océano Pacífico</trName></name>
+      <name><languageId>gu</languageId><trName>પ્રશાંત મહાસાગર</trName></name>
+      <name><languageId>he</languageId><trName>האוקיינוס השקט</trName></name>
+      <name><languageId>hi</languageId><trName>प्रशान्त महासागर</trName></name>
+      <name><languageId>hr</languageId><trName>Tihi ocean</trName></name>
+      <name><languageId>hu</languageId><trName>Csendes-óceán</trName></name>
+      <name><languageId>hy</languageId><trName>Խաղաղ օվկիանոս</trName></name>
+      <name><languageId>ia</languageId><trName>Oceano Pacific</trName></name>
+      <name><languageId>id</languageId><trName>Samudra Pasifik</trName></name>
+      <name><languageId>ilo</languageId><trName>Taaw Pasipiko</trName></name>
+      <name><languageId>is</languageId><trName>Kyrrahaf</trName></name>
+      <name><languageId>it</languageId><trName>Oceano Pacifico</trName></name>
+      <name><languageId>ja</languageId><trName>太平洋</trName></name>
+      <name><languageId>ka</languageId><trName>წყნარი ოკეანე</trName></name>
+      <name><languageId>kk</languageId><trName>Тынық мұхит</trName></name>
+      <name><languageId>kn</languageId><trName>ಪೆಸಿಫಿಕ್ ಮಹಾಸಾಗರ</trName></name>
+      <name><languageId>ko</languageId><trName>태평양</trName></name>
+      <name><languageId>lt</languageId><trName>Ramusis vandenynas</trName></name>
+      <name><languageId>lv</languageId><trName>Klusais okeāns</trName></name>
+      <name><languageId>mk</languageId><trName>Тихи Океан</trName></name>
+      <name><languageId>ml</languageId><trName>ശാന്തസമുദ്രം</trName></name>
+      <name><languageId>mr</languageId><trName>प्रशांत महासागर</trName></name>
+      <name><languageId>ms</languageId><trName>Lautan Pasifik</trName></name>
+      <name><languageId>nb</languageId><trName>Stillehavet</trName></name>
+      <name><languageId>nds</languageId><trName>Pazifische Ozean</trName></name>
+      <name><languageId>ne</languageId><trName>प्रशान्त महासागर</trName></name>
+      <name><languageId>new</languageId><trName>प्रशान्त महासागर</trName></name>
+      <name><languageId>nl</languageId><trName>Grote Oceaan</trName></name>
+      <name><languageId>nn</languageId><trName>Stillehavet</trName></name>
+      <name><languageId>nso</languageId><trName>Pacific Ocean</trName></name>
+      <name><languageId>pa</languageId><trName>ਪ੍ਰਸ਼ਾਂਤ ਮਹਾਂਸਾਗਰ</trName></name>
+      <name><languageId>pl</languageId><trName>Ocean Spokojny</trName></name>
+      <name><languageId>pt</languageId><trName>Oceano Pacífico</trName></name>
+      <name><languageId>pt_BR</languageId><trName>Oceano Pacífico</trName></name>
+      <name><languageId>ro</languageId><trName>Oceanul Pacific</trName></name>
+      <name><languageId>ru</languageId><trName>Тихий океан</trName></name>
+      <name><languageId>si</languageId><trName>ශාන්තිකර සාගරය</trName></name>
+      <name><languageId>sk</languageId><trName>Tichý oceán</trName></name>
+      <name><languageId>sl</languageId><trName>Tihi ocean</trName></name>
+      <name><languageId>sq</languageId><trName>Oqeani Paqësor</trName></name>
+      <name><languageId>sr</languageId><trName>Тихи океан</trName></name>
+      <name><languageId>sr_Cyrl</languageId><trName>Тихи океан</trName></name>
+      <name><languageId>sv</languageId><trName>Stilla havet</trName></name>
+      <name><languageId>ta</languageId><trName>அமைதிப் பெருங்கடல்</trName></name>
+      <name><languageId>te</languageId><trName>పసిఫిక్ మహాసముద్రం</trName></name>
+      <name><languageId>tg</languageId><trName>Уқёнуси Ором</trName></name>
+      <name><languageId>th</languageId><trName>มหาสมุทรแปซิฟิก</trName></name>
+      <name><languageId>tr</languageId><trName>Büyük Okyanus</trName></name>
+      <name><languageId>uk</languageId><trName>Тихий океан</trName></name>
+      <name><languageId>ur</languageId><trName>بحر الکاہل</trName></name>
+      <name><languageId>vi</languageId><trName>Thái Bình Dương</trName></name>
+      <name><languageId>zh</languageId><trName>太平洋</trName></name>
+      <name><languageId>zh_Hant</languageId><trName>太平洋</trName></name>
     </names>
   </timezoneIdPart>
   <timezoneIdPart>
