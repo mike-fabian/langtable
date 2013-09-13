@@ -22,6 +22,7 @@ from lxml import etree
 import langtable
 from langtable import list_locales
 from langtable import list_keyboards
+from langtable import timezone_name
 
 opts = {}
 opts['debug'] = False
@@ -222,6 +223,15 @@ def get_translations_from_cldr(main_cldr_dir = None):
                               'tr': translations_timezone_cities[timezone_city_to_translate].encode('UTF-8')}
     return
 
+def _test_timezone_names():
+    from pytz import common_timezones
+    languages_supported_by_anaconda = ['af', 'am', 'ar', 'as', 'ast', 'bal', 'be', 'bg', 'bn', 'bn_IN', 'bs', 'ca', 'cs', 'cy', 'da', 'de', 'de_CH', 'el', 'en', 'en_GB', 'es', 'et', 'eu', 'eu_ES', 'fa', 'fi', 'fr', 'gl', 'gu', 'he', 'hi', 'hr', 'hu', 'hy', 'ia', 'id', 'ilo', 'is', 'it', 'ja', 'ka', 'kk', 'kn', 'ko', 'lt', 'lv', 'mai', 'mk', 'ml', 'mr', 'ms', 'nb', 'nds', 'ne', 'nl', 'nn', 'nso', 'or', 'pa', 'pl', 'pt', 'pt_BR', 'ro', 'ru', 'si', 'sk', 'sl', 'sq', 'sr', 'sr_Latn', 'sv', 'ta', 'te', 'tg', 'th', 'tr', 'uk', 'ur', 'vi', 'zh_CN', 'zh_TW', 'zu']
+    for icuLocaleId in languages_supported_by_anaconda:
+        for timezoneId in common_timezones:
+            print "%(lang)s: '%(id)s' -> '%(tr)s'" %{
+                'lang': icuLocaleId,
+                'id': timezoneId,
+                'tr': timezone_name(timezoneId=timezoneId, languageIdQuery=icuLocaleId)}
 def main():
     args = parse_args()
     if args.debug:
@@ -234,6 +244,8 @@ def main():
                     datadir = './data')
 
     get_translations_from_cldr(main_cldr_dir='/local/mfabian/src/cldr-svn/trunk/common/main')
+
+    #_test_timezone_names()
 
     langtable._write_files(territoriesfilename = args.territoriesoutputfile,
                            languagesfilename = args.languagesoutputfile,
