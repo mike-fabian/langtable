@@ -1215,6 +1215,7 @@
       <name><languageId>yo</languageId><trName>Èdè Azerbaijani</trName></name>
       <name><languageId>zh</languageId><trName>阿塞拜疆文</trName></name>
       <name><languageId>zh_Hant</languageId><trName>亞塞拜然文</trName></name>
+      <name><languageId>zh_Hant_HK</languageId><trName>阿澤里</trName></name>
       <name><languageId>zu</languageId><trName>isi-Azerbaijani</trName></name>
     </names>
     <locales>
@@ -4337,6 +4338,7 @@
       <name><languageId>yo</languageId><trName>Èdè Esperanto</trName></name>
       <name><languageId>zh</languageId><trName>世界文</trName></name>
       <name><languageId>zh_Hant</languageId><trName>世界文</trName></name>
+      <name><languageId>zh_Hant_HK</languageId><trName>世界語</trName></name>
       <name><languageId>zu</languageId><trName>isi-Esperanto</trName></name>
     </names>
     <locales>
@@ -8767,6 +8769,7 @@
       <name><languageId>yo</languageId><trName>Èdè Italiani</trName></name>
       <name><languageId>zh</languageId><trName>意大利文</trName></name>
       <name><languageId>zh_Hant</languageId><trName>義大利文</trName></name>
+      <name><languageId>zh_Hant_HK</languageId><trName>意大利文</trName></name>
       <name><languageId>zu</languageId><trName>isi-Italian</trName></name>
     </names>
     <locales>
@@ -14281,6 +14284,7 @@
       <name><languageId>ur</languageId><trName>اورومو</trName></name>
       <name><languageId>vi</languageId><trName>Tiếng Oromo</trName></name>
       <name><languageId>zh</languageId><trName>奥洛莫文</trName></name>
+      <name><languageId>zh_Hans_SG</languageId><trName>奥罗莫文</trName></name>
       <name><languageId>zh_Hant</languageId><trName>奧羅莫文</trName></name>
       <name><languageId>zu</languageId><trName>Isi-Oromo</trName></name>
     </names>
@@ -15002,6 +15006,7 @@
       <name><languageId>xh</languageId><trName>Pashto</trName></name>
       <name><languageId>zh</languageId><trName>普什图文</trName></name>
       <name><languageId>zh_Hant</languageId><trName>普什圖文</trName></name>
+      <name><languageId>zh_Hant_HK</languageId><trName>普什圖語</trName></name>
       <name><languageId>zu</languageId><trName>isi-Pushto</trName></name>
     </names>
     <locales>
@@ -19640,6 +19645,7 @@
       <name><languageId>xh</languageId><trName>Isi Uighur</trName></name>
       <name><languageId>zh</languageId><trName>维吾尔文</trName></name>
       <name><languageId>zh_Hant</languageId><trName>維吾爾文</trName></name>
+      <name><languageId>zh_Hant_HK</languageId><trName>維吾爾語</trName></name>
       <name><languageId>zu</languageId><trName>isi-Uyghur</trName></name>
     </names>
     <locales>
@@ -21316,57 +21322,6 @@
     </timezones>
   </language>
   <language>
-    <languageId>zh_Hans_CN</languageId>
-    <iso639-1>zh</iso639-1>
-    <iso639-2-t>zho</iso639-2-t>
-    <iso639-2-b>chi</iso639-2-b>
-    <names>
-      <name><languageId>en</languageId><trName>Simplified Chinese (China)</trName></name>
-      <name><languageId>zh_CN</languageId><trName>简体中文 (中国)</trName></name>
-    </names>
-    <locales>
-      <locale><localeId>zh_CN.UTF-8</localeId><rank>1000</rank></locale>
-    </locales>
-    <territories>
-      <territory><territoryId>CN</territoryId><rank>1000</rank></territory>
-    </territories>
-    <keyboards>
-      <keyboard><keyboardId>cn</keyboardId><rank>1000</rank></keyboard>
-    </keyboards>
-    <consolefonts>
-      <consolefont><consolefontId>latarcyrheb-sun16</consolefontId><rank>1000</rank></consolefont>
-    </consolefonts>
-    <timezones>
-      <timezone><timezoneId>Asia/Shanghai</timezoneId><rank>1000</rank></timezone>
-    </timezones>
-  </language>
-  <language>
-    <languageId>zh_Hant_HK</languageId>
-    <iso639-1>zh</iso639-1>
-    <iso639-2-t>zho</iso639-2-t>
-    <iso639-2-b>chi</iso639-2-b>
-    <names>
-      <name><languageId>de</languageId><trName>Traditionelles Chinesisch (Sonderverwaltungszone Hongkong)</trName></name>
-      <name><languageId>en</languageId><trName>Traditional Chinese (Hong Kong)</trName></name>
-      <name><languageId>zh_HK</languageId><trName>繁體中文 (中華人民共和國香港特別行政區)</trName></name>
-    </names>
-    <locales>
-      <locale><localeId>zh_HK.UTF-8</localeId><rank>1000</rank></locale>
-    </locales>
-    <territories>
-      <territory><territoryId>HK</territoryId><rank>1000</rank></territory>
-    </territories>
-    <keyboards>
-      <keyboard><keyboardId>cn</keyboardId><rank>1000</rank></keyboard>
-    </keyboards>
-    <consolefonts>
-      <consolefont><consolefontId>latarcyrheb-sun16</consolefontId><rank>1000</rank></consolefont>
-    </consolefonts>
-    <timezones>
-      <timezone><timezoneId>Asia/Hong_Kong</timezoneId><rank>20</rank></timezone>
-    </timezones>
-  </language>
-  <language>
     <languageId>zh_Hans</languageId>
     <iso639-1>zh</iso639-1>
     <iso639-2-t>zho</iso639-2-t>
@@ -21484,6 +21439,57 @@
     <timezones>
       <timezone><timezoneId>Asia/Shanghai</timezoneId><rank>20</rank></timezone>
       <timezone><timezoneId>Asia/Singapore</timezoneId><rank>19</rank></timezone>
+    </timezones>
+  </language>
+  <language>
+    <languageId>zh_Hans_CN</languageId>
+    <iso639-1>zh</iso639-1>
+    <iso639-2-t>zho</iso639-2-t>
+    <iso639-2-b>chi</iso639-2-b>
+    <names>
+      <name><languageId>en</languageId><trName>Simplified Chinese (China)</trName></name>
+      <name><languageId>zh_CN</languageId><trName>简体中文 (中国)</trName></name>
+    </names>
+    <locales>
+      <locale><localeId>zh_CN.UTF-8</localeId><rank>1000</rank></locale>
+    </locales>
+    <territories>
+      <territory><territoryId>CN</territoryId><rank>1000</rank></territory>
+    </territories>
+    <keyboards>
+      <keyboard><keyboardId>cn</keyboardId><rank>1000</rank></keyboard>
+    </keyboards>
+    <consolefonts>
+      <consolefont><consolefontId>latarcyrheb-sun16</consolefontId><rank>1000</rank></consolefont>
+    </consolefonts>
+    <timezones>
+      <timezone><timezoneId>Asia/Shanghai</timezoneId><rank>1000</rank></timezone>
+    </timezones>
+  </language>
+  <language>
+    <languageId>zh_Hans_SG</languageId>
+    <iso639-1>zh</iso639-1>
+    <iso639-2-t>zho</iso639-2-t>
+    <iso639-2-b>chi</iso639-2-b>
+    <names>
+      <name><languageId>de</languageId><trName>Vereinfachtes Chinesisch (Singapur)</trName></name>
+      <name><languageId>en</languageId><trName>Simplified Chinese (Singapore)</trName></name>
+      <name><languageId>zh_SG</languageId><trName>简体中文 (新加坡)</trName></name>
+    </names>
+    <locales>
+      <locale><localeId>zh_SG.UTF-8</localeId><rank>1000</rank></locale>
+    </locales>
+    <territories>
+      <territory><territoryId>SG</territoryId><rank>1000</rank></territory>
+    </territories>
+    <keyboards>
+      <keyboard><keyboardId>cn</keyboardId><rank>1000</rank></keyboard>
+    </keyboards>
+    <consolefonts>
+      <consolefont><consolefontId>latarcyrheb-sun16</consolefontId><rank>1000</rank></consolefont>
+    </consolefonts>
+    <timezones>
+      <timezone><timezoneId>Asia/Singapore</timezoneId><rank>1000</rank></timezone>
     </timezones>
   </language>
   <language>
@@ -21609,6 +21615,32 @@
     </timezones>
   </language>
   <language>
+    <languageId>zh_Hant_HK</languageId>
+    <iso639-1>zh</iso639-1>
+    <iso639-2-t>zho</iso639-2-t>
+    <iso639-2-b>chi</iso639-2-b>
+    <names>
+      <name><languageId>de</languageId><trName>Traditionelles Chinesisch (Sonderverwaltungszone Hongkong)</trName></name>
+      <name><languageId>en</languageId><trName>Traditional Chinese (Hong Kong)</trName></name>
+      <name><languageId>zh_HK</languageId><trName>繁體中文 (中華人民共和國香港特別行政區)</trName></name>
+    </names>
+    <locales>
+      <locale><localeId>zh_HK.UTF-8</localeId><rank>1000</rank></locale>
+    </locales>
+    <territories>
+      <territory><territoryId>HK</territoryId><rank>1000</rank></territory>
+    </territories>
+    <keyboards>
+      <keyboard><keyboardId>cn</keyboardId><rank>1000</rank></keyboard>
+    </keyboards>
+    <consolefonts>
+      <consolefont><consolefontId>latarcyrheb-sun16</consolefontId><rank>1000</rank></consolefont>
+    </consolefonts>
+    <timezones>
+      <timezone><timezoneId>Asia/Hong_Kong</timezoneId><rank>20</rank></timezone>
+    </timezones>
+  </language>
+  <language>
     <languageId>zh_Hant_MO</languageId>
     <iso639-1>zh</iso639-1>
     <iso639-2-t>zho</iso639-2-t>
@@ -21633,32 +21665,6 @@
     </consolefonts>
     <timezones>
       <timezone><timezoneId>Asia/Macau</timezoneId><rank>20</rank></timezone>
-    </timezones>
-  </language>
-  <language>
-    <languageId>zh_Hans_SG</languageId>
-    <iso639-1>zh</iso639-1>
-    <iso639-2-t>zho</iso639-2-t>
-    <iso639-2-b>chi</iso639-2-b>
-    <names>
-      <name><languageId>de</languageId><trName>Vereinfachtes Chinesisch (Singapur)</trName></name>
-      <name><languageId>en</languageId><trName>Simplified Chinese (Singapore)</trName></name>
-      <name><languageId>zh_SG</languageId><trName>简体中文 (新加坡)</trName></name>
-    </names>
-    <locales>
-      <locale><localeId>zh_SG.UTF-8</localeId><rank>1000</rank></locale>
-    </locales>
-    <territories>
-      <territory><territoryId>SG</territoryId><rank>1000</rank></territory>
-    </territories>
-    <keyboards>
-      <keyboard><keyboardId>cn</keyboardId><rank>1000</rank></keyboard>
-    </keyboards>
-    <consolefonts>
-      <consolefont><consolefontId>latarcyrheb-sun16</consolefontId><rank>1000</rank></consolefont>
-    </consolefonts>
-    <timezones>
-      <timezone><timezoneId>Asia/Singapore</timezoneId><rank>1000</rank></timezone>
     </timezones>
   </language>
   <language>

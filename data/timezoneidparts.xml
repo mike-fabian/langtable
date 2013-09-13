@@ -77,6 +77,7 @@
       <name><languageId>vi</languageId><trName>Abidjan</trName></name>
       <name><languageId>zh</languageId><trName>阿比让</trName></name>
       <name><languageId>zh_Hant</languageId><trName>阿比讓</trName></name>
+      <name><languageId>zh_Hant_HK</languageId><trName>阿比贊</trName></name>
     </names>
   </timezoneIdPart>
   <timezoneIdPart>
@@ -316,6 +317,7 @@
       <name><languageId>vi</languageId><trName>Addis Ababa</trName></name>
       <name><languageId>zh</languageId><trName>亚的斯亚贝巴</trName></name>
       <name><languageId>zh_Hant</languageId><trName>阿迪斯阿貝巴</trName></name>
+      <name><languageId>zh_Hant_HK</languageId><trName>亞的斯亞貝巴</trName></name>
     </names>
   </timezoneIdPart>
   <timezoneIdPart>
@@ -2570,6 +2572,7 @@
       <name><languageId>vi</languageId><trName>Asmara</trName></name>
       <name><languageId>zh</languageId><trName>阿斯马拉</trName></name>
       <name><languageId>zh_Hant</languageId><trName>阿斯瑪拉</trName></name>
+      <name><languageId>zh_Hant_HK</languageId><trName>阿斯馬拉</trName></name>
     </names>
   </timezoneIdPart>
   <timezoneIdPart>
@@ -4193,6 +4196,7 @@
       <name><languageId>wae</languageId><trName>Belgrad</trName></name>
       <name><languageId>zh</languageId><trName>贝尔格莱德</trName></name>
       <name><languageId>zh_Hant</languageId><trName>貝爾格勒</trName></name>
+      <name><languageId>zh_Hant_HK</languageId><trName>貝爾格萊德</trName></name>
     </names>
   </timezoneIdPart>
   <timezoneIdPart>
@@ -4506,6 +4510,7 @@
       <name><languageId>vi</languageId><trName>Beulah</trName></name>
       <name><languageId>zh</languageId><trName>比尤拉</trName></name>
       <name><languageId>zh_Hant</languageId><trName>布由拉</trName></name>
+      <name><languageId>zh_Hant_HK</languageId><trName>比尤拉，北達科他州</trName></name>
     </names>
   </timezoneIdPart>
   <timezoneIdPart>
@@ -4585,6 +4590,7 @@
       <name><languageId>vi</languageId><trName>Bishkek</trName></name>
       <name><languageId>zh</languageId><trName>比什凯克</trName></name>
       <name><languageId>zh_Hant</languageId><trName>比什凱克</trName></name>
+      <name><languageId>zh_Hant_HK</languageId><trName>比斯凱克</trName></name>
     </names>
   </timezoneIdPart>
   <timezoneIdPart>
@@ -5133,6 +5139,7 @@
       <name><languageId>vi</languageId><trName>Bratislava</trName></name>
       <name><languageId>zh</languageId><trName>布拉迪斯拉发</trName></name>
       <name><languageId>zh_Hant</languageId><trName>布拉提斯拉瓦</trName></name>
+      <name><languageId>zh_Hant_HK</languageId><trName>伯拉第斯拉瓦</trName></name>
     </names>
   </timezoneIdPart>
   <timezoneIdPart>
@@ -6818,6 +6825,7 @@
       <name><languageId>vi</languageId><trName>Cayenne</trName></name>
       <name><languageId>zh</languageId><trName>卡宴</trName></name>
       <name><languageId>zh_Hant</languageId><trName>開雲</trName></name>
+      <name><languageId>zh_Hant_HK</languageId><trName>法屬蓋亞那</trName></name>
     </names>
   </timezoneIdPart>
   <timezoneIdPart>
@@ -7540,6 +7548,7 @@
       <name><languageId>vi</languageId><trName>Chisinau</trName></name>
       <name><languageId>zh</languageId><trName>基希讷乌</trName></name>
       <name><languageId>zh_Hant</languageId><trName>奇西瑙</trName></name>
+      <name><languageId>zh_Hant_HK</languageId><trName>基希訥烏</trName></name>
     </names>
   </timezoneIdPart>
   <timezoneIdPart>
@@ -8099,6 +8108,7 @@
       <name><languageId>vi</languageId><trName>Comoro</trName></name>
       <name><languageId>zh</languageId><trName>科摩罗</trName></name>
       <name><languageId>zh_Hant</languageId><trName>科摩羅群島</trName></name>
+      <name><languageId>zh_Hant_HK</languageId><trName>科摩羅</trName></name>
     </names>
   </timezoneIdPart>
   <timezoneIdPart>
@@ -8423,6 +8433,7 @@
       <name><languageId>vi</languageId><trName>Costa Rica</trName></name>
       <name><languageId>zh</languageId><trName>哥斯达黎加</trName></name>
       <name><languageId>zh_Hant</languageId><trName>哥斯大黎加</trName></name>
+      <name><languageId>zh_Hant_HK</languageId><trName>哥斯達黎加</trName></name>
     </names>
   </timezoneIdPart>
   <timezoneIdPart>
@@ -9058,6 +9069,7 @@
       <name><languageId>vi</languageId><trName>Dar es Salaam</trName></name>
       <name><languageId>zh</languageId><trName>达累斯萨拉姆</trName></name>
       <name><languageId>zh_Hant</languageId><trName>沙蘭港</trName></name>
+      <name><languageId>zh_Hant_HK</languageId><trName>達累斯薩拉姆</trName></name>
     </names>
   </timezoneIdPart>
   <timezoneIdPart>
@@ -10174,6 +10186,7 @@
       <name><languageId>uz</languageId><trName>Dumont d’Urville</trName></name>
       <name><languageId>vi</languageId><trName>Dumont d’Urville</trName></name>
       <name><languageId>zh</languageId><trName>迪蒙迪尔维尔</trName></name>
+      <name><languageId>zh_Hans_SG</languageId><trName>杜蒙杜威勒</trName></name>
       <name><languageId>zh_Hant</languageId><trName>杜蒙杜爾維爾</trName></name>
     </names>
   </timezoneIdPart>
@@ -10254,6 +10267,7 @@
       <name><languageId>vi</languageId><trName>Dushanbe</trName></name>
       <name><languageId>zh</languageId><trName>杜尚别</trName></name>
       <name><languageId>zh_Hant</languageId><trName>杜桑貝</trName></name>
+      <name><languageId>zh_Hant_HK</languageId><trName>杜尚別</trName></name>
     </names>
   </timezoneIdPart>
   <timezoneIdPart>
@@ -12418,6 +12432,7 @@
       <name><languageId>vi</languageId><trName>Guadalcanal</trName></name>
       <name><languageId>zh</languageId><trName>瓜达尔卡纳尔</trName></name>
       <name><languageId>zh_Hant</languageId><trName>瓜達康納爾島</trName></name>
+      <name><languageId>zh_Hant_HK</languageId><trName>瓜達爾卡納爾</trName></name>
     </names>
   </timezoneIdPart>
   <timezoneIdPart>
@@ -14861,6 +14876,7 @@
       <name><languageId>vi</languageId><trName>Jersey</trName></name>
       <name><languageId>zh</languageId><trName>泽西岛</trName></name>
       <name><languageId>zh_Hant</languageId><trName>澤西島</trName></name>
+      <name><languageId>zh_Hant_HK</languageId><trName>澤西</trName></name>
     </names>
   </timezoneIdPart>
   <timezoneIdPart>
@@ -15728,6 +15744,7 @@
       <name><languageId>vi</languageId><trName>Karachi</trName></name>
       <name><languageId>zh</languageId><trName>卡拉奇</trName></name>
       <name><languageId>zh_Hant</languageId><trName>喀拉蚩</trName></name>
+      <name><languageId>zh_Hant_HK</languageId><trName>卡拉奇</trName></name>
     </names>
   </timezoneIdPart>
   <timezoneIdPart>
@@ -16046,6 +16063,7 @@
       <name><languageId>vi</languageId><trName>Kerguelen</trName></name>
       <name><languageId>zh</languageId><trName>凯尔盖朗</trName></name>
       <name><languageId>zh_Hant</languageId><trName>凱爾蓋朗島</trName></name>
+      <name><languageId>zh_Hant_HK</languageId><trName>凱爾蓋朗</trName></name>
     </names>
   </timezoneIdPart>
   <timezoneIdPart>
@@ -16203,6 +16221,7 @@
       <name><languageId>wae</languageId><trName>Kartum</trName></name>
       <name><languageId>zh</languageId><trName>喀土穆</trName></name>
       <name><languageId>zh_Hant</languageId><trName>喀土穆</trName></name>
+      <name><languageId>zh_Hant_HK</languageId><trName>喀土木</trName></name>
     </names>
   </timezoneIdPart>
   <timezoneIdPart>
@@ -17458,6 +17477,7 @@
       <name><languageId>vi</languageId><trName>Lagos</trName></name>
       <name><languageId>zh</languageId><trName>拉各斯</trName></name>
       <name><languageId>zh_Hant</languageId><trName>拉哥斯</trName></name>
+      <name><languageId>zh_Hant_HK</languageId><trName>拉各斯</trName></name>
     </names>
   </timezoneIdPart>
   <timezoneIdPart>
@@ -17538,6 +17558,7 @@
       <name><languageId>vi</languageId><trName>Libreville</trName></name>
       <name><languageId>zh</languageId><trName>利伯维尔</trName></name>
       <name><languageId>zh_Hant</languageId><trName>自由市</trName></name>
+      <name><languageId>zh_Hant_HK</languageId><trName>利布維</trName></name>
     </names>
   </timezoneIdPart>
   <timezoneIdPart>
@@ -17853,6 +17874,7 @@
       <name><languageId>wae</languageId><trName>Laibač</trName></name>
       <name><languageId>zh</languageId><trName>卢布尔雅那</trName></name>
       <name><languageId>zh_Hant</languageId><trName>盧比安納</trName></name>
+      <name><languageId>zh_Hant_HK</languageId><trName>盧布爾雅那</trName></name>
     </names>
   </timezoneIdPart>
   <timezoneIdPart>
@@ -18483,6 +18505,7 @@
       <name><languageId>vi</languageId><trName>Luanda</trName></name>
       <name><languageId>zh</languageId><trName>罗安达</trName></name>
       <name><languageId>zh_Hant</languageId><trName>羅安達</trName></name>
+      <name><languageId>zh_Hant_HK</languageId><trName>盧安達</trName></name>
     </names>
   </timezoneIdPart>
   <timezoneIdPart>
@@ -18640,6 +18663,7 @@
       <name><languageId>vi</languageId><trName>Lusaka</trName></name>
       <name><languageId>zh</languageId><trName>卢萨卡</trName></name>
       <name><languageId>zh_Hant</languageId><trName>路沙卡</trName></name>
+      <name><languageId>zh_Hant_HK</languageId><trName>盧薩卡</trName></name>
     </names>
   </timezoneIdPart>
   <timezoneIdPart>
@@ -19270,6 +19294,7 @@
       <name><languageId>vi</languageId><trName>Mahe</trName></name>
       <name><languageId>zh</languageId><trName>马埃岛</trName></name>
       <name><languageId>zh_Hant</languageId><trName>馬埃島</trName></name>
+      <name><languageId>zh_Hant_HK</languageId><trName>馬希</trName></name>
     </names>
   </timezoneIdPart>
   <timezoneIdPart>
@@ -19505,6 +19530,7 @@
       <name><languageId>vi</languageId><trName>Malabo</trName></name>
       <name><languageId>zh</languageId><trName>马拉博</trName></name>
       <name><languageId>zh_Hant</languageId><trName>馬拉博</trName></name>
+      <name><languageId>zh_Hant_HK</languageId><trName>馬拉波</trName></name>
     </names>
   </timezoneIdPart>
   <timezoneIdPart>
@@ -20135,6 +20161,7 @@
       <name><languageId>vi</languageId><trName>Mariehamn</trName></name>
       <name><languageId>zh</languageId><trName>玛丽港</trName></name>
       <name><languageId>zh_Hant</languageId><trName>瑪麗港</trName></name>
+      <name><languageId>zh_Hant_HK</languageId><trName>馬里漢姆</trName></name>
     </names>
   </timezoneIdPart>
   <timezoneIdPart>
@@ -20450,6 +20477,7 @@
       <name><languageId>vi</languageId><trName>Maseru</trName></name>
       <name><languageId>zh</languageId><trName>马塞卢</trName></name>
       <name><languageId>zh_Hant</languageId><trName>馬賽魯</trName></name>
+      <name><languageId>zh_Hant_HK</languageId><trName>馬塞魯</trName></name>
     </names>
   </timezoneIdPart>
   <timezoneIdPart>
@@ -21238,6 +21266,7 @@
       <name><languageId>uz</languageId><trName>Menominee</trName></name>
       <name><languageId>vi</languageId><trName>Menominee</trName></name>
       <name><languageId>zh</languageId><trName>密诺米尼</trName></name>
+      <name><languageId>zh_Hans_SG</languageId><trName>梅诺米尼</trName></name>
       <name><languageId>zh_Hant</languageId><trName>美諾米尼</trName></name>
     </names>
   </timezoneIdPart>
@@ -21798,6 +21827,7 @@
       <name><languageId>wae</languageId><trName>Mogadišu</trName></name>
       <name><languageId>zh</languageId><trName>摩加迪沙</trName></name>
       <name><languageId>zh_Hant</languageId><trName>摩加迪休</trName></name>
+      <name><languageId>zh_Hant_HK</languageId><trName>摩加迪沙</trName></name>
     </names>
   </timezoneIdPart>
   <timezoneIdPart>
@@ -22683,6 +22713,7 @@
       <name><languageId>vi</languageId><trName>Muscat</trName></name>
       <name><languageId>zh</languageId><trName>马斯喀特</trName></name>
       <name><languageId>zh_Hant</languageId><trName>阿曼</trName></name>
+      <name><languageId>zh_Hant_HK</languageId><trName>馬斯喀特</trName></name>
     </names>
   </timezoneIdPart>
   <timezoneIdPart>
@@ -23323,6 +23354,7 @@
       <name><languageId>vi</languageId><trName>Nicosia</trName></name>
       <name><languageId>zh</languageId><trName>尼科西亚</trName></name>
       <name><languageId>zh_Hant</languageId><trName>尼古西亞</trName></name>
+      <name><languageId>zh_Hant_HK</languageId><trName>尼科西亞</trName></name>
     </names>
   </timezoneIdPart>
   <timezoneIdPart>
@@ -24963,6 +24995,7 @@
       <name><languageId>uz</languageId><trName>Pangnirtung</trName></name>
       <name><languageId>vi</languageId><trName>Pangnirtung</trName></name>
       <name><languageId>zh</languageId><trName>旁涅唐</trName></name>
+      <name><languageId>zh_Hans_SG</languageId><trName>旁尼唐</trName></name>
       <name><languageId>zh_Hant</languageId><trName>潘尼爾東</trName></name>
     </names>
   </timezoneIdPart>
@@ -25285,6 +25318,7 @@
       <name><languageId>vi</languageId><trName>Petersburg</trName></name>
       <name><languageId>zh</languageId><trName>彼得斯堡</trName></name>
       <name><languageId>zh_Hant</languageId><trName>彼得堡</trName></name>
+      <name><languageId>zh_Hant_HK</languageId><trName>印第安那州彼得堡</trName></name>
     </names>
   </timezoneIdPart>
   <timezoneIdPart>
@@ -25600,6 +25634,7 @@
       <name><languageId>vi</languageId><trName>Podgorica</trName></name>
       <name><languageId>zh</languageId><trName>波德戈里察</trName></name>
       <name><languageId>zh_Hant</languageId><trName>波多里察</trName></name>
+      <name><languageId>zh_Hant_HK</languageId><trName>波德戈里察</trName></name>
     </names>
   </timezoneIdPart>
   <timezoneIdPart>
@@ -25916,6 +25951,7 @@
       <name><languageId>vi</languageId><trName>Port Moresby</trName></name>
       <name><languageId>zh</languageId><trName>莫尔兹比港</trName></name>
       <name><languageId>zh_Hant</languageId><trName>莫士比港</trName></name>
+      <name><languageId>zh_Hant_HK</languageId><trName>莫爾斯比港</trName></name>
     </names>
   </timezoneIdPart>
   <timezoneIdPart>
@@ -28686,6 +28722,7 @@
       <name><languageId>uz</languageId><trName>Santo Domingo</trName></name>
       <name><languageId>vi</languageId><trName>Santo Domingo</trName></name>
       <name><languageId>zh</languageId><trName>圣多明各</trName></name>
+      <name><languageId>zh_Hans_SG</languageId><trName>圣多明戈</trName></name>
       <name><languageId>zh_Hant</languageId><trName>聖多明哥</trName></name>
     </names>
   </timezoneIdPart>
@@ -28929,6 +28966,7 @@
       <name><languageId>vi</languageId><trName>Sarajevo</trName></name>
       <name><languageId>zh</languageId><trName>萨拉热窝</trName></name>
       <name><languageId>zh_Hant</languageId><trName>塞拉耶佛</trName></name>
+      <name><languageId>zh_Hant_HK</languageId><trName>薩拉熱窩</trName></name>
     </names>
   </timezoneIdPart>
   <timezoneIdPart>
@@ -29007,6 +29045,7 @@
       <name><languageId>uz</languageId><trName>Ittoqqortoormiit</trName></name>
       <name><languageId>vi</languageId><trName>Ittoqqortoormiit</trName></name>
       <name><languageId>zh</languageId><trName>斯科列斯比桑德</trName></name>
+      <name><languageId>zh_Hans_SG</languageId><trName>斯考斯伯松德</trName></name>
       <name><languageId>zh_Hant</languageId><trName>伊托科爾托米特</trName></name>
     </names>
   </timezoneIdPart>
@@ -29553,6 +29592,7 @@
       <name><languageId>vi</languageId><trName>Skopje</trName></name>
       <name><languageId>zh</languageId><trName>斯科普里</trName></name>
       <name><languageId>zh_Hant</languageId><trName>史高比耶</trName></name>
+      <name><languageId>zh_Hant_HK</languageId><trName>斯科普里</trName></name>
     </names>
   </timezoneIdPart>
   <timezoneIdPart>
@@ -29634,6 +29674,7 @@
       <name><languageId>vi</languageId><trName>Sofia</trName></name>
       <name><languageId>zh</languageId><trName>索非亚</trName></name>
       <name><languageId>zh_Hant</languageId><trName>索菲亞</trName></name>
+      <name><languageId>zh_Hant_HK</languageId><trName>索非亞</trName></name>
     </names>
   </timezoneIdPart>
   <timezoneIdPart>
@@ -29872,7 +29913,9 @@
       <name><languageId>uz</languageId><trName>St. Barthelemy</trName></name>
       <name><languageId>vi</languageId><trName>Saint Barthélemy</trName></name>
       <name><languageId>zh</languageId><trName>圣巴泰勒米岛</trName></name>
+      <name><languageId>zh_Hans_SG</languageId><trName>圣巴太累米</trName></name>
       <name><languageId>zh_Hant</languageId><trName>聖巴托洛繆島</trName></name>
+      <name><languageId>zh_Hant_HK</languageId><trName>聖巴夫林米</trName></name>
       <name><languageId>zu</languageId><trName>I-Saint Barthélemy</trName></name>
     </names>
   </timezoneIdPart>
@@ -30034,6 +30077,7 @@
       <name><languageId>uz</languageId><trName>St. John’s</trName></name>
       <name><languageId>vi</languageId><trName>St. John’s</trName></name>
       <name><languageId>zh</languageId><trName>圣约翰斯</trName></name>
+      <name><languageId>zh_Hans_SG</languageId><trName>圣约翰</trName></name>
       <name><languageId>zh_Hant</languageId><trName>聖約翰</trName></name>
       <name><languageId>zu</languageId><trName>I-St. John’s</trName></name>
     </names>
@@ -30356,6 +30400,7 @@
       <name><languageId>vi</languageId><trName>St. Vincent</trName></name>
       <name><languageId>zh</languageId><trName>圣文森特</trName></name>
       <name><languageId>zh_Hant</languageId><trName>聖文森</trName></name>
+      <name><languageId>zh_Hant_HK</languageId><trName>聖文森特</trName></name>
     </names>
   </timezoneIdPart>
   <timezoneIdPart>
@@ -30435,6 +30480,7 @@
       <name><languageId>vi</languageId><trName>Stanley</trName></name>
       <name><languageId>zh</languageId><trName>斯坦利</trName></name>
       <name><languageId>zh_Hant</languageId><trName>史坦利</trName></name>
+      <name><languageId>zh_Hant_HK</languageId><trName>史坦雷</trName></name>
     </names>
   </timezoneIdPart>
   <timezoneIdPart>
@@ -32028,6 +32074,7 @@
       <name><languageId>vi</languageId><trName>Tongatapu</trName></name>
       <name><languageId>zh</languageId><trName>东加塔布</trName></name>
       <name><languageId>zh_Hant</languageId><trName>東加塔布島</trName></name>
+      <name><languageId>zh_Hant_HK</languageId><trName>湯加塔布</trName></name>
     </names>
   </timezoneIdPart>
   <timezoneIdPart>
@@ -34214,6 +34261,7 @@
       <name><languageId>vi</languageId><trName>Winamac</trName></name>
       <name><languageId>zh</languageId><trName>威纳马克</trName></name>
       <name><languageId>zh_Hant</languageId><trName>威納麥克</trName></name>
+      <name><languageId>zh_Hant_HK</languageId><trName>印第安那州威納馬克</trName></name>
     </names>
   </timezoneIdPart>
   <timezoneIdPart>
@@ -34294,6 +34342,7 @@
       <name><languageId>vi</languageId><trName>Windhoek</trName></name>
       <name><languageId>zh</languageId><trName>温得和克</trName></name>
       <name><languageId>zh_Hant</languageId><trName>溫得和克</trName></name>
+      <name><languageId>zh_Hant_HK</languageId><trName>溫特和克</trName></name>
     </names>
   </timezoneIdPart>
   <timezoneIdPart>
@@ -34771,6 +34820,7 @@
       <name><languageId>vi</languageId><trName>Yerevan</trName></name>
       <name><languageId>zh</languageId><trName>埃里温</trName></name>
       <name><languageId>zh_Hant</languageId><trName>葉里溫</trName></name>
+      <name><languageId>zh_Hant_HK</languageId><trName>耶烈萬</trName></name>
     </names>
   </timezoneIdPart>
   <timezoneIdPart>
@@ -34924,6 +34974,7 @@
       <name><languageId>uz</languageId><trName>Zaporozhye</trName></name>
       <name><languageId>vi</languageId><trName>Zaporozhye</trName></name>
       <name><languageId>zh</languageId><trName>扎波罗热</trName></name>
+      <name><languageId>zh_Hans_SG</languageId><trName>扎波罗什</trName></name>
       <name><languageId>zh_Hant</languageId><trName>札波羅結</trName></name>
     </names>
   </timezoneIdPart>

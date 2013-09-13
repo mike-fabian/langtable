@@ -204,6 +204,7 @@
       <name><languageId>wae</languageId><trName>Amerikaniš Kontinänt</trName></name>
       <name><languageId>zh</languageId><trName>美洲</trName></name>
       <name><languageId>zh_Hant</languageId><trName>美洲</trName></name>
+      <name><languageId>zh_Hant_HK</languageId><trName>美洲地區</trName></name>
       <name><languageId>zu</languageId><trName>Americas</trName></name>
     </names>
     <locales>
@@ -852,6 +853,7 @@
       <name><languageId>yo</languageId><trName>Orílẹ́ède Ẹmirate ti Awọn Arabu</trName></name>
       <name><languageId>zh</languageId><trName>阿拉伯联合酋长国</trName></name>
       <name><languageId>zh_Hant</languageId><trName>阿拉伯聯合大公國</trName></name>
+      <name><languageId>zh_Hant_HK</languageId><trName>阿拉伯聯合酋長國</trName></name>
       <name><languageId>zu</languageId><trName>i-United Arab Emirates</trName></name>
     </names>
     <locales>
@@ -1100,6 +1102,7 @@
       <name><languageId>yo</languageId><trName>Orílẹ́ède Ààntígúà àti Báríbúdà</trName></name>
       <name><languageId>zh</languageId><trName>安提瓜和巴布达</trName></name>
       <name><languageId>zh_Hant</languageId><trName>安地卡及巴布達</trName></name>
+      <name><languageId>zh_Hant_HK</languageId><trName>安提瓜及巴布達</trName></name>
       <name><languageId>zu</languageId><trName>i-Antigua and Barbuda</trName></name>
     </names>
     <locales>
@@ -2228,6 +2231,7 @@
       <name><languageId>yo</languageId><trName>Orílẹ́ède Árúbà</trName></name>
       <name><languageId>zh</languageId><trName>阿鲁巴</trName></name>
       <name><languageId>zh_Hant</languageId><trName>阿路巴</trName></name>
+      <name><languageId>zh_Hant_HK</languageId><trName>阿魯巴</trName></name>
       <name><languageId>zu</languageId><trName>i-Aruba</trName></name>
     </names>
     <locales>
@@ -2357,6 +2361,7 @@
       <name><languageId>yo</languageId><trName>Orílẹ́ède Asẹ́bájánì</trName></name>
       <name><languageId>zh</languageId><trName>阿塞拜疆</trName></name>
       <name><languageId>zh_Hant</languageId><trName>亞塞拜然</trName></name>
+      <name><languageId>zh_Hant_HK</languageId><trName>阿塞拜疆</trName></name>
       <name><languageId>zu</languageId><trName>i-Azerbaijan</trName></name>
     </names>
     <locales>
@@ -2484,6 +2489,7 @@
       <name><languageId>yo</languageId><trName>Orílẹ́ède Bọ̀síníà àti Ẹtisẹgófínà</trName></name>
       <name><languageId>zh</languageId><trName>波斯尼亚和黑塞哥维那</trName></name>
       <name><languageId>zh_Hant</languageId><trName>波士尼亞與赫塞格維納</trName></name>
+      <name><languageId>zh_Hant_HK</languageId><trName>波斯尼亞和黑塞哥維那</trName></name>
       <name><languageId>zu</languageId><trName>i-Bosnia ne-Herzegovina</trName></name>
     </names>
     <locales>
@@ -3641,6 +3647,7 @@
       <name><languageId>yo</languageId><trName>Orílẹ́ède Bọ̀tìsúwánà</trName></name>
       <name><languageId>zh</languageId><trName>博茨瓦纳</trName></name>
       <name><languageId>zh_Hant</languageId><trName>波札那</trName></name>
+      <name><languageId>zh_Hant_HK</languageId><trName>博茨瓦納</trName></name>
       <name><languageId>zu</languageId><trName>i-Botswana</trName></name>
     </names>
     <locales>
@@ -4060,6 +4067,7 @@
       <name><languageId>yo</languageId><trName>Orilẹ́ède Kóngò</trName></name>
       <name><languageId>zh</languageId><trName>刚果民主共和国</trName></name>
       <name><languageId>zh_Hant</languageId><trName>剛果民主共和國</trName></name>
+      <name><languageId>zh_Hant_HK</languageId><trName>剛果 - 金夏沙</trName></name>
       <name><languageId>zu</languageId><trName>i-Congo (DRC)</trName></name>
     </names>
     <locales>
@@ -4183,6 +4191,7 @@
       <name><languageId>yo</languageId><trName>Orílẹ́ède Kóngò</trName></name>
       <name><languageId>zh</languageId><trName>刚果共和国</trName></name>
       <name><languageId>zh_Hant</languageId><trName>剛果共和國</trName></name>
+      <name><languageId>zh_Hant_HK</languageId><trName>剛果 - 布拉薩</trName></name>
       <name><languageId>zu</languageId><trName>i-Congo (Republic)</trName></name>
     </names>
     <locales>
@@ -4580,6 +4589,7 @@
       <name><languageId>yo</languageId><trName>Orílẹ́ède ṣáínà</trName></name>
       <name><languageId>zh</languageId><trName>中国</trName></name>
       <name><languageId>zh_Hant</languageId><trName>中華人民共和國</trName></name>
+      <name><languageId>zh_Hant_HK</languageId><trName>中國</trName></name>
       <name><languageId>zu</languageId><trName>i-China</trName></name>
     </names>
     <locales>
@@ -4829,6 +4839,7 @@
       <name><languageId>yo</languageId><trName>Orílẹ́ède Kuusita Ríkà</trName></name>
       <name><languageId>zh</languageId><trName>哥斯达黎加</trName></name>
       <name><languageId>zh_Hant</languageId><trName>哥斯大黎加</trName></name>
+      <name><languageId>zh_Hant_HK</languageId><trName>哥斯達黎加</trName></name>
       <name><languageId>zu</languageId><trName>i-Costa Rica</trName></name>
     </names>
     <locales>
@@ -5079,6 +5090,7 @@
       <name><languageId>yo</languageId><trName>Orílẹ́ède Kúrúsì</trName></name>
       <name><languageId>zh</languageId><trName>塞浦路斯</trName></name>
       <name><languageId>zh_Hant</languageId><trName>賽普勒斯</trName></name>
+      <name><languageId>zh_Hant_HK</languageId><trName>塞浦路斯</trName></name>
       <name><languageId>zu</languageId><trName>i-Cyprus</trName></name>
     </names>
     <locales>
@@ -6363,6 +6375,7 @@
       <name><languageId>yo</languageId><trName>Orílẹ́ède Eritira</trName></name>
       <name><languageId>zh</languageId><trName>厄立特里亚</trName></name>
       <name><languageId>zh_Hant</languageId><trName>厄利垂亞</trName></name>
+      <name><languageId>zh_Hant_HK</languageId><trName>厄立特里亞</trName></name>
       <name><languageId>zu</languageId><trName>i-Eritrea</trName></name>
     </names>
     <locales>
@@ -6639,6 +6652,7 @@
       <name><languageId>yo</languageId><trName>Orílẹ́ède Etopia</trName></name>
       <name><languageId>zh</languageId><trName>埃塞俄比亚</trName></name>
       <name><languageId>zh_Hant</languageId><trName>衣索比亞</trName></name>
+      <name><languageId>zh_Hant_HK</languageId><trName>埃塞俄比亞</trName></name>
       <name><languageId>zu</languageId><trName>i-Ethiopia</trName></name>
     </names>
     <locales>
@@ -7431,6 +7445,7 @@
       <name><languageId>yo</languageId><trName>Orílẹ́ède Gọgia</trName></name>
       <name><languageId>zh</languageId><trName>格鲁吉亚</trName></name>
       <name><languageId>zh_Hant</languageId><trName>喬治亞共和國</trName></name>
+      <name><languageId>zh_Hant_HK</languageId><trName>格魯吉亞</trName></name>
       <name><languageId>zu</languageId><trName>i-Georgia</trName></name>
     </names>
     <locales>
@@ -7932,6 +7947,7 @@
       <name><languageId>yo</languageId><trName>Orílẹ́ède Guatemala</trName></name>
       <name><languageId>zh</languageId><trName>危地马拉</trName></name>
       <name><languageId>zh_Hant</languageId><trName>瓜地馬拉</trName></name>
+      <name><languageId>zh_Hant_HK</languageId><trName>危地馬拉</trName></name>
       <name><languageId>zu</languageId><trName>i-Guatemala</trName></name>
     </names>
     <locales>
@@ -8173,6 +8189,7 @@
       <name><languageId>yo</languageId><trName>Orílẹ́ède Hondurasi</trName></name>
       <name><languageId>zh</languageId><trName>洪都拉斯</trName></name>
       <name><languageId>zh_Hant</languageId><trName>宏都拉斯</trName></name>
+      <name><languageId>zh_Hant_HK</languageId><trName>洪都拉斯</trName></name>
       <name><languageId>zu</languageId><trName>i-Honduras</trName></name>
     </names>
     <locales>
@@ -9639,6 +9656,7 @@
       <name><languageId>yo</languageId><trName>Orílẹ́ède Italiyi</trName></name>
       <name><languageId>zh</languageId><trName>意大利</trName></name>
       <name><languageId>zh_Hant</languageId><trName>義大利</trName></name>
+      <name><languageId>zh_Hant_HK</languageId><trName>意大利</trName></name>
       <name><languageId>zu</languageId><trName>i-Italy</trName></name>
     </names>
     <locales>
@@ -10028,6 +10046,7 @@
       <name><languageId>yo</languageId><trName>Orílẹ́ède Kenya</trName></name>
       <name><languageId>zh</languageId><trName>肯尼亚</trName></name>
       <name><languageId>zh_Hant</languageId><trName>肯亞</trName></name>
+      <name><languageId>zh_Hant_HK</languageId><trName>肯雅</trName></name>
       <name><languageId>zu</languageId><trName>i-Kenya</trName></name>
     </names>
     <locales>
@@ -11775,7 +11794,9 @@
       <name><languageId>vi</languageId><trName>Montenegro</trName></name>
       <name><languageId>wae</languageId><trName>Montenegro</trName></name>
       <name><languageId>zh</languageId><trName>黑山共和国</trName></name>
+      <name><languageId>zh_Hans_SG</languageId><trName>黑山</trName></name>
       <name><languageId>zh_Hant</languageId><trName>蒙特內哥羅</trName></name>
+      <name><languageId>zh_Hant_HK</languageId><trName>黑山</trName></name>
       <name><languageId>zu</languageId><trName>i-Montenegro</trName></name>
     </names>
     <locales>
@@ -12644,6 +12665,7 @@
       <name><languageId>yo</languageId><trName>Orílẹ́ède Maladifi</trName></name>
       <name><languageId>zh</languageId><trName>马尔代夫</trName></name>
       <name><languageId>zh_Hant</languageId><trName>馬爾地夫</trName></name>
+      <name><languageId>zh_Hant_HK</languageId><trName>馬爾代夫</trName></name>
       <name><languageId>zu</languageId><trName>i-Maldives</trName></name>
     </names>
     <locales>
@@ -13161,6 +13183,7 @@
       <name><languageId>yo</languageId><trName>Orílẹ́ède Nàìjíríà</trName></name>
       <name><languageId>zh</languageId><trName>尼日利亚</trName></name>
       <name><languageId>zh_Hant</languageId><trName>奈及利亞</trName></name>
+      <name><languageId>zh_Hant_HK</languageId><trName>尼日利亞</trName></name>
       <name><languageId>zu</languageId><trName>i-Nigeria</trName></name>
     </names>
     <locales>
@@ -14066,6 +14089,7 @@
       <name><languageId>yo</languageId><trName>Orílẹ́ède Ọọma</trName></name>
       <name><languageId>zh</languageId><trName>阿曼</trName></name>
       <name><languageId>zh_Hant</languageId><trName>阿曼王國</trName></name>
+      <name><languageId>zh_Hant_HK</languageId><trName>阿曼</trName></name>
       <name><languageId>zu</languageId><trName>i-Oman</trName></name>
     </names>
     <locales>
@@ -14442,6 +14466,7 @@
       <name><languageId>yo</languageId><trName>Orílẹ́ède Paapu ti Giini</trName></name>
       <name><languageId>zh</languageId><trName>巴布亚新几内亚</trName></name>
       <name><languageId>zh_Hant</languageId><trName>巴布亞紐幾內亞</trName></name>
+      <name><languageId>zh_Hant_HK</languageId><trName>巴布亞新幾內亞</trName></name>
       <name><languageId>zu</languageId><trName>i-Papua New Guinea</trName></name>
     </names>
     <locales>
@@ -15326,6 +15351,7 @@
       <name><languageId>yo</languageId><trName>Orílẹ́ède Kota</trName></name>
       <name><languageId>zh</languageId><trName>卡塔尔</trName></name>
       <name><languageId>zh_Hant</languageId><trName>卡達</trName></name>
+      <name><languageId>zh_Hant_HK</languageId><trName>卡塔爾</trName></name>
       <name><languageId>zu</languageId><trName>i-Qatar</trName></name>
     </names>
     <locales>
@@ -15854,6 +15880,7 @@
       <name><languageId>yo</languageId><trName>Orílẹ́ède Ruwanda</trName></name>
       <name><languageId>zh</languageId><trName>卢旺达</trName></name>
       <name><languageId>zh_Hant</languageId><trName>盧安達</trName></name>
+      <name><languageId>zh_Hant_HK</languageId><trName>盧旺達</trName></name>
       <name><languageId>zu</languageId><trName>i-Rwanda</trName></name>
     </names>
     <locales>
@@ -15981,6 +16008,7 @@
       <name><languageId>yo</languageId><trName>Orílẹ́ède Saudi Arabia</trName></name>
       <name><languageId>zh</languageId><trName>沙特阿拉伯</trName></name>
       <name><languageId>zh_Hant</languageId><trName>沙烏地阿拉伯</trName></name>
+      <name><languageId>zh_Hant_HK</languageId><trName>沙特阿拉伯</trName></name>
       <name><languageId>zu</languageId><trName>i-Saudi Arabia</trName></name>
     </names>
     <locales>
@@ -16488,6 +16516,7 @@
       <name><languageId>yo</languageId><trName>Orílẹ́ède Silofania</trName></name>
       <name><languageId>zh</languageId><trName>斯洛文尼亚</trName></name>
       <name><languageId>zh_Hant</languageId><trName>斯洛維尼亞</trName></name>
+      <name><languageId>zh_Hant_HK</languageId><trName>斯洛文尼亞</trName></name>
       <name><languageId>zu</languageId><trName>i-Slovenia</trName></name>
     </names>
     <locales>
@@ -16870,6 +16899,7 @@
       <name><languageId>yo</languageId><trName>Orílẹ́ède Somalia</trName></name>
       <name><languageId>zh</languageId><trName>索马里</trName></name>
       <name><languageId>zh_Hant</languageId><trName>索馬利亞</trName></name>
+      <name><languageId>zh_Hant_HK</languageId><trName>索馬里</trName></name>
       <name><languageId>zu</languageId><trName>i-Somalia</trName></name>
     </names>
     <locales>
@@ -18121,6 +18151,7 @@
       <name><languageId>yo</languageId><trName>Orílẹ́ède Tanṣania</trName></name>
       <name><languageId>zh</languageId><trName>坦桑尼亚</trName></name>
       <name><languageId>zh_Hant</languageId><trName>坦尚尼亞</trName></name>
+      <name><languageId>zh_Hant_HK</languageId><trName>坦桑尼亞</trName></name>
       <name><languageId>zu</languageId><trName>i-Tanzania</trName></name>
     </names>
     <locales>
@@ -18921,6 +18952,7 @@
       <name><languageId>yo</languageId><trName>Orílẹ́ède Fatikani</trName></name>
       <name><languageId>zh</languageId><trName>梵蒂冈</trName></name>
       <name><languageId>zh_Hant</languageId><trName>梵蒂岡</trName></name>
+      <name><languageId>zh_Hant_HK</languageId><trName>梵蒂岡宮城</trName></name>
       <name><languageId>zu</languageId><trName>i-Vatican City</trName></name>
     </names>
     <locales>
@@ -19570,6 +19602,7 @@
       <name><languageId>yo</languageId><trName>Orílẹ́ède ṣamibia</trName></name>
       <name><languageId>zh</languageId><trName>赞比亚</trName></name>
       <name><languageId>zh_Hant</languageId><trName>尚比亞</trName></name>
+      <name><languageId>zh_Hant_HK</languageId><trName>贊比亞</trName></name>
       <name><languageId>zu</languageId><trName>i-Zambia</trName></name>
     </names>
     <locales>
