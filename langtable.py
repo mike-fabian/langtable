@@ -1073,6 +1073,9 @@ def _timezone_name_from_id_parts(timezoneId = None, icuLocaleIdQuery = None):
             name = _timezoneIdParts_db[timezoneId_part].names[icuLocaleIdQuery]
             if name:
                 part_names.append(name)
+        elif icuLocaleIdQuery == 'en':
+            name = timezoneId_part.replace('_', ' ')
+            part_names.append(name)
     if len(part_names) == len(timezoneId_parts):
         return u'/'.join(part_names)
     return ''
