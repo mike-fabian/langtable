@@ -11692,7 +11692,97 @@
   <timezoneIdPart>
     <timezoneIdPartId>GMT</timezoneIdPartId>
     <names>
-      <name><languageId>en</languageId><trName>GMT</trName></name>
+      <name><languageId>af</languageId><trName>Greenwich-mediaantyd</trName></name>
+      <name><languageId>am</languageId><trName>ግሪንዊች ማዕከላዊ ሰዓት</trName></name>
+      <name><languageId>ar</languageId><trName>توقيت غرينتش</trName></name>
+      <name><languageId>ast</languageId><trName>Hora media de Greenwich</trName></name>
+      <name><languageId>az</languageId><trName>Qrinviç Orta Vaxtı</trName></name>
+      <name><languageId>be</languageId><trName>Грынвічскі час</trName></name>
+      <name><languageId>bg</languageId><trName>Средно гринуичко време</trName></name>
+      <name><languageId>bn</languageId><trName>গ্রিনউইচ মিন টাইম</trName></name>
+      <name><languageId>brx</languageId><trName>ग्रीनीच स्टैंडर्ड टाईम</trName></name>
+      <name><languageId>bs</languageId><trName>Grinvič vreme</trName></name>
+      <name><languageId>bs_Cyrl</languageId><trName>Гринвич средње време</trName></name>
+      <name><languageId>ca</languageId><trName>Hora del Meridià de Greenwich</trName></name>
+      <name><languageId>chr</languageId><trName>ᎢᏤ ᎢᏳᏍᏗ ᎢᏳᏩᎪᏗ</trName></name>
+      <name><languageId>cs</languageId><trName>Greenwichský střední čas</trName></name>
+      <name><languageId>cy</languageId><trName>Amser Safonol Greenwich</trName></name>
+      <name><languageId>da</languageId><trName>GMT</trName></name>
+      <name><languageId>de</languageId><trName>Mittlere Greenwich-Zeit</trName></name>
+      <name><languageId>dz</languageId><trName>གིརིན་ཝིཆ་ལུ་ཡོད་པའི་ཆུ་ཚོད</trName></name>
+      <name><languageId>ee</languageId><trName>Grinwish gaƒoƒome</trName></name>
+      <name><languageId>el</languageId><trName>Μέση ώρα Γκρίνουιτς</trName></name>
+      <name><languageId>en</languageId><trName>Greenwich Mean Time</trName></name>
+      <name><languageId>es</languageId><trName>Hora del meridiano de Greenwich</trName></name>
+      <name><languageId>et</languageId><trName>Greenwichi aeg</trName></name>
+      <name><languageId>eu</languageId><trName>Greenwich meridianoko ordua</trName></name>
+      <name><languageId>fa</languageId><trName>وقت گرینویچ</trName></name>
+      <name><languageId>fi</languageId><trName>Greenwichin normaaliaika</trName></name>
+      <name><languageId>fil</languageId><trName>Greenwich Mean Time</trName></name>
+      <name><languageId>fr</languageId><trName>heure moyenne de Greenwich</trName></name>
+      <name><languageId>ga</languageId><trName>Meán-Am Greenwich</trName></name>
+      <name><languageId>gl</languageId><trName>Horario do meridiano de Greenwich</trName></name>
+      <name><languageId>gu</languageId><trName>ગ્રીનવિચ મધ્યમ સમય</trName></name>
+      <name><languageId>he</languageId><trName>שעון גריניץ׳‏</trName></name>
+      <name><languageId>hi</languageId><trName>ग्रीनविच मीन टाइम</trName></name>
+      <name><languageId>hr</languageId><trName>univerzalno vrijeme</trName></name>
+      <name><languageId>hu</languageId><trName>Greenwichi középidő</trName></name>
+      <name><languageId>hy</languageId><trName>Գրինվիչի ժամանակ</trName></name>
+      <name><languageId>id</languageId><trName>Waktu Rata-Rata Greenwich</trName></name>
+      <name><languageId>is</languageId><trName>Greenwich-staðaltími</trName></name>
+      <name><languageId>it</languageId><trName>Ora del meridiano di Greenwich</trName></name>
+      <name><languageId>ja</languageId><trName>グリニッジ標準時</trName></name>
+      <name><languageId>ka</languageId><trName>გრინვიჩის საშუალო დრო</trName></name>
+      <name><languageId>kk</languageId><trName>Гринвич уақыты</trName></name>
+      <name><languageId>km</languageId><trName>ម៉ោងនៅគ្រីនវិច</trName></name>
+      <name><languageId>kn</languageId><trName>ಗ್ರೀನ್‌ವಿಚ್ ಸರಾಸರಿ ಕಾಲಮಾನ</trName></name>
+      <name><languageId>ko</languageId><trName>그리니치 표준시</trName></name>
+      <name><languageId>ks</languageId><trName>گرٛیٖن وِچ میٖن ٹایِم</trName></name>
+      <name><languageId>ksh</languageId><trName>Greenwich sing Standat-Zick</trName></name>
+      <name><languageId>ky</languageId><trName>Гринвич универсалдуу убактысы</trName></name>
+      <name><languageId>ln</languageId><trName>Ntángo ya Londoni</trName></name>
+      <name><languageId>lo</languageId><trName>ເວລາກຣີນີສ</trName></name>
+      <name><languageId>lt</languageId><trName>Grinvičo laikas</trName></name>
+      <name><languageId>lv</languageId><trName>Griničas laiks</trName></name>
+      <name><languageId>mk</languageId><trName>Средно време по Гринич</trName></name>
+      <name><languageId>ml</languageId><trName>ഗ്രീൻവിച്ച് മീൻ സമയം</trName></name>
+      <name><languageId>mn</languageId><trName>Гринвичийн үндсэн цаг</trName></name>
+      <name><languageId>mr</languageId><trName>ग्रीनिच प्रमाण वेळ</trName></name>
+      <name><languageId>ms</languageId><trName>Waktu Min Greenwich</trName></name>
+      <name><languageId>my</languageId><trName>ဂရင်းနစ် စံတော်ချိန်</trName></name>
+      <name><languageId>nb</languageId><trName>Greenwich middeltid</trName></name>
+      <name><languageId>ne</languageId><trName>ग्रीनवीच मान समय</trName></name>
+      <name><languageId>nl</languageId><trName>Greenwich Mean Time</trName></name>
+      <name><languageId>nn</languageId><trName>greenwich middeltid</trName></name>
+      <name><languageId>os</languageId><trName>Гринвичы рӕстӕмбис рӕстӕг</trName></name>
+      <name><languageId>pa</languageId><trName>ਗ੍ਰੀਨਵਿਚ ਮੀਨ ਟਾਈਮ</trName></name>
+      <name><languageId>pl</languageId><trName>Czas uniwersalny</trName></name>
+      <name><languageId>pt</languageId><trName>Horário do Meridiano de Greenwich</trName></name>
+      <name><languageId>pt_PT</languageId><trName>Hora de Greenwich</trName></name>
+      <name><languageId>ro</languageId><trName>Ora de Greenwhich</trName></name>
+      <name><languageId>ru</languageId><trName>Среднее время по Гринвичу</trName></name>
+      <name><languageId>se</languageId><trName>Greenwich gaskka áigi</trName></name>
+      <name><languageId>si</languageId><trName>ග්‍රිනිච් මධ්‍යම වේලාව</trName></name>
+      <name><languageId>sk</languageId><trName>Greenwichský čas</trName></name>
+      <name><languageId>sl</languageId><trName>Greenwiški srednji čas</trName></name>
+      <name><languageId>sq</languageId><trName>Ora e meridianit të Grinuiçit</trName></name>
+      <name><languageId>sr</languageId><trName>Гринвич средње време</trName></name>
+      <name><languageId>sr_Latn</languageId><trName>Grinvič srednje vreme</trName></name>
+      <name><languageId>sv</languageId><trName>Greenwichtid</trName></name>
+      <name><languageId>sw</languageId><trName>Saa ya Ulimwenguni</trName></name>
+      <name><languageId>ta</languageId><trName>கிரீன்விச் இடைநிலை நேரம்</trName></name>
+      <name><languageId>te</languageId><trName>గ్రీన్‌విచ్ సగటు సమయం</trName></name>
+      <name><languageId>th</languageId><trName>เวลามาตรฐานกรีนิช</trName></name>
+      <name><languageId>to</languageId><trName>houa fakakiliniuisi mālie</trName></name>
+      <name><languageId>tr</languageId><trName>Greenwich Ortalama Saati</trName></name>
+      <name><languageId>uk</languageId><trName>за Грінвічем</trName></name>
+      <name><languageId>ur</languageId><trName>گرین وچ کا اصل وقت</trName></name>
+      <name><languageId>uz</languageId><trName>Grinvich vaqti</trName></name>
+      <name><languageId>uz_Cyrl</languageId><trName>Гринвич вақти</trName></name>
+      <name><languageId>vi</languageId><trName>Giờ Trung bình Greenwich</trName></name>
+      <name><languageId>zh</languageId><trName>格林尼治标准时间</trName></name>
+      <name><languageId>zh_Hant</languageId><trName>格林威治標準時間</trName></name>
+      <name><languageId>zu</languageId><trName>Isikhathi sase-Greenwich Mean</trName></name>
     </names>
   </timezoneIdPart>
   <timezoneIdPart>
