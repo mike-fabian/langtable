@@ -1,5 +1,5 @@
 Name:           langtable
-Version:        0.0.13
+Version:        0.0.14
 Release:        1%{?dist}
 Summary:        Guessing reasonable defaults for locale, keyboard layout, territory, and language.
 Group:          Development/Tools
@@ -68,6 +68,18 @@ xmllint --noout --relaxng $RPM_BUILD_ROOT/%{_datadir}/langtable/schemas/territor
 %{_datadir}/langtable/*.xml.gz
 
 %changelog
+* Sun Sep 15 2013 Mike FABIAN <mfabian@redhat.com> - 0.0.14-1
+- Update to 0.0.14
+- add some more languages: ay, ayc, ayr, niu, szl, nhn
+- make languageId() work even if the name of the language or the territory contain spaces (Resolves: rhbz#1006718)
+- Add the default script if not specified in queries for Chinese
+- Import improved translations from CLDR
+- Always return the territory name as well if queried in language_name()
+- Add timezones.xml and timezoneidparts.xml to be able to offer translations for timezone ids
+- Import translations for timezone cities from CLDR
+- Add some more territories and translations
+- test cases for timezone id translations
+
 * Thu Sep 05 2013 Mike FABIAN <mfabian@redhat.com> - 0.0.13-1
 - Update to 0.0.13
 - Serbian keyboards are 'rs' not 'sr' (by Vratislav Podzimek)

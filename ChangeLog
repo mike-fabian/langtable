@@ -1,3 +1,16 @@
+2013-09-15  Mike FABIAN  <mfabian@redhat.com>
+
+	* Version 0.0.14 released.
+	* add some more languages: ay, ayc, ayr, niu, szl, nhn
+	* make languageId() work even if the name of the language or the territory contain spaces (Resolves: rhbz#1006718)
+	* Add the default script if not specified in queries for Chinese
+	* Import improved translations from CLDR
+	* Always return the territory name as well if queried in language_name()
+	* Add timezones.xml and timezoneidparts.xml to be able to offer translations for timezone ids
+	* Import translations for timezone cities from CLDR
+	* Add some more territories and translations
+	* test cases for timezone id translations
+
 2013-09-05  Mike FABIAN  <mfabian@redhat.com>
 
 	* Version 0.0.13 released.
