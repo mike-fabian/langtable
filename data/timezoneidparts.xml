@@ -33065,7 +33065,72 @@
   <timezoneIdPart>
     <timezoneIdPartId>UTC</timezoneIdPartId>
     <names>
-      <name><languageId>en</languageId><trName>UTC</trName></name>
+      <name><languageId>af</languageId><trName>Gekoördineerde Universele Tyd</trName></name>
+      <name><languageId>ar</languageId><trName>توقيت عالمي منسق</trName></name>
+      <name><languageId>ast</languageId><trName>Tiempu Coordináu Universal</trName></name>
+      <name><languageId>be</languageId><trName>Універсальны каардынаваны час</trName></name>
+      <name><languageId>bg</languageId><trName>Координирано универсално време</trName></name>
+      <name><languageId>bn</languageId><trName>স্থানাংকিত আন্তর্জাতিক সময়</trName></name>
+      <name><languageId>bs</languageId><trName>Koordinirano svjetsko vrijeme</trName></name>
+      <name><languageId>ca</languageId><trName>Temps universal coordinat</trName></name>
+      <name><languageId>cs</languageId><trName>Coordinated Universal Time</trName></name>
+      <name><languageId>cy</languageId><trName>UTC</trName></name>
+      <name><languageId>da</languageId><trName>UTC</trName></name>
+      <name><languageId>de</languageId><trName>Koordinierte Weltzeit</trName></name>
+      <name><languageId>el</languageId><trName>Συγχρονισμένος Παγκόσμιος Χρόνος</trName></name>
+      <name><languageId>en</languageId><trName>Coordinated Universal Time</trName></name>
+      <name><languageId>es</languageId><trName>Tiempo universal coordinado</trName></name>
+      <name><languageId>et</languageId><trName>UTC</trName></name>
+      <name><languageId>eu</languageId><trName>UTC</trName></name>
+      <name><languageId>fa</languageId><trName>ساعت هماهنگ جهانی</trName></name>
+      <name><languageId>fr</languageId><trName>Temps universel coordonné</trName></name>
+      <name><languageId>gl</languageId><trName>Tempo Universal Coordinado</trName></name>
+      <name><languageId>he</languageId><trName>זמן יקום מתואם</trName></name>
+      <name><languageId>hi</languageId><trName>समन्वित सार्वत्रिक समय</trName></name>
+      <name><languageId>hr</languageId><trName>Koordinirano svjetsko vrijeme</trName></name>
+      <name><languageId>hu</languageId><trName>Egyezményes koordinált világidő</trName></name>
+      <name><languageId>hy</languageId><trName>Համաշխարհային կոորդինացված ժամանակ</trName></name>
+      <name><languageId>ia</languageId><trName>Universal tempore coordinate</trName></name>
+      <name><languageId>id</languageId><trName>Waktu Universal Terkoordinasi</trName></name>
+      <name><languageId>ilo</languageId><trName>Panagpapada ti Sangalubongan nga Oras</trName></name>
+      <name><languageId>is</languageId><trName>UTC</trName></name>
+      <name><languageId>it</languageId><trName>Tempo coordinato universale</trName></name>
+      <name><languageId>ja</languageId><trName>協定世界時</trName></name>
+      <name><languageId>ka</languageId><trName>მსოფლიო კოორდინირებული დრო</trName></name>
+      <name><languageId>kk</languageId><trName>Дүниежүзілік үйлестірілген уақыт</trName></name>
+      <name><languageId>ko</languageId><trName>협정 세계시</trName></name>
+      <name><languageId>lt</languageId><trName>Pasaulinis koordinuotasis laikas</trName></name>
+      <name><languageId>lv</languageId><trName>Universālais koordinētais laiks</trName></name>
+      <name><languageId>mk</languageId><trName>Координирано универзално време</trName></name>
+      <name><languageId>ml</languageId><trName>അന്താരാഷ്ട്രസമയക്രമം</trName></name>
+      <name><languageId>mr</languageId><trName>जागतिक समन्वित वेळ</trName></name>
+      <name><languageId>ms</languageId><trName>Waktu Semesta Berkoordinat</trName></name>
+      <name><languageId>nb</languageId><trName>UTC</trName></name>
+      <name><languageId>nds</languageId><trName>UTC</trName></name>
+      <name><languageId>ne</languageId><trName>समन्वित विश्व समय</trName></name>
+      <name><languageId>nl</languageId><trName>UTC</trName></name>
+      <name><languageId>nn</languageId><trName>UTC</trName></name>
+      <name><languageId>pl</languageId><trName>Uniwersalny czas koordynowany</trName></name>
+      <name><languageId>pt</languageId><trName>Tempo Universal Coordenado</trName></name>
+      <name><languageId>pt_BR</languageId><trName>Tempo Universal Coordenado</trName></name>
+      <name><languageId>ro</languageId><trName>Ora universală coordonată</trName></name>
+      <name><languageId>ru</languageId><trName>Всемирное координированное время</trName></name>
+      <name><languageId>si</languageId><trName>UTC</trName></name>
+      <name><languageId>sk</languageId><trName>Koordinovaný svetový čas</trName></name>
+      <name><languageId>sl</languageId><trName>Univerzalni koordinirani čas</trName></name>
+      <name><languageId>sq</languageId><trName>Coordinated Universal Time</trName></name>
+      <name><languageId>sr</languageId><trName>UTC</trName></name>
+      <name><languageId>sr_Cyrl</languageId><trName>UTC</trName></name>
+      <name><languageId>sv</languageId><trName>Koordinerad universell tid</trName></name>
+      <name><languageId>ta</languageId><trName>ஒருங்கிணைந்த அனைத்துலக நேரம்</trName></name>
+      <name><languageId>tg</languageId><trName>Вақти Ҳамоҳангсозии Ҷаҳонӣ</trName></name>
+      <name><languageId>th</languageId><trName>เวลาสากลเชิงพิกัด</trName></name>
+      <name><languageId>tr</languageId><trName>Eşgüdümlü Evrensel Zaman</trName></name>
+      <name><languageId>uk</languageId><trName>Всесвітній координований час</trName></name>
+      <name><languageId>ur</languageId><trName>متناسق عالمی وقت</trName></name>
+      <name><languageId>vi</languageId><trName>Giờ phối hợp quốc tế</trName></name>
+      <name><languageId>zh</languageId><trName>协调世界时</trName></name>
+      <name><languageId>zh_Hant</languageId><trName>世界協調時間</trName></name>
     </names>
   </timezoneIdPart>
   <timezoneIdPart>
