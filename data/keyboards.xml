@@ -48,6 +48,41 @@
     </territories>
   </keyboard>
   <keyboard>
+    <keyboardId>ara</keyboardId>
+    <description>Arabic</description>
+    <ascii>False</ascii>
+    <languages>
+      <language><languageId>ar</languageId><rank>1000</rank></language>
+    </languages>
+    <territories>
+      <territory><territoryId>EG</territoryId><rank>400</rank></territory>
+      <territory><territoryId>SD</territoryId><rank>170</rank></territory>
+      <territory><territoryId>SA</territoryId><rank>120</rank></territory>
+      <territory><territoryId>YE</territoryId><rank>110</rank></territory>
+      <territory><territoryId>TN</territoryId><rank>50</rank></territory>
+      <territory><territoryId>LY</territoryId><rank>45</rank></territory>
+      <territory><territoryId>JO</territoryId><rank>40</rank></territory>
+      <territory><territoryId>AE</territoryId><rank>35</rank></territory>
+      <territory><territoryId>LB</territoryId><rank>30</rank></territory>
+      <territory><territoryId>KW</territoryId><rank>25</rank></territory>
+      <territory><territoryId>OM</territoryId><rank>15</rank></territory>
+      <territory><territoryId>QA</territoryId><rank>10</rank></territory>
+      <territory><territoryId>BH</territoryId><rank>9</rank></territory>
+      <territory><territoryId>IN</territoryId><rank>1</rank></territory>
+    </territories>
+  </keyboard>
+  <keyboard>
+    <keyboardId>ara(azerty)</keyboardId>
+    <description>Arabic</description>
+    <ascii>False</ascii>
+    <languages>
+      <language><languageId>ar</languageId><rank>1000</rank></language>
+    </languages>
+    <territories>
+      <territory><territoryId>DZ</territoryId><rank>1000</rank></territory>
+    </territories>
+  </keyboard>
+  <keyboard>
     <keyboardId>at(nodeadkeys)</keyboardId>
     <description>German (Austria)</description>
     <ascii>True</ascii>
@@ -563,6 +598,17 @@
     </territories>
   </keyboard>
   <keyboard>
+    <keyboardId>iq</keyboardId>
+    <description>Iraqi</description>
+    <ascii>False</ascii>
+    <languages>
+      <language><languageId>ar</languageId><rank>1000</rank></language>
+    </languages>
+    <territories>
+      <territory><territoryId>IQ</territoryId><rank>1000</rank></territory>
+    </territories>
+  </keyboard>
+  <keyboard>
     <keyboardId>ir</keyboardId>
     <description>Persian</description>
     <ascii>False</ascii>
@@ -1053,6 +1099,17 @@
     </languages>
     <territories>
       <territory><territoryId>SN</territoryId><rank>1000</rank></territory>
+    </territories>
+  </keyboard>
+  <keyboard>
+    <keyboardId>sy</keyboardId>
+    <description>Arabic (Syria)</description>
+    <ascii>False</ascii>
+    <languages>
+      <language><languageId>ar</languageId><rank>1000</rank></language>
+    </languages>
+    <territories>
+      <territory><territoryId>SY</territoryId><rank>1000</rank></territory>
     </territories>
   </keyboard>
   <keyboard>

@@ -474,6 +474,30 @@
     EG: ['ara']
      +: ['ara']
 
+>>> _test_language_territory(show_weights=False, languageId="ar", territoryId="IQ") # doctest: +NORMALIZE_WHITESPACE
+    ar: ['ar_EG.UTF-8', 'ar_SD.UTF-8', 'ar_DZ.UTF-8', 'ar_MA.UTF-8', 'ar_IQ.UTF-8', 'ar_SA.UTF-8', 'ar_YE.UTF-8', 'ar_SY.UTF-8', 'ar_TN.UTF-8', 'ar_LY.UTF-8', 'ar_JO.UTF-8', 'ar_AE.UTF-8', 'ar_LB.UTF-8', 'ar_KW.UTF-8', 'ar_OM.UTF-8', 'ar_QA.UTF-8', 'ar_BH.UTF-8', 'ar_IN.UTF-8']
+    IQ: ['ar_IQ.UTF-8']
+     +: ['ar_IQ.UTF-8']
+    ar: ['ara', 'ara(azerty)', 'iq', 'ma', 'sy']
+    IQ: ['iq']
+     +: ['iq']
+
+>>> _test_language_territory(show_weights=False, languageId="ar", territoryId="MA") # doctest: +NORMALIZE_WHITESPACE
+    ar: ['ar_EG.UTF-8', 'ar_SD.UTF-8', 'ar_DZ.UTF-8', 'ar_MA.UTF-8', 'ar_IQ.UTF-8', 'ar_SA.UTF-8', 'ar_YE.UTF-8', 'ar_SY.UTF-8', 'ar_TN.UTF-8', 'ar_LY.UTF-8', 'ar_JO.UTF-8', 'ar_AE.UTF-8', 'ar_LB.UTF-8', 'ar_KW.UTF-8', 'ar_OM.UTF-8', 'ar_QA.UTF-8', 'ar_BH.UTF-8', 'ar_IN.UTF-8']
+    MA: ['ar_MA.UTF-8']
+     +: ['ar_MA.UTF-8']
+    ar: ['ara', 'ara(azerty)', 'iq', 'ma', 'sy']
+    MA: ['ma']
+     +: ['ma']
+
+>>> _test_language_territory(show_weights=False, languageId="ar", territoryId="SY") # doctest: +NORMALIZE_WHITESPACE
+    ar: ['ar_EG.UTF-8', 'ar_SD.UTF-8', 'ar_DZ.UTF-8', 'ar_MA.UTF-8', 'ar_IQ.UTF-8', 'ar_SA.UTF-8', 'ar_YE.UTF-8', 'ar_SY.UTF-8', 'ar_TN.UTF-8', 'ar_LY.UTF-8', 'ar_JO.UTF-8', 'ar_AE.UTF-8', 'ar_LB.UTF-8', 'ar_KW.UTF-8', 'ar_OM.UTF-8', 'ar_QA.UTF-8', 'ar_BH.UTF-8', 'ar_IN.UTF-8']
+    SY: ['ar_SY.UTF-8']
+     +: ['ar_SY.UTF-8']
+    ar: ['ara', 'ara(azerty)', 'iq', 'ma', 'sy']
+    SY: ['sy']
+     +: ['sy']
+
 >>> _test_language_territory(show_weights=False, languageId="ar", territoryId="IN") # doctest: +NORMALIZE_WHITESPACE
     ar: ['ar_EG.UTF-8', 'ar_SD.UTF-8', 'ar_DZ.UTF-8', 'ar_MA.UTF-8', 'ar_IQ.UTF-8', 'ar_SA.UTF-8', 'ar_YE.UTF-8', 'ar_SY.UTF-8', 'ar_TN.UTF-8', 'ar_LY.UTF-8', 'ar_JO.UTF-8', 'ar_AE.UTF-8', 'ar_LB.UTF-8', 'ar_KW.UTF-8', 'ar_OM.UTF-8', 'ar_QA.UTF-8', 'ar_BH.UTF-8', 'ar_IN.UTF-8']
     IN: ['hi_IN.UTF-8', 'en_IN.UTF-8', 'bn_IN.UTF-8', 'te_IN.UTF-8', 'mr_IN.UTF-8', 'ta_IN.UTF-8', 'ur_IN.UTF-8', 'gu_IN.UTF-8', 'kn_IN.UTF-8', 'ml_IN.UTF-8', 'or_IN.UTF-8', 'pa_IN.UTF-8', 'as_IN.UTF-8', 'mai_IN.UTF-8', 'sat_IN.UTF-8', 'ks_IN.UTF-8', 'ks_IN.UTF-8@devanagari', 'kok_IN.UTF-8', 'sd_IN.UTF-8', 'sd_IN.UTF-8@devanagari', 'doi_IN.UTF-8', 'mni_IN.UTF-8', 'brx_IN.UTF-8', 'bho_IN.UTF-8', 'bo_IN.UTF-8', 'hne_IN.UTF-8', 'mag_IN.UTF-8', 'ar_IN.UTF-8']
@@ -987,6 +1011,9 @@
 
 >>> supports_ascii("sk") # doctest: +NORMALIZE_WHITESPACE
     True
+
+>>> supports_ascii("ara") # doctest: +NORMALIZE_WHITESPACE
+    False
 
 >>> supports_ascii("not_existing_in_database") # doctest: +NORMALIZE_WHITESPACE
     True

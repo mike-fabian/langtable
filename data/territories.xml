@@ -9283,7 +9283,7 @@
       <language><languageId>ar</languageId><rank>1000</rank></language>
     </languages>
     <keyboards>
-      <keyboard><keyboardId>ara</keyboardId><rank>1000</rank></keyboard>
+      <keyboard><keyboardId>iq</keyboardId><rank>1000</rank></keyboard>
     </keyboards>
     <consolefonts>
       <consolefont><consolefontId>latarcyrheb-sun16</consolefontId><rank>1000</rank></consolefont>
@@ -11690,10 +11690,10 @@
       <locale><localeId>ar_MA.UTF-8</localeId><rank>1000</rank></locale>
     </locales>
     <languages>
-      <language><languageId>ma</languageId><rank>1000</rank></language>
+      <language><languageId>ar</languageId><rank>1000</rank></language>
     </languages>
     <keyboards>
-      <keyboard><keyboardId>ara</keyboardId><rank>1000</rank></keyboard>
+      <keyboard><keyboardId>ma</keyboardId><rank>1000</rank></keyboard>
     </keyboards>
     <consolefonts>
       <consolefont><consolefontId>latarcyrheb-sun16</consolefontId><rank>1000</rank></consolefont>
@@ -17159,7 +17159,7 @@
       <language><languageId>ar</languageId><rank>1000</rank></language>
     </languages>
     <keyboards>
-      <keyboard><keyboardId>ara</keyboardId><rank>1000</rank></keyboard>
+      <keyboard><keyboardId>sy</keyboardId><rank>1000</rank></keyboard>
     </keyboards>
     <consolefonts>
       <consolefont><consolefontId>latarcyrheb-sun16</consolefontId><rank>1000</rank></consolefont>
