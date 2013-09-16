@@ -1,5 +1,5 @@
 Name:           langtable
-Version:        0.0.14
+Version:        0.0.15
 Release:        1%{?dist}
 Summary:        Guessing reasonable defaults for locale, keyboard layout, territory, and language.
 Group:          Development/Tools
@@ -68,6 +68,10 @@ xmllint --noout --relaxng $RPM_BUILD_ROOT/%{_datadir}/langtable/schemas/territor
 %{_datadir}/langtable/*.xml.gz
 
 %changelog
+* Mon Sep 16 2013 Mike FABIAN <mfabian@redhat.com> - 0.0.15-1
+- Update to 0.0.15
+- Add keyboards "ara", "ara(azerty)", "iq", and "sy" (Resolves: rhbz#1008389)
+
 * Sun Sep 15 2013 Mike FABIAN <mfabian@redhat.com> - 0.0.14-1
 - Update to 0.0.14
 - add some more languages: ay, ayc, ayr, niu, szl, nhn
