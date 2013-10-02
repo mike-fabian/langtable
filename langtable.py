@@ -1,4 +1,4 @@
-# vim:fileencoding=utf-8:sw=4:et
+# vim:fileencoding=utf-8:sw=4:et -*- coding: utf-8 -*-
 
 # Copyright (c) 2013 Mike FABIAN <mfabian@redhat.com>
 #
@@ -779,13 +779,13 @@ def _read_file(datadir, filename, sax_handler):
     for dir in [datadir, '.']:
         path = os.path.join(dir, filename)
         if os.path.isfile(path):
-            with open(path) as file:
+            with open(path, mode='rb') as file:
                 logging.info('reading file=%s' %file)
                 _expat_parse(file, sax_handler)
             return
         path = os.path.join(dir, filename+'.gz')
         if os.path.isfile(path):
-            with gzip.open(path) as file:
+            with gzip.open(path, mode='rb') as file:
                 logging.info('reading file=%s' %file)
                 _expat_parse(file, sax_handler)
             return
@@ -817,12 +817,12 @@ def _write_files(territoriesfilename, languagesfilename, keyboardsfilename, time
 
 def _dictionary_to_ranked_list(dict, reverse=True):
     sorted_list = []
-    for item in sorted(dict, key=dict.get, reverse=reverse):
+    for item in sorted(dict, key=lambda x: (dict.get(x), x), reverse=reverse):
         sorted_list.append([item, dict[item]])
     return sorted_list
 
-def _ranked_list_to_list(list):
-    return map(lambda x: x[0], list)
+def _ranked_list_to_list(ranked_list):
+    return list(map(lambda x: x[0], ranked_list))
 
 def _make_ranked_list_concise(ranked_list, cut_off_factor=1000):
     if not len(ranked_list) > 1:
@@ -870,19 +870,24 @@ def _parse_and_split_languageId(languageId=None, scriptId=None, territoryId=None
     return (languageId, scriptId, territoryId)
 
 def territory_name(territoryId = None, languageIdQuery = None, scriptIdQuery = None, territoryIdQuery = None):
-    '''Query translations of territory names
+    u'''Query translations of territory names
 
     Examples:
 
     Switzerland is called “Schweiz” in German:
 
-    >>> print territory_name(territoryId="CH", languageIdQuery="de").encode("UTF-8")
+    >>> print(territory_name(territoryId="CH", languageIdQuery="de"))
     Schweiz
 
     And it is called “Svizzera” in Italian:
 
-    >>> print territory_name(territoryId="CH", languageIdQuery="it").encode("UTF-8")
+    >>> print(territory_name(territoryId="CH", languageIdQuery="it"))
     Svizzera
+
+    And it is called “スイス” in Japanese:
+
+    >>> print(territory_name(territoryId="CH", languageIdQuery="ja"))
+    スイス
     '''
     languageIdQuery, scriptIdQuery, territoryIdQuery = _parse_and_split_languageId(
         languageId=languageIdQuery,
@@ -908,11 +913,11 @@ def territory_name(territoryId = None, languageIdQuery = None, scriptIdQuery = N
     return ''
 
 def language_name(languageId = None, scriptId = None, territoryId = None, languageIdQuery = None, scriptIdQuery = None, territoryIdQuery = None):
-    '''Query translations of language names
+    u'''Query translations of language names
 
     Examples:
 
-    >>> print language_name(languageId="sr").encode("UTF-8")
+    >>> print(language_name(languageId="sr"))
     Српски
 
     I.e. the endonym for “Serbian” in the default Cyrillic script is
@@ -921,25 +926,25 @@ def language_name(languageId = None, scriptId = None, territoryId = None, langua
     If the script “Cyrl” is supplied as well, the name of the
     script is added for clarity:
 
-    >>> print language_name(languageId="sr", scriptId="Cyrl").encode("UTF-8")
+    >>> print(language_name(languageId="sr", scriptId="Cyrl"))
     Српски (Ћирилица)
 
     And in Latin script the endonym is:
 
-    >>> print language_name(languageId="sr", scriptId="Latn").encode("UTF-8")
+    >>> print(language_name(languageId="sr", scriptId="Latn"))
     Srpski (Latinica)
 
     And “Serbian” translated to English is:
 
-    >>> print language_name(languageId="sr", languageIdQuery="en").encode("UTF-8")
+    >>> print(language_name(languageId="sr", languageIdQuery="en"))
     Serbian
 
     And with adding the script information:
 
-    >>> print language_name(languageId="sr", scriptId="Cyrl", languageIdQuery="en").encode("UTF-8")
+    >>> print(language_name(languageId="sr", scriptId="Cyrl", languageIdQuery="en"))
     Serbian (Cyrillic)
 
-    >>> print language_name(languageId="sr", scriptId="Latn", languageIdQuery="en").encode("UTF-8")
+    >>> print(language_name(languageId="sr", scriptId="Latn", languageIdQuery="en"))
     Serbian (Latin)
 
     '''
@@ -1342,7 +1347,7 @@ def list_keyboards(concise=True, show_weights=False, languageId = None, scriptId
         return _ranked_list_to_list(ranked_list)
 
 def list_consolefonts(concise=True, show_weights=False, languageId = None, scriptId = None, territoryId = None):
-    '''List likely Linux Console fonts
+    u'''List likely Linux Console fonts
 
     Examples:
 

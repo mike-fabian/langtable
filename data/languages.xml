@@ -3984,7 +3984,7 @@
     </keyboards>
     <consolefonts>
       <consolefont><consolefontId>iso07u-16</consolefontId><rank>1000</rank></consolefont>
-      <consolefont><consolefontId>LatGrkCyr-8x16</consolefontId><rank>10</rank></consolefont>
+      <consolefont><consolefontId>LatGrkCyr-8x16</consolefontId><rank>11</rank></consolefont>
     </consolefonts>
     <timezones>
       <timezone><timezoneId>Europe/Athens</timezoneId><rank>900</rank></timezone>

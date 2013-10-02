@@ -60,4 +60,4 @@ Functions in the public API:
 Some examples to show the usage are found in the documentation
 of the public functions in langtable.py.
 
-(Some more examples are in the test cases in the file test_cases.txt):
+(Some more examples are in the test cases in the file test_cases.py):

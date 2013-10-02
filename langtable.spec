@@ -52,13 +52,13 @@ perl -pi -e "s,_datadir = '(.*)',_datadir = '%{_datadir}/langtable'," langtable.
 gzip --force --best $RPM_BUILD_ROOT/%{_datadir}/langtable/*.xml
 
 %check
-(cd $RPM_BUILD_DIR/%{name}-%{version}/data; PYTHONPATH=.. %{__python} -m doctest ../test_cases.txt; %{__python} ../langtable.py)
+(cd $RPM_BUILD_DIR/%{name}-%{version}/data; PYTHONPATH=.. %{__python} ../test_cases.py; %{__python} ../langtable.py)
 xmllint --noout --relaxng $RPM_BUILD_ROOT/%{_datadir}/langtable/schemas/keyboards.rng $RPM_BUILD_ROOT/%{_datadir}/langtable/keyboards.xml.gz
 xmllint --noout --relaxng $RPM_BUILD_ROOT/%{_datadir}/langtable/schemas/languages.rng $RPM_BUILD_ROOT/%{_datadir}/langtable/languages.xml.gz
 xmllint --noout --relaxng $RPM_BUILD_ROOT/%{_datadir}/langtable/schemas/territories.rng $RPM_BUILD_ROOT/%{_datadir}/langtable/territories.xml.gz
 
 %files
-%doc README COPYING ChangeLog unicode-license.txt test_cases.txt
+%doc README COPYING ChangeLog unicode-license.txt test_cases.py
 %{_datadir}/langtable/schemas
 
 %files python

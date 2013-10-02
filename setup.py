@@ -1,12 +1,12 @@
 #!/usr/bin/python2
 
 from distutils.core import setup
-
+import codecs
 
 setup(name='langtable',
       version='0.0.15',
       description='guess reasonable defaults for locale, keyboard, territory, ...',
-      long_description=open('README').read(),
+      long_description=codecs.open('README').read().decode('UTF-8'),
       license="GPLv3+",
       author='Mike FABIAN',
       author_email='mfabian@redhat.com',
