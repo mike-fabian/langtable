@@ -1,3 +1,9 @@
+%if 0%{?fedora}
+%global with_python3 1
+%else
+%{!?python_sitelib: %global python_sitelib %(%{__python} -c "from distutils.sysconfig import get_python_lib; print (get_python_lib())")}
+%endif
+
 Name:           langtable
 Version:        0.0.15
 Release:        1%{?dist}
@@ -12,6 +18,9 @@ URL:            https://github.com/mike-fabian/langtable
 Source0:        http://mfabian.fedorapeople.org/langtable/%{name}-%{version}.tar.gz
 BuildArch:      noarch
 BuildRequires:  python2-devel
+%if 0%{?with_python3}
+BuildRequires:  python3-devel
+%endif # if with_python3
 
 %description
 langtable is used to guess reasonable defaults for locale, keyboard layout,
@@ -31,6 +40,20 @@ Requires:       %{name}-data = %{version}-%{release}
 This package contains a Python module to query the data
 from langtable-data.
 
+%if 0%{?with_python3}
+%package python3
+Summary:        Python module to query the langtable-data
+Group:          Development/Tools
+License:        GPLv3+
+Requires:       %{name} = %{version}-%{release}
+Requires:       %{name}-data = %{version}-%{release}
+
+%description python3
+This package contains a Python module to query the data
+from langtable-data.
+
+%endif # with_python3
+
 %package data
 Summary:        Data files for langtable
 Group:          Development/Tools
@@ -43,16 +66,41 @@ This package contains the data files for langtable.
 %prep
 %setup -q
 
+%if 0%{?with_python3}
+rm -rf %{py3dir}
+cp -a . %{py3dir}
+%endif # with_python3
+
 %build
 perl -pi -e "s,_datadir = '(.*)',_datadir = '%{_datadir}/langtable'," langtable.py
 %{__python} setup.py build
+
+%if 0%{?with_python3}
+pushd %{py3dir}
+perl -pi -e "s,_datadir = '(.*)',_datadir = '%{_datadir}/langtable'," langtable.py
+%{__python3} setup.py build
+popd
+%endif # with_python3
 
 %install
 %{__python} setup.py install --skip-build --prefix=%{_prefix} --install-data=%{_datadir}/langtable --root $RPM_BUILD_ROOT
 gzip --force --best $RPM_BUILD_ROOT/%{_datadir}/langtable/*.xml
 
+%if 0%{?with_python3}
+pushd %{py3dir}
+%{__python3} setup.py install --skip-build --prefix=%{_prefix} --install-data=%{_datadir}/langtable --root $RPM_BUILD_ROOT
+popd
+# the .xml files copied by the “python3 setup.py install” are identical
+# to those copied in the “python2 setup.py install”,
+# it does not hurt to gzip them again:
+gzip --force --best $RPM_BUILD_ROOT/%{_datadir}/langtable/*.xml
+%endif # with_python3
+
 %check
 (cd $RPM_BUILD_DIR/%{name}-%{version}/data; PYTHONPATH=.. %{__python} ../test_cases.py; %{__python} ../langtable.py)
+%if 0%{?with_python3}
+(cd $RPM_BUILD_DIR/%{name}-%{version}/data; LC_CTYPE=en_US.UTF-8 PYTHONPATH=.. %{__python3} ../test_cases.py; %{__python3} ../langtable.py)
+%endif # with_python3
 xmllint --noout --relaxng $RPM_BUILD_ROOT/%{_datadir}/langtable/schemas/keyboards.rng $RPM_BUILD_ROOT/%{_datadir}/langtable/keyboards.xml.gz
 xmllint --noout --relaxng $RPM_BUILD_ROOT/%{_datadir}/langtable/schemas/languages.rng $RPM_BUILD_ROOT/%{_datadir}/langtable/languages.xml.gz
 xmllint --noout --relaxng $RPM_BUILD_ROOT/%{_datadir}/langtable/schemas/territories.rng $RPM_BUILD_ROOT/%{_datadir}/langtable/territories.xml.gz
@@ -63,6 +111,11 @@ xmllint --noout --relaxng $RPM_BUILD_ROOT/%{_datadir}/langtable/schemas/territor
 
 %files python
 %{python_sitelib}/*
+
+%if 0%{?with_python3}
+%files python3
+%{python3_sitelib}/*
+%endif # with_python3
 
 %files data
 %{_datadir}/langtable/*.xml.gz
