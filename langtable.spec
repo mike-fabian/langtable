@@ -5,7 +5,7 @@
 %endif
 
 Name:           langtable
-Version:        0.0.15
+Version:        0.0.16
 Release:        1%{?dist}
 Summary:        Guessing reasonable defaults for locale, keyboard layout, territory, and language.
 Group:          Development/Tools
@@ -121,6 +121,9 @@ xmllint --noout --relaxng $RPM_BUILD_ROOT/%{_datadir}/langtable/schemas/territor
 %{_datadir}/langtable/*.xml.gz
 
 %changelog
+* Tue Oct 08 2013 Mike FABIAN <mfabian@redhat.com> - 0.0.16-1
+- Make it work with python3 (and keep it working with python2) (Resolves: rhbz#985317)
+
 * Mon Sep 16 2013 Mike FABIAN <mfabian@redhat.com> - 0.0.15-1
 - Update to 0.0.15
 - Add keyboards "ara", "ara(azerty)", "iq", and "sy" (Resolves: rhbz#1008389)

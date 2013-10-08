@@ -1,3 +1,8 @@
+2013-10-08  Mike FABIAN  <mfabian@redhat.com>
+
+	* Version 0.0.16 released.
+	* Make it work with python3 (and keep it working with python2) (Resolves: rhbz#985317)
+
 2013-09-16  Mike FABIAN  <mfabian@redhat.com>
 
 	* Version 0.0.15 released.
