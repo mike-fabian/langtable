@@ -13553,6 +13553,7 @@
     <keyboards>
       <keyboard><keyboardId>us(euro)</keyboardId><rank>950</rank></keyboard>
       <keyboard><keyboardId>us(altgr-intl)</keyboardId><rank>50</rank></keyboard>
+      <keyboard><keyboardId>be(oss)</keyboardId><rank>20</rank></keyboard>
       <keyboard><keyboardId>nl</keyboardId><rank>0</rank></keyboard>
     </keyboards>
     <consolefonts>

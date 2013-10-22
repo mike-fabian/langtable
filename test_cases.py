@@ -678,6 +678,34 @@ def dummy():
         RU: ['ru', 'ru(tt)', 'us(altgr-intl)']
          +: ['us(altgr-intl)']
 
+    # according to https://wiki.gnome.org/GnomeGoals/KeyboardData,
+    # “us(euro)” keyboard should be used in NL:
+    >>> _test_language_territory(show_weights=False, languageId="nl") # doctest: +NORMALIZE_WHITESPACE
+        nl: ['nl_NL.UTF-8', 'nl_BE.UTF-8', 'nl_AW.UTF-8']
+        None: []
+         +: ['nl_NL.UTF-8', 'nl_BE.UTF-8', 'nl_AW.UTF-8']
+        nl: ['us(euro)', 'us(altgr-intl)', 'be(oss)']
+        None: []
+         +: ['us(euro)', 'us(altgr-intl)', 'be(oss)']
+
+    >>> _test_language_territory(show_weights=False, languageId="nl", territoryId="NL") # doctest: +NORMALIZE_WHITESPACE
+        nl: ['nl_NL.UTF-8', 'nl_BE.UTF-8', 'nl_AW.UTF-8']
+        NL: ['nl_NL.UTF-8', 'fy_NL.UTF-8', 'nds_NL.UTF-8', 'li_NL.UTF-8']
+         +: ['nl_NL.UTF-8']
+        nl: ['us(euro)', 'us(altgr-intl)', 'be(oss)']
+        NL: ['us(euro)', 'us(altgr-intl)']
+         +: ['us(euro)', 'us(altgr-intl)']
+
+    # but “be(oss)” keyboard should be used for nl in BE
+    # (see: https://bugzilla.redhat.com/show_bug.cgi?id=885345):
+    >>> _test_language_territory(show_weights=False, languageId="nl", territoryId="BE") # doctest: +NORMALIZE_WHITESPACE
+        nl: ['nl_NL.UTF-8', 'nl_BE.UTF-8', 'nl_AW.UTF-8']
+        BE: ['nl_BE.UTF-8', 'fr_BE.UTF-8', 'de_BE.UTF-8', 'wa_BE.UTF-8', 'li_BE.UTF-8']
+         +: ['nl_BE.UTF-8']
+        nl: ['us(euro)', 'us(altgr-intl)', 'be(oss)']
+        BE: ['be(oss)']
+         +: ['be(oss)']
+
     >>> print(language_name(languageId="de")) # doctest: +NORMALIZE_WHITESPACE
         Deutsch
 
