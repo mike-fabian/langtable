@@ -1,3 +1,8 @@
+2013-10-22  Mike FABIAN  <mfabian@redhat.com>
+
+	* Version 0.0.17 released.
+	* Add “be(oss)” as a possible keyboard layout for language nl (Resolves: rhbz#885345)
+
 2013-10-08  Mike FABIAN  <mfabian@redhat.com>
 
 	* Version 0.0.16 released.
