@@ -553,6 +553,33 @@
     </timezones>
   </language>
   <language>
+    <languageId>anp</languageId>
+    <iso639-1>bh</iso639-1>
+    <iso639-2-t>anp</iso639-2-t>
+    <iso639-2-b>anp</iso639-2-b>
+    <names>
+      <name><languageId>anp</languageId><trName>अंगिका</trName></name>
+      <name><languageId>de</languageId><trName>Angika</trName></name>
+      <name><languageId>en</languageId><trName>Angika</trName></name>
+      <name><languageId>ja</languageId><trName>アンギカ語</trName></name>
+    </names>
+    <locales>
+      <locale><localeId>anp_IN.UTF-8</localeId><rank>1000</rank></locale>
+    </locales>
+    <territories>
+      <territory><territoryId>IN</territoryId><rank>1000</rank></territory>
+    </territories>
+    <keyboards>
+      <keyboard><keyboardId>in(eng)</keyboardId><rank>1000</rank></keyboard>
+    </keyboards>
+    <consolefonts>
+      <consolefont><consolefontId>latarcyrheb-sun16</consolefontId><rank>1000</rank></consolefont>
+    </consolefonts>
+    <timezones>
+      <timezone><timezoneId>Asia/Kolkata</timezoneId><rank>1000</rank></timezone>
+    </timezones>
+  </language>
+  <language>
     <languageId>ar</languageId>
     <iso639-1>ara</iso639-1>
     <iso639-2-t>ara</iso639-2-t>

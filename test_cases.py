@@ -758,10 +758,10 @@ def dummy():
         Maithili (Nepal)
 
     >>> print(language_name(languageId="mai", territoryId="IN", languageIdQuery="mai")) # doctest: +NORMALIZE_WHITESPACE
-        मैथिली
+        मैथिली (भारत)
 
     >>> print(language_name(languageId="mai", territoryId="NP", languageIdQuery="mai")) # doctest: +NORMALIZE_WHITESPACE
-        मैथिली
+        मैथिली (नेपाल)
 
     >>> print(language_name(languageId="zh")) # doctest: +NORMALIZE_WHITESPACE
         中文
