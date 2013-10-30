@@ -817,6 +817,9 @@ def dummy():
     >>> print(language_name(languageId="zh", territoryId="TW", languageIdQuery="zh")) # doctest: +NORMALIZE_WHITESPACE
         繁体中文 (台湾)
 
+    >>> print(language_name(languageId="zh", territoryId="TW", languageIdQuery="zh", territoryIdQuery="TW")) # doctest: +NORMALIZE_WHITESPACE
+        繁體中文 (台灣)
+
     >>> print(language_name(languageId="zh", territoryId="TW", languageIdQuery="zh", territoryIdQuery="CN")) # doctest: +NORMALIZE_WHITESPACE
         繁体中文 (中华民国)
 
@@ -964,6 +967,12 @@ def dummy():
 
     >>> print(territory_name(territoryId="TW", languageIdQuery="zh", scriptIdQuery="Hant", territoryIdQuery="TW")) # doctest: +NORMALIZE_WHITESPACE
         台灣
+
+    >>> print(territory_name(territoryId="TW", languageIdQuery="zh", territoryIdQuery="TW")) # doctest: +NORMALIZE_WHITESPACE
+        台灣
+
+    >>> print(territory_name(territoryId="HK", languageIdQuery="zh", territoryIdQuery="HK")) # doctest: +NORMALIZE_WHITESPACE
+        中華人民共和國香港特別行政區
 
     >>> print(territory_name(territoryId="TW", languageIdQuery="zh", scriptIdQuery="Hans")) # doctest: +NORMALIZE_WHITESPACE
         台湾
