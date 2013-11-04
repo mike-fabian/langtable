@@ -1133,6 +1133,16 @@ def dummy():
 
     >>> print(langtable.timezone_name(timezoneId='Europe/Berlin', languageIdQuery='zh_TW'))  # doctest: +NORMALIZE_WHITESPACE
         歐洲/柏林
+
+    >>> print(langtable.timezone_name(timezoneId='GMT+1', languageIdQuery='cs'))  # doctest: +NORMALIZE_WHITESPACE
+        GMT+1
+
+    >>> print(langtable.timezone_name(timezoneId='foo/bar', languageIdQuery='cs'))  # doctest: +NORMALIZE_WHITESPACE
+        foo/bar
+
+    >>> print(langtable.timezone_name(timezoneId='Europe/foo/bar', languageIdQuery='cs'))  # doctest: +NORMALIZE_WHITESPACE
+        Evropa/foo/bar
+
     '''
 
 if __name__ == "__main__":

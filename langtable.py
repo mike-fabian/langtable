@@ -1074,6 +1074,9 @@ def _timezone_name_from_id_parts(timezoneId = None, icuLocaleIdQuery = None):
     timezoneId_parts = timezoneId.split('/')
     part_names = []
     for timezoneId_part in timezoneId_parts:
+        if timezoneId_part not in _timezoneIdParts_db:
+            part_names.append(timezoneId_part)
+            continue
         if icuLocaleIdQuery in _timezoneIdParts_db[timezoneId_part].names:
             name = _timezoneIdParts_db[timezoneId_part].names[icuLocaleIdQuery]
             if name:
