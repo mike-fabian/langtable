@@ -104,6 +104,8 @@
     </languages>
     <keyboards>
     </keyboards>
+    <inputmethods>
+    </inputmethods>
     <consolefonts>
     </consolefonts>
     <timezones>
@@ -213,6 +215,8 @@
     </languages>
     <keyboards>
     </keyboards>
+    <inputmethods>
+    </inputmethods>
     <consolefonts>
     </consolefonts>
     <timezones>
@@ -322,6 +326,8 @@
     </languages>
     <keyboards>
     </keyboards>
+    <inputmethods>
+    </inputmethods>
     <consolefonts>
     </consolefonts>
     <timezones>
@@ -431,6 +437,8 @@
     </languages>
     <keyboards>
     </keyboards>
+    <inputmethods>
+    </inputmethods>
     <consolefonts>
     </consolefonts>
     <timezones>
@@ -565,6 +573,8 @@
       <keyboard><keyboardId>latam</keyboardId><rank>900</rank></keyboard>
       <keyboard><keyboardId>us</keyboardId><rank>100</rank></keyboard>
     </keyboards>
+    <inputmethods>
+    </inputmethods>
     <consolefonts>
       <consolefont><consolefontId>latarcyrheb-sun16</consolefontId><rank>1000</rank></consolefont>
     </consolefonts>
@@ -739,6 +749,8 @@
       <keyboard><keyboardId>es(cat)</keyboardId><rank>1000</rank></keyboard>
       <keyboard><keyboardId>ad</keyboardId><rank>0</rank></keyboard>
     </keyboards>
+    <inputmethods>
+    </inputmethods>
     <consolefonts>
       <consolefont><consolefontId>latarcyrheb-sun16</consolefontId><rank>1000</rank></consolefont>
     </consolefonts>
@@ -865,6 +877,8 @@
     <keyboards>
       <keyboard><keyboardId>ara</keyboardId><rank>1000</rank></keyboard>
     </keyboards>
+    <inputmethods>
+    </inputmethods>
     <consolefonts>
       <consolefont><consolefontId>latarcyrheb-sun16</consolefontId><rank>1000</rank></consolefont>
     </consolefonts>
@@ -990,6 +1004,8 @@
     <keyboards>
       <keyboard><keyboardId>af(ps)</keyboardId><rank>1000</rank></keyboard>
     </keyboards>
+    <inputmethods>
+    </inputmethods>
     <consolefonts>
       <consolefont><consolefontId>latarcyrheb-sun16</consolefontId><rank>1000</rank></consolefont>
     </consolefonts>
@@ -1114,6 +1130,8 @@
     <keyboards>
       <keyboard><keyboardId>us</keyboardId><rank>1000</rank></keyboard>
     </keyboards>
+    <inputmethods>
+    </inputmethods>
     <consolefonts>
       <consolefont><consolefontId>latarcyrheb-sun16</consolefontId><rank>1000</rank></consolefont>
     </consolefonts>
@@ -1241,6 +1259,8 @@
     <keyboards>
       <keyboard><keyboardId>al</keyboardId><rank>1000</rank></keyboard>
     </keyboards>
+    <inputmethods>
+    </inputmethods>
     <consolefonts>
       <consolefont><consolefontId>latarcyrheb-sun16</consolefontId><rank>1000</rank></consolefont>
     </consolefonts>
@@ -1367,6 +1387,8 @@
     <keyboards>
       <keyboard><keyboardId>am</keyboardId><rank>1000</rank></keyboard>
     </keyboards>
+    <inputmethods>
+    </inputmethods>
     <consolefonts>
       <consolefont><consolefontId>latarcyrheb-sun16</consolefontId><rank>1000</rank></consolefont>
     </consolefonts>
@@ -1481,6 +1503,8 @@
       <keyboard><keyboardId>us(altgr-intl)</keyboardId><rank>50</rank></keyboard>
       <keyboard><keyboardId>nl</keyboardId><rank>0</rank></keyboard>
     </keyboards>
+    <inputmethods>
+    </inputmethods>
     <consolefonts>
       <consolefont><consolefontId>latarcyrheb-sun16</consolefontId><rank>1000</rank></consolefont>
     </consolefonts>
@@ -1606,6 +1630,8 @@
     <keyboards>
       <keyboard><keyboardId>pt</keyboardId><rank>1000</rank></keyboard>
     </keyboards>
+    <inputmethods>
+    </inputmethods>
     <consolefonts>
       <consolefont><consolefontId>latarcyrheb-sun16</consolefontId><rank>1000</rank></consolefont>
     </consolefonts>
@@ -1720,6 +1746,8 @@
     </languages>
     <keyboards>
     </keyboards>
+    <inputmethods>
+    </inputmethods>
     <consolefonts>
     </consolefonts>
     <timezones>
@@ -1844,6 +1872,8 @@
     <keyboards>
       <keyboard><keyboardId>latam</keyboardId><rank>1000</rank></keyboard>
     </keyboards>
+    <inputmethods>
+    </inputmethods>
     <consolefonts>
       <consolefont><consolefontId>latarcyrheb-sun16</consolefontId><rank>1000</rank></consolefont>
     </consolefonts>
@@ -1982,6 +2012,8 @@
     <keyboards>
       <keyboard><keyboardId>at(nodeadkeys)</keyboardId><rank>1000</rank></keyboard>
     </keyboards>
+    <inputmethods>
+    </inputmethods>
     <consolefonts>
       <consolefont><consolefontId>latarcyrheb-sun16</consolefontId><rank>1000</rank></consolefont>
     </consolefonts>
@@ -2109,6 +2141,8 @@
     <keyboards>
       <keyboard><keyboardId>us</keyboardId><rank>1000</rank></keyboard>
     </keyboards>
+    <inputmethods>
+    </inputmethods>
     <consolefonts>
       <consolefont><consolefontId>latarcyrheb-sun16</consolefontId><rank>1000</rank></consolefont>
     </consolefonts>
@@ -2247,6 +2281,8 @@
       <keyboard><keyboardId>us(altgr-intl)</keyboardId><rank>50</rank></keyboard>
       <keyboard><keyboardId>nl</keyboardId><rank>0</rank></keyboard>
     </keyboards>
+    <inputmethods>
+    </inputmethods>
     <consolefonts>
       <consolefont><consolefontId>latarcyrheb-sun16</consolefontId><rank>1000</rank></consolefont>
     </consolefonts>
@@ -2374,6 +2410,8 @@
       <keyboard><keyboardId>az</keyboardId><rank>990</rank></keyboard>
       <keyboard><keyboardId>az(cyrillic)</keyboardId><rank>10</rank></keyboard>
     </keyboards>
+    <inputmethods>
+    </inputmethods>
     <consolefonts>
       <consolefont><consolefontId>latarcyrheb-sun16</consolefontId><rank>1000</rank></consolefont>
     </consolefonts>
@@ -2503,6 +2541,8 @@
     <keyboards>
       <keyboard><keyboardId>ba</keyboardId><rank>1000</rank></keyboard>
     </keyboards>
+    <inputmethods>
+    </inputmethods>
     <consolefonts>
       <consolefont><consolefontId>latarcyrheb-sun16</consolefontId><rank>1000</rank></consolefont>
     </consolefonts>
@@ -2628,6 +2668,8 @@
     <keyboards>
       <keyboard><keyboardId>us</keyboardId><rank>1000</rank></keyboard>
     </keyboards>
+    <inputmethods>
+    </inputmethods>
     <consolefonts>
       <consolefont><consolefontId>latarcyrheb-sun16</consolefontId><rank>1000</rank></consolefont>
     </consolefonts>
@@ -2763,6 +2805,8 @@
       <keyboard><keyboardId>be(oss)</keyboardId><rank>900</rank></keyboard>
       <keyboard><keyboardId>be</keyboardId><rank>0</rank></keyboard>
     </keyboards>
+    <inputmethods>
+    </inputmethods>
     <consolefonts>
       <consolefont><consolefontId>latarcyrheb-sun16</consolefontId><rank>1000</rank></consolefont>
     </consolefonts>
@@ -2886,6 +2930,8 @@
     <keyboards>
       <keyboard><keyboardId>fr(oss)</keyboardId><rank>1000</rank></keyboard>
     </keyboards>
+    <inputmethods>
+    </inputmethods>
     <consolefonts>
       <consolefont><consolefontId>latarcyrheb-sun16</consolefontId><rank>1000</rank></consolefont>
     </consolefonts>
@@ -3013,6 +3059,8 @@
     <keyboards>
       <keyboard><keyboardId>bg</keyboardId><rank>1000</rank></keyboard>
     </keyboards>
+    <inputmethods>
+    </inputmethods>
     <consolefonts>
       <consolefont><consolefontId>latarcyrheb-sun16</consolefontId><rank>1000</rank></consolefont>
     </consolefonts>
@@ -3138,6 +3186,8 @@
     <keyboards>
       <keyboard><keyboardId>ara</keyboardId><rank>1000</rank></keyboard>
     </keyboards>
+    <inputmethods>
+    </inputmethods>
     <consolefonts>
       <consolefont><consolefontId>latarcyrheb-sun16</consolefontId><rank>1000</rank></consolefont>
     </consolefonts>
@@ -3264,6 +3314,8 @@
     <keyboards>
       <keyboard><keyboardId>latam</keyboardId><rank>1000</rank></keyboard>
     </keyboards>
+    <inputmethods>
+    </inputmethods>
     <consolefonts>
       <consolefont><consolefontId>latarcyrheb-sun16</consolefontId><rank>1000</rank></consolefont>
     </consolefonts>
@@ -3394,6 +3446,8 @@
     <keyboards>
       <keyboard><keyboardId>br</keyboardId><rank>1000</rank></keyboard>
     </keyboards>
+    <inputmethods>
+    </inputmethods>
     <consolefonts>
       <consolefont><consolefontId>latarcyrheb-sun16</consolefontId><rank>1000</rank></consolefont>
     </consolefonts>
@@ -3535,6 +3589,8 @@
     <keyboards>
       <keyboard><keyboardId>bt</keyboardId><rank>1000</rank></keyboard>
     </keyboards>
+    <inputmethods>
+    </inputmethods>
     <consolefonts>
       <consolefont><consolefontId>latarcyrheb-sun16</consolefontId><rank>1000</rank></consolefont>
     </consolefonts>
@@ -3661,6 +3717,8 @@
     <keyboards>
       <keyboard><keyboardId>us</keyboardId><rank>1000</rank></keyboard>
     </keyboards>
+    <inputmethods>
+    </inputmethods>
     <consolefonts>
       <consolefont><consolefontId>latarcyrheb-sun16</consolefontId><rank>1000</rank></consolefont>
     </consolefonts>
@@ -3794,6 +3852,8 @@
       <keyboard><keyboardId>by(latin)</keyboardId><rank>0</rank></keyboard>
       <keyboard><keyboardId>by(legacy)</keyboardId><rank>0</rank></keyboard>
     </keyboards>
+    <inputmethods>
+    </inputmethods>
     <consolefonts>
       <consolefont><consolefontId>latarcyrheb-sun16</consolefontId><rank>1000</rank></consolefont>
     </consolefonts>
@@ -3928,6 +3988,8 @@
       <keyboard><keyboardId>ca(eng)</keyboardId><rank>500</rank></keyboard>
       <keyboard><keyboardId>ca</keyboardId><rank>250</rank></keyboard>
     </keyboards>
+    <inputmethods>
+    </inputmethods>
     <consolefonts>
       <consolefont><consolefontId>latarcyrheb-sun16</consolefontId><rank>1000</rank></consolefont>
     </consolefonts>
@@ -4080,6 +4142,8 @@
     <keyboards>
       <keyboard><keyboardId>fr(oss)</keyboardId><rank>1000</rank></keyboard>
     </keyboards>
+    <inputmethods>
+    </inputmethods>
     <consolefonts>
       <consolefont><consolefontId>latarcyrheb-sun16</consolefontId><rank>1000</rank></consolefont>
     </consolefonts>
@@ -4204,6 +4268,8 @@
     <keyboards>
       <keyboard><keyboardId>fr(oss)</keyboardId><rank>1000</rank></keyboard>
     </keyboards>
+    <inputmethods>
+    </inputmethods>
     <consolefonts>
       <consolefont><consolefontId>latarcyrheb-sun16</consolefontId><rank>1000</rank></consolefont>
     </consolefonts>
@@ -4340,6 +4406,8 @@
       <keyboard><keyboardId>ch(fr)</keyboardId><rank>200</rank></keyboard>
       <keyboard><keyboardId>it</keyboardId><rank>100</rank></keyboard>
     </keyboards>
+    <inputmethods>
+    </inputmethods>
     <consolefonts>
       <consolefont><consolefontId>latarcyrheb-sun16</consolefontId><rank>1000</rank></consolefont>
     </consolefonts>
@@ -4466,6 +4534,8 @@
     <keyboards>
       <keyboard><keyboardId>latam</keyboardId><rank>1000</rank></keyboard>
     </keyboards>
+    <inputmethods>
+    </inputmethods>
     <consolefonts>
       <consolefont><consolefontId>latarcyrheb-sun16</consolefontId><rank>1000</rank></consolefont>
     </consolefonts>
@@ -4601,6 +4671,9 @@
     <keyboards>
       <keyboard><keyboardId>cn</keyboardId><rank>1000</rank></keyboard>
     </keyboards>
+    <inputmethods>
+      <inputmethod><inputmethodId>ibus/libpinyin</inputmethodId><rank>1000</rank></inputmethod>
+    </inputmethods>
     <consolefonts>
       <consolefont><consolefontId>latarcyrheb-sun16</consolefontId><rank>1000</rank></consolefont>
     </consolefonts>
@@ -4728,6 +4801,8 @@
     <keyboards>
       <keyboard><keyboardId>latam</keyboardId><rank>1000</rank></keyboard>
     </keyboards>
+    <inputmethods>
+    </inputmethods>
     <consolefonts>
       <consolefont><consolefontId>latarcyrheb-sun16</consolefontId><rank>1000</rank></consolefont>
     </consolefonts>
@@ -4851,6 +4926,8 @@
     <keyboards>
       <keyboard><keyboardId>latam</keyboardId><rank>1000</rank></keyboard>
     </keyboards>
+    <inputmethods>
+    </inputmethods>
     <consolefonts>
       <consolefont><consolefontId>latarcyrheb-sun16</consolefontId><rank>1000</rank></consolefont>
     </consolefonts>
@@ -4975,6 +5052,8 @@
     <keyboards>
       <keyboard><keyboardId>latam</keyboardId><rank>1000</rank></keyboard>
     </keyboards>
+    <inputmethods>
+    </inputmethods>
     <consolefonts>
       <consolefont><consolefontId>latarcyrheb-sun16</consolefontId><rank>1000</rank></consolefont>
     </consolefonts>
@@ -5102,6 +5181,8 @@
     <keyboards>
       <keyboard><keyboardId>gr</keyboardId><rank>1000</rank></keyboard>
     </keyboards>
+    <inputmethods>
+    </inputmethods>
     <consolefonts>
       <consolefont><consolefontId>latarcyrheb-sun16</consolefontId><rank>1000</rank></consolefont>
     </consolefonts>
@@ -5228,6 +5309,8 @@
     <keyboards>
       <keyboard><keyboardId>cz</keyboardId><rank>1000</rank></keyboard>
     </keyboards>
+    <inputmethods>
+    </inputmethods>
     <consolefonts>
       <consolefont><consolefontId>latarcyrheb-sun16</consolefontId><rank>1000</rank></consolefont>
     </consolefonts>
@@ -5368,6 +5451,8 @@
       <keyboard><keyboardId>de(nodeadkeys)</keyboardId><rank>900</rank></keyboard>
       <keyboard><keyboardId>de(deadacute)</keyboardId><rank>100</rank></keyboard>
     </keyboards>
+    <inputmethods>
+    </inputmethods>
     <consolefonts>
       <consolefont><consolefontId>latarcyrheb-sun16</consolefontId><rank>1000</rank></consolefont>
     </consolefonts>
@@ -5497,6 +5582,8 @@
       <keyboard><keyboardId>ara</keyboardId><rank>50</rank></keyboard>
       <keyboard><keyboardId>us(altgr-intl)</keyboardId><rank>40</rank></keyboard>
     </keyboards>
+    <inputmethods>
+    </inputmethods>
     <consolefonts>
       <consolefont><consolefontId>latarcyrheb-sun16</consolefontId><rank>1000</rank></consolefont>
     </consolefonts>
@@ -5627,6 +5714,8 @@
     <keyboards>
       <keyboard><keyboardId>dk</keyboardId><rank>1000</rank></keyboard>
     </keyboards>
+    <inputmethods>
+    </inputmethods>
     <consolefonts>
       <consolefont><consolefontId>latarcyrheb-sun16</consolefontId><rank>1000</rank></consolefont>
     </consolefonts>
@@ -5752,6 +5841,8 @@
     <keyboards>
       <keyboard><keyboardId>latam</keyboardId><rank>1000</rank></keyboard>
     </keyboards>
+    <inputmethods>
+    </inputmethods>
     <consolefonts>
       <consolefont><consolefontId>latarcyrheb-sun16</consolefontId><rank>1000</rank></consolefont>
     </consolefonts>
@@ -5879,6 +5970,8 @@
     <keyboards>
       <keyboard><keyboardId>ara(azerty)</keyboardId><rank>1000</rank></keyboard>
     </keyboards>
+    <inputmethods>
+    </inputmethods>
     <consolefonts>
       <consolefont><consolefontId>latarcyrheb-sun16</consolefontId><rank>1000</rank></consolefont>
     </consolefonts>
@@ -6005,6 +6098,8 @@
     <keyboards>
       <keyboard><keyboardId>latam</keyboardId><rank>1000</rank></keyboard>
     </keyboards>
+    <inputmethods>
+    </inputmethods>
     <consolefonts>
       <consolefont><consolefontId>latarcyrheb-sun16</consolefontId><rank>1000</rank></consolefont>
     </consolefonts>
@@ -6132,6 +6227,8 @@
     <keyboards>
       <keyboard><keyboardId>ee</keyboardId><rank>1000</rank></keyboard>
     </keyboards>
+    <inputmethods>
+    </inputmethods>
     <consolefonts>
       <consolefont><consolefontId>latarcyrheb-sun16</consolefontId><rank>1000</rank></consolefont>
     </consolefonts>
@@ -6259,6 +6356,8 @@
     <keyboards>
       <keyboard><keyboardId>ara</keyboardId><rank>1000</rank></keyboard>
     </keyboards>
+    <inputmethods>
+    </inputmethods>
     <consolefonts>
       <consolefont><consolefontId>latarcyrheb-sun16</consolefontId><rank>1000</rank></consolefont>
     </consolefonts>
@@ -6396,6 +6495,8 @@
       <keyboard><keyboardId>et</keyboardId><rank>600</rank></keyboard>
       <keyboard><keyboardId>us</keyboardId><rank>400</rank></keyboard>
     </keyboards>
+    <inputmethods>
+    </inputmethods>
     <consolefonts>
       <consolefont><consolefontId>latarcyrheb-sun16</consolefontId><rank>1000</rank></consolefont>
     </consolefonts>
@@ -6534,6 +6635,8 @@
     <keyboards>
       <keyboard><keyboardId>es</keyboardId><rank>1000</rank></keyboard>
     </keyboards>
+    <inputmethods>
+    </inputmethods>
     <consolefonts>
       <consolefont><consolefontId>latarcyrheb-sun16</consolefontId><rank>1000</rank></consolefont>
     </consolefonts>
@@ -6679,6 +6782,8 @@
     <keyboards>
       <keyboard><keyboardId>et</keyboardId><rank>1000</rank></keyboard>
     </keyboards>
+    <inputmethods>
+    </inputmethods>
     <consolefonts>
       <consolefont><consolefontId>latarcyrheb-sun16</consolefontId><rank>1000</rank></consolefont>
     </consolefonts>
@@ -6809,6 +6914,8 @@
       <keyboard><keyboardId>fi</keyboardId><rank>900</rank></keyboard>
       <keyboard><keyboardId>fi(nodeadkeys)</keyboardId><rank>100</rank></keyboard>
     </keyboards>
+    <inputmethods>
+    </inputmethods>
     <consolefonts>
       <consolefont><consolefontId>latarcyrheb-sun16</consolefontId><rank>1000</rank></consolefont>
     </consolefonts>
@@ -6934,6 +7041,8 @@
     <keyboards>
       <keyboard><keyboardId>us</keyboardId><rank>1000</rank></keyboard>
     </keyboards>
+    <inputmethods>
+    </inputmethods>
     <consolefonts>
       <consolefont><consolefontId>latarcyrheb-sun16</consolefontId><rank>1000</rank></consolefont>
     </consolefonts>
@@ -7048,6 +7157,8 @@
     <keyboards>
       <keyboard><keyboardId>fo</keyboardId><rank>1000</rank></keyboard>
     </keyboards>
+    <inputmethods>
+    </inputmethods>
     <consolefonts>
       <consolefont><consolefontId>latarcyrheb-sun16</consolefontId><rank>1000</rank></consolefont>
     </consolefonts>
@@ -7188,6 +7299,8 @@
       <keyboard><keyboardId>fr</keyboardId><rank>0</rank></keyboard>
       <keyboard><keyboardId>fr(latin9)</keyboardId><rank>0</rank></keyboard>
     </keyboards>
+    <inputmethods>
+    </inputmethods>
     <consolefonts>
       <consolefont><consolefontId>latarcyrheb-sun16</consolefontId><rank>1000</rank></consolefont>
     </consolefonts>
@@ -7329,6 +7442,8 @@
     <keyboards>
       <keyboard><keyboardId>gb</keyboardId><rank>1000</rank></keyboard>
     </keyboards>
+    <inputmethods>
+    </inputmethods>
     <consolefonts>
       <consolefont><consolefontId>latarcyrheb-sun16</consolefontId><rank>1000</rank></consolefont>
     </consolefonts>
@@ -7457,6 +7572,8 @@
     <keyboards>
       <keyboard><keyboardId>ge</keyboardId><rank>1000</rank></keyboard>
     </keyboards>
+    <inputmethods>
+    </inputmethods>
     <consolefonts>
       <consolefont><consolefontId>latarcyrheb-sun16</consolefontId><rank>1000</rank></consolefont>
     </consolefonts>
@@ -7581,6 +7698,8 @@
     <keyboards>
       <keyboard><keyboardId>us(altgr-intl)</keyboardId><rank>1000</rank></keyboard>
     </keyboards>
+    <inputmethods>
+    </inputmethods>
     <consolefonts>
       <consolefont><consolefontId>latarcyrheb-sun16</consolefontId><rank>1000</rank></consolefont>
     </consolefonts>
@@ -7703,6 +7822,8 @@
     <keyboards>
       <keyboard><keyboardId>us</keyboardId><rank>1000</rank></keyboard>
     </keyboards>
+    <inputmethods>
+    </inputmethods>
     <consolefonts>
       <consolefont><consolefontId>latarcyrheb-sun16</consolefontId><rank>1000</rank></consolefont>
     </consolefonts>
@@ -7834,6 +7955,8 @@
     <keyboards>
       <keyboard><keyboardId>gr</keyboardId><rank>1000</rank></keyboard>
     </keyboards>
+    <inputmethods>
+    </inputmethods>
     <consolefonts>
       <consolefont><consolefontId>iso07u-16</consolefontId><rank>1000</rank></consolefont>
       <consolefont><consolefontId>LatGrkCyr-8x16</consolefontId><rank>10</rank></consolefont>
@@ -7959,6 +8082,8 @@
     <keyboards>
       <keyboard><keyboardId>latam</keyboardId><rank>1000</rank></keyboard>
     </keyboards>
+    <inputmethods>
+    </inputmethods>
     <consolefonts>
       <consolefont><consolefontId>latarcyrheb-sun16</consolefontId><rank>1000</rank></consolefont>
     </consolefonts>
@@ -8076,6 +8201,9 @@
     <keyboards>
       <keyboard><keyboardId>cn</keyboardId><rank>1000</rank></keyboard>
     </keyboards>
+    <inputmethods>
+      <inputmethod><inputmethodId>ibus/cangjie</inputmethodId><rank>1000</rank></inputmethod>
+    </inputmethods>
     <consolefonts>
       <consolefont><consolefontId>latarcyrheb-sun16</consolefontId><rank>1000</rank></consolefont>
     </consolefonts>
@@ -8201,6 +8329,8 @@
     <keyboards>
       <keyboard><keyboardId>latam</keyboardId><rank>1000</rank></keyboard>
     </keyboards>
+    <inputmethods>
+    </inputmethods>
     <consolefonts>
       <consolefont><consolefontId>latarcyrheb-sun16</consolefontId><rank>1000</rank></consolefont>
     </consolefonts>
@@ -8327,6 +8457,8 @@
     <keyboards>
       <keyboard><keyboardId>hr</keyboardId><rank>1000</rank></keyboard>
     </keyboards>
+    <inputmethods>
+    </inputmethods>
     <consolefonts>
       <consolefont><consolefontId>latarcyrheb-sun16</consolefontId><rank>1000</rank></consolefont>
     </consolefonts>
@@ -8457,6 +8589,8 @@
     <keyboards>
       <keyboard><keyboardId>latam</keyboardId><rank>1000</rank></keyboard>
     </keyboards>
+    <inputmethods>
+    </inputmethods>
     <consolefonts>
       <consolefont><consolefontId>latarcyrheb-sun16</consolefontId><rank>1000</rank></consolefont>
     </consolefonts>
@@ -8584,6 +8718,8 @@
     <keyboards>
       <keyboard><keyboardId>hu</keyboardId><rank>1000</rank></keyboard>
     </keyboards>
+    <inputmethods>
+    </inputmethods>
     <consolefonts>
       <consolefont><consolefontId>latarcyrheb-sun16</consolefontId><rank>1000</rank></consolefont>
     </consolefonts>
@@ -8711,6 +8847,8 @@
     <keyboards>
       <keyboard><keyboardId>us</keyboardId><rank>1000</rank></keyboard>
     </keyboards>
+    <inputmethods>
+    </inputmethods>
     <consolefonts>
       <consolefont><consolefontId>latarcyrheb-sun16</consolefontId><rank>1000</rank></consolefont>
     </consolefonts>
@@ -8841,6 +8979,8 @@
       <keyboard><keyboardId>ie</keyboardId><rank>900</rank></keyboard>
       <keyboard><keyboardId>ie(CloGaelach)</keyboardId><rank>100</rank></keyboard>
     </keyboards>
+    <inputmethods>
+    </inputmethods>
     <consolefonts>
       <consolefont><consolefontId>latarcyrheb-sun16</consolefontId><rank>1000</rank></consolefont>
     </consolefonts>
@@ -8970,6 +9110,8 @@
     <keyboards>
       <keyboard><keyboardId>il</keyboardId><rank>1000</rank></keyboard>
     </keyboards>
+    <inputmethods>
+    </inputmethods>
     <consolefonts>
       <consolefont><consolefontId>latarcyrheb-sun16</consolefontId><rank>1000</rank></consolefont>
     </consolefonts>
@@ -9160,6 +9302,22 @@
     <keyboards>
       <keyboard><keyboardId>in(eng)</keyboardId><rank>950</rank></keyboard>
     </keyboards>
+    <inputmethods>
+      <inputmethod><inputmethodId>ibus/m17n:hi:inscript</inputmethodId><rank>400</rank></inputmethod>
+      <inputmethod><inputmethodId>ibus/m17n:bn:inscript</inputmethodId><rank>150</rank></inputmethod>
+      <inputmethod><inputmethodId>ibus/m17n:te:inscript</inputmethodId><rank>140</rank></inputmethod>
+      <inputmethod><inputmethodId>ibus/m17n:mr:inscript</inputmethodId><rank>130</rank></inputmethod>
+      <inputmethod><inputmethodId>ibus/m17n:ta:tamil99</inputmethodId><rank>120</rank></inputmethod>
+      <inputmethod><inputmethodId>ibus/m17n:ur:phonetic</inputmethodId><rank>110</rank></inputmethod>
+      <inputmethod><inputmethodId>ibus/m17n:gu:inscript</inputmethodId><rank>100</rank></inputmethod>
+      <inputmethod><inputmethodId>ibus/m17n:kn:kgp</inputmethodId><rank>90</rank></inputmethod>
+      <inputmethod><inputmethodId>ibus/m17n:ml:inscript</inputmethodId><rank>85</rank></inputmethod>
+      <inputmethod><inputmethodId>ibus/m17n:or:inscript</inputmethodId><rank>80</rank></inputmethod>
+      <inputmethod><inputmethodId>ibus/m17n:pa:inscript</inputmethodId><rank>75</rank></inputmethod>
+      <inputmethod><inputmethodId>ibus/m17n:as:phonetic</inputmethodId><rank>70</rank></inputmethod>
+      <inputmethod><inputmethodId>ibus/m17n:mai:inscript</inputmethodId><rank>65</rank></inputmethod>
+      <inputmethod><inputmethodId>ibus/m17n:sd:inscript</inputmethodId><rank>40</rank></inputmethod>
+    </inputmethods>
     <consolefonts>
       <consolefont><consolefontId>latarcyrheb-sun16</consolefontId><rank>1000</rank></consolefont>
     </consolefonts>
@@ -9287,6 +9445,8 @@
     <keyboards>
       <keyboard><keyboardId>iq</keyboardId><rank>1000</rank></keyboard>
     </keyboards>
+    <inputmethods>
+    </inputmethods>
     <consolefonts>
       <consolefont><consolefontId>latarcyrheb-sun16</consolefontId><rank>1000</rank></consolefont>
     </consolefonts>
@@ -9410,6 +9570,8 @@
     <keyboards>
       <keyboard><keyboardId>ir</keyboardId><rank>1000</rank></keyboard>
     </keyboards>
+    <inputmethods>
+    </inputmethods>
     <consolefonts>
       <consolefont><consolefontId>latarcyrheb-sun16</consolefontId><rank>1000</rank></consolefont>
     </consolefonts>
@@ -9537,6 +9699,8 @@
     <keyboards>
       <keyboard><keyboardId>is</keyboardId><rank>1000</rank></keyboard>
     </keyboards>
+    <inputmethods>
+    </inputmethods>
     <consolefonts>
       <consolefont><consolefontId>latarcyrheb-sun16</consolefontId><rank>1000</rank></consolefont>
     </consolefonts>
@@ -9678,6 +9842,8 @@
     <keyboards>
       <keyboard><keyboardId>it</keyboardId><rank>1000</rank></keyboard>
     </keyboards>
+    <inputmethods>
+    </inputmethods>
     <consolefonts>
       <consolefont><consolefontId>latarcyrheb-sun16</consolefontId><rank>1000</rank></consolefont>
     </consolefonts>
@@ -9803,6 +9969,8 @@
     <keyboards>
       <keyboard><keyboardId>ara</keyboardId><rank>1000</rank></keyboard>
     </keyboards>
+    <inputmethods>
+    </inputmethods>
     <consolefonts>
       <consolefont><consolefontId>latarcyrheb-sun16</consolefontId><rank>1000</rank></consolefont>
     </consolefonts>
@@ -9935,6 +10103,10 @@
     <keyboards>
       <keyboard><keyboardId>jp</keyboardId><rank>1000</rank></keyboard>
     </keyboards>
+    <inputmethods>
+      <inputmethod><inputmethodId>ibus/kkc</inputmethodId><rank>900</rank></inputmethod>
+      <inputmethod><inputmethodId>ibus/anthy</inputmethodId><rank>100</rank></inputmethod>
+    </inputmethods>
     <consolefonts>
       <consolefont><consolefontId>latarcyrheb-sun16</consolefontId><rank>1000</rank></consolefont>
     </consolefonts>
@@ -10065,6 +10237,8 @@
     <keyboards>
       <keyboard><keyboardId>ke</keyboardId><rank>1000</rank></keyboard>
     </keyboards>
+    <inputmethods>
+    </inputmethods>
     <consolefonts>
       <consolefont><consolefontId>latarcyrheb-sun16</consolefontId><rank>1000</rank></consolefont>
     </consolefonts>
@@ -10186,6 +10360,8 @@
     <keyboards>
       <keyboard><keyboardId>kg</keyboardId><rank>1000</rank></keyboard>
     </keyboards>
+    <inputmethods>
+    </inputmethods>
     <consolefonts>
       <consolefont><consolefontId>latarcyrheb-sun16</consolefontId><rank>1000</rank></consolefont>
     </consolefonts>
@@ -10313,6 +10489,8 @@
     <keyboards>
       <keyboard><keyboardId>kh</keyboardId><rank>1000</rank></keyboard>
     </keyboards>
+    <inputmethods>
+    </inputmethods>
     <consolefonts>
       <consolefont><consolefontId>latarcyrheb-sun16</consolefontId><rank>1000</rank></consolefont>
     </consolefonts>
@@ -10439,6 +10617,9 @@
     <keyboards>
       <keyboard><keyboardId>kr</keyboardId><rank>1000</rank></keyboard>
     </keyboards>
+    <inputmethods>
+      <inputmethod><inputmethodId>ibus/hangul</inputmethodId><rank>1000</rank></inputmethod>
+    </inputmethods>
     <consolefonts>
       <consolefont><consolefontId>latarcyrheb-sun16</consolefontId><rank>1000</rank></consolefont>
     </consolefonts>
@@ -10565,6 +10746,8 @@
     <keyboards>
       <keyboard><keyboardId>ara</keyboardId><rank>1000</rank></keyboard>
     </keyboards>
+    <inputmethods>
+    </inputmethods>
     <consolefonts>
       <consolefont><consolefontId>latarcyrheb-sun16</consolefontId><rank>1000</rank></consolefont>
     </consolefonts>
@@ -10687,6 +10870,8 @@
     <keyboards>
       <keyboard><keyboardId>kz</keyboardId><rank>1000</rank></keyboard>
     </keyboards>
+    <inputmethods>
+    </inputmethods>
     <consolefonts>
       <consolefont><consolefontId>latarcyrheb-sun16</consolefontId><rank>1000</rank></consolefont>
     </consolefonts>
@@ -10810,6 +10995,8 @@
     <keyboards>
       <keyboard><keyboardId>la</keyboardId><rank>1000</rank></keyboard>
     </keyboards>
+    <inputmethods>
+    </inputmethods>
     <consolefonts>
       <consolefont><consolefontId>latarcyrheb-sun16</consolefontId><rank>1000</rank></consolefont>
     </consolefonts>
@@ -10937,6 +11124,8 @@
     <keyboards>
       <keyboard><keyboardId>ara</keyboardId><rank>1000</rank></keyboard>
     </keyboards>
+    <inputmethods>
+    </inputmethods>
     <consolefonts>
       <consolefont><consolefontId>latarcyrheb-sun16</consolefontId><rank>1000</rank></consolefont>
     </consolefonts>
@@ -11060,6 +11249,8 @@
     <keyboards>
       <keyboard><keyboardId>us</keyboardId><rank>1000</rank></keyboard>
     </keyboards>
+    <inputmethods>
+    </inputmethods>
     <consolefonts>
       <consolefont><consolefontId>latarcyrheb-sun16</consolefontId><rank>1000</rank></consolefont>
     </consolefonts>
@@ -11186,6 +11377,8 @@
     <keyboards>
       <keyboard><keyboardId>lt</keyboardId><rank>1000</rank></keyboard>
     </keyboards>
+    <inputmethods>
+    </inputmethods>
     <consolefonts>
       <consolefont><consolefontId>latarcyrheb-sun16</consolefontId><rank>1000</rank></consolefont>
     </consolefonts>
@@ -11316,6 +11509,8 @@
       <keyboard><keyboardId>fr</keyboardId><rank>0</rank></keyboard>
       <keyboard><keyboardId>fr(latin9)</keyboardId><rank>0</rank></keyboard>
     </keyboards>
+    <inputmethods>
+    </inputmethods>
     <consolefonts>
       <consolefont><consolefontId>latarcyrheb-sun16</consolefontId><rank>1000</rank></consolefont>
     </consolefonts>
@@ -11442,6 +11637,8 @@
     <keyboards>
       <keyboard><keyboardId>lv</keyboardId><rank>1000</rank></keyboard>
     </keyboards>
+    <inputmethods>
+    </inputmethods>
     <consolefonts>
       <consolefont><consolefontId>latarcyrheb-sun16</consolefontId><rank>1000</rank></consolefont>
     </consolefonts>
@@ -11570,6 +11767,8 @@
     <keyboards>
       <keyboard><keyboardId>ara</keyboardId><rank>1000</rank></keyboard>
     </keyboards>
+    <inputmethods>
+    </inputmethods>
     <consolefonts>
       <consolefont><consolefontId>latarcyrheb-sun16</consolefontId><rank>1000</rank></consolefont>
     </consolefonts>
@@ -11697,6 +11896,8 @@
     <keyboards>
       <keyboard><keyboardId>ma</keyboardId><rank>1000</rank></keyboard>
     </keyboards>
+    <inputmethods>
+    </inputmethods>
     <consolefonts>
       <consolefont><consolefontId>latarcyrheb-sun16</consolefontId><rank>1000</rank></consolefont>
     </consolefonts>
@@ -11810,6 +12011,8 @@
     <keyboards>
       <keyboard><keyboardId>sr</keyboardId><rank>1000</rank></keyboard>
     </keyboards>
+    <inputmethods>
+    </inputmethods>
     <consolefonts>
       <consolefont><consolefontId>latarcyrheb-sun16</consolefontId><rank>1000</rank></consolefont>
     </consolefonts>
@@ -11933,6 +12136,8 @@
     <keyboards>
       <keyboard><keyboardId>us</keyboardId><rank>1000</rank></keyboard>
     </keyboards>
+    <inputmethods>
+    </inputmethods>
     <consolefonts>
       <consolefont><consolefontId>latarcyrheb-sun16</consolefontId><rank>1000</rank></consolefont>
     </consolefonts>
@@ -12061,6 +12266,8 @@
       <keyboard><keyboardId>mk</keyboardId><rank>900</rank></keyboard>
       <keyboard><keyboardId>al</keyboardId><rank>100</rank></keyboard>
     </keyboards>
+    <inputmethods>
+    </inputmethods>
     <consolefonts>
       <consolefont><consolefontId>latarcyrheb-sun16</consolefontId><rank>1000</rank></consolefont>
     </consolefonts>
@@ -12184,6 +12391,8 @@
     <keyboards>
       <keyboard><keyboardId>mm</keyboardId><rank>1000</rank></keyboard>
     </keyboards>
+    <inputmethods>
+    </inputmethods>
     <consolefonts>
       <consolefont><consolefontId>latarcyrheb-sun16</consolefontId><rank>1000</rank></consolefont>
     </consolefonts>
@@ -12310,6 +12519,8 @@
     <keyboards>
       <keyboard><keyboardId>mn</keyboardId><rank>1000</rank></keyboard>
     </keyboards>
+    <inputmethods>
+    </inputmethods>
     <consolefonts>
       <consolefont><consolefontId>latarcyrheb-sun16</consolefontId><rank>1000</rank></consolefont>
     </consolefonts>
@@ -12430,6 +12641,9 @@
     <keyboards>
       <keyboard><keyboardId>cn</keyboardId><rank>1000</rank></keyboard>
     </keyboards>
+    <inputmethods>
+      <inputmethod><inputmethodId>ibus/cangjie</inputmethodId><rank>1000</rank></inputmethod>
+    </inputmethods>
     <consolefonts>
       <consolefont><consolefontId>latarcyrheb-sun16</consolefontId><rank>1000</rank></consolefont>
     </consolefonts>
@@ -12556,6 +12770,8 @@
       <keyboard><keyboardId>mt</keyboardId><rank>900</rank></keyboard>
       <keyboard><keyboardId>mt(us)</keyboardId><rank>100</rank></keyboard>
     </keyboards>
+    <inputmethods>
+    </inputmethods>
     <consolefonts>
       <consolefont><consolefontId>latarcyrheb-sun16</consolefontId><rank>1000</rank></consolefont>
     </consolefonts>
@@ -12679,6 +12895,8 @@
     <keyboards>
       <keyboard><keyboardId>mv</keyboardId><rank>1000</rank></keyboard>
     </keyboards>
+    <inputmethods>
+    </inputmethods>
     <consolefonts>
       <consolefont><consolefontId>latarcyrheb-sun16</consolefontId><rank>1000</rank></consolefont>
     </consolefonts>
@@ -12802,6 +13020,8 @@
     <keyboards>
       <keyboard><keyboardId>us</keyboardId><rank>1000</rank></keyboard>
     </keyboards>
+    <inputmethods>
+    </inputmethods>
     <consolefonts>
       <consolefont><consolefontId>latarcyrheb-sun16</consolefontId><rank>1000</rank></consolefont>
     </consolefonts>
@@ -12929,6 +13149,8 @@
     <keyboards>
       <keyboard><keyboardId>latam</keyboardId><rank>1000</rank></keyboard>
     </keyboards>
+    <inputmethods>
+    </inputmethods>
     <consolefonts>
       <consolefont><consolefontId>latarcyrheb-sun16</consolefontId><rank>1000</rank></consolefont>
     </consolefonts>
@@ -13067,6 +13289,8 @@
     <keyboards>
       <keyboard><keyboardId>us</keyboardId><rank>1000</rank></keyboard>
     </keyboards>
+    <inputmethods>
+    </inputmethods>
     <consolefonts>
       <consolefont><consolefontId>latarcyrheb-sun16</consolefontId><rank>1000</rank></consolefont>
     </consolefonts>
@@ -13206,6 +13430,8 @@
       <keyboard><keyboardId>ng(igbo)</keyboardId><rank>200</rank></keyboard>
       <keyboard><keyboardId>ng(yoruba)</keyboardId><rank>150</rank></keyboard>
     </keyboards>
+    <inputmethods>
+    </inputmethods>
     <consolefonts>
       <consolefont><consolefontId>latarcyrheb-sun16</consolefontId><rank>1000</rank></consolefont>
     </consolefonts>
@@ -13330,6 +13556,8 @@
     <keyboards>
       <keyboard><keyboardId>latam</keyboardId><rank>1000</rank></keyboard>
     </keyboards>
+    <inputmethods>
+    </inputmethods>
     <consolefonts>
       <consolefont><consolefontId>latarcyrheb-sun16</consolefontId><rank>1000</rank></consolefont>
     </consolefonts>
@@ -13467,6 +13695,8 @@
       <keyboard><keyboardId>us(altgr-intl)</keyboardId><rank>50</rank></keyboard>
       <keyboard><keyboardId>nl</keyboardId><rank>0</rank></keyboard>
     </keyboards>
+    <inputmethods>
+    </inputmethods>
     <consolefonts>
       <consolefont><consolefontId>latarcyrheb-sun16</consolefontId><rank>1000</rank></consolefont>
     </consolefonts>
@@ -13598,6 +13828,8 @@
     <keyboards>
       <keyboard><keyboardId>no</keyboardId><rank>1000</rank></keyboard>
     </keyboards>
+    <inputmethods>
+    </inputmethods>
     <consolefonts>
       <consolefont><consolefontId>latarcyrheb-sun16</consolefontId><rank>1000</rank></consolefont>
     </consolefonts>
@@ -13727,6 +13959,8 @@
     <keyboards>
       <keyboard><keyboardId>np</keyboardId><rank>1000</rank></keyboard>
     </keyboards>
+    <inputmethods>
+    </inputmethods>
     <consolefonts>
       <consolefont><consolefontId>latarcyrheb-sun16</consolefontId><rank>1000</rank></consolefont>
     </consolefonts>
@@ -13848,6 +14082,8 @@
     <keyboards>
       <keyboard><keyboardId>us</keyboardId><rank>1000</rank></keyboard>
     </keyboards>
+    <inputmethods>
+    </inputmethods>
     <consolefonts>
       <consolefont><consolefontId>latarcyrheb-sun16</consolefontId><rank>1000</rank></consolefont>
     </consolefonts>
@@ -13980,6 +14216,8 @@
     <keyboards>
       <keyboard><keyboardId>us</keyboardId><rank>1000</rank></keyboard>
     </keyboards>
+    <inputmethods>
+    </inputmethods>
     <consolefonts>
       <consolefont><consolefontId>latarcyrheb-sun16</consolefontId><rank>1000</rank></consolefont>
     </consolefonts>
@@ -14105,6 +14343,8 @@
     <keyboards>
       <keyboard><keyboardId>ara</keyboardId><rank>1000</rank></keyboard>
     </keyboards>
+    <inputmethods>
+    </inputmethods>
     <consolefonts>
       <consolefont><consolefontId>latarcyrheb-sun16</consolefontId><rank>1000</rank></consolefont>
     </consolefonts>
@@ -14227,6 +14467,8 @@
     <keyboards>
       <keyboard><keyboardId>latam</keyboardId><rank>1000</rank></keyboard>
     </keyboards>
+    <inputmethods>
+    </inputmethods>
     <consolefonts>
       <consolefont><consolefontId>latarcyrheb-sun16</consolefontId><rank>1000</rank></consolefont>
     </consolefonts>
@@ -14355,6 +14597,8 @@
     <keyboards>
       <keyboard><keyboardId>latam</keyboardId><rank>1000</rank></keyboard>
     </keyboards>
+    <inputmethods>
+    </inputmethods>
     <consolefonts>
       <consolefont><consolefontId>latarcyrheb-sun16</consolefontId><rank>1000</rank></consolefont>
     </consolefonts>
@@ -14482,6 +14726,8 @@
     <keyboards>
       <keyboard><keyboardId>us</keyboardId><rank>1000</rank></keyboard>
     </keyboards>
+    <inputmethods>
+    </inputmethods>
     <consolefonts>
       <consolefont><consolefontId>latarcyrheb-sun16</consolefontId><rank>1000</rank></consolefont>
     </consolefonts>
@@ -14612,6 +14858,8 @@
     <keyboards>
       <keyboard><keyboardId>ph</keyboardId><rank>1000</rank></keyboard>
     </keyboards>
+    <inputmethods>
+    </inputmethods>
     <consolefonts>
       <consolefont><consolefontId>latarcyrheb-sun16</consolefontId><rank>1000</rank></consolefont>
     </consolefonts>
@@ -14740,6 +14988,9 @@
     <keyboards>
       <keyboard><keyboardId>us</keyboardId><rank>1000</rank></keyboard>
     </keyboards>
+    <inputmethods>
+      <inputmethod><inputmethodId>ibus/m17n:sd:inscript</inputmethodId><rank>0</rank></inputmethod>
+    </inputmethods>
     <consolefonts>
       <consolefont><consolefontId>latarcyrheb-sun16</consolefontId><rank>1000</rank></consolefont>
     </consolefonts>
@@ -14871,6 +15122,8 @@
     <keyboards>
       <keyboard><keyboardId>pl</keyboardId><rank>1000</rank></keyboard>
     </keyboards>
+    <inputmethods>
+    </inputmethods>
     <consolefonts>
       <consolefont><consolefontId>latarcyrheb-sun16</consolefontId><rank>1000</rank></consolefont>
     </consolefonts>
@@ -14995,6 +15248,8 @@
     <keyboards>
       <keyboard><keyboardId>latam</keyboardId><rank>1000</rank></keyboard>
     </keyboards>
+    <inputmethods>
+    </inputmethods>
     <consolefonts>
       <consolefont><consolefontId>latarcyrheb-sun16</consolefontId><rank>1000</rank></consolefont>
     </consolefonts>
@@ -15119,6 +15374,8 @@
     <keyboards>
       <keyboard><keyboardId>pt</keyboardId><rank>1000</rank></keyboard>
     </keyboards>
+    <inputmethods>
+    </inputmethods>
     <consolefonts>
       <consolefont><consolefontId>latarcyrheb-sun16</consolefontId><rank>1000</rank></consolefont>
     </consolefonts>
@@ -15244,6 +15501,8 @@
     <keyboards>
       <keyboard><keyboardId>latam</keyboardId><rank>1000</rank></keyboard>
     </keyboards>
+    <inputmethods>
+    </inputmethods>
     <consolefonts>
       <consolefont><consolefontId>latarcyrheb-sun16</consolefontId><rank>1000</rank></consolefont>
     </consolefonts>
@@ -15367,6 +15626,8 @@
     <keyboards>
       <keyboard><keyboardId>ara</keyboardId><rank>1000</rank></keyboard>
     </keyboards>
+    <inputmethods>
+    </inputmethods>
     <consolefonts>
       <consolefont><consolefontId>latarcyrheb-sun16</consolefontId><rank>1000</rank></consolefont>
     </consolefonts>
@@ -15493,6 +15754,8 @@
     <keyboards>
       <keyboard><keyboardId>ro</keyboardId><rank>1000</rank></keyboard>
     </keyboards>
+    <inputmethods>
+    </inputmethods>
     <consolefonts>
       <consolefont><consolefontId>latarcyrheb-sun16</consolefontId><rank>1000</rank></consolefont>
     </consolefonts>
@@ -15607,6 +15870,8 @@
       <keyboard><keyboardId>rs</keyboardId><rank>600</rank></keyboard>
       <keyboard><keyboardId>rs(latin)</keyboardId><rank>400</rank></keyboard>
     </keyboards>
+    <inputmethods>
+    </inputmethods>
     <consolefonts>
       <consolefont><consolefontId>latarcyrheb-sun16</consolefontId><rank>1000</rank></consolefont>
     </consolefonts>
@@ -15753,6 +16018,8 @@
       <keyboard><keyboardId>ru(tt)</keyboardId><rank>2</rank></keyboard>
       <keyboard><keyboardId>us(altgr-intl)</keyboardId><rank>1</rank></keyboard>
     </keyboards>
+    <inputmethods>
+    </inputmethods>
     <consolefonts>
       <consolefont><consolefontId>latarcyrheb-sun16</consolefontId><rank>1000</rank></consolefont>
     </consolefonts>
@@ -15896,6 +16163,8 @@
     <keyboards>
       <keyboard><keyboardId>us</keyboardId><rank>1000</rank></keyboard>
     </keyboards>
+    <inputmethods>
+    </inputmethods>
     <consolefonts>
       <consolefont><consolefontId>latarcyrheb-sun16</consolefontId><rank>1000</rank></consolefont>
     </consolefonts>
@@ -16024,6 +16293,8 @@
     <keyboards>
       <keyboard><keyboardId>ara</keyboardId><rank>1000</rank></keyboard>
     </keyboards>
+    <inputmethods>
+    </inputmethods>
     <consolefonts>
       <consolefont><consolefontId>latarcyrheb-sun16</consolefontId><rank>1000</rank></consolefont>
     </consolefonts>
@@ -16150,6 +16421,8 @@
     <keyboards>
       <keyboard><keyboardId>ara</keyboardId><rank>1000</rank></keyboard>
     </keyboards>
+    <inputmethods>
+    </inputmethods>
     <consolefonts>
       <consolefont><consolefontId>latarcyrheb-sun16</consolefontId><rank>1000</rank></consolefont>
     </consolefonts>
@@ -16277,6 +16550,8 @@
     <keyboards>
       <keyboard><keyboardId>se</keyboardId><rank>1000</rank></keyboard>
     </keyboards>
+    <inputmethods>
+    </inputmethods>
     <consolefonts>
       <consolefont><consolefontId>latarcyrheb-sun16</consolefontId><rank>1000</rank></consolefont>
     </consolefonts>
@@ -16405,6 +16680,9 @@
       <keyboard><keyboardId>us</keyboardId><rank>600</rank></keyboard>
       <keyboard><keyboardId>cn</keyboardId><rank>400</rank></keyboard>
     </keyboards>
+    <inputmethods>
+      <inputmethod><inputmethodId>ibus/libpinyin</inputmethodId><rank>1000</rank></inputmethod>
+    </inputmethods>
     <consolefonts>
       <consolefont><consolefontId>latarcyrheb-sun16</consolefontId><rank>1000</rank></consolefont>
     </consolefonts>
@@ -16532,6 +16810,8 @@
     <keyboards>
       <keyboard><keyboardId>si</keyboardId><rank>1000</rank></keyboard>
     </keyboards>
+    <inputmethods>
+    </inputmethods>
     <consolefonts>
       <consolefont><consolefontId>latarcyrheb-sun16</consolefontId><rank>1000</rank></consolefont>
     </consolefonts>
@@ -16658,6 +16938,8 @@
     <keyboards>
       <keyboard><keyboardId>sk</keyboardId><rank>1000</rank></keyboard>
     </keyboards>
+    <inputmethods>
+    </inputmethods>
     <consolefonts>
       <consolefont><consolefontId>latarcyrheb-sun16</consolefontId><rank>1000</rank></consolefont>
     </consolefonts>
@@ -16788,6 +17070,8 @@
       <keyboard><keyboardId>fr(oss)</keyboardId><rank>900</rank></keyboard>
       <keyboard><keyboardId>sn</keyboardId><rank>100</rank></keyboard>
     </keyboards>
+    <inputmethods>
+    </inputmethods>
     <consolefonts>
       <consolefont><consolefontId>latarcyrheb-sun16</consolefontId><rank>1000</rank></consolefont>
     </consolefonts>
@@ -16916,6 +17200,8 @@
       <keyboard><keyboardId>us</keyboardId><rank>600</rank></keyboard>
       <keyboard><keyboardId>ara</keyboardId><rank>400</rank></keyboard>
     </keyboards>
+    <inputmethods>
+    </inputmethods>
     <consolefonts>
       <consolefont><consolefontId>latarcyrheb-sun16</consolefontId><rank>1000</rank></consolefont>
     </consolefonts>
@@ -17039,6 +17325,8 @@
     <keyboards>
       <keyboard><keyboardId>latam</keyboardId><rank>1000</rank></keyboard>
     </keyboards>
+    <inputmethods>
+    </inputmethods>
     <consolefonts>
       <consolefont><consolefontId>latarcyrheb-sun16</consolefontId><rank>1000</rank></consolefont>
     </consolefonts>
@@ -17165,6 +17453,8 @@
     <keyboards>
       <keyboard><keyboardId>sy</keyboardId><rank>1000</rank></keyboard>
     </keyboards>
+    <inputmethods>
+    </inputmethods>
     <consolefonts>
       <consolefont><consolefontId>latarcyrheb-sun16</consolefontId><rank>1000</rank></consolefont>
     </consolefonts>
@@ -17292,6 +17582,8 @@
       <keyboard><keyboardId>th(pat></keyboardId><rank>0</rank></keyboard>
       <keyboard><keyboardId>th(tis)</keyboardId><rank>0</rank></keyboard>
     </keyboards>
+    <inputmethods>
+    </inputmethods>
     <consolefonts>
       <consolefont><consolefontId>latarcyrheb-sun16</consolefontId><rank>1000</rank></consolefont>
     </consolefonts>
@@ -17419,6 +17711,8 @@
     <keyboards>
       <keyboard><keyboardId>tj</keyboardId><rank>1000</rank></keyboard>
     </keyboards>
+    <inputmethods>
+    </inputmethods>
     <consolefonts>
       <consolefont><consolefontId>latarcyrheb-sun16</consolefontId><rank>1000</rank></consolefont>
     </consolefonts>
@@ -17541,6 +17835,8 @@
     <keyboards>
       <keyboard><keyboardId>us(altgr-intl)</keyboardId><rank>50</rank></keyboard>
     </keyboards>
+    <inputmethods>
+    </inputmethods>
     <consolefonts>
       <consolefont><consolefontId>latarcyrheb-sun16</consolefontId><rank>1000</rank></consolefont>
     </consolefonts>
@@ -17663,6 +17959,8 @@
     <keyboards>
       <keyboard><keyboardId>tm</keyboardId><rank>1000</rank></keyboard>
     </keyboards>
+    <inputmethods>
+    </inputmethods>
     <consolefonts>
       <consolefont><consolefontId>latarcyrheb-sun16</consolefontId><rank>1000</rank></consolefont>
     </consolefonts>
@@ -17788,6 +18086,8 @@
     <keyboards>
       <keyboard><keyboardId>ara</keyboardId><rank>1000</rank></keyboard>
     </keyboards>
+    <inputmethods>
+    </inputmethods>
     <consolefonts>
       <consolefont><consolefontId>latarcyrheb-sun16</consolefontId><rank>1000</rank></consolefont>
     </consolefonts>
@@ -17916,6 +18216,8 @@
     <keyboards>
       <keyboard><keyboardId>tr</keyboardId><rank>1000</rank></keyboard>
     </keyboards>
+    <inputmethods>
+    </inputmethods>
     <consolefonts>
       <consolefont><consolefontId>latarcyrheb-sun16</consolefontId><rank>1000</rank></consolefont>
     </consolefonts>
@@ -18040,6 +18342,9 @@
     <keyboards>
       <keyboard><keyboardId>cn</keyboardId><rank>1000</rank></keyboard>
     </keyboards>
+    <inputmethods>
+      <inputmethod><inputmethodId>ibus/chewing</inputmethodId><rank>1000</rank></inputmethod>
+    </inputmethods>
     <consolefonts>
       <consolefont><consolefontId>latarcyrheb-sun16</consolefontId><rank>1000</rank></consolefont>
     </consolefonts>
@@ -18168,6 +18473,8 @@
     <keyboards>
       <keyboard><keyboardId>tz</keyboardId><rank>1000</rank></keyboard>
     </keyboards>
+    <inputmethods>
+    </inputmethods>
     <consolefonts>
       <consolefont><consolefontId>latarcyrheb-sun16</consolefontId><rank>1000</rank></consolefont>
     </consolefonts>
@@ -18297,6 +18604,8 @@
       <keyboard><keyboardId>ru</keyboardId><rank>90</rank></keyboard>
       <keyboard><keyboardId>tr(crh)</keyboardId><rank>10</rank></keyboard>
     </keyboards>
+    <inputmethods>
+    </inputmethods>
     <consolefonts>
       <consolefont><consolefontId>latarcyrheb-sun16</consolefontId><rank>1000</rank></consolefont>
     </consolefonts>
@@ -18426,6 +18735,8 @@
     <keyboards>
       <keyboard><keyboardId>us</keyboardId><rank>1000</rank></keyboard>
     </keyboards>
+    <inputmethods>
+    </inputmethods>
     <consolefonts>
       <consolefont><consolefontId>latarcyrheb-sun16</consolefontId><rank>1000</rank></consolefont>
     </consolefonts>
@@ -18563,6 +18874,8 @@
     <keyboards>
       <keyboard><keyboardId>us</keyboardId><rank>1000</rank></keyboard>
     </keyboards>
+    <inputmethods>
+    </inputmethods>
     <consolefonts>
       <consolefont><consolefontId>latarcyrheb-sun16</consolefontId><rank>1000</rank></consolefont>
     </consolefonts>
@@ -18716,6 +19029,8 @@
     <keyboards>
       <keyboard><keyboardId>latam</keyboardId><rank>1000</rank></keyboard>
     </keyboards>
+    <inputmethods>
+    </inputmethods>
     <consolefonts>
       <consolefont><consolefontId>latarcyrheb-sun16</consolefontId><rank>1000</rank></consolefont>
     </consolefonts>
@@ -18844,6 +19159,8 @@
       <keyboard><keyboardId>uz</keyboardId><rank>600</rank></keyboard>
       <keyboard><keyboardId>uz(latin)</keyboardId><rank>400</rank></keyboard>
     </keyboards>
+    <inputmethods>
+    </inputmethods>
     <consolefonts>
       <consolefont><consolefontId>latarcyrheb-sun16</consolefontId><rank>1000</rank></consolefont>
     </consolefonts>
@@ -18969,6 +19286,8 @@
     <keyboards>
       <keyboard><keyboardId>it</keyboardId><rank>1000</rank></keyboard>
     </keyboards>
+    <inputmethods>
+    </inputmethods>
     <consolefonts>
       <consolefont><consolefontId>latarcyrheb-sun16</consolefontId><rank>1000</rank></consolefont>
     </consolefonts>
@@ -19095,6 +19414,8 @@
     <keyboards>
       <keyboard><keyboardId>latam</keyboardId><rank>1000</rank></keyboard>
     </keyboards>
+    <inputmethods>
+    </inputmethods>
     <consolefonts>
       <consolefont><consolefontId>latarcyrheb-sun16</consolefontId><rank>1000</rank></consolefont>
     </consolefonts>
@@ -19217,6 +19538,8 @@
     <keyboards>
       <keyboard><keyboardId>vn</keyboardId><rank>1000</rank></keyboard>
     </keyboards>
+    <inputmethods>
+    </inputmethods>
     <consolefonts>
       <consolefont><consolefontId>latarcyrheb-sun16</consolefontId><rank>1000</rank></consolefont>
     </consolefonts>
@@ -19344,6 +19667,8 @@
     <keyboards>
       <keyboard><keyboardId>ara</keyboardId><rank>1000</rank></keyboard>
     </keyboards>
+    <inputmethods>
+    </inputmethods>
     <consolefonts>
       <consolefont><consolefontId>latarcyrheb-sun16</consolefontId><rank>1000</rank></consolefont>
     </consolefonts>
@@ -19490,6 +19815,8 @@
     <keyboards>
       <keyboard><keyboardId>us</keyboardId><rank>1000</rank></keyboard>
     </keyboards>
+    <inputmethods>
+    </inputmethods>
     <consolefonts>
       <consolefont><consolefontId>latarcyrheb-sun16</consolefontId><rank>1000</rank></consolefont>
     </consolefonts>
@@ -19620,6 +19947,8 @@
     <keyboards>
       <keyboard><keyboardId>us</keyboardId><rank>1000</rank></keyboard>
     </keyboards>
+    <inputmethods>
+    </inputmethods>
     <consolefonts>
       <consolefont><consolefontId>latarcyrheb-sun16</consolefontId><rank>1000</rank></consolefont>
     </consolefonts>
@@ -19743,6 +20072,8 @@
     <keyboards>
       <keyboard><keyboardId>us</keyboardId><rank>1000</rank></keyboard>
     </keyboards>
+    <inputmethods>
+    </inputmethods>
     <consolefonts>
       <consolefont><consolefontId>latarcyrheb-sun16</consolefontId><rank>1000</rank></consolefont>
     </consolefonts>

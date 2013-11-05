@@ -84,16 +84,17 @@ _timezones_db = {}
 _timezoneIdParts_db = {}
 
 class territory_db_item:
-    def __init__(self, names = None, locales=None, languages=None, keyboards=None, consolefonts=None, timezones=None):
+    def __init__(self, names = None, locales=None, languages=None, keyboards=None, inputmethods=None, consolefonts=None, timezones=None):
         self.names = names
         self.locales = locales
         self.languages = languages
         self.keyboards = keyboards
+        self.inputmethods = inputmethods
         self.consolefonts = consolefonts
         self.timezones = timezones
 
 class language_db_item:
-    def __init__(self, iso639_1=None, iso639_2_t=None, iso639_2_b=None, names=None, locales=None, territories=None, keyboards=None, consolefonts=None, timezones=None):
+    def __init__(self, iso639_1=None, iso639_2_t=None, iso639_2_b=None, names=None, locales=None, territories=None, keyboards=None, inputmethods=None, consolefonts=None, timezones=None):
         self.iso639_1 = iso639_1
         self.iso639_2_t = iso639_2_t
         self.iso639_2_b = iso639_2_b
@@ -101,6 +102,7 @@ class language_db_item:
         self.locales = locales
         self.territories = territories
         self.keyboards = keyboards
+        self.inputmethods = inputmethods
         self.consolefonts = consolefonts
         self.timezones = timezones
 
@@ -170,6 +172,7 @@ class TerritoriesContentHandler(LangtableContentHandler):
         self._locales = None
         self._languages = None
         self._keyboards = None
+        self._inputmethods = None
         self._consolefonts = None
         self._timezones = None
 
@@ -179,6 +182,7 @@ class TerritoriesContentHandler(LangtableContentHandler):
             self._locales = dict()
             self._languages = dict()
             self._keyboards = dict()
+            self._inputmethods = dict()
             self._consolefonts = dict()
             self._timezones = dict()
 
@@ -187,7 +191,7 @@ class TerritoriesContentHandler(LangtableContentHandler):
             self._save_to = "_territoryId"
 
         # dict items
-        elif name in (u"languageId", u"localeId", u"keyboardId",
+        elif name in (u"languageId", u"localeId", u"keyboardId", u"inputmethodId",
                       u"consolefontId", u"timezoneId"):
             self._save_to = "_item_id"
         elif name == u"trName":
@@ -206,6 +210,7 @@ class TerritoriesContentHandler(LangtableContentHandler):
                 locales = self._locales,
                 languages = self._languages,
                 keyboards = self._keyboards,
+                inputmethods = self._inputmethods,
                 consolefonts = self._consolefonts,
                 timezones = self._timezones)
 
@@ -215,6 +220,7 @@ class TerritoriesContentHandler(LangtableContentHandler):
             self._locales = None
             self._languages = None
             self._keyboards = None
+            self._inputmethods = None
             self._consolefonts = None
             self._timezones = None
 
@@ -230,6 +236,9 @@ class TerritoriesContentHandler(LangtableContentHandler):
             self._clear_item()
         elif name == u"keyboard":
             self._keyboards[str(self._item_id)] = int(self._item_rank)
+            self._clear_item()
+        elif name == u"inputmethod":
+            self._inputmethods[str(self._item_id)] = int(self._item_rank)
             self._clear_item()
         elif name == u"consolefont":
             self._consolefonts[str(self._item_id)] = int(self._item_rank)
@@ -342,6 +351,7 @@ class LanguagesContentHandler(LangtableContentHandler):
         self._locales = None
         self._territories = None
         self._keyboards = None
+        self._inputmethods = None
         self._consolefonts = None
         self._timezones = None
 
@@ -351,6 +361,7 @@ class LanguagesContentHandler(LangtableContentHandler):
             self._locales = dict()
             self._territories = dict()
             self._keyboards = dict()
+            self._inputmethods = dict()
             self._consolefonts = dict()
             self._timezones = dict()
 
@@ -368,7 +379,7 @@ class LanguagesContentHandler(LangtableContentHandler):
             self._in_names = True
 
         # dict items
-        elif name in (u"localeId", u"territoryId", u"keyboardId",
+        elif name in (u"localeId", u"territoryId", u"keyboardId", u"inputmethodId",
                       u"consolefontId", u"timezoneId"):
             self._save_to = "_item_id"
         elif name == u"languageId" and self._in_names:
@@ -393,6 +404,7 @@ class LanguagesContentHandler(LangtableContentHandler):
                 locales = self._locales,
                 territories = self._territories,
                 keyboards = self._keyboards,
+                inputmethods = self._inputmethods,
                 consolefonts = self._consolefonts,
                 timezones = self._timezones)
 
@@ -405,6 +417,7 @@ class LanguagesContentHandler(LangtableContentHandler):
             self._locales = None
             self._territories = None
             self._keyboards = None
+            self._inputmethods = None
             self._consolefonts = None
             self._timezones = None
 
@@ -424,6 +437,9 @@ class LanguagesContentHandler(LangtableContentHandler):
             self._clear_item()
         elif name == u"keyboard":
             self._keyboards[str(self._item_id)] = int(self._item_rank)
+            self._clear_item()
+        elif name == u"inputmethod":
+            self._inputmethods[str(self._item_id)] = int(self._item_rank)
             self._clear_item()
         elif name == u"consolefont":
             self._consolefonts[str(self._item_id)] = int(self._item_rank)
@@ -588,6 +604,15 @@ def _write_territories_file(file):
                 +'<rank>'+str(rank)+'</rank>'
                 +'</keyboard>\n')
         file.write('    </keyboards>\n')
+        inputmethods = _territories_db[territoryId].inputmethods
+        file.write('    <inputmethods>\n')
+        for inputmethodId, rank in sorted(inputmethods.items(), key=lambda x: (-1*x[1],x[0])):
+            file.write(
+                '      <inputmethod>'
+                +'<inputmethodId>'+inputmethodId+'</inputmethodId>'
+                +'<rank>'+str(rank)+'</rank>'
+                +'</inputmethod>\n')
+        file.write('    </inputmethods>\n')
         consolefonts = _territories_db[territoryId].consolefonts
         file.write('    <consolefonts>\n')
         for consolefontId, rank in sorted(consolefonts.items(), key=lambda x: (-1*x[1],x[0])):
@@ -658,6 +683,15 @@ def _write_languages_file(file):
                 +'<rank>'+str(rank)+'</rank>'
                 +'</keyboard>\n')
         file.write('    </keyboards>\n')
+        inputmethods = _languages_db[languageId].inputmethods
+        file.write('    <inputmethods>\n')
+        for inputmethodId, rank in sorted(inputmethods.items(), key=lambda x: (-1*x[1],x[0])):
+            file.write(
+                '      <inputmethod>'
+                +'<inputmethodId>'+inputmethodId+'</inputmethodId>'
+                +'<rank>'+str(rank)+'</rank>'
+                +'</inputmethod>\n')
+        file.write('    </inputmethods>\n')
         consolefonts = _languages_db[languageId].consolefonts
         file.write('    <consolefonts>\n')
         for consolefontId, rank in sorted(consolefonts.items(), key=lambda x: (-1*x[1],x[0])):
@@ -818,7 +852,8 @@ def _write_files(territoriesfilename, languagesfilename, keyboardsfilename, time
 def _dictionary_to_ranked_list(dict, reverse=True):
     sorted_list = []
     for item in sorted(dict, key=lambda x: (dict.get(x), x), reverse=reverse):
-        sorted_list.append([item, dict[item]])
+        if dict[item] != 0:
+            sorted_list.append([item, dict[item]])
     return sorted_list
 
 def _ranked_list_to_list(ranked_list):
@@ -1279,6 +1314,68 @@ def list_locales(concise=True, show_weights=False, languageId = None, scriptId =
                     ranked_locales[locale] *= extra_bonus
                 ranked_locales[locale] *= territory_bonus
     ranked_list = _dictionary_to_ranked_list(ranked_locales)
+    if concise:
+        ranked_list = _make_ranked_list_concise(ranked_list)
+    if show_weights:
+        return ranked_list
+    else:
+        return _ranked_list_to_list(ranked_list)
+
+def list_inputmethods(concise=True, show_weights=False, languageId = None, scriptId = None, territoryId = None):
+    '''List suitable input methods
+
+    Examples:
+
+    List the suitable input methods for the language “Japanese”:
+
+    >>> list_inputmethods(languageId="ja")
+    ['ibus/kkc', 'ibus/anthy']
+
+    So this returns a list of input methods for Japanese. These lists are
+    sorted in order of decreasing likelyhood, i.e. the most common
+    value comes first.
+
+    One can also list the possible input methods for the territory “Japan”:
+
+    >>> list_inputmethods(territoryId="JP")
+    ['ibus/kkc', 'ibus/anthy']
+    '''
+    ranked_inputmethods = {}
+    skipTerritory = False
+    languageId, scriptId, territoryId = _parse_and_split_languageId(
+        languageId=languageId,
+        scriptId=scriptId,
+        territoryId=territoryId)
+    if languageId and scriptId and territoryId and languageId+'_'+scriptId+'_'+territoryId in _languages_db:
+        languageId = languageId+'_'+scriptId+'_'+territoryId
+        skipTerritory = True
+    elif languageId and scriptId and languageId+'_'+scriptId in _languages_db:
+        languageId = languageId+'_'+scriptId
+        skipTerritory = True
+    elif languageId and territoryId and languageId+'_'+territoryId in _languages_db:
+        languageId = languageId+'_'+territoryId
+        skipTerritory = True
+    language_bonus = 100
+    if languageId in _languages_db:
+        for inputmethod in _languages_db[languageId].inputmethods:
+            if _languages_db[languageId].inputmethods[inputmethod] != 0:
+                if inputmethod not in ranked_inputmethods:
+                    ranked_inputmethods[inputmethod] = _languages_db[languageId].inputmethods[inputmethod]
+                else:
+                    ranked_inputmethods[inputmethod] *= _languages_db[languageId].inputmethods[inputmethod]
+                    ranked_inputmethods[inputmethod] *= extra_bonus
+                ranked_inputmethods[inputmethod] *= language_bonus
+    territory_bonus = 1
+    if territoryId in _territories_db and not skipTerritory:
+        for inputmethod in _territories_db[territoryId].inputmethods:
+            if _territories_db[territoryId].inputmethods[inputmethod] != 0:
+                if inputmethod not in ranked_inputmethods:
+                    ranked_inputmethods[inputmethod] = _territories_db[territoryId].inputmethods[inputmethod]
+                else:
+                    ranked_inputmethods[inputmethod] *= _territories_db[territoryId].inputmethods[inputmethod]
+                    ranked_inputmethods[inputmethod] *= extra_bonus
+                ranked_inputmethods[inputmethod] *= territory_bonus
+    ranked_list = _dictionary_to_ranked_list(ranked_inputmethods)
     if concise:
         ranked_list = _make_ranked_list_concise(ranked_list)
     if show_weights:

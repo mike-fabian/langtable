@@ -87,6 +87,20 @@
         </element>
       </optional>
       <optional>
+        <element name="inputmethods">
+          <zeroOrMore>
+            <element name="inputmethod">
+              <element name="inputmethodId">
+                <text />
+              </element>
+              <element name="rank">
+                <data type="nonNegativeInteger" />
+              </element>
+            </element>
+          </zeroOrMore>
+        </element>
+      </optional>
+      <optional>
         <element name="consolefonts">
           <zeroOrMore>
             <element name="consolefont">
