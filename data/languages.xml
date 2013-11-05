@@ -559,9 +559,64 @@
     <iso639-2-b>anp</iso639-2-b>
     <names>
       <name><languageId>anp</languageId><trName>अंगिका</trName></name>
+      <name><languageId>ar</languageId><trName>الأنجيكا</trName></name>
+      <name><languageId>az</languageId><trName>angikə dili</trName></name>
+      <name><languageId>bg</languageId><trName>ангика</trName></name>
+      <name><languageId>bn</languageId><trName>আঙ্গীকা</trName></name>
+      <name><languageId>brx</languageId><trName>अंगीका</trName></name>
+      <name><languageId>bs</languageId><trName>angika</trName></name>
+      <name><languageId>ca</languageId><trName>angika</trName></name>
+      <name><languageId>cs</languageId><trName>angika</trName></name>
+      <name><languageId>da</languageId><trName>angika</trName></name>
       <name><languageId>de</languageId><trName>Angika</trName></name>
+      <name><languageId>el</languageId><trName>Ανγκικά</trName></name>
       <name><languageId>en</languageId><trName>Angika</trName></name>
+      <name><languageId>es</languageId><trName>angika</trName></name>
+      <name><languageId>et</languageId><trName>angika</trName></name>
+      <name><languageId>fa</languageId><trName>آنگیکا</trName></name>
+      <name><languageId>fi</languageId><trName>angika</trName></name>
+      <name><languageId>fr</languageId><trName>angika</trName></name>
+      <name><languageId>gu</languageId><trName>અંગીકા</trName></name>
+      <name><languageId>he</languageId><trName>אנג׳יקה</trName></name>
+      <name><languageId>hi</languageId><trName>अंगिका</trName></name>
+      <name><languageId>hr</languageId><trName>angika</trName></name>
+      <name><languageId>hu</languageId><trName>angika</trName></name>
+      <name><languageId>id</languageId><trName>Angika</trName></name>
+      <name><languageId>is</languageId><trName>angíka</trName></name>
+      <name><languageId>it</languageId><trName>angika</trName></name>
       <name><languageId>ja</languageId><trName>アンギカ語</trName></name>
+      <name><languageId>ka</languageId><trName>ანგიკა</trName></name>
+      <name><languageId>kn</languageId><trName>ಆಂಗಿಕಾ</trName></name>
+      <name><languageId>ko</languageId><trName>앙가어</trName></name>
+      <name><languageId>ks</languageId><trName>اَنٛگِکا</trName></name>
+      <name><languageId>lo</languageId><trName>ແອນຈີກາ</trName></name>
+      <name><languageId>lt</languageId><trName>angikų</trName></name>
+      <name><languageId>lv</languageId><trName>angika</trName></name>
+      <name><languageId>mk</languageId><trName>ангика</trName></name>
+      <name><languageId>ml</languageId><trName>ആൻഗിക</trName></name>
+      <name><languageId>mr</languageId><trName>अंगिका</trName></name>
+      <name><languageId>mt</languageId><trName>Angika</trName></name>
+      <name><languageId>nb</languageId><trName>angika</trName></name>
+      <name><languageId>nl</languageId><trName>Angika</trName></name>
+      <name><languageId>nn</languageId><trName>angika</trName></name>
+      <name><languageId>or</languageId><trName>ଅଁଗୀକା</trName></name>
+      <name><languageId>pl</languageId><trName>angika</trName></name>
+      <name><languageId>pt</languageId><trName>angika</trName></name>
+      <name><languageId>ro</languageId><trName>angika</trName></name>
+      <name><languageId>ru</languageId><trName>ангика</trName></name>
+      <name><languageId>sk</languageId><trName>angika</trName></name>
+      <name><languageId>sl</languageId><trName>angikaščina</trName></name>
+      <name><languageId>sr</languageId><trName>Ангика</trName></name>
+      <name><languageId>sr_Latn</languageId><trName>Angika</trName></name>
+      <name><languageId>sv</languageId><trName>angika</trName></name>
+      <name><languageId>ta</languageId><trName>அங்கிகா</trName></name>
+      <name><languageId>te</languageId><trName>ఆంగిక</trName></name>
+      <name><languageId>th</languageId><trName>อังคิกา</trName></name>
+      <name><languageId>tr</languageId><trName>Angika</trName></name>
+      <name><languageId>uk</languageId><trName>ангіка</trName></name>
+      <name><languageId>vi</languageId><trName>Tiếng Angika</trName></name>
+      <name><languageId>zh</languageId><trName>昂加文</trName></name>
+      <name><languageId>zh_Hant</languageId><trName>昂加文</trName></name>
     </names>
     <locales>
       <locale><localeId>anp_IN.UTF-8</localeId><rank>1000</rank></locale>
