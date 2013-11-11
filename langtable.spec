@@ -5,7 +5,7 @@
 %endif
 
 Name:           langtable
-Version:        0.0.18
+Version:        0.0.19
 Release:        1%{?dist}
 Summary:        Guessing reasonable defaults for locale, keyboard layout, territory, and language.
 Group:          Development/Tools
@@ -121,6 +121,11 @@ xmllint --noout --relaxng $RPM_BUILD_ROOT/%{_datadir}/langtable/schemas/territor
 %{_datadir}/langtable/*.xml.gz
 
 %changelog
+* Mon Nov 11 2013 Mike FABIAN <mfabian@redhat.com> - 0.0.19-1
+- Add SS
+- More translations for anp from CLDR
+- Add information about default input methods and a query function
+
 * Mon Nov 04 2013 Mike FABIAN <mfabian@redhat.com> - 0.0.18-1
 - Add anp
 - Do not fail if a timezone id part cannot be found in the database (Vratislav Podzimek reported that error)
