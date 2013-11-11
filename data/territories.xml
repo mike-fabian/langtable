@@ -17210,6 +17210,117 @@
     </timezones>
   </territory>
   <territory>
+    <territoryId>SS</territoryId>
+    <names>
+      <name><languageId>af</languageId><trName>Suid-Soedan</trName></name>
+      <name><languageId>am</languageId><trName>ደቡብ ሱዳን</trName></name>
+      <name><languageId>ar</languageId><trName>جنوب السودان</trName></name>
+      <name><languageId>ast</languageId><trName>Sudán del Sur</trName></name>
+      <name><languageId>az</languageId><trName>Cənubi Sudan</trName></name>
+      <name><languageId>be</languageId><trName>Паўднёвы Судан</trName></name>
+      <name><languageId>bg</languageId><trName>Южен Судан</trName></name>
+      <name><languageId>bn</languageId><trName>দক্ষিন সুদান</trName></name>
+      <name><languageId>br</languageId><trName>Su Soudan</trName></name>
+      <name><languageId>bs</languageId><trName>Južni Sudan</trName></name>
+      <name><languageId>ca</languageId><trName>Sudan del Sud</trName></name>
+      <name><languageId>cs</languageId><trName>Jižní Súdán</trName></name>
+      <name><languageId>cy</languageId><trName>De Swdan</trName></name>
+      <name><languageId>da</languageId><trName>Sydsudan</trName></name>
+      <name><languageId>de</languageId><trName>Südsudan</trName></name>
+      <name><languageId>dz</languageId><trName>སཱའུཐ་ སུ་ཌཱན</trName></name>
+      <name><languageId>el</languageId><trName>Νότιο Σουδάν</trName></name>
+      <name><languageId>en</languageId><trName>South Sudan</trName></name>
+      <name><languageId>eo</languageId><trName>Sud-Sudano</trName></name>
+      <name><languageId>es</languageId><trName>Sudán del Sur</trName></name>
+      <name><languageId>et</languageId><trName>Lõuna-Sudaan</trName></name>
+      <name><languageId>eu</languageId><trName>Hego Sudan</trName></name>
+      <name><languageId>fa</languageId><trName>سودان جنوبی</trName></name>
+      <name><languageId>fi</languageId><trName>Etelä-Sudan</trName></name>
+      <name><languageId>fil</languageId><trName>South Sudan</trName></name>
+      <name><languageId>fo</languageId><trName>Suðursudan</trName></name>
+      <name><languageId>fr</languageId><trName>Soudan du Sud</trName></name>
+      <name><languageId>ga</languageId><trName>An tSúdáin Theas</trName></name>
+      <name><languageId>gl</languageId><trName>Sudán do sur</trName></name>
+      <name><languageId>gu</languageId><trName>દક્ષિણ સુદાન</trName></name>
+      <name><languageId>he</languageId><trName>דרום סודן</trName></name>
+      <name><languageId>hi</languageId><trName>दक्षिण सूडान</trName></name>
+      <name><languageId>hr</languageId><trName>Južni Sudan</trName></name>
+      <name><languageId>hu</languageId><trName>Dél-Szudán</trName></name>
+      <name><languageId>hy</languageId><trName>Հարավային Սուդան</trName></name>
+      <name><languageId>ia</languageId><trName>Sudan del Sud</trName></name>
+      <name><languageId>id</languageId><trName>Sudan Selatan</trName></name>
+      <name><languageId>is</languageId><trName>Suður-Súdan</trName></name>
+      <name><languageId>it</languageId><trName>Sudan del Sud</trName></name>
+      <name><languageId>ja</languageId><trName>南スーダン</trName></name>
+      <name><languageId>ka</languageId><trName>სამხრეთი სუდანი</trName></name>
+      <name><languageId>kk</languageId><trName>Оңтүстік Судан</trName></name>
+      <name><languageId>kl</languageId><trName>Kujalleqsudan</trName></name>
+      <name><languageId>km</languageId><trName>ស៊ូដង់​ខាង​ត្បូង</trName></name>
+      <name><languageId>kn</languageId><trName>ದಕ್ಷಿಣ ಸೂಡಾನ್</trName></name>
+      <name><languageId>ko</languageId><trName>남수단</trName></name>
+      <name><languageId>ky</languageId><trName>Түштүк Судан</trName></name>
+      <name><languageId>ln</languageId><trName>Sudani ya Sidi</trName></name>
+      <name><languageId>lo</languageId><trName>ຊູດານໃຕ້</trName></name>
+      <name><languageId>lt</languageId><trName>Pietų Sudanas</trName></name>
+      <name><languageId>lv</languageId><trName>Dienvidsudāna</trName></name>
+      <name><languageId>mk</languageId><trName>Јужен Судан</trName></name>
+      <name><languageId>ml</languageId><trName>ദക്ഷിണ സുഡാൻ</trName></name>
+      <name><languageId>mn</languageId><trName>Өмнөд Судан</trName></name>
+      <name><languageId>mr</languageId><trName>दक्षिण सुदान</trName></name>
+      <name><languageId>ms</languageId><trName>Sudan Selatan</trName></name>
+      <name><languageId>my</languageId><trName>မြောက်ဆူဒန်</trName></name>
+      <name><languageId>nb</languageId><trName>Sør-Sudan</trName></name>
+      <name><languageId>ne</languageId><trName>दक्षिणी सुडान</trName></name>
+      <name><languageId>nl</languageId><trName>Zuid-Soedan</trName></name>
+      <name><languageId>nn</languageId><trName>Sør-Sudan</trName></name>
+      <name><languageId>or</languageId><trName>ଦକ୍ଷିନ ସୁଦାନ</trName></name>
+      <name><languageId>pa</languageId><trName>ਦੱਖਣੀ ਸੁਡਾਨ</trName></name>
+      <name><languageId>pl</languageId><trName>Sudan Południowy</trName></name>
+      <name><languageId>pt</languageId><trName>Sudão do Sul</trName></name>
+      <name><languageId>ro</languageId><trName>Sudanul de Sud</trName></name>
+      <name><languageId>ru</languageId><trName>Южный Судан</trName></name>
+      <name><languageId>se</languageId><trName>Máttasudan</trName></name>
+      <name><languageId>si</languageId><trName>දකුණු සුඩානය</trName></name>
+      <name><languageId>sk</languageId><trName>Južný Sudán</trName></name>
+      <name><languageId>sl</languageId><trName>Južni Sudan</trName></name>
+      <name><languageId>so</languageId><trName>Koonfur Suudaan</trName></name>
+      <name><languageId>sq</languageId><trName>Sudani i Jugut</trName></name>
+      <name><languageId>sr</languageId><trName>Јужни Судан</trName></name>
+      <name><languageId>sr_Latn</languageId><trName>Južni Sudan</trName></name>
+      <name><languageId>sv</languageId><trName>Sydsudan</trName></name>
+      <name><languageId>sw</languageId><trName>Sudani Kusini</trName></name>
+      <name><languageId>ta</languageId><trName>தெற்கு சூடான்</trName></name>
+      <name><languageId>te</languageId><trName>దక్షిణ సూడాన్</trName></name>
+      <name><languageId>th</languageId><trName>ซูดานใต้</trName></name>
+      <name><languageId>tr</languageId><trName>Güney Sudan</trName></name>
+      <name><languageId>uk</languageId><trName>Південний Судан</trName></name>
+      <name><languageId>ur</languageId><trName>جنوبی سوڈان</trName></name>
+      <name><languageId>uz</languageId><trName>Janubiy Sudan</trName></name>
+      <name><languageId>vi</languageId><trName>Nam Sudan</trName></name>
+      <name><languageId>yo</languageId><trName>Gúúsù Sudan</trName></name>
+      <name><languageId>zh</languageId><trName>南苏丹</trName></name>
+      <name><languageId>zh_Hant</languageId><trName>南蘇丹</trName></name>
+      <name><languageId>zu</languageId><trName>iNingizimu Sudan</trName></name>
+    </names>
+    <locales>
+      <locale><localeId>en_SS.UTF-8</localeId><rank>0</rank></locale>
+    </locales>
+    <languages>
+      <language><languageId>en</languageId><rank>1000</rank></language>
+    </languages>
+    <keyboards>
+      <keyboard><keyboardId>us</keyboardId><rank>1000</rank></keyboard>
+    </keyboards>
+    <inputmethods>
+    </inputmethods>
+    <consolefonts>
+      <consolefont><consolefontId>latarcyrheb-sun16</consolefontId><rank>1000</rank></consolefont>
+    </consolefonts>
+    <timezones>
+      <timezone><timezoneId>Africa/Juba</timezoneId><rank>1000</rank></timezone>
+    </timezones>
+  </territory>
+  <territory>
     <territoryId>SV</territoryId>
     <names>
       <name><languageId>af</languageId><trName>El Salvador</trName></name>
