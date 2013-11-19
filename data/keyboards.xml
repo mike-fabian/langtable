@@ -83,6 +83,89 @@
     </territories>
   </keyboard>
   <keyboard>
+    <keyboardId>ara(azerty_digits)</keyboardId>
+    <description>Arabic (azerty/digits)</description>
+    <ascii>False</ascii>
+    <languages>
+      <language><languageId>ar</languageId><rank>1000</rank></language>
+    </languages>
+    <territories>
+      <territory><territoryId>DZ</territoryId><rank>1000</rank></territory>
+    </territories>
+  </keyboard>
+  <keyboard>
+    <keyboardId>ara(digits)</keyboardId>
+    <description>Arabic (digits)</description>
+    <ascii>False</ascii>
+    <languages>
+      <language><languageId>ar</languageId><rank>1000</rank></language>
+    </languages>
+    <territories>
+      <territory><territoryId>EG</territoryId><rank>400</rank></territory>
+      <territory><territoryId>SD</territoryId><rank>170</rank></territory>
+      <territory><territoryId>SA</territoryId><rank>120</rank></territory>
+      <territory><territoryId>YE</territoryId><rank>110</rank></territory>
+      <territory><territoryId>TN</territoryId><rank>50</rank></territory>
+      <territory><territoryId>LY</territoryId><rank>45</rank></territory>
+      <territory><territoryId>JO</territoryId><rank>40</rank></territory>
+      <territory><territoryId>AE</territoryId><rank>35</rank></territory>
+      <territory><territoryId>LB</territoryId><rank>30</rank></territory>
+      <territory><territoryId>KW</territoryId><rank>25</rank></territory>
+      <territory><territoryId>OM</territoryId><rank>15</rank></territory>
+      <territory><territoryId>QA</territoryId><rank>10</rank></territory>
+      <territory><territoryId>BH</territoryId><rank>9</rank></territory>
+      <territory><territoryId>IN</territoryId><rank>1</rank></territory>
+    </territories>
+  </keyboard>
+  <keyboard>
+    <keyboardId>ara(qwerty)</keyboardId>
+    <description>Arabic (qwerty)</description>
+    <ascii>False</ascii>
+    <languages>
+      <language><languageId>ar</languageId><rank>1000</rank></language>
+    </languages>
+    <territories>
+      <territory><territoryId>EG</territoryId><rank>400</rank></territory>
+      <territory><territoryId>SD</territoryId><rank>170</rank></territory>
+      <territory><territoryId>SA</territoryId><rank>120</rank></territory>
+      <territory><territoryId>YE</territoryId><rank>110</rank></territory>
+      <territory><territoryId>TN</territoryId><rank>50</rank></territory>
+      <territory><territoryId>LY</territoryId><rank>45</rank></territory>
+      <territory><territoryId>JO</territoryId><rank>40</rank></territory>
+      <territory><territoryId>AE</territoryId><rank>35</rank></territory>
+      <territory><territoryId>LB</territoryId><rank>30</rank></territory>
+      <territory><territoryId>KW</territoryId><rank>25</rank></territory>
+      <territory><territoryId>OM</territoryId><rank>15</rank></territory>
+      <territory><territoryId>QA</territoryId><rank>10</rank></territory>
+      <territory><territoryId>BH</territoryId><rank>9</rank></territory>
+      <territory><territoryId>IN</territoryId><rank>1</rank></territory>
+    </territories>
+  </keyboard>
+  <keyboard>
+    <keyboardId>ara(qwerty_digits)</keyboardId>
+    <description>Arabic (qwerty/digits)</description>
+    <ascii>False</ascii>
+    <languages>
+      <language><languageId>ar</languageId><rank>1000</rank></language>
+    </languages>
+    <territories>
+      <territory><territoryId>EG</territoryId><rank>400</rank></territory>
+      <territory><territoryId>SD</territoryId><rank>170</rank></territory>
+      <territory><territoryId>SA</territoryId><rank>120</rank></territory>
+      <territory><territoryId>YE</territoryId><rank>110</rank></territory>
+      <territory><territoryId>TN</territoryId><rank>50</rank></territory>
+      <territory><territoryId>LY</territoryId><rank>45</rank></territory>
+      <territory><territoryId>JO</territoryId><rank>40</rank></territory>
+      <territory><territoryId>AE</territoryId><rank>35</rank></territory>
+      <territory><territoryId>LB</territoryId><rank>30</rank></territory>
+      <territory><territoryId>KW</territoryId><rank>25</rank></territory>
+      <territory><territoryId>OM</territoryId><rank>15</rank></territory>
+      <territory><territoryId>QA</territoryId><rank>10</rank></territory>
+      <territory><territoryId>BH</territoryId><rank>9</rank></territory>
+      <territory><territoryId>IN</territoryId><rank>1</rank></territory>
+    </territories>
+  </keyboard>
+  <keyboard>
     <keyboardId>at(nodeadkeys)</keyboardId>
     <description>German (Austria)</description>
     <ascii>True</ascii>
@@ -166,6 +249,17 @@
     </territories>
   </keyboard>
   <keyboard>
+    <keyboardId>bg(phonetic)</keyboardId>
+    <description>Bulgarian (traditional phonetic)</description>
+    <ascii>False</ascii>
+    <languages>
+      <language><languageId>bg</languageId><rank>1000</rank></language>
+    </languages>
+    <territories>
+      <territory><territoryId>BG</territoryId><rank>1000</rank></territory>
+    </territories>
+  </keyboard>
+  <keyboard>
     <keyboardId>br</keyboardId>
     <description>Portuguese (Brazil)</description>
     <ascii>True</ascii>
@@ -185,6 +279,17 @@
     </languages>
     <territories>
       <territory><territoryId>BT</territoryId><rank>1000</rank></territory>
+    </territories>
+  </keyboard>
+  <keyboard>
+    <keyboardId>by</keyboardId>
+    <description>Belarusian</description>
+    <ascii>False</ascii>
+    <languages>
+      <language><languageId>be</languageId><rank>1000</rank></language>
+    </languages>
+    <territories>
+      <territory><territoryId>BY</territoryId><rank>1000</rank></territory>
     </territories>
   </keyboard>
   <keyboard>
@@ -576,6 +681,28 @@
     </territories>
   </keyboard>
   <keyboard>
+    <keyboardId>in(ben)</keyboardId>
+    <description>Bengali (India)</description>
+    <ascii>False</ascii>
+    <languages>
+      <language><languageId>bn</languageId><rank>1000</rank></language>
+    </languages>
+    <territories>
+      <territory><territoryId>IN</territoryId><rank>1000</rank></territory>
+    </territories>
+  </keyboard>
+  <keyboard>
+    <keyboardId>in(ben_probhat)</keyboardId>
+    <description>Bengali (India, Probhat)</description>
+    <ascii>False</ascii>
+    <languages>
+      <language><languageId>bn</languageId><rank>1000</rank></language>
+    </languages>
+    <territories>
+      <territory><territoryId>IN</territoryId><rank>1000</rank></territory>
+    </territories>
+  </keyboard>
+  <keyboard>
     <keyboardId>in(eng)</keyboardId>
     <description>English (India, with RupeeSign)</description>
     <ascii>True</ascii>
@@ -584,6 +711,65 @@
     </languages>
     <territories>
       <territory><territoryId>IN</territoryId><rank>1000</rank></territory>
+    </territories>
+  </keyboard>
+  <keyboard>
+    <keyboardId>in(guj)</keyboardId>
+    <description>Gujarati</description>
+    <ascii>False</ascii>
+    <languages>
+      <language><languageId>gu</languageId><rank>1000</rank></language>
+    </languages>
+    <territories>
+      <territory><territoryId>IN</territoryId><rank>1000</rank></territory>
+    </territories>
+  </keyboard>
+  <keyboard>
+    <keyboardId>in(guru)</keyboardId>
+    <description>Punjabi (Gurmukhi)</description>
+    <ascii>False</ascii>
+    <languages>
+      <language><languageId>pa</languageId><rank>1000</rank></language>
+    </languages>
+    <territories>
+      <territory><territoryId>IN</territoryId><rank>1000</rank></territory>
+      <territory><territoryId>PK</territoryId><rank>1000</rank></territory>
+    </territories>
+  </keyboard>
+  <keyboard>
+    <keyboardId>in(jhelum)</keyboardId>
+    <description>Punjabi (Gurmukhi Jhelum)</description>
+    <ascii>False</ascii>
+    <languages>
+      <language><languageId>pa</languageId><rank>1000</rank></language>
+    </languages>
+    <territories>
+      <territory><territoryId>IN</territoryId><rank>1000</rank></territory>
+      <territory><territoryId>PK</territoryId><rank>1000</rank></territory>
+    </territories>
+  </keyboard>
+  <keyboard>
+    <keyboardId>in(tam)</keyboardId>
+    <description>Tamil</description>
+    <ascii>False</ascii>
+    <languages>
+      <language><languageId>ta</languageId><rank>1000</rank></language>
+    </languages>
+    <territories>
+      <territory><territoryId>IN</territoryId><rank>1000</rank></territory>
+      <territory><territoryId>LK</territoryId><rank>1000</rank></territory>
+    </territories>
+  </keyboard>
+  <keyboard>
+    <keyboardId>in(tam_TAB)</keyboardId>
+    <description>Tamil (TAB typewriter)	</description>
+    <ascii>False</ascii>
+    <languages>
+      <language><languageId>ta</languageId><rank>1000</rank></language>
+    </languages>
+    <territories>
+      <territory><territoryId>IN</territoryId><rank>1000</rank></territory>
+      <territory><territoryId>LK</territoryId><rank>1000</rank></territory>
     </territories>
   </keyboard>
   <keyboard>
