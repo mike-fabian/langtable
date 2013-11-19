@@ -5,7 +5,7 @@
 %endif
 
 Name:           langtable
-Version:        0.0.19
+Version:        0.0.20
 Release:        1%{?dist}
 Summary:        Guessing reasonable defaults for locale, keyboard layout, territory, and language.
 Group:          Development/Tools
@@ -121,6 +121,9 @@ xmllint --noout --relaxng $RPM_BUILD_ROOT/%{_datadir}/langtable/schemas/territor
 %{_datadir}/langtable/*.xml.gz
 
 %changelog
+* Wed Nov 20 2013 Mike FABIAN <mfabian@redhat.com> - 0.0.20-1
+- add entries for several layouts known to be non-ASCII by systemd/s-c-k (patch by Adam Williamson)
+
 * Mon Nov 11 2013 Mike FABIAN <mfabian@redhat.com> - 0.0.19-1
 - Add SS
 - More translations for anp from CLDR

@@ -1,3 +1,8 @@
+2013-11-20  Mike FABIAN  <mfabian@redhat.com>
+
+	* Version 0.0.20 released
+	* add entries for several layouts known to be non-ASCII by systemd/s-c-k (patch by Adam Williamson)
+
 2013-11-11  Mike FABIAN  <mfabian@redhat.com>
 
 	* Version 0.0.19 released
