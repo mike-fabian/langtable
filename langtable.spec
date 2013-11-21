@@ -5,7 +5,7 @@
 %endif
 
 Name:           langtable
-Version:        0.0.20
+Version:        0.0.21
 Release:        1%{?dist}
 Summary:        Guessing reasonable defaults for locale, keyboard layout, territory, and language.
 Group:          Development/Tools
@@ -121,6 +121,9 @@ xmllint --noout --relaxng $RPM_BUILD_ROOT/%{_datadir}/langtable/schemas/territor
 %{_datadir}/langtable/*.xml.gz
 
 %changelog
+* Thu Nov 21 2013 Mike FABIAN <mfabian@redhat.com> - 0.0.21-1
+- Make America/New_York the highest ranked timezone for US and yi (Resolves: rhbz#1031319)
+
 * Wed Nov 20 2013 Mike FABIAN <mfabian@redhat.com> - 0.0.20-1
 - add entries for several layouts known to be non-ASCII by systemd/s-c-k (patch by Adam Williamson)
 
