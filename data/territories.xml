@@ -18991,13 +18991,13 @@
       <consolefont><consolefontId>latarcyrheb-sun16</consolefontId><rank>1000</rank></consolefont>
     </consolefonts>
     <timezones>
-      <timezone><timezoneId>America/Anchorage</timezoneId><rank>1000</rank></timezone>
-      <timezone><timezoneId>America/Chicago</timezoneId><rank>1000</rank></timezone>
-      <timezone><timezoneId>America/Denver</timezoneId><rank>1000</rank></timezone>
-      <timezone><timezoneId>America/Los_Angeles</timezoneId><rank>1000</rank></timezone>
-      <timezone><timezoneId>America/New_York</timezoneId><rank>1000</rank></timezone>
-      <timezone><timezoneId>America/Phoenix</timezoneId><rank>1000</rank></timezone>
-      <timezone><timezoneId>Pacific/Honolulu</timezoneId><rank>1000</rank></timezone>
+      <timezone><timezoneId>America/New_York</timezoneId><rank>900</rank></timezone>
+      <timezone><timezoneId>America/Chicago</timezoneId><rank>890</rank></timezone>
+      <timezone><timezoneId>America/Denver</timezoneId><rank>880</rank></timezone>
+      <timezone><timezoneId>America/Los_Angeles</timezoneId><rank>870</rank></timezone>
+      <timezone><timezoneId>Pacific/Honolulu</timezoneId><rank>860</rank></timezone>
+      <timezone><timezoneId>America/Anchorage</timezoneId><rank>850</rank></timezone>
+      <timezone><timezoneId>America/Phoenix</timezoneId><rank>840</rank></timezone>
       <timezone><timezoneId>America/Adak</timezoneId><rank>1</rank></timezone>
       <timezone><timezoneId>America/Boise</timezoneId><rank>1</rank></timezone>
       <timezone><timezoneId>America/Detroit</timezoneId><rank>1</rank></timezone>
