@@ -15,6 +15,39 @@
     </territories>
   </keyboard>
   <keyboard>
+    <keyboardId>af</keyboardId>
+    <description>Afghani</description>
+    <ascii>False</ascii>
+    <languages>
+      <language><languageId>fa</languageId><rank>0</rank></language>
+    </languages>
+    <territories>
+      <territory><territoryId>AF</territoryId><rank>0</rank></territory>
+    </territories>
+  </keyboard>
+  <keyboard>
+    <keyboardId>af(fa-olpc)</keyboardId>
+    <description>Persian (Afghanistan, Dari OLPC)</description>
+    <ascii>False</ascii>
+    <languages>
+      <language><languageId>fa</languageId><rank>0</rank></language>
+    </languages>
+    <territories>
+      <territory><territoryId>AF</territoryId><rank>0</rank></territory>
+    </territories>
+  </keyboard>
+  <keyboard>
+    <keyboardId>af(olpc-ps)</keyboardId>
+    <description>Pashto (Afghanistan, OLPC)</description>
+    <ascii>False</ascii>
+    <languages>
+      <language><languageId>ps</languageId><rank>0</rank></language>
+    </languages>
+    <territories>
+      <territory><territoryId>AF</territoryId><rank>0</rank></territory>
+    </territories>
+  </keyboard>
+  <keyboard>
     <keyboardId>af(ps)</keyboardId>
     <description>Pashto</description>
     <ascii>False</ascii>
@@ -23,6 +56,28 @@
     </languages>
     <territories>
       <territory><territoryId>AF</territoryId><rank>1000</rank></territory>
+    </territories>
+  </keyboard>
+  <keyboard>
+    <keyboardId>af(uz)</keyboardId>
+    <description>Uzbek (Afghanistan)</description>
+    <ascii>False</ascii>
+    <languages>
+      <language><languageId>uz</languageId><rank>0</rank></language>
+    </languages>
+    <territories>
+      <territory><territoryId>AF</territoryId><rank>0</rank></territory>
+    </territories>
+  </keyboard>
+  <keyboard>
+    <keyboardId>af(uz-olpc)</keyboardId>
+    <description>Uzbek (Afghanistan, OLPC)</description>
+    <ascii>False</ascii>
+    <languages>
+      <language><languageId>uz</languageId><rank>0</rank></language>
+    </languages>
+    <territories>
+      <territory><territoryId>AF</territoryId><rank>0</rank></territory>
     </territories>
   </keyboard>
   <keyboard>
@@ -45,6 +100,61 @@
     </languages>
     <territories>
       <territory><territoryId>AM</territoryId><rank>1000</rank></territory>
+    </territories>
+  </keyboard>
+  <keyboard>
+    <keyboardId>am(eastern)</keyboardId>
+    <description>Armenian (eastern)</description>
+    <ascii>False</ascii>
+    <languages>
+      <language><languageId>hy</languageId><rank>0</rank></language>
+    </languages>
+    <territories>
+      <territory><territoryId>AM</territoryId><rank>0</rank></territory>
+    </territories>
+  </keyboard>
+  <keyboard>
+    <keyboardId>am(eastern-alt)</keyboardId>
+    <description>Armenian (alternative eastern)</description>
+    <ascii>False</ascii>
+    <languages>
+      <language><languageId>hy</languageId><rank>0</rank></language>
+    </languages>
+    <territories>
+      <territory><territoryId>AM</territoryId><rank>0</rank></territory>
+    </territories>
+  </keyboard>
+  <keyboard>
+    <keyboardId>am(phonetic)</keyboardId>
+    <description>Armenian (phonetic)</description>
+    <ascii>False</ascii>
+    <languages>
+      <language><languageId>hy</languageId><rank>0</rank></language>
+    </languages>
+    <territories>
+      <territory><territoryId>AM</territoryId><rank>0</rank></territory>
+    </territories>
+  </keyboard>
+  <keyboard>
+    <keyboardId>am(phonetic-alt)</keyboardId>
+    <description>Armenian (alternative phonetic)</description>
+    <ascii>False</ascii>
+    <languages>
+      <language><languageId>hy</languageId><rank>0</rank></language>
+    </languages>
+    <territories>
+      <territory><territoryId>AM</territoryId><rank>0</rank></territory>
+    </territories>
+  </keyboard>
+  <keyboard>
+    <keyboardId>am(western)</keyboardId>
+    <description>Armenian (western)</description>
+    <ascii>False</ascii>
+    <languages>
+      <language><languageId>hy</languageId><rank>0</rank></language>
+    </languages>
+    <territories>
+      <territory><territoryId>AM</territoryId><rank>0</rank></territory>
     </territories>
   </keyboard>
   <keyboard>
@@ -91,6 +201,17 @@
     </languages>
     <territories>
       <territory><territoryId>DZ</territoryId><rank>1000</rank></territory>
+    </territories>
+  </keyboard>
+  <keyboard>
+    <keyboardId>ara(buckwalter)</keyboardId>
+    <description>Arabic (Buckwalter)</description>
+    <ascii>False</ascii>
+    <languages>
+      <language><languageId>ar</languageId><rank>0</rank></language>
+    </languages>
+    <territories>
+      <territory><territoryId>DZ</territoryId><rank>0</rank></territory>
     </territories>
   </keyboard>
   <keyboard>
@@ -212,6 +333,28 @@
     </territories>
   </keyboard>
   <keyboard>
+    <keyboardId>bd</keyboardId>
+    <description>Bengali</description>
+    <ascii>True</ascii>
+    <languages>
+      <language><languageId>bn</languageId><rank>0</rank></language>
+    </languages>
+    <territories>
+      <territory><territoryId>BD</territoryId><rank>0</rank></territory>
+    </territories>
+  </keyboard>
+  <keyboard>
+    <keyboardId>bd(probhat)</keyboardId>
+    <description>Bengali (Probhat)</description>
+    <ascii>True</ascii>
+    <languages>
+      <language><languageId>bn</languageId><rank>0</rank></language>
+    </languages>
+    <territories>
+      <territory><territoryId>BD</territoryId><rank>0</rank></territory>
+    </territories>
+  </keyboard>
+  <keyboard>
     <keyboardId>be</keyboardId>
     <description>Belgian</description>
     <ascii>True</ascii>
@@ -249,6 +392,17 @@
     </territories>
   </keyboard>
   <keyboard>
+    <keyboardId>bg(bas_phonetic)</keyboardId>
+    <description>Bulgarian (new phonetic)</description>
+    <ascii>False</ascii>
+    <languages>
+      <language><languageId>bg</languageId><rank>1000</rank></language>
+    </languages>
+    <territories>
+      <territory><territoryId>BG</territoryId><rank>1000</rank></territory>
+    </territories>
+  </keyboard>
+  <keyboard>
     <keyboardId>bg(phonetic)</keyboardId>
     <description>Bulgarian (traditional phonetic)</description>
     <ascii>False</ascii>
@@ -271,6 +425,33 @@
     </territories>
   </keyboard>
   <keyboard>
+    <keyboardId>brai</keyboardId>
+    <description>Braille</description>
+    <ascii>False</ascii>
+    <languages>
+    </languages>
+    <territories>
+    </territories>
+  </keyboard>
+  <keyboard>
+    <keyboardId>brai(left_hand)</keyboardId>
+    <description>Braille (left hand)</description>
+    <ascii>False</ascii>
+    <languages>
+    </languages>
+    <territories>
+    </territories>
+  </keyboard>
+  <keyboard>
+    <keyboardId>brai(right_hand)</keyboardId>
+    <description>Braille (right hand)</description>
+    <ascii>False</ascii>
+    <languages>
+    </languages>
+    <territories>
+    </territories>
+  </keyboard>
+  <keyboard>
     <keyboardId>bt</keyboardId>
     <description>Dzongkha</description>
     <ascii>False</ascii>
@@ -290,6 +471,17 @@
     </languages>
     <territories>
       <territory><territoryId>BY</territoryId><rank>1000</rank></territory>
+    </territories>
+  </keyboard>
+  <keyboard>
+    <keyboardId>by(legacy)</keyboardId>
+    <description>Belarusian (legacy)</description>
+    <ascii>False</ascii>
+    <languages>
+      <language><languageId>be</languageId><rank>0</rank></language>
+    </languages>
+    <territories>
+      <territory><territoryId>BY</territoryId><rank>0</rank></territory>
     </territories>
   </keyboard>
   <keyboard>
@@ -317,12 +509,32 @@
   <keyboard>
     <keyboardId>ca(ike)</keyboardId>
     <description>Inuktitut</description>
-    <ascii>True</ascii>
+    <ascii>False</ascii>
     <languages>
       <language><languageId>iu</languageId><rank>1000</rank></language>
     </languages>
     <territories>
       <territory><territoryId>CA</territoryId><rank>1000</rank></territory>
+    </territories>
+  </keyboard>
+  <keyboard>
+    <keyboardId>ca(multi)</keyboardId>
+    <description>Canadian Multilingual (first part)</description>
+    <ascii>True</ascii>
+    <languages>
+    </languages>
+    <territories>
+      <territory><territoryId>CA</territoryId><rank>0</rank></territory>
+    </territories>
+  </keyboard>
+  <keyboard>
+    <keyboardId>ca(multi-2gr)</keyboardId>
+    <description>Canadian Multilingual (second part)</description>
+    <ascii>False</ascii>
+    <languages>
+    </languages>
+    <territories>
+      <territory><territoryId>CA</territoryId><rank>0</rank></territory>
     </territories>
   </keyboard>
   <keyboard>
@@ -376,6 +588,28 @@
     </territories>
   </keyboard>
   <keyboard>
+    <keyboardId>cn(tib)</keyboardId>
+    <description>Tibetan</description>
+    <ascii>False</ascii>
+    <languages>
+      <language><languageId>bo</languageId><rank>0</rank></language>
+    </languages>
+    <territories>
+      <territory><territoryId>CN</territoryId><rank>0</rank></territory>
+    </territories>
+  </keyboard>
+  <keyboard>
+    <keyboardId>cn(tib_asciinum)</keyboardId>
+    <description>Tibetan (with ASCII numerals)</description>
+    <ascii>False</ascii>
+    <languages>
+      <language><languageId>bo</languageId><rank>0</rank></language>
+    </languages>
+    <territories>
+      <territory><territoryId>CN</territoryId><rank>0</rank></territory>
+    </territories>
+  </keyboard>
+  <keyboard>
     <keyboardId>cn(uig)</keyboardId>
     <description>Uyghur</description>
     <ascii>False</ascii>
@@ -395,6 +629,17 @@
     </languages>
     <territories>
       <territory><territoryId>CZ</territoryId><rank>1000</rank></territory>
+    </territories>
+  </keyboard>
+  <keyboard>
+    <keyboardId>cz(ucw)</keyboardId>
+    <description>Czech (UCW layout, accented letters only)</description>
+    <ascii>False</ascii>
+    <languages>
+      <language><languageId>cs</languageId><rank>0</rank></language>
+    </languages>
+    <territories>
+      <territory><territoryId>CZ</territoryId><rank>0</rank></territory>
     </territories>
   </keyboard>
   <keyboard>
@@ -431,6 +676,17 @@
     <territories>
       <territory><territoryId>DE</territoryId><rank>900</rank></territory>
       <territory><territoryId>LU</territoryId><rank>100</rank></territory>
+    </territories>
+  </keyboard>
+  <keyboard>
+    <keyboardId>de(ru)</keyboardId>
+    <description>Russian (Germany, phonetic)</description>
+    <ascii>False</ascii>
+    <languages>
+      <language><languageId>ru</languageId><rank>0</rank></language>
+    </languages>
+    <territories>
+      <territory><territoryId>DE</territoryId><rank>0</rank></territory>
     </territories>
   </keyboard>
   <keyboard>
@@ -554,6 +810,17 @@
     </territories>
   </keyboard>
   <keyboard>
+    <keyboardId>fr(geo)</keyboardId>
+    <description>Georgian (France, AZERTY Tskapo)</description>
+    <ascii>False</ascii>
+    <languages>
+      <language><languageId>ka</languageId><rank>0</rank></language>
+    </languages>
+    <territories>
+      <territory><territoryId>FR</territoryId><rank>0</rank></territory>
+    </territories>
+  </keyboard>
+  <keyboard>
     <keyboardId>fr(latin9)</keyboardId>
     <description>French (legacy alternative)</description>
     <ascii>True</ascii>
@@ -603,6 +870,17 @@
     </territories>
   </keyboard>
   <keyboard>
+    <keyboardId>ge(os)</keyboardId>
+    <description>Ossetian (Georgia)</description>
+    <ascii>False</ascii>
+    <languages>
+      <language><languageId>os</languageId><rank>0</rank></language>
+    </languages>
+    <territories>
+      <territory><territoryId>GE</territoryId><rank>0</rank></territory>
+    </territories>
+  </keyboard>
+  <keyboard>
     <keyboardId>gr</keyboardId>
     <description>Greek</description>
     <ascii>False</ascii>
@@ -612,6 +890,50 @@
     <territories>
       <territory><territoryId>GR</territoryId><rank>900</rank></territory>
       <territory><territoryId>CY</territoryId><rank>100</rank></territory>
+    </territories>
+  </keyboard>
+  <keyboard>
+    <keyboardId>gr(extended)</keyboardId>
+    <description>Greek (extended)</description>
+    <ascii>False</ascii>
+    <languages>
+      <language><languageId>el</languageId><rank>0</rank></language>
+    </languages>
+    <territories>
+      <territory><territoryId>GR</territoryId><rank>0</rank></territory>
+    </territories>
+  </keyboard>
+  <keyboard>
+    <keyboardId>gr(nodeadkeys)</keyboardId>
+    <description>Greek (eliminate dead keys)</description>
+    <ascii>False</ascii>
+    <languages>
+      <language><languageId>el</languageId><rank>0</rank></language>
+    </languages>
+    <territories>
+      <territory><territoryId>GR</territoryId><rank>0</rank></territory>
+    </territories>
+  </keyboard>
+  <keyboard>
+    <keyboardId>gr(polytonic)</keyboardId>
+    <description>Greek (polytonic)</description>
+    <ascii>False</ascii>
+    <languages>
+      <language><languageId>el</languageId><rank>0</rank></language>
+    </languages>
+    <territories>
+      <territory><territoryId>GR</territoryId><rank>0</rank></territory>
+    </territories>
+  </keyboard>
+  <keyboard>
+    <keyboardId>gr(simple)</keyboardId>
+    <description>Greek (simple)</description>
+    <ascii>False</ascii>
+    <languages>
+      <language><languageId>el</languageId><rank>0</rank></language>
+    </languages>
+    <territories>
+      <territory><territoryId>GR</territoryId><rank>0</rank></territory>
     </territories>
   </keyboard>
   <keyboard>
@@ -659,6 +981,16 @@
     </territories>
   </keyboard>
   <keyboard>
+    <keyboardId>ie(ogam)</keyboardId>
+    <description>Ogham</description>
+    <ascii>True</ascii>
+    <languages>
+    </languages>
+    <territories>
+      <territory><territoryId>IE</territoryId><rank>0</rank></territory>
+    </territories>
+  </keyboard>
+  <keyboard>
     <keyboardId>il</keyboardId>
     <description>Hebrew</description>
     <ascii>False</ascii>
@@ -667,6 +999,17 @@
     </languages>
     <territories>
       <territory><territoryId>IL</territoryId><rank>1000</rank></territory>
+    </territories>
+  </keyboard>
+  <keyboard>
+    <keyboardId>il(biblical)</keyboardId>
+    <description>Hebrew (Biblical, Tiro)</description>
+    <ascii>False</ascii>
+    <languages>
+      <language><languageId>he</languageId><rank>0</rank></language>
+    </languages>
+    <territories>
+      <territory><territoryId>IL</territoryId><rank>0</rank></territory>
     </territories>
   </keyboard>
   <keyboard>
@@ -681,6 +1024,28 @@
     </territories>
   </keyboard>
   <keyboard>
+    <keyboardId>il(phonetic)</keyboardId>
+    <description>Hebrew (phonetic)</description>
+    <ascii>False</ascii>
+    <languages>
+      <language><languageId>he</languageId><rank>0</rank></language>
+    </languages>
+    <territories>
+      <territory><territoryId>IL</territoryId><rank>0</rank></territory>
+    </territories>
+  </keyboard>
+  <keyboard>
+    <keyboardId>in</keyboardId>
+    <description>Indian</description>
+    <ascii>False</ascii>
+    <languages>
+      <language><languageId>hi</languageId><rank>0</rank></language>
+    </languages>
+    <territories>
+      <territory><territoryId>IN</territoryId><rank>0</rank></territory>
+    </territories>
+  </keyboard>
+  <keyboard>
     <keyboardId>in(ben)</keyboardId>
     <description>Bengali (India)</description>
     <ascii>False</ascii>
@@ -692,6 +1057,50 @@
     </territories>
   </keyboard>
   <keyboard>
+    <keyboardId>in(ben_baishakhi)</keyboardId>
+    <description>Bengali (India, Baishakhi)</description>
+    <ascii>False</ascii>
+    <languages>
+      <language><languageId>bn</languageId><rank>0</rank></language>
+    </languages>
+    <territories>
+      <territory><territoryId>IN</territoryId><rank>0</rank></territory>
+    </territories>
+  </keyboard>
+  <keyboard>
+    <keyboardId>in(ben_bornona)</keyboardId>
+    <description>Bengali (India, Bornona)</description>
+    <ascii>False</ascii>
+    <languages>
+      <language><languageId>bn</languageId><rank>0</rank></language>
+    </languages>
+    <territories>
+      <territory><territoryId>IN</territoryId><rank>0</rank></territory>
+    </territories>
+  </keyboard>
+  <keyboard>
+    <keyboardId>in(ben_gitanjali)</keyboardId>
+    <description>Bengali (India, Uni Gitanjali)</description>
+    <ascii>False</ascii>
+    <languages>
+      <language><languageId>bn</languageId><rank>0</rank></language>
+    </languages>
+    <territories>
+      <territory><territoryId>IN</territoryId><rank>0</rank></territory>
+    </territories>
+  </keyboard>
+  <keyboard>
+    <keyboardId>in(ben_inscript)</keyboardId>
+    <description>Bengali (India, Baishakhi Inscript)</description>
+    <ascii>False</ascii>
+    <languages>
+      <language><languageId>bn</languageId><rank>0</rank></language>
+    </languages>
+    <territories>
+      <territory><territoryId>IN</territoryId><rank>0</rank></territory>
+    </territories>
+  </keyboard>
+  <keyboard>
     <keyboardId>in(ben_probhat)</keyboardId>
     <description>Bengali (India, Probhat)</description>
     <ascii>False</ascii>
@@ -700,6 +1109,28 @@
     </languages>
     <territories>
       <territory><territoryId>IN</territoryId><rank>1000</rank></territory>
+    </territories>
+  </keyboard>
+  <keyboard>
+    <keyboardId>in(bolnagri)</keyboardId>
+    <description>Hindi (Bolnagri)</description>
+    <ascii>False</ascii>
+    <languages>
+      <language><languageId>hi</languageId><rank>0</rank></language>
+    </languages>
+    <territories>
+      <territory><territoryId>IN</territoryId><rank>0</rank></territory>
+    </territories>
+  </keyboard>
+  <keyboard>
+    <keyboardId>in(deva)</keyboardId>
+    <description>Indian</description>
+    <ascii>False</ascii>
+    <languages>
+      <language><languageId>hi</languageId><rank>0</rank></language>
+    </languages>
+    <territories>
+      <territory><territoryId>IN</territoryId><rank>0</rank></territory>
     </territories>
   </keyboard>
   <keyboard>
@@ -737,6 +1168,28 @@
     </territories>
   </keyboard>
   <keyboard>
+    <keyboardId>in(hin-kagapa)</keyboardId>
+    <description>Hindi (KaGaPa phonetic)</description>
+    <ascii>False</ascii>
+    <languages>
+      <language><languageId>hi</languageId><rank>0</rank></language>
+    </languages>
+    <territories>
+      <territory><territoryId>IN</territoryId><rank>0</rank></territory>
+    </territories>
+  </keyboard>
+  <keyboard>
+    <keyboardId>in(hin-wx)</keyboardId>
+    <description>Hindi (Wx)</description>
+    <ascii>False</ascii>
+    <languages>
+      <language><languageId>hi</languageId><rank>0</rank></language>
+    </languages>
+    <territories>
+      <territory><territoryId>IN</territoryId><rank>0</rank></territory>
+    </territories>
+  </keyboard>
+  <keyboard>
     <keyboardId>in(jhelum)</keyboardId>
     <description>Punjabi (Gurmukhi Jhelum)</description>
     <ascii>False</ascii>
@@ -746,6 +1199,94 @@
     <territories>
       <territory><territoryId>IN</territoryId><rank>1000</rank></territory>
       <territory><territoryId>PK</territoryId><rank>1000</rank></territory>
+    </territories>
+  </keyboard>
+  <keyboard>
+    <keyboardId>in(kan)</keyboardId>
+    <description>Kannada</description>
+    <ascii>False</ascii>
+    <languages>
+      <language><languageId>kn</languageId><rank>0</rank></language>
+    </languages>
+    <territories>
+      <territory><territoryId>IN</territoryId><rank>0</rank></territory>
+    </territories>
+  </keyboard>
+  <keyboard>
+    <keyboardId>in(kan-kagapa)</keyboardId>
+    <description>Kannada (KaGaPa phonetic)</description>
+    <ascii>False</ascii>
+    <languages>
+      <language><languageId>kn</languageId><rank>0</rank></language>
+    </languages>
+    <territories>
+      <territory><territoryId>IN</territoryId><rank>0</rank></territory>
+    </territories>
+  </keyboard>
+  <keyboard>
+    <keyboardId>in(mal)</keyboardId>
+    <description>Malayalam</description>
+    <ascii>False</ascii>
+    <languages>
+      <language><languageId>ml</languageId><rank>0</rank></language>
+    </languages>
+    <territories>
+      <territory><territoryId>IN</territoryId><rank>0</rank></territory>
+    </territories>
+  </keyboard>
+  <keyboard>
+    <keyboardId>in(mal_enhanced)</keyboardId>
+    <description>Malayalam (enhanced Inscript with Rupee Sign)</description>
+    <ascii>False</ascii>
+    <languages>
+      <language><languageId>ml</languageId><rank>0</rank></language>
+    </languages>
+    <territories>
+      <territory><territoryId>IN</territoryId><rank>0</rank></territory>
+    </territories>
+  </keyboard>
+  <keyboard>
+    <keyboardId>in(mal_lalitha)</keyboardId>
+    <description>Malayalam (Lalitha)</description>
+    <ascii>False</ascii>
+    <languages>
+      <language><languageId>ml</languageId><rank>0</rank></language>
+    </languages>
+    <territories>
+      <territory><territoryId>IN</territoryId><rank>0</rank></territory>
+    </territories>
+  </keyboard>
+  <keyboard>
+    <keyboardId>in(mar-kagapa)</keyboardId>
+    <description>Marathi (KaGaPa phonetic)</description>
+    <ascii>False</ascii>
+    <languages>
+      <language><languageId>mr</languageId><rank>0</rank></language>
+    </languages>
+    <territories>
+      <territory><territoryId>IN</territoryId><rank>0</rank></territory>
+    </territories>
+  </keyboard>
+  <keyboard>
+    <keyboardId>in(ori)</keyboardId>
+    <description>Oriya</description>
+    <ascii>False</ascii>
+    <languages>
+      <language><languageId>or</languageId><rank>0</rank></language>
+    </languages>
+    <territories>
+      <territory><territoryId>IN</territoryId><rank>0</rank></territory>
+    </territories>
+  </keyboard>
+  <keyboard>
+    <keyboardId>in(san-kagapa)</keyboardId>
+    <description>Sanskrit (KaGaPa phonetic)</description>
+    <ascii>False</ascii>
+    <languages>
+      <language><languageId>sa</languageId><rank>0</rank></language>
+    </languages>
+    <territories>
+      <territory><territoryId>IN</territoryId><rank>0</rank></territory>
     </territories>
   </keyboard>
   <keyboard>
@@ -770,6 +1311,83 @@
     <territories>
       <territory><territoryId>IN</territoryId><rank>1000</rank></territory>
       <territory><territoryId>LK</territoryId><rank>1000</rank></territory>
+    </territories>
+  </keyboard>
+  <keyboard>
+    <keyboardId>in(tam_TSCII)</keyboardId>
+    <description>Tamil (TSCII typewriter)</description>
+    <ascii>False</ascii>
+    <languages>
+      <language><languageId>ta</languageId><rank>0</rank></language>
+    </languages>
+    <territories>
+      <territory><territoryId>IN</territoryId><rank>0</rank></territory>
+    </territories>
+  </keyboard>
+  <keyboard>
+    <keyboardId>in(tam_keyboard_with_numerals)</keyboardId>
+    <description>Tamil</description>
+    <ascii>False</ascii>
+    <languages>
+      <language><languageId>ta</languageId><rank>0</rank></language>
+    </languages>
+    <territories>
+      <territory><territoryId>IN</territoryId><rank>0</rank></territory>
+    </territories>
+  </keyboard>
+  <keyboard>
+    <keyboardId>in(tam_unicode)</keyboardId>
+    <description>Tamil (Unicode)</description>
+    <ascii>False</ascii>
+    <languages>
+      <language><languageId>ta</languageId><rank>0</rank></language>
+    </languages>
+    <territories>
+      <territory><territoryId>IN</territoryId><rank>0</rank></territory>
+    </territories>
+  </keyboard>
+  <keyboard>
+    <keyboardId>in(tel)</keyboardId>
+    <description>Telugu</description>
+    <ascii>False</ascii>
+    <languages>
+      <language><languageId>te</languageId><rank>0</rank></language>
+    </languages>
+    <territories>
+      <territory><territoryId>IN</territoryId><rank>0</rank></territory>
+    </territories>
+  </keyboard>
+  <keyboard>
+    <keyboardId>in(tel-kagapa)</keyboardId>
+    <description>Telugu (KaGaPa phonetic)</description>
+    <ascii>False</ascii>
+    <languages>
+      <language><languageId>te</languageId><rank>0</rank></language>
+    </languages>
+    <territories>
+      <territory><territoryId>IN</territoryId><rank>0</rank></territory>
+    </territories>
+  </keyboard>
+  <keyboard>
+    <keyboardId>in(urd-phonetic)</keyboardId>
+    <description>Urdu (phonetic)</description>
+    <ascii>False</ascii>
+    <languages>
+      <language><languageId>ur</languageId><rank>0</rank></language>
+    </languages>
+    <territories>
+      <territory><territoryId>IN</territoryId><rank>0</rank></territory>
+    </territories>
+  </keyboard>
+  <keyboard>
+    <keyboardId>in(urd-phonetic3)</keyboardId>
+    <description>Urdu (alternative phonetic)</description>
+    <ascii>False</ascii>
+    <languages>
+      <language><languageId>ur</languageId><rank>0</rank></language>
+    </languages>
+    <territories>
+      <territory><territoryId>IN</territoryId><rank>0</rank></territory>
     </territories>
   </keyboard>
   <keyboard>
@@ -806,6 +1424,17 @@
     </territories>
   </keyboard>
   <keyboard>
+    <keyboardId>ir(pes_keypad)</keyboardId>
+    <description>Persian (with Persian Keypad)</description>
+    <ascii>False</ascii>
+    <languages>
+      <language><languageId>fa</languageId><rank>0</rank></language>
+    </languages>
+    <territories>
+      <territory><territoryId>IR</territoryId><rank>0</rank></territory>
+    </territories>
+  </keyboard>
+  <keyboard>
     <keyboardId>it</keyboardId>
     <description>Italian</description>
     <ascii>True</ascii>
@@ -828,6 +1457,28 @@
     </territories>
   </keyboard>
   <keyboard>
+    <keyboardId>jp(kana)</keyboardId>
+    <description>Japanese (Kana)</description>
+    <ascii>False</ascii>
+    <languages>
+      <language><languageId>ja</languageId><rank>0</rank></language>
+    </languages>
+    <territories>
+      <territory><territoryId>JP</territoryId><rank>0</rank></territory>
+    </territories>
+  </keyboard>
+  <keyboard>
+    <keyboardId>jp(mac)</keyboardId>
+    <description>Japanese (Macintosh)</description>
+    <ascii>False</ascii>
+    <languages>
+      <language><languageId>ja</languageId><rank>0</rank></language>
+    </languages>
+    <territories>
+      <territory><territoryId>JP</territoryId><rank>0</rank></territory>
+    </territories>
+  </keyboard>
+  <keyboard>
     <keyboardId>ke</keyboardId>
     <description>Swahili (Kenya)</description>
     <ascii>True</ascii>
@@ -841,12 +1492,23 @@
   <keyboard>
     <keyboardId>kg</keyboardId>
     <description>Kyrgyz</description>
-    <ascii>True</ascii>
+    <ascii>False</ascii>
     <languages>
       <language><languageId>ky</languageId><rank>1000</rank></language>
     </languages>
     <territories>
       <territory><territoryId>KG</territoryId><rank>1000</rank></territory>
+    </territories>
+  </keyboard>
+  <keyboard>
+    <keyboardId>kg(phonetic)</keyboardId>
+    <description>Kyrgyz (phonetic)</description>
+    <ascii>False</ascii>
+    <languages>
+      <language><languageId>ky</languageId><rank>0</rank></language>
+    </languages>
+    <territories>
+      <territory><territoryId>KG</territoryId><rank>0</rank></territory>
     </territories>
   </keyboard>
   <keyboard>
@@ -883,6 +1545,28 @@
     </territories>
   </keyboard>
   <keyboard>
+    <keyboardId>kz(kazrus)</keyboardId>
+    <description>Kazakh (with Russian)</description>
+    <ascii>False</ascii>
+    <languages>
+      <language><languageId>kk</languageId><rank>0</rank></language>
+    </languages>
+    <territories>
+      <territory><territoryId>KZ</territoryId><rank>0</rank></territory>
+    </territories>
+  </keyboard>
+  <keyboard>
+    <keyboardId>kz(ruskaz)</keyboardId>
+    <description>Russian (Kazakhstan, with Kazakh)</description>
+    <ascii>False</ascii>
+    <languages>
+      <language><languageId>ru</languageId><rank>0</rank></language>
+    </languages>
+    <territories>
+      <territory><territoryId>KZ</territoryId><rank>0</rank></territory>
+    </territories>
+  </keyboard>
+  <keyboard>
     <keyboardId>la</keyboardId>
     <description>Lao</description>
     <ascii>False</ascii>
@@ -891,6 +1575,17 @@
     </languages>
     <territories>
       <territory><territoryId>LA</territoryId><rank>1000</rank></territory>
+    </territories>
+  </keyboard>
+  <keyboard>
+    <keyboardId>la(stea)</keyboardId>
+    <description>Lao (STEA proposed standard layout)</description>
+    <ascii>False</ascii>
+    <languages>
+      <language><languageId>lo</languageId><rank>0</rank></language>
+    </languages>
+    <territories>
+      <territory><territoryId>LA</territoryId><rank>0</rank></territory>
     </territories>
   </keyboard>
   <keyboard>
@@ -922,6 +1617,39 @@
       <territory><territoryId>US</territoryId><rank>1000</rank></territory>
       <territory><territoryId>UY</territoryId><rank>1000</rank></territory>
       <territory><territoryId>VE</territoryId><rank>1000</rank></territory>
+    </territories>
+  </keyboard>
+  <keyboard>
+    <keyboardId>lk</keyboardId>
+    <description>Sinhala</description>
+    <ascii>False</ascii>
+    <languages>
+      <language><languageId>si</languageId><rank>0</rank></language>
+    </languages>
+    <territories>
+      <territory><territoryId>LK</territoryId><rank>0</rank></territory>
+    </territories>
+  </keyboard>
+  <keyboard>
+    <keyboardId>lk(tam_TAB)</keyboardId>
+    <description>Tamil (Sri Lanka, TAB Typewriter)</description>
+    <ascii>False</ascii>
+    <languages>
+      <language><languageId>ta</languageId><rank>0</rank></language>
+    </languages>
+    <territories>
+      <territory><territoryId>LK</territoryId><rank>0</rank></territory>
+    </territories>
+  </keyboard>
+  <keyboard>
+    <keyboardId>lk(tam_unicode)</keyboardId>
+    <description>Tamil (Sri Lanka, Unicode)</description>
+    <ascii>False</ascii>
+    <languages>
+      <language><languageId>ta</languageId><rank>0</rank></language>
+    </languages>
+    <territories>
+      <territory><territoryId>LK</territoryId><rank>0</rank></territory>
     </territories>
   </keyboard>
   <keyboard>
@@ -980,8 +1708,118 @@
     </territories>
   </keyboard>
   <keyboard>
+    <keyboardId>ma(tifinagh-alt)</keyboardId>
+    <description>Berber (Morocco, Tifinagh alternative)</description>
+    <ascii>False</ascii>
+    <languages>
+      <language><languageId>ber</languageId><rank>0</rank></language>
+    </languages>
+    <territories>
+      <territory><territoryId>MA</territoryId><rank>0</rank></territory>
+    </territories>
+  </keyboard>
+  <keyboard>
+    <keyboardId>ma(tifinagh-alt-phonetic)</keyboardId>
+    <description>Berber (Morocco, Tifinagh alternative phonetic)</description>
+    <ascii>False</ascii>
+    <languages>
+      <language><languageId>ber</languageId><rank>0</rank></language>
+    </languages>
+    <territories>
+      <territory><territoryId>MA</territoryId><rank>0</rank></territory>
+    </territories>
+  </keyboard>
+  <keyboard>
+    <keyboardId>ma(tifinagh-extended)</keyboardId>
+    <description>Berber (Morocco, Tifinagh extended)</description>
+    <ascii>False</ascii>
+    <languages>
+      <language><languageId>ber</languageId><rank>0</rank></language>
+    </languages>
+    <territories>
+      <territory><territoryId>MA</territoryId><rank>0</rank></territory>
+    </territories>
+  </keyboard>
+  <keyboard>
+    <keyboardId>ma(tifinagh-extended-phonetic)</keyboardId>
+    <description>Berber (Morocco, Tifinagh extended phonetic)</description>
+    <ascii>False</ascii>
+    <languages>
+      <language><languageId>ber</languageId><rank>0</rank></language>
+    </languages>
+    <territories>
+      <territory><territoryId>MA</territoryId><rank>0</rank></territory>
+    </territories>
+  </keyboard>
+  <keyboard>
+    <keyboardId>ma(tifinagh-phonetic)</keyboardId>
+    <description>Berber (Morocco, Tifinagh phonetic)</description>
+    <ascii>False</ascii>
+    <languages>
+      <language><languageId>ber</languageId><rank>0</rank></language>
+    </languages>
+    <territories>
+      <territory><territoryId>MA</territoryId><rank>0</rank></territory>
+    </territories>
+  </keyboard>
+  <keyboard>
+    <keyboardId>me</keyboardId>
+    <description>Montenegrin</description>
+    <ascii>True</ascii>
+    <languages>
+      <language><languageId>rs</languageId><rank>0</rank></language>
+    </languages>
+    <territories>
+      <territory><territoryId>ME</territoryId><rank>0</rank></territory>
+    </territories>
+  </keyboard>
+  <keyboard>
+    <keyboardId>me(cyrillic)</keyboardId>
+    <description>Montenegrin (Cyrillic)</description>
+    <ascii>False</ascii>
+    <languages>
+      <language><languageId>rs</languageId><rank>0</rank></language>
+    </languages>
+    <territories>
+      <territory><territoryId>ME</territoryId><rank>0</rank></territory>
+    </territories>
+  </keyboard>
+  <keyboard>
+    <keyboardId>me(cyrillicalternatequotes)</keyboardId>
+    <description>Montenegrin (Cyrillic with guillemets)</description>
+    <ascii>False</ascii>
+    <languages>
+      <language><languageId>rs</languageId><rank>0</rank></language>
+    </languages>
+    <territories>
+      <territory><territoryId>ME</territoryId><rank>0</rank></territory>
+    </territories>
+  </keyboard>
+  <keyboard>
+    <keyboardId>me(cyrillicyz)</keyboardId>
+    <description>Montenegrin (Cyrillic, Z and ZHE swapped)</description>
+    <ascii>False</ascii>
+    <languages>
+      <language><languageId>rs</languageId><rank>0</rank></language>
+    </languages>
+    <territories>
+      <territory><territoryId>ME</territoryId><rank>0</rank></territory>
+    </territories>
+  </keyboard>
+  <keyboard>
     <keyboardId>mk</keyboardId>
     <description>Macedonian</description>
+    <ascii>False</ascii>
+    <languages>
+      <language><languageId>mk</languageId><rank>1000</rank></language>
+    </languages>
+    <territories>
+      <territory><territoryId>MK</territoryId><rank>1000</rank></territory>
+    </territories>
+  </keyboard>
+  <keyboard>
+    <keyboardId>mk(nodeadkeys)</keyboardId>
+    <description>Macedonian (eliminate dead keys)</description>
     <ascii>False</ascii>
     <languages>
       <language><languageId>mk</languageId><rank>1000</rank></language>
@@ -1126,6 +1964,61 @@
     </territories>
   </keyboard>
   <keyboard>
+    <keyboardId>ph(capewell-dvorak-bay)</keyboardId>
+    <description>Filipino (Capewell-Dvorak Baybayin)</description>
+    <ascii>False</ascii>
+    <languages>
+      <language><languageId>fil</languageId><rank>0</rank></language>
+    </languages>
+    <territories>
+      <territory><territoryId>PH</territoryId><rank>0</rank></territory>
+    </territories>
+  </keyboard>
+  <keyboard>
+    <keyboardId>ph(capewell-qwerf2k6-bay)</keyboardId>
+    <description>Filipino (Capewell-QWERF 2006 Baybayin)</description>
+    <ascii>False</ascii>
+    <languages>
+      <language><languageId>fil</languageId><rank>0</rank></language>
+    </languages>
+    <territories>
+      <territory><territoryId>PH</territoryId><rank>0</rank></territory>
+    </territories>
+  </keyboard>
+  <keyboard>
+    <keyboardId>ph(colemak-bay)</keyboardId>
+    <description>Filipino (Colemak Baybayin)</description>
+    <ascii>False</ascii>
+    <languages>
+      <language><languageId>fil</languageId><rank>0</rank></language>
+    </languages>
+    <territories>
+      <territory><territoryId>PH</territoryId><rank>0</rank></territory>
+    </territories>
+  </keyboard>
+  <keyboard>
+    <keyboardId>ph(dvorak-bay)</keyboardId>
+    <description>Filipino (Dvorak Baybayin)</description>
+    <ascii>False</ascii>
+    <languages>
+      <language><languageId>fil</languageId><rank>0</rank></language>
+    </languages>
+    <territories>
+      <territory><territoryId>PH</territoryId><rank>0</rank></territory>
+    </territories>
+  </keyboard>
+  <keyboard>
+    <keyboardId>ph(qwerty-bay)</keyboardId>
+    <description>Filipino (QWERTY Baybayin)</description>
+    <ascii>False</ascii>
+    <languages>
+      <language><languageId>fil</languageId><rank>0</rank></language>
+    </languages>
+    <territories>
+      <territory><territoryId>PH</territoryId><rank>0</rank></territory>
+    </territories>
+  </keyboard>
+  <keyboard>
     <keyboardId>pk</keyboardId>
     <description>Urdu (Pakistan)</description>
     <ascii>False</ascii>
@@ -1134,6 +2027,72 @@
     </languages>
     <territories>
       <territory><territoryId>PK</territoryId><rank>1000</rank></territory>
+    </territories>
+  </keyboard>
+  <keyboard>
+    <keyboardId>pk(ara)</keyboardId>
+    <description>Arabic (Pakistan)</description>
+    <ascii>False</ascii>
+    <languages>
+      <language><languageId>ar</languageId><rank>0</rank></language>
+    </languages>
+    <territories>
+      <territory><territoryId>PK</territoryId><rank>0</rank></territory>
+    </territories>
+  </keyboard>
+  <keyboard>
+    <keyboardId>pk(snd)</keyboardId>
+    <description>Sindhi</description>
+    <ascii>False</ascii>
+    <languages>
+      <language><languageId>sd</languageId><rank>0</rank></language>
+    </languages>
+    <territories>
+      <territory><territoryId>PK</territoryId><rank>0</rank></territory>
+    </territories>
+  </keyboard>
+  <keyboard>
+    <keyboardId>pk(urd-crulp)</keyboardId>
+    <description>Urdu (Pakistan, CRULP)</description>
+    <ascii>False</ascii>
+    <languages>
+      <language><languageId>ur</languageId><rank>0</rank></language>
+    </languages>
+    <territories>
+      <territory><territoryId>PK</territoryId><rank>0</rank></territory>
+    </territories>
+  </keyboard>
+  <keyboard>
+    <keyboardId>pk(urd-nla)</keyboardId>
+    <description>Urdu (Pakistan, NLA)</description>
+    <ascii>False</ascii>
+    <languages>
+      <language><languageId>ur</languageId><rank>0</rank></language>
+    </languages>
+    <territories>
+      <territory><territoryId>PK</territoryId><rank>0</rank></territory>
+    </territories>
+  </keyboard>
+  <keyboard>
+    <keyboardId>pl</keyboardId>
+    <description>Polish</description>
+    <ascii>True</ascii>
+    <languages>
+      <language><languageId>pl</languageId><rank>1000</rank></language>
+    </languages>
+    <territories>
+      <territory><territoryId>PL</territoryId><rank>1000</rank></territory>
+    </territories>
+  </keyboard>
+  <keyboard>
+    <keyboardId>pl(ru_phonetic_dvorak)</keyboardId>
+    <description>Russian (Poland, phonetic Dvorak)</description>
+    <ascii>False</ascii>
+    <languages>
+      <language><languageId>pl</languageId><rank>0</rank></language>
+    </languages>
+    <territories>
+      <territory><territoryId>PL</territoryId><rank>0</rank></territory>
     </territories>
   </keyboard>
   <keyboard>
@@ -1171,6 +2130,17 @@
     </territories>
   </keyboard>
   <keyboard>
+    <keyboardId>rs(alternatequotes)</keyboardId>
+    <description>Serbian (Cyrillic with guillemets)</description>
+    <ascii>False</ascii>
+    <languages>
+      <language><languageId>sr</languageId><rank>0</rank></language>
+    </languages>
+    <territories>
+      <territory><territoryId>RS</territoryId><rank>0</rank></territory>
+    </territories>
+  </keyboard>
+  <keyboard>
     <keyboardId>rs(latin)</keyboardId>
     <description>Serbian (Latin)</description>
     <ascii>True</ascii>
@@ -1180,6 +2150,27 @@
     </languages>
     <territories>
       <territory><territoryId>RS</territoryId><rank>1000</rank></territory>
+    </territories>
+  </keyboard>
+  <keyboard>
+    <keyboardId>rs(rue)</keyboardId>
+    <description>Pannonian Rusyn (homophonic)</description>
+    <ascii>False</ascii>
+    <languages>
+    </languages>
+    <territories>
+      <territory><territoryId>RS</territoryId><rank>0</rank></territory>
+    </territories>
+  </keyboard>
+  <keyboard>
+    <keyboardId>rs(yz)</keyboardId>
+    <description>Serbian (Cyrillic, Z and ZHE swapped)</description>
+    <ascii>False</ascii>
+    <languages>
+      <language><languageId>sr</languageId><rank>0</rank></language>
+    </languages>
+    <territories>
+      <territory><territoryId>RS</territoryId><rank>0</rank></territory>
     </territories>
   </keyboard>
   <keyboard>
@@ -1200,6 +2191,28 @@
     </territories>
   </keyboard>
   <keyboard>
+    <keyboardId>ru(bak)</keyboardId>
+    <description>Bashkirian</description>
+    <ascii>False</ascii>
+    <languages>
+      <language><languageId>ba</languageId><rank>0</rank></language>
+    </languages>
+    <territories>
+      <territory><territoryId>RU</territoryId><rank>0</rank></territory>
+    </territories>
+  </keyboard>
+  <keyboard>
+    <keyboardId>ru(chm)</keyboardId>
+    <description>Mari</description>
+    <ascii>False</ascii>
+    <languages>
+      <language><languageId>chm</languageId><rank>0</rank></language>
+    </languages>
+    <territories>
+      <territory><territoryId>RU</territoryId><rank>0</rank></territory>
+    </territories>
+  </keyboard>
+  <keyboard>
     <keyboardId>ru(cv)</keyboardId>
     <description>Chuvash</description>
     <ascii>False</ascii>
@@ -1208,6 +2221,61 @@
     </languages>
     <territories>
       <territory><territoryId>RU</territoryId><rank>1000</rank></territory>
+    </territories>
+  </keyboard>
+  <keyboard>
+    <keyboardId>ru(dos)</keyboardId>
+    <description>Russian (DOS)</description>
+    <ascii>False</ascii>
+    <languages>
+      <language><languageId>ru</languageId><rank>0</rank></language>
+    </languages>
+    <territories>
+      <territory><territoryId>RU</territoryId><rank>0</rank></territory>
+    </territories>
+  </keyboard>
+  <keyboard>
+    <keyboardId>ru(kom)</keyboardId>
+    <description>Komi</description>
+    <ascii>False</ascii>
+    <languages>
+      <language><languageId>kv</languageId><rank>0</rank></language>
+    </languages>
+    <territories>
+      <territory><territoryId>RU</territoryId><rank>0</rank></territory>
+    </territories>
+  </keyboard>
+  <keyboard>
+    <keyboardId>ru(legacy)</keyboardId>
+    <description>Russian (legacy)</description>
+    <ascii>False</ascii>
+    <languages>
+      <language><languageId>ru</languageId><rank>0</rank></language>
+    </languages>
+    <territories>
+      <territory><territoryId>RU</territoryId><rank>0</rank></territory>
+    </territories>
+  </keyboard>
+  <keyboard>
+    <keyboardId>ru(mac)</keyboardId>
+    <description>Russian (Macintosh)</description>
+    <ascii>False</ascii>
+    <languages>
+      <language><languageId>ru</languageId><rank>0</rank></language>
+    </languages>
+    <territories>
+      <territory><territoryId>RU</territoryId><rank>0</rank></territory>
+    </territories>
+  </keyboard>
+  <keyboard>
+    <keyboardId>ru(os_legacy)</keyboardId>
+    <description>Ossetian (legacy)</description>
+    <ascii>False</ascii>
+    <languages>
+      <language><languageId>os</languageId><rank>0</rank></language>
+    </languages>
+    <territories>
+      <territory><territoryId>RU</territoryId><rank>0</rank></territory>
     </territories>
   </keyboard>
   <keyboard>
@@ -1222,6 +2290,50 @@
     </territories>
   </keyboard>
   <keyboard>
+    <keyboardId>ru(phonetic)</keyboardId>
+    <description>Russian (phonetic)</description>
+    <ascii>False</ascii>
+    <languages>
+      <language><languageId>ru</languageId><rank>0</rank></language>
+    </languages>
+    <territories>
+      <territory><territoryId>RU</territoryId><rank>0</rank></territory>
+    </territories>
+  </keyboard>
+  <keyboard>
+    <keyboardId>ru(phonetic_winkeys)</keyboardId>
+    <description>Russian (phonetic WinKeys)</description>
+    <ascii>False</ascii>
+    <languages>
+      <language><languageId>ru</languageId><rank>0</rank></language>
+    </languages>
+    <territories>
+      <territory><territoryId>RU</territoryId><rank>0</rank></territory>
+    </territories>
+  </keyboard>
+  <keyboard>
+    <keyboardId>ru(sah)</keyboardId>
+    <description>Yakut</description>
+    <ascii>False</ascii>
+    <languages>
+      <language><languageId>sah</languageId><rank>0</rank></language>
+    </languages>
+    <territories>
+      <territory><territoryId>RU</territoryId><rank>0</rank></territory>
+    </territories>
+  </keyboard>
+  <keyboard>
+    <keyboardId>ru(srp)</keyboardId>
+    <description>Serbian (Russia)</description>
+    <ascii>False</ascii>
+    <languages>
+      <language><languageId>sr</languageId><rank>0</rank></language>
+    </languages>
+    <territories>
+      <territory><territoryId>RU</territoryId><rank>0</rank></territory>
+    </territories>
+  </keyboard>
+  <keyboard>
     <keyboardId>ru(tt)</keyboardId>
     <description>Tatar</description>
     <ascii>False</ascii>
@@ -1230,6 +2342,50 @@
     </languages>
     <territories>
       <territory><territoryId>RU</territoryId><rank>1000</rank></territory>
+    </territories>
+  </keyboard>
+  <keyboard>
+    <keyboardId>ru(typewriter)</keyboardId>
+    <description>Russian (typewriter)</description>
+    <ascii>False</ascii>
+    <languages>
+      <language><languageId>ru</languageId><rank>0</rank></language>
+    </languages>
+    <territories>
+      <territory><territoryId>RU</territoryId><rank>0</rank></territory>
+    </territories>
+  </keyboard>
+  <keyboard>
+    <keyboardId>ru(typewriter-legacy)</keyboardId>
+    <description>Russian (typewriter, legacy)</description>
+    <ascii>False</ascii>
+    <languages>
+      <language><languageId>ru</languageId><rank>0</rank></language>
+    </languages>
+    <territories>
+      <territory><territoryId>RU</territoryId><rank>0</rank></territory>
+    </territories>
+  </keyboard>
+  <keyboard>
+    <keyboardId>ru(udm)</keyboardId>
+    <description>Udmurt</description>
+    <ascii>False</ascii>
+    <languages>
+      <language><languageId>udm</languageId><rank>0</rank></language>
+    </languages>
+    <territories>
+      <territory><territoryId>RU</territoryId><rank>0</rank></territory>
+    </territories>
+  </keyboard>
+  <keyboard>
+    <keyboardId>ru(xal)</keyboardId>
+    <description>Kalmyk</description>
+    <ascii>False</ascii>
+    <languages>
+      <language><languageId>xal</languageId><rank>0</rank></language>
+    </languages>
+    <territories>
+      <territory><territoryId>RU</territoryId><rank>0</rank></territory>
     </territories>
   </keyboard>
   <keyboard>
@@ -1252,6 +2408,39 @@
     </languages>
     <territories>
       <territory><territoryId>SE</territoryId><rank>1000</rank></territory>
+    </territories>
+  </keyboard>
+  <keyboard>
+    <keyboardId>se(ru)</keyboardId>
+    <description>Russian (Sweden, phonetic)</description>
+    <ascii>False</ascii>
+    <languages>
+      <language><languageId>ru</languageId><rank>0</rank></language>
+    </languages>
+    <territories>
+      <territory><territoryId>SE</territoryId><rank>0</rank></territory>
+    </territories>
+  </keyboard>
+  <keyboard>
+    <keyboardId>se(rus_nodeadkeys)</keyboardId>
+    <description>Russian (Sweden, phonetic, eliminate dead keys)</description>
+    <ascii>False</ascii>
+    <languages>
+      <language><languageId>ru</languageId><rank>0</rank></language>
+    </languages>
+    <territories>
+      <territory><territoryId>SE</territoryId><rank>0</rank></territory>
+    </territories>
+  </keyboard>
+  <keyboard>
+    <keyboardId>se(swl)</keyboardId>
+    <description>Swedish Sign Language</description>
+    <ascii>False</ascii>
+    <languages>
+      <language><languageId>swl</languageId><rank>0</rank></language>
+    </languages>
+    <territories>
+      <territory><territoryId>SE</territoryId><rank>0</rank></territory>
     </territories>
   </keyboard>
   <keyboard>
@@ -1299,6 +2488,28 @@
     </territories>
   </keyboard>
   <keyboard>
+    <keyboardId>sy(syc)</keyboardId>
+    <description>Syriac</description>
+    <ascii>False</ascii>
+    <languages>
+      <language><languageId>syc</languageId><rank>0</rank></language>
+    </languages>
+    <territories>
+      <territory><territoryId>SY</territoryId><rank>0</rank></territory>
+    </territories>
+  </keyboard>
+  <keyboard>
+    <keyboardId>sy(syc_phonetic)</keyboardId>
+    <description>Syriac (phonetic)</description>
+    <ascii>False</ascii>
+    <languages>
+      <language><languageId>syc</languageId><rank>0</rank></language>
+    </languages>
+    <territories>
+      <territory><territoryId>SY</territoryId><rank>0</rank></territory>
+    </territories>
+  </keyboard>
+  <keyboard>
     <keyboardId>th</keyboardId>
     <description>Thai</description>
     <ascii>False</ascii>
@@ -1340,6 +2551,17 @@
     </languages>
     <territories>
       <territory><territoryId>TJ</territoryId><rank>1000</rank></territory>
+    </territories>
+  </keyboard>
+  <keyboard>
+    <keyboardId>tj(legacy)</keyboardId>
+    <description>Tajik (legacy)</description>
+    <ascii>False</ascii>
+    <languages>
+      <language><languageId>tj</languageId><rank>0</rank></language>
+    </languages>
+    <territories>
+      <territory><territoryId>TJ</territoryId><rank>0</rank></territory>
     </territories>
   </keyboard>
   <keyboard>
@@ -1409,6 +2631,83 @@
     </territories>
   </keyboard>
   <keyboard>
+    <keyboardId>ua(homophonic)</keyboardId>
+    <description>Ukrainian (homophonic)</description>
+    <ascii>False</ascii>
+    <languages>
+      <language><languageId>uk</languageId><rank>0</rank></language>
+    </languages>
+    <territories>
+      <territory><territoryId>UA</territoryId><rank>0</rank></territory>
+    </territories>
+  </keyboard>
+  <keyboard>
+    <keyboardId>ua(legacy)</keyboardId>
+    <description>Ukrainian (legacy)</description>
+    <ascii>False</ascii>
+    <languages>
+      <language><languageId>uk</languageId><rank>0</rank></language>
+    </languages>
+    <territories>
+      <territory><territoryId>UA</territoryId><rank>0</rank></territory>
+    </territories>
+  </keyboard>
+  <keyboard>
+    <keyboardId>ua(phonetic)</keyboardId>
+    <description>Ukrainian (phonetic)</description>
+    <ascii>False</ascii>
+    <languages>
+      <language><languageId>uk</languageId><rank>0</rank></language>
+    </languages>
+    <territories>
+      <territory><territoryId>UA</territoryId><rank>0</rank></territory>
+    </territories>
+  </keyboard>
+  <keyboard>
+    <keyboardId>ua(rstu)</keyboardId>
+    <description>Ukrainian (standard RSTU)</description>
+    <ascii>False</ascii>
+    <languages>
+      <language><languageId>uk</languageId><rank>0</rank></language>
+    </languages>
+    <territories>
+      <territory><territoryId>UA</territoryId><rank>0</rank></territory>
+    </territories>
+  </keyboard>
+  <keyboard>
+    <keyboardId>ua(rstu_ru)</keyboardId>
+    <description>Russian (Ukraine, standard RSTU)</description>
+    <ascii>False</ascii>
+    <languages>
+      <language><languageId>ru</languageId><rank>0</rank></language>
+    </languages>
+    <territories>
+      <territory><territoryId>UA</territoryId><rank>0</rank></territory>
+    </territories>
+  </keyboard>
+  <keyboard>
+    <keyboardId>ua(typewriter)</keyboardId>
+    <description>Ukrainian (typewriter)</description>
+    <ascii>False</ascii>
+    <languages>
+      <language><languageId>uk</languageId><rank>0</rank></language>
+    </languages>
+    <territories>
+      <territory><territoryId>UA</territoryId><rank>0</rank></territory>
+    </territories>
+  </keyboard>
+  <keyboard>
+    <keyboardId>ua(winkeys)</keyboardId>
+    <description>Ukrainian (WinKeys)</description>
+    <ascii>False</ascii>
+    <languages>
+      <language><languageId>uk</languageId><rank>0</rank></language>
+    </languages>
+    <territories>
+      <territory><territoryId>UA</territoryId><rank>0</rank></territory>
+    </territories>
+  </keyboard>
+  <keyboard>
     <keyboardId>us</keyboardId>
     <description>English (US)</description>
     <ascii>True</ascii>
@@ -1453,6 +2752,17 @@
     </territories>
   </keyboard>
   <keyboard>
+    <keyboardId>us(chr)</keyboardId>
+    <description>Cherokee</description>
+    <ascii>False</ascii>
+    <languages>
+      <language><languageId>chr</languageId><rank>0</rank></language>
+    </languages>
+    <territories>
+      <territory><territoryId>US</territoryId><rank>0</rank></territory>
+    </territories>
+  </keyboard>
+  <keyboard>
     <keyboardId>us(euro)</keyboardId>
     <description>English (US, with euro on 5)</description>
     <ascii>True</ascii>
@@ -1463,6 +2773,17 @@
     </languages>
     <territories>
       <territory><territoryId>NL</territoryId><rank>1000</rank></territory>
+    </territories>
+  </keyboard>
+  <keyboard>
+    <keyboardId>us(rus)</keyboardId>
+    <description>Russian (US, phonetic)</description>
+    <ascii>False</ascii>
+    <languages>
+      <language><languageId>ru</languageId><rank>0</rank></language>
+    </languages>
+    <territories>
+      <territory><territoryId>US</territoryId><rank>0</rank></territory>
     </territories>
   </keyboard>
   <keyboard>
