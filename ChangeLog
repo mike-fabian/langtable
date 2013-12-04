@@ -1,3 +1,10 @@
+2013-12-04  Mike FABIAN  <mfabian@redhat.com>
+
+	* Version 0.0.22 released
+	* Fix typo in territory and locale for ms (Resolves: rhbz#1038109)
+	* add ba, chm, kv, sah, syc, udm, xal
+	* add entries for more keyboard layouts known to be non-ASCII
+
 2013-11-21  Mike FABIAN  <mfabian@redhat.com>
 
 	* Version 0.0.21 released
