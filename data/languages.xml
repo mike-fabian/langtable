@@ -13282,10 +13282,10 @@
       <name><languageId>zu</languageId><trName>isi-Malay</trName></name>
     </names>
     <locales>
-      <locale><localeId>ms_MY_AL.UTF-8</localeId><rank>1000</rank></locale>
+      <locale><localeId>ms_MY.UTF-8</localeId><rank>1000</rank></locale>
     </locales>
     <territories>
-      <territory><territoryId>MY_AL</territoryId><rank>1000</rank></territory>
+      <territory><territoryId>MY</territoryId><rank>1000</rank></territory>
     </territories>
     <keyboards>
       <keyboard><keyboardId>us</keyboardId><rank>1000</rank></keyboard>

@@ -163,7 +163,7 @@ def dummy():
         ['mr_IN.UTF-8']
 
     >>> list_locales(show_weights=False, languageId="ms") # doctest: +NORMALIZE_WHITESPACE
-        ['ms_MY_AL.UTF-8']
+        ['ms_MY.UTF-8']
 
     >>> list_locales(show_weights=False, languageId="nb") # doctest: +NORMALIZE_WHITESPACE
         ['nb_NO.UTF-8']
