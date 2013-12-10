@@ -1,3 +1,9 @@
+2013-12-10  Mike FABIAN  <mfabian@redhat.com>
+
+	* Version 0.0.23 released
+	* Change English translation for or from “Oriya” to “Odia” (Resolves: rhbz#1039496)
+	* Some new translations and translation fixes from CLDR
+
 2013-12-04  Mike FABIAN  <mfabian@redhat.com>
 
 	* Version 0.0.22 released

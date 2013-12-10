@@ -5,7 +5,7 @@
 %endif
 
 Name:           langtable
-Version:        0.0.22
+Version:        0.0.23
 Release:        1%{?dist}
 Summary:        Guessing reasonable defaults for locale, keyboard layout, territory, and language.
 Group:          Development/Tools
@@ -121,6 +121,10 @@ xmllint --noout --relaxng $RPM_BUILD_ROOT/%{_datadir}/langtable/schemas/territor
 %{_datadir}/langtable/*.xml.gz
 
 %changelog
+* Tue Dec 10 2013 Mike FABIAN <mfabian@redhat.com> - 0.0.23-1
+- Change English translation for or from “Oriya” to “Odia” (Resolves: rhbz#1039496)
+- Some new translations and translation fixes from CLDR
+
 * Wed Dec 04 2013 Mike FABIAN <mfabian@redhat.com> - 0.0.22-1
 - Fix typo in territory and locale for ms (Resolves: rhbz#1038109)
 - add ba, chm, kv, sah, syc, udm, xal
