@@ -335,7 +335,7 @@
   <keyboard>
     <keyboardId>bd</keyboardId>
     <description>Bengali</description>
-    <ascii>True</ascii>
+    <ascii>False</ascii>
     <languages>
       <language><languageId>bn</languageId><rank>0</rank></language>
     </languages>
@@ -346,7 +346,7 @@
   <keyboard>
     <keyboardId>bd(probhat)</keyboardId>
     <description>Bengali (Probhat)</description>
-    <ascii>True</ascii>
+    <ascii>False</ascii>
     <languages>
       <language><languageId>bn</languageId><rank>0</rank></language>
     </languages>
