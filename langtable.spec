@@ -104,6 +104,8 @@ gzip --force --best $RPM_BUILD_ROOT/%{_datadir}/langtable/*.xml
 xmllint --noout --relaxng $RPM_BUILD_ROOT/%{_datadir}/langtable/schemas/keyboards.rng $RPM_BUILD_ROOT/%{_datadir}/langtable/keyboards.xml.gz
 xmllint --noout --relaxng $RPM_BUILD_ROOT/%{_datadir}/langtable/schemas/languages.rng $RPM_BUILD_ROOT/%{_datadir}/langtable/languages.xml.gz
 xmllint --noout --relaxng $RPM_BUILD_ROOT/%{_datadir}/langtable/schemas/territories.rng $RPM_BUILD_ROOT/%{_datadir}/langtable/territories.xml.gz
+xmllint --noout --relaxng $RPM_BUILD_ROOT/%{_datadir}/langtable/schemas/timezoneidparts.rng $RPM_BUILD_ROOT/%{_datadir}/langtable/timezoneidparts.xml.gz
+xmllint --noout --relaxng $RPM_BUILD_ROOT/%{_datadir}/langtable/schemas/timezones.rng $RPM_BUILD_ROOT/%{_datadir}/langtable/timezones.xml.gz
 
 %files
 %doc README COPYING ChangeLog unicode-license.txt test_cases.py
