@@ -21,6 +21,7 @@
 #     list_locales()
 #     list_keyboards()
 #     list_consolefonts()
+#     list_inputmethods()
 #     list_timezones()
 #     language_name()
 #     territory_name()
