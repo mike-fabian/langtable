@@ -5,7 +5,7 @@
 %endif
 
 Name:           langtable
-Version:        0.0.23
+Version:        0.0.24
 Release:        1%{?dist}
 Summary:        Guessing reasonable defaults for locale, keyboard layout, territory, and language.
 Group:          Development/Tools
@@ -123,6 +123,12 @@ xmllint --noout --relaxng $RPM_BUILD_ROOT/%{_datadir}/langtable/schemas/timezone
 %{_datadir}/langtable/*.xml.gz
 
 %changelog
+* Mon Feb 24 2014 Mike FABIAN <mfabian@redhat.com> - 0.0.24-1
+- mark Bengali (bd) and its Probhat variant layout as not ASCII-capable (by Adam Williamson)
+- Also validate timezones.xml and timezoneidparts.xml in .spec file
+- List list_inputmethods() as public API
+- Fall back to returning untranslated timezone id if translation for the requested language does not exist (Resolves: rhbz#1032848)
+
 * Tue Dec 10 2013 Mike FABIAN <mfabian@redhat.com> - 0.0.23-1
 - Change English translation for or from “Oriya” to “Odia” (Resolves: rhbz#1039496)
 - Some new translations and translation fixes from CLDR

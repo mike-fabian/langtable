@@ -1,3 +1,11 @@
+2014-02-24  Mike FABIAN  <mfabian@redhat.com>
+
+	* Version 0.0.24 released
+	* mark Bengali (bd) and its Probhat variant layout as not ASCII-capable (by Adam Williamson)
+	* Also validate timezones.xml and timezoneidparts.xml in .spec file
+	* List list_inputmethods() as public API
+	* Fall back to returning untranslated timezone id if translation for the requested language does not exist (Resolves: rhbz#1032848)
+
 2013-12-10  Mike FABIAN  <mfabian@redhat.com>
 
 	* Version 0.0.23 released
