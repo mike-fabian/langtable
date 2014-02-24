@@ -1249,6 +1249,17 @@ def dummy():
     >>> print(langtable.timezone_name(timezoneId='Europe/foo/bar', languageIdQuery='cs'))  # doctest: +NORMALIZE_WHITESPACE
         Evropa/foo/bar
 
+    >>> print(langtable.timezone_name(timezoneId='America/Vancouver', languageIdQuery='xxx'))  # doctest: +NORMALIZE_WHITESPACE
+        America/Vancouver
+
+    >>> print(langtable.timezone_name(timezoneId='Pacific/Pago_Pago', languageIdQuery='xxx'))  # doctest: +NORMALIZE_WHITESPACE
+        Pacific/Pago_Pago
+
+    >>> print(langtable.timezone_name(timezoneId='America/Vancouver', languageIdQuery='ast'))  # doctest: +NORMALIZE_WHITESPACE
+        America/Vancouver
+
+    >>> print(langtable.timezone_name(timezoneId='Pacific/Pago_Pago', languageIdQuery='ast'))  # doctest: +NORMALIZE_WHITESPACE
+        Pacific/Pago_Pago
     '''
 
 if __name__ == "__main__":

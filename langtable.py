@@ -1124,53 +1124,64 @@ def _timezone_name_from_id_parts(timezoneId = None, icuLocaleIdQuery = None):
         return u'/'.join(part_names)
     return ''
 
+def _timezone_name(timezoneId = None, icuLocaleIdQuery = None):
+    '''
+    Internal helper function to translate timezone IDs
+    '''
+    if not (timezoneId and icuLocaleIdQuery):
+        return ''
+    if timezoneId in _timezones_db:
+        if icuLocaleIdQuery in _timezones_db[timezoneId].names:
+            return _timezones_db[timezoneId].names[icuLocaleIdQuery]
+    name_from_parts = _timezone_name_from_id_parts(
+        timezoneId=timezoneId, icuLocaleIdQuery=icuLocaleIdQuery)
+    if name_from_parts:
+        return name_from_parts
+    return ''
+
 def timezone_name(timezoneId = None, languageIdQuery = None, scriptIdQuery = None, territoryIdQuery = None):
-    '''Query translations of timezone IDs
+    u'''Query translations of timezone IDs
 
     Examples:
 
+    >>> print(timezone_name(timezoneId='US/Pacific', languageIdQuery='ja'))
+    アメリカ合衆国/太平洋時間
+
+    If no translation can be found, the timezone ID is returned
+    unchanged:
+
+    >>> print(timezone_name(timezoneId='Pacific/Pago_Pago', languageIdQuery='xxx'))
+    Pacific/Pago_Pago
     '''
     languageIdQuery, scriptIdQuery, territoryIdQuery = _parse_and_split_languageId(
         languageId=languageIdQuery,
         scriptId=scriptIdQuery,
         territoryId=territoryIdQuery)
     if languageIdQuery and scriptIdQuery and territoryIdQuery:
-        icuLocaleIdQuery = languageIdQuery+'_'+scriptIdQuery+'_'+territoryIdQuery
-        if timezoneId in _timezones_db:
-            if icuLocaleIdQuery in _timezones_db[timezoneId].names:
-                return _timezones_db[timezoneId].names[icuLocaleIdQuery]
-        name_from_parts = _timezone_name_from_id_parts(
-            timezoneId=timezoneId, icuLocaleIdQuery=icuLocaleIdQuery)
-        if name_from_parts:
-            return name_from_parts
+        name = _timezone_name(
+            timezoneId=timezoneId,
+            icuLocaleIdQuery=languageIdQuery+'_'+scriptIdQuery+'_'+territoryIdQuery)
+        if name:
+            return name
     if languageIdQuery and scriptIdQuery:
-        icuLocaleIdQuery = languageIdQuery+'_'+scriptIdQuery
-        if timezoneId in _timezones_db:
-            if icuLocaleIdQuery in _timezones_db[timezoneId].names:
-                return _timezones_db[timezoneId].names[icuLocaleIdQuery]
-        name_from_parts = _timezone_name_from_id_parts(
-            timezoneId=timezoneId, icuLocaleIdQuery=icuLocaleIdQuery)
-        if name_from_parts:
-            return name_from_parts
+        name = _timezone_name(
+            timezoneId=timezoneId,
+            icuLocaleIdQuery=languageIdQuery+'_'+scriptIdQuery)
+        if name:
+            return name
     if languageIdQuery and territoryIdQuery:
-        icuLocaleIdQuery = languageIdQuery+'_'+territoryIdQuery
-        if timezoneId in _timezones_db:
-            if icuLocaleIdQuery in _timezones_db[timezoneId].names:
-                return _timezones_db[timezoneId].names[icuLocaleIdQuery]
-        name_from_parts = _timezone_name_from_id_parts(
-            timezoneId=timezoneId, icuLocaleIdQuery=icuLocaleIdQuery)
-        if name_from_parts:
-            return name_from_parts
+        name = _timezone_name(
+            timezoneId=timezoneId,
+            icuLocaleIdQuery=languageIdQuery+'_'+territoryIdQuery)
+        if name:
+            return name
     if languageIdQuery:
-        icuLocaleIdQuery = languageIdQuery
-        if timezoneId in _timezones_db:
-            if icuLocaleIdQuery in _timezones_db[timezoneId].names:
-                return _timezones_db[timezoneId].names[icuLocaleIdQuery]
-        name_from_parts = _timezone_name_from_id_parts(
-            timezoneId=timezoneId, icuLocaleIdQuery=icuLocaleIdQuery)
-        if name_from_parts:
-            return name_from_parts
-    return ''
+        name = _timezone_name(
+            timezoneId=timezoneId,
+            icuLocaleIdQuery=languageIdQuery)
+        if name:
+            return name
+    return timezoneId
 
 def territoryId(territoryName = u''):
     '''Query the territoryId from a translated name of a territory.
