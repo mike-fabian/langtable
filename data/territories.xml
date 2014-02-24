@@ -32,6 +32,7 @@
       <name><languageId>fo</languageId><trName>Africa</trName></name>
       <name><languageId>fr</languageId><trName>Afrique</trName></name>
       <name><languageId>fur</languageId><trName>Afriche</trName></name>
+      <name><languageId>fy</languageId><trName>Afrika</trName></name>
       <name><languageId>ga</languageId><trName>An Afraic</trName></name>
       <name><languageId>gd</languageId><trName>Afraga</trName></name>
       <name><languageId>gl</languageId><trName>África</trName></name>
@@ -143,6 +144,7 @@
       <name><languageId>fo</languageId><trName>Amerika</trName></name>
       <name><languageId>fr</languageId><trName>Amériques</trName></name>
       <name><languageId>fur</languageId><trName>Americhis</trName></name>
+      <name><languageId>fy</languageId><trName>Amerika</trName></name>
       <name><languageId>ga</languageId><trName>Na Meiriceánna</trName></name>
       <name><languageId>gd</languageId><trName>An Dà Aimearaga</trName></name>
       <name><languageId>gl</languageId><trName>América</trName></name>
@@ -255,6 +257,7 @@
       <name><languageId>fo</languageId><trName>Asia</trName></name>
       <name><languageId>fr</languageId><trName>Asie</trName></name>
       <name><languageId>fur</languageId><trName>Asie</trName></name>
+      <name><languageId>fy</languageId><trName>Azië</trName></name>
       <name><languageId>ga</languageId><trName>An Áise</trName></name>
       <name><languageId>gd</languageId><trName>Àisea</trName></name>
       <name><languageId>gl</languageId><trName>Asia</trName></name>
@@ -366,6 +369,7 @@
       <name><languageId>fo</languageId><trName>Evropa</trName></name>
       <name><languageId>fr</languageId><trName>Europe</trName></name>
       <name><languageId>fur</languageId><trName>Europe</trName></name>
+      <name><languageId>fy</languageId><trName>Europa</trName></name>
       <name><languageId>ga</languageId><trName>An Eoraip</trName></name>
       <name><languageId>gd</languageId><trName>An Roinn-Eòrpa</trName></name>
       <name><languageId>gl</languageId><trName>Europa</trName></name>
@@ -475,6 +479,7 @@
       <name><languageId>fo</languageId><trName>Latínamerika</trName></name>
       <name><languageId>fr</languageId><trName>Amérique latine</trName></name>
       <name><languageId>fur</languageId><trName>Americhe latine</trName></name>
+      <name><languageId>fy</languageId><trName>Latynsk-Amearika</trName></name>
       <name><languageId>ga</languageId><trName>Meiriceá Laidineach agus an Mhuir Chairib</trName></name>
       <name><languageId>gd</languageId><trName>Aimearaga Laideannach</trName></name>
       <name><languageId>gl</languageId><trName>América Latina</trName></name>
@@ -667,6 +672,7 @@
       <name><languageId>fo</languageId><trName>Andorra</trName></name>
       <name><languageId>fr</languageId><trName>Andorre</trName></name>
       <name><languageId>fur</languageId><trName>Andorra</trName></name>
+      <name><languageId>fy</languageId><trName>Andorra</trName></name>
       <name><languageId>ga</languageId><trName>Andóra</trName></name>
       <name><languageId>gd</languageId><trName>Andorra</trName></name>
       <name><languageId>gl</languageId><trName>Andorra</trName></name>
@@ -795,6 +801,7 @@
       <name><languageId>fo</languageId><trName>Sameindu Emirríkini</trName></name>
       <name><languageId>fr</languageId><trName>Émirats arabes unis</trName></name>
       <name><languageId>fur</languageId><trName>Emirâts araps unîts</trName></name>
+      <name><languageId>fy</languageId><trName>Verenigde Arabyske Emiraten</trName></name>
       <name><languageId>ga</languageId><trName>Aontas na nÉimíríochtaí Arabacha</trName></name>
       <name><languageId>gd</languageId><trName>Na h-Iomaratan Arabach Aonaichte</trName></name>
       <name><languageId>gl</languageId><trName>Emiratos Árabes Unidos</trName></name>
@@ -922,6 +929,7 @@
       <name><languageId>fo</languageId><trName>Afganistan</trName></name>
       <name><languageId>fr</languageId><trName>Afghanistan</trName></name>
       <name><languageId>fur</languageId><trName>Afghanistan</trName></name>
+      <name><languageId>fy</languageId><trName>Afghanistan</trName></name>
       <name><languageId>ga</languageId><trName>An Afganastáin</trName></name>
       <name><languageId>gd</languageId><trName>Afghanastàn</trName></name>
       <name><languageId>gl</languageId><trName>Afganistán</trName></name>
@@ -1049,6 +1057,7 @@
       <name><languageId>fo</languageId><trName>Antigua og Barbuda</trName></name>
       <name><languageId>fr</languageId><trName>Antigua-et-Barbuda</trName></name>
       <name><languageId>fur</languageId><trName>Antigua e Barbuda</trName></name>
+      <name><languageId>fy</languageId><trName>Antigua en Barbuda</trName></name>
       <name><languageId>ga</languageId><trName>Aintíge agus Barbúda</trName></name>
       <name><languageId>gd</languageId><trName>Aintìoga is Barbuda</trName></name>
       <name><languageId>gl</languageId><trName>Antiga e Barbuda</trName></name>
@@ -1176,6 +1185,7 @@
       <name><languageId>fo</languageId><trName>Albania</trName></name>
       <name><languageId>fr</languageId><trName>Albanie</trName></name>
       <name><languageId>fur</languageId><trName>Albanie</trName></name>
+      <name><languageId>fy</languageId><trName>Albanië</trName></name>
       <name><languageId>ga</languageId><trName>An Albáin</trName></name>
       <name><languageId>gd</languageId><trName>Albàinia</trName></name>
       <name><languageId>gl</languageId><trName>Albania</trName></name>
@@ -1305,6 +1315,7 @@
       <name><languageId>fo</languageId><trName>Armenia</trName></name>
       <name><languageId>fr</languageId><trName>Arménie</trName></name>
       <name><languageId>fur</languageId><trName>Armenie</trName></name>
+      <name><languageId>fy</languageId><trName>Armenië</trName></name>
       <name><languageId>ga</languageId><trName>An Airméin</trName></name>
       <name><languageId>gd</languageId><trName>Airmeinia</trName></name>
       <name><languageId>gl</languageId><trName>Armenia</trName></name>
@@ -1430,6 +1441,7 @@
       <name><languageId>fo</languageId><trName>Niðurlendsku Antilloyggjarnar</trName></name>
       <name><languageId>fr</languageId><trName>Antilles néerlandaises</trName></name>
       <name><languageId>fur</languageId><trName>Antilis olandesis</trName></name>
+      <name><languageId>fy</languageId><trName>Nederlânske Antillen</trName></name>
       <name><languageId>ga</languageId><trName>Antillí na hÍsiltíre</trName></name>
       <name><languageId>gd</languageId><trName>Eileanan Aintilia nan Tìrean Ìsle</trName></name>
       <name><languageId>gl</languageId><trName>Antillas Holandesas</trName></name>
@@ -1549,6 +1561,7 @@
       <name><languageId>fo</languageId><trName>Angola</trName></name>
       <name><languageId>fr</languageId><trName>Angola</trName></name>
       <name><languageId>fur</languageId><trName>Angola</trName></name>
+      <name><languageId>fy</languageId><trName>Angola</trName></name>
       <name><languageId>ga</languageId><trName>Angóla</trName></name>
       <name><languageId>gd</languageId><trName>Angòla</trName></name>
       <name><languageId>gl</languageId><trName>Angola</trName></name>
@@ -1674,6 +1687,7 @@
       <name><languageId>fo</languageId><trName>Antarktis</trName></name>
       <name><languageId>fr</languageId><trName>Antarctique</trName></name>
       <name><languageId>fur</languageId><trName>Antartic</trName></name>
+      <name><languageId>fy</languageId><trName>Antarctica</trName></name>
       <name><languageId>ga</languageId><trName>An Antartaice</trName></name>
       <name><languageId>gd</languageId><trName>An Antartaig</trName></name>
       <name><languageId>gl</languageId><trName>Antártida</trName></name>
@@ -1790,6 +1804,7 @@
       <name><languageId>fo</languageId><trName>Argentina</trName></name>
       <name><languageId>fr</languageId><trName>Argentine</trName></name>
       <name><languageId>fur</languageId><trName>Argjentine</trName></name>
+      <name><languageId>fy</languageId><trName>Argentinië</trName></name>
       <name><languageId>ga</languageId><trName>An Airgintín</trName></name>
       <name><languageId>gd</languageId><trName>An Argantain</trName></name>
       <name><languageId>gl</languageId><trName>Arxentina</trName></name>
@@ -1929,6 +1944,7 @@
       <name><languageId>fo</languageId><trName>Eysturríki</trName></name>
       <name><languageId>fr</languageId><trName>Autriche</trName></name>
       <name><languageId>fur</languageId><trName>Austrie</trName></name>
+      <name><languageId>fy</languageId><trName>Eastenryk</trName></name>
       <name><languageId>ga</languageId><trName>An Ostair</trName></name>
       <name><languageId>gd</languageId><trName>An Ostair</trName></name>
       <name><languageId>gl</languageId><trName>Austria</trName></name>
@@ -2058,6 +2074,7 @@
       <name><languageId>fo</languageId><trName>Avstralia</trName></name>
       <name><languageId>fr</languageId><trName>Australie</trName></name>
       <name><languageId>fur</languageId><trName>Australie</trName></name>
+      <name><languageId>fy</languageId><trName>Australië</trName></name>
       <name><languageId>ga</languageId><trName>An Astráil</trName></name>
       <name><languageId>gd</languageId><trName>Astràilia</trName></name>
       <name><languageId>gl</languageId><trName>Australia</trName></name>
@@ -2197,6 +2214,7 @@
       <name><languageId>fo</languageId><trName>Aruba</trName></name>
       <name><languageId>fr</languageId><trName>Aruba</trName></name>
       <name><languageId>fur</languageId><trName>Aruba</trName></name>
+      <name><languageId>fy</languageId><trName>Aruba</trName></name>
       <name><languageId>ga</languageId><trName>Arúba</trName></name>
       <name><languageId>gd</languageId><trName>Arùba</trName></name>
       <name><languageId>gl</languageId><trName>Aruba</trName></name>
@@ -2327,6 +2345,7 @@
       <name><languageId>fo</languageId><trName>Aserbajdsjan</trName></name>
       <name><languageId>fr</languageId><trName>Azerbaïdjan</trName></name>
       <name><languageId>fur</languageId><trName>Azerbaigian</trName></name>
+      <name><languageId>fy</languageId><trName>Azerbeidzjan</trName></name>
       <name><languageId>ga</languageId><trName>An Asarbaiseáin</trName></name>
       <name><languageId>gd</languageId><trName>Asarbaideàn</trName></name>
       <name><languageId>gl</languageId><trName>Acerbaixán</trName></name>
@@ -2456,6 +2475,7 @@
       <name><languageId>fo</languageId><trName>Bosnia-Hersegovina</trName></name>
       <name><languageId>fr</languageId><trName>Bosnie-Herzégovine</trName></name>
       <name><languageId>fur</languageId><trName>Bosnie e Ercegovine</trName></name>
+      <name><languageId>fy</languageId><trName>Bosnië en Herzegovina</trName></name>
       <name><languageId>ga</languageId><trName>An Bhoisnia agus Heirseagóvéin</trName></name>
       <name><languageId>gd</languageId><trName>Bosna is Hearsagobhana</trName></name>
       <name><languageId>gl</languageId><trName>Bosnia e Hercegovina</trName></name>
@@ -2586,6 +2606,7 @@
       <name><languageId>fo</languageId><trName>Bangladesj</trName></name>
       <name><languageId>fr</languageId><trName>Bangladesh</trName></name>
       <name><languageId>fur</languageId><trName>Bangladesh</trName></name>
+      <name><languageId>fy</languageId><trName>Bangladesh</trName></name>
       <name><languageId>ga</languageId><trName>An Bhanglaidéis</trName></name>
       <name><languageId>gd</languageId><trName>Bangladais</trName></name>
       <name><languageId>gl</languageId><trName>Bangladesh</trName></name>
@@ -2714,6 +2735,7 @@
       <name><languageId>fo</languageId><trName>Belgia</trName></name>
       <name><languageId>fr</languageId><trName>Belgique</trName></name>
       <name><languageId>fur</languageId><trName>Belgjiche</trName></name>
+      <name><languageId>fy</languageId><trName>België</trName></name>
       <name><languageId>ga</languageId><trName>An Bheilg</trName></name>
       <name><languageId>gd</languageId><trName>A' Bheilg</trName></name>
       <name><languageId>gl</languageId><trName>Bélxica</trName></name>
@@ -2850,6 +2872,7 @@
       <name><languageId>fo</languageId><trName>Burkina Faso</trName></name>
       <name><languageId>fr</languageId><trName>Burkina Faso</trName></name>
       <name><languageId>fur</languageId><trName>Burkina Faso</trName></name>
+      <name><languageId>fy</languageId><trName>Burkina Faso</trName></name>
       <name><languageId>ga</languageId><trName>Buircíne Fasó</trName></name>
       <name><languageId>gd</languageId><trName>Buirciona Faso</trName></name>
       <name><languageId>gl</languageId><trName>Burkina Faso</trName></name>
@@ -2976,6 +2999,7 @@
       <name><languageId>fo</languageId><trName>Bulgaria</trName></name>
       <name><languageId>fr</languageId><trName>Bulgarie</trName></name>
       <name><languageId>fur</languageId><trName>Bulgarie</trName></name>
+      <name><languageId>fy</languageId><trName>Bulgarije</trName></name>
       <name><languageId>ga</languageId><trName>An Bhulgáir</trName></name>
       <name><languageId>gd</languageId><trName>A' Bhulgair</trName></name>
       <name><languageId>gl</languageId><trName>Bulgaria</trName></name>
@@ -3105,6 +3129,7 @@
       <name><languageId>fo</languageId><trName>Bahrain</trName></name>
       <name><languageId>fr</languageId><trName>Bahreïn</trName></name>
       <name><languageId>fur</languageId><trName>Bahrain</trName></name>
+      <name><languageId>fy</languageId><trName>Bahrein</trName></name>
       <name><languageId>ga</languageId><trName>Bairéin</trName></name>
       <name><languageId>gd</languageId><trName>Bachrain</trName></name>
       <name><languageId>gl</languageId><trName>Bahrein</trName></name>
@@ -3232,6 +3257,7 @@
       <name><languageId>fo</languageId><trName>Bolivia</trName></name>
       <name><languageId>fr</languageId><trName>Bolivie</trName></name>
       <name><languageId>fur</languageId><trName>Bolivie</trName></name>
+      <name><languageId>fy</languageId><trName>Bolivia</trName></name>
       <name><languageId>ga</languageId><trName>An Bholaiv</trName></name>
       <name><languageId>gd</languageId><trName>Boilibhia</trName></name>
       <name><languageId>gl</languageId><trName>Bolivia</trName></name>
@@ -3361,6 +3387,7 @@
       <name><languageId>fo</languageId><trName>Brasilia</trName></name>
       <name><languageId>fr</languageId><trName>Brésil</trName></name>
       <name><languageId>fur</languageId><trName>Brasîl</trName></name>
+      <name><languageId>fy</languageId><trName>Brazilië</trName></name>
       <name><languageId>ga</languageId><trName>An Bhrasaíl</trName></name>
       <name><languageId>gd</languageId><trName>Braisil</trName></name>
       <name><languageId>gl</languageId><trName>Brasil</trName></name>
@@ -3507,6 +3534,7 @@
       <name><languageId>fo</languageId><trName>Butan</trName></name>
       <name><languageId>fr</languageId><trName>Bhoutan</trName></name>
       <name><languageId>fur</languageId><trName>Bhutan</trName></name>
+      <name><languageId>fy</languageId><trName>Bhutan</trName></name>
       <name><languageId>ga</languageId><trName>An Bhútáin</trName></name>
       <name><languageId>gd</languageId><trName>Butàn</trName></name>
       <name><languageId>gl</languageId><trName>Bután</trName></name>
@@ -3634,6 +3662,7 @@
       <name><languageId>fo</languageId><trName>Botsvana</trName></name>
       <name><languageId>fr</languageId><trName>Botswana</trName></name>
       <name><languageId>fur</languageId><trName>Botswana</trName></name>
+      <name><languageId>fy</languageId><trName>Botswana</trName></name>
       <name><languageId>ga</languageId><trName>An Bhotsuáin</trName></name>
       <name><languageId>gd</languageId><trName>Botsuana</trName></name>
       <name><languageId>gl</languageId><trName>Botsuana</trName></name>
@@ -3766,6 +3795,7 @@
       <name><languageId>fo</languageId><trName>Hvítarussland</trName></name>
       <name><languageId>fr</languageId><trName>Biélorussie</trName></name>
       <name><languageId>fur</languageId><trName>Bielorussie</trName></name>
+      <name><languageId>fy</languageId><trName>Wit-Ruslân</trName></name>
       <name><languageId>ga</languageId><trName>An Bhealarúis</trName></name>
       <name><languageId>gd</languageId><trName>A' Bhealaruis</trName></name>
       <name><languageId>gl</languageId><trName>Bielorrusia</trName></name>
@@ -3897,6 +3927,7 @@
       <name><languageId>fo</languageId><trName>Kanada</trName></name>
       <name><languageId>fr</languageId><trName>Canada</trName></name>
       <name><languageId>fur</languageId><trName>Canade</trName></name>
+      <name><languageId>fy</languageId><trName>Canada</trName></name>
       <name><languageId>ga</languageId><trName>Ceanada</trName></name>
       <name><languageId>gd</languageId><trName>Canada</trName></name>
       <name><languageId>gl</languageId><trName>Canadá</trName></name>
@@ -4059,6 +4090,7 @@
       <name><languageId>fo</languageId><trName>Kongo-Kinshasa</trName></name>
       <name><languageId>fr</languageId><trName>Congo (RDC)</trName></name>
       <name><languageId>fur</languageId><trName>Congo (RDC)</trName></name>
+      <name><languageId>fy</languageId><trName>Congo (DRC)</trName></name>
       <name><languageId>ga</languageId><trName>Poblacht Dhaonlathach an Chongó</trName></name>
       <name><languageId>gd</languageId><trName>Congo (DRC)</trName></name>
       <name><languageId>gl</languageId><trName>Congo (RDC)</trName></name>
@@ -4186,6 +4218,7 @@
       <name><languageId>fo</languageId><trName>Kongo-Brazzaville</trName></name>
       <name><languageId>fr</languageId><trName>République du Congo</trName></name>
       <name><languageId>fur</languageId><trName>Congo (Republiche)</trName></name>
+      <name><languageId>fy</languageId><trName>Congo (Republyk)</trName></name>
       <name><languageId>ga</languageId><trName>An Congó</trName></name>
       <name><languageId>gd</languageId><trName>Congo (Poblachd)</trName></name>
       <name><languageId>gl</languageId><trName>Congo (RC)</trName></name>
@@ -4314,6 +4347,7 @@
       <name><languageId>fo</languageId><trName>Sveis</trName></name>
       <name><languageId>fr</languageId><trName>Suisse</trName></name>
       <name><languageId>fur</languageId><trName>Svuizare</trName></name>
+      <name><languageId>fy</languageId><trName>Switserlân</trName></name>
       <name><languageId>ga</languageId><trName>An Eilvéis</trName></name>
       <name><languageId>gd</languageId><trName>An Eilbheis</trName></name>
       <name><languageId>gl</languageId><trName>Suíza</trName></name>
@@ -4452,6 +4486,7 @@
       <name><languageId>fo</languageId><trName>Kili</trName></name>
       <name><languageId>fr</languageId><trName>Chili</trName></name>
       <name><languageId>fur</languageId><trName>Cile</trName></name>
+      <name><languageId>fy</languageId><trName>Chili</trName></name>
       <name><languageId>ga</languageId><trName>An tSile</trName></name>
       <name><languageId>gd</languageId><trName>An t-Sile</trName></name>
       <name><languageId>gl</languageId><trName>Chile</trName></name>
@@ -4582,6 +4617,7 @@
       <name><languageId>fo</languageId><trName>Kina</trName></name>
       <name><languageId>fr</languageId><trName>Chine</trName></name>
       <name><languageId>fur</languageId><trName>Cine</trName></name>
+      <name><languageId>fy</languageId><trName>Sina</trName></name>
       <name><languageId>ga</languageId><trName>An tSín</trName></name>
       <name><languageId>gd</languageId><trName>An t-Sìn</trName></name>
       <name><languageId>gl</languageId><trName>China</trName></name>
@@ -4719,6 +4755,7 @@
       <name><languageId>fo</languageId><trName>Kolombia</trName></name>
       <name><languageId>fr</languageId><trName>Colombie</trName></name>
       <name><languageId>fur</languageId><trName>Colombie</trName></name>
+      <name><languageId>fy</languageId><trName>Kolombia</trName></name>
       <name><languageId>ga</languageId><trName>An Cholóim</trName></name>
       <name><languageId>gd</languageId><trName>Coloimbia</trName></name>
       <name><languageId>gl</languageId><trName>Colombia</trName></name>
@@ -4847,6 +4884,7 @@
       <name><languageId>fo</languageId><trName>Kosta Rika</trName></name>
       <name><languageId>fr</languageId><trName>Costa Rica</trName></name>
       <name><languageId>fur</languageId><trName>Costa Rica</trName></name>
+      <name><languageId>fy</languageId><trName>Costa Rica</trName></name>
       <name><languageId>ga</languageId><trName>Cósta Ríce</trName></name>
       <name><languageId>gd</languageId><trName>Costa Rìcea</trName></name>
       <name><languageId>gl</languageId><trName>Costa Rica</trName></name>
@@ -4972,6 +5010,7 @@
       <name><languageId>fo</languageId><trName>Kuba</trName></name>
       <name><languageId>fr</languageId><trName>Cuba</trName></name>
       <name><languageId>fur</languageId><trName>Cuba</trName></name>
+      <name><languageId>fy</languageId><trName>Kuba</trName></name>
       <name><languageId>ga</languageId><trName>Cúba</trName></name>
       <name><languageId>gd</languageId><trName>Cùba</trName></name>
       <name><languageId>gl</languageId><trName>Cuba</trName></name>
@@ -5099,6 +5138,7 @@
       <name><languageId>fo</languageId><trName>Kýpros</trName></name>
       <name><languageId>fr</languageId><trName>Chypre</trName></name>
       <name><languageId>fur</languageId><trName>Cipri</trName></name>
+      <name><languageId>fy</languageId><trName>Syprus</trName></name>
       <name><languageId>ga</languageId><trName>An Chipir</trName></name>
       <name><languageId>gd</languageId><trName>Cìopras</trName></name>
       <name><languageId>gl</languageId><trName>Chipre</trName></name>
@@ -5228,6 +5268,7 @@
       <name><languageId>fo</languageId><trName>Kekkia</trName></name>
       <name><languageId>fr</languageId><trName>République tchèque</trName></name>
       <name><languageId>fur</languageId><trName>Republiche ceche</trName></name>
+      <name><languageId>fy</languageId><trName>Tsjechje</trName></name>
       <name><languageId>ga</languageId><trName>Poblacht na Seice</trName></name>
       <name><languageId>gd</languageId><trName>Poblachd na Seice</trName></name>
       <name><languageId>gl</languageId><trName>República Checa</trName></name>
@@ -5357,6 +5398,7 @@
       <name><languageId>fo</languageId><trName>Týskland</trName></name>
       <name><languageId>fr</languageId><trName>Allemagne</trName></name>
       <name><languageId>fur</languageId><trName>Gjermanie</trName></name>
+      <name><languageId>fy</languageId><trName>Dútslân</trName></name>
       <name><languageId>ga</languageId><trName>An Ghearmáin</trName></name>
       <name><languageId>gd</languageId><trName>A' Ghearmailt</trName></name>
       <name><languageId>gl</languageId><trName>Alemaña</trName></name>
@@ -5498,6 +5540,7 @@
       <name><languageId>fo</languageId><trName>Djibouti</trName></name>
       <name><languageId>fr</languageId><trName>Djibouti</trName></name>
       <name><languageId>fur</languageId><trName>Gibuti</trName></name>
+      <name><languageId>fy</languageId><trName>Djibouti</trName></name>
       <name><languageId>ga</languageId><trName>Djibouti</trName></name>
       <name><languageId>gd</languageId><trName>Diobùtaidh</trName></name>
       <name><languageId>gl</languageId><trName>Xibuti</trName></name>
@@ -5629,6 +5672,7 @@
       <name><languageId>fo</languageId><trName>Danmørk</trName></name>
       <name><languageId>fr</languageId><trName>Danemark</trName></name>
       <name><languageId>fur</languageId><trName>Danimarcje</trName></name>
+      <name><languageId>fy</languageId><trName>Denemarken</trName></name>
       <name><languageId>ga</languageId><trName>An Danmhairg</trName></name>
       <name><languageId>gd</languageId><trName>An Danmhairg</trName></name>
       <name><languageId>gl</languageId><trName>Dinamarca</trName></name>
@@ -5888,6 +5932,7 @@
       <name><languageId>fo</languageId><trName>Algeria</trName></name>
       <name><languageId>fr</languageId><trName>Algérie</trName></name>
       <name><languageId>fur</languageId><trName>Alzerie</trName></name>
+      <name><languageId>fy</languageId><trName>Algerije</trName></name>
       <name><languageId>ga</languageId><trName>An Ailgéir</trName></name>
       <name><languageId>gd</languageId><trName>Aildiria</trName></name>
       <name><languageId>gl</languageId><trName>Arxelia</trName></name>
@@ -6017,6 +6062,7 @@
       <name><languageId>fo</languageId><trName>Ekvador</trName></name>
       <name><languageId>fr</languageId><trName>Équateur</trName></name>
       <name><languageId>fur</languageId><trName>Ecuador</trName></name>
+      <name><languageId>fy</languageId><trName>Ecuador</trName></name>
       <name><languageId>ga</languageId><trName>Eacuadór</trName></name>
       <name><languageId>gd</languageId><trName>Eacuador</trName></name>
       <name><languageId>gl</languageId><trName>Ecuador</trName></name>
@@ -6146,6 +6192,7 @@
       <name><languageId>fo</languageId><trName>Estland</trName></name>
       <name><languageId>fr</languageId><trName>Estonie</trName></name>
       <name><languageId>fur</languageId><trName>Estonie</trName></name>
+      <name><languageId>fy</languageId><trName>Estlân</trName></name>
       <name><languageId>ga</languageId><trName>An Eastóin</trName></name>
       <name><languageId>gd</languageId><trName>An Eastoin</trName></name>
       <name><languageId>gl</languageId><trName>Estonia</trName></name>
@@ -6274,6 +6321,7 @@
       <name><languageId>fo</languageId><trName>Egyptaland</trName></name>
       <name><languageId>fr</languageId><trName>Égypte</trName></name>
       <name><languageId>fur</languageId><trName>Egjit</trName></name>
+      <name><languageId>fy</languageId><trName>Egypte</trName></name>
       <name><languageId>ga</languageId><trName>An Éigipt</trName></name>
       <name><languageId>gd</languageId><trName>An Èiphit</trName></name>
       <name><languageId>gl</languageId><trName>Exipto</trName></name>
@@ -6404,6 +6452,7 @@
       <name><languageId>fo</languageId><trName>Eritrea</trName></name>
       <name><languageId>fr</languageId><trName>Érythrée</trName></name>
       <name><languageId>fur</languageId><trName>Eritree</trName></name>
+      <name><languageId>fy</languageId><trName>Eritrea</trName></name>
       <name><languageId>ga</languageId><trName>An Eiritré</trName></name>
       <name><languageId>gd</languageId><trName>Eartra</trName></name>
       <name><languageId>gl</languageId><trName>Eritrea</trName></name>
@@ -6542,6 +6591,7 @@
       <name><languageId>fo</languageId><trName>Spania</trName></name>
       <name><languageId>fr</languageId><trName>Espagne</trName></name>
       <name><languageId>fur</languageId><trName>Spagne</trName></name>
+      <name><languageId>fy</languageId><trName>Spanje</trName></name>
       <name><languageId>ga</languageId><trName>An Spáinn</trName></name>
       <name><languageId>gd</languageId><trName>An Spàinn</trName></name>
       <name><languageId>gl</languageId><trName>España</trName></name>
@@ -6683,6 +6733,7 @@
       <name><languageId>fo</languageId><trName>Etiopia</trName></name>
       <name><languageId>fr</languageId><trName>Éthiopie</trName></name>
       <name><languageId>fur</languageId><trName>Etiopie</trName></name>
+      <name><languageId>fy</languageId><trName>Ethiopië</trName></name>
       <name><languageId>ga</languageId><trName>An Aetóip</trName></name>
       <name><languageId>gd</languageId><trName>An Itiop</trName></name>
       <name><languageId>gl</languageId><trName>Etiopía</trName></name>
@@ -6829,6 +6880,7 @@
       <name><languageId>fo</languageId><trName>Finnland</trName></name>
       <name><languageId>fr</languageId><trName>Finlande</trName></name>
       <name><languageId>fur</languageId><trName>Finlandie</trName></name>
+      <name><languageId>fy</languageId><trName>Finlân</trName></name>
       <name><languageId>ga</languageId><trName>An Fhionlainn</trName></name>
       <name><languageId>gd</languageId><trName>An Fhionnlann</trName></name>
       <name><languageId>gl</languageId><trName>Finlandia</trName></name>
@@ -6961,6 +7013,7 @@
       <name><languageId>fo</languageId><trName>Fiji</trName></name>
       <name><languageId>fr</languageId><trName>Fidji</trName></name>
       <name><languageId>fur</languageId><trName>Fizi</trName></name>
+      <name><languageId>fy</languageId><trName>Fiji</trName></name>
       <name><languageId>ga</languageId><trName>Fidsí</trName></name>
       <name><languageId>gd</languageId><trName>Fìdi</trName></name>
       <name><languageId>gl</languageId><trName>Fixi</trName></name>
@@ -7084,6 +7137,7 @@
       <name><languageId>fo</languageId><trName>Føroyar</trName></name>
       <name><languageId>fr</languageId><trName>Îles Féroé</trName></name>
       <name><languageId>fur</languageId><trName>Isulis Faroe</trName></name>
+      <name><languageId>fy</languageId><trName>Faeröer</trName></name>
       <name><languageId>ga</languageId><trName>Oileáin Fharó</trName></name>
       <name><languageId>gd</languageId><trName>Na h-Eileanan Fàro</trName></name>
       <name><languageId>gl</languageId><trName>Illas Feroe</trName></name>
@@ -7205,6 +7259,7 @@
       <name><languageId>fo</languageId><trName>Frakland</trName></name>
       <name><languageId>fr</languageId><trName>France</trName></name>
       <name><languageId>fur</languageId><trName>France</trName></name>
+      <name><languageId>fy</languageId><trName>Frankrijk</trName></name>
       <name><languageId>ga</languageId><trName>An Fhrainc</trName></name>
       <name><languageId>gd</languageId><trName>An Fhraing</trName></name>
       <name><languageId>gl</languageId><trName>Francia</trName></name>
@@ -7347,6 +7402,7 @@
       <name><languageId>fo</languageId><trName>Stóra Bretland</trName></name>
       <name><languageId>fr</languageId><trName>Royaume-Uni</trName></name>
       <name><languageId>fur</languageId><trName>Ream unît</trName></name>
+      <name><languageId>fy</languageId><trName>Verenigd Koninkrijk</trName></name>
       <name><languageId>ga</languageId><trName>An Ríocht Aontaithe</trName></name>
       <name><languageId>gd</languageId><trName>An Rìoghachd Aonaichte</trName></name>
       <name><languageId>gl</languageId><trName>Reino Unido</trName></name>
@@ -7489,6 +7545,7 @@
       <name><languageId>fo</languageId><trName>Georgia</trName></name>
       <name><languageId>fr</languageId><trName>Géorgie</trName></name>
       <name><languageId>fur</languageId><trName>Gjeorgjie</trName></name>
+      <name><languageId>fy</languageId><trName>Georgië</trName></name>
       <name><languageId>ga</languageId><trName>An tSeoirsia</trName></name>
       <name><languageId>gd</languageId><trName>A' Chairtbheil</trName></name>
       <name><languageId>gl</languageId><trName>Xeorxia</trName></name>
@@ -7618,6 +7675,7 @@
       <name><languageId>fo</languageId><trName>Ghana</trName></name>
       <name><languageId>fr</languageId><trName>Ghana</trName></name>
       <name><languageId>fur</languageId><trName>Ghana</trName></name>
+      <name><languageId>fy</languageId><trName>Ghana</trName></name>
       <name><languageId>ga</languageId><trName>Gána</trName></name>
       <name><languageId>gd</languageId><trName>Gàna</trName></name>
       <name><languageId>gl</languageId><trName>Gana</trName></name>
@@ -7743,6 +7801,7 @@
       <name><languageId>fo</languageId><trName>Grønland</trName></name>
       <name><languageId>fr</languageId><trName>Groenland</trName></name>
       <name><languageId>fur</languageId><trName>Groenlande</trName></name>
+      <name><languageId>fy</languageId><trName>Grienlân</trName></name>
       <name><languageId>ga</languageId><trName>An Ghraonlainn</trName></name>
       <name><languageId>gd</languageId><trName>A' Ghraonlann</trName></name>
       <name><languageId>gl</languageId><trName>Grenlandia</trName></name>
@@ -7872,6 +7931,7 @@
       <name><languageId>fo</languageId><trName>Grikkaland</trName></name>
       <name><languageId>fr</languageId><trName>Grèce</trName></name>
       <name><languageId>fur</languageId><trName>Grecie</trName></name>
+      <name><languageId>fy</languageId><trName>Grikelân</trName></name>
       <name><languageId>ga</languageId><trName>An Ghréig</trName></name>
       <name><languageId>gd</languageId><trName>A' Ghreug</trName></name>
       <name><languageId>gl</languageId><trName>Grecia</trName></name>
@@ -8002,6 +8062,7 @@
       <name><languageId>fo</languageId><trName>Guatemala</trName></name>
       <name><languageId>fr</languageId><trName>Guatemala</trName></name>
       <name><languageId>fur</languageId><trName>Guatemala</trName></name>
+      <name><languageId>fy</languageId><trName>Guatemala</trName></name>
       <name><languageId>ga</languageId><trName>Guatamala</trName></name>
       <name><languageId>gd</languageId><trName>Guatamala</trName></name>
       <name><languageId>gl</languageId><trName>Guatemala</trName></name>
@@ -8126,6 +8187,7 @@
       <name><languageId>fo</languageId><trName>Hongkong</trName></name>
       <name><languageId>fr</languageId><trName>R.A.S. chinoise de Hong Kong</trName></name>
       <name><languageId>fur</languageId><trName>Regjon aministrative speciâl de Cine di Hong Kong</trName></name>
+      <name><languageId>fy</languageId><trName>Hongkong SAR van Sina</trName></name>
       <name><languageId>ga</languageId><trName>R.R.S. na Síne Hong Cong</trName></name>
       <name><languageId>gd</languageId><trName>Hong Kong SAR na Sìne</trName></name>
       <name><languageId>gl</languageId><trName>Hong Kong RAE de China</trName></name>
@@ -8248,6 +8310,7 @@
       <name><languageId>fo</languageId><trName>Honduras</trName></name>
       <name><languageId>fr</languageId><trName>Honduras</trName></name>
       <name><languageId>fur</languageId><trName>Honduras</trName></name>
+      <name><languageId>fy</languageId><trName>Honduras</trName></name>
       <name><languageId>ga</languageId><trName>Hondúras</trName></name>
       <name><languageId>gd</languageId><trName>Hondùras</trName></name>
       <name><languageId>gl</languageId><trName>Honduras</trName></name>
@@ -8376,6 +8439,7 @@
       <name><languageId>fo</languageId><trName>Kroatia</trName></name>
       <name><languageId>fr</languageId><trName>Croatie</trName></name>
       <name><languageId>fur</languageId><trName>Cravuazie</trName></name>
+      <name><languageId>fy</languageId><trName>Kroatië</trName></name>
       <name><languageId>ga</languageId><trName>An Chróit</trName></name>
       <name><languageId>gd</languageId><trName>A' Chròthais</trName></name>
       <name><languageId>gl</languageId><trName>Croacia</trName></name>
@@ -8504,6 +8568,7 @@
       <name><languageId>fo</languageId><trName>Haiti</trName></name>
       <name><languageId>fr</languageId><trName>Haïti</trName></name>
       <name><languageId>fur</languageId><trName>Haiti</trName></name>
+      <name><languageId>fy</languageId><trName>Haïti</trName></name>
       <name><languageId>ga</languageId><trName>Háití</trName></name>
       <name><languageId>gd</languageId><trName>Haidhti</trName></name>
       <name><languageId>gl</languageId><trName>Haití</trName></name>
@@ -8636,6 +8701,7 @@
       <name><languageId>fo</languageId><trName>Ungarn</trName></name>
       <name><languageId>fr</languageId><trName>Hongrie</trName></name>
       <name><languageId>fur</languageId><trName>Ongjarie</trName></name>
+      <name><languageId>fy</languageId><trName>Hongarije</trName></name>
       <name><languageId>ga</languageId><trName>An Ungáir</trName></name>
       <name><languageId>gd</languageId><trName>An Ungair</trName></name>
       <name><languageId>gl</languageId><trName>Hungría</trName></name>
@@ -8765,6 +8831,7 @@
       <name><languageId>fo</languageId><trName>Indonesia</trName></name>
       <name><languageId>fr</languageId><trName>Indonésie</trName></name>
       <name><languageId>fur</languageId><trName>Indonesie</trName></name>
+      <name><languageId>fy</languageId><trName>Yndonesië</trName></name>
       <name><languageId>ga</languageId><trName>An Indinéis</trName></name>
       <name><languageId>gd</languageId><trName>Na h-Innd Innse</trName></name>
       <name><languageId>gl</languageId><trName>Indonesia</trName></name>
@@ -8894,6 +8961,7 @@
       <name><languageId>fo</languageId><trName>Írland</trName></name>
       <name><languageId>fr</languageId><trName>Irlande</trName></name>
       <name><languageId>fur</languageId><trName>Irlande</trName></name>
+      <name><languageId>fy</languageId><trName>Ierlân</trName></name>
       <name><languageId>ga</languageId><trName>Éire</trName></name>
       <name><languageId>gd</languageId><trName>Èirinn</trName></name>
       <name><languageId>gl</languageId><trName>Irlanda</trName></name>
@@ -9026,6 +9094,7 @@
       <name><languageId>fo</languageId><trName>Ísrael</trName></name>
       <name><languageId>fr</languageId><trName>Israël</trName></name>
       <name><languageId>fur</languageId><trName>Israêl</trName></name>
+      <name><languageId>fy</languageId><trName>Israël</trName></name>
       <name><languageId>ga</languageId><trName>Iosrael</trName></name>
       <name><languageId>gd</languageId><trName>Iosrael</trName></name>
       <name><languageId>gl</languageId><trName>Israel</trName></name>
@@ -9159,6 +9228,7 @@
       <name><languageId>fo</languageId><trName>India</trName></name>
       <name><languageId>fr</languageId><trName>Inde</trName></name>
       <name><languageId>fur</languageId><trName>India</trName></name>
+      <name><languageId>fy</languageId><trName>India</trName></name>
       <name><languageId>ga</languageId><trName>An India</trName></name>
       <name><languageId>gd</languageId><trName>Na h-Innseachan</trName></name>
       <name><languageId>gl</languageId><trName>India</trName></name>
@@ -9363,6 +9433,7 @@
       <name><languageId>fo</languageId><trName>Irak</trName></name>
       <name><languageId>fr</languageId><trName>Irak</trName></name>
       <name><languageId>fur</languageId><trName>Iraq</trName></name>
+      <name><languageId>fy</languageId><trName>Irak</trName></name>
       <name><languageId>ga</languageId><trName>An Iaráic</trName></name>
       <name><languageId>gd</languageId><trName>Ioràc</trName></name>
       <name><languageId>gl</languageId><trName>Iraq</trName></name>
@@ -9491,6 +9562,7 @@
       <name><languageId>fo</languageId><trName>Iran</trName></name>
       <name><languageId>fr</languageId><trName>Iran</trName></name>
       <name><languageId>fur</languageId><trName>Iran</trName></name>
+      <name><languageId>fy</languageId><trName>Iran</trName></name>
       <name><languageId>ga</languageId><trName>An Iaráin</trName></name>
       <name><languageId>gd</languageId><trName>Ioràn</trName></name>
       <name><languageId>gl</languageId><trName>Irán</trName></name>
@@ -9617,6 +9689,7 @@
       <name><languageId>fo</languageId><trName>Ísland</trName></name>
       <name><languageId>fr</languageId><trName>Islande</trName></name>
       <name><languageId>fur</languageId><trName>Islande</trName></name>
+      <name><languageId>fy</languageId><trName>Yslân</trName></name>
       <name><languageId>ga</languageId><trName>An Íoslainn</trName></name>
       <name><languageId>gd</languageId><trName>Innis Tìle</trName></name>
       <name><languageId>gl</languageId><trName>Islandia</trName></name>
@@ -9747,6 +9820,7 @@
       <name><languageId>fo</languageId><trName>Italia</trName></name>
       <name><languageId>fr</languageId><trName>Italie</trName></name>
       <name><languageId>fur</languageId><trName>Italie</trName></name>
+      <name><languageId>fy</languageId><trName>Italië</trName></name>
       <name><languageId>ga</languageId><trName>An Iodáil</trName></name>
       <name><languageId>gd</languageId><trName>An Eadailt</trName></name>
       <name><languageId>gl</languageId><trName>Italia</trName></name>
@@ -9889,6 +9963,7 @@
       <name><languageId>fo</languageId><trName>Jordania</trName></name>
       <name><languageId>fr</languageId><trName>Jordanie</trName></name>
       <name><languageId>fur</languageId><trName>Jordanie</trName></name>
+      <name><languageId>fy</languageId><trName>Jordanië</trName></name>
       <name><languageId>ga</languageId><trName>An Iordáin</trName></name>
       <name><languageId>gd</languageId><trName>Iòrdan</trName></name>
       <name><languageId>gl</languageId><trName>Xordania</trName></name>
@@ -10017,6 +10092,7 @@
       <name><languageId>fo</languageId><trName>Japan</trName></name>
       <name><languageId>fr</languageId><trName>Japon</trName></name>
       <name><languageId>fur</languageId><trName>Gjapon</trName></name>
+      <name><languageId>fy</languageId><trName>Japan</trName></name>
       <name><languageId>ga</languageId><trName>An tSeapáin</trName></name>
       <name><languageId>gd</languageId><trName>An t-Seapan</trName></name>
       <name><languageId>gl</languageId><trName>Xapón</trName></name>
@@ -10151,6 +10227,7 @@
       <name><languageId>fo</languageId><trName>Kenja</trName></name>
       <name><languageId>fr</languageId><trName>Kenya</trName></name>
       <name><languageId>fur</languageId><trName>Kenya</trName></name>
+      <name><languageId>fy</languageId><trName>Kenia</trName></name>
       <name><languageId>ga</languageId><trName>An Chéinia</trName></name>
       <name><languageId>gd</languageId><trName>Ceinia</trName></name>
       <name><languageId>gl</languageId><trName>Quenia</trName></name>
@@ -10283,6 +10360,7 @@
       <name><languageId>fo</languageId><trName>Kirgisia</trName></name>
       <name><languageId>fr</languageId><trName>Kirghizistan</trName></name>
       <name><languageId>fur</languageId><trName>Kirghizstan</trName></name>
+      <name><languageId>fy</languageId><trName>Kirgizië</trName></name>
       <name><languageId>ga</languageId><trName>An Chirgeastáin</trName></name>
       <name><languageId>gd</languageId><trName>Cìorgastan</trName></name>
       <name><languageId>gl</languageId><trName>Quirguicistán</trName></name>
@@ -10407,6 +10485,7 @@
       <name><languageId>fo</languageId><trName>Kambodja</trName></name>
       <name><languageId>fr</languageId><trName>Cambodge</trName></name>
       <name><languageId>fur</languageId><trName>Camboze</trName></name>
+      <name><languageId>fy</languageId><trName>Cambodja</trName></name>
       <name><languageId>ga</languageId><trName>An Chambóid</trName></name>
       <name><languageId>gd</languageId><trName>Cambuidea</trName></name>
       <name><languageId>gl</languageId><trName>Cambodia</trName></name>
@@ -10536,6 +10615,7 @@
       <name><languageId>fo</languageId><trName>Suður-Korea</trName></name>
       <name><languageId>fr</languageId><trName>Corée du Sud</trName></name>
       <name><languageId>fur</languageId><trName>Coree dal sud</trName></name>
+      <name><languageId>fy</languageId><trName>Sûd-Korea</trName></name>
       <name><languageId>ga</languageId><trName>An Chóiré Theas</trName></name>
       <name><languageId>gd</languageId><trName>Coirèa a Deas</trName></name>
       <name><languageId>gl</languageId><trName>Corea do Sur</trName></name>
@@ -10665,6 +10745,7 @@
       <name><languageId>fo</languageId><trName>Kuvait</trName></name>
       <name><languageId>fr</languageId><trName>Koweït</trName></name>
       <name><languageId>fur</languageId><trName>Kuwait</trName></name>
+      <name><languageId>fy</languageId><trName>Koeweit</trName></name>
       <name><languageId>ga</languageId><trName>Cuáit</trName></name>
       <name><languageId>gd</languageId><trName>Cuibhèit</trName></name>
       <name><languageId>gl</languageId><trName>Kuwait</trName></name>
@@ -10792,6 +10873,7 @@
       <name><languageId>fo</languageId><trName>Kasakstan</trName></name>
       <name><languageId>fr</languageId><trName>Kazakhstan</trName></name>
       <name><languageId>fur</languageId><trName>Kazachistan</trName></name>
+      <name><languageId>fy</languageId><trName>Kazachstan</trName></name>
       <name><languageId>ga</languageId><trName>An Chasacstáin</trName></name>
       <name><languageId>gd</languageId><trName>Casachstàn</trName></name>
       <name><languageId>gl</languageId><trName>Kazakhstan</trName></name>
@@ -10916,6 +10998,7 @@
       <name><languageId>fo</languageId><trName>Laos</trName></name>
       <name><languageId>fr</languageId><trName>Laos</trName></name>
       <name><languageId>fur</languageId><trName>Laos</trName></name>
+      <name><languageId>fy</languageId><trName>Laos</trName></name>
       <name><languageId>ga</languageId><trName>Laos</trName></name>
       <name><languageId>gd</languageId><trName>Làthos</trName></name>
       <name><languageId>gl</languageId><trName>Laos</trName></name>
@@ -11042,6 +11125,7 @@
       <name><languageId>fo</languageId><trName>Libanon</trName></name>
       <name><languageId>fr</languageId><trName>Liban</trName></name>
       <name><languageId>fur</languageId><trName>Liban</trName></name>
+      <name><languageId>fy</languageId><trName>Libanon</trName></name>
       <name><languageId>ga</languageId><trName>An Liobáin</trName></name>
       <name><languageId>gd</languageId><trName>Leabanon</trName></name>
       <name><languageId>gl</languageId><trName>Líbano</trName></name>
@@ -11170,6 +11254,7 @@
       <name><languageId>fo</languageId><trName>Sri Lanka</trName></name>
       <name><languageId>fr</languageId><trName>Sri Lanka</trName></name>
       <name><languageId>fur</languageId><trName>Sri Lanka</trName></name>
+      <name><languageId>fy</languageId><trName>Sri Lanka</trName></name>
       <name><languageId>ga</languageId><trName>Srí Lanca</trName></name>
       <name><languageId>gd</languageId><trName>Sri Lanca</trName></name>
       <name><languageId>gl</languageId><trName>Sri Lanka</trName></name>
@@ -11296,6 +11381,7 @@
       <name><languageId>fo</languageId><trName>Litava</trName></name>
       <name><languageId>fr</languageId><trName>Lituanie</trName></name>
       <name><languageId>fur</languageId><trName>Lituanie</trName></name>
+      <name><languageId>fy</languageId><trName>Litouwen</trName></name>
       <name><languageId>ga</languageId><trName>An Liotuáin</trName></name>
       <name><languageId>gd</languageId><trName>An Liotuain</trName></name>
       <name><languageId>gl</languageId><trName>Lituania</trName></name>
@@ -11423,6 +11509,7 @@
       <name><languageId>fo</languageId><trName>Luksemborg</trName></name>
       <name><languageId>fr</languageId><trName>Luxembourg</trName></name>
       <name><languageId>fur</languageId><trName>Lussemburc</trName></name>
+      <name><languageId>fy</languageId><trName>Luxemburg</trName></name>
       <name><languageId>ga</languageId><trName>Lucsamburg</trName></name>
       <name><languageId>gd</languageId><trName>Lugsamburg</trName></name>
       <name><languageId>gl</languageId><trName>Luxemburgo</trName></name>
@@ -11556,6 +11643,7 @@
       <name><languageId>fo</languageId><trName>Lettland</trName></name>
       <name><languageId>fr</languageId><trName>Lettonie</trName></name>
       <name><languageId>fur</languageId><trName>Letonie</trName></name>
+      <name><languageId>fy</languageId><trName>Letlân</trName></name>
       <name><languageId>ga</languageId><trName>An Laitvia</trName></name>
       <name><languageId>gd</languageId><trName>An Laitbhe</trName></name>
       <name><languageId>gl</languageId><trName>Letonia</trName></name>
@@ -11684,6 +11772,7 @@
       <name><languageId>fo</languageId><trName>Libya</trName></name>
       <name><languageId>fr</languageId><trName>Libye</trName></name>
       <name><languageId>fur</languageId><trName>Libie</trName></name>
+      <name><languageId>fy</languageId><trName>Libië</trName></name>
       <name><languageId>ga</languageId><trName>An Libia</trName></name>
       <name><languageId>gd</languageId><trName>Libia</trName></name>
       <name><languageId>gl</languageId><trName>Libia</trName></name>
@@ -11938,6 +12027,7 @@
       <name><languageId>fo</languageId><trName>Montenegro</trName></name>
       <name><languageId>fr</languageId><trName>Monténégro</trName></name>
       <name><languageId>fur</languageId><trName>Montenegro</trName></name>
+      <name><languageId>fy</languageId><trName>Montenegro</trName></name>
       <name><languageId>ga</languageId><trName>Montainéagró</trName></name>
       <name><languageId>gd</languageId><trName>Am Monadh Neagrach</trName></name>
       <name><languageId>gl</languageId><trName>Montenegro</trName></name>
@@ -12057,6 +12147,7 @@
       <name><languageId>fo</languageId><trName>Madagaskar</trName></name>
       <name><languageId>fr</languageId><trName>Madagascar</trName></name>
       <name><languageId>fur</languageId><trName>Madagascar</trName></name>
+      <name><languageId>fy</languageId><trName>Madeiaskar</trName></name>
       <name><languageId>ga</languageId><trName>Madagascar</trName></name>
       <name><languageId>gd</languageId><trName>Madagasgar</trName></name>
       <name><languageId>gl</languageId><trName>Madagascar</trName></name>
@@ -12182,6 +12273,7 @@
       <name><languageId>fo</languageId><trName>Makedónia</trName></name>
       <name><languageId>fr</languageId><trName>Macédoine (ARYM)</trName></name>
       <name><languageId>fur</languageId><trName>Macedonie (FYROM)</trName></name>
+      <name><languageId>fy</languageId><trName>Macedonië (FYROM)</trName></name>
       <name><languageId>ga</languageId><trName>An Mhacadóin</trName></name>
       <name><languageId>gd</languageId><trName>A' Mhasadon (FYROM)</trName></name>
       <name><languageId>gl</languageId><trName>Macedonia (ARIM)</trName></name>
@@ -12312,6 +12404,7 @@
       <name><languageId>fo</languageId><trName>Burma</trName></name>
       <name><languageId>fr</languageId><trName>Myanmar</trName></name>
       <name><languageId>fur</languageId><trName>Birmanie</trName></name>
+      <name><languageId>fy</languageId><trName>Myanmar (Birma)</trName></name>
       <name><languageId>ga</languageId><trName>Maenmar</trName></name>
       <name><languageId>gd</languageId><trName>Miànmar (Burma)</trName></name>
       <name><languageId>gl</languageId><trName>Myanmar (Birmania)</trName></name>
@@ -12438,6 +12531,7 @@
       <name><languageId>fo</languageId><trName>Mongolia</trName></name>
       <name><languageId>fr</languageId><trName>Mongolie</trName></name>
       <name><languageId>fur</languageId><trName>Mongolie</trName></name>
+      <name><languageId>fy</languageId><trName>Mongolië</trName></name>
       <name><languageId>ga</languageId><trName>An Mhongóil</trName></name>
       <name><languageId>gd</languageId><trName>Dùthaich nam Mongol</trName></name>
       <name><languageId>gl</languageId><trName>Mongolia</trName></name>
@@ -12565,6 +12659,7 @@
       <name><languageId>fo</languageId><trName>Makao</trName></name>
       <name><languageId>fr</languageId><trName>R.A.S. chinoise de Macao</trName></name>
       <name><languageId>fur</languageId><trName>Regjon aministrative speciâl de Cine di Macao</trName></name>
+      <name><languageId>fy</languageId><trName>Macao SAR van Sina</trName></name>
       <name><languageId>ga</languageId><trName>R.R.S. na Síne Macáó</trName></name>
       <name><languageId>gd</languageId><trName>Macàthu SAR na Sìne</trName></name>
       <name><languageId>gl</languageId><trName>Macau RAE de China</trName></name>
@@ -12689,6 +12784,7 @@
       <name><languageId>fo</languageId><trName>Malta</trName></name>
       <name><languageId>fr</languageId><trName>Malte</trName></name>
       <name><languageId>fur</languageId><trName>Malta</trName></name>
+      <name><languageId>fy</languageId><trName>Malta</trName></name>
       <name><languageId>ga</languageId><trName>Málta</trName></name>
       <name><languageId>gd</languageId><trName>Malta</trName></name>
       <name><languageId>gl</languageId><trName>Malta</trName></name>
@@ -12816,6 +12912,7 @@
       <name><languageId>fo</languageId><trName>Maldivuoyggjarnar</trName></name>
       <name><languageId>fr</languageId><trName>Maldives</trName></name>
       <name><languageId>fur</languageId><trName>Maldivis</trName></name>
+      <name><languageId>fy</languageId><trName>Maldiven</trName></name>
       <name><languageId>ga</languageId><trName>Na Maildiví</trName></name>
       <name><languageId>gd</languageId><trName>Na h-Eileanan Maladaibh</trName></name>
       <name><languageId>gl</languageId><trName>Maldivas</trName></name>
@@ -12941,6 +13038,7 @@
       <name><languageId>fo</languageId><trName>Malavi</trName></name>
       <name><languageId>fr</languageId><trName>Malawi</trName></name>
       <name><languageId>fur</languageId><trName>Malawi</trName></name>
+      <name><languageId>fy</languageId><trName>Malawi</trName></name>
       <name><languageId>ga</languageId><trName>An Mhaláiv</trName></name>
       <name><languageId>gd</languageId><trName>Malabhaidh</trName></name>
       <name><languageId>gl</languageId><trName>Malaui</trName></name>
@@ -13067,6 +13165,7 @@
       <name><languageId>fo</languageId><trName>Meksiko</trName></name>
       <name><languageId>fr</languageId><trName>Mexique</trName></name>
       <name><languageId>fur</languageId><trName>Messic</trName></name>
+      <name><languageId>fy</languageId><trName>Mexico</trName></name>
       <name><languageId>ga</languageId><trName>Meicsiceo</trName></name>
       <name><languageId>gd</languageId><trName>Meagsago</trName></name>
       <name><languageId>gl</languageId><trName>México</trName></name>
@@ -13207,6 +13306,7 @@
       <name><languageId>fo</languageId><trName>Maleisia</trName></name>
       <name><languageId>fr</languageId><trName>Malaisie</trName></name>
       <name><languageId>fur</languageId><trName>Malaysia</trName></name>
+      <name><languageId>fy</languageId><trName>Maleisië</trName></name>
       <name><languageId>ga</languageId><trName>An Mhalaeisia</trName></name>
       <name><languageId>gd</languageId><trName>Malaidhsea</trName></name>
       <name><languageId>gl</languageId><trName>Malaisia</trName></name>
@@ -13337,6 +13437,7 @@
       <name><languageId>fo</languageId><trName>Nigeria</trName></name>
       <name><languageId>fr</languageId><trName>Nigéria</trName></name>
       <name><languageId>fur</languageId><trName>Nigerie</trName></name>
+      <name><languageId>fy</languageId><trName>Nigeria</trName></name>
       <name><languageId>ga</languageId><trName>An Nigéir</trName></name>
       <name><languageId>gd</languageId><trName>Nigèiria</trName></name>
       <name><languageId>gl</languageId><trName>Nixeria</trName></name>
@@ -13476,6 +13577,7 @@
       <name><languageId>fo</languageId><trName>Nikaragua</trName></name>
       <name><languageId>fr</languageId><trName>Nicaragua</trName></name>
       <name><languageId>fur</languageId><trName>Nicaragua</trName></name>
+      <name><languageId>fy</languageId><trName>Nicaragua</trName></name>
       <name><languageId>ga</languageId><trName>Nicearagua</trName></name>
       <name><languageId>gd</languageId><trName>Niocaragua</trName></name>
       <name><languageId>gl</languageId><trName>Nicaragua</trName></name>
@@ -13603,6 +13705,7 @@
       <name><languageId>fo</languageId><trName>Niðurlond</trName></name>
       <name><languageId>fr</languageId><trName>Pays-Bas</trName></name>
       <name><languageId>fur</languageId><trName>Paîs bas</trName></name>
+      <name><languageId>fy</languageId><trName>Nederlân</trName></name>
       <name><languageId>ga</languageId><trName>An Ísiltír</trName></name>
       <name><languageId>gd</languageId><trName>Na Tìrean Ìsle</trName></name>
       <name><languageId>gl</languageId><trName>Países Baixos</trName></name>
@@ -13742,6 +13845,7 @@
       <name><languageId>fo</languageId><trName>Noreg</trName></name>
       <name><languageId>fr</languageId><trName>Norvège</trName></name>
       <name><languageId>fur</languageId><trName>Norvegje</trName></name>
+      <name><languageId>fy</languageId><trName>Noarwegen</trName></name>
       <name><languageId>ga</languageId><trName>An Iorua</trName></name>
       <name><languageId>gd</languageId><trName>An Nirribhidh</trName></name>
       <name><languageId>gl</languageId><trName>Noruega</trName></name>
@@ -13876,6 +13980,7 @@
       <name><languageId>fo</languageId><trName>Nepal</trName></name>
       <name><languageId>fr</languageId><trName>Népal</trName></name>
       <name><languageId>fur</languageId><trName>Nepal</trName></name>
+      <name><languageId>fy</languageId><trName>Nepal</trName></name>
       <name><languageId>ga</languageId><trName>Neipeal</trName></name>
       <name><languageId>gd</languageId><trName>Neapàl</trName></name>
       <name><languageId>gl</languageId><trName>Nepal</trName></name>
@@ -14005,6 +14110,7 @@
       <name><languageId>fo</languageId><trName>Niue</trName></name>
       <name><languageId>fr</languageId><trName>Niue</trName></name>
       <name><languageId>fur</languageId><trName>Niue</trName></name>
+      <name><languageId>fy</languageId><trName>Niue</trName></name>
       <name><languageId>ga</languageId><trName>Nívé</trName></name>
       <name><languageId>gd</languageId><trName>Niue</trName></name>
       <name><languageId>gl</languageId><trName>Niue</trName></name>
@@ -14129,6 +14235,7 @@
       <name><languageId>fo</languageId><trName>Ný Sæland</trName></name>
       <name><languageId>fr</languageId><trName>Nouvelle-Zélande</trName></name>
       <name><languageId>fur</languageId><trName>Gnove Zelande</trName></name>
+      <name><languageId>fy</languageId><trName>Nij-Seelân</trName></name>
       <name><languageId>ga</languageId><trName>An Nua-Shéalainn</trName></name>
       <name><languageId>gd</languageId><trName>Sealainn Nuadh</trName></name>
       <name><languageId>gl</languageId><trName>Nova Celandia</trName></name>
@@ -14263,6 +14370,7 @@
       <name><languageId>fo</languageId><trName>Oman</trName></name>
       <name><languageId>fr</languageId><trName>Oman</trName></name>
       <name><languageId>fur</languageId><trName>Oman</trName></name>
+      <name><languageId>fy</languageId><trName>Oman</trName></name>
       <name><languageId>ga</languageId><trName>Óman</trName></name>
       <name><languageId>gd</languageId><trName>Omàn</trName></name>
       <name><languageId>gl</languageId><trName>Omán</trName></name>
@@ -14389,6 +14497,7 @@
       <name><languageId>fo</languageId><trName>Panama</trName></name>
       <name><languageId>fr</languageId><trName>Panama</trName></name>
       <name><languageId>fur</languageId><trName>Panamà</trName></name>
+      <name><languageId>fy</languageId><trName>Panama</trName></name>
       <name><languageId>ga</languageId><trName>Panama</trName></name>
       <name><languageId>gd</languageId><trName>Panama</trName></name>
       <name><languageId>gl</languageId><trName>Panamá</trName></name>
@@ -14514,6 +14623,7 @@
       <name><languageId>fo</languageId><trName>Perú</trName></name>
       <name><languageId>fr</languageId><trName>Pérou</trName></name>
       <name><languageId>fur</languageId><trName>Perù</trName></name>
+      <name><languageId>fy</languageId><trName>Peru</trName></name>
       <name><languageId>ga</languageId><trName>Peiriú</trName></name>
       <name><languageId>gd</languageId><trName>Pearù</trName></name>
       <name><languageId>gl</languageId><trName>Perú</trName></name>
@@ -14644,6 +14754,7 @@
       <name><languageId>fo</languageId><trName>Papua Nýguinea</trName></name>
       <name><languageId>fr</languageId><trName>Papouasie-Nouvelle-Guinée</trName></name>
       <name><languageId>fur</languageId><trName>Papue Gnove Guinee</trName></name>
+      <name><languageId>fy</languageId><trName>Papoea-Nij-Guinea</trName></name>
       <name><languageId>ga</languageId><trName>Nua-Ghuine Phapua</trName></name>
       <name><languageId>gd</languageId><trName>Gini Nuadh Phaputhach</trName></name>
       <name><languageId>gl</languageId><trName>Papúa Nova Guinea</trName></name>
@@ -14772,6 +14883,7 @@
       <name><languageId>fo</languageId><trName>Filipsoyggjar</trName></name>
       <name><languageId>fr</languageId><trName>Philippines</trName></name>
       <name><languageId>fur</languageId><trName>Filipinis</trName></name>
+      <name><languageId>fy</languageId><trName>Filipijnen</trName></name>
       <name><languageId>ga</languageId><trName>Na hOileáin Fhilipíneacha</trName></name>
       <name><languageId>gd</languageId><trName>Na h-Eileanan Filipineach</trName></name>
       <name><languageId>gl</languageId><trName>Filipinas</trName></name>
@@ -14904,6 +15016,7 @@
       <name><languageId>fo</languageId><trName>Pakistan</trName></name>
       <name><languageId>fr</languageId><trName>Pakistan</trName></name>
       <name><languageId>fur</languageId><trName>Pakistan</trName></name>
+      <name><languageId>fy</languageId><trName>Pakistan</trName></name>
       <name><languageId>ga</languageId><trName>An Phacastáin</trName></name>
       <name><languageId>gd</languageId><trName>Pagastàn</trName></name>
       <name><languageId>gl</languageId><trName>Paquistán</trName></name>
@@ -15036,6 +15149,7 @@
       <name><languageId>fo</languageId><trName>Pólland</trName></name>
       <name><languageId>fr</languageId><trName>Pologne</trName></name>
       <name><languageId>fur</languageId><trName>Polonie</trName></name>
+      <name><languageId>fy</languageId><trName>Polen</trName></name>
       <name><languageId>ga</languageId><trName>An Pholainn</trName></name>
       <name><languageId>gd</languageId><trName>A' Phòlainn</trName></name>
       <name><languageId>gl</languageId><trName>Polonia</trName></name>
@@ -15168,6 +15282,7 @@
       <name><languageId>fo</languageId><trName>Puerto Rico</trName></name>
       <name><languageId>fr</languageId><trName>Porto Rico</trName></name>
       <name><languageId>fur</languageId><trName>Porto Rico</trName></name>
+      <name><languageId>fy</languageId><trName>Puerto Rico</trName></name>
       <name><languageId>ga</languageId><trName>Portó Ríce</trName></name>
       <name><languageId>gd</languageId><trName>Porto Rìceo</trName></name>
       <name><languageId>gl</languageId><trName>Porto Rico</trName></name>
@@ -15294,6 +15409,7 @@
       <name><languageId>fo</languageId><trName>Portugal</trName></name>
       <name><languageId>fr</languageId><trName>Portugal</trName></name>
       <name><languageId>fur</languageId><trName>Portugal</trName></name>
+      <name><languageId>fy</languageId><trName>Portugal</trName></name>
       <name><languageId>ga</languageId><trName>An Phortaingéil</trName></name>
       <name><languageId>gd</languageId><trName>A' Phortagail</trName></name>
       <name><languageId>gl</languageId><trName>Portugal</trName></name>
@@ -15422,6 +15538,7 @@
       <name><languageId>fo</languageId><trName>Paraguei</trName></name>
       <name><languageId>fr</languageId><trName>Paraguay</trName></name>
       <name><languageId>fur</languageId><trName>Paraguay</trName></name>
+      <name><languageId>fy</languageId><trName>Paraguay</trName></name>
       <name><languageId>ga</languageId><trName>Paragua</trName></name>
       <name><languageId>gd</languageId><trName>Paraguaidh</trName></name>
       <name><languageId>gl</languageId><trName>Paraguai</trName></name>
@@ -15547,6 +15664,7 @@
       <name><languageId>fo</languageId><trName>Katar</trName></name>
       <name><languageId>fr</languageId><trName>Qatar</trName></name>
       <name><languageId>fur</languageId><trName>Qatar</trName></name>
+      <name><languageId>fy</languageId><trName>Qatar</trName></name>
       <name><languageId>ga</languageId><trName>Catar</trName></name>
       <name><languageId>gd</languageId><trName>Catar</trName></name>
       <name><languageId>gl</languageId><trName>Qatar</trName></name>
@@ -15673,6 +15791,7 @@
       <name><languageId>fo</languageId><trName>Rumenia</trName></name>
       <name><languageId>fr</languageId><trName>Roumanie</trName></name>
       <name><languageId>fur</languageId><trName>Romanie</trName></name>
+      <name><languageId>fy</languageId><trName>Roemenië</trName></name>
       <name><languageId>ga</languageId><trName>An Rómáin</trName></name>
       <name><languageId>gd</languageId><trName>Romàinia</trName></name>
       <name><languageId>gl</languageId><trName>Romanía</trName></name>
@@ -15797,6 +15916,7 @@
       <name><languageId>fo</languageId><trName>Serbia</trName></name>
       <name><languageId>fr</languageId><trName>Serbie</trName></name>
       <name><languageId>fur</languageId><trName>Serbie</trName></name>
+      <name><languageId>fy</languageId><trName>Servië</trName></name>
       <name><languageId>ga</languageId><trName>An tSeirbia</trName></name>
       <name><languageId>gd</languageId><trName>An t-Sèirb</trName></name>
       <name><languageId>gl</languageId><trName>Serbia</trName></name>
@@ -15918,6 +16038,7 @@
       <name><languageId>fo</languageId><trName>Russland</trName></name>
       <name><languageId>fr</languageId><trName>Russie</trName></name>
       <name><languageId>fur</languageId><trName>Russie</trName></name>
+      <name><languageId>fy</languageId><trName>Ruslân</trName></name>
       <name><languageId>ga</languageId><trName>Cónaidhm na Rúise</trName></name>
       <name><languageId>gd</languageId><trName>An Ruis</trName></name>
       <name><languageId>gl</languageId><trName>Rusia</trName></name>
@@ -16081,6 +16202,7 @@
       <name><languageId>fo</languageId><trName>Ruanda</trName></name>
       <name><languageId>fr</languageId><trName>Rwanda</trName></name>
       <name><languageId>fur</languageId><trName>Ruande</trName></name>
+      <name><languageId>fy</languageId><trName>Rwanda</trName></name>
       <name><languageId>ga</languageId><trName>Ruanda</trName></name>
       <name><languageId>gd</languageId><trName>Rubhanda</trName></name>
       <name><languageId>gl</languageId><trName>Ruanda</trName></name>
@@ -16210,6 +16332,7 @@
       <name><languageId>fo</languageId><trName>Saudi-Arábia</trName></name>
       <name><languageId>fr</languageId><trName>Arabie saoudite</trName></name>
       <name><languageId>fur</languageId><trName>Arabie Saudide</trName></name>
+      <name><languageId>fy</languageId><trName>Saoedi-Arabië</trName></name>
       <name><languageId>ga</languageId><trName>An Araib Shádach</trName></name>
       <name><languageId>gd</languageId><trName>Aràibia nan Sabhd</trName></name>
       <name><languageId>gl</languageId><trName>Arabia Saudita</trName></name>
@@ -16340,6 +16463,7 @@
       <name><languageId>fo</languageId><trName>Norðursudan</trName></name>
       <name><languageId>fr</languageId><trName>Soudan</trName></name>
       <name><languageId>fur</languageId><trName>Sudan</trName></name>
+      <name><languageId>fy</languageId><trName>Soedan</trName></name>
       <name><languageId>ga</languageId><trName>An tSúdáin</trName></name>
       <name><languageId>gd</languageId><trName>Sudàn</trName></name>
       <name><languageId>gl</languageId><trName>Sudán</trName></name>
@@ -16468,6 +16592,7 @@
       <name><languageId>fo</languageId><trName>Svøríki</trName></name>
       <name><languageId>fr</languageId><trName>Suède</trName></name>
       <name><languageId>fur</languageId><trName>Svezie</trName></name>
+      <name><languageId>fy</languageId><trName>Zweden</trName></name>
       <name><languageId>ga</languageId><trName>An tSualainn</trName></name>
       <name><languageId>gd</languageId><trName>An t-Suain</trName></name>
       <name><languageId>gl</languageId><trName>Suecia</trName></name>
@@ -16597,6 +16722,7 @@
       <name><languageId>fo</languageId><trName>Singapor</trName></name>
       <name><languageId>fr</languageId><trName>Singapour</trName></name>
       <name><languageId>fur</languageId><trName>Singapore</trName></name>
+      <name><languageId>fy</languageId><trName>Singapore</trName></name>
       <name><languageId>ga</languageId><trName>Singeapór</trName></name>
       <name><languageId>gd</languageId><trName>Singeapòr</trName></name>
       <name><languageId>gl</languageId><trName>Singapur</trName></name>
@@ -16728,6 +16854,7 @@
       <name><languageId>fo</languageId><trName>Slovenia</trName></name>
       <name><languageId>fr</languageId><trName>Slovénie</trName></name>
       <name><languageId>fur</languageId><trName>Slovenie</trName></name>
+      <name><languageId>fy</languageId><trName>Slovenië</trName></name>
       <name><languageId>ga</languageId><trName>An tSlóvéin</trName></name>
       <name><languageId>gd</languageId><trName>An t-Slòbhain</trName></name>
       <name><languageId>gl</languageId><trName>Eslovenia</trName></name>
@@ -16857,6 +16984,7 @@
       <name><languageId>fo</languageId><trName>Slovakia</trName></name>
       <name><languageId>fr</languageId><trName>Slovaquie</trName></name>
       <name><languageId>fur</languageId><trName>Slovachie</trName></name>
+      <name><languageId>fy</languageId><trName>Slowakije</trName></name>
       <name><languageId>ga</languageId><trName>An tSlóvaic</trName></name>
       <name><languageId>gd</languageId><trName>An t-Slòbhac</trName></name>
       <name><languageId>gl</languageId><trName>Eslovaquia</trName></name>
@@ -16985,6 +17113,7 @@
       <name><languageId>fo</languageId><trName>Senegal</trName></name>
       <name><languageId>fr</languageId><trName>Sénégal</trName></name>
       <name><languageId>fur</languageId><trName>Senegal</trName></name>
+      <name><languageId>fy</languageId><trName>Senegal</trName></name>
       <name><languageId>ga</languageId><trName>An tSeineagáil</trName></name>
       <name><languageId>gd</languageId><trName>Seanagal</trName></name>
       <name><languageId>gl</languageId><trName>Senegal</trName></name>
@@ -17117,6 +17246,7 @@
       <name><languageId>fo</languageId><trName>Somalia</trName></name>
       <name><languageId>fr</languageId><trName>Somalie</trName></name>
       <name><languageId>fur</languageId><trName>Somalie</trName></name>
+      <name><languageId>fy</languageId><trName>Somalië</trName></name>
       <name><languageId>ga</languageId><trName>An tSomáil</trName></name>
       <name><languageId>gd</languageId><trName>Somàilia</trName></name>
       <name><languageId>gl</languageId><trName>Somalia</trName></name>
@@ -17241,6 +17371,7 @@
       <name><languageId>fil</languageId><trName>South Sudan</trName></name>
       <name><languageId>fo</languageId><trName>Suðursudan</trName></name>
       <name><languageId>fr</languageId><trName>Soudan du Sud</trName></name>
+      <name><languageId>fy</languageId><trName>Sûd-Soedan</trName></name>
       <name><languageId>ga</languageId><trName>An tSúdáin Theas</trName></name>
       <name><languageId>gl</languageId><trName>Sudán do sur</trName></name>
       <name><languageId>gu</languageId><trName>દક્ષિણ સુદાન</trName></name>
@@ -17357,6 +17488,7 @@
       <name><languageId>fo</languageId><trName>El Salvador</trName></name>
       <name><languageId>fr</languageId><trName>El Salvador</trName></name>
       <name><languageId>fur</languageId><trName>El Salvador</trName></name>
+      <name><languageId>fy</languageId><trName>El Salvador</trName></name>
       <name><languageId>ga</languageId><trName>An tSalvadóir</trName></name>
       <name><languageId>gd</languageId><trName>An Salbhador</trName></name>
       <name><languageId>gl</languageId><trName>El Salvador</trName></name>
@@ -17482,6 +17614,7 @@
       <name><languageId>fo</languageId><trName>Syria</trName></name>
       <name><languageId>fr</languageId><trName>Syrie</trName></name>
       <name><languageId>fur</languageId><trName>Sirie</trName></name>
+      <name><languageId>fy</languageId><trName>Syrië</trName></name>
       <name><languageId>ga</languageId><trName>An tSiria</trName></name>
       <name><languageId>gd</languageId><trName>Siridhea</trName></name>
       <name><languageId>gl</languageId><trName>Siria</trName></name>
@@ -17610,6 +17743,7 @@
       <name><languageId>fo</languageId><trName>Teiland</trName></name>
       <name><languageId>fr</languageId><trName>Thaïlande</trName></name>
       <name><languageId>fur</languageId><trName>Tailandie</trName></name>
+      <name><languageId>fy</languageId><trName>Thailân</trName></name>
       <name><languageId>ga</languageId><trName>An Téalainn</trName></name>
       <name><languageId>gd</languageId><trName>Dùthaich nan Tàidh</trName></name>
       <name><languageId>gl</languageId><trName>Tailandia</trName></name>
@@ -17739,6 +17873,7 @@
       <name><languageId>fo</languageId><trName>Tadsjikistan</trName></name>
       <name><languageId>fr</languageId><trName>Tadjikistan</trName></name>
       <name><languageId>fur</languageId><trName>Tazikistan</trName></name>
+      <name><languageId>fy</languageId><trName>Tadzjikistan</trName></name>
       <name><languageId>ga</languageId><trName>An Táidsíceastáin</trName></name>
       <name><languageId>gd</languageId><trName>Taidigeastàn</trName></name>
       <name><languageId>gl</languageId><trName>Taxiquistán</trName></name>
@@ -17867,6 +18002,7 @@
       <name><languageId>fo</languageId><trName>Eystur-Timor</trName></name>
       <name><languageId>fr</languageId><trName>Timor oriental</trName></name>
       <name><languageId>fur</languageId><trName>Timor orientâl</trName></name>
+      <name><languageId>fy</languageId><trName>East-Timor</trName></name>
       <name><languageId>ga</languageId><trName>Tíomór Thoir</trName></name>
       <name><languageId>gd</languageId><trName>Tìomor an Ear</trName></name>
       <name><languageId>gl</languageId><trName>Timor Leste</trName></name>
@@ -17991,6 +18127,7 @@
       <name><languageId>fo</languageId><trName>Turkmenistan</trName></name>
       <name><languageId>fr</languageId><trName>Turkménistan</trName></name>
       <name><languageId>fur</languageId><trName>Turkmenistan</trName></name>
+      <name><languageId>fy</languageId><trName>Turkmenistan</trName></name>
       <name><languageId>ga</languageId><trName>An Tuircméanastáin</trName></name>
       <name><languageId>gd</languageId><trName>Turcmanastàn</trName></name>
       <name><languageId>gl</languageId><trName>Turkmenistán</trName></name>
@@ -18116,6 +18253,7 @@
       <name><languageId>fo</languageId><trName>Tunesia</trName></name>
       <name><languageId>fr</languageId><trName>Tunisie</trName></name>
       <name><languageId>fur</languageId><trName>Tunisie</trName></name>
+      <name><languageId>fy</languageId><trName>Tunesië</trName></name>
       <name><languageId>ga</languageId><trName>An Túinéis</trName></name>
       <name><languageId>gd</languageId><trName>Tuinisea</trName></name>
       <name><languageId>gl</languageId><trName>Tunisia</trName></name>
@@ -18244,6 +18382,7 @@
       <name><languageId>fo</languageId><trName>Turkaland</trName></name>
       <name><languageId>fr</languageId><trName>Turquie</trName></name>
       <name><languageId>fur</languageId><trName>Turchie</trName></name>
+      <name><languageId>fy</languageId><trName>Turkije</trName></name>
       <name><languageId>ga</languageId><trName>An Tuirc</trName></name>
       <name><languageId>gd</languageId><trName>An Tuirc</trName></name>
       <name><languageId>gl</languageId><trName>Turquía</trName></name>
@@ -18372,6 +18511,7 @@
       <name><languageId>fo</languageId><trName>Teivan</trName></name>
       <name><languageId>fr</languageId><trName>Taïwan</trName></name>
       <name><languageId>fur</languageId><trName>Taiwan</trName></name>
+      <name><languageId>fy</languageId><trName>Taiwan</trName></name>
       <name><languageId>ga</languageId><trName>An Téaváin</trName></name>
       <name><languageId>gd</languageId><trName>Taidh-Bhàn</trName></name>
       <name><languageId>gl</languageId><trName>Taiwán</trName></name>
@@ -18500,6 +18640,7 @@
       <name><languageId>fo</languageId><trName>Tansania</trName></name>
       <name><languageId>fr</languageId><trName>Tanzanie</trName></name>
       <name><languageId>fur</languageId><trName>Tanzanie</trName></name>
+      <name><languageId>fy</languageId><trName>Tanzania</trName></name>
       <name><languageId>ga</languageId><trName>An Tansáin</trName></name>
       <name><languageId>gd</languageId><trName>An Tansan</trName></name>
       <name><languageId>gl</languageId><trName>Tanzania</trName></name>
@@ -18630,6 +18771,7 @@
       <name><languageId>fo</languageId><trName>Ukreina</trName></name>
       <name><languageId>fr</languageId><trName>Ukraine</trName></name>
       <name><languageId>fur</languageId><trName>Ucraine</trName></name>
+      <name><languageId>fy</languageId><trName>Oekraïne</trName></name>
       <name><languageId>ga</languageId><trName>An Úcráin</trName></name>
       <name><languageId>gd</languageId><trName>An Ucràin</trName></name>
       <name><languageId>gl</languageId><trName>Ucraína</trName></name>
@@ -18765,6 +18907,7 @@
       <name><languageId>fo</languageId><trName>Uganda</trName></name>
       <name><languageId>fr</languageId><trName>Ouganda</trName></name>
       <name><languageId>fur</languageId><trName>Uganda</trName></name>
+      <name><languageId>fy</languageId><trName>Oeganda</trName></name>
       <name><languageId>ga</languageId><trName>Úganda</trName></name>
       <name><languageId>gd</languageId><trName>Uganda</trName></name>
       <name><languageId>gl</languageId><trName>Uganda</trName></name>
@@ -18894,6 +19037,7 @@
       <name><languageId>fo</languageId><trName>Sambandsríki Amerika</trName></name>
       <name><languageId>fr</languageId><trName>États-Unis</trName></name>
       <name><languageId>fur</languageId><trName>Stâts Unîts</trName></name>
+      <name><languageId>fy</languageId><trName>Ferienigde Staten</trName></name>
       <name><languageId>ga</languageId><trName>Stáit Aontaithe Mheiriceá</trName></name>
       <name><languageId>gd</languageId><trName>Na Stàitean Aonaichte</trName></name>
       <name><languageId>gl</languageId><trName>Estados Unidos de América</trName></name>
@@ -19060,6 +19204,7 @@
       <name><languageId>fo</languageId><trName>Uruguei</trName></name>
       <name><languageId>fr</languageId><trName>Uruguay</trName></name>
       <name><languageId>fur</languageId><trName>Uruguay</trName></name>
+      <name><languageId>fy</languageId><trName>Uruguay</trName></name>
       <name><languageId>ga</languageId><trName>Urugua</trName></name>
       <name><languageId>gd</languageId><trName>Uruguaidh</trName></name>
       <name><languageId>gl</languageId><trName>Uruguai</trName></name>
@@ -19187,6 +19332,7 @@
       <name><languageId>fo</languageId><trName>Usbekistan</trName></name>
       <name><languageId>fr</languageId><trName>Ouzbékistan</trName></name>
       <name><languageId>fur</languageId><trName>Uzbechistan</trName></name>
+      <name><languageId>fy</languageId><trName>Oezbekistan</trName></name>
       <name><languageId>ga</languageId><trName>Úisbéiceastáin</trName></name>
       <name><languageId>gd</languageId><trName>Usbagastan</trName></name>
       <name><languageId>gl</languageId><trName>Uzbekistán</trName></name>
@@ -19317,6 +19463,7 @@
       <name><languageId>fo</languageId><trName>Vatikan</trName></name>
       <name><languageId>fr</languageId><trName>État de la Cité du Vatican</trName></name>
       <name><languageId>fur</languageId><trName>Vatican</trName></name>
+      <name><languageId>fy</languageId><trName>Vaticaanstêd</trName></name>
       <name><languageId>ga</languageId><trName>An Vatacáin</trName></name>
       <name><languageId>gd</languageId><trName>Cathair na Bhatacain</trName></name>
       <name><languageId>gl</languageId><trName>Cidade do Vaticano</trName></name>
@@ -19444,6 +19591,7 @@
       <name><languageId>fo</languageId><trName>Venesuela</trName></name>
       <name><languageId>fr</languageId><trName>Venezuela</trName></name>
       <name><languageId>fur</languageId><trName>Venezuela</trName></name>
+      <name><languageId>fy</languageId><trName>Venezuela</trName></name>
       <name><languageId>ga</languageId><trName>Veiniséala</trName></name>
       <name><languageId>gd</languageId><trName>A' Bheiniseala</trName></name>
       <name><languageId>gl</languageId><trName>Venezuela</trName></name>
@@ -19571,6 +19719,7 @@
       <name><languageId>fo</languageId><trName>Vietnam</trName></name>
       <name><languageId>fr</languageId><trName>Vietnam</trName></name>
       <name><languageId>fur</languageId><trName>Vietnam</trName></name>
+      <name><languageId>fy</languageId><trName>Vietnam</trName></name>
       <name><languageId>ga</languageId><trName>Vít Neam</trName></name>
       <name><languageId>gd</languageId><trName>Bhiet-Nam</trName></name>
       <name><languageId>gl</languageId><trName>Vietnam</trName></name>
@@ -19696,6 +19845,7 @@
       <name><languageId>fo</languageId><trName>Jemen</trName></name>
       <name><languageId>fr</languageId><trName>Yémen</trName></name>
       <name><languageId>fur</languageId><trName>Yemen</trName></name>
+      <name><languageId>fy</languageId><trName>Jemen</trName></name>
       <name><languageId>ga</languageId><trName>Éimin</trName></name>
       <name><languageId>gd</languageId><trName>An Eaman</trName></name>
       <name><languageId>gl</languageId><trName>Iemen</trName></name>
@@ -19974,6 +20124,7 @@
       <name><languageId>fo</languageId><trName>Sambia</trName></name>
       <name><languageId>fr</languageId><trName>Zambie</trName></name>
       <name><languageId>fur</languageId><trName>Zambia</trName></name>
+      <name><languageId>fy</languageId><trName>Zambia</trName></name>
       <name><languageId>ga</languageId><trName>An tSaimbia</trName></name>
       <name><languageId>gd</languageId><trName>Sàimbia</trName></name>
       <name><languageId>gl</languageId><trName>Zambia</trName></name>
@@ -20104,6 +20255,7 @@
       <name><languageId>fo</languageId><trName>Simbabvi</trName></name>
       <name><languageId>fr</languageId><trName>Zimbabwe</trName></name>
       <name><languageId>fur</languageId><trName>Zimbabwe</trName></name>
+      <name><languageId>fy</languageId><trName>Zimbabwe</trName></name>
       <name><languageId>ga</languageId><trName>An tSiombáib</trName></name>
       <name><languageId>gd</languageId><trName>An t-Sìombab</trName></name>
       <name><languageId>gl</languageId><trName>Cimbabue</trName></name>
