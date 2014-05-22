@@ -6,7 +6,7 @@
 
 Name:           langtable
 Version:        0.0.24
-Release:        1%{?dist}
+Release:        2%{?dist}
 Summary:        Guessing reasonable defaults for locale, keyboard layout, territory, and language.
 Group:          Development/Tools
 # the translations in languages.xml and territories.xml are (mostly)
@@ -109,6 +109,7 @@ xmllint --noout --relaxng $RPM_BUILD_ROOT/%{_datadir}/langtable/schemas/timezone
 
 %files
 %doc README COPYING ChangeLog unicode-license.txt test_cases.py
+%{_datadir}/langtable/
 %{_datadir}/langtable/schemas
 
 %files python
@@ -120,9 +121,13 @@ xmllint --noout --relaxng $RPM_BUILD_ROOT/%{_datadir}/langtable/schemas/timezone
 %endif # with_python3
 
 %files data
+%{_datadir}/langtable/
 %{_datadir}/langtable/*.xml.gz
 
 %changelog
+* Thu May 22 2014 Mike FABIAN <mfabian@redhat.com> - 0.0.24-2
+- Resolves: rhbz#1100230 - Unowned dir /usr/share/langtable
+
 * Mon Feb 24 2014 Mike FABIAN <mfabian@redhat.com> - 0.0.24-1
 - mark Bengali (bd) and its Probhat variant layout as not ASCII-capable (by Adam Williamson)
 - Also validate timezones.xml and timezoneidparts.xml in .spec file
