@@ -1,3 +1,9 @@
+2014-07-09  Mike FABIAN  <mfabian@redhat.com>
+
+	* Version 0.0.25 released
+	* Own directory /usr/share/langtable in rpm package (Resolves: rhbz#1100230)
+	* Add fi(classic) keyboard layout (Resolves: rhbz#1117860)
+
 2014-02-24  Mike FABIAN  <mfabian@redhat.com>
 
 	* Version 0.0.24 released

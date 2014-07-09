@@ -5,7 +5,7 @@
 %endif
 
 Name:           langtable
-Version:        0.0.24
+Version:        0.0.25
 Release:        2%{?dist}
 Summary:        Guessing reasonable defaults for locale, keyboard layout, territory, and language.
 Group:          Development/Tools
@@ -125,6 +125,9 @@ xmllint --noout --relaxng $RPM_BUILD_ROOT/%{_datadir}/langtable/schemas/timezone
 %{_datadir}/langtable/*.xml.gz
 
 %changelog
+* Wed Jul 09 2014 Mike FABIAN <mfabian@redhat.com> - 0.0.25-1
+- Add fi(classic) keyboard layout (Resolves: rhbz#1117860)
+
 * Thu May 22 2014 Mike FABIAN <mfabian@redhat.com> - 0.0.24-2
 - Resolves: rhbz#1100230 - Unowned dir /usr/share/langtable
 
