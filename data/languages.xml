@@ -5639,7 +5639,7 @@
     </territories>
     <keyboards>
       <keyboard><keyboardId>fi</keyboardId><rank>900</rank></keyboard>
-      <keyboard><keyboardId>fi(nodeadkeys)</keyboardId><rank>100</rank></keyboard>
+      <keyboard><keyboardId>fi(classic)</keyboardId><rank>100</rank></keyboard>
     </keyboards>
     <inputmethods>
     </inputmethods>
@@ -18672,7 +18672,7 @@
     </territories>
     <keyboards>
       <keyboard><keyboardId>se</keyboardId><rank>900</rank></keyboard>
-      <keyboard><keyboardId>fi(nodeadkeys)</keyboardId><rank>100</rank></keyboard>
+      <keyboard><keyboardId>fi</keyboardId><rank>100</rank></keyboard>
     </keyboards>
     <inputmethods>
     </inputmethods>

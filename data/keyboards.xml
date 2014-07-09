@@ -775,6 +775,18 @@
     </territories>
   </keyboard>
   <keyboard>
+    <keyboardId>fi(classic)</keyboardId>
+    <description>Finnish (classic)</description>
+    <ascii>True</ascii>
+    <languages>
+      <language><languageId>fi</languageId><rank>900</rank></language>
+      <language><languageId>sv</languageId><rank>100</rank></language>
+    </languages>
+    <territories>
+      <territory><territoryId>FI</territoryId><rank>1000</rank></territory>
+    </territories>
+  </keyboard>
+  <keyboard>
     <keyboardId>fi(nodeadkeys)</keyboardId>
     <description>Finnish (classic, eliminate dead keys)</description>
     <ascii>True</ascii>
