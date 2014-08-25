@@ -5,8 +5,8 @@
 %endif
 
 Name:           langtable
-Version:        0.0.25
-Release:        2%{?dist}
+Version:        0.0.26
+Release:        1%{?dist}
 Summary:        Guessing reasonable defaults for locale, keyboard layout, territory, and language.
 Group:          Development/Tools
 # the translations in languages.xml and territories.xml are (mostly)
@@ -125,8 +125,17 @@ xmllint --noout --relaxng $RPM_BUILD_ROOT/%{_datadir}/langtable/schemas/timezone
 %{_datadir}/langtable/*.xml.gz
 
 %changelog
+* Mon Aug 25 2014 Mike FABIAN <mfabian@redhat.com> - 0.0.26-1
+- Use English as the default language for India (Resolves: rhbz#1133188)
+
 * Wed Jul 09 2014 Mike FABIAN <mfabian@redhat.com> - 0.0.25-1
 - Add fi(classic) keyboard layout (Resolves: rhbz#1117860)
+
+* Sat Jun 07 2014 Fedora Release Engineering <rel-eng@lists.fedoraproject.org> - 0.0.24-4
+- Rebuilt for https://fedoraproject.org/wiki/Fedora_21_Mass_Rebuild
+
+* Wed May 28 2014 Kalev Lember <kalevlember@gmail.com> - 0.0.24-3
+- Rebuilt for https://fedoraproject.org/wiki/Changes/Python_3.4
 
 * Thu May 22 2014 Mike FABIAN <mfabian@redhat.com> - 0.0.24-2
 - Resolves: rhbz#1100230 - Unowned dir /usr/share/langtable
