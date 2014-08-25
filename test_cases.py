@@ -812,6 +812,16 @@ def dummy():
         BE: ['be(oss)']
          +: ['be(oss)']
 
+    # English should be the default language for India
+    # (see: https://bugzilla.redhat.com/show_bug.cgi?id=1133188):
+    >>> _test_language_territory(show_weights=False, languageId="hi", territoryId="IN") # doctest: +NORMALIZE_WHITESPACE
+        hi: ['hi_IN.UTF-8']
+        IN: ['en_IN.UTF-8', 'hi_IN.UTF-8', 'bn_IN.UTF-8', 'te_IN.UTF-8', 'mr_IN.UTF-8', 'ta_IN.UTF-8', 'ur_IN.UTF-8', 'gu_IN.UTF-8', 'kn_IN.UTF-8', 'ml_IN.UTF-8', 'or_IN.UTF-8', 'pa_IN.UTF-8', 'as_IN.UTF-8', 'mai_IN.UTF-8', 'sat_IN.UTF-8', 'ks_IN.UTF-8', 'ks_IN.UTF-8@devanagari', 'kok_IN.UTF-8', 'sd_IN.UTF-8', 'sd_IN.UTF-8@devanagari', 'doi_IN.UTF-8', 'mni_IN.UTF-8', 'brx_IN.UTF-8', 'bho_IN.UTF-8', 'bo_IN.UTF-8', 'hne_IN.UTF-8', 'mag_IN.UTF-8', 'ar_IN.UTF-8']
+         +: ['hi_IN.UTF-8']
+        hi: ['in(eng)']
+        IN: ['in(eng)']
+         +: ['in(eng)']
+
     >>> print(language_name(languageId="de")) # doctest: +NORMALIZE_WHITESPACE
         Deutsch
 
