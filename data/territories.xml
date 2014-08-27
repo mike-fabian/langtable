@@ -9709,8 +9709,8 @@
       <name><languageId>zu</languageId><trName>i-India</trName></name>
     </names>
     <locales>
-      <locale><localeId>en_IN.UTF-8</localeId><rank>400</rank></locale>
-      <locale><localeId>hi_IN.UTF-8</localeId><rank>200</rank></locale>
+      <locale><localeId>hi_IN.UTF-8</localeId><rank>400</rank></locale>
+      <locale><localeId>en_IN.UTF-8</localeId><rank>200</rank></locale>
       <locale><localeId>bn_IN.UTF-8</localeId><rank>150</rank></locale>
       <locale><localeId>te_IN.UTF-8</localeId><rank>140</rank></locale>
       <locale><localeId>mr_IN.UTF-8</localeId><rank>130</rank></locale>
@@ -9740,8 +9740,8 @@
       <locale><localeId>sa_IN.UTF-8</localeId><rank>0</rank></locale>
     </locales>
     <languages>
-      <language><languageId>en</languageId><rank>400</rank></language>
-      <language><languageId>hi</languageId><rank>200</rank></language>
+      <language><languageId>hi</languageId><rank>400</rank></language>
+      <language><languageId>en</languageId><rank>200</rank></language>
       <language><languageId>bn</languageId><rank>150</rank></language>
       <language><languageId>te</languageId><rank>140</rank></language>
       <language><languageId>mr</languageId><rank>130</rank></language>
