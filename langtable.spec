@@ -5,7 +5,7 @@
 %endif
 
 Name:           langtable
-Version:        0.0.26
+Version:        0.0.27
 Release:        1%{?dist}
 Summary:        Guessing reasonable defaults for locale, keyboard layout, territory, and language.
 Group:          Development/Tools
@@ -125,6 +125,10 @@ xmllint --noout --relaxng $RPM_BUILD_ROOT/%{_datadir}/langtable/schemas/timezone
 %{_datadir}/langtable/*.xml.gz
 
 %changelog
+* Wed Aug 27 2014 Mike FABIAN <mfabian@redhat.com> - 0.0.27-1
+- Use Hindi again as the default language for India (Resolves: rhbz#1133188)
+- Some translation updates from CLDR.
+
 * Mon Aug 25 2014 Mike FABIAN <mfabian@redhat.com> - 0.0.26-1
 - Use English as the default language for India (Resolves: rhbz#1133188)
 
