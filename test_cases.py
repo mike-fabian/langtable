@@ -961,22 +961,22 @@ def dummy():
         繁體中文 (中華人民共和國澳門特別行政區)
 
     >>> print(language_name(languageId="sr")) # doctest: +NORMALIZE_WHITESPACE
-        Српски
+        српски
 
     >>> print(language_name(languageId="sr", territoryId="RS")) # doctest: +NORMALIZE_WHITESPACE
-        Српски (Србија)
+        српски (Србија)
 
     >>> print(language_name(languageId="sr", territoryId="ME")) # doctest: +NORMALIZE_WHITESPACE
-        Српски (Црна Гора)
+        српски (Црна Гора)
 
     >>> print(language_name(languageId="sr", scriptId="Cyrl")) # doctest: +NORMALIZE_WHITESPACE
-        Српски (Ћирилица)
+        српски (Ћирилица)
 
     >>> print(language_name(languageId="sr", scriptId="Latn")) # doctest: +NORMALIZE_WHITESPACE
         Srpski (Latinica)
 
     >>> print(language_name(languageId="sr", scriptId="Cyrl", territoryId="RS")) # doctest: +NORMALIZE_WHITESPACE
-        Српски (Ћирилица) (Србија)
+        српски (Ћирилица) (Србија)
 
     >>> print(language_name(languageId="sr", scriptId="Latn", territoryId="RS")) # doctest: +NORMALIZE_WHITESPACE
         Srpski (Latinica) (Srbija)
@@ -1266,10 +1266,10 @@ def dummy():
         Pacific/Pago_Pago
 
     >>> print(langtable.timezone_name(timezoneId='America/Vancouver', languageIdQuery='ast'))  # doctest: +NORMALIZE_WHITESPACE
-        America/Vancouver
+        América/Vancouver
 
     >>> print(langtable.timezone_name(timezoneId='Pacific/Pago_Pago', languageIdQuery='ast'))  # doctest: +NORMALIZE_WHITESPACE
-        Pacific/Pago_Pago
+        Océanu Pacíficu/Pago Pago
     '''
 
 if __name__ == "__main__":

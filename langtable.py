@@ -954,16 +954,16 @@ def language_name(languageId = None, scriptId = None, territoryId = None, langua
     Examples:
 
     >>> print(language_name(languageId="sr"))
-    Српски
+    српски
 
     I.e. the endonym for “Serbian” in the default Cyrillic script is
-    “Српски”.
+    “српски”.
 
     If the script “Cyrl” is supplied as well, the name of the
     script is added for clarity:
 
     >>> print(language_name(languageId="sr", scriptId="Cyrl"))
-    Српски (Ћирилица)
+    српски (Ћирилица)
 
     And in Latin script the endonym is:
 
