@@ -1,3 +1,10 @@
+2014-09-24  Mike FABIAN  <mfabian@redhat.com>
+
+	* Version 0.0.28 released
+	* Fix main.py to work with Python3
+	* Do not used translations tagged with 'variant' in CLDR
+	* Rename Uyghur keyboard cn(uig) → cn(ug) (for xkeyboard-config >= 2.12, shipped with Fedora 21 Alpha)
+
 2014-08-27  Mike FABIAN  <mfabian@redhat.com>
 
 	* Version 0.0.27 released
