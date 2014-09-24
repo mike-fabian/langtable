@@ -1,4 +1,4 @@
-#!/usr/bin/python
+#!/usr/bin/python3
 # vim:fileencoding=utf-8:sw=4:et
 
 # Copyright (c) 2013 Mike FABIAN <mfabian@redhat.com>
@@ -87,7 +87,7 @@ def read_translations_from_cldr_file(file = None):
     if file:
         ldmlTree = etree.parse(file).getroot()
         if ldmlTree.tag != 'ldml':
-            print "error: Wrong ldmlTree.tag=%(tag)s." %ldmlTree.tag
+            print("error: Wrong ldmlTree.tag=%(tag)s." %ldmlTree.tag)
             exit(1)
         if len(ldmlTree):
             for element in ldmlTree:
@@ -142,85 +142,82 @@ def get_translations_from_cldr(main_cldr_dir = None):
         for language_to_translate in translations_languages:
             if language_to_translate in langtable._languages_db:
                 if target_language not in langtable._languages_db[language_to_translate].names:
-                    print "Missing: %(language_to_translate)s → %(target_language)s = %(tr)s" \
-                        %{'language_to_translate': language_to_translate,
-                          'target_language': target_language,
-                          'tr': translations_languages[language_to_translate].encode('UTF-8')}
+                    print("Missing: %(language_to_translate)s → %(target_language)s = %(tr)s" %{
+                        'language_to_translate': language_to_translate,
+                        'target_language': target_language,
+                        'tr': translations_languages[language_to_translate]})
                     langtable._languages_db[language_to_translate].names[target_language] = translations_languages[language_to_translate]
                 elif translations_languages[language_to_translate] \
                      == langtable._languages_db[language_to_translate].names[target_language]:
                     if opts['debug']:
-                        print "Identical: %(language_to_translate)s → %(target_language)s = %(tr)s" \
-                            %{'language_to_translate': language_to_translate,
-                              'target_language': target_language,
-                              'tr': translations_languages[language_to_translate].encode('UTF-8')}
+                        print("Identical: %(language_to_translate)s → %(target_language)s = %(tr)s" %{
+                            'language_to_translate': language_to_translate,
+                            'target_language': target_language,
+                            'tr': translations_languages[language_to_translate]})
                 else:
-                    print "- %(language_to_translate)s → %(target_language)s = %(tr)s" \
-                        %{'language_to_translate': language_to_translate,
-                          'target_language': target_language,
-                          'tr': langtable._languages_db[language_to_translate].names[target_language].encode('UTF-8')}
-                    print "+ %(language_to_translate)s → %(target_language)s = %(tr)s" \
-                        %{'language_to_translate': language_to_translate,
-                          'target_language': target_language,
-                          'tr': translations_languages[language_to_translate].encode('UTF-8')}
+                    print("- %(language_to_translate)s → %(target_language)s = %(tr)s" %{
+                        'language_to_translate': language_to_translate,
+                        'target_language': target_language,
+                        'tr': langtable._languages_db[language_to_translate].names[target_language]})
+                    print("+ %(language_to_translate)s → %(target_language)s = %(tr)s" %{
+                        'language_to_translate': language_to_translate,
+                        'target_language': target_language,
+                        'tr': translations_languages[language_to_translate]})
             else:
                 if opts['debug']:
-                    print "Not in langtable: %(language_to_translate)s" \
-                        %{'language_to_translate': language_to_translate}
+                    print("Not in langtable: %(language_to_translate)s" %{
+                        'language_to_translate': language_to_translate})
         for territory_to_translate in translations_territories:
             if territory_to_translate in langtable._territories_db:
                 if target_language not in langtable._territories_db[territory_to_translate].names:
-                    print "Missing: %(territory_to_translate)s → %(target_language)s = %(tr)s" \
-                        %{'territory_to_translate': territory_to_translate,
-                          'target_language': target_language,
-                          'tr': translations_territories[territory_to_translate].encode('UTF-8')}
+                    print("Missing: %(territory_to_translate)s → %(target_language)s = %(tr)s" %{'territory_to_translate': territory_to_translate,
+                                                                                                  'target_language': target_language,
+                                                                                                  'tr': translations_territories[territory_to_translate]})
                     langtable._territories_db[territory_to_translate].names[target_language] = translations_territories[territory_to_translate]
                 elif translations_territories[territory_to_translate] \
                      == langtable._territories_db[territory_to_translate].names[target_language]:
                     if opts['debug']:
-                        print "Identical: %(territory_to_translate)s → %(target_language)s = %(tr)s" \
-                            %{'territory_to_translate': territory_to_translate,
-                              'target_language': target_language,
-                              'tr': translations_territories[territory_to_translate].encode('UTF-8')}
+                        print("Identical: %(territory_to_translate)s → %(target_language)s = %(tr)s" %{'territory_to_translate': territory_to_translate,
+                                                                                                        'target_language': target_language,
+                                                                                                        'tr': translations_territories[territory_to_translate]})
                 else:
-                    print "- %(territory_to_translate)s → %(target_language)s = %(tr)s" \
-                        %{'territory_to_translate': territory_to_translate,
-                          'target_language': target_language,
-                          'tr': langtable._territories_db[territory_to_translate].names[target_language].encode('UTF-8')}
-                    print "+ %(territory_to_translate)s → %(target_language)s = %(tr)s" \
-                        %{'territory_to_translate': territory_to_translate,
-                          'target_language': target_language,
-                          'tr': translations_territories[territory_to_translate].encode('UTF-8')}
+                    print("- %(territory_to_translate)s → %(target_language)s = %(tr)s" %{
+                        'territory_to_translate': territory_to_translate,
+                        'target_language': target_language,
+                        'tr': langtable._territories_db[territory_to_translate].names[target_language]})
+                    print("+ %(territory_to_translate)s → %(target_language)s = %(tr)s" %{'territory_to_translate': territory_to_translate,
+                                                                                           'target_language': target_language,
+                                                                                           'tr': translations_territories[territory_to_translate]})
             else:
                 if opts['debug']:
-                    print "Not in langtable: %(territory_to_translate)s" \
-                        %{'territory_to_translate': territory_to_translate}
+                    print("Not in langtable: %(territory_to_translate)s" %{
+                        'territory_to_translate': territory_to_translate})
         for timezone_city_to_translate in translations_timezone_cities:
             if timezone_city_to_translate in langtable._timezoneIdParts_db:
                 if target_language not in langtable._timezoneIdParts_db[timezone_city_to_translate].names:
                     if timezone_city_to_translate not in ['Vevay', 'Center']:
-                        print "Missing: %(timezone_city_to_translate)s → %(target_language)s = %(tr)s" \
-                            %{'timezone_city_to_translate': timezone_city_to_translate,
-                              'target_language': target_language,
-                              'tr': translations_timezone_cities[timezone_city_to_translate].encode('UTF-8')}
+                        print("Missing: %(timezone_city_to_translate)s → %(target_language)s = %(tr)s" %{
+                            'timezone_city_to_translate': timezone_city_to_translate,
+                            'target_language': target_language,
+                            'tr': translations_timezone_cities[timezone_city_to_translate]})
                         langtable._timezoneIdParts_db[timezone_city_to_translate].names[target_language] = translations_timezone_cities[timezone_city_to_translate]
                 elif translations_timezone_cities[timezone_city_to_translate] \
                      == langtable._timezoneIdParts_db[timezone_city_to_translate].names[target_language]:
                     if opts['debug']:
-                        print "Identical: %(timezone_city_to_translate)s → %(target_language)s = %(tr)s" \
-                            %{'timezone_city_to_translate': timezone_city_to_translate,
-                              'target_language': target_language,
-                              'tr': translations_timezone_cities[timezone_city_to_translate].encode('UTF-8')}
+                        print("Identical: %(timezone_city_to_translate)s → %(target_language)s = %(tr)s" %{
+                            'timezone_city_to_translate': timezone_city_to_translate,
+                            'target_language': target_language,
+                            'tr': translations_timezone_cities[timezone_city_to_translate]})
                 else:
                     if timezone_city_to_translate not in ['Marengo', 'Knox', 'Tell_City', 'Beulah', 'Winamac', 'Vincennes', 'Petersburg', 'Monticello', 'New_Salem', 'Center', 'Melbourne', 'Darwin', 'Hobart', 'Sydney', 'Broken_Hill', 'Mendoza', 'Perth', 'San_Juan', 'Cordoba', 'Brisbane', 'Adelaide', 'Catamarca', 'Currie', 'Vevay', 'Eucla']:
-                        print "- %(timezone_city_to_translate)s → %(target_language)s = %(tr)s" \
-                            %{'timezone_city_to_translate': timezone_city_to_translate,
-                              'target_language': target_language,
-                              'tr': langtable._timezoneIdParts_db[timezone_city_to_translate].names[target_language].encode('UTF-8')}
-                        print "+ %(timezone_city_to_translate)s → %(target_language)s = %(tr)s" \
-                            %{'timezone_city_to_translate': timezone_city_to_translate,
-                              'target_language': target_language,
-                              'tr': translations_timezone_cities[timezone_city_to_translate].encode('UTF-8')}
+                        print("- %(timezone_city_to_translate)s → %(target_language)s = %(tr)s" %{
+                            'timezone_city_to_translate': timezone_city_to_translate,
+                            'target_language': target_language,
+                            'tr': langtable._timezoneIdParts_db[timezone_city_to_translate].names[target_language]})
+                        print("+ %(timezone_city_to_translate)s → %(target_language)s = %(tr)s" %{
+                            'timezone_city_to_translate': timezone_city_to_translate,
+                            'target_language': target_language,
+                            'tr': translations_timezone_cities[timezone_city_to_translate]})
     return
 
 def _test_timezone_names():
@@ -228,10 +225,10 @@ def _test_timezone_names():
     languages_supported_by_anaconda = ['af', 'am', 'ar', 'as', 'ast', 'bal', 'be', 'bg', 'bn', 'bn_IN', 'bs', 'ca', 'cs', 'cy', 'da', 'de', 'de_CH', 'el', 'en', 'en_GB', 'es', 'et', 'eu', 'eu_ES', 'fa', 'fi', 'fr', 'gl', 'gu', 'he', 'hi', 'hr', 'hu', 'hy', 'ia', 'id', 'ilo', 'is', 'it', 'ja', 'ka', 'kk', 'kn', 'ko', 'lt', 'lv', 'mai', 'mk', 'ml', 'mr', 'ms', 'nb', 'nds', 'ne', 'nl', 'nn', 'nso', 'or', 'pa', 'pl', 'pt', 'pt_BR', 'ro', 'ru', 'si', 'sk', 'sl', 'sq', 'sr', 'sr_Latn', 'sv', 'ta', 'te', 'tg', 'th', 'tr', 'uk', 'ur', 'vi', 'zh_CN', 'zh_TW', 'zu']
     for icuLocaleId in languages_supported_by_anaconda:
         for timezoneId in common_timezones:
-            print "%(lang)s: '%(id)s' -> '%(tr)s'" %{
+            print("%(lang)s: '%(id)s' -> '%(tr)s'" %{
                 'lang': icuLocaleId,
                 'id': timezoneId,
-                'tr': timezone_name(timezoneId=timezoneId, languageIdQuery=icuLocaleId)}
+                'tr': timezone_name(timezoneId=timezoneId, languageIdQuery=icuLocaleId)})
 def main():
     args = parse_args()
     if args.debug:

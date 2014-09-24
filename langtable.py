@@ -575,7 +575,7 @@ def _write_territories_file(file):
             file.write(
                 '      <name>'
                 +'<languageId>'+name+'</languageId>'
-                +'<trName>'+names[name].encode('UTF-8')+'</trName>'
+                +'<trName>'+names[name]+'</trName>'
                 +'</name>\n')
         file.write('    </names>\n')
         locales = _territories_db[territoryId].locales
@@ -654,7 +654,7 @@ def _write_languages_file(file):
             file.write(
                 '      <name>'
                 +'<languageId>'+name+'</languageId>'
-                +'<trName>'+names[name].encode('UTF-8')+'</trName>'
+                +'<trName>'+names[name]+'</trName>'
                 +'</name>\n')
         file.write('    </names>\n')
         locales = _languages_db[languageId].locales
@@ -727,7 +727,7 @@ def _write_keyboards_file(file):
         file.write('    <description>'+_keyboards_db[keyboardId].description+'</description>\n')
         file.write('    <ascii>'+str(_keyboards_db[keyboardId].ascii)+'</ascii>\n')
         if _keyboards_db[keyboardId].comment != None:
-            file.write('    <comment>'+_keyboards_db[keyboardId].comment.encode('UTF-8')+'</comment>\n')
+            file.write('    <comment>'+_keyboards_db[keyboardId].comment+'</comment>\n')
         languages = _keyboards_db[keyboardId].languages
         file.write('    <languages>\n')
         for languageId, rank in sorted(languages.items(), key=lambda x: (-1*x[1],x[0])):
@@ -765,7 +765,7 @@ def _write_timezones_file(file):
             file.write(
                 '      <name>'
                 +'<languageId>'+name+'</languageId>'
-                +'<trName>'+names[name].encode('UTF-8')+'</trName>'
+                +'<trName>'+names[name]+'</trName>'
                 +'</name>\n')
         file.write('    </names>\n')
         file.write('  </timezone>\n')
@@ -787,7 +787,7 @@ def _write_timezoneIdParts_file(file):
             file.write(
                 '      <name>'
                 +'<languageId>'+name+'</languageId>'
-                +'<trName>'+names[name].encode('UTF-8')+'</trName>'
+                +'<trName>'+names[name]+'</trName>'
                 +'</name>\n')
         file.write('    </names>\n')
         file.write('  </timezoneIdPart>\n')
