@@ -1328,7 +1328,7 @@
       <name><languageId>es</languageId><trName>azerí</trName></name>
       <name><languageId>et</languageId><trName>aserbaidžaani</trName></name>
       <name><languageId>eu</languageId><trName>azerbaijanera</trName></name>
-      <name><languageId>fa</languageId><trName>آذربایجانی</trName></name>
+      <name><languageId>fa</languageId><trName>ترکی آذربایجانی</trName></name>
       <name><languageId>fi</languageId><trName>azeri</trName></name>
       <name><languageId>fil</languageId><trName>Azerbaijani</trName></name>
       <name><languageId>fo</languageId><trName>azerbaijaniskt</trName></name>
@@ -11799,7 +11799,7 @@
       <name><languageId>dsb</languageId><trName>kirgišćina</trName></name>
       <name><languageId>dz</languageId><trName>ཀིར་གིས་ཁ</trName></name>
       <name><languageId>el</languageId><trName>Κυργιζικά</trName></name>
-      <name><languageId>en</languageId><trName>Kirghiz</trName></name>
+      <name><languageId>en</languageId><trName>Kyrgyz</trName></name>
       <name><languageId>eo</languageId><trName>kirgiza</trName></name>
       <name><languageId>es</languageId><trName>kirguís</trName></name>
       <name><languageId>et</languageId><trName>kirgiisi</trName></name>
@@ -16731,59 +16731,59 @@
     <iso639-2-t>pus</iso639-2-t>
     <iso639-2-b>pus</iso639-2-b>
     <names>
-      <name><languageId>af</languageId><trName>Pushto</trName></name>
-      <name><languageId>am</languageId><trName>ፑሽቶ</trName></name>
-      <name><languageId>ar</languageId><trName>بشتو</trName></name>
+      <name><languageId>af</languageId><trName>Pasjto</trName></name>
+      <name><languageId>am</languageId><trName>ፓሽቶኛ</trName></name>
+      <name><languageId>ar</languageId><trName>البشتونية</trName></name>
       <name><languageId>ast</languageId><trName>pashtu</trName></name>
       <name><languageId>az</languageId><trName>puştu</trName></name>
       <name><languageId>be</languageId><trName>пушту</trName></name>
-      <name><languageId>bg</languageId><trName>пущунски</trName></name>
-      <name><languageId>bn</languageId><trName>পুশতো</trName></name>
+      <name><languageId>bg</languageId><trName>пущу</trName></name>
+      <name><languageId>bn</languageId><trName>পাশ্তু</trName></name>
       <name><languageId>br</languageId><trName>pachto</trName></name>
       <name><languageId>brx</languageId><trName>पख़्तु</trName></name>
-      <name><languageId>bs</languageId><trName>pušto</trName></name>
+      <name><languageId>bs</languageId><trName>paštunski</trName></name>
       <name><languageId>byn</languageId><trName>ፑሽቶኛ</trName></name>
-      <name><languageId>ca</languageId><trName>pushtu</trName></name>
+      <name><languageId>ca</languageId><trName>paixtu</trName></name>
       <name><languageId>cs</languageId><trName>paštština</trName></name>
       <name><languageId>cy</languageId><trName>Pashto</trName></name>
-      <name><languageId>da</languageId><trName>pushto</trName></name>
+      <name><languageId>da</languageId><trName>pashto</trName></name>
       <name><languageId>de</languageId><trName>Paschtu</trName></name>
       <name><languageId>dsb</languageId><trName>paštunšćina</trName></name>
       <name><languageId>dz</languageId><trName>པཱཤ་ཏོ་ཁ</trName></name>
       <name><languageId>el</languageId><trName>Πάστο</trName></name>
-      <name><languageId>en</languageId><trName>Pushto</trName></name>
+      <name><languageId>en</languageId><trName>Pashto</trName></name>
       <name><languageId>eo</languageId><trName>paŝtoa</trName></name>
-      <name><languageId>es</languageId><trName>pastú</trName></name>
+      <name><languageId>es</languageId><trName>pastún</trName></name>
       <name><languageId>et</languageId><trName>puštu</trName></name>
-      <name><languageId>eu</languageId><trName>pashtoera</trName></name>
-      <name><languageId>fa</languageId><trName>پختو</trName></name>
+      <name><languageId>eu</languageId><trName>paxtuera</trName></name>
+      <name><languageId>fa</languageId><trName>پشتو</trName></name>
       <name><languageId>fi</languageId><trName>paštu</trName></name>
-      <name><languageId>fil</languageId><trName>Pushto</trName></name>
+      <name><languageId>fil</languageId><trName>Pashto</trName></name>
       <name><languageId>fo</languageId><trName>afghanskt</trName></name>
-      <name><languageId>fr</languageId><trName>pashto</trName></name>
+      <name><languageId>fr</languageId><trName>pachto</trName></name>
       <name><languageId>fur</languageId><trName>pashto</trName></name>
-      <name><languageId>fy</languageId><trName>Pashto</trName></name>
+      <name><languageId>fy</languageId><trName>Pasjtoe</trName></name>
       <name><languageId>ga</languageId><trName>Paistis</trName></name>
       <name><languageId>gd</languageId><trName>Pachtu</trName></name>
       <name><languageId>gl</languageId><trName>paxtún</trName></name>
-      <name><languageId>gu</languageId><trName>પુશ્તો</trName></name>
+      <name><languageId>gu</languageId><trName>પશ્તો</trName></name>
       <name><languageId>ha</languageId><trName>Pashtanci</trName></name>
-      <name><languageId>he</languageId><trName>פושטו</trName></name>
-      <name><languageId>hi</languageId><trName>पुश्तो</trName></name>
-      <name><languageId>hr</languageId><trName>puštu</trName></name>
+      <name><languageId>he</languageId><trName>פאשטו</trName></name>
+      <name><languageId>hi</languageId><trName>पश्तो</trName></name>
+      <name><languageId>hr</languageId><trName>paštu</trName></name>
       <name><languageId>hsb</languageId><trName>paštunšćina</trName></name>
       <name><languageId>hu</languageId><trName>pastu</trName></name>
       <name><languageId>hy</languageId><trName>փուշթու</trName></name>
       <name><languageId>ia</languageId><trName>pashto</trName></name>
-      <name><languageId>id</languageId><trName>Pushto</trName></name>
+      <name><languageId>id</languageId><trName>Pashto</trName></name>
       <name><languageId>is</languageId><trName>pastú</trName></name>
       <name><languageId>it</languageId><trName>pashto</trName></name>
-      <name><languageId>ja</languageId><trName>パシュトゥ語</trName></name>
+      <name><languageId>ja</languageId><trName>パシュトゥー語</trName></name>
       <name><languageId>ka</languageId><trName>პუშტუ</trName></name>
       <name><languageId>kk</languageId><trName>пушту</trName></name>
       <name><languageId>kl</languageId><trName>pashtomiutut</trName></name>
       <name><languageId>km</languageId><trName>បាស្តូ</trName></name>
-      <name><languageId>kn</languageId><trName>ಪುಶ್ತೋ</trName></name>
+      <name><languageId>kn</languageId><trName>ಪಾಷ್ಟೋ</trName></name>
       <name><languageId>ko</languageId><trName>파슈토어</trName></name>
       <name><languageId>kok</languageId><trName>पाष्टो (पुष्टो)</trName></name>
       <name><languageId>ks</languageId><trName>پَشتوٗ</trName></name>
@@ -16793,23 +16793,23 @@
       <name><languageId>lt</languageId><trName>puštūnų</trName></name>
       <name><languageId>lv</languageId><trName>puštu</trName></name>
       <name><languageId>mk</languageId><trName>паштунски</trName></name>
-      <name><languageId>ml</languageId><trName>പുഷ്തോ</trName></name>
+      <name><languageId>ml</languageId><trName>പഷ്തു</trName></name>
       <name><languageId>mn</languageId><trName>пашто</trName></name>
-      <name><languageId>mr</languageId><trName>पुश्तो</trName></name>
-      <name><languageId>ms</languageId><trName>Pushto</trName></name>
+      <name><languageId>mr</languageId><trName>पश्तो</trName></name>
+      <name><languageId>ms</languageId><trName>Pashto</trName></name>
       <name><languageId>mt</languageId><trName>Paxtun</trName></name>
       <name><languageId>my</languageId><trName>ပါရှ်တို</trName></name>
-      <name><languageId>nb</languageId><trName>pushto</trName></name>
+      <name><languageId>nb</languageId><trName>pashto</trName></name>
       <name><languageId>ne</languageId><trName>पाश्तो</trName></name>
-      <name><languageId>nl</languageId><trName>Pashto</trName></name>
+      <name><languageId>nl</languageId><trName>Pasjtoe</trName></name>
       <name><languageId>nn</languageId><trName>pashto</trName></name>
       <name><languageId>or</languageId><trName>ପାସ୍ତୋ</trName></name>
       <name><languageId>pa</languageId><trName>ਪਸ਼ਤੋ</trName></name>
-      <name><languageId>pl</languageId><trName>pasztuński</trName></name>
+      <name><languageId>pl</languageId><trName>paszto</trName></name>
       <name><languageId>ps</languageId><trName>پښتو</trName></name>
-      <name><languageId>pt</languageId><trName>pushto</trName></name>
+      <name><languageId>pt</languageId><trName>pashto</trName></name>
       <name><languageId>qu</languageId><trName>Pashto Simi</trName></name>
-      <name><languageId>ro</languageId><trName>pushto</trName></name>
+      <name><languageId>ro</languageId><trName>paștună</trName></name>
       <name><languageId>ru</languageId><trName>пушту</trName></name>
       <name><languageId>rw</languageId><trName>Impashito</trName></name>
       <name><languageId>si</languageId><trName>පෂ්ටො</trName></name>
@@ -16817,14 +16817,14 @@
       <name><languageId>sl</languageId><trName>paštunščina</trName></name>
       <name><languageId>so</languageId><trName>Bashtuu</trName></name>
       <name><languageId>sq</languageId><trName>pashto</trName></name>
-      <name><languageId>sr</languageId><trName>пашто</trName></name>
-      <name><languageId>sr_Latn</languageId><trName>pašto</trName></name>
+      <name><languageId>sr</languageId><trName>паштунски</trName></name>
+      <name><languageId>sr_Latn</languageId><trName>paštunski</trName></name>
       <name><languageId>st</languageId><trName>Pashto</trName></name>
-      <name><languageId>sv</languageId><trName>pashto</trName></name>
-      <name><languageId>sw</languageId><trName>Kipushto</trName></name>
-      <name><languageId>ta</languageId><trName>புஷ்தோ</trName></name>
-      <name><languageId>te</languageId><trName>పుష్టో</trName></name>
-      <name><languageId>th</languageId><trName>พุชโต</trName></name>
+      <name><languageId>sv</languageId><trName>afghanska</trName></name>
+      <name><languageId>sw</languageId><trName>Kipashto</trName></name>
+      <name><languageId>ta</languageId><trName>பஷ்தோ</trName></name>
+      <name><languageId>te</languageId><trName>పాష్టో</trName></name>
+      <name><languageId>th</languageId><trName>พาชตู</trName></name>
       <name><languageId>ti</languageId><trName>ፓሽቶ</trName></name>
       <name><languageId>tig</languageId><trName>ፑሽቶኛ</trName></name>
       <name><languageId>tr</languageId><trName>Peştuca</trName></name>
@@ -16833,14 +16833,14 @@
       <name><languageId>ur</languageId><trName>پشتو</trName></name>
       <name><languageId>uz</languageId><trName>pushtu tili</trName></name>
       <name><languageId>uz_Cyrl</languageId><trName>Пушту</trName></name>
-      <name><languageId>vi</languageId><trName>Tiếng Pushto</trName></name>
+      <name><languageId>vi</languageId><trName>Tiếng Pashto</trName></name>
       <name><languageId>wae</languageId><trName>Paštu</trName></name>
       <name><languageId>xh</languageId><trName>Pashto</trName></name>
       <name><languageId>yi</languageId><trName>פּאַשטאָ</trName></name>
       <name><languageId>zh</languageId><trName>普什图文</trName></name>
       <name><languageId>zh_Hant</languageId><trName>普什圖文</trName></name>
       <name><languageId>zh_Hant_HK</languageId><trName>普什圖語</trName></name>
-      <name><languageId>zu</languageId><trName>isi-Pushto</trName></name>
+      <name><languageId>zu</languageId><trName>isi-Pashto</trName></name>
     </names>
     <locales>
       <locale><localeId>ps_AF.UTF-8</localeId><rank>1000</rank></locale>
@@ -22060,8 +22060,8 @@
     <iso639-2-b>uig</iso639-2-b>
     <names>
       <name><languageId>af</languageId><trName>Uighur</trName></name>
-      <name><languageId>am</languageId><trName>ኡይገር</trName></name>
-      <name><languageId>ar</languageId><trName>الأيغورية</trName></name>
+      <name><languageId>am</languageId><trName>ኡዊግሁርኛ</trName></name>
+      <name><languageId>ar</languageId><trName>الأغورية</trName></name>
       <name><languageId>ast</languageId><trName>uigur</trName></name>
       <name><languageId>az</languageId><trName>uyğur</trName></name>
       <name><languageId>be</languageId><trName>уйгурская</trName></name>
@@ -22075,21 +22075,21 @@
       <name><languageId>ca</languageId><trName>uigur</trName></name>
       <name><languageId>cs</languageId><trName>ujgurština</trName></name>
       <name><languageId>cy</languageId><trName>Uighur</trName></name>
-      <name><languageId>da</languageId><trName>uighurisk</trName></name>
+      <name><languageId>da</languageId><trName>uygurisk</trName></name>
       <name><languageId>de</languageId><trName>Uigurisch</trName></name>
       <name><languageId>dsb</languageId><trName>ujguršćina</trName></name>
       <name><languageId>dz</languageId><trName>ཝི་གུར་ཁ</trName></name>
-      <name><languageId>el</languageId><trName>Ουιγκούρ</trName></name>
-      <name><languageId>en</languageId><trName>Uighur</trName></name>
+      <name><languageId>el</languageId><trName>Ουιγουρικά</trName></name>
+      <name><languageId>en</languageId><trName>Uyghur</trName></name>
       <name><languageId>eo</languageId><trName>ujgura</trName></name>
-      <name><languageId>es</languageId><trName>uygur</trName></name>
+      <name><languageId>es</languageId><trName>uigur</trName></name>
       <name><languageId>et</languageId><trName>uiguuri</trName></name>
       <name><languageId>eu</languageId><trName>uigurrera</trName></name>
       <name><languageId>fa</languageId><trName>اویغوری</trName></name>
       <name><languageId>fi</languageId><trName>uiguuri</trName></name>
-      <name><languageId>fil</languageId><trName>Uighur</trName></name>
+      <name><languageId>fil</languageId><trName>Uyghur</trName></name>
       <name><languageId>fo</languageId><trName>uighur</trName></name>
-      <name><languageId>fr</languageId><trName>ouïgour</trName></name>
+      <name><languageId>fr</languageId><trName>ouïghour</trName></name>
       <name><languageId>fur</languageId><trName>uigur</trName></name>
       <name><languageId>fy</languageId><trName>Oeigoers</trName></name>
       <name><languageId>ga</languageId><trName>Uigiúiris</trName></name>
@@ -22097,21 +22097,21 @@
       <name><languageId>gl</languageId><trName>uigur</trName></name>
       <name><languageId>gu</languageId><trName>ઉઇગુર</trName></name>
       <name><languageId>ha</languageId><trName>Ugiranci</trName></name>
-      <name><languageId>he</languageId><trName>אויגור</trName></name>
+      <name><languageId>he</languageId><trName>אויגהור</trName></name>
       <name><languageId>hi</languageId><trName>विघुर</trName></name>
       <name><languageId>hr</languageId><trName>ujgurski</trName></name>
       <name><languageId>hsb</languageId><trName>ujguršćina</trName></name>
       <name><languageId>hu</languageId><trName>ujgur</trName></name>
       <name><languageId>hy</languageId><trName>ույղուրերեն</trName></name>
       <name><languageId>ia</languageId><trName>Uyghur</trName></name>
-      <name><languageId>id</languageId><trName>Uighur</trName></name>
+      <name><languageId>id</languageId><trName>Uyghur</trName></name>
       <name><languageId>is</languageId><trName>úígúr</trName></name>
       <name><languageId>it</languageId><trName>uiguro</trName></name>
-      <name><languageId>ja</languageId><trName>ウィグル語</trName></name>
+      <name><languageId>ja</languageId><trName>ウイグル語</trName></name>
       <name><languageId>ka</languageId><trName>უიღურული</trName></name>
       <name><languageId>kk</languageId><trName>ұйғыр тілі</trName></name>
       <name><languageId>km</languageId><trName>អ៊ុយហ្គឺរ</trName></name>
-      <name><languageId>kn</languageId><trName>ಉಯ್‌ಗರ್</trName></name>
+      <name><languageId>kn</languageId><trName>ಉಯಿಘರ್</trName></name>
       <name><languageId>ko</languageId><trName>위구르어</trName></name>
       <name><languageId>kok</languageId><trName>उधूर</trName></name>
       <name><languageId>ky</languageId><trName>уйгурча</trName></name>
@@ -22120,10 +22120,10 @@
       <name><languageId>lt</languageId><trName>uigūrų</trName></name>
       <name><languageId>lv</languageId><trName>uiguru</trName></name>
       <name><languageId>mk</languageId><trName>ујгурски</trName></name>
-      <name><languageId>ml</languageId><trName>ഉയ്ഗൂർ</trName></name>
+      <name><languageId>ml</languageId><trName>ഉയ്ഘുർ</trName></name>
       <name><languageId>mn</languageId><trName>уйгар</trName></name>
       <name><languageId>mr</languageId><trName>उइगुर</trName></name>
-      <name><languageId>ms</languageId><trName>Uighur</trName></name>
+      <name><languageId>ms</languageId><trName>Uyghur</trName></name>
       <name><languageId>mt</languageId><trName>Wigur</trName></name>
       <name><languageId>my</languageId><trName>ဝီဂါ</trName></name>
       <name><languageId>nb</languageId><trName>uigurisk</trName></name>
@@ -22147,12 +22147,12 @@
       <name><languageId>sq</languageId><trName>ujgure</trName></name>
       <name><languageId>sr</languageId><trName>ујгурски</trName></name>
       <name><languageId>sr_Latn</languageId><trName>ujgurski</trName></name>
-      <name><languageId>sv</languageId><trName>östturkiska</trName></name>
+      <name><languageId>sv</languageId><trName>uiguriska</trName></name>
       <name><languageId>sw</languageId><trName>Kiuiguri</trName></name>
       <name><languageId>ta</languageId><trName>உய்குர்</trName></name>
       <name><languageId>te</languageId><trName>ఉయ్‌ఘర్</trName></name>
       <name><languageId>tg</languageId><trName>Ӯйғурӣ</trName></name>
-      <name><languageId>th</languageId><trName>อุยกูร์</trName></name>
+      <name><languageId>th</languageId><trName>อุยกัว</trName></name>
       <name><languageId>tig</languageId><trName>ኡዊግሁርኛ</trName></name>
       <name><languageId>tr</languageId><trName>Uygurca</trName></name>
       <name><languageId>ug</languageId><trName>ئۇيغۇرچە</trName></name>

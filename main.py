@@ -101,7 +101,7 @@ def read_translations_from_cldr_file(file = None):
                                     for element in languagesTree:
                                         languageId = element.get('type')
                                         translation = element.text
-                                        if not (element.get('alt') == 'short' and languageId in translations_languages):
+                                        if not (element.get('alt') in ['short', 'variant'] and languageId in translations_languages):
                                             translations_languages[languageId] = translation
                             if element.tag == 'territories':
                                 territoriesTree = element
@@ -109,7 +109,7 @@ def read_translations_from_cldr_file(file = None):
                                     for element in territoriesTree:
                                         territoryId = element.get('type')
                                         translation = element.text
-                                        if not (element.get('alt') == 'short' and territoryId in translations_territories):
+                                        if not (element.get('alt') in ['short', 'variant'] and territoryId in translations_territories):
                                             translations_territories[territoryId] = translation
                 if element.tag == 'dates':
                     datesTree = element
