@@ -908,7 +908,17 @@ def _parse_and_split_languageId(languageId=None, scriptId=None, territoryId=None
 def territory_name(territoryId = None, languageIdQuery = None, scriptIdQuery = None, territoryIdQuery = None):
     u'''Query translations of territory names
 
-    Examples:
+    :param territoryId: identifier for the territory
+    :type territoryId: string
+    :param languageIdQuery: identifier for the language used in the result
+    :type languageIdQuery: string
+    :param scriptIdQuery: identifier for the script used in the result
+    :type scriptIdQuery: string
+    :param territoryIdQuery: identifier for the territory used in the result
+    :type territoryIdQuery: string
+    :rtype: string
+
+    **Examples:**
 
     Switzerland is called “Schweiz” in German:
 
@@ -951,7 +961,21 @@ def territory_name(territoryId = None, languageIdQuery = None, scriptIdQuery = N
 def language_name(languageId = None, scriptId = None, territoryId = None, languageIdQuery = None, scriptIdQuery = None, territoryIdQuery = None):
     u'''Query translations of language names
 
-    Examples:
+    :param languageId: identifier for the language
+    :type languageId: string
+    :param scriptId: identifier for the script
+    :type scriptId: string
+    :param territoryId: identifier for the territory
+    :type territoryId: string
+    :param languageIdQuery: identifier for the language used in the result
+    :type languageIdQuery: string
+    :param scriptIdQuery: identifier for the script used in the result
+    :type scriptIdQuery: string
+    :param territoryIdQuery: identifier for the territory used in the result
+    :type territoryIdQuery: string
+    :rtype: string
+
+    **Examples:**
 
     >>> print(language_name(languageId="sr"))
     српски
@@ -1142,7 +1166,17 @@ def _timezone_name(timezoneId = None, icuLocaleIdQuery = None):
 def timezone_name(timezoneId = None, languageIdQuery = None, scriptIdQuery = None, territoryIdQuery = None):
     u'''Query translations of timezone IDs
 
-    Examples:
+    :param timezoneId: identifier for the time zone
+    :type timezoneId: string
+    :param languageIdQuery: identifier for the language used in the result
+    :type languageIdQuery: string
+    :param scriptIdQuery: identifier for the script used in the result
+    :type scriptIdQuery: string
+    :param territoryIdQuery: identifier for the territory used in the result
+    :type territoryId: string
+    :rtype: string
+
+    **Examples:**
 
     >>> print(timezone_name(timezoneId='US/Pacific', languageIdQuery='ja'))
     アメリカ合衆国/太平洋時間
@@ -1186,11 +1220,17 @@ def timezone_name(timezoneId = None, languageIdQuery = None, scriptIdQuery = Non
 def territoryId(territoryName = u''):
     '''Query the territoryId from a translated name of a territory.
 
+    :param territoryName: the translated name of a language
+    :type territoryName: string
+    :rtype: string
+
     The translated name given should be a Python Unicode string or an
     UTF-8 encoded string.
 
     The translated name can be in any language. But there will be only
     a result if the translation matches exactly.
+
+    **Examples:**
 
     >>> territoryId("India")
     'IN'
@@ -1221,11 +1261,17 @@ def territoryId(territoryName = u''):
 def languageId(languageName = u''):
     '''Query the languageId from a translated name of a language.
 
+    :param languageName: the translated name of a language
+    :type languageName: string
+    :rtype: string
+
     The translated name given should be a Python Unicode string or an
     UTF-8 encoded string.
 
     The translated name can be in any language. But there will be only
     a result if the translation matches exactly.
+
+    **Examples:**
 
     >>> languageId("Marathi")
     'mr'
@@ -1267,7 +1313,19 @@ extra_bonus = 1000000
 def list_locales(concise=True, show_weights=False, languageId = None, scriptId = None, territoryId = None):
     '''List suitable glibc locales
 
-    Examples:
+    :param concise: if True, return only to highly ranked results
+    :type concise: boolean
+    :param show_weights: Also return the weights used in the ranking
+    :type show_weights: boolean
+    :param languageId: identifier for the language
+    :type languageId: string
+    :param scriptId: identifier for the script
+    :type scriptId: string
+    :param territoryId: identifier for the territory
+    :type territoryId: string
+    :rtype: a list of strings
+
+    **Examples:**
 
     List the suitable locales for the language “German”:
 
@@ -1336,7 +1394,19 @@ def list_locales(concise=True, show_weights=False, languageId = None, scriptId =
 def list_inputmethods(concise=True, show_weights=False, languageId = None, scriptId = None, territoryId = None):
     '''List suitable input methods
 
-    Examples:
+    :param concise: if True, return only to highly ranked results
+    :type concise: boolean
+    :param show_weights: Also return the weights used in the ranking
+    :type show_weights: boolean
+    :param languageId: identifier for the language
+    :type languageId: string
+    :param scriptId: identifier for the script
+    :type scriptId: string
+    :param territoryId: identifier for the territory
+    :type territoryId: string
+    :rtype: a list of strings
+
+    **Examples:**
 
     List the suitable input methods for the language “Japanese”:
 
@@ -1398,7 +1468,19 @@ def list_inputmethods(concise=True, show_weights=False, languageId = None, scrip
 def list_keyboards(concise=True, show_weights=False, languageId = None, scriptId = None, territoryId = None):
     '''List likely X11 keyboard layouts
 
-    Examples:
+    :param concise: if True, return only to highly ranked results
+    :type concise: boolean
+    :param show_weights: Also return the weights used in the ranking
+    :type show_weights: boolean
+    :param languageId: identifier for the language
+    :type languageId: string
+    :param scriptId: identifier for the script
+    :type scriptId: string
+    :param territoryId: identifier for the territory
+    :type territoryId: string
+    :rtype: a list of strings
+
+    **Examples:**
 
     Listing likely X11 keyboard layouts for “German”:
 
@@ -1461,7 +1543,19 @@ def list_keyboards(concise=True, show_weights=False, languageId = None, scriptId
 def list_consolefonts(concise=True, show_weights=False, languageId = None, scriptId = None, territoryId = None):
     u'''List likely Linux Console fonts
 
-    Examples:
+    :param concise: if True, return only to highly ranked results
+    :type concise: boolean
+    :param show_weights: Also return the weights used in the ranking
+    :type show_weights: boolean
+    :param languageId: identifier for the language
+    :type languageId: string
+    :param scriptId: identifier for the script
+    :type scriptId: string
+    :param territoryId: identifier for the territory
+    :type territoryId: string
+    :rtype: a list of strings
+
+    **Examples:**
 
     Listing likely console fonts  for English:
 
@@ -1535,7 +1629,19 @@ def list_consolefonts(concise=True, show_weights=False, languageId = None, scrip
 def list_timezones(concise=True, show_weights=False, languageId = None, scriptId = None, territoryId = None):
     '''List likely timezones
 
-    Examples:
+    :param concise: if True, return only to highly ranked results
+    :type concise: boolean
+    :param show_weights: Also return the weights used in the ranking
+    :type show_weights: boolean
+    :param languageId: identifier for the language
+    :type languageId: string
+    :param scriptId: identifier for the script
+    :type scriptId: string
+    :param territoryId: identifier for the territory
+    :type territoryId: string
+    :rtype: a list of strings
+
+    **Examples:**
 
     >>> list_timezones(territoryId="DE")
     ['Europe/Berlin']
@@ -1600,11 +1706,18 @@ def list_timezones(concise=True, show_weights=False, languageId = None, scriptId
         return _ranked_list_to_list(ranked_list)
 
 def supports_ascii(keyboardId=None):
-    '''
+    '''Check whether a keyboard layout supports ASCII
+
+    :param keyboardId: identifier for the keyboard
+    :type keyboardId: string
+    :rtype: string
+
     Returns True if the keyboard layout with that id can be used to
     type ASCII, returns false if the keyboard layout can not be used
     to type ASCII or if typing ASCII with that keyboard layout is
     difficult.
+
+    **Examples:**
 
     >>> supports_ascii("jp")
     True
