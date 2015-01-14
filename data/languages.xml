@@ -3340,6 +3340,42 @@
     </timezones>
   </language>
   <language>
+    <languageId>cmn</languageId>
+    <iso639-1>None</iso639-1>
+    <iso639-2-t>None</iso639-2-t>
+    <iso639-2-b>None</iso639-2-b>
+    <names>
+      <name><languageId>cmn</languageId><trName>官话</trName></name>
+      <name><languageId>cmn_Hans</languageId><trName>官话</trName></name>
+      <name><languageId>cmn_Hant</languageId><trName>官話</trName></name>
+      <name><languageId>en</languageId><trName>Mandarin Chinese</trName></name>
+      <name><languageId>zh</languageId><trName>官话</trName></name>
+      <name><languageId>zh_Hans</languageId><trName>官话</trName></name>
+      <name><languageId>zh_Hant</languageId><trName>官話</trName></name>
+    </names>
+    <locales>
+      <locale><localeId>cmn_TW.UTF-8</localeId><rank>1000</rank></locale>
+    </locales>
+    <territories>
+      <territory><territoryId>TW</territoryId><rank>1000</rank></territory>
+    </territories>
+    <keyboards>
+      <keyboard><keyboardId>cn</keyboardId><rank>1000</rank></keyboard>
+    </keyboards>
+    <inputmethods>
+      <inputmethod><inputmethodId>ibus/libpinyin</inputmethodId><rank>900</rank></inputmethod>
+      <inputmethod><inputmethodId>ibus/chewing</inputmethodId><rank>20</rank></inputmethod>
+      <inputmethod><inputmethodId>ibus/cangjie</inputmethodId><rank>10</rank></inputmethod>
+    </inputmethods>
+    <consolefonts>
+      <consolefont><consolefontId>latarcyrheb-sun16</consolefontId><rank>1000</rank></consolefont>
+    </consolefonts>
+    <timezones>
+      <timezone><timezoneId>Asia/Shanghai</timezoneId><rank>900</rank></timezone>
+      <timezone><timezoneId>Asia/Taipei</timezoneId><rank>20</rank></timezone>
+    </timezones>
+  </language>
+  <language>
     <languageId>cs</languageId>
     <iso639-1>cs</iso639-1>
     <iso639-2-t>ces</iso639-2-t>
@@ -7830,6 +7866,42 @@
     </consolefonts>
     <timezones>
       <timezone><timezoneId>Africa/Lagos</timezoneId><rank>1000</rank></timezone>
+    </timezones>
+  </language>
+  <language>
+    <languageId>hak</languageId>
+    <iso639-1>None</iso639-1>
+    <iso639-2-t>None</iso639-2-t>
+    <iso639-2-b>None</iso639-2-b>
+    <names>
+      <name><languageId>en</languageId><trName>Hakka Chinese</trName></name>
+      <name><languageId>hak</languageId><trName>客家話</trName></name>
+      <name><languageId>hak_Hans</languageId><trName>客家语</trName></name>
+      <name><languageId>hak_Hant</languageId><trName>客家話</trName></name>
+      <name><languageId>zh</languageId><trName>客家話</trName></name>
+      <name><languageId>zh_Hans</languageId><trName>客家语</trName></name>
+      <name><languageId>zh_Hant</languageId><trName>客家話</trName></name>
+    </names>
+    <locales>
+      <locale><localeId>hak_TW.UTF-8</localeId><rank>1000</rank></locale>
+    </locales>
+    <territories>
+      <territory><territoryId>TW</territoryId><rank>1000</rank></territory>
+    </territories>
+    <keyboards>
+      <keyboard><keyboardId>cn</keyboardId><rank>1000</rank></keyboard>
+    </keyboards>
+    <inputmethods>
+      <inputmethod><inputmethodId>ibus/libpinyin</inputmethodId><rank>900</rank></inputmethod>
+      <inputmethod><inputmethodId>ibus/chewing</inputmethodId><rank>20</rank></inputmethod>
+      <inputmethod><inputmethodId>ibus/cangjie</inputmethodId><rank>10</rank></inputmethod>
+    </inputmethods>
+    <consolefonts>
+      <consolefont><consolefontId>latarcyrheb-sun16</consolefontId><rank>1000</rank></consolefont>
+    </consolefonts>
+    <timezones>
+      <timezone><timezoneId>Asia/Shanghai</timezoneId><rank>900</rank></timezone>
+      <timezone><timezoneId>Asia/Taipei</timezoneId><rank>20</rank></timezone>
     </timezones>
   </language>
   <language>
@@ -12971,6 +13043,38 @@
     </timezones>
   </language>
   <language>
+    <languageId>lzh</languageId>
+    <iso639-1>None</iso639-1>
+    <iso639-2-t>None</iso639-2-t>
+    <iso639-2-b>None</iso639-2-b>
+    <names>
+      <name><languageId>lzh</languageId><trName>文言</trName></name>
+      <name><languageId>en</languageId><trName>Classical Chinese</trName></name>
+      <name><languageId>zh</languageId><trName>文言文</trName></name>
+    </names>
+    <locales>
+      <locale><localeId>cmn_TW.UTF-8</localeId><rank>1000</rank></locale>
+    </locales>
+    <territories>
+      <territory><territoryId>TW</territoryId><rank>1000</rank></territory>
+    </territories>
+    <keyboards>
+      <keyboard><keyboardId>cn</keyboardId><rank>1000</rank></keyboard>
+    </keyboards>
+    <inputmethods>
+      <inputmethod><inputmethodId>ibus/libpinyin</inputmethodId><rank>900</rank></inputmethod>
+      <inputmethod><inputmethodId>ibus/chewing</inputmethodId><rank>20</rank></inputmethod>
+      <inputmethod><inputmethodId>ibus/cangjie</inputmethodId><rank>10</rank></inputmethod>
+    </inputmethods>
+    <consolefonts>
+      <consolefont><consolefontId>latarcyrheb-sun16</consolefontId><rank>1000</rank></consolefont>
+    </consolefonts>
+    <timezones>
+      <timezone><timezoneId>Asia/Shanghai</timezoneId><rank>900</rank></timezone>
+      <timezone><timezoneId>Asia/Taipei</timezoneId><rank>20</rank></timezone>
+    </timezones>
+  </language>
+  <language>
     <languageId>mag</languageId>
     <iso639-1>None</iso639-1>
     <iso639-2-t>mag</iso639-2-t>
@@ -17185,6 +17289,31 @@
     </timezones>
   </language>
   <language>
+    <languageId>quz</languageId>
+    <iso639-1>None</iso639-1>
+    <iso639-2-t>None</iso639-2-t>
+    <iso639-2-b>None</iso639-2-b>
+    <names>
+      <name><languageId>en</languageId><trName>Cusco Quechua</trName></name>
+    </names>
+    <locales>
+    </locales>
+    <territories>
+      <territory><territoryId>PE</territoryId><rank>400</rank></territory>
+    </territories>
+    <keyboards>
+      <keyboard><keyboardId>latam</keyboardId><rank>1000</rank></keyboard>
+    </keyboards>
+    <inputmethods>
+    </inputmethods>
+    <consolefonts>
+      <consolefont><consolefontId>latarcyrheb-sun16</consolefontId><rank>1000</rank></consolefont>
+    </consolefonts>
+    <timezones>
+      <timezone><timezoneId>America/Lima</timezoneId><rank>400</rank></timezone>
+    </timezones>
+  </language>
+  <language>
     <languageId>ro</languageId>
     <iso639-1>ro</iso639-1>
     <iso639-2-t>ron</iso639-2-t>
@@ -20838,6 +20967,31 @@
     </consolefonts>
     <timezones>
       <timezone><timezoneId>Asia/Bangkok</timezoneId><rank>1000</rank></timezone>
+    </timezones>
+  </language>
+  <language>
+    <languageId>the</languageId>
+    <iso639-1>None</iso639-1>
+    <iso639-2-t>None</iso639-2-t>
+    <iso639-2-b>None</iso639-2-b>
+    <names>
+      <name><languageId>en</languageId><trName>Chitwania Tharu</trName></name>
+    </names>
+    <locales>
+    </locales>
+    <territories>
+      <territory><territoryId>NP</territoryId><rank>400</rank></territory>
+    </territories>
+    <keyboards>
+      <keyboard><keyboardId>np</keyboardId><rank>1000</rank></keyboard>
+    </keyboards>
+    <inputmethods>
+    </inputmethods>
+    <consolefonts>
+      <consolefont><consolefontId>latarcyrheb-sun16</consolefontId><rank>1000</rank></consolefont>
+    </consolefonts>
+    <timezones>
+      <timezone><timezoneId>Asia/Kathmandu</timezoneId><rank>400</rank></timezone>
     </timezones>
   </language>
   <language>

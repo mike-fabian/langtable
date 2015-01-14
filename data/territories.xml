@@ -14781,7 +14781,8 @@
       <locale><localeId>ne_NP.UTF-8</localeId><rank>1000</rank></locale>
     </locales>
     <languages>
-      <language><languageId>ne</languageId><rank>1000</rank></language>
+      <language><languageId>ne</languageId><rank>950</rank></language>
+      <language><languageId>the</languageId><rank>50</rank></language>
     </languages>
     <keyboards>
       <keyboard><keyboardId>np</keyboardId><rank>1000</rank></keyboard>
