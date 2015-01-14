@@ -5,7 +5,7 @@
 %endif
 
 Name:           langtable
-Version:        0.0.28
+Version:        0.0.29
 Release:        1%{?dist}
 Summary:        Guessing reasonable defaults for locale, keyboard layout, territory, and language.
 Group:          Development/Tools
@@ -125,6 +125,9 @@ xmllint --noout --relaxng $RPM_BUILD_ROOT/%{_datadir}/langtable/schemas/timezone
 %{_datadir}/langtable/*.xml.gz
 
 %changelog
+* Wed Jan 14 2015 Mike FABIAN <mfabian@redhat.com> - 0.0.29-1
+- add CW, cmn, hak, lzh, quz, the
+
 * Wed Sep 24 2014 Mike FABIAN <mfabian@redhat.com> - 0.0.28-1
 - Do not used translations tagged with 'variant' in CLDR
 - Rename Uyghur keyboard cn(uig) → cn(ug)
