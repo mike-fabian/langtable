@@ -3149,6 +3149,32 @@
     </timezones>
   </language>
   <language>
+    <languageId>ce</languageId>
+    <iso639-1>ce</iso639-1>
+    <iso639-2-t>che</iso639-2-t>
+    <iso639-2-b>che</iso639-2-b>
+    <names>
+      <name><languageId>ce</languageId><trName>Нохчийн муотт</trName></name>
+      <name><languageId>en</languageId><trName>Chechen</trName></name>
+    </names>
+    <locales>
+    </locales>
+    <territories>
+      <territory><territoryId>RU</territoryId><rank>1000</rank></territory>
+    </territories>
+    <keyboards>
+      <keyboard><keyboardId>ru</keyboardId><rank>1000</rank></keyboard>
+    </keyboards>
+    <inputmethods>
+    </inputmethods>
+    <consolefonts>
+      <consolefont><consolefontId>latarcyrheb-sun16</consolefontId><rank>1000</rank></consolefont>
+    </consolefonts>
+    <timezones>
+      <timezone><timezoneId>Europe/Moscow</timezoneId><rank>1000</rank></timezone>
+    </timezones>
+  </language>
+  <language>
     <languageId>cop</languageId>
     <iso639-1>None</iso639-1>
     <iso639-2-t>cop</iso639-2-t>
@@ -17311,6 +17337,33 @@
     </consolefonts>
     <timezones>
       <timezone><timezoneId>America/Lima</timezoneId><rank>400</rank></timezone>
+    </timezones>
+  </language>
+  <language>
+    <languageId>raj</languageId>
+    <iso639-1>None</iso639-1>
+    <iso639-2-t>raj</iso639-2-t>
+    <iso639-2-b>raj</iso639-2-b>
+    <names>
+      <name><languageId>en</languageId><trName>Rajasthani</trName></name>
+      <name><languageId>raj</languageId><trName>राजस्थानी</trName></name>
+    </names>
+    <locales>
+      <locale><localeId>raj_IN.UTF-8</localeId><rank>1000</rank></locale>
+    </locales>
+    <territories>
+      <territory><territoryId>IN</territoryId><rank>1000</rank></territory>
+    </territories>
+    <keyboards>
+      <keyboard><keyboardId>in(eng)</keyboardId><rank>1000</rank></keyboard>
+    </keyboards>
+    <inputmethods>
+    </inputmethods>
+    <consolefonts>
+      <consolefont><consolefontId>latarcyrheb-sun16</consolefontId><rank>1000</rank></consolefont>
+    </consolefonts>
+    <timezones>
+      <timezone><timezoneId>Asia/Kolkata</timezoneId><rank>1000</rank></timezone>
     </timezones>
   </language>
   <language>
