@@ -3056,6 +3056,103 @@
     </timezones>
   </language>
   <language>
+    <languageId>ce</languageId>
+    <iso639-1>ce</iso639-1>
+    <iso639-2-t>che</iso639-2-t>
+    <iso639-2-b>che</iso639-2-b>
+    <names>
+      <name><languageId>ar</languageId><trName>الشيشانية</trName></name>
+      <name><languageId>ast</languageId><trName>chechenu</trName></name>
+      <name><languageId>az</languageId><trName>çeçen dili</trName></name>
+      <name><languageId>be</languageId><trName>чачэнская</trName></name>
+      <name><languageId>bg</languageId><trName>чеченски</trName></name>
+      <name><languageId>bn</languageId><trName>চেচেন</trName></name>
+      <name><languageId>br</languageId><trName>tchetcheneg</trName></name>
+      <name><languageId>brx</languageId><trName>चेचेन्</trName></name>
+      <name><languageId>bs</languageId><trName>čečenski</trName></name>
+      <name><languageId>ca</languageId><trName>txetxè</trName></name>
+      <name><languageId>ce</languageId><trName>Нохчийн муотт</trName></name>
+      <name><languageId>cs</languageId><trName>čečenština</trName></name>
+      <name><languageId>cy</languageId><trName>Tsietsieneg</trName></name>
+      <name><languageId>da</languageId><trName>tjetjensk</trName></name>
+      <name><languageId>de</languageId><trName>Tschetschenisch</trName></name>
+      <name><languageId>el</languageId><trName>Τσέτσνιαν</trName></name>
+      <name><languageId>en</languageId><trName>Chechen</trName></name>
+      <name><languageId>es</languageId><trName>checheno</trName></name>
+      <name><languageId>et</languageId><trName>tšetšeeni</trName></name>
+      <name><languageId>fa</languageId><trName>چچنی</trName></name>
+      <name><languageId>fi</languageId><trName>tšetšeeni</trName></name>
+      <name><languageId>fr</languageId><trName>tchétchène</trName></name>
+      <name><languageId>fur</languageId><trName>cecen</trName></name>
+      <name><languageId>fy</languageId><trName>Tsjetsjeensk</trName></name>
+      <name><languageId>ga</languageId><trName>Sisinis</trName></name>
+      <name><languageId>gd</languageId><trName>Deideanais</trName></name>
+      <name><languageId>gu</languageId><trName>ચેચન</trName></name>
+      <name><languageId>he</languageId><trName>צ׳צ׳נית</trName></name>
+      <name><languageId>hi</languageId><trName>चेचन</trName></name>
+      <name><languageId>hr</languageId><trName>čečenski</trName></name>
+      <name><languageId>hu</languageId><trName>csecsen</trName></name>
+      <name><languageId>id</languageId><trName>Chechen</trName></name>
+      <name><languageId>is</languageId><trName>tsjetsjenska</trName></name>
+      <name><languageId>it</languageId><trName>ceceno</trName></name>
+      <name><languageId>ja</languageId><trName>チェチェン語</trName></name>
+      <name><languageId>ka</languageId><trName>ჩეჩნური</trName></name>
+      <name><languageId>kn</languageId><trName>ಚೆಚನ್</trName></name>
+      <name><languageId>ko</languageId><trName>체첸어</trName></name>
+      <name><languageId>ks</languageId><trName>چیچَن</trName></name>
+      <name><languageId>lb</languageId><trName>Tschetschenesch</trName></name>
+      <name><languageId>lo</languageId><trName>ຊີເຄນ</trName></name>
+      <name><languageId>lt</languageId><trName>čečėnų</trName></name>
+      <name><languageId>lv</languageId><trName>čečenu</trName></name>
+      <name><languageId>mk</languageId><trName>чеченски</trName></name>
+      <name><languageId>ml</languageId><trName>ചെചൻ</trName></name>
+      <name><languageId>mr</languageId><trName>चेचन</trName></name>
+      <name><languageId>ms</languageId><trName>Chechen</trName></name>
+      <name><languageId>mt</languageId><trName>Ċeċen</trName></name>
+      <name><languageId>my</languageId><trName>ချေချင်း</trName></name>
+      <name><languageId>nb</languageId><trName>tsjetsjensk</trName></name>
+      <name><languageId>nl</languageId><trName>Tsjetsjeens</trName></name>
+      <name><languageId>nn</languageId><trName>tsjetsjensk</trName></name>
+      <name><languageId>or</languageId><trName>ଚେଚନ୍</trName></name>
+      <name><languageId>os</languageId><trName>цӕцӕйнаг</trName></name>
+      <name><languageId>pa</languageId><trName>ਚੇਚਨ</trName></name>
+      <name><languageId>pl</languageId><trName>czeczeński</trName></name>
+      <name><languageId>pt</languageId><trName>checheno</trName></name>
+      <name><languageId>ro</languageId><trName>cecenă</trName></name>
+      <name><languageId>ru</languageId><trName>чеченский</trName></name>
+      <name><languageId>sk</languageId><trName>čečenčina</trName></name>
+      <name><languageId>sl</languageId><trName>čečenščina</trName></name>
+      <name><languageId>sr</languageId><trName>Чеченски</trName></name>
+      <name><languageId>sr_Latn</languageId><trName>Čečenski</trName></name>
+      <name><languageId>sv</languageId><trName>tjetjenska</trName></name>
+      <name><languageId>ta</languageId><trName>செசென்</trName></name>
+      <name><languageId>te</languageId><trName>చెచెన్</trName></name>
+      <name><languageId>th</languageId><trName>เชเชน</trName></name>
+      <name><languageId>tr</languageId><trName>Çeçence</trName></name>
+      <name><languageId>ug</languageId><trName>چېچىنچە</trName></name>
+      <name><languageId>uk</languageId><trName>чеченська</trName></name>
+      <name><languageId>vi</languageId><trName>Tiếng Chechen</trName></name>
+      <name><languageId>zh</languageId><trName>车臣文</trName></name>
+      <name><languageId>zh_Hant</languageId><trName>車臣文</trName></name>
+    </names>
+    <locales>
+    </locales>
+    <territories>
+      <territory><territoryId>RU</territoryId><rank>1000</rank></territory>
+    </territories>
+    <keyboards>
+      <keyboard><keyboardId>ru</keyboardId><rank>1000</rank></keyboard>
+    </keyboards>
+    <inputmethods>
+    </inputmethods>
+    <consolefonts>
+      <consolefont><consolefontId>latarcyrheb-sun16</consolefontId><rank>1000</rank></consolefont>
+    </consolefonts>
+    <timezones>
+      <timezone><timezoneId>Europe/Moscow</timezoneId><rank>1000</rank></timezone>
+    </timezones>
+  </language>
+  <language>
     <languageId>chm</languageId>
     <iso639-1>None</iso639-1>
     <iso639-2-t>chm</iso639-2-t>
@@ -3149,29 +3246,39 @@
     </timezones>
   </language>
   <language>
-    <languageId>ce</languageId>
-    <iso639-1>ce</iso639-1>
-    <iso639-2-t>che</iso639-2-t>
-    <iso639-2-b>che</iso639-2-b>
+    <languageId>cmn</languageId>
+    <iso639-1>None</iso639-1>
+    <iso639-2-t>None</iso639-2-t>
+    <iso639-2-b>None</iso639-2-b>
     <names>
-      <name><languageId>ce</languageId><trName>Нохчийн муотт</trName></name>
-      <name><languageId>en</languageId><trName>Chechen</trName></name>
+      <name><languageId>cmn</languageId><trName>官话</trName></name>
+      <name><languageId>cmn_Hans</languageId><trName>官话</trName></name>
+      <name><languageId>cmn_Hant</languageId><trName>官話</trName></name>
+      <name><languageId>en</languageId><trName>Mandarin Chinese</trName></name>
+      <name><languageId>zh</languageId><trName>官话</trName></name>
+      <name><languageId>zh_Hans</languageId><trName>官话</trName></name>
+      <name><languageId>zh_Hant</languageId><trName>官話</trName></name>
     </names>
     <locales>
+      <locale><localeId>cmn_TW.UTF-8</localeId><rank>1000</rank></locale>
     </locales>
     <territories>
-      <territory><territoryId>RU</territoryId><rank>1000</rank></territory>
+      <territory><territoryId>TW</territoryId><rank>1000</rank></territory>
     </territories>
     <keyboards>
-      <keyboard><keyboardId>ru</keyboardId><rank>1000</rank></keyboard>
+      <keyboard><keyboardId>cn</keyboardId><rank>1000</rank></keyboard>
     </keyboards>
     <inputmethods>
+      <inputmethod><inputmethodId>ibus/libpinyin</inputmethodId><rank>900</rank></inputmethod>
+      <inputmethod><inputmethodId>ibus/chewing</inputmethodId><rank>20</rank></inputmethod>
+      <inputmethod><inputmethodId>ibus/cangjie</inputmethodId><rank>10</rank></inputmethod>
     </inputmethods>
     <consolefonts>
       <consolefont><consolefontId>latarcyrheb-sun16</consolefontId><rank>1000</rank></consolefont>
     </consolefonts>
     <timezones>
-      <timezone><timezoneId>Europe/Moscow</timezoneId><rank>1000</rank></timezone>
+      <timezone><timezoneId>Asia/Shanghai</timezoneId><rank>900</rank></timezone>
+      <timezone><timezoneId>Asia/Taipei</timezoneId><rank>20</rank></timezone>
     </timezones>
   </language>
   <language>
@@ -3363,42 +3470,6 @@
       <timezone><timezoneId>Europe/Simferopol</timezoneId><rank>1</rank></timezone>
       <timezone><timezoneId>Europe/Uzhgorod</timezoneId><rank>1</rank></timezone>
       <timezone><timezoneId>Europe/Zaporozhye</timezoneId><rank>1</rank></timezone>
-    </timezones>
-  </language>
-  <language>
-    <languageId>cmn</languageId>
-    <iso639-1>None</iso639-1>
-    <iso639-2-t>None</iso639-2-t>
-    <iso639-2-b>None</iso639-2-b>
-    <names>
-      <name><languageId>cmn</languageId><trName>官话</trName></name>
-      <name><languageId>cmn_Hans</languageId><trName>官话</trName></name>
-      <name><languageId>cmn_Hant</languageId><trName>官話</trName></name>
-      <name><languageId>en</languageId><trName>Mandarin Chinese</trName></name>
-      <name><languageId>zh</languageId><trName>官话</trName></name>
-      <name><languageId>zh_Hans</languageId><trName>官话</trName></name>
-      <name><languageId>zh_Hant</languageId><trName>官話</trName></name>
-    </names>
-    <locales>
-      <locale><localeId>cmn_TW.UTF-8</localeId><rank>1000</rank></locale>
-    </locales>
-    <territories>
-      <territory><territoryId>TW</territoryId><rank>1000</rank></territory>
-    </territories>
-    <keyboards>
-      <keyboard><keyboardId>cn</keyboardId><rank>1000</rank></keyboard>
-    </keyboards>
-    <inputmethods>
-      <inputmethod><inputmethodId>ibus/libpinyin</inputmethodId><rank>900</rank></inputmethod>
-      <inputmethod><inputmethodId>ibus/chewing</inputmethodId><rank>20</rank></inputmethod>
-      <inputmethod><inputmethodId>ibus/cangjie</inputmethodId><rank>10</rank></inputmethod>
-    </inputmethods>
-    <consolefonts>
-      <consolefont><consolefontId>latarcyrheb-sun16</consolefontId><rank>1000</rank></consolefont>
-    </consolefonts>
-    <timezones>
-      <timezone><timezoneId>Asia/Shanghai</timezoneId><rank>900</rank></timezone>
-      <timezone><timezoneId>Asia/Taipei</timezoneId><rank>20</rank></timezone>
     </timezones>
   </language>
   <language>
@@ -7900,10 +7971,27 @@
     <iso639-2-t>None</iso639-2-t>
     <iso639-2-b>None</iso639-2-b>
     <names>
+      <name><languageId>ast</languageId><trName>chinu hakka</trName></name>
+      <name><languageId>br</languageId><trName>sinaeg Hakka</trName></name>
+      <name><languageId>cs</languageId><trName>čínština (dialekty Hakka)</trName></name>
+      <name><languageId>de</languageId><trName>Hakka</trName></name>
       <name><languageId>en</languageId><trName>Hakka Chinese</trName></name>
+      <name><languageId>fi</languageId><trName>hakka-kiina</trName></name>
+      <name><languageId>fr</languageId><trName>hakka</trName></name>
+      <name><languageId>ga</languageId><trName>Haicéis</trName></name>
       <name><languageId>hak</languageId><trName>客家話</trName></name>
       <name><languageId>hak_Hans</languageId><trName>客家语</trName></name>
       <name><languageId>hak_Hant</languageId><trName>客家話</trName></name>
+      <name><languageId>it</languageId><trName>hakka</trName></name>
+      <name><languageId>ja</languageId><trName>客家語</trName></name>
+      <name><languageId>lb</languageId><trName>Hakka-Chinesesch</trName></name>
+      <name><languageId>lt</languageId><trName>kinų kalbos hakų tarmė</trName></name>
+      <name><languageId>mk</languageId><trName>хака</trName></name>
+      <name><languageId>nl</languageId><trName>Hakka</trName></name>
+      <name><languageId>pl</languageId><trName>hakka</trName></name>
+      <name><languageId>sv</languageId><trName>hakka</trName></name>
+      <name><languageId>th</languageId><trName>จีนแคะ</trName></name>
+      <name><languageId>tr</languageId><trName>Hakka Çincesi</trName></name>
       <name><languageId>zh</languageId><trName>客家話</trName></name>
       <name><languageId>zh_Hans</languageId><trName>客家语</trName></name>
       <name><languageId>zh_Hant</languageId><trName>客家話</trName></name>
@@ -13074,9 +13162,27 @@
     <iso639-2-t>None</iso639-2-t>
     <iso639-2-b>None</iso639-2-b>
     <names>
+      <name><languageId>ast</languageId><trName>chinu lliterariu</trName></name>
+      <name><languageId>br</languageId><trName>sinaeg lennegel</trName></name>
+      <name><languageId>cs</languageId><trName>čínština (klasická)</trName></name>
+      <name><languageId>de</languageId><trName>Klassisches Chinesisch</trName></name>
+      <name><languageId>en</languageId><trName>Literary Chinese</trName></name>
+      <name><languageId>fa</languageId><trName>چینی ادبی</trName></name>
+      <name><languageId>fi</languageId><trName>klassinen kiina</trName></name>
+      <name><languageId>fr</languageId><trName>chinois littéraire</trName></name>
+      <name><languageId>gd</languageId><trName>Sìnis an Litreachais</trName></name>
+      <name><languageId>it</languageId><trName>cinese classico</trName></name>
+      <name><languageId>ja</languageId><trName>漢文</trName></name>
+      <name><languageId>lb</languageId><trName>Klassescht Chinesesch</trName></name>
+      <name><languageId>lt</languageId><trName>klasikinė kinų</trName></name>
       <name><languageId>lzh</languageId><trName>文言</trName></name>
-      <name><languageId>en</languageId><trName>Classical Chinese</trName></name>
+      <name><languageId>mk</languageId><trName>книжевен кинески</trName></name>
+      <name><languageId>nl</languageId><trName>Klassiek Chinees</trName></name>
+      <name><languageId>pl</languageId><trName>chiński klasyczny</trName></name>
+      <name><languageId>th</languageId><trName>จีนคลาสสิก</trName></name>
+      <name><languageId>tr</languageId><trName>Edebi Çince</trName></name>
       <name><languageId>zh</languageId><trName>文言文</trName></name>
+      <name><languageId>zh_Hant</languageId><trName>文言文</trName></name>
     </names>
     <locales>
       <locale><localeId>cmn_TW.UTF-8</localeId><rank>1000</rank></locale>
@@ -17345,8 +17451,73 @@
     <iso639-2-t>raj</iso639-2-t>
     <iso639-2-b>raj</iso639-2-b>
     <names>
+      <name><languageId>ar</languageId><trName>الراجاسثانية</trName></name>
+      <name><languageId>ast</languageId><trName>rajasthanín</trName></name>
+      <name><languageId>az</languageId><trName>racastan dili</trName></name>
+      <name><languageId>be</languageId><trName>раджастханская</trName></name>
+      <name><languageId>bg</languageId><trName>раджастански</trName></name>
+      <name><languageId>bn</languageId><trName>রাজস্থানী</trName></name>
+      <name><languageId>br</languageId><trName>rajasthani</trName></name>
+      <name><languageId>brx</languageId><trName>राजस्थानी</trName></name>
+      <name><languageId>bs</languageId><trName>rađastani</trName></name>
+      <name><languageId>ca</languageId><trName>rajasthani</trName></name>
+      <name><languageId>cs</languageId><trName>rádžastánština</trName></name>
+      <name><languageId>cy</languageId><trName>Rajasthaneg</trName></name>
+      <name><languageId>da</languageId><trName>rajasthani</trName></name>
+      <name><languageId>de</languageId><trName>Rajasthani</trName></name>
+      <name><languageId>el</languageId><trName>Ραζασθάνι</trName></name>
       <name><languageId>en</languageId><trName>Rajasthani</trName></name>
+      <name><languageId>es</languageId><trName>rajasthani</trName></name>
+      <name><languageId>et</languageId><trName>radžastani</trName></name>
+      <name><languageId>fa</languageId><trName>راجستانی</trName></name>
+      <name><languageId>fi</languageId><trName>radžastani</trName></name>
+      <name><languageId>fr</languageId><trName>rajasthani</trName></name>
+      <name><languageId>fy</languageId><trName>Rajasthani</trName></name>
+      <name><languageId>gu</languageId><trName>રાજસ્થાની</trName></name>
+      <name><languageId>he</languageId><trName>ראג׳סטן</trName></name>
+      <name><languageId>hi</languageId><trName>राजस्थानी</trName></name>
+      <name><languageId>hr</languageId><trName>rajasthani</trName></name>
+      <name><languageId>hu</languageId><trName>radzsasztáni</trName></name>
+      <name><languageId>id</languageId><trName>Rajasthani</trName></name>
+      <name><languageId>is</languageId><trName>rajastaní</trName></name>
+      <name><languageId>it</languageId><trName>rajasthani</trName></name>
+      <name><languageId>ja</languageId><trName>ラージャスターン語</trName></name>
+      <name><languageId>ka</languageId><trName>რაჯასთანი</trName></name>
+      <name><languageId>kn</languageId><trName>ರಾಜಾಸ್ಥಾನಿ</trName></name>
+      <name><languageId>ko</languageId><trName>라자스탄어</trName></name>
+      <name><languageId>ks</languageId><trName>راجِستھٲنۍ</trName></name>
+      <name><languageId>lb</languageId><trName>Rajasthani</trName></name>
+      <name><languageId>lo</languageId><trName>ຣາຈັສທານິ</trName></name>
+      <name><languageId>lt</languageId><trName>radžastano</trName></name>
+      <name><languageId>lv</languageId><trName>radžastāņu</trName></name>
+      <name><languageId>mk</languageId><trName>раџастански</trName></name>
+      <name><languageId>ml</languageId><trName>രാജസ്ഥാനി</trName></name>
+      <name><languageId>mr</languageId><trName>राजस्थानी</trName></name>
+      <name><languageId>mt</languageId><trName>Raġastani</trName></name>
+      <name><languageId>nb</languageId><trName>rajasthani</trName></name>
+      <name><languageId>nl</languageId><trName>Rajasthani</trName></name>
+      <name><languageId>nn</languageId><trName>rajasthani</trName></name>
+      <name><languageId>or</languageId><trName>ରାଜସ୍ଥାନୀ</trName></name>
+      <name><languageId>pa</languageId><trName>ਰਾਜਸਥਾਨੀ</trName></name>
+      <name><languageId>pl</languageId><trName>radźasthani</trName></name>
+      <name><languageId>pt</languageId><trName>rajastani</trName></name>
       <name><languageId>raj</languageId><trName>राजस्थानी</trName></name>
+      <name><languageId>ro</languageId><trName>rajasthani</trName></name>
+      <name><languageId>ru</languageId><trName>раджастхани</trName></name>
+      <name><languageId>sk</languageId><trName>radžastančina</trName></name>
+      <name><languageId>sl</languageId><trName>radžastanščina</trName></name>
+      <name><languageId>sr</languageId><trName>Рађастани</trName></name>
+      <name><languageId>sr_Latn</languageId><trName>Rađastani</trName></name>
+      <name><languageId>sv</languageId><trName>rajasthani</trName></name>
+      <name><languageId>ta</languageId><trName>ராஜஸ்தானி</trName></name>
+      <name><languageId>te</languageId><trName>రాజస్తాని</trName></name>
+      <name><languageId>th</languageId><trName>ราชสถาน</trName></name>
+      <name><languageId>tr</languageId><trName>Rajasthani</trName></name>
+      <name><languageId>ug</languageId><trName>راجاستانچە</trName></name>
+      <name><languageId>uk</languageId><trName>раджастхані</trName></name>
+      <name><languageId>vi</languageId><trName>Tiếng Rajasthani</trName></name>
+      <name><languageId>zh</languageId><trName>拉贾斯坦文</trName></name>
+      <name><languageId>zh_Hant</languageId><trName>拉賈斯坦諸文</trName></name>
     </names>
     <locales>
       <locale><localeId>raj_IN.UTF-8</localeId><rank>1000</rank></locale>
