@@ -5,7 +5,7 @@
 %endif
 
 Name:           langtable
-Version:        0.0.29
+Version:        0.0.30
 Release:        1%{?dist}
 Summary:        Guessing reasonable defaults for locale, keyboard layout, territory, and language.
 Group:          Development/Tools
@@ -125,6 +125,11 @@ xmllint --noout --relaxng $RPM_BUILD_ROOT/%{_datadir}/langtable/schemas/timezone
 %{_datadir}/langtable/*.xml.gz
 
 %changelog
+* Tue Jan 27 2015 Mike FABIAN <mfabian@redhat.com> - 0.0.30-1
+- Make “eurlatgr” the default console font for languages and regions which
+  do not need Arabic or Cyrillic or Hebrew script.
+- add ce, raj
+
 * Wed Jan 14 2015 Mike FABIAN <mfabian@redhat.com> - 0.0.29-1
 - add CW, cmn, hak, lzh, quz, the
 

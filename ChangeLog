@@ -1,3 +1,9 @@
+2015-01-27  Mike FABIAN  <mfabian@redhat.com>
+
+	* Version 0.0.30 released
+	* Make “eurlatgr” the default font for languages and regions which do not need Arabic or Cyrillic or Hebrew script.
+	* add ce, raj
+
 2015-01-14  Mike FABIAN  <mfabian@redhat.com>
 
 	* Version 0.0.29 released
