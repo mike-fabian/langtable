@@ -20710,6 +20710,54 @@
     </timezones>
   </language>
   <language>
+    <languageId>tcy</languageId>
+    <iso639-1>None</iso639-1>
+    <iso639-2-t>None</iso639-2-t>
+    <iso639-2-b>None</iso639-2-b>
+    <names>
+      <name><languageId>ast</languageId><trName>tulu</trName></name>
+      <name><languageId>br</languageId><trName>touloueg</trName></name>
+      <name><languageId>cs</languageId><trName>tuluština</trName></name>
+      <name><languageId>cy</languageId><trName>Tulu</trName></name>
+      <name><languageId>de</languageId><trName>Tulu</trName></name>
+      <name><languageId>en</languageId><trName>Tulu</trName></name>
+      <name><languageId>fi</languageId><trName>tulu</trName></name>
+      <name><languageId>fr</languageId><trName>toulou</trName></name>
+      <name><languageId>gu</languageId><trName>તુલુ</trName></name>
+      <name><languageId>id</languageId><trName>Tulu</trName></name>
+      <name><languageId>it</languageId><trName>tulu</trName></name>
+      <name><languageId>ja</languageId><trName>トゥル語</trName></name>
+      <name><languageId>lb</languageId><trName>Tulu</trName></name>
+      <name><languageId>lt</languageId><trName>tulų</trName></name>
+      <name><languageId>mk</languageId><trName>тулу</trName></name>
+      <name><languageId>nl</languageId><trName>Tulu</trName></name>
+      <name><languageId>pl</languageId><trName>tulu</trName></name>
+      <name><languageId>sv</languageId><trName>tulu</trName></name>
+      <name><languageId>tcy</languageId><trName>ತುಳು ಭಾಷೆ</trName></name>
+      <name><languageId>te</languageId><trName>తుళు</trName></name>
+      <name><languageId>th</languageId><trName>ตูลู</trName></name>
+      <name><languageId>tr</languageId><trName>Tuluca</trName></name>
+      <name><languageId>zh_Hant</languageId><trName>圖盧文</trName></name>
+    </names>
+    <locales>
+      <locale><localeId>tu_IN.UTF-8</localeId><rank>1000</rank></locale>
+    </locales>
+    <territories>
+      <territory><territoryId>IN</territoryId><rank>1000</rank></territory>
+    </territories>
+    <keyboards>
+      <keyboard><keyboardId>in(eng)</keyboardId><rank>1000</rank></keyboard>
+    </keyboards>
+    <inputmethods>
+    </inputmethods>
+    <consolefonts>
+      <consolefont><consolefontId>eurlatgr</consolefontId><rank>1000</rank></consolefont>
+    </consolefonts>
+    <timezones>
+      <timezone><timezoneId>Asia/Kolkata</timezoneId><rank>1000</rank></timezone>
+    </timezones>
+  </language>
+  <language>
     <languageId>te</languageId>
     <iso639-1>te</iso639-1>
     <iso639-2-t>tel</iso639-2-t>
