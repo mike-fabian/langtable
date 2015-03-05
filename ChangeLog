@@ -1,3 +1,11 @@
+2015-03-05  Mike FABIAN  <mfabian@redhat.com>
+
+	* Version 0.0.31 released
+	* Fix keyboard for sr_ME ('rs', not 'sr'), by David Shea (Resolves: rhbz#1190078)
+	* Add tcy and bhb
+	* Add some new translations from CLDR
+	* Some translation fixes  from CLDR
+
 2015-01-27  Mike FABIAN  <mfabian@redhat.com>
 
 	* Version 0.0.30 released

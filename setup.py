@@ -4,7 +4,7 @@ from distutils.core import setup
 import codecs
 
 setup(name='langtable',
-      version='0.0.30',
+      version='0.0.31',
       description='guess reasonable defaults for locale, keyboard, territory, ...',
       long_description=codecs.open('README').read().decode('UTF-8'),
       license="GPLv3+",
