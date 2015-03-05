@@ -4184,7 +4184,7 @@
       <name><languageId>th</languageId><trName>บาร์เบโดส</trName></name>
       <name><languageId>tr</languageId><trName>Barbados</trName></name>
       <name><languageId>uk</languageId><trName>Барбадос</trName></name>
-      <name><languageId>ur</languageId><trName>باربادوس</trName></name>
+      <name><languageId>ur</languageId><trName>بارباڈوس</trName></name>
       <name><languageId>uz</languageId><trName>Barbados</trName></name>
       <name><languageId>vi</languageId><trName>Barbados</trName></name>
       <name><languageId>zh</languageId><trName>巴巴多斯</trName></name>
@@ -7263,7 +7263,7 @@
       <name><languageId>th</languageId><trName>กาแยน</trName></name>
       <name><languageId>tr</languageId><trName>Cayenne</trName></name>
       <name><languageId>uk</languageId><trName>Каєнна</trName></name>
-      <name><languageId>ur</languageId><trName>کیینّی</trName></name>
+      <name><languageId>ur</languageId><trName>کائین</trName></name>
       <name><languageId>uz</languageId><trName>Cayenne</trName></name>
       <name><languageId>vi</languageId><trName>Cayenne</trName></name>
       <name><languageId>zh</languageId><trName>卡宴</trName></name>
@@ -8628,7 +8628,7 @@
       <name><languageId>uz</languageId><trName>Comoro</trName></name>
       <name><languageId>vi</languageId><trName>Comoro</trName></name>
       <name><languageId>zh</languageId><trName>科摩罗</trName></name>
-      <name><languageId>zh_Hant</languageId><trName>科摩羅群島</trName></name>
+      <name><languageId>zh_Hant</languageId><trName>葛摩</trName></name>
       <name><languageId>zh_Hant_HK</languageId><trName>科摩羅</trName></name>
     </names>
   </timezoneIdPart>
@@ -12997,7 +12997,7 @@
       <name><languageId>th</languageId><trName>กอดแธบ</trName></name>
       <name><languageId>tr</languageId><trName>Nuuk</trName></name>
       <name><languageId>uk</languageId><trName>Нуук</trName></name>
-      <name><languageId>ur</languageId><trName>گاڈتھیب</trName></name>
+      <name><languageId>ur</languageId><trName>نوک</trName></name>
       <name><languageId>uz</languageId><trName>Nuuk</trName></name>
       <name><languageId>vi</languageId><trName>Nuuk</trName></name>
       <name><languageId>zh</languageId><trName>戈特霍布</trName></name>
@@ -13337,7 +13337,7 @@
       <name><languageId>vi</languageId><trName>Guadalcanal</trName></name>
       <name><languageId>zh</languageId><trName>瓜达尔卡纳尔</trName></name>
       <name><languageId>zh_Hant</languageId><trName>瓜達康納爾島</trName></name>
-      <name><languageId>zh_Hant_HK</languageId><trName>瓜達爾卡納爾</trName></name>
+      <name><languageId>zh_Hant_HK</languageId><trName>瓜達爾卡納爾島</trName></name>
     </names>
   </timezoneIdPart>
   <timezoneIdPart>
@@ -26121,7 +26121,7 @@
       <name><languageId>th</languageId><trName>ออรัล</trName></name>
       <name><languageId>tr</languageId><trName>Oral</trName></name>
       <name><languageId>uk</languageId><trName>Орал</trName></name>
-      <name><languageId>ur</languageId><trName>زبانی</trName></name>
+      <name><languageId>ur</languageId><trName>اورال</trName></name>
       <name><languageId>uz</languageId><trName>Oral</trName></name>
       <name><languageId>vi</languageId><trName>Oral</trName></name>
       <name><languageId>zh</languageId><trName>乌拉尔</trName></name>
@@ -27336,7 +27336,7 @@
       <name><languageId>de</languageId><trName>Pitcairn</trName></name>
       <name><languageId>el</languageId><trName>Πίτκερν</trName></name>
       <name><languageId>en</languageId><trName>Pitcairn</trName></name>
-      <name><languageId>es</languageId><trName>Islas Pitcairn</trName></name>
+      <name><languageId>es</languageId><trName>Pitcairn</trName></name>
       <name><languageId>et</languageId><trName>Pitcairn</trName></name>
       <name><languageId>eu</languageId><trName>Pitcairn</trName></name>
       <name><languageId>fa</languageId><trName>پیت‌کرن</trName></name>
@@ -34422,7 +34422,7 @@
       <name><languageId>vi</languageId><trName>Tongatapu</trName></name>
       <name><languageId>zh</languageId><trName>东加塔布</trName></name>
       <name><languageId>zh_Hant</languageId><trName>東加塔布島</trName></name>
-      <name><languageId>zh_Hant_HK</languageId><trName>湯加塔布</trName></name>
+      <name><languageId>zh_Hant_HK</languageId><trName>湯加塔布島</trName></name>
     </names>
   </timezoneIdPart>
   <timezoneIdPart>
@@ -34787,7 +34787,7 @@
       <name><languageId>dz</languageId><trName>ཊུ་ནིས྄</trName></name>
       <name><languageId>el</languageId><trName>Τύνιδα</trName></name>
       <name><languageId>en</languageId><trName>Tunis</trName></name>
-      <name><languageId>es</languageId><trName>Túnez capital</trName></name>
+      <name><languageId>es</languageId><trName>Túnez</trName></name>
       <name><languageId>et</languageId><trName>Tunis</trName></name>
       <name><languageId>eu</languageId><trName>Tunis</trName></name>
       <name><languageId>fa</languageId><trName>شهر تونس</trName></name>

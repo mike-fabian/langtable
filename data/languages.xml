@@ -520,7 +520,7 @@
     <iso639-2-t>arg</iso639-2-t>
     <iso639-2-b>arg</iso639-2-b>
     <names>
-      <name><languageId>ar</languageId><trName>الأراجونية</trName></name>
+      <name><languageId>ar</languageId><trName>الأراغونية</trName></name>
       <name><languageId>ast</languageId><trName>aragonés</trName></name>
       <name><languageId>az</languageId><trName>aragonca</trName></name>
       <name><languageId>be</languageId><trName>арагонская</trName></name>
@@ -624,7 +624,7 @@
       <name><languageId>ast</languageId><trName>angika</trName></name>
       <name><languageId>az</languageId><trName>angikə dili</trName></name>
       <name><languageId>bg</languageId><trName>ангика</trName></name>
-      <name><languageId>bn</languageId><trName>আঙ্গীকা</trName></name>
+      <name><languageId>bn</languageId><trName>আঙ্গিকা</trName></name>
       <name><languageId>brx</languageId><trName>अंगीका</trName></name>
       <name><languageId>bs</languageId><trName>angika</trName></name>
       <name><languageId>ca</languageId><trName>angika</trName></name>
@@ -1325,7 +1325,7 @@
       <name><languageId>el</languageId><trName>Αζερμπαϊτζανικά</trName></name>
       <name><languageId>en</languageId><trName>Azerbaijani</trName></name>
       <name><languageId>eo</languageId><trName>azerbajĝana</trName></name>
-      <name><languageId>es</languageId><trName>azerí</trName></name>
+      <name><languageId>es</languageId><trName>azerbaiyano</trName></name>
       <name><languageId>et</languageId><trName>aserbaidžaani</trName></name>
       <name><languageId>eu</languageId><trName>azerbaijanera</trName></name>
       <name><languageId>fa</languageId><trName>ترکی آذربایجانی</trName></name>
@@ -1466,7 +1466,7 @@
       <name><languageId>el</languageId><trName>Μπασκίρ</trName></name>
       <name><languageId>en</languageId><trName>Bashkir</trName></name>
       <name><languageId>eo</languageId><trName>baŝkira</trName></name>
-      <name><languageId>es</languageId><trName>bashkir</trName></name>
+      <name><languageId>es</languageId><trName>baskir</trName></name>
       <name><languageId>et</languageId><trName>baškiiri</trName></name>
       <name><languageId>eu</languageId><trName>bashkirrera</trName></name>
       <name><languageId>fa</languageId><trName>باشغیری</trName></name>
@@ -1568,7 +1568,7 @@
       <name><languageId>af</languageId><trName>Wit-Russies</trName></name>
       <name><languageId>ak</languageId><trName>Belarus kasa</trName></name>
       <name><languageId>am</languageId><trName>ቤላራሻኛ</trName></name>
-      <name><languageId>ar</languageId><trName>البيلوروسية</trName></name>
+      <name><languageId>ar</languageId><trName>البيلاروسية</trName></name>
       <name><languageId>ast</languageId><trName>bielorrusu</trName></name>
       <name><languageId>az</languageId><trName>belarus</trName></name>
       <name><languageId>be</languageId><trName>беларуская</trName></name>
@@ -2069,7 +2069,7 @@
     <iso639-2-t>bho</iso639-2-t>
     <iso639-2-b>bho</iso639-2-b>
     <names>
-      <name><languageId>ar</languageId><trName>البهوجبرية</trName></name>
+      <name><languageId>ar</languageId><trName>البهوجبورية</trName></name>
       <name><languageId>ast</languageId><trName>bhojpuri</trName></name>
       <name><languageId>az</languageId><trName>bxoçpuri dili</trName></name>
       <name><languageId>bg</languageId><trName>божпури</trName></name>
@@ -3015,7 +3015,7 @@
       <name><languageId>tr</languageId><trName>Katalanca</trName></name>
       <name><languageId>ug</languageId><trName>كاتالانچە</trName></name>
       <name><languageId>uk</languageId><trName>каталонська</trName></name>
-      <name><languageId>ur</languageId><trName>کاٹالانین</trName></name>
+      <name><languageId>ur</languageId><trName>کیٹالان</trName></name>
       <name><languageId>uz</languageId><trName>katalancha</trName></name>
       <name><languageId>uz_Cyrl</languageId><trName>Каталанча</trName></name>
       <name><languageId>vi</languageId><trName>Tiếng Catalan</trName></name>
@@ -3383,7 +3383,7 @@
     <iso639-2-t>crh</iso639-2-t>
     <iso639-2-b>crh</iso639-2-b>
     <names>
-      <name><languageId>ar</languageId><trName>التركية الكريمينية</trName></name>
+      <name><languageId>ar</languageId><trName>لغة تتار القرم</trName></name>
       <name><languageId>ast</languageId><trName>turcu de Crimea</trName></name>
       <name><languageId>az</languageId><trName>krım türkçə</trName></name>
       <name><languageId>bg</languageId><trName>кримскотатарски</trName></name>
@@ -3718,7 +3718,7 @@
     <iso639-2-t>chv</iso639-2-t>
     <iso639-2-b>chv</iso639-2-b>
     <names>
-      <name><languageId>ar</languageId><trName>التشفاش</trName></name>
+      <name><languageId>ar</languageId><trName>التشوفاشي</trName></name>
       <name><languageId>ast</languageId><trName>chuvash</trName></name>
       <name><languageId>az</languageId><trName>çuvaş dili</trName></name>
       <name><languageId>be</languageId><trName>чувашская</trName></name>
@@ -4263,11 +4263,11 @@
     <iso639-2-t>doi</iso639-2-t>
     <iso639-2-b>doi</iso639-2-b>
     <names>
-      <name><languageId>ar</languageId><trName>الدوجري</trName></name>
+      <name><languageId>ar</languageId><trName>الدوجرية</trName></name>
       <name><languageId>ast</languageId><trName>dogri</trName></name>
       <name><languageId>az</languageId><trName>doqri dili</trName></name>
       <name><languageId>bg</languageId><trName>догри</trName></name>
-      <name><languageId>bn</languageId><trName>দোগরি</trName></name>
+      <name><languageId>bn</languageId><trName>ডোগরি</trName></name>
       <name><languageId>br</languageId><trName>dogri</trName></name>
       <name><languageId>brx</languageId><trName>डोगरी</trName></name>
       <name><languageId>bs</languageId><trName>dogri</trName></name>
@@ -4373,7 +4373,7 @@
       <name><languageId>el</languageId><trName>Γλώσσα Κάτω Λουσατίας</trName></name>
       <name><languageId>en</languageId><trName>Lower Sorbian</trName></name>
       <name><languageId>eo</languageId><trName>malsuprasoraba</trName></name>
-      <name><languageId>es</languageId><trName>sorbio inferior</trName></name>
+      <name><languageId>es</languageId><trName>bajo sorbio</trName></name>
       <name><languageId>et</languageId><trName>alamsorbi</trName></name>
       <name><languageId>eu</languageId><trName>behe-sorabiera</trName></name>
       <name><languageId>fa</languageId><trName>صُربی سفلی</trName></name>
@@ -4420,7 +4420,7 @@
       <name><languageId>or</languageId><trName>ନିଚଳା ସର୍ବିଆନ୍</trName></name>
       <name><languageId>pa</languageId><trName>ਲੋਅਰ ਸੋਰਬੀਅਨ</trName></name>
       <name><languageId>pl</languageId><trName>dolnołużycki</trName></name>
-      <name><languageId>pt</languageId><trName>sérvio baixo</trName></name>
+      <name><languageId>pt</languageId><trName>sorábio baixo</trName></name>
       <name><languageId>qu</languageId><trName>Bajo Sorbio Simi</trName></name>
       <name><languageId>ro</languageId><trName>sorabă de jos</trName></name>
       <name><languageId>ru</languageId><trName>нижнелужицкий</trName></name>
@@ -7198,7 +7198,7 @@
       <name><languageId>sr</languageId><trName>Шкотски Галски</trName></name>
       <name><languageId>sr_Latn</languageId><trName>Škotski Galski</trName></name>
       <name><languageId>st</languageId><trName>Se-scots gaelic</trName></name>
-      <name><languageId>sv</languageId><trName>höglandsskotska</trName></name>
+      <name><languageId>sv</languageId><trName>skotsk gäliska</trName></name>
       <name><languageId>sw</languageId><trName>Kigaeli cha Uskoti</trName></name>
       <name><languageId>ta</languageId><trName>ஸ்காட்ஸ் கேலிக்</trName></name>
       <name><languageId>te</languageId><trName>స్కాటిష్ గేలిక్</trName></name>
@@ -7244,7 +7244,7 @@
     <iso639-2-b>gez</iso639-2-b>
     <names>
       <name><languageId>am</languageId><trName>ግዕዝኛ</trName></name>
-      <name><languageId>ar</languageId><trName>الجيز</trName></name>
+      <name><languageId>ar</languageId><trName>الجعزية</trName></name>
       <name><languageId>ast</languageId><trName>geez</trName></name>
       <name><languageId>az</languageId><trName>qez dili</trName></name>
       <name><languageId>bg</languageId><trName>гииз</trName></name>
@@ -7739,7 +7739,7 @@
       <name><languageId>dsb</languageId><trName>manšćina</trName></name>
       <name><languageId>el</languageId><trName>Μανξ</trName></name>
       <name><languageId>en</languageId><trName>Manx</trName></name>
-      <name><languageId>es</languageId><trName>gaélico manés</trName></name>
+      <name><languageId>es</languageId><trName>manés</trName></name>
       <name><languageId>et</languageId><trName>mänksi</trName></name>
       <name><languageId>eu</languageId><trName>manxera</trName></name>
       <name><languageId>fa</languageId><trName>مانی</trName></name>
@@ -8329,7 +8329,7 @@
       <name><languageId>gu</languageId><trName>હિન્દી</trName></name>
       <name><languageId>ha</languageId><trName>Harshen Hindi</trName></name>
       <name><languageId>he</languageId><trName>הינדי</trName></name>
-      <name><languageId>hi</languageId><trName>हिंदी</trName></name>
+      <name><languageId>hi</languageId><trName>हिन्दी</trName></name>
       <name><languageId>hr</languageId><trName>hindski</trName></name>
       <name><languageId>hsb</languageId><trName>hindišćina</trName></name>
       <name><languageId>hu</languageId><trName>hindi</trName></name>
@@ -8707,7 +8707,7 @@
       <name><languageId>dsb</languageId><trName>górnoserbšćina</trName></name>
       <name><languageId>el</languageId><trName>Γλώσσα Άνω Λουσατίας</trName></name>
       <name><languageId>en</languageId><trName>Upper Sorbian</trName></name>
-      <name><languageId>es</languageId><trName>sorbio superior</trName></name>
+      <name><languageId>es</languageId><trName>alto sorbio</trName></name>
       <name><languageId>et</languageId><trName>ülemsorbi</trName></name>
       <name><languageId>eu</languageId><trName>goi-sorabiera</trName></name>
       <name><languageId>fa</languageId><trName>صُربی علیا</trName></name>
@@ -8754,7 +8754,7 @@
       <name><languageId>or</languageId><trName>ଉପର ସର୍ବିଆନ୍</trName></name>
       <name><languageId>pa</languageId><trName>ਅੱਪਰ ਸੋਰਬੀਅਨ</trName></name>
       <name><languageId>pl</languageId><trName>górnołużycki</trName></name>
-      <name><languageId>pt</languageId><trName>sorábio superior</trName></name>
+      <name><languageId>pt</languageId><trName>sorábio alto</trName></name>
       <name><languageId>qu</languageId><trName>Alto Sorbio Simi</trName></name>
       <name><languageId>ro</languageId><trName>sorabă de sus</trName></name>
       <name><languageId>ru</languageId><trName>верхнелужицкий</trName></name>
@@ -10181,7 +10181,7 @@
       <name><languageId>tr</languageId><trName>Inuktitut</trName></name>
       <name><languageId>ug</languageId><trName>ئىنۇكتىتۇتچە</trName></name>
       <name><languageId>uk</languageId><trName>інуктітут</trName></name>
-      <name><languageId>ur</languageId><trName>انیوکتیتت</trName></name>
+      <name><languageId>ur</languageId><trName>اینُکٹیٹٹ</trName></name>
       <name><languageId>uz</languageId><trName>inuktitutcha</trName></name>
       <name><languageId>vi</languageId><trName>Tiếng Inuktitut</trName></name>
       <name><languageId>zh</languageId><trName>因纽特文</trName></name>
@@ -12330,7 +12330,7 @@
       <name><languageId>tr</languageId><trName>Lüksemburgca</trName></name>
       <name><languageId>ug</languageId><trName>لىيۇكسېمبۇرگچە</trName></name>
       <name><languageId>uk</languageId><trName>люксембурзька</trName></name>
-      <name><languageId>ur</languageId><trName>لگژمبرگ کا باشندہ</trName></name>
+      <name><languageId>ur</languageId><trName>لگژمبرگش</trName></name>
       <name><languageId>uz</languageId><trName>lyuksemburgcha</trName></name>
       <name><languageId>uz_Cyrl</languageId><trName>Люксембургча</trName></name>
       <name><languageId>vi</languageId><trName>Tiếng Luxembourg</trName></name>
@@ -14086,7 +14086,7 @@
     <iso639-2-t>mni</iso639-2-t>
     <iso639-2-b>mni</iso639-2-b>
     <names>
-      <name><languageId>ar</languageId><trName>المانيبري</trName></name>
+      <name><languageId>ar</languageId><trName>المانيبورية</trName></name>
       <name><languageId>ast</languageId><trName>manipuri</trName></name>
       <name><languageId>az</languageId><trName>manipüri dili</trName></name>
       <name><languageId>bg</languageId><trName>манипури</trName></name>
@@ -14293,7 +14293,7 @@
       <name><languageId>el</languageId><trName>Μαράθι</trName></name>
       <name><languageId>en</languageId><trName>Marathi</trName></name>
       <name><languageId>eo</languageId><trName>marata</trName></name>
-      <name><languageId>es</languageId><trName>marathi</trName></name>
+      <name><languageId>es</languageId><trName>maratí</trName></name>
       <name><languageId>et</languageId><trName>marathi</trName></name>
       <name><languageId>eu</languageId><trName>marathera</trName></name>
       <name><languageId>fa</languageId><trName>مراتی</trName></name>
@@ -15043,7 +15043,7 @@
       <name><languageId>nn</languageId><trName>lågtysk</trName></name>
       <name><languageId>or</languageId><trName>ଲୋ ଜର୍ମାନ୍</trName></name>
       <name><languageId>pl</languageId><trName>dolnosaksoński</trName></name>
-      <name><languageId>pt</languageId><trName>baixo-alemão</trName></name>
+      <name><languageId>pt</languageId><trName>baixo alemão</trName></name>
       <name><languageId>ro</languageId><trName>germana de jos</trName></name>
       <name><languageId>ru</languageId><trName>нижнегерманский</trName></name>
       <name><languageId>sk</languageId><trName>dolná nemčina</trName></name>
@@ -16600,7 +16600,7 @@
       <name><languageId>el</languageId><trName>Παντζαπικά</trName></name>
       <name><languageId>en</languageId><trName>Punjabi</trName></name>
       <name><languageId>eo</languageId><trName>panĝaba</trName></name>
-      <name><languageId>es</languageId><trName>punjabí</trName></name>
+      <name><languageId>es</languageId><trName>panyabí</trName></name>
       <name><languageId>et</languageId><trName>pandžabi</trName></name>
       <name><languageId>eu</languageId><trName>punjabera</trName></name>
       <name><languageId>fa</languageId><trName>پنجابی</trName></name>
@@ -17656,7 +17656,7 @@
       <name><languageId>ts</languageId><trName>hi xi Romania</trName></name>
       <name><languageId>ug</languageId><trName>رۇمىنىيەچە</trName></name>
       <name><languageId>uk</languageId><trName>румунська</trName></name>
-      <name><languageId>ur</languageId><trName>رومنی</trName></name>
+      <name><languageId>ur</languageId><trName>رومینین</trName></name>
       <name><languageId>uz</languageId><trName>rumincha</trName></name>
       <name><languageId>uz_Cyrl</languageId><trName>Руминча</trName></name>
       <name><languageId>vi</languageId><trName>Tiếng Rumani</trName></name>
@@ -17941,7 +17941,7 @@
       <name><languageId>or</languageId><trName>କିନ୍ୟାରୱାଣ୍ଡା</trName></name>
       <name><languageId>pa</languageId><trName>ਕਿਨਿਆਰਵਾਂਡਾ</trName></name>
       <name><languageId>pl</languageId><trName>kinya-ruanda</trName></name>
-      <name><languageId>pt</languageId><trName>ruanda</trName></name>
+      <name><languageId>pt</languageId><trName>kinyarwanda</trName></name>
       <name><languageId>qu</languageId><trName>Kinyarwanda Simi</trName></name>
       <name><languageId>ro</languageId><trName>kinyarwanda</trName></name>
       <name><languageId>ru</languageId><trName>киньяруанда</trName></name>
@@ -21227,7 +21227,7 @@
     <names>
       <name><languageId>af</languageId><trName>Tigrinya</trName></name>
       <name><languageId>am</languageId><trName>ትግርኛ</trName></name>
-      <name><languageId>ar</languageId><trName>التيجرينيا</trName></name>
+      <name><languageId>ar</languageId><trName>التغرينية</trName></name>
       <name><languageId>ast</languageId><trName>tigrinya</trName></name>
       <name><languageId>az</languageId><trName>tiqrin</trName></name>
       <name><languageId>be</languageId><trName>тыгрынья</trName></name>
@@ -21363,7 +21363,7 @@
     <iso639-2-b>tig</iso639-2-b>
     <names>
       <name><languageId>am</languageId><trName>ትግረ</trName></name>
-      <name><languageId>ar</languageId><trName>التيجر</trName></name>
+      <name><languageId>ar</languageId><trName>التغرية</trName></name>
       <name><languageId>ast</languageId><trName>tigre</trName></name>
       <name><languageId>az</languageId><trName>tiqre dili</trName></name>
       <name><languageId>bg</languageId><trName>тигре</trName></name>
@@ -22906,7 +22906,7 @@
     <names>
       <name><languageId>af</languageId><trName>Oezbeeks</trName></name>
       <name><languageId>am</languageId><trName>ኡዝቤክኛ</trName></name>
-      <name><languageId>ar</languageId><trName>الأوزباكية</trName></name>
+      <name><languageId>ar</languageId><trName>الأوزبكية</trName></name>
       <name><languageId>ast</languageId><trName>uzbequistanín</trName></name>
       <name><languageId>az</languageId><trName>özbək</trName></name>
       <name><languageId>be</languageId><trName>узбекская</trName></name>
@@ -23458,7 +23458,7 @@
     <iso639-2-t>wal</iso639-2-t>
     <iso639-2-b>wal</iso639-2-b>
     <names>
-      <name><languageId>ar</languageId><trName>الوالامو</trName></name>
+      <name><languageId>ar</languageId><trName>الولاياتا</trName></name>
       <name><languageId>ast</languageId><trName>wolaytta</trName></name>
       <name><languageId>az</languageId><trName>valamo dili</trName></name>
       <name><languageId>bg</languageId><trName>валамо</trName></name>
@@ -24895,7 +24895,7 @@
       <name><languageId>he</languageId><trName>זולו</trName></name>
       <name><languageId>hi</languageId><trName>ज़ुलू</trName></name>
       <name><languageId>hr</languageId><trName>zulu</trName></name>
-      <name><languageId>hsb</languageId><trName>zulušćina"</trName></name>
+      <name><languageId>hsb</languageId><trName>zulušćina</trName></name>
       <name><languageId>hu</languageId><trName>zulu</trName></name>
       <name><languageId>hy</languageId><trName>զուլուսերեն</trName></name>
       <name><languageId>ia</languageId><trName>zulu</trName></name>
