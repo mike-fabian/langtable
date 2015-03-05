@@ -2064,6 +2064,33 @@
     </timezones>
   </language>
   <language>
+    <languageId>bhb</languageId>
+    <iso639-1>None</iso639-1>
+    <iso639-2-t>None</iso639-2-t>
+    <iso639-2-b>None</iso639-2-b>
+    <names>
+      <name><languageId>bhb</languageId><trName>भीली</trName></name>
+      <name><languageId>en</languageId><trName>Bhili</trName></name>
+    </names>
+    <locales>
+      <locale><localeId>bh_IN.UTF-8</localeId><rank>1000</rank></locale>
+    </locales>
+    <territories>
+      <territory><territoryId>IN</territoryId><rank>1000</rank></territory>
+    </territories>
+    <keyboards>
+      <keyboard><keyboardId>in(eng)</keyboardId><rank>1000</rank></keyboard>
+    </keyboards>
+    <inputmethods>
+    </inputmethods>
+    <consolefonts>
+      <consolefont><consolefontId>eurlatgr</consolefontId><rank>1000</rank></consolefont>
+    </consolefonts>
+    <timezones>
+      <timezone><timezoneId>Asia/Kolkata</timezoneId><rank>1000</rank></timezone>
+    </timezones>
+  </language>
+  <language>
     <languageId>bho</languageId>
     <iso639-1>bh</iso639-1>
     <iso639-2-t>bho</iso639-2-t>
