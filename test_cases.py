@@ -467,26 +467,26 @@ def dummy():
         ['ibus/m17n:sd:inscript']
 
     >>> list_consolefonts(languageId="de", territoryId="DE") # doctest: +NORMALIZE_WHITESPACE
-        ['eurlatgr']
+        ['latarcyrheb-sun16']
 
     >>> list_consolefonts(languageId="el") # doctest: +NORMALIZE_WHITESPACE
-        ['eurlatgr', 'iso07u-16', 'LatGrkCyr-8x16']
+        ['iso07u-16', 'LatGrkCyr-8x16']
 
     >>> list_consolefonts(territoryId="GR") # doctest: +NORMALIZE_WHITESPACE
-        ['eurlatgr', 'iso07u-16', 'LatGrkCyr-8x16']
+        ['iso07u-16', 'LatGrkCyr-8x16']
 
     >>> list_consolefonts(languageId="el", territoryId="GR") # doctest: +NORMALIZE_WHITESPACE
-        ['eurlatgr']
+        ['iso07u-16']
 
     >>> list_consolefonts(languageId="el", territoryId="DE") # doctest: +NORMALIZE_WHITESPACE
-        ['eurlatgr']
+        ['iso07u-16', 'LatGrkCyr-8x16', 'latarcyrheb-sun16']
 
     # script and territory given in languageId override script and territory in extra parameters:
     >>> list_consolefonts(languageId="el_GR", territoryId="DE") # doctest: +NORMALIZE_WHITESPACE
-        ['eurlatgr']
+        ['iso07u-16']
 
     >>> list_consolefonts(languageId="de", territoryId="GR") # doctest: +NORMALIZE_WHITESPACE
-        ['eurlatgr']
+        ['latarcyrheb-sun16', 'iso07u-16', 'LatGrkCyr-8x16']
 
     >>> _test_language_territory(show_weights=False, languageId=None, territoryId=None) # doctest: +NORMALIZE_WHITESPACE
         None: []

@@ -1466,39 +1466,28 @@ def list_consolefonts(concise=True, show_weights=False, languageId = None, scrip
     Listing likely console fonts  for English:
 
     >>> list_consolefonts(languageId="en")
-    ['eurlatgr']
+    ['latarcyrheb-sun16']
 
     Listing likely console fonts for Greek:
 
     >>> list_consolefonts(languageId="el")
-    ['eurlatgr', 'iso07u-16', 'LatGrkCyr-8x16']
+    ['iso07u-16', 'LatGrkCyr-8x16']
 
     Listing likely console fonts for Greece:
 
     >>> list_consolefonts(territoryId="GR")
-    ['eurlatgr', 'iso07u-16', 'LatGrkCyr-8x16']
+    ['iso07u-16', 'LatGrkCyr-8x16']
 
     Listing likely console fonts for Greek in Greece:
 
     list_consolefonts(languageId="el", territoryId="GR")
-    ['eurlatgr']
+    ['iso07u-16']
 
     Listing likely console fonts for Greek in a non-Greek country like
     the UK (the language has higher weight):
 
     >>> list_consolefonts(languageId="el", territoryId="GB")
-    ['eurlatgr']
-
-    Listing likely console fonts for Russian in Russia:
-
-    >>> list_consolefonts(languageId="ru", territoryId="RU")
-    ['latarcyrheb-sun16']
-
-    Listing likely console fonts for Russian in a non-Russian country like
-    the UK (the language has higher weight):
-
-    >>> list_consolefonts(languageId="ru", territoryId="GB")
-    ['latarcyrheb-sun16', 'eurlatgr']
+    ['iso07u-16', 'LatGrkCyr-8x16', 'latarcyrheb-sun16']
 
     '''
     ranked_consolefonts = {}
