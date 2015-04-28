@@ -6,7 +6,7 @@
 
 Name:           langtable
 Version:        0.0.31
-Release:        1%{?dist}
+Release:        2%{?dist}
 Summary:        Guessing reasonable defaults for locale, keyboard layout, territory, and language.
 Group:          Development/Tools
 # the translations in languages.xml and territories.xml are (mostly)
@@ -109,7 +109,7 @@ xmllint --noout --relaxng $RPM_BUILD_ROOT/%{_datadir}/langtable/schemas/timezone
 
 %files
 %doc README COPYING ChangeLog unicode-license.txt test_cases.py
-%{_datadir}/langtable/
+%dir %{_datadir}/langtable/
 %{_datadir}/langtable/schemas
 
 %files python
@@ -121,10 +121,14 @@ xmllint --noout --relaxng $RPM_BUILD_ROOT/%{_datadir}/langtable/schemas/timezone
 %endif # with_python3
 
 %files data
-%{_datadir}/langtable/
+%dir %{_datadir}/langtable/
 %{_datadir}/langtable/*.xml.gz
 
 %changelog
+* Tue Apr 28 2015 Mike FABIAN <mfabian@redhat.com> - 0.0.31-2
+- Do not package the files in /usr/share/langtable/ twice
+- Resolves: rhbz#1202875
+
 * Thu Mar 05 2015 Mike FABIAN <mfabian@redhat.com> - 0.0.31-1
 - Fix keyboard for sr_ME ('rs', not 'sr'), by David Shea (Resolves: rhbz#1190078)
 - Add tcy and bhb
