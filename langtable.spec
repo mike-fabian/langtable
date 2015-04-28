@@ -6,7 +6,7 @@
 
 Name:           langtable
 Version:        0.0.31
-Release:        1%{?dist}
+Release:        2%{?dist}
 Summary:        Guessing reasonable defaults for locale, keyboard layout, territory, and language.
 Group:          Development/Tools
 # the translations in languages.xml and territories.xml are (mostly)
@@ -16,6 +16,7 @@ Group:          Development/Tools
 License:        GPLv3+
 URL:            https://github.com/mike-fabian/langtable
 Source0:        http://mfabian.fedorapeople.org/langtable/%{name}-%{version}.tar.gz
+Patch0:         Revert-Make-eurlatgr-the-default-console-font-for-la.patch
 BuildArch:      noarch
 BuildRequires:  python2-devel
 %if 0%{?with_python3}
@@ -65,6 +66,7 @@ This package contains the data files for langtable.
 
 %prep
 %setup -q
+%patch0 -p1 -b .Revert-Make-eurlatgr-the-default-console-font-for-la
 
 %if 0%{?with_python3}
 rm -rf %{py3dir}
@@ -109,7 +111,7 @@ xmllint --noout --relaxng $RPM_BUILD_ROOT/%{_datadir}/langtable/schemas/timezone
 
 %files
 %doc README COPYING ChangeLog unicode-license.txt test_cases.py
-%{_datadir}/langtable/
+%dir %{_datadir}/langtable/
 %{_datadir}/langtable/schemas
 
 %files python
@@ -121,99 +123,34 @@ xmllint --noout --relaxng $RPM_BUILD_ROOT/%{_datadir}/langtable/schemas/timezone
 %endif # with_python3
 
 %files data
-%{_datadir}/langtable/
+%dir %{_datadir}/langtable/
 %{_datadir}/langtable/*.xml.gz
 
 %changelog
-* Thu Mar 05 2015 Mike FABIAN <mfabian@redhat.com> - 0.0.31-1
-- Fix keyboard for sr_ME ('rs', not 'sr'), by David Shea (Resolves: rhbz#1190078)
-- Add tcy and bhb
-- Add some new translations from CLDR
-- Some translation fixes  from CLDR
+* Tue Apr 28 2015 Mike FABIAN <mfabian@redhat.com> - 0.0.31-2
+- Do not package the files in /usr/share/langtable/ twice
+- Resolves: rhbz#1202875
 
-* Tue Jan 27 2015 Mike FABIAN <mfabian@redhat.com> - 0.0.30-1
-- Make “eurlatgr” the default console font for languages and regions which
-  do not need Arabic or Cyrillic or Hebrew script.
-- add ce, raj
+* Wed Apr 01 2015 Mike FABIAN <mfabian@redhat.com> - 0.0.31-1
+- Update langtable to 0.0.31
+- Resolves: rhbz#1202875
+- Revert change included in 0.0.31 which uses "eurlatgr" as the default
+  consolefont for many languages because that font is not available in RHEL
+- Remove patches which are already included in 0.0.31
 
-* Wed Jan 14 2015 Mike FABIAN <mfabian@redhat.com> - 0.0.29-1
-- add CW, cmn, hak, lzh, quz, the
+* Mon Mar 16 2015 Mike FABIAN <mfabian@redhat.com> - 0.0.13-5
+- Fix keyboard for sr_ME
+- Resolves: rhbz#1190072
 
-* Wed Sep 24 2014 Mike FABIAN <mfabian@redhat.com> - 0.0.28-1
-- Do not used translations tagged with 'variant' in CLDR
-- Rename Uyghur keyboard cn(uig) → cn(ug)
-  (for xkeyboard-config >= 2.12, shipped with Fedora 21 Alpha)
+* Thu Jan 09 2014 Mike FABIAN <mfabian@redhat.com> - 0.0.13-4
+- Add Add-support-for-timezone-translations.patch (Related: rhbz#1015209)
+- Add Fix-Chinese-translation-problem.patch (Related: rhbz#1015209)
 
-* Wed Aug 27 2014 Mike FABIAN <mfabian@redhat.com> - 0.0.27-1
-- Use Hindi again as the default language for India (Resolves: rhbz#1133188)
-- Some translation updates from CLDR.
+* Fri Dec 27 2013 Daniel Mach <dmach@redhat.com> - 0.0.13-3
+- Mass rebuild 2013-12-27
 
-* Mon Aug 25 2014 Mike FABIAN <mfabian@redhat.com> - 0.0.26-1
-- Use English as the default language for India (Resolves: rhbz#1133188)
-
-* Wed Jul 09 2014 Mike FABIAN <mfabian@redhat.com> - 0.0.25-1
-- Add fi(classic) keyboard layout (Resolves: rhbz#1117860)
-
-* Sat Jun 07 2014 Fedora Release Engineering <rel-eng@lists.fedoraproject.org> - 0.0.24-4
-- Rebuilt for https://fedoraproject.org/wiki/Fedora_21_Mass_Rebuild
-
-* Wed May 28 2014 Kalev Lember <kalevlember@gmail.com> - 0.0.24-3
-- Rebuilt for https://fedoraproject.org/wiki/Changes/Python_3.4
-
-* Thu May 22 2014 Mike FABIAN <mfabian@redhat.com> - 0.0.24-2
-- Resolves: rhbz#1100230 - Unowned dir /usr/share/langtable
-
-* Mon Feb 24 2014 Mike FABIAN <mfabian@redhat.com> - 0.0.24-1
-- mark Bengali (bd) and its Probhat variant layout as not ASCII-capable (by Adam Williamson)
-- Also validate timezones.xml and timezoneidparts.xml in .spec file
-- List list_inputmethods() as public API
-- Fall back to returning untranslated timezone id if translation for the requested language does not exist (Resolves: rhbz#1032848)
-
-* Tue Dec 10 2013 Mike FABIAN <mfabian@redhat.com> - 0.0.23-1
-- Change English translation for or from “Oriya” to “Odia” (Resolves: rhbz#1039496)
-- Some new translations and translation fixes from CLDR
-
-* Wed Dec 04 2013 Mike FABIAN <mfabian@redhat.com> - 0.0.22-1
-- Fix typo in territory and locale for ms (Resolves: rhbz#1038109)
-- add ba, chm, kv, sah, syc, udm, xal
-- add entries for more keyboard layouts known to be non-ASCII
-
-* Thu Nov 21 2013 Mike FABIAN <mfabian@redhat.com> - 0.0.21-1
-- Make America/New_York the highest ranked timezone for US and yi (Resolves: rhbz#1031319)
-
-* Wed Nov 20 2013 Mike FABIAN <mfabian@redhat.com> - 0.0.20-1
-- add entries for several layouts known to be non-ASCII by systemd/s-c-k (patch by Adam Williamson)
-
-* Mon Nov 11 2013 Mike FABIAN <mfabian@redhat.com> - 0.0.19-1
-- Add SS
-- More translations for anp from CLDR
-- Add information about default input methods and a query function
-
-* Mon Nov 04 2013 Mike FABIAN <mfabian@redhat.com> - 0.0.18-1
-- Add anp
-- Do not fail if a timezone id part cannot be found in the database (Vratislav Podzimek reported that error)
-
-* Tue Oct 22 2013 Mike FABIAN <mfabian@redhat.com> - 0.0.17-1
-- Add “be(oss)” as a possible keyboard layout for language nl (Resolves: rhbz#885345)
-
-* Tue Oct 08 2013 Mike FABIAN <mfabian@redhat.com> - 0.0.16-1
-- Make it work with python3 (and keep it working with python2) (Resolves: rhbz#985317)
-
-* Mon Sep 16 2013 Mike FABIAN <mfabian@redhat.com> - 0.0.15-1
-- Update to 0.0.15
-- Add keyboards "ara", "ara(azerty)", "iq", and "sy" (Resolves: rhbz#1008389)
-
-* Sun Sep 15 2013 Mike FABIAN <mfabian@redhat.com> - 0.0.14-1
-- Update to 0.0.14
-- add some more languages: ay, ayc, ayr, niu, szl, nhn
-- make languageId() work even if the name of the language or the territory contain spaces (Resolves: rhbz#1006718)
-- Add the default script if not specified in queries for Chinese
-- Import improved translations from CLDR
-- Always return the territory name as well if queried in language_name()
-- Add timezones.xml and timezoneidparts.xml to be able to offer translations for timezone ids
-- Import translations for timezone cities from CLDR
-- Add some more territories and translations
-- test cases for timezone id translations
+* Thu Dec 12 2013 Mike FABIAN <mfabian@redhat.com> - 0.0.13-2
+- Change English translation for or from “Oriya” to “Odia” (Resolves: rhbz#1040778)
 
 * Thu Sep 05 2013 Mike FABIAN <mfabian@redhat.com> - 0.0.13-1
 - Update to 0.0.13
