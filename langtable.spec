@@ -127,7 +127,7 @@ xmllint --noout --relaxng $RPM_BUILD_ROOT/%{_datadir}/langtable/schemas/timezone
 %changelog
 * Tue Apr 28 2015 Mike FABIAN <mfabian@redhat.com> - 0.0.31-2
 - Do not package the files in /usr/share/langtable/ twice
-- Resolves: rhbz#1202875
+- Resolves: rhbz#1216913
 
 * Thu Mar 05 2015 Mike FABIAN <mfabian@redhat.com> - 0.0.31-1
 - Fix keyboard for sr_ME ('rs', not 'sr'), by David Shea (Resolves: rhbz#1190078)
