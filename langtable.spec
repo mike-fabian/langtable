@@ -5,8 +5,8 @@
 %endif
 
 Name:           langtable
-Version:        0.0.31
-Release:        2%{?dist}
+Version:        0.0.32
+Release:        1%{?dist}
 Summary:        Guessing reasonable defaults for locale, keyboard layout, territory, and language.
 Group:          Development/Tools
 # the translations in languages.xml and territories.xml are (mostly)
@@ -125,6 +125,10 @@ xmllint --noout --relaxng $RPM_BUILD_ROOT/%{_datadir}/langtable/schemas/timezone
 %{_datadir}/langtable/*.xml.gz
 
 %changelog
+* Tue May 12 2015 Mike FABIAN <mfabian@redhat.com> - 0.0.32-1
+- Add language endonym for tl
+- Resolves: rhbz#1220783
+
 * Tue Apr 28 2015 Mike FABIAN <mfabian@redhat.com> - 0.0.31-2
 - Do not package the files in /usr/share/langtable/ twice
 - Resolves: rhbz#1216913

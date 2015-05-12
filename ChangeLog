@@ -1,3 +1,9 @@
+2015-05-12  Mike FABIAN  <mfabian@redhat.com>
+
+	* Version 0.0.32 released
+	* Add language endonym for tl (Resolves: rhbz#1220783)
+	* Do not package the files in /usr/share/langtable/ twice
+
 2015-03-05  Mike FABIAN  <mfabian@redhat.com>
 
 	* Version 0.0.31 released
