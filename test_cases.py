@@ -1054,6 +1054,9 @@ def dummy():
     >>> print(language_name(languageId="pa", scriptId="Guru")) # doctest: +NORMALIZE_WHITESPACE
         ਪੰਜਾਬੀ
 
+    >>> print(language_name(languageId="tl")) # doctest: +NORMALIZE_WHITESPACE
+        Tagalog
+
     >>> print(territory_name(territoryId="AE", languageIdQuery="ar")) # doctest: +NORMALIZE_WHITESPACE
         الإمارات العربية المتحدة
 
