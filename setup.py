@@ -6,7 +6,7 @@ import codecs
 setup(name='langtable',
       version='0.0.32',
       description='guess reasonable defaults for locale, keyboard, territory, ...',
-      long_description=codecs.open('README').read().decode('UTF-8'),
+      long_description=codecs.open('README', encoding='UTF-8').read(),
       license="GPLv3+",
       author='Mike FABIAN',
       author_email='mfabian@redhat.com',
