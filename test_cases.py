@@ -1222,6 +1222,12 @@ def dummy():
     >>> languageId("Low German (Germany)")  # doctest: +NORMALIZE_WHITESPACE
         'nds_DE'
 
+    >>> languageId("Tagalog")  # doctest: +NORMALIZE_WHITESPACE
+        'tl'
+
+    >>> languageId("Filipino")  # doctest: +NORMALIZE_WHITESPACE
+        'fil'
+
     >>> print(langtable.timezone_name(timezoneId='US/Mountain', languageIdQuery='ja'))  # doctest: +NORMALIZE_WHITESPACE
        アメリカ合衆国/山地時間
 
