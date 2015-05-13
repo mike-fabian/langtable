@@ -5,7 +5,7 @@
 %endif
 
 Name:           langtable
-Version:        0.0.32
+Version:        0.0.33
 Release:        1%{?dist}
 Summary:        Guessing reasonable defaults for locale, keyboard layout, territory, and language.
 Group:          Development/Tools
@@ -125,6 +125,12 @@ xmllint --noout --relaxng $RPM_BUILD_ROOT/%{_datadir}/langtable/schemas/timezone
 %{_datadir}/langtable/*.xml.gz
 
 %changelog
+* Wed May 13 2015 Mike FABIAN <mfabian@redhat.com> - 0.0.33-1
+- Translation fix for Tagalog <-> Filipino
+- Resolves: rhbz#1220775
+- Translation fixes from Wikipedia and CLDR
+- fix build with Python 3.4.3 (in current rawhide)
+
 * Tue May 12 2015 Mike FABIAN <mfabian@redhat.com> - 0.0.32-1
 - Add language endonym for tl
 - Resolves: rhbz#1220783
