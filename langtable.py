@@ -23,6 +23,7 @@
 #     list_consolefonts()
 #     list_inputmethods()
 #     list_timezones()
+#     list_scripts()
 #     language_name()
 #     territory_name()
 #     timezone_name()
@@ -85,8 +86,9 @@ _timezones_db = {}
 _timezoneIdParts_db = {}
 
 class territory_db_item:
-    def __init__(self, names = None, locales=None, languages=None, keyboards=None, inputmethods=None, consolefonts=None, timezones=None):
+    def __init__(self, names = None, scripts=None, locales=None, languages=None, keyboards=None, inputmethods=None, consolefonts=None, timezones=None):
         self.names = names
+        self.scripts = scripts
         self.locales = locales
         self.languages = languages
         self.keyboards = keyboards
@@ -95,11 +97,12 @@ class territory_db_item:
         self.timezones = timezones
 
 class language_db_item:
-    def __init__(self, iso639_1=None, iso639_2_t=None, iso639_2_b=None, names=None, locales=None, territories=None, keyboards=None, inputmethods=None, consolefonts=None, timezones=None):
+    def __init__(self, iso639_1=None, iso639_2_t=None, iso639_2_b=None, names=None, scripts=None, locales=None, territories=None, keyboards=None, inputmethods=None, consolefonts=None, timezones=None):
         self.iso639_1 = iso639_1
         self.iso639_2_t = iso639_2_t
         self.iso639_2_b = iso639_2_b
         self.names = names
+        self.scripts = scripts
         self.locales = locales
         self.territories = territories
         self.keyboards = keyboards
@@ -170,6 +173,7 @@ class TerritoriesContentHandler(LangtableContentHandler):
 
         # dictionaries
         self._names = None
+        self._scripts = None
         self._locales = None
         self._languages = None
         self._keyboards = None
@@ -180,6 +184,7 @@ class TerritoriesContentHandler(LangtableContentHandler):
     def startElement(self, name, attrs):
         if name == u"territory":
             self._names = dict()
+            self._scripts = dict()
             self._locales = dict()
             self._languages = dict()
             self._keyboards = dict()
@@ -192,7 +197,7 @@ class TerritoriesContentHandler(LangtableContentHandler):
             self._save_to = "_territoryId"
 
         # dict items
-        elif name in (u"languageId", u"localeId", u"keyboardId", u"inputmethodId",
+        elif name in (u"languageId", u"scriptId", u"localeId", u"keyboardId", u"inputmethodId",
                       u"consolefontId", u"timezoneId"):
             self._save_to = "_item_id"
         elif name == u"trName":
@@ -208,6 +213,7 @@ class TerritoriesContentHandler(LangtableContentHandler):
         if name == u"territory":
             _territories_db[str(self._territoryId)] = territory_db_item(
                 names = self._names,
+                scripts = self._scripts,
                 locales = self._locales,
                 languages = self._languages,
                 keyboards = self._keyboards,
@@ -218,6 +224,7 @@ class TerritoriesContentHandler(LangtableContentHandler):
             # clean after ourselves
             self._territoryId = None
             self._names = None
+            self._scripts = None
             self._locales = None
             self._languages = None
             self._keyboards = None
@@ -228,6 +235,9 @@ class TerritoriesContentHandler(LangtableContentHandler):
         # populating dictionaries
         elif name == u"name":
             self._names[str(self._item_id)] = self._item_name
+            self._clear_item()
+        elif name == u"script":
+            self._scripts[str(self._item_id)] = int(self._item_rank)
             self._clear_item()
         elif name == u"locale":
             self._locales[str(self._item_id)] = int(self._item_rank)
@@ -349,6 +359,7 @@ class LanguagesContentHandler(LangtableContentHandler):
 
         # dictionaries
         self._names = None
+        self._scripts = None
         self._locales = None
         self._territories = None
         self._keyboards = None
@@ -359,6 +370,7 @@ class LanguagesContentHandler(LangtableContentHandler):
     def startElement(self, name, attrs):
         if name == u"language":
             self._names = dict()
+            self._scripts = dict()
             self._locales = dict()
             self._territories = dict()
             self._keyboards = dict()
@@ -380,7 +392,7 @@ class LanguagesContentHandler(LangtableContentHandler):
             self._in_names = True
 
         # dict items
-        elif name in (u"localeId", u"territoryId", u"keyboardId", u"inputmethodId",
+        elif name in (u"scriptId", u"localeId", u"territoryId", u"keyboardId", u"inputmethodId",
                       u"consolefontId", u"timezoneId"):
             self._save_to = "_item_id"
         elif name == u"languageId" and self._in_names:
@@ -402,6 +414,7 @@ class LanguagesContentHandler(LangtableContentHandler):
                 iso639_2_t = self._iso639_2_t,
                 iso639_2_b = self._iso639_2_b,
                 names = self._names,
+                scripts = self._scripts,
                 locales = self._locales,
                 territories = self._territories,
                 keyboards = self._keyboards,
@@ -415,6 +428,7 @@ class LanguagesContentHandler(LangtableContentHandler):
             self._iso639_2_t = None
             self._iso639_2_b = None
             self._names = None
+            self._scripts = None
             self._locales = None
             self._territories = None
             self._keyboards = None
@@ -429,6 +443,9 @@ class LanguagesContentHandler(LangtableContentHandler):
         # populating dictionaries
         elif name == u"name":
             self._names[str(self._item_id)] = self._item_name
+            self._clear_item()
+        elif name == u"script":
+            self._scripts[str(self._item_id)] = int(self._item_rank)
             self._clear_item()
         elif name == u"locale":
             self._locales[str(self._item_id)] = int(self._item_rank)
@@ -578,6 +595,15 @@ def _write_territories_file(file):
                 +'<trName>'+names[name]+'</trName>'
                 +'</name>\n')
         file.write('    </names>\n')
+        scripts = _territories_db[territoryId].scripts
+        file.write('    <scripts>\n')
+        for scriptId, rank in sorted(scripts.items(), key=lambda x: (-1*x[1],x[0])):
+            file.write(
+                '      <script>'
+                +'<scriptId>'+scriptId+'</scriptId>'
+                +'<rank>'+str(rank)+'</rank>'
+                +'</script>\n')
+        file.write('    </scripts>\n')
         locales = _territories_db[territoryId].locales
         file.write('    <locales>\n')
         for localeId, rank in sorted(locales.items(), key=lambda x: (-1*x[1],x[0])):
@@ -657,6 +683,15 @@ def _write_languages_file(file):
                 +'<trName>'+names[name]+'</trName>'
                 +'</name>\n')
         file.write('    </names>\n')
+        scripts = _languages_db[languageId].scripts
+        file.write('    <scripts>\n')
+        for scriptId, rank in sorted(scripts.items(), key=lambda x: (-1*x[1],x[0])):
+            file.write(
+                '      <script>'
+                +'<scriptId>'+scriptId+'</scriptId>'
+                +'<rank>'+str(rank)+'</rank>'
+                +'</script>\n')
+        file.write('    </scripts>\n')
         locales = _languages_db[languageId].locales
         file.write('    <locales>\n')
         for localeId, rank in sorted(locales.items(), key=lambda x: (-1*x[1],x[0])):
@@ -881,10 +916,19 @@ def _parse_and_split_languageId(languageId=None, scriptId=None, territoryId=None
     “sr_latin_RS” is accepted as well and treated the same as
     “sr_Latn_RS”.
     '''
+    if languageId:
+        dot_index = languageId.find('.')
+        at_index = languageId.find('@')
+        if dot_index >= 0 and at_index > dot_index:
+            languageId = languageId[:dot_index] + languageId[at_index:]
+        elif dot_index >= 0:
+            languageId = languageId[:dot_index]
     for key in _glibc_script_ids:
         if scriptId:
             scriptId = scriptId.replace(key, _glibc_script_ids[key])
         if languageId:
+            if languageId.endswith('@'+key):
+                scriptId = _glibc_script_ids[key]
             languageId = languageId.replace(key, _glibc_script_ids[key])
     if (languageId):
         match = _cldr_locale_pattern.match(languageId)
@@ -1384,6 +1428,102 @@ def list_locales(concise=True, show_weights=False, languageId = None, scriptId =
                     ranked_locales[locale] *= extra_bonus
                 ranked_locales[locale] *= territory_bonus
     ranked_list = _dictionary_to_ranked_list(ranked_locales)
+    if concise:
+        ranked_list = _make_ranked_list_concise(ranked_list)
+    if show_weights:
+        return ranked_list
+    else:
+        return _ranked_list_to_list(ranked_list)
+
+def list_scripts(concise=True, show_weights=False, languageId = None, scriptId = None, territoryId = None):
+    '''List scripts used for a language and/or in a territory
+
+    :param concise: if True, return only to highly ranked results
+    :type concise: boolean
+    :param show_weights: Also return the weights used in the ranking
+    :type show_weights: boolean
+    :param languageId: identifier for the language
+    :type languageId: string
+    :param scriptId: identifier for the script
+    :type scriptId: string
+    :param territoryId: identifier for the territory
+    :type territoryId: string
+    :rtype: a list of strings
+
+    Returns a list of ISO-15924 script ids:
+
+    https://en.wikipedia.org/wiki/ISO_15924
+
+    **Examples:**
+
+    List the suitable scripts for the language “Serbian”:
+
+    >>> list_scripts(languageId="sr")
+    ['Cyrl', 'Latn']
+
+    So this returns a list of scripts which are in use for
+    Serbian. These lists are sorted in order of decreasing likelyhood,
+    i.e. the most common value comes first.
+
+    List the suitable scripts for the language “Punjabi”:
+
+    >>> list_scripts(languageId="pa")
+    ['Guru', 'Arab']
+
+    One can also list the possible scripts for a territory like
+    “Pakistan”:
+
+    >>> list_scripts(territoryId="PK")
+    ['Arab']
+
+    If one knows both, the language “Punjabi” and the territory
+    “Pakistan” or “India”, one can find out which script is the
+    preferred one:
+
+    >>> list_scripts(languageId="pa", territoryId="PK")
+    ['Arab']
+
+    So the preferred script for Punjabi in Pakistan is “Arab”
+
+    >>> list_scripts(languageId="pa", territoryId="IN")
+    ['Guru', 'Arab']
+
+    and the preferred script for Punjabi in India is “Guru”.
+
+    '''
+    ranked_scripts = {}
+    skipTerritory = False
+    languageId, scriptId, territoryId = _parse_and_split_languageId(
+        languageId=languageId,
+        scriptId=scriptId,
+        territoryId=territoryId)
+    if scriptId:
+        # scriptId is already given in the input, just return it:
+        return [scriptId]
+    if languageId and territoryId and languageId+'_'+territoryId in _languages_db:
+        languageId = languageId+'_'+territoryId
+        skipTerritory = True
+    language_bonus = 100
+    if languageId in _languages_db:
+        for script in _languages_db[languageId].scripts:
+            if _languages_db[languageId].scripts[script] != 0:
+                if script not in ranked_scripts:
+                    ranked_scripts[script] = _languages_db[languageId].scripts[script]
+                else:
+                    ranked_scripts[script] *= _languages_db[languageId].scripts[script]
+                    ranked_scripts[script] *= extra_bonus
+                ranked_scripts[script] *= language_bonus
+    territory_bonus = 1
+    if territoryId in _territories_db and not skipTerritory:
+        for script in _territories_db[territoryId].scripts:
+            if _territories_db[territoryId].scripts[script] != 0:
+                if script not in ranked_scripts:
+                    ranked_scripts[script] = _territories_db[territoryId].scripts[script]
+                else:
+                    ranked_scripts[script] *= _territories_db[territoryId].scripts[script]
+                    ranked_scripts[script] *= extra_bonus
+                ranked_scripts[script] *= territory_bonus
+    ranked_list = _dictionary_to_ranked_list(ranked_scripts)
     if concise:
         ranked_list = _make_ranked_list_concise(ranked_list)
     if show_weights:

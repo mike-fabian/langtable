@@ -4,6 +4,7 @@ def dummy():
     u'''
     >>> import langtable
     >>> from langtable import list_locales
+    >>> from langtable import list_scripts
     >>> from langtable import list_keyboards
     >>> from langtable import list_inputmethods
     >>> from langtable import list_consolefonts
@@ -341,6 +342,70 @@ def dummy():
     # if languageId contains an invalid locale id, it is completely ignored:
     >>> list_locales(languageId="sr_CYrl_RS", scriptId="Latn", territoryId="DE") # doctest: +NORMALIZE_WHITESPACE
         ['de_DE.UTF-8', 'nds_DE.UTF-8', 'hsb_DE.UTF-8', 'fy_DE.UTF-8']
+
+    # Japanese uses a mixture of hiragana, katakana, and kanji:
+    >>> list_scripts(languageId='ja') # doctest: +NORMALIZE_WHITESPACE
+    ['Hani', 'Hira', 'Kana']
+
+    >>> list_scripts(languageId='ko') # doctest: +NORMALIZE_WHITESPACE
+    ['Hang', 'Hani']
+
+    >>> list_scripts(languageId='vi') # doctest: +NORMALIZE_WHITESPACE
+    ['Latn', 'Hani']
+
+    >>> list_scripts(languageId='sr') # doctest: +NORMALIZE_WHITESPACE
+    ['Cyrl', 'Latn']
+
+    >>> list_scripts(languageId='ks') # doctest: +NORMALIZE_WHITESPACE
+    ['Arab', 'Deva']
+
+    >>> list_scripts(languageId='ks', territoryId='IN') # doctest: +NORMALIZE_WHITESPACE
+    ['Deva', 'Arab']
+
+    >>> list_scripts(languageId='ks', territoryId='PK') # doctest: +NORMALIZE_WHITESPACE
+    ['Arab']
+
+    >>> list_scripts(languageId='ks_PK') # doctest: +NORMALIZE_WHITESPACE
+    ['Arab']
+
+    >>> list_scripts(languageId='ks_IN') # doctest: +NORMALIZE_WHITESPACE
+    ['Deva', 'Arab']
+
+    >>> list_scripts(languageId='ks_Deva_IN') # doctest: +NORMALIZE_WHITESPACE
+    ['Deva']
+
+    >>> list_scripts(languageId='ks_devanagari_IN') # doctest: +NORMALIZE_WHITESPACE
+    ['Deva']
+
+    >>> list_scripts(languageId='ks_IN@devanagari') # doctest: +NORMALIZE_WHITESPACE
+    ['Deva']
+
+    >>> list_scripts(languageId='ks_Arab_IN@devanagari') # doctest: +NORMALIZE_WHITESPACE
+    ['Arab']
+
+    >>> list_scripts(languageId='ks_IN.UTF-8') # doctest: +NORMALIZE_WHITESPACE
+    ['Deva', 'Arab']
+
+    >>> list_scripts(languageId='ks_IN.UTF-8@devanagari') # doctest: +NORMALIZE_WHITESPACE
+    ['Deva']
+
+    >>> list_scripts(languageId='ks_Arab_IN.UTF-8@devanagari') # doctest: +NORMALIZE_WHITESPACE
+    ['Arab']
+
+    >>> list_scripts(languageId='ks_Arab_IN.UTF-8@devanagari', scriptId='Latn') # doctest: +NORMALIZE_WHITESPACE
+    ['Arab']
+
+    >>> list_scripts(languageId='de') # doctest: +NORMALIZE_WHITESPACE
+    ['Latn']
+
+    >>> list_scripts(languageId='de', scriptId='Cyrl') # doctest: +NORMALIZE_WHITESPACE
+    ['Cyrl']
+
+    >>> list_scripts(languageId='de_Cyrl', scriptId='Latn') # doctest: +NORMALIZE_WHITESPACE
+    ['Cyrl']
+
+    >>> list_scripts(scriptId='Zzzz') # doctest: +NORMALIZE_WHITESPACE
+    ['Zzzz']
 
     >>> list_keyboards(languageId="de", territoryId="BE") # doctest: +NORMALIZE_WHITESPACE
         ['be(oss)']

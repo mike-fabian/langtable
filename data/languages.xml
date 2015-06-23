@@ -84,6 +84,9 @@
       <name><languageId>zh</languageId><trName>阿法文</trName></name>
       <name><languageId>zh_Hant</languageId><trName>阿法文</trName></name>
     </names>
+    <scripts>
+      <script><scriptId>Latn</scriptId><rank>1000</rank></script>
+    </scripts>
     <locales>
       <locale><localeId>aa_DJ.UTF-8</localeId><rank>400</rank></locale>
       <locale><localeId>aa_ER.UTF-8</localeId><rank>300</rank></locale>
@@ -230,6 +233,9 @@
       <name><languageId>zh_Hant</languageId><trName>南非荷蘭文</trName></name>
       <name><languageId>zu</languageId><trName>isi-Afrikaans</trName></name>
     </names>
+    <scripts>
+      <script><scriptId>Latn</scriptId><rank>1000</rank></script>
+    </scripts>
     <locales>
       <locale><localeId>af_ZA.UTF-8</localeId><rank>1000</rank></locale>
     </locales>
@@ -354,6 +360,9 @@
       <name><languageId>zh_Hant</languageId><trName>阿坎文</trName></name>
       <name><languageId>zu</languageId><trName>isi-Akan</trName></name>
     </names>
+    <scripts>
+      <script><scriptId>Latn</scriptId><rank>1000</rank></script>
+    </scripts>
     <locales>
     </locales>
     <territories>
@@ -496,6 +505,9 @@
       <name><languageId>zh_Hant</languageId><trName>阿姆哈拉文</trName></name>
       <name><languageId>zu</languageId><trName>isi-Amharic</trName></name>
     </names>
+    <scripts>
+      <script><scriptId>Ethi</scriptId><rank>1000</rank></script>
+    </scripts>
     <locales>
       <locale><localeId>am_ET.UTF-8</localeId><rank>1000</rank></locale>
     </locales>
@@ -595,6 +607,9 @@
       <name><languageId>zh</languageId><trName>阿拉贡文</trName></name>
       <name><languageId>zh_Hant</languageId><trName>阿拉貢文</trName></name>
     </names>
+    <scripts>
+      <script><scriptId>Latn</scriptId><rank>1000</rank></script>
+    </scripts>
     <locales>
       <locale><localeId>an_ES.UTF-8</localeId><rank>1000</rank></locale>
     </locales>
@@ -683,6 +698,9 @@
       <name><languageId>zh</languageId><trName>昂加文</trName></name>
       <name><languageId>zh_Hant</languageId><trName>昂加文</trName></name>
     </names>
+    <scripts>
+      <script><scriptId>Deva</scriptId><rank>1000</rank></script>
+    </scripts>
     <locales>
       <locale><localeId>anp_IN.UTF-8</localeId><rank>1000</rank></locale>
     </locales>
@@ -833,6 +851,10 @@
       <name><languageId>zh_Hant</languageId><trName>阿拉伯文</trName></name>
       <name><languageId>zu</languageId><trName>isi-Arabic</trName></name>
     </names>
+    <scripts>
+      <script><scriptId>Arab</scriptId><rank>990</rank></script>
+      <script><scriptId>Syrc</scriptId><rank>10</rank></script>
+    </scripts>
     <locales>
       <locale><localeId>ar_EG.UTF-8</localeId><rank>300</rank></locale>
       <locale><localeId>ar_SD.UTF-8</localeId><rank>170</rank></locale>
@@ -1021,6 +1043,9 @@
       <name><languageId>zh_Hant</languageId><trName>阿薩姆文</trName></name>
       <name><languageId>zu</languageId><trName>isi-Assamese</trName></name>
     </names>
+    <scripts>
+      <script><scriptId>Beng</scriptId><rank>1000</rank></script>
+    </scripts>
     <locales>
       <locale><localeId>as_IN.UTF-8</localeId><rank>1000</rank></locale>
     </locales>
@@ -1118,6 +1143,9 @@
       <name><languageId>zh</languageId><trName>阿斯图里亚思特文</trName></name>
       <name><languageId>zh_Hant</languageId><trName>阿斯圖里亞文</trName></name>
     </names>
+    <scripts>
+      <script><scriptId>Latn</scriptId><rank>1000</rank></script>
+    </scripts>
     <locales>
       <locale><localeId>ast_ES.UTF-8</localeId><rank>1000</rank></locale>
     </locales>
@@ -1229,6 +1257,9 @@
       <name><languageId>zh_Hant</languageId><trName>艾馬拉文</trName></name>
       <name><languageId>zu</languageId><trName>isi-Aymara</trName></name>
     </names>
+    <scripts>
+      <script><scriptId>Latn</scriptId><rank>1000</rank></script>
+    </scripts>
     <locales>
     </locales>
     <territories>
@@ -1254,6 +1285,9 @@
     <names>
       <name><languageId>en</languageId><trName>Southern Aymara</trName></name>
     </names>
+    <scripts>
+      <script><scriptId>Latn</scriptId><rank>1000</rank></script>
+    </scripts>
     <locales>
       <locale><localeId>ayc_PE.UTF-8</localeId><rank>1000</rank></locale>
     </locales>
@@ -1280,6 +1314,9 @@
     <names>
       <name><languageId>en</languageId><trName>Central Aymara</trName></name>
     </names>
+    <scripts>
+      <script><scriptId>Latn</scriptId><rank>1000</rank></script>
+    </scripts>
     <locales>
     </locales>
     <territories>
@@ -1419,6 +1456,11 @@
       <name><languageId>zh_Hant_HK</languageId><trName>阿澤里</trName></name>
       <name><languageId>zu</languageId><trName>isi-Azerbaijani</trName></name>
     </names>
+    <scripts>
+      <script><scriptId>Latn</scriptId><rank>900</rank></script>
+      <script><scriptId>Cyrl</scriptId><rank>90</rank></script>
+      <script><scriptId>Arab</scriptId><rank>10</rank></script>
+    </scripts>
     <locales>
       <locale><localeId>az_AZ.UTF-8</localeId><rank>1000</rank></locale>
     </locales>
@@ -1542,6 +1584,9 @@
       <name><languageId>zh_Hant_HK</languageId><trName>巴什基爾文</trName></name>
       <name><languageId>zu</languageId><trName>isi-Bashkir</trName></name>
     </names>
+    <scripts>
+      <script><scriptId>Cyrl</scriptId><rank>1000</rank></script>
+    </scripts>
     <locales>
     </locales>
     <territories>
@@ -1690,6 +1735,9 @@
       <name><languageId>zh_Hant</languageId><trName>白俄羅斯文</trName></name>
       <name><languageId>zu</languageId><trName>isi-Belarusian</trName></name>
     </names>
+    <scripts>
+      <script><scriptId>Cyrl</scriptId><rank>1000</rank></script>
+    </scripts>
     <locales>
       <locale><localeId>be_BY.UTF-8</localeId><rank>980</rank></locale>
       <locale><localeId>be_BY.UTF-8@latin</localeId><rank>20</rank></locale>
@@ -1808,6 +1856,9 @@
       <name><languageId>zh_Hant</languageId><trName>別姆巴文</trName></name>
       <name><languageId>zu</languageId><trName>Isi-Bemba</trName></name>
     </names>
+    <scripts>
+      <script><scriptId>Latn</scriptId><rank>1000</rank></script>
+    </scripts>
     <locales>
       <locale><localeId>bem_ZM.UTF-8</localeId><rank>1000</rank></locale>
     </locales>
@@ -1895,6 +1946,10 @@
       <name><languageId>zh</languageId><trName>柏柏尔文</trName></name>
       <name><languageId>zh_Hant</languageId><trName>柏柏爾文</trName></name>
     </names>
+    <scripts>
+      <script><scriptId>Latn</scriptId><rank>900</rank></script>
+      <script><scriptId>Tfng</scriptId><rank>100</rank></script>
+    </scripts>
     <locales>
       <locale><localeId>ber_MA.UTF-8</localeId><rank>600</rank></locale>
       <locale><localeId>ber_DZ.UTF-8</localeId><rank>400</rank></locale>
@@ -2045,6 +2100,9 @@
       <name><languageId>zh_Hant</languageId><trName>保加利亞文</trName></name>
       <name><languageId>zu</languageId><trName>isi-Bulgari</trName></name>
     </names>
+    <scripts>
+      <script><scriptId>Cyrl</scriptId><rank>1000</rank></script>
+    </scripts>
     <locales>
       <locale><localeId>bg_BG.UTF-8</localeId><rank>1000</rank></locale>
     </locales>
@@ -2072,6 +2130,9 @@
       <name><languageId>bhb</languageId><trName>भीली</trName></name>
       <name><languageId>en</languageId><trName>Bhili</trName></name>
     </names>
+    <scripts>
+      <script><scriptId>Deva</scriptId><rank>1000</rank></script>
+    </scripts>
     <locales>
       <locale><localeId>bh_IN.UTF-8</localeId><rank>1000</rank></locale>
     </locales>
@@ -2161,6 +2222,9 @@
       <name><languageId>zh</languageId><trName>博杰普尔文</trName></name>
       <name><languageId>zh_Hant</languageId><trName>博傑普爾文</trName></name>
     </names>
+    <scripts>
+      <script><scriptId>Deva</scriptId><rank>1000</rank></script>
+    </scripts>
     <locales>
       <locale><localeId>bho_IN.UTF-8</localeId><rank>1000</rank></locale>
     </locales>
@@ -2309,6 +2373,9 @@
       <name><languageId>zh_Hant</languageId><trName>孟加拉文</trName></name>
       <name><languageId>zu</languageId><trName>isi-Bengali</trName></name>
     </names>
+    <scripts>
+      <script><scriptId>Beng</scriptId><rank>1000</rank></script>
+    </scripts>
     <locales>
       <locale><localeId>bn_BD.UTF-8</localeId><rank>700</rank></locale>
       <locale><localeId>bn_IN.UTF-8</localeId><rank>300</rank></locale>
@@ -2440,6 +2507,9 @@
       <name><languageId>zh_Hant</languageId><trName>藏文</trName></name>
       <name><languageId>zu</languageId><trName>isi-Tibetan</trName></name>
     </names>
+    <scripts>
+      <script><scriptId>Tibt</scriptId><rank>1000</rank></script>
+    </scripts>
     <locales>
       <locale><localeId>bo_CN.UTF-8</localeId><rank>900</rank></locale>
       <locale><localeId>bo_IN.UTF-8</localeId><rank>100</rank></locale>
@@ -2577,6 +2647,9 @@
       <name><languageId>zh_Hant_HK</languageId><trName>布里多尼文</trName></name>
       <name><languageId>zu</languageId><trName>Isi-Breton</trName></name>
     </names>
+    <scripts>
+      <script><scriptId>Latn</scriptId><rank>1000</rank></script>
+    </scripts>
     <locales>
       <locale><localeId>br_FR.UTF-8</localeId><rank>1000</rank></locale>
     </locales>
@@ -2686,6 +2759,9 @@
       <name><languageId>zh_Hant</languageId><trName>博多文</trName></name>
       <name><languageId>zu</languageId><trName>isi-Bodo</trName></name>
     </names>
+    <scripts>
+      <script><scriptId>Deva</scriptId><rank>1000</rank></script>
+    </scripts>
     <locales>
       <locale><localeId>brx_IN.UTF-8</localeId><rank>1000</rank></locale>
     </locales>
@@ -2823,6 +2899,10 @@
       <name><languageId>zh_Hant</languageId><trName>波士尼亞文</trName></name>
       <name><languageId>zu</languageId><trName>isi-Bosnian</trName></name>
     </names>
+    <scripts>
+      <script><scriptId>Latn</scriptId><rank>900</rank></script>
+      <script><scriptId>Cyrl</scriptId><rank>100</rank></script>
+    </scripts>
     <locales>
       <locale><localeId>bs_BA.UTF-8</localeId><rank>1000</rank></locale>
     </locales>
@@ -2914,6 +2994,9 @@
       <name><languageId>zh</languageId><trName>布林文</trName></name>
       <name><languageId>zh_Hant</languageId><trName>比林文</trName></name>
     </names>
+    <scripts>
+      <script><scriptId>Ethi</scriptId><rank>1000</rank></script>
+    </scripts>
     <locales>
       <locale><localeId>byn_ER.UTF-8</localeId><rank>1000</rank></locale>
     </locales>
@@ -3054,6 +3137,9 @@
       <name><languageId>zh_Hant</languageId><trName>加泰羅尼亞文</trName></name>
       <name><languageId>zu</languageId><trName>isi-Catalan</trName></name>
     </names>
+    <scripts>
+      <script><scriptId>Latn</scriptId><rank>1000</rank></script>
+    </scripts>
     <locales>
       <locale><localeId>ca_ES.UTF-8</localeId><rank>900</rank></locale>
       <locale><localeId>ca_FR.UTF-8</localeId><rank>100</rank></locale>
@@ -3162,6 +3248,9 @@
       <name><languageId>zh</languageId><trName>车臣文</trName></name>
       <name><languageId>zh_Hant</languageId><trName>車臣文</trName></name>
     </names>
+    <scripts>
+      <script><scriptId>Cyrl</scriptId><rank>1000</rank></script>
+    </scripts>
     <locales>
     </locales>
     <territories>
@@ -3255,6 +3344,9 @@
       <name><languageId>zh</languageId><trName>马里文</trName></name>
       <name><languageId>zh_Hant</languageId><trName>馬里文</trName></name>
     </names>
+    <scripts>
+      <script><scriptId>Cyrl</scriptId><rank>1000</rank></script>
+    </scripts>
     <locales>
     </locales>
     <territories>
@@ -3286,6 +3378,9 @@
       <name><languageId>zh_Hans</languageId><trName>官话</trName></name>
       <name><languageId>zh_Hant</languageId><trName>官話</trName></name>
     </names>
+    <scripts>
+      <script><scriptId>Hant</scriptId><rank>1000</rank></script>
+    </scripts>
     <locales>
       <locale><localeId>cmn_TW.UTF-8</localeId><rank>1000</rank></locale>
     </locales>
@@ -3388,6 +3483,9 @@
       <name><languageId>zh</languageId><trName>科普特文</trName></name>
       <name><languageId>zh_Hant</languageId><trName>科普特文</trName></name>
     </names>
+    <scripts>
+      <script><scriptId>Copt</scriptId><rank>1000</rank></script>
+    </scripts>
     <locales>
     </locales>
     <territories>
@@ -3478,6 +3576,10 @@
       <name><languageId>zh</languageId><trName>克里米亚土耳其文</trName></name>
       <name><languageId>zh_Hant</languageId><trName>克里米亞半島的土耳其文；克里米亞半島的塔塔爾文</trName></name>
     </names>
+    <scripts>
+      <script><scriptId>Latn</scriptId><rank>900</rank></script>
+      <script><scriptId>Cyrl</scriptId><rank>100</rank></script>
+    </scripts>
     <locales>
       <locale><localeId>crh_UA.UTF-8</localeId><rank>1000</rank></locale>
     </locales>
@@ -3630,6 +3732,9 @@
       <name><languageId>zh_Hant</languageId><trName>捷克文</trName></name>
       <name><languageId>zu</languageId><trName>isi-Czech</trName></name>
     </names>
+    <scripts>
+      <script><scriptId>Latn</scriptId><rank>1000</rank></script>
+    </scripts>
     <locales>
       <locale><localeId>cs_CZ.UTF-8</localeId><rank>900</rank></locale>
     </locales>
@@ -3721,6 +3826,9 @@
       <name><languageId>zh</languageId><trName>卡舒文</trName></name>
       <name><languageId>zh_Hant</languageId><trName>卡舒布文</trName></name>
     </names>
+    <scripts>
+      <script><scriptId>Latn</scriptId><rank>1000</rank></script>
+    </scripts>
     <locales>
       <locale><localeId>csb_PL.UTF-8</localeId><rank>1000</rank></locale>
     </locales>
@@ -3813,6 +3921,9 @@
       <name><languageId>zh</languageId><trName>楚瓦什文</trName></name>
       <name><languageId>zh_Hant</languageId><trName>楚瓦什文</trName></name>
     </names>
+    <scripts>
+      <script><scriptId>Cyrl</scriptId><rank>1000</rank></script>
+    </scripts>
     <locales>
       <locale><localeId>cv_RU.UTF-8</localeId><rank>1000</rank></locale>
     </locales>
@@ -3952,6 +4063,9 @@
       <name><languageId>zh_Hant</languageId><trName>威爾斯文</trName></name>
       <name><languageId>zu</languageId><trName>isi-Welsh</trName></name>
     </names>
+    <scripts>
+      <script><scriptId>Latn</scriptId><rank>1000</rank></script>
+    </scripts>
     <locales>
       <locale><localeId>cy_GB.UTF-8</localeId><rank>1000</rank></locale>
     </locales>
@@ -4097,6 +4211,9 @@
       <name><languageId>zh_Hant</languageId><trName>丹麥文</trName></name>
       <name><languageId>zu</languageId><trName>isi-Danish</trName></name>
     </names>
+    <scripts>
+      <script><scriptId>Latn</scriptId><rank>1000</rank></script>
+    </scripts>
     <locales>
       <locale><localeId>da_DK.UTF-8</localeId><rank>1000</rank></locale>
     </locales>
@@ -4250,6 +4367,9 @@
       <name><languageId>zh_Hant</languageId><trName>德文</trName></name>
       <name><languageId>zu</languageId><trName>isi-German</trName></name>
     </names>
+    <scripts>
+      <script><scriptId>Latn</scriptId><rank>1000</rank></script>
+    </scripts>
     <locales>
       <locale><localeId>de_DE.UTF-8</localeId><rank>600</rank></locale>
       <locale><localeId>de_AT.UTF-8</localeId><rank>200</rank></locale>
@@ -4357,6 +4477,11 @@
       <name><languageId>zh</languageId><trName>多格拉文</trName></name>
       <name><languageId>zh_Hant</languageId><trName>多格來文</trName></name>
     </names>
+    <scripts>
+      <script><scriptId>Deva</scriptId><rank>900</rank></script>
+      <script><scriptId>Takr</scriptId><rank>90</rank></script>
+      <script><scriptId>Arab</scriptId><rank>10</rank></script>
+    </scripts>
     <locales>
       <locale><localeId>doi_IN.UTF-8</localeId><rank>1000</rank></locale>
     </locales>
@@ -4473,6 +4598,9 @@
       <name><languageId>zh_Hant</languageId><trName>下索布文</trName></name>
       <name><languageId>zu</languageId><trName>isi-Lower Sorbian</trName></name>
     </names>
+    <scripts>
+      <script><scriptId>Latn</scriptId><rank>1000</rank></script>
+    </scripts>
     <locales>
     </locales>
     <territories>
@@ -4583,6 +4711,9 @@
       <name><languageId>zh_Hant</languageId><trName>迪維西文</trName></name>
       <name><languageId>zu</languageId><trName>isi-Divehi</trName></name>
     </names>
+    <scripts>
+      <script><scriptId>Thaa</scriptId><rank>1000</rank></script>
+    </scripts>
     <locales>
       <locale><localeId>dv_MV.UTF-8</localeId><rank>1000</rank></locale>
     </locales>
@@ -4704,6 +4835,9 @@
       <name><languageId>zh_Hant</languageId><trName>宗卡文</trName></name>
       <name><languageId>zu</languageId><trName>isi-Dzongkha</trName></name>
     </names>
+    <scripts>
+      <script><scriptId>Tibt</scriptId><rank>1000</rank></script>
+    </scripts>
     <locales>
       <locale><localeId>dz_BT.UTF-8</localeId><rank>1000</rank></locale>
     </locales>
@@ -4853,6 +4987,9 @@
       <name><languageId>zh_Hant</languageId><trName>希臘文</trName></name>
       <name><languageId>zu</languageId><trName>isi-Greek</trName></name>
     </names>
+    <scripts>
+      <script><scriptId>Grek</scriptId><rank>1000</rank></script>
+    </scripts>
     <locales>
       <locale><localeId>el_GR.UTF-8</localeId><rank>900</rank></locale>
       <locale><localeId>el_CY.UTF-8</localeId><rank>100</rank></locale>
@@ -5011,6 +5148,9 @@
       <name><languageId>zh_Hant</languageId><trName>英文</trName></name>
       <name><languageId>zu</languageId><trName>i-English</trName></name>
     </names>
+    <scripts>
+      <script><scriptId>Latn</scriptId><rank>1000</rank></script>
+    </scripts>
     <locales>
       <locale><localeId>en_US.UTF-8</localeId><rank>900</rank></locale>
       <locale><localeId>en_GB.UTF-8</localeId><rank>500</rank></locale>
@@ -5242,6 +5382,9 @@
       <name><languageId>zh_Hant_HK</languageId><trName>世界語</trName></name>
       <name><languageId>zu</languageId><trName>isi-Esperanto</trName></name>
     </names>
+    <scripts>
+      <script><scriptId>Latn</scriptId><rank>1000</rank></script>
+    </scripts>
     <locales>
     </locales>
     <territories>
@@ -5392,6 +5535,9 @@
       <name><languageId>zh_Hant</languageId><trName>西班牙文</trName></name>
       <name><languageId>zu</languageId><trName>isi-Spanish</trName></name>
     </names>
+    <scripts>
+      <script><scriptId>Latn</scriptId><rank>1000</rank></script>
+    </scripts>
     <locales>
       <locale><localeId>es_ES.UTF-8</localeId><rank>1000</rank></locale>
       <locale><localeId>es_AR.UTF-8</localeId><rank>900</rank></locale>
@@ -5649,6 +5795,9 @@
       <name><languageId>zh_Hant</languageId><trName>愛沙尼亞文</trName></name>
       <name><languageId>zu</languageId><trName>isi-Estonia</trName></name>
     </names>
+    <scripts>
+      <script><scriptId>Latn</scriptId><rank>1000</rank></script>
+    </scripts>
     <locales>
       <locale><localeId>et_EE.UTF-8</localeId><rank>1000</rank></locale>
     </locales>
@@ -5788,6 +5937,9 @@
       <name><languageId>zh_Hant</languageId><trName>巴斯克文</trName></name>
       <name><languageId>zu</languageId><trName>isi-Basque</trName></name>
     </names>
+    <scripts>
+      <script><scriptId>Latn</scriptId><rank>1000</rank></script>
+    </scripts>
     <locales>
       <locale><localeId>eu_ES.UTF-8</localeId><rank>1000</rank></locale>
     </locales>
@@ -5937,6 +6089,9 @@
       <name><languageId>zh_Hant</languageId><trName>波斯文</trName></name>
       <name><languageId>zu</languageId><trName>isi-Persian</trName></name>
     </names>
+    <scripts>
+      <script><scriptId>Arab</scriptId><rank>1000</rank></script>
+    </scripts>
     <locales>
       <locale><localeId>fa_IR.UTF-8</localeId><rank>1000</rank></locale>
     </locales>
@@ -6029,6 +6184,9 @@
       <name><languageId>zh</languageId><trName>夫拉文</trName></name>
       <name><languageId>zh_Hant</languageId><trName>富拉文</trName></name>
     </names>
+    <scripts>
+      <script><scriptId>Latn</scriptId><rank>1000</rank></script>
+    </scripts>
     <locales>
       <locale><localeId>ff_SN.UTF-8</localeId><rank>1000</rank></locale>
     </locales>
@@ -6171,6 +6329,9 @@
       <name><languageId>zh_Hant</languageId><trName>芬蘭文</trName></name>
       <name><languageId>zu</languageId><trName>isi-Finnish</trName></name>
     </names>
+    <scripts>
+      <script><scriptId>Latn</scriptId><rank>1000</rank></script>
+    </scripts>
     <locales>
       <locale><localeId>fi_FI.UTF-8</localeId><rank>1000</rank></locale>
     </locales>
@@ -6307,6 +6468,10 @@
       <name><languageId>zh_Hant</languageId><trName>菲律賓文</trName></name>
       <name><languageId>zu</languageId><trName>isi-Filipino</trName></name>
     </names>
+    <scripts>
+      <script><scriptId>Latn</scriptId><rank>990</rank></script>
+      <script><scriptId>Tglg</scriptId><rank>10</rank></script>
+    </scripts>
     <locales>
       <locale><localeId>fil_PH.UTF-8</localeId><rank>1000</rank></locale>
     </locales>
@@ -6433,6 +6598,9 @@
       <name><languageId>zh_Hant</languageId><trName>斐濟文</trName></name>
       <name><languageId>zu</languageId><trName>isi-Fijian</trName></name>
     </names>
+    <scripts>
+      <script><scriptId>Latn</scriptId><rank>1000</rank></script>
+    </scripts>
     <locales>
     </locales>
     <territories>
@@ -6571,6 +6739,9 @@
       <name><languageId>zh_Hant</languageId><trName>法羅文</trName></name>
       <name><languageId>zu</languageId><trName>isi-Faroese</trName></name>
     </names>
+    <scripts>
+      <script><scriptId>Latn</scriptId><rank>1000</rank></script>
+    </scripts>
     <locales>
       <locale><localeId>fo_FO.UTF-8</localeId><rank>1000</rank></locale>
     </locales>
@@ -6724,6 +6895,9 @@
       <name><languageId>zh_Hant</languageId><trName>法文</trName></name>
       <name><languageId>zu</languageId><trName>isi-French</trName></name>
     </names>
+    <scripts>
+      <script><scriptId>Latn</scriptId><rank>1000</rank></script>
+    </scripts>
     <locales>
       <locale><localeId>fr_FR.UTF-8</localeId><rank>500</rank></locale>
       <locale><localeId>fr_CA.UTF-8</localeId><rank>200</rank></locale>
@@ -6832,6 +7006,9 @@
       <name><languageId>zh</languageId><trName>弗留利文</trName></name>
       <name><languageId>zh_Hant</languageId><trName>弗留利文</trName></name>
     </names>
+    <scripts>
+      <script><scriptId>Latn</scriptId><rank>1000</rank></script>
+    </scripts>
     <locales>
       <locale><localeId>fur_IT.UTF-8</localeId><rank>1000</rank></locale>
     </locales>
@@ -6969,6 +7146,9 @@
       <name><languageId>zh_Hant</languageId><trName>西弗里西亞文</trName></name>
       <name><languageId>zu</languageId><trName>isi-Western Frisian</trName></name>
     </names>
+    <scripts>
+      <script><scriptId>Latn</scriptId><rank>1000</rank></script>
+    </scripts>
     <locales>
       <locale><localeId>fy_NL.UTF-8</localeId><rank>990</rank></locale>
       <locale><localeId>fy_DE.UTF-8</localeId><rank>10</rank></locale>
@@ -7115,6 +7295,9 @@
       <name><languageId>zh_Hant</languageId><trName>愛爾蘭文</trName></name>
       <name><languageId>zu</languageId><trName>isi-Irish</trName></name>
     </names>
+    <scripts>
+      <script><scriptId>Latn</scriptId><rank>1000</rank></script>
+    </scripts>
     <locales>
       <locale><localeId>ga_IE.UTF-8</localeId><rank>1000</rank></locale>
     </locales>
@@ -7244,6 +7427,9 @@
       <name><languageId>zh_Hant</languageId><trName>蘇格蘭蓋爾文</trName></name>
       <name><languageId>zu</languageId><trName>i-Scottish Gaelic</trName></name>
     </names>
+    <scripts>
+      <script><scriptId>Latn</scriptId><rank>1000</rank></script>
+    </scripts>
     <locales>
       <locale><localeId>gd_GB.UTF-8</localeId><rank>1000</rank></locale>
     </locales>
@@ -7339,6 +7525,9 @@
       <name><languageId>zh</languageId><trName>吉兹文</trName></name>
       <name><languageId>zh_Hant</languageId><trName>吉茲文</trName></name>
     </names>
+    <scripts>
+      <script><scriptId>Ethi</scriptId><rank>1000</rank></script>
+    </scripts>
     <locales>
       <locale><localeId>gez_ET.UTF-8</localeId><rank>900</rank></locale>
       <locale><localeId>gez_ER.UTF-8</localeId><rank>100</rank></locale>
@@ -7480,6 +7669,9 @@
       <name><languageId>zh_Hant_HK</languageId><trName>加里西亞文</trName></name>
       <name><languageId>zu</languageId><trName>isi-Galicia</trName></name>
     </names>
+    <scripts>
+      <script><scriptId>Latn</scriptId><rank>1000</rank></script>
+    </scripts>
     <locales>
       <locale><localeId>gl_ES.UTF-8</localeId><rank>1000</rank></locale>
     </locales>
@@ -7583,6 +7775,11 @@
       <name><languageId>zh</languageId><trName>古希腊文</trName></name>
       <name><languageId>zh_Hant</languageId><trName>古希臘文</trName></name>
     </names>
+    <scripts>
+      <script><scriptId>Grek</scriptId><rank>900</rank></script>
+      <script><scriptId>Cprt</scriptId><rank>90</rank></script>
+      <script><scriptId>Linb</scriptId><rank>10</rank></script>
+    </scripts>
     <locales>
     </locales>
     <territories>
@@ -7721,6 +7918,9 @@
       <name><languageId>zh_Hant</languageId><trName>古吉拉特文</trName></name>
       <name><languageId>zu</languageId><trName>isi-Gujarati</trName></name>
     </names>
+    <scripts>
+      <script><scriptId>Gujr</scriptId><rank>1000</rank></script>
+    </scripts>
     <locales>
       <locale><localeId>gu_IN.UTF-8</localeId><rank>1000</rank></locale>
     </locales>
@@ -7839,6 +8039,9 @@
       <name><languageId>zh_Hant</languageId><trName>曼島文</trName></name>
       <name><languageId>zu</languageId><trName>isi-Manx</trName></name>
     </names>
+    <scripts>
+      <script><scriptId>Latn</scriptId><rank>1000</rank></script>
+    </scripts>
     <locales>
       <locale><localeId>gv_GB.UTF-8</localeId><rank>1000</rank></locale>
     </locales>
@@ -7973,6 +8176,10 @@
       <name><languageId>zh_Hant</languageId><trName>豪撒文</trName></name>
       <name><languageId>zu</languageId><trName>isi-Hausa</trName></name>
     </names>
+    <scripts>
+      <script><scriptId>Latn</scriptId><rank>990</rank></script>
+      <script><scriptId>Arab</scriptId><rank>10</rank></script>
+    </scripts>
     <locales>
       <locale><localeId>ha_NG.UTF-8</localeId><rank>1000</rank></locale>
     </locales>
@@ -8022,6 +8229,10 @@
       <name><languageId>zh_Hans</languageId><trName>客家语</trName></name>
       <name><languageId>zh_Hant</languageId><trName>客家話</trName></name>
     </names>
+    <scripts>
+      <script><scriptId>Hant</scriptId><rank>900</rank></script>
+      <script><scriptId>Hans</scriptId><rank>100</rank></script>
+    </scripts>
     <locales>
       <locale><localeId>hak_TW.UTF-8</localeId><rank>1000</rank></locale>
     </locales>
@@ -8146,6 +8357,9 @@
       <name><languageId>zh_Hant</languageId><trName>夏威夷文</trName></name>
       <name><languageId>zu</languageId><trName>isi-Hawaiian</trName></name>
     </names>
+    <scripts>
+      <script><scriptId>Latn</scriptId><rank>1000</rank></script>
+    </scripts>
     <locales>
     </locales>
     <territories>
@@ -8287,6 +8501,9 @@
       <name><languageId>zh_Hant</languageId><trName>希伯來文</trName></name>
       <name><languageId>zu</languageId><trName>isi-Hebrew</trName></name>
     </names>
+    <scripts>
+      <script><scriptId>Hebr</scriptId><rank>1000</rank></script>
+    </scripts>
     <locales>
       <locale><localeId>he_IL.UTF-8</localeId><rank>1000</rank></locale>
       <locale><localeId>iw_IL.UTF-8</localeId><rank>0</rank></locale>
@@ -8436,6 +8653,10 @@
       <name><languageId>zh_Hant</languageId><trName>北印度文</trName></name>
       <name><languageId>zu</languageId><trName>isi-Hindi</trName></name>
     </names>
+    <scripts>
+      <script><scriptId>Deva</scriptId><rank>999</rank></script>
+      <script><scriptId>Mahj</scriptId><rank>1</rank></script>
+    </scripts>
     <locales>
       <locale><localeId>hi_IN.UTF-8</localeId><rank>1000</rank></locale>
     </locales>
@@ -8525,6 +8746,9 @@
       <name><languageId>zh</languageId><trName>希利盖农文</trName></name>
       <name><languageId>zh_Hant</languageId><trName>希利蓋農文</trName></name>
     </names>
+    <scripts>
+      <script><scriptId>Latn</scriptId><rank>1000</rank></script>
+    </scripts>
     <locales>
     </locales>
     <territories>
@@ -8551,6 +8775,9 @@
       <name><languageId>en</languageId><trName>Chhattisgarhi</trName></name>
       <name><languageId>hne</languageId><trName>छत्तीसगढ़ी</trName></name>
     </names>
+    <scripts>
+      <script><scriptId>Deva</scriptId><rank>1000</rank></script>
+    </scripts>
     <locales>
       <locale><localeId>hne_IN.UTF-8</localeId><rank>1000</rank></locale>
     </locales>
@@ -8690,6 +8917,9 @@
       <name><languageId>zh_Hant_HK</languageId><trName>克羅地亞文</trName></name>
       <name><languageId>zu</languageId><trName>isi-Croatian</trName></name>
     </names>
+    <scripts>
+      <script><scriptId>Latn</scriptId><rank>1000</rank></script>
+    </scripts>
     <locales>
       <locale><localeId>hr_HR.UTF-8</localeId><rank>1000</rank></locale>
     </locales>
@@ -8805,6 +9035,9 @@
       <name><languageId>zh_Hant</languageId><trName>上索布文</trName></name>
       <name><languageId>zu</languageId><trName>isi-Upper Sorbian</trName></name>
     </names>
+    <scripts>
+      <script><scriptId>Latn</scriptId><rank>1000</rank></script>
+    </scripts>
     <locales>
       <locale><localeId>hsb_DE.UTF-8</localeId><rank>1000</rank></locale>
     </locales>
@@ -8928,6 +9161,9 @@
       <name><languageId>zh_Hant</languageId><trName>海地文</trName></name>
       <name><languageId>zu</languageId><trName>isi-Haitian</trName></name>
     </names>
+    <scripts>
+      <script><scriptId>Latn</scriptId><rank>1000</rank></script>
+    </scripts>
     <locales>
       <locale><localeId>ht_HT.UTF-8</localeId><rank>1000</rank></locale>
     </locales>
@@ -9076,6 +9312,9 @@
       <name><languageId>zh_Hant</languageId><trName>匈牙利文</trName></name>
       <name><languageId>zu</languageId><trName>isi-Hungarian</trName></name>
     </names>
+    <scripts>
+      <script><scriptId>Latn</scriptId><rank>1000</rank></script>
+    </scripts>
     <locales>
       <locale><localeId>hu_HU.UTF-8</localeId><rank>1000</rank></locale>
     </locales>
@@ -9211,6 +9450,9 @@
       <name><languageId>zh_Hant</languageId><trName>亞美尼亞文</trName></name>
       <name><languageId>zu</languageId><trName>isi-Armenia</trName></name>
     </names>
+    <scripts>
+      <script><scriptId>Armn</scriptId><rank>1000</rank></script>
+    </scripts>
     <locales>
       <locale><localeId>hy_AM.UTF-8</localeId><rank>1000</rank></locale>
     </locales>
@@ -9337,6 +9579,9 @@
       <name><languageId>zh_Hant</languageId><trName>國際文</trName></name>
       <name><languageId>zu</languageId><trName>Izilimi ezihlangene</trName></name>
     </names>
+    <scripts>
+      <script><scriptId>Latn</scriptId><rank>1000</rank></script>
+    </scripts>
     <locales>
       <locale><localeId>ia_FR.UTF-8</localeId><rank>1000</rank></locale>
     </locales>
@@ -9482,6 +9727,10 @@
       <name><languageId>zh_Hant</languageId><trName>印尼文</trName></name>
       <name><languageId>zu</languageId><trName>isi-Indonesian</trName></name>
     </names>
+    <scripts>
+      <script><scriptId>Latn</scriptId><rank>900</rank></script>
+      <script><scriptId>Arab</scriptId><rank>10</rank></script>
+    </scripts>
     <locales>
       <locale><localeId>id_ID.UTF-8</localeId><rank>1000</rank></locale>
     </locales>
@@ -9611,6 +9860,9 @@
       <name><languageId>zh_Hant</languageId><trName>伊布文</trName></name>
       <name><languageId>zu</languageId><trName>isi-Igbo</trName></name>
     </names>
+    <scripts>
+      <script><scriptId>Latn</scriptId><rank>1000</rank></script>
+    </scripts>
     <locales>
       <locale><localeId>ig_NG.UTF-8</localeId><rank>1000</rank></locale>
     </locales>
@@ -9709,6 +9961,9 @@
       <name><languageId>zh</languageId><trName>依奴皮维克文</trName></name>
       <name><languageId>zh_Hant</languageId><trName>依奴皮維克文</trName></name>
     </names>
+    <scripts>
+      <script><scriptId>Latn</scriptId><rank>1000</rank></script>
+    </scripts>
     <locales>
       <locale><localeId>ik_CA.UTF-8</localeId><rank>1000</rank></locale>
     </locales>
@@ -9798,6 +10053,9 @@
       <name><languageId>zh</languageId><trName>伊洛干诺文</trName></name>
       <name><languageId>zh_Hant</languageId><trName>伊洛闊文</trName></name>
     </names>
+    <scripts>
+      <script><scriptId>Latn</scriptId><rank>1000</rank></script>
+    </scripts>
     <locales>
       <locale><localeId>ilo_PH.UTF-8</localeId><rank>0</rank></locale>
     </locales>
@@ -9938,6 +10196,9 @@
       <name><languageId>zh_Hant</languageId><trName>冰島文</trName></name>
       <name><languageId>zu</languageId><trName>isi-Icelandic</trName></name>
     </names>
+    <scripts>
+      <script><scriptId>Latn</scriptId><rank>1000</rank></script>
+    </scripts>
     <locales>
       <locale><localeId>is_IS.UTF-8</localeId><rank>1000</rank></locale>
     </locales>
@@ -10091,6 +10352,9 @@
       <name><languageId>zh_Hant_HK</languageId><trName>意大利文</trName></name>
       <name><languageId>zu</languageId><trName>isi-Italian</trName></name>
     </names>
+    <scripts>
+      <script><scriptId>Latn</scriptId><rank>1000</rank></script>
+    </scripts>
     <locales>
       <locale><localeId>it_IT.UTF-8</localeId><rank>900</rank></locale>
       <locale><localeId>it_CH.UTF-8</localeId><rank>100</rank></locale>
@@ -10213,6 +10477,10 @@
       <name><languageId>zh_Hant</languageId><trName>因紐特文</trName></name>
       <name><languageId>zu</languageId><trName>isi-Inuktitut</trName></name>
     </names>
+    <scripts>
+      <script><scriptId>Cans</scriptId><rank>900</rank></script>
+      <script><scriptId>Latn</scriptId><rank>100</rank></script>
+    </scripts>
     <locales>
       <locale><localeId>iu_CA.UTF-8</localeId><rank>1000</rank></locale>
     </locales>
@@ -10247,6 +10515,9 @@
     <names>
       <name><languageId>en</languageId><trName>Hebrew</trName></name>
     </names>
+    <scripts>
+      <script><scriptId>Hebr</scriptId><rank>1000</rank></script>
+    </scripts>
     <locales>
       <locale><localeId>he_IL.UTF-8</localeId><rank>1000</rank></locale>
       <locale><localeId>iw_IL.UTF-8</localeId><rank>0</rank></locale>
@@ -10401,6 +10672,12 @@
       <name><languageId>zh_Hant</languageId><trName>日文</trName></name>
       <name><languageId>zu</languageId><trName>isi-Japanese</trName></name>
     </names>
+    <scripts>
+      <script><scriptId>Hani</scriptId><rank>500</rank></script>
+      <script><scriptId>Hira</scriptId><rank>300</rank></script>
+      <script><scriptId>Kana</scriptId><rank>200</rank></script>
+      <script><scriptId>Jpan</scriptId><rank>0</rank></script>
+    </scripts>
     <locales>
       <locale><localeId>ja_JP.UTF-8</localeId><rank>1000</rank></locale>
     </locales>
@@ -10543,6 +10820,9 @@
       <name><languageId>zh_Hant</languageId><trName>喬治亞文</trName></name>
       <name><languageId>zu</languageId><trName>isi-Georgian</trName></name>
     </names>
+    <scripts>
+      <script><scriptId>Geor</scriptId><rank>1000</rank></script>
+    </scripts>
     <locales>
       <locale><localeId>ka_GE.UTF-8</localeId><rank>1000</rank></locale>
     </locales>
@@ -10644,6 +10924,9 @@
       <name><languageId>zh_Hant</languageId><trName>剛果文</trName></name>
       <name><languageId>zu</languageId><trName>Isi-Kongo</trName></name>
     </names>
+    <scripts>
+      <script><scriptId>Latn</scriptId><rank>1000</rank></script>
+    </scripts>
     <locales>
     </locales>
     <territories>
@@ -10773,6 +11056,10 @@
       <name><languageId>zh_Hant</languageId><trName>哈薩克文</trName></name>
       <name><languageId>zu</languageId><trName>isi-Kazakh</trName></name>
     </names>
+    <scripts>
+      <script><scriptId>Cyrl</scriptId><rank>900</rank></script>
+      <script><scriptId>Arab</scriptId><rank>100</rank></script>
+    </scripts>
     <locales>
       <locale><localeId>kk_KZ.UTF-8</localeId><rank>1000</rank></locale>
     </locales>
@@ -10891,6 +11178,9 @@
       <name><languageId>zh_Hant</languageId><trName>格陵蘭文</trName></name>
       <name><languageId>zu</languageId><trName>isi-Kalaallisut</trName></name>
     </names>
+    <scripts>
+      <script><scriptId>Latn</scriptId><rank>1000</rank></script>
+    </scripts>
     <locales>
       <locale><localeId>kl_GL.UTF-8</localeId><rank>1000</rank></locale>
     </locales>
@@ -11034,6 +11324,9 @@
       <name><languageId>zh_Hant</languageId><trName>高棉文</trName></name>
       <name><languageId>zu</languageId><trName>isi-Khmer</trName></name>
     </names>
+    <scripts>
+      <script><scriptId>Khmr</scriptId><rank>1000</rank></script>
+    </scripts>
     <locales>
       <locale><localeId>km_KH.UTF-8</localeId><rank>1000</rank></locale>
     </locales>
@@ -11172,6 +11465,9 @@
       <name><languageId>zh_Hant_HK</languageId><trName>坎納達文</trName></name>
       <name><languageId>zu</languageId><trName>isi-Kannada</trName></name>
     </names>
+    <scripts>
+      <script><scriptId>Knda</scriptId><rank>1000</rank></script>
+    </scripts>
     <locales>
       <locale><localeId>kn_IN.UTF-8</localeId><rank>1000</rank></locale>
     </locales>
@@ -11322,6 +11618,11 @@
       <name><languageId>zh_Hant</languageId><trName>韓文</trName></name>
       <name><languageId>zu</languageId><trName>isi-Korean</trName></name>
     </names>
+    <scripts>
+      <script><scriptId>Hang</scriptId><rank>990</rank></script>
+      <script><scriptId>Hani</scriptId><rank>10</rank></script>
+      <script><scriptId>Kore</scriptId><rank>0</rank></script>
+    </scripts>
     <locales>
       <locale><localeId>ko_KR.UTF-8</localeId><rank>1000</rank></locale>
     </locales>
@@ -11438,6 +11739,9 @@
       <name><languageId>zh_Hant</languageId><trName>貢根文</trName></name>
       <name><languageId>zu</languageId><trName>isi-Konkani</trName></name>
     </names>
+    <scripts>
+      <script><scriptId>Deva</scriptId><rank>1000</rank></script>
+    </scripts>
     <locales>
       <locale><localeId>kok_IN.UTF-8</localeId><rank>1000</rank></locale>
     </locales>
@@ -11562,6 +11866,10 @@
       <name><languageId>zh_Hant</languageId><trName>喀什米爾文</trName></name>
       <name><languageId>zu</languageId><trName>isi-Kashmiri</trName></name>
     </names>
+    <scripts>
+      <script><scriptId>Arab</scriptId><rank>900</rank></script>
+      <script><scriptId>Deva</scriptId><rank>100</rank></script>
+    </scripts>
     <locales>
       <locale><localeId>ks_IN.UTF-8@devanagari</localeId><rank>900</rank></locale>
       <locale><localeId>ks_IN.UTF-8</localeId><rank>100</rank></locale>
@@ -11594,6 +11902,9 @@
       <name><languageId>ks_Deva</languageId><trName>कॉशुर</trName></name>
       <name><languageId>ks_Latn</languageId><trName>kạ̄šur</trName></name>
     </names>
+    <scripts>
+      <script><scriptId>Arab</scriptId><rank>1000</rank></script>
+    </scripts>
     <locales>
       <locale><localeId>ks_IN.UTF-8</localeId><rank>1000</rank></locale>
     </locales>
@@ -11624,6 +11935,9 @@
       <name><languageId>ks_Arab</languageId><trName>کأشُر</trName></name>
       <name><languageId>ks_Deva</languageId><trName>कॉशुर</trName></name>
     </names>
+    <scripts>
+      <script><scriptId>Deva</scriptId><rank>1000</rank></script>
+    </scripts>
     <locales>
       <locale><localeId>ks_IN.UTF-8@devanagari</localeId><rank>1000</rank></locale>
     </locales>
@@ -11760,6 +12074,11 @@
       <name><languageId>zh_Hant</languageId><trName>庫爾德文</trName></name>
       <name><languageId>zu</languageId><trName>isi-Kurdish</trName></name>
     </names>
+    <scripts>
+      <script><scriptId>Latn</scriptId><rank>900</rank></script>
+      <script><scriptId>Arab</scriptId><rank>90</rank></script>
+      <script><scriptId>Cyrl</scriptId><rank>10</rank></script>
+    </scripts>
     <locales>
       <locale><localeId>ku_TR.UTF-8</localeId><rank>1000</rank></locale>
     </locales>
@@ -11852,6 +12171,10 @@
       <name><languageId>zh</languageId><trName>科米文</trName></name>
       <name><languageId>zh_Hant</languageId><trName>科米文</trName></name>
     </names>
+    <scripts>
+      <script><scriptId>Cyrl</scriptId><rank>999</rank></script>
+      <script><scriptId>Perm</scriptId><rank>1</rank></script>
+    </scripts>
     <locales>
     </locales>
     <territories>
@@ -11968,6 +12291,9 @@
       <name><languageId>zh_Hant</languageId><trName>康瓦耳文</trName></name>
       <name><languageId>zu</languageId><trName>isi-Cornish</trName></name>
     </names>
+    <scripts>
+      <script><scriptId>Latn</scriptId><rank>1000</rank></script>
+    </scripts>
     <locales>
       <locale><localeId>kw_GB.UTF-8</localeId><rank>1000</rank></locale>
     </locales>
@@ -12101,6 +12427,11 @@
       <name><languageId>zh_Hant</languageId><trName>吉爾吉斯文</trName></name>
       <name><languageId>zu</languageId><trName>isi-Kyrgyz</trName></name>
     </names>
+    <scripts>
+      <script><scriptId>Cyrl</scriptId><rank>900</rank></script>
+      <script><scriptId>Arab</scriptId><rank>90</rank></script>
+      <script><scriptId>Latn</scriptId><rank>10</rank></script>
+    </scripts>
     <locales>
       <locale><localeId>ky_KG.UTF-8</localeId><rank>1000</rank></locale>
     </locales>
@@ -12244,6 +12575,9 @@
       <name><languageId>zh_Hant</languageId><trName>拉丁文</trName></name>
       <name><languageId>zu</languageId><trName>isi-Latin</trName></name>
     </names>
+    <scripts>
+      <script><scriptId>Latn</scriptId><rank>1000</rank></script>
+    </scripts>
     <locales>
     </locales>
     <territories>
@@ -12365,6 +12699,9 @@
       <name><languageId>zh_Hant</languageId><trName>盧森堡文</trName></name>
       <name><languageId>zu</languageId><trName>isi-Luxembourgish</trName></name>
     </names>
+    <scripts>
+      <script><scriptId>Latn</scriptId><rank>1000</rank></script>
+    </scripts>
     <locales>
       <locale><localeId>lb_LU.UTF-8</localeId><rank>1000</rank></locale>
     </locales>
@@ -12483,6 +12820,9 @@
       <name><languageId>zh_Hant</languageId><trName>干達文</trName></name>
       <name><languageId>zu</languageId><trName>Isi-Ganda</trName></name>
     </names>
+    <scripts>
+      <script><scriptId>Latn</scriptId><rank>1000</rank></script>
+    </scripts>
     <locales>
       <locale><localeId>lg_UG.UTF-8</localeId><rank>1000</rank></locale>
     </locales>
@@ -12577,6 +12917,9 @@
       <name><languageId>zh</languageId><trName>淋布尔吉文</trName></name>
       <name><languageId>zh_Hant</languageId><trName>林堡文</trName></name>
     </names>
+    <scripts>
+      <script><scriptId>Latn</scriptId><rank>1000</rank></script>
+    </scripts>
     <locales>
       <locale><localeId>li_NL.UTF-8</localeId><rank>501</rank></locale>
       <locale><localeId>li_BE.UTF-8</localeId><rank>499</rank></locale>
@@ -12630,6 +12973,9 @@
       <name><languageId>tr</languageId><trName>Ligurca</trName></name>
       <name><languageId>zh_Hant</languageId><trName>利古里亞文</trName></name>
     </names>
+    <scripts>
+      <script><scriptId>Latn</scriptId><rank>1000</rank></script>
+    </scripts>
     <locales>
       <locale><localeId>lij_IT.UTF-8</localeId><rank>1000</rank></locale>
     </locales>
@@ -12757,9 +13103,15 @@
       <name><languageId>zh_Hant</languageId><trName>林加拉文</trName></name>
       <name><languageId>zu</languageId><trName>isi-Lingala</trName></name>
     </names>
+    <scripts>
+      <script><scriptId>Latn</scriptId><rank>1000</rank></script>
+    </scripts>
     <locales>
     </locales>
     <territories>
+      <territory><territoryId>CD</territoryId><rank>900</rank></territory>
+      <territory><territoryId>AO</territoryId><rank>90</rank></territory>
+      <territory><territoryId>CF</territoryId><rank>10</rank></territory>
     </territories>
     <keyboards>
     </keyboards>
@@ -12885,6 +13237,9 @@
       <name><languageId>zh_Hant</languageId><trName>寮文</trName></name>
       <name><languageId>zu</languageId><trName>i-Lao</trName></name>
     </names>
+    <scripts>
+      <script><scriptId>Laoo</scriptId><rank>1000</rank></script>
+    </scripts>
     <locales>
       <locale><localeId>lo_LA.UTF-8</localeId><rank>1000</rank></locale>
     </locales>
@@ -13025,6 +13380,9 @@
       <name><languageId>zh_Hant</languageId><trName>立陶宛文</trName></name>
       <name><languageId>zu</languageId><trName>isi-Lithuanian</trName></name>
     </names>
+    <scripts>
+      <script><scriptId>Latn</scriptId><rank>1000</rank></script>
+    </scripts>
     <locales>
       <locale><localeId>lt_LT.UTF-8</localeId><rank>1000</rank></locale>
     </locales>
@@ -13164,6 +13522,9 @@
       <name><languageId>zh_Hant</languageId><trName>拉脫維亞文</trName></name>
       <name><languageId>zu</languageId><trName>isi-Latvian</trName></name>
     </names>
+    <scripts>
+      <script><scriptId>Latn</scriptId><rank>1000</rank></script>
+    </scripts>
     <locales>
       <locale><localeId>lv_LV.UTF-8</localeId><rank>1000</rank></locale>
     </locales>
@@ -13210,6 +13571,9 @@
       <name><languageId>zh</languageId><trName>文言文</trName></name>
       <name><languageId>zh_Hant</languageId><trName>文言文</trName></name>
     </names>
+    <scripts>
+      <script><scriptId>Hant</scriptId><rank>1000</rank></script>
+    </scripts>
     <locales>
       <locale><localeId>cmn_TW.UTF-8</localeId><rank>1000</rank></locale>
     </locales>
@@ -13305,6 +13669,9 @@
       <name><languageId>zh</languageId><trName>马加伊文</trName></name>
       <name><languageId>zh_Hant</languageId><trName>馬加伊文</trName></name>
     </names>
+    <scripts>
+      <script><scriptId>Deva</scriptId><rank>1000</rank></script>
+    </scripts>
     <locales>
       <locale><localeId>mag_IN.UTF-8</localeId><rank>1000</rank></locale>
     </locales>
@@ -13396,6 +13763,10 @@
       <name><languageId>zh</languageId><trName>迈蒂利文</trName></name>
       <name><languageId>zh_Hant</languageId><trName>邁蒂利文</trName></name>
     </names>
+    <scripts>
+      <script><scriptId>Deva</scriptId><rank>990</rank></script>
+      <script><scriptId>Tirh</scriptId><rank>10</rank></script>
+    </scripts>
     <locales>
       <locale><localeId>mai_IN.UTF-8</localeId><rank>1000</rank></locale>
     </locales>
@@ -13524,6 +13895,9 @@
       <name><languageId>zh_Hant_HK</languageId><trName>馬拉加斯文</trName></name>
       <name><languageId>zu</languageId><trName>isi-Malagasy</trName></name>
     </names>
+    <scripts>
+      <script><scriptId>Latn</scriptId><rank>1000</rank></script>
+    </scripts>
     <locales>
       <locale><localeId>mg_MG.UTF-8</localeId><rank>1000</rank></locale>
     </locales>
@@ -13551,6 +13925,9 @@
       <name><languageId>en</languageId><trName>Mari</trName></name>
       <name><languageId>mhr</languageId><trName>марий йылме</trName></name>
     </names>
+    <scripts>
+      <script><scriptId>Cyrl</scriptId><rank>1000</rank></script>
+    </scripts>
     <locales>
       <locale><localeId>mhr_RU.UTF-8</localeId><rank>1000</rank></locale>
     </locales>
@@ -13678,6 +14055,9 @@
       <name><languageId>zh_Hant</languageId><trName>毛利文</trName></name>
       <name><languageId>zu</languageId><trName>isi-Maori</trName></name>
     </names>
+    <scripts>
+      <script><scriptId>Latn</scriptId><rank>1000</rank></script>
+    </scripts>
     <locales>
       <locale><localeId>mi_NZ.UTF-8</localeId><rank>1000</rank></locale>
     </locales>
@@ -13816,6 +14196,9 @@
       <name><languageId>zh_Hant</languageId><trName>馬其頓文</trName></name>
       <name><languageId>zu</languageId><trName>isi-Macedonian</trName></name>
     </names>
+    <scripts>
+      <script><scriptId>Cyrl</scriptId><rank>1000</rank></script>
+    </scripts>
     <locales>
       <locale><localeId>mk_MK.UTF-8</localeId><rank>1000</rank></locale>
     </locales>
@@ -13951,6 +14334,9 @@
       <name><languageId>zh_Hant</languageId><trName>馬來亞拉姆文</trName></name>
       <name><languageId>zu</languageId><trName>isi-Malayalam</trName></name>
     </names>
+    <scripts>
+      <script><scriptId>Mlym</scriptId><rank>1000</rank></script>
+    </scripts>
     <locales>
       <locale><localeId>ml_IN.UTF-8</localeId><rank>1000</rank></locale>
     </locales>
@@ -14085,6 +14471,11 @@
       <name><languageId>zh_Hant</languageId><trName>蒙古文</trName></name>
       <name><languageId>zu</languageId><trName>isi-Mongolian</trName></name>
     </names>
+    <scripts>
+      <script><scriptId>Cyrl</scriptId><rank>900</rank></script>
+      <script><scriptId>Mong</scriptId><rank>90</rank></script>
+      <script><scriptId>Phag</scriptId><rank>1</rank></script>
+    </scripts>
     <locales>
       <locale><localeId>mn_MN.UTF-8</localeId><rank>1000</rank></locale>
     </locales>
@@ -14182,6 +14573,10 @@
       <name><languageId>zh</languageId><trName>曼尼普里文</trName></name>
       <name><languageId>zh_Hant</languageId><trName>曼尼普裡文</trName></name>
     </names>
+    <scripts>
+      <script><scriptId>Beng</scriptId><rank>900</rank></script>
+      <script><scriptId>Mtei</scriptId><rank>100</rank></script>
+    </scripts>
     <locales>
       <locale><localeId>mni_IN.UTF-8</localeId><rank>1000</rank></locale>
     </locales>
@@ -14272,6 +14667,9 @@
       <name><languageId>zh</languageId><trName>莫西文</trName></name>
       <name><languageId>zh_Hant</languageId><trName>莫西文</trName></name>
     </names>
+    <scripts>
+      <script><scriptId>Latn</scriptId><rank>1000</rank></script>
+    </scripts>
     <locales>
     </locales>
     <territories>
@@ -14407,6 +14805,10 @@
       <name><languageId>zh_Hant</languageId><trName>馬拉地文</trName></name>
       <name><languageId>zu</languageId><trName>isi-Marathi</trName></name>
     </names>
+    <scripts>
+      <script><scriptId>Deva</scriptId><rank>999</rank></script>
+      <script><scriptId>Modi</scriptId><rank>1</rank></script>
+    </scripts>
     <locales>
       <locale><localeId>mr_IN.UTF-8</localeId><rank>1000</rank></locale>
     </locales>
@@ -14551,6 +14953,10 @@
       <name><languageId>zh_Hant</languageId><trName>馬來文</trName></name>
       <name><languageId>zu</languageId><trName>isi-Malay</trName></name>
     </names>
+    <scripts>
+      <script><scriptId>Latn</scriptId><rank>900</rank></script>
+      <script><scriptId>Arab</scriptId><rank>100</rank></script>
+    </scripts>
     <locales>
       <locale><localeId>ms_MY.UTF-8</localeId><rank>1000</rank></locale>
     </locales>
@@ -14689,6 +15095,9 @@
       <name><languageId>zh_Hant</languageId><trName>馬爾他文</trName></name>
       <name><languageId>zu</languageId><trName>isi-Maltese</trName></name>
     </names>
+    <scripts>
+      <script><scriptId>Latn</scriptId><rank>1000</rank></script>
+    </scripts>
     <locales>
       <locale><localeId>mt_MT.UTF-8</localeId><rank>1000</rank></locale>
     </locales>
@@ -14824,6 +15233,9 @@
       <name><languageId>zh_Hant</languageId><trName>緬甸文</trName></name>
       <name><languageId>zu</languageId><trName>isi-Burmese</trName></name>
     </names>
+    <scripts>
+      <script><scriptId>Mymr</scriptId><rank>1000</rank></script>
+    </scripts>
     <locales>
       <locale><localeId>my_MM.UTF-8</localeId><rank>1000</rank></locale>
     </locales>
@@ -14870,6 +15282,9 @@
       <name><languageId>tr</languageId><trName>Min Nan Çincesi</trName></name>
       <name><languageId>zh_Hant</languageId><trName>閩南語</trName></name>
     </names>
+    <scripts>
+      <script><scriptId>Hant</scriptId><rank>1000</rank></script>
+    </scripts>
     <locales>
       <locale><localeId>nan_TW.UTF-8</localeId><rank>1000</rank></locale>
     </locales>
@@ -14991,6 +15406,9 @@
       <name><languageId>zh_Hant</languageId><trName>巴克摩挪威文</trName></name>
       <name><languageId>zu</languageId><trName>isi-Norwegian Bokmål</trName></name>
     </names>
+    <scripts>
+      <script><scriptId>Latn</scriptId><rank>1000</rank></script>
+    </scripts>
     <locales>
       <locale><localeId>nb_NO.UTF-8</localeId><rank>1000</rank></locale>
     </locales>
@@ -15087,6 +15505,9 @@
       <name><languageId>zh</languageId><trName>低地德文</trName></name>
       <name><languageId>zh_Hant</languageId><trName>低地德文</trName></name>
     </names>
+    <scripts>
+      <script><scriptId>Latn</scriptId><rank>1000</rank></script>
+    </scripts>
     <locales>
       <locale><localeId>nds_NL.UTF-8</localeId><rank>900</rank></locale>
       <locale><localeId>nds_DE.UTF-8</localeId><rank>100</rank></locale>
@@ -15238,6 +15659,9 @@
       <name><languageId>zh_Hant</languageId><trName>尼泊爾文</trName></name>
       <name><languageId>zu</languageId><trName>isi-Nepali</trName></name>
     </names>
+    <scripts>
+      <script><scriptId>Deva</scriptId><rank>1000</rank></script>
+    </scripts>
     <locales>
       <locale><localeId>ne_NP.UTF-8</localeId><rank>1000</rank></locale>
     </locales>
@@ -15264,6 +15688,9 @@
     <names>
       <name><languageId>nhn</languageId><trName>Tlaxcala–Puebla Nahuatl</trName></name>
     </names>
+    <scripts>
+      <script><scriptId>Latn</scriptId><rank>1000</rank></script>
+    </scripts>
     <locales>
       <locale><localeId>nhn_MX.UTF-8</localeId><rank>1000</rank></locale>
     </locales>
@@ -15354,6 +15781,9 @@
       <name><languageId>zh</languageId><trName>纽埃文</trName></name>
       <name><languageId>zh_Hant</languageId><trName>紐埃文</trName></name>
     </names>
+    <scripts>
+      <script><scriptId>Latn</scriptId><rank>1000</rank></script>
+    </scripts>
     <locales>
       <locale><localeId>niu_NU.UTF-8</localeId><rank>600</rank></locale>
       <locale><localeId>niu_NZ.UTF-8</localeId><rank>400</rank></locale>
@@ -15507,6 +15937,9 @@
       <name><languageId>zh_Hant</languageId><trName>荷蘭文</trName></name>
       <name><languageId>zu</languageId><trName>isi-Dutch</trName></name>
     </names>
+    <scripts>
+      <script><scriptId>Latn</scriptId><rank>1000</rank></script>
+    </scripts>
     <locales>
       <locale><localeId>nl_NL.UTF-8</localeId><rank>800</rank></locale>
       <locale><localeId>nl_BE.UTF-8</localeId><rank>100</rank></locale>
@@ -15648,6 +16081,9 @@
       <name><languageId>zh_Hant</languageId><trName>耐諾斯克挪威文</trName></name>
       <name><languageId>zu</languageId><trName>i-Norwegian Nynorsk</trName></name>
     </names>
+    <scripts>
+      <script><scriptId>Latn</scriptId><rank>1000</rank></script>
+    </scripts>
     <locales>
       <locale><localeId>nn_NO.UTF-8</localeId><rank>1000</rank></locale>
     </locales>
@@ -15783,6 +16219,9 @@
       <name><languageId>zh_Hant</languageId><trName>挪威文</trName></name>
       <name><languageId>zu</languageId><trName>IsiNoweyi</trName></name>
     </names>
+    <scripts>
+      <script><scriptId>Latn</scriptId><rank>1000</rank></script>
+    </scripts>
     <locales>
       <locale><localeId>no_NO.UTF-8</localeId><rank>1000</rank></locale>
     </locales>
@@ -15876,6 +16315,9 @@
       <name><languageId>zh</languageId><trName>南恩德贝勒文</trName></name>
       <name><languageId>zh_Hant</languageId><trName>南地畢列文</trName></name>
     </names>
+    <scripts>
+      <script><scriptId>Latn</scriptId><rank>1000</rank></script>
+    </scripts>
     <locales>
       <locale><localeId>nr_ZA.UTF-8</localeId><rank>1000</rank></locale>
     </locales>
@@ -15979,6 +16421,9 @@
       <name><languageId>zh_Hant</languageId><trName>北索托文</trName></name>
       <name><languageId>zu</languageId><trName>isi-Northern Sotho</trName></name>
     </names>
+    <scripts>
+      <script><scriptId>Latn</scriptId><rank>1000</rank></script>
+    </scripts>
     <locales>
       <locale><localeId>nso_ZA.UTF-8</localeId><rank>1000</rank></locale>
     </locales>
@@ -16083,6 +16528,9 @@
       <name><languageId>zh_Hant</languageId><trName>尼揚賈文</trName></name>
       <name><languageId>zu</languageId><trName>isi-Nyanja</trName></name>
     </names>
+    <scripts>
+      <script><scriptId>Latn</scriptId><rank>1000</rank></script>
+    </scripts>
     <locales>
     </locales>
     <territories>
@@ -16211,6 +16659,9 @@
       <name><languageId>zh_Hant</languageId><trName>奧克西坦文</trName></name>
       <name><languageId>zu</languageId><trName>Isi-Osithani</trName></name>
     </names>
+    <scripts>
+      <script><scriptId>Latn</scriptId><rank>1000</rank></script>
+    </scripts>
     <locales>
       <locale><localeId>oc_FR.UTF-8</localeId><rank>1000</rank></locale>
     </locales>
@@ -16331,6 +16782,10 @@
       <name><languageId>zh_Hant</languageId><trName>奧羅莫文</trName></name>
       <name><languageId>zu</languageId><trName>Isi-Oromo</trName></name>
     </names>
+    <scripts>
+      <script><scriptId>Latn</scriptId><rank>990</rank></script>
+      <script><scriptId>Ethi</scriptId><rank>10</rank></script>
+    </scripts>
     <locales>
       <locale><localeId>om_ET.UTF-8</localeId><rank>950</rank></locale>
       <locale><localeId>om_KE.UTF-8</localeId><rank>50</rank></locale>
@@ -16469,6 +16924,9 @@
       <name><languageId>zh_Hant_HK</languageId><trName>奧里雅文</trName></name>
       <name><languageId>zu</languageId><trName>isi-Oriya</trName></name>
     </names>
+    <scripts>
+      <script><scriptId>Orya</scriptId><rank>1000</rank></script>
+    </scripts>
     <locales>
       <locale><localeId>or_IN.UTF-8</localeId><rank>1000</rank></locale>
     </locales>
@@ -16577,6 +17035,9 @@
       <name><languageId>zh_Hant</languageId><trName>奧塞提文</trName></name>
       <name><languageId>zu</languageId><trName>isi-Ossetic</trName></name>
     </names>
+    <scripts>
+      <script><scriptId>Cyrl</scriptId><rank>1000</rank></script>
+    </scripts>
     <locales>
       <locale><localeId>os_RU.UTF-8</localeId><rank>1000</rank></locale>
     </locales>
@@ -16725,6 +17186,10 @@
       <name><languageId>zh_Hant</languageId><trName>旁遮普文</trName></name>
       <name><languageId>zu</languageId><trName>isi-Punjabi</trName></name>
     </names>
+    <scripts>
+      <script><scriptId>Guru</scriptId><rank>600</rank></script>
+      <script><scriptId>Arab</scriptId><rank>400</rank></script>
+    </scripts>
     <locales>
       <locale><localeId>pa_IN.UTF-8</localeId><rank>600</rank></locale>
       <locale><localeId>pa_PK.UTF-8</localeId><rank>400</rank></locale>
@@ -16819,6 +17284,9 @@
       <name><languageId>zh</languageId><trName>帕皮亚门托文</trName></name>
       <name><languageId>zh_Hant</languageId><trName>帕皮阿門托文</trName></name>
     </names>
+    <scripts>
+      <script><scriptId>Latn</scriptId><rank>1000</rank></script>
+    </scripts>
     <locales>
       <locale><localeId>pap_AW.UTF-8</localeId><rank>0</rank></locale>
     </locales>
@@ -16969,6 +17437,9 @@
       <name><languageId>zh_Hant</languageId><trName>波蘭文</trName></name>
       <name><languageId>zu</languageId><trName>isi-Polish</trName></name>
     </names>
+    <scripts>
+      <script><scriptId>Latn</scriptId><rank>1000</rank></script>
+    </scripts>
     <locales>
       <locale><localeId>pl_PL.UTF-8</localeId><rank>1000</rank></locale>
     </locales>
@@ -17104,6 +17575,9 @@
       <name><languageId>zh_Hant_HK</languageId><trName>普什圖語</trName></name>
       <name><languageId>zu</languageId><trName>isi-Pashto</trName></name>
     </names>
+    <scripts>
+      <script><scriptId>Arab</scriptId><rank>1000</rank></script>
+    </scripts>
     <locales>
       <locale><localeId>ps_AF.UTF-8</localeId><rank>1000</rank></locale>
     </locales>
@@ -17257,6 +17731,9 @@
       <name><languageId>zh_Hant</languageId><trName>葡萄牙文</trName></name>
       <name><languageId>zu</languageId><trName>isi-Portuguese</trName></name>
     </names>
+    <scripts>
+      <script><scriptId>Latn</scriptId><rank>1000</rank></script>
+    </scripts>
     <locales>
       <locale><localeId>pt_BR.UTF-8</localeId><rank>600</rank></locale>
       <locale><localeId>pt_PT.UTF-8</localeId><rank>400</rank></locale>
@@ -17402,6 +17879,9 @@
       <name><languageId>zh_Hant</languageId><trName>蓋楚瓦文</trName></name>
       <name><languageId>zu</languageId><trName>isi-Quechua</trName></name>
     </names>
+    <scripts>
+      <script><scriptId>Latn</scriptId><rank>1000</rank></script>
+    </scripts>
     <locales>
     </locales>
     <territories>
@@ -17429,6 +17909,9 @@
     <names>
       <name><languageId>en</languageId><trName>South Bolivian Quechua</trName></name>
     </names>
+    <scripts>
+      <script><scriptId>Latn</scriptId><rank>1000</rank></script>
+    </scripts>
     <locales>
     </locales>
     <territories>
@@ -17454,6 +17937,9 @@
     <names>
       <name><languageId>en</languageId><trName>Cusco Quechua</trName></name>
     </names>
+    <scripts>
+      <script><scriptId>Latn</scriptId><rank>1000</rank></script>
+    </scripts>
     <locales>
     </locales>
     <territories>
@@ -17545,6 +18031,9 @@
       <name><languageId>zh</languageId><trName>拉贾斯坦文</trName></name>
       <name><languageId>zh_Hant</languageId><trName>拉賈斯坦諸文</trName></name>
     </names>
+    <scripts>
+      <script><scriptId>Deva</scriptId><rank>1000</rank></script>
+    </scripts>
     <locales>
       <locale><localeId>raj_IN.UTF-8</localeId><rank>1000</rank></locale>
     </locales>
@@ -17693,6 +18182,9 @@
       <name><languageId>zh_Hant</languageId><trName>羅馬尼亞文</trName></name>
       <name><languageId>zu</languageId><trName>isi-Romanian</trName></name>
     </names>
+    <scripts>
+      <script><scriptId>Latn</scriptId><rank>1000</rank></script>
+    </scripts>
     <locales>
       <locale><localeId>ro_RO.UTF-8</localeId><rank>1000</rank></locale>
     </locales>
@@ -17846,6 +18338,9 @@
       <name><languageId>zh_Hant</languageId><trName>俄文</trName></name>
       <name><languageId>zu</languageId><trName>isi-Russian</trName></name>
     </names>
+    <scripts>
+      <script><scriptId>Cyrl</scriptId><rank>1000</rank></script>
+    </scripts>
     <locales>
       <locale><localeId>ru_RU.UTF-8</localeId><rank>800</rank></locale>
       <locale><localeId>ru_UA.UTF-8</localeId><rank>100</rank></locale>
@@ -17996,6 +18491,9 @@
       <name><languageId>zh_Hant</languageId><trName>盧安達文</trName></name>
       <name><languageId>zu</languageId><trName>isi-Kinyarwanda</trName></name>
     </names>
+    <scripts>
+      <script><scriptId>Latn</scriptId><rank>1000</rank></script>
+    </scripts>
     <locales>
       <locale><localeId>rw_RW.UTF-8</localeId><rank>1000</rank></locale>
     </locales>
@@ -18129,6 +18627,13 @@
       <name><languageId>zh_Hant</languageId><trName>梵文</trName></name>
       <name><languageId>zu</languageId><trName>isi-Sanskrit</trName></name>
     </names>
+    <scripts>
+      <script><scriptId>Deva</scriptId><rank>900</rank></script>
+      <script><scriptId>Gran</scriptId><rank>10</rank></script>
+      <script><scriptId>Shrd</scriptId><rank>10</rank></script>
+      <script><scriptId>Sidd</scriptId><rank>10</rank></script>
+      <script><scriptId>Sinh</scriptId><rank>10</rank></script>
+    </scripts>
     <locales>
       <locale><localeId>sa_IN.UTF-8</localeId><rank>1000</rank></locale>
     </locales>
@@ -18225,6 +18730,9 @@
       <name><languageId>zh</languageId><trName>雅库特文</trName></name>
       <name><languageId>zh_Hant</languageId><trName>雅庫特文</trName></name>
     </names>
+    <scripts>
+      <script><scriptId>Cyrl</scriptId><rank>1000</rank></script>
+    </scripts>
     <locales>
     </locales>
     <territories>
@@ -18314,6 +18822,13 @@
       <name><languageId>zh</languageId><trName>桑塔利文</trName></name>
       <name><languageId>zh_Hant</languageId><trName>散塔利文</trName></name>
     </names>
+    <scripts>
+      <script><scriptId>Deva</scriptId><rank>700</rank></script>
+      <script><scriptId>Olck</scriptId><rank>200</rank></script>
+      <script><scriptId>Latn</scriptId><rank>50</rank></script>
+      <script><scriptId>Orya</scriptId><rank>30</rank></script>
+      <script><scriptId>Beng</scriptId><rank>20</rank></script>
+    </scripts>
     <locales>
       <locale><localeId>sat_IN.UTF-8</localeId><rank>1000</rank></locale>
     </locales>
@@ -18411,6 +18926,9 @@
       <name><languageId>zh</languageId><trName>萨丁文</trName></name>
       <name><languageId>zh_Hant</languageId><trName>撒丁文</trName></name>
     </names>
+    <scripts>
+      <script><scriptId>Latn</scriptId><rank>1000</rank></script>
+    </scripts>
     <locales>
       <locale><localeId>sc_IT.UTF-8</localeId><rank>1000</rank></locale>
     </locales>
@@ -18547,6 +19065,10 @@
       <name><languageId>zh_Hant_HK</languageId><trName>信德語</trName></name>
       <name><languageId>zu</languageId><trName>isi-Sindhi</trName></name>
     </names>
+    <scripts>
+      <script><scriptId>Arab</scriptId><rank>900</rank></script>
+      <script><scriptId>Deva</scriptId><rank>100</rank></script>
+    </scripts>
     <locales>
       <locale><localeId>sd_IN.UTF-8</localeId><rank>900</rank></locale>
       <locale><localeId>sd_IN.UTF-8@devanagari</localeId><rank>100</rank></locale>
@@ -18581,6 +19103,9 @@
       <name><languageId>sd_Arab</languageId><trName>سنڌي</trName></name>
       <name><languageId>sd_Deva</languageId><trName>सिन्धी</trName></name>
     </names>
+    <scripts>
+      <script><scriptId>Arab</scriptId><rank>1000</rank></script>
+    </scripts>
     <locales>
       <locale><localeId>sd_IN.UTF-8</localeId><rank>900</rank></locale>
     </locales>
@@ -18614,6 +19139,9 @@
       <name><languageId>sd_Arab</languageId><trName>سنڌي</trName></name>
       <name><languageId>sd_Deva</languageId><trName>सिन्धी</trName></name>
     </names>
+    <scripts>
+      <script><scriptId>Deva</scriptId><rank>1000</rank></script>
+    </scripts>
     <locales>
       <locale><localeId>sd_IN.UTF-8@devanagari</localeId><rank>1000</rank></locale>
     </locales>
@@ -18733,6 +19261,10 @@
       <name><languageId>zh_Hant</languageId><trName>北方薩米文</trName></name>
       <name><languageId>zu</languageId><trName>isi-Northern Sami</trName></name>
     </names>
+    <scripts>
+      <script><scriptId>Latn</scriptId><rank>990</rank></script>
+      <script><scriptId>Cyrl</scriptId><rank>10</rank></script>
+    </scripts>
     <locales>
       <locale><localeId>se_NO.UTF-8</localeId><rank>1000</rank></locale>
     </locales>
@@ -18760,6 +19292,9 @@
       <name><languageId>en</languageId><trName>Shuswap language</trName></name>
       <name><languageId>shs</languageId><trName>Secwepemctsín</trName></name>
     </names>
+    <scripts>
+      <script><scriptId>Latn</scriptId><rank>1000</rank></script>
+    </scripts>
     <locales>
       <locale><localeId>shs_CA.UTF-8</localeId><rank>1000</rank></locale>
     </locales>
@@ -18896,6 +19431,9 @@
       <name><languageId>zh_Hant</languageId><trName>僧伽羅文</trName></name>
       <name><languageId>zu</languageId><trName>i-Sinhala</trName></name>
     </names>
+    <scripts>
+      <script><scriptId>Sinh</scriptId><rank>1000</rank></script>
+    </scripts>
     <locales>
       <locale><localeId>si_LK.UTF-8</localeId><rank>1000</rank></locale>
     </locales>
@@ -18987,6 +19525,9 @@
       <name><languageId>zh</languageId><trName>悉达摩文</trName></name>
       <name><languageId>zh_Hant</languageId><trName>希達摩文</trName></name>
     </names>
+    <scripts>
+      <script><scriptId>Latn</scriptId><rank>1000</rank></script>
+    </scripts>
     <locales>
       <locale><localeId>sid_ET.UTF-8</localeId><rank>1000</rank></locale>
     </locales>
@@ -19126,6 +19667,9 @@
       <name><languageId>zh_Hant</languageId><trName>斯洛伐克文</trName></name>
       <name><languageId>zu</languageId><trName>isi-Slovak</trName></name>
     </names>
+    <scripts>
+      <script><scriptId>Latn</scriptId><rank>1000</rank></script>
+    </scripts>
     <locales>
       <locale><localeId>sk_SK.UTF-8</localeId><rank>1000</rank></locale>
     </locales>
@@ -19264,6 +19808,9 @@
       <name><languageId>zh_Hant_HK</languageId><trName>斯洛文尼亞文</trName></name>
       <name><languageId>zu</languageId><trName>isi-Slovenian</trName></name>
     </names>
+    <scripts>
+      <script><scriptId>Latn</scriptId><rank>1000</rank></script>
+    </scripts>
     <locales>
       <locale><localeId>sl_SI.UTF-8</localeId><rank>1000</rank></locale>
     </locales>
@@ -19379,6 +19926,9 @@
       <name><languageId>zh_Hant</languageId><trName>魯勒薩米文</trName></name>
       <name><languageId>zu</languageId><trName>isi-Lule Sami</trName></name>
     </names>
+    <scripts>
+      <script><scriptId>Latn</scriptId><rank>1000</rank></script>
+    </scripts>
     <locales>
     </locales>
     <territories>
@@ -19519,6 +20069,11 @@
       <name><languageId>zh_Hant</languageId><trName>索馬利文</trName></name>
       <name><languageId>zu</languageId><trName>isi-Somali</trName></name>
     </names>
+    <scripts>
+      <script><scriptId>Latn</scriptId><rank>900</rank></script>
+      <script><scriptId>Osma</scriptId><rank>100</rank></script>
+      <script><scriptId>Arab</scriptId><rank>10</rank></script>
+    </scripts>
     <locales>
       <locale><localeId>so_SO.UTF-8</localeId><rank>400</rank></locale>
       <locale><localeId>so_ET.UTF-8</localeId><rank>300</rank></locale>
@@ -19667,6 +20222,10 @@
       <name><languageId>zh_Hant</languageId><trName>阿爾巴尼亞文</trName></name>
       <name><languageId>zu</languageId><trName>isi-Albania</trName></name>
     </names>
+    <scripts>
+      <script><scriptId>Latn</scriptId><rank>990</rank></script>
+      <script><scriptId>Elba</scriptId><rank>10</rank></script>
+    </scripts>
     <locales>
       <locale><localeId>sq_AL.UTF-8</localeId><rank>1000</rank></locale>
     </locales>
@@ -19805,6 +20364,10 @@
       <name><languageId>zh_Hant</languageId><trName>塞爾維亞文</trName></name>
       <name><languageId>zu</languageId><trName>isi-Serbian</trName></name>
     </names>
+    <scripts>
+      <script><scriptId>Cyrl</scriptId><rank>600</rank></script>
+      <script><scriptId>Latn</scriptId><rank>300</rank></script>
+    </scripts>
     <locales>
       <locale><localeId>sr_RS.UTF-8</localeId><rank>600</rank></locale>
       <locale><localeId>sr_RS.UTF-8@latin</localeId><rank>300</rank></locale>
@@ -19840,6 +20403,9 @@
       <name><languageId>sr_Cyrl</languageId><trName>српски (Ћирилица)</trName></name>
       <name><languageId>sr_Latn</languageId><trName>Srpski (Ćirilica)</trName></name>
     </names>
+    <scripts>
+      <script><scriptId>Cyrl</scriptId><rank>1000</rank></script>
+    </scripts>
     <locales>
       <locale><localeId>sr_RS.UTF-8</localeId><rank>900</rank></locale>
       <locale><localeId>sr_ME.UTF-8</localeId><rank>100</rank></locale>
@@ -19873,6 +20439,9 @@
       <name><languageId>sr_Cyrl</languageId><trName>Српски (Латиница)</trName></name>
       <name><languageId>sr_Latn</languageId><trName>Srpski (Latinica)</trName></name>
     </names>
+    <scripts>
+      <script><scriptId>Latn</scriptId><rank>1000</rank></script>
+    </scripts>
     <locales>
       <locale><localeId>sr_RS.UTF-8@latin</localeId><rank>1000</rank></locale>
       <locale><localeId>sr_ME.UTF-8@latin</localeId><rank>0</rank></locale>
@@ -19983,6 +20552,9 @@
       <name><languageId>zh_Hant</languageId><trName>斯瓦特文</trName></name>
       <name><languageId>zu</languageId><trName>isiSwati</trName></name>
     </names>
+    <scripts>
+      <script><scriptId>Latn</scriptId><rank>1000</rank></script>
+    </scripts>
     <locales>
       <locale><localeId>ss_ZA.UTF-8</localeId><rank>1000</rank></locale>
     </locales>
@@ -20106,6 +20678,9 @@
       <name><languageId>zh_Hant</languageId><trName>塞索托文</trName></name>
       <name><languageId>zu</languageId><trName>isiSuthu</trName></name>
     </names>
+    <scripts>
+      <script><scriptId>Latn</scriptId><rank>1000</rank></script>
+    </scripts>
     <locales>
       <locale><localeId>st_ZA.UTF-8</localeId><rank>1000</rank></locale>
     </locales>
@@ -20255,6 +20830,9 @@
       <name><languageId>zh_Hant</languageId><trName>瑞典文</trName></name>
       <name><languageId>zu</languageId><trName>isi-Swedish</trName></name>
     </names>
+    <scripts>
+      <script><scriptId>Latn</scriptId><rank>1000</rank></script>
+    </scripts>
     <locales>
       <locale><localeId>sv_SE.UTF-8</localeId><rank>900</rank></locale>
       <locale><localeId>sv_FI.UTF-8</localeId><rank>100</rank></locale>
@@ -20397,6 +20975,9 @@
       <name><languageId>zh_Hant</languageId><trName>史瓦希里文</trName></name>
       <name><languageId>zu</languageId><trName>isi-Swahili</trName></name>
     </names>
+    <scripts>
+      <script><scriptId>Latn</scriptId><rank>1000</rank></script>
+    </scripts>
     <locales>
       <locale><localeId>sw_KE.UTF-8</localeId><rank>501</rank></locale>
       <locale><localeId>sw_TZ.UTF-8</localeId><rank>499</rank></locale>
@@ -20489,6 +21070,9 @@
       <name><languageId>zh</languageId><trName>经典叙利亚文</trName></name>
       <name><languageId>zh_Hant</languageId><trName>古敘利亞文</trName></name>
     </names>
+    <scripts>
+      <script><scriptId>Syrc</scriptId><rank>1000</rank></script>
+    </scripts>
     <locales>
     </locales>
     <territories>
@@ -20535,6 +21119,9 @@
       <name><languageId>yi</languageId><trName>שלעזיש</trName></name>
       <name><languageId>zh_Hant</languageId><trName>西利西亞文</trName></name>
     </names>
+    <scripts>
+      <script><scriptId>Latn</scriptId><rank>1000</rank></script>
+    </scripts>
     <locales>
       <locale><localeId>szl_PL.UTF-8</localeId><rank>1000</rank></locale>
     </locales>
@@ -20682,6 +21269,9 @@
       <name><languageId>zh_Hant</languageId><trName>坦米爾文</trName></name>
       <name><languageId>zu</languageId><trName>isi-Tamil</trName></name>
     </names>
+    <scripts>
+      <script><scriptId>Taml</scriptId><rank>1000</rank></script>
+    </scripts>
     <locales>
       <locale><localeId>ta_IN.UTF-8</localeId><rank>700</rank></locale>
       <locale><localeId>ta_LK.UTF-8</localeId><rank>100</rank></locale>
@@ -20737,6 +21327,9 @@
       <name><languageId>tr</languageId><trName>Tuluca</trName></name>
       <name><languageId>zh_Hant</languageId><trName>圖盧文</trName></name>
     </names>
+    <scripts>
+      <script><scriptId>Knda</scriptId><rank>1000</rank></script>
+    </scripts>
     <locales>
       <locale><localeId>tu_IN.UTF-8</localeId><rank>1000</rank></locale>
     </locales>
@@ -20874,6 +21467,9 @@
       <name><languageId>zh_Hant</languageId><trName>泰盧固文</trName></name>
       <name><languageId>zu</languageId><trName>isi-Telugu</trName></name>
     </names>
+    <scripts>
+      <script><scriptId>Telu</scriptId><rank>1000</rank></script>
+    </scripts>
     <locales>
       <locale><localeId>te_IN.UTF-8</localeId><rank>1000</rank></locale>
     </locales>
@@ -20976,6 +21572,9 @@
       <name><languageId>zh_Hant</languageId><trName>泰頓文</trName></name>
       <name><languageId>zu</languageId><trName>isi-Tetum</trName></name>
     </names>
+    <scripts>
+      <script><scriptId>Latin</scriptId><rank>1000</rank></script>
+    </scripts>
     <locales>
     </locales>
     <territories>
@@ -21102,6 +21701,11 @@
       <name><languageId>zh_Hant</languageId><trName>塔吉克文</trName></name>
       <name><languageId>zu</languageId><trName>isi-Tajik</trName></name>
     </names>
+    <scripts>
+      <script><scriptId>Cyrl</scriptId><rank>900</rank></script>
+      <script><scriptId>Latn</scriptId><rank>90</rank></script>
+      <script><scriptId>Arab</scriptId><rank>10</rank></script>
+    </scripts>
     <locales>
       <locale><localeId>tg_TJ.UTF-8</localeId><rank>1000</rank></locale>
     </locales>
@@ -21247,6 +21851,9 @@
       <name><languageId>zh_Hant</languageId><trName>泰文</trName></name>
       <name><languageId>zu</languageId><trName>isi-Thai</trName></name>
     </names>
+    <scripts>
+      <script><scriptId>Thai</scriptId><rank>1000</rank></script>
+    </scripts>
     <locales>
       <locale><localeId>th_TH.UTF-8</localeId><rank>1000</rank></locale>
     </locales>
@@ -21275,6 +21882,9 @@
     <names>
       <name><languageId>en</languageId><trName>Chitwania Tharu</trName></name>
     </names>
+    <scripts>
+      <script><scriptId>Deva</scriptId><rank>1000</rank></script>
+    </scripts>
     <locales>
     </locales>
     <territories>
@@ -21408,6 +22018,9 @@
       <name><languageId>zh_Hant</languageId><trName>提格利尼亞文</trName></name>
       <name><languageId>zu</languageId><trName>isi-Tigrinya</trName></name>
     </names>
+    <scripts>
+      <script><scriptId>Ethi</scriptId><rank>1000</rank></script>
+    </scripts>
     <locales>
       <locale><localeId>ti_ER.UTF-8</localeId><rank>600</rank></locale>
       <locale><localeId>ti_ET.UTF-8</localeId><rank>400</rank></locale>
@@ -21503,6 +22116,9 @@
       <name><languageId>zh</languageId><trName>提格雷文</trName></name>
       <name><languageId>zh_Hant</languageId><trName>蒂格雷文</trName></name>
     </names>
+    <scripts>
+      <script><scriptId>Ethi</scriptId><rank>1000</rank></script>
+    </scripts>
     <locales>
       <locale><localeId>tig_ER.UTF-8</localeId><rank>1000</rank></locale>
     </locales>
@@ -21638,6 +22254,11 @@
       <name><languageId>zh_Hant</languageId><trName>土庫曼文</trName></name>
       <name><languageId>zu</languageId><trName>isi-Turkmen</trName></name>
     </names>
+    <scripts>
+      <script><scriptId>Latn</scriptId><rank>900</rank></script>
+      <script><scriptId>Cyrl</scriptId><rank>90</rank></script>
+      <script><scriptId>Arab</scriptId><rank>10</rank></script>
+    </scripts>
     <locales>
       <locale><localeId>tk_TM.UTF-8</localeId><rank>1000</rank></locale>
     </locales>
@@ -21745,6 +22366,9 @@
       <name><languageId>zh</languageId><trName>塔加洛文</trName></name>
       <name><languageId>zh_Hant</languageId><trName>塔加路族文</trName></name>
     </names>
+    <scripts>
+      <script><scriptId>Latn</scriptId><rank>1000</rank></script>
+    </scripts>
     <locales>
       <locale><localeId>tl_PH.UTF-8</localeId><rank>1000</rank></locale>
     </locales>
@@ -21854,6 +22478,9 @@
       <name><languageId>zh_Hant</languageId><trName>突尼西亞文</trName></name>
       <name><languageId>zu</languageId><trName>isi-Tswana</trName></name>
     </names>
+    <scripts>
+      <script><scriptId>Latn</scriptId><rank>1000</rank></script>
+    </scripts>
     <locales>
       <locale><localeId>tn_ZA.UTF-8</localeId><rank>1000</rank></locale>
       <locale><localeId>tn_BW.UTF-8</localeId><rank>0</rank></locale>
@@ -21955,6 +22582,9 @@
       <name><languageId>zh_Hant</languageId><trName>托比辛文</trName></name>
       <name><languageId>zu</languageId><trName>isi-Tok Pisin</trName></name>
     </names>
+    <scripts>
+      <script><scriptId>Latn</scriptId><rank>1000</rank></script>
+    </scripts>
     <locales>
     </locales>
     <territories>
@@ -22099,6 +22729,10 @@
       <name><languageId>zh_Hant</languageId><trName>土耳其文</trName></name>
       <name><languageId>zu</languageId><trName>isi-Turkish</trName></name>
     </names>
+    <scripts>
+      <script><scriptId>Latn</scriptId><rank>990</rank></script>
+      <script><scriptId>Arab</scriptId><rank>10</rank></script>
+    </scripts>
     <locales>
       <locale><localeId>tr_TR.UTF-8</localeId><rank>900</rank></locale>
       <locale><localeId>tr_CY.UTF-8</localeId><rank>100</rank></locale>
@@ -22209,6 +22843,9 @@
       <name><languageId>zh_Hant</languageId><trName>特松加文</trName></name>
       <name><languageId>zu</languageId><trName>isi-Tsonga</trName></name>
     </names>
+    <scripts>
+      <script><scriptId>Latn</scriptId><rank>1000</rank></script>
+    </scripts>
     <locales>
       <locale><localeId>ts_ZA.UTF-8</localeId><rank>1000</rank></locale>
     </locales>
@@ -22337,6 +22974,10 @@
       <name><languageId>zh_Hant</languageId><trName>韃靼文</trName></name>
       <name><languageId>zu</languageId><trName>isi-Tatar</trName></name>
     </names>
+    <scripts>
+      <script><scriptId>Cyrl</scriptId><rank>999</rank></script>
+      <script><scriptId>Latn</scriptId><rank>1</rank></script>
+    </scripts>
     <locales>
       <locale><localeId>tt_RU.UTF-8</localeId><rank>999</rank></locale>
       <locale><localeId>tt_RU.UTF-8@iqtelif</localeId><rank>1</rank></locale>
@@ -22369,6 +23010,9 @@
       <name><languageId>tt_Cyrl</languageId><trName>татар теле</trName></name>
       <name><languageId>tt_Latn</languageId><trName>tatar tele</trName></name>
     </names>
+    <scripts>
+      <script><scriptId>Cyrl</scriptId><rank>1000</rank></script>
+    </scripts>
     <locales>
       <locale><localeId>tt_RU.UTF-8</localeId><rank>1000</rank></locale>
     </locales>
@@ -22399,6 +23043,9 @@
       <name><languageId>tt_Cyrl</languageId><trName>татар теле</trName></name>
       <name><languageId>tt_Latn</languageId><trName>tatar tele</trName></name>
     </names>
+    <scripts>
+      <script><scriptId>Latn</scriptId><rank>1000</rank></script>
+    </scripts>
     <locales>
       <locale><localeId>tt_RU.UTF-8@iqtelif</localeId><rank>1000</rank></locale>
     </locales>
@@ -22491,6 +23138,9 @@
       <name><languageId>zh</languageId><trName>乌德穆尔特文</trName></name>
       <name><languageId>zh_Hant</languageId><trName>沃蒂艾克文</trName></name>
     </names>
+    <scripts>
+      <script><scriptId>Cyrl</scriptId><rank>1000</rank></script>
+    </scripts>
     <locales>
     </locales>
     <territories>
@@ -22623,6 +23273,9 @@
       <name><languageId>zh_Hant_HK</languageId><trName>維吾爾語</trName></name>
       <name><languageId>zu</languageId><trName>isi-Uighur</trName></name>
     </names>
+    <scripts>
+      <script><scriptId>Arab</scriptId><rank>1000</rank></script>
+    </scripts>
     <locales>
       <locale><localeId>ug_CN.UTF-8</localeId><rank>1000</rank></locale>
     </locales>
@@ -22771,6 +23424,9 @@
       <name><languageId>zh_Hant</languageId><trName>烏克蘭文</trName></name>
       <name><languageId>zu</languageId><trName>isi-Ukrainian</trName></name>
     </names>
+    <scripts>
+      <script><scriptId>Cyrl</scriptId><rank>1000</rank></script>
+    </scripts>
     <locales>
       <locale><localeId>uk_UA.UTF-8</localeId><rank>1000</rank></locale>
     </locales>
@@ -22802,6 +23458,9 @@
       <name><languageId>en</languageId><trName>Unami language</trName></name>
       <name><languageId>unm</languageId><trName>Lenape</trName></name>
     </names>
+    <scripts>
+      <script><scriptId>Latn</scriptId><rank>1000</rank></script>
+    </scripts>
     <locales>
       <locale><localeId>unm_US.UTF-8</localeId><rank>1000</rank></locale>
     </locales>
@@ -22951,6 +23610,9 @@
       <name><languageId>zh_Hant_HK</languageId><trName>烏爾都文</trName></name>
       <name><languageId>zu</languageId><trName>isi-Urdu</trName></name>
     </names>
+    <scripts>
+      <script><scriptId>Arab</scriptId><rank>1000</rank></script>
+    </scripts>
     <locales>
       <locale><localeId>ur_PK.UTF-8</localeId><rank>501</rank></locale>
       <locale><localeId>ur_IN.UTF-8</localeId><rank>499</rank></locale>
@@ -23094,6 +23756,11 @@
       <name><languageId>zh_Hant</languageId><trName>烏茲別克文</trName></name>
       <name><languageId>zu</languageId><trName>isi-Uzbek</trName></name>
     </names>
+    <scripts>
+      <script><scriptId>Cyrl</scriptId><rank>600</rank></script>
+      <script><scriptId>Latn</scriptId><rank>400</rank></script>
+      <script><scriptId>Arab</scriptId><rank>1</rank></script>
+    </scripts>
     <locales>
       <locale><localeId>uz_UZ.UTF-8@cyrillic</localeId><rank>600</rank></locale>
       <locale><localeId>uz_UZ.UTF-8</localeId><rank>400</rank></locale>
@@ -23200,6 +23867,9 @@
       <name><languageId>zh_Hant</languageId><trName>溫達文</trName></name>
       <name><languageId>zu</languageId><trName>isi-Venda</trName></name>
     </names>
+    <scripts>
+      <script><scriptId>Latn</scriptId><rank>1000</rank></script>
+    </scripts>
     <locales>
       <locale><localeId>ve_ZA.UTF-8</localeId><rank>1000</rank></locale>
     </locales>
@@ -23347,6 +24017,10 @@
       <name><languageId>zh_Hant</languageId><trName>越南文</trName></name>
       <name><languageId>zu</languageId><trName>isi-Vietnamese</trName></name>
     </names>
+    <scripts>
+      <script><scriptId>Latn</scriptId><rank>999</rank></script>
+      <script><scriptId>Hani</scriptId><rank>1</rank></script>
+    </scripts>
     <locales>
       <locale><localeId>vi_VN.UTF-8</localeId><rank>1000</rank></locale>
     </locales>
@@ -23440,6 +24114,9 @@
       <name><languageId>zh</languageId><trName>瓦隆文</trName></name>
       <name><languageId>zh_Hant</languageId><trName>瓦隆文</trName></name>
     </names>
+    <scripts>
+      <script><scriptId>Latn</scriptId><rank>1000</rank></script>
+    </scripts>
     <locales>
       <locale><localeId>wa_BE.UTF-8</localeId><rank>1000</rank></locale>
     </locales>
@@ -23510,6 +24187,9 @@
       <name><languageId>zh</languageId><trName>瓦尔瑟文</trName></name>
       <name><languageId>zh_Hant</languageId><trName>瓦瑟文</trName></name>
     </names>
+    <scripts>
+      <script><scriptId>Latn</scriptId><rank>1000</rank></script>
+    </scripts>
     <locales>
       <locale><localeId>wae_CH.UTF-8</localeId><rank>1000</rank></locale>
     </locales>
@@ -23600,6 +24280,9 @@
       <name><languageId>zh</languageId><trName>瓦拉莫文</trName></name>
       <name><languageId>zh_Hant</languageId><trName>瓦拉莫文</trName></name>
     </names>
+    <scripts>
+      <script><scriptId>Ethi</scriptId><rank>1000</rank></script>
+    </scripts>
     <locales>
       <locale><localeId>wal_ET.UTF-8</localeId><rank>1000</rank></locale>
     </locales>
@@ -23723,6 +24406,10 @@
       <name><languageId>zh_Hant</languageId><trName>沃洛夫文</trName></name>
       <name><languageId>zu</languageId><trName>isi-Wolof</trName></name>
     </names>
+    <scripts>
+      <script><scriptId>Latn</scriptId><rank>900</rank></script>
+      <script><scriptId>Arab</scriptId><rank>100</rank></script>
+    </scripts>
     <locales>
       <locale><localeId>wo_SN.UTF-8</localeId><rank>1000</rank></locale>
     </locales>
@@ -23813,6 +24500,9 @@
       <name><languageId>zh</languageId><trName>卡尔梅克文</trName></name>
       <name><languageId>zh_Hant</languageId><trName>卡爾梅克文</trName></name>
     </names>
+    <scripts>
+      <script><scriptId>Cyrl</scriptId><rank>1000</rank></script>
+    </scripts>
     <locales>
     </locales>
     <territories>
@@ -23947,6 +24637,9 @@
       <name><languageId>zh_Hant</languageId><trName>科薩文</trName></name>
       <name><languageId>zu</languageId><trName>isiXhosa</trName></name>
     </names>
+    <scripts>
+      <script><scriptId>Latn</scriptId><rank>1000</rank></script>
+    </scripts>
     <locales>
       <locale><localeId>xh_ZA.UTF-8</localeId><rank>1000</rank></locale>
     </locales>
@@ -24073,6 +24766,9 @@
       <name><languageId>zh_Hant</languageId><trName>意第緒文</trName></name>
       <name><languageId>zu</languageId><trName>Isi-Yidish</trName></name>
     </names>
+    <scripts>
+      <script><scriptId>Hebr</scriptId><rank>1000</rank></script>
+    </scripts>
     <locales>
       <locale><localeId>yi_US.UTF-8</localeId><rank>1000</rank></locale>
     </locales>
@@ -24235,6 +24931,9 @@
       <name><languageId>zh_Hant</languageId><trName>約魯巴文</trName></name>
       <name><languageId>zu</languageId><trName>isi-Yoruba</trName></name>
     </names>
+    <scripts>
+      <script><scriptId>Latn</scriptId><rank>1000</rank></script>
+    </scripts>
     <locales>
       <locale><localeId>yo_NG.UTF-8</localeId><rank>1000</rank></locale>
     </locales>
@@ -24332,6 +25031,9 @@
       <name><languageId>zh_Hant</languageId><trName>粵語</trName></name>
       <name><languageId>zh_Hant_HK</languageId><trName>粵語</trName></name>
     </names>
+    <scripts>
+      <script><scriptId>Hant</scriptId><rank>1000</rank></script>
+    </scripts>
     <locales>
       <locale><localeId>yue_HK.UTF-8</localeId><rank>1000</rank></locale>
     </locales>
@@ -24478,6 +25180,10 @@
       <name><languageId>zh_Hant</languageId><trName>中文</trName></name>
       <name><languageId>zu</languageId><trName>isi-Chinese</trName></name>
     </names>
+    <scripts>
+      <script><scriptId>Hans</scriptId><rank>800</rank></script>
+      <script><scriptId>Hant</scriptId><rank>200</rank></script>
+    </scripts>
     <locales>
       <locale><localeId>zh_CN.UTF-8</localeId><rank>900</rank></locale>
       <locale><localeId>zh_TW.UTF-8</localeId><rank>20</rank></locale>
@@ -24618,6 +25324,9 @@
       <name><languageId>zh_Hant</languageId><trName>簡體中文</trName></name>
       <name><languageId>zu</languageId><trName>isi-Sipmlified Chinese</trName></name>
     </names>
+    <scripts>
+      <script><scriptId>Hans</scriptId><rank>1000</rank></script>
+    </scripts>
     <locales>
       <locale><localeId>zh_CN.UTF-8</localeId><rank>900</rank></locale>
       <locale><localeId>zh_SG.UTF-8</localeId><rank>100</rank></locale>
@@ -24649,6 +25358,9 @@
       <name><languageId>en</languageId><trName>Simplified Chinese (China)</trName></name>
       <name><languageId>zh_CN</languageId><trName>简体中文 (中国)</trName></name>
     </names>
+    <scripts>
+      <script><scriptId>Hans</scriptId><rank>1000</rank></script>
+    </scripts>
     <locales>
       <locale><localeId>zh_CN.UTF-8</localeId><rank>1000</rank></locale>
     </locales>
@@ -24678,6 +25390,9 @@
       <name><languageId>en</languageId><trName>Simplified Chinese (Singapore)</trName></name>
       <name><languageId>zh_SG</languageId><trName>简体中文 (新加坡)</trName></name>
     </names>
+    <scripts>
+      <script><scriptId>Hans</scriptId><rank>1000</rank></script>
+    </scripts>
     <locales>
       <locale><localeId>zh_SG.UTF-8</localeId><rank>1000</rank></locale>
     </locales>
@@ -24802,6 +25517,9 @@
       <name><languageId>zh_Hant</languageId><trName>繁體中文</trName></name>
       <name><languageId>zu</languageId><trName>isi-Traditional Chinese</trName></name>
     </names>
+    <scripts>
+      <script><scriptId>Hant</scriptId><rank>1000</rank></script>
+    </scripts>
     <locales>
       <locale><localeId>zh_TW.UTF-8</localeId><rank>20</rank></locale>
       <locale><localeId>zh_HK.UTF-8</localeId><rank>19</rank></locale>
@@ -24838,6 +25556,9 @@
       <name><languageId>en</languageId><trName>Traditional Chinese (Hong Kong)</trName></name>
       <name><languageId>zh_HK</languageId><trName>繁體中文 (中華人民共和國香港特別行政區)</trName></name>
     </names>
+    <scripts>
+      <script><scriptId>Hant</scriptId><rank>1000</rank></script>
+    </scripts>
     <locales>
       <locale><localeId>zh_HK.UTF-8</localeId><rank>1000</rank></locale>
     </locales>
@@ -24867,6 +25588,9 @@
       <name><languageId>en</languageId><trName>Traditional Chinese (Macau SAR China)</trName></name>
       <name><languageId>zh_MO</languageId><trName>繁體中文 (中華人民共和國澳門特別行政區)</trName></name>
     </names>
+    <scripts>
+      <script><scriptId>Hant</scriptId><rank>1000</rank></script>
+    </scripts>
     <locales>
       <locale><localeId>zh_HK.UTF-8</localeId><rank>900</rank></locale>
       <locale><localeId>zh_MO.UTF-8</localeId><rank>0</rank></locale>
@@ -24902,6 +25626,9 @@
       <name><languageId>zh_SG</languageId><trName>繁体中文 (中华民国)</trName></name>
       <name><languageId>zh_TW</languageId><trName>繁體中文 (台灣)</trName></name>
     </names>
+    <scripts>
+      <script><scriptId>Hant</scriptId><rank>1000</rank></script>
+    </scripts>
     <locales>
       <locale><localeId>zh_TW.UTF-8</localeId><rank>1000</rank></locale>
     </locales>
@@ -25049,6 +25776,9 @@
       <name><languageId>zh_Hant</languageId><trName>祖魯文</trName></name>
       <name><languageId>zu</languageId><trName>isiZulu</trName></name>
     </names>
+    <scripts>
+      <script><scriptId>Latn</scriptId><rank>1000</rank></script>
+    </scripts>
     <locales>
       <locale><localeId>zu_ZA.UTF-8</localeId><rank>1000</rank></locale>
     </locales>

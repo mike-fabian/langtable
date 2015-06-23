@@ -105,6 +105,8 @@
       <name><languageId>zh_Hant</languageId><trName>非洲</trName></name>
       <name><languageId>zu</languageId><trName>i-Africa</trName></name>
     </names>
+    <scripts>
+    </scripts>
     <locales>
     </locales>
     <languages>
@@ -222,6 +224,8 @@
       <name><languageId>zh_Hant_HK</languageId><trName>美洲地區</trName></name>
       <name><languageId>zu</languageId><trName>Americas</trName></name>
     </names>
+    <scripts>
+    </scripts>
     <locales>
     </locales>
     <languages>
@@ -339,6 +343,8 @@
       <name><languageId>zh_Hant</languageId><trName>亞洲</trName></name>
       <name><languageId>zu</languageId><trName>i-Asia</trName></name>
     </names>
+    <scripts>
+    </scripts>
     <locales>
     </locales>
     <languages>
@@ -456,6 +462,8 @@
       <name><languageId>zh_Hant</languageId><trName>歐洲</trName></name>
       <name><languageId>zu</languageId><trName>i-Europe</trName></name>
     </names>
+    <scripts>
+    </scripts>
     <locales>
     </locales>
     <languages>
@@ -570,6 +578,8 @@
       <name><languageId>zh_Hant</languageId><trName>拉丁美洲</trName></name>
       <name><languageId>zu</languageId><trName>i-Latin America</trName></name>
     </names>
+    <scripts>
+    </scripts>
     <locales>
       <locale><localeId>es_AR.UTF-8</localeId><rank>200</rank></locale>
       <locale><localeId>es_MX.UTF-8</localeId><rank>200</rank></locale>
@@ -777,6 +787,9 @@
       <name><languageId>zh_Hant</languageId><trName>安道爾</trName></name>
       <name><languageId>zu</languageId><trName>i-Andorra</trName></name>
     </names>
+    <scripts>
+      <script><scriptId>Latn</scriptId><rank>1000</rank></script>
+    </scripts>
     <locales>
       <locale><localeId>ca_AD.UTF-8</localeId><rank>1000</rank></locale>
     </locales>
@@ -911,6 +924,9 @@
       <name><languageId>zh_Hant_HK</languageId><trName>阿拉伯聯合酋長國</trName></name>
       <name><languageId>zu</languageId><trName>i-United Arab Emirates</trName></name>
     </names>
+    <scripts>
+      <script><scriptId>Arab</scriptId><rank>1000</rank></script>
+    </scripts>
     <locales>
       <locale><localeId>ar_AE.UTF-8</localeId><rank>1000</rank></locale>
     </locales>
@@ -1045,6 +1061,9 @@
       <name><languageId>zh_Hant</languageId><trName>阿富汗</trName></name>
       <name><languageId>zu</languageId><trName>i-Afghanistan</trName></name>
     </names>
+    <scripts>
+      <script><scriptId>Arab</scriptId><rank>1000</rank></script>
+    </scripts>
     <locales>
       <locale><localeId>ps_AF.UTF-8</localeId><rank>1000</rank></locale>
     </locales>
@@ -1177,6 +1196,9 @@
       <name><languageId>zh_Hant_HK</languageId><trName>安提瓜及巴布達</trName></name>
       <name><languageId>zu</languageId><trName>i-Antigua and Barbuda</trName></name>
     </names>
+    <scripts>
+      <script><scriptId>Latn</scriptId><rank>1000</rank></script>
+    </scripts>
     <locales>
       <locale><localeId>en_AG.UTF-8</localeId><rank>1000</rank></locale>
     </locales>
@@ -1313,6 +1335,9 @@
       <name><languageId>zh_Hant</languageId><trName>阿爾巴尼亞</trName></name>
       <name><languageId>zu</languageId><trName>i-Albania</trName></name>
     </names>
+    <scripts>
+      <script><scriptId>Latn</scriptId><rank>1000</rank></script>
+    </scripts>
     <locales>
       <locale><localeId>sq_AL.UTF-8</localeId><rank>100</rank></locale>
     </locales>
@@ -1448,6 +1473,9 @@
       <name><languageId>zh_Hant</languageId><trName>亞美尼亞</trName></name>
       <name><languageId>zu</languageId><trName>i-Armenia</trName></name>
     </names>
+    <scripts>
+      <script><scriptId>Armn</scriptId><rank>1000</rank></script>
+    </scripts>
     <locales>
       <locale><localeId>hy_AM.UTF-8</localeId><rank>1000</rank></locale>
     </locales>
@@ -1562,6 +1590,9 @@
       <name><languageId>zh_Hant</languageId><trName>荷屬安地列斯</trName></name>
       <name><languageId>zu</languageId><trName>i-Netherlands Antilles</trName></name>
     </names>
+    <scripts>
+      <script><scriptId>Latn</scriptId><rank>1000</rank></script>
+    </scripts>
     <locales>
       <locale><localeId>pap_AN.UTF-8</localeId><rank>1000</rank></locale>
     </locales>
@@ -1699,6 +1730,9 @@
       <name><languageId>zh_Hant</languageId><trName>安哥拉</trName></name>
       <name><languageId>zu</languageId><trName>i-Angola</trName></name>
     </names>
+    <scripts>
+      <script><scriptId>Latn</scriptId><rank>1000</rank></script>
+    </scripts>
     <locales>
     </locales>
     <languages>
@@ -1824,6 +1858,8 @@
       <name><languageId>zh_Hant</languageId><trName>南極洲</trName></name>
       <name><languageId>zu</languageId><trName>i-Antarctica</trName></name>
     </names>
+    <scripts>
+    </scripts>
     <locales>
     </locales>
     <languages>
@@ -1954,6 +1990,9 @@
       <name><languageId>zh_Hant</languageId><trName>阿根廷</trName></name>
       <name><languageId>zu</languageId><trName>i-Argentina</trName></name>
     </names>
+    <scripts>
+      <script><scriptId>Latn</scriptId><rank>1000</rank></script>
+    </scripts>
     <locales>
       <locale><localeId>es_AR.UTF-8</localeId><rank>1000</rank></locale>
     </locales>
@@ -2101,6 +2140,9 @@
       <name><languageId>zh_Hant</languageId><trName>奧地利</trName></name>
       <name><languageId>zu</languageId><trName>i-Austria</trName></name>
     </names>
+    <scripts>
+      <script><scriptId>Latn</scriptId><rank>1000</rank></script>
+    </scripts>
     <locales>
       <locale><localeId>de_AT.UTF-8</localeId><rank>1000</rank></locale>
     </locales>
@@ -2237,6 +2279,9 @@
       <name><languageId>zh_Hant</languageId><trName>澳洲</trName></name>
       <name><languageId>zu</languageId><trName>i-Australia</trName></name>
     </names>
+    <scripts>
+      <script><scriptId>Latn</scriptId><rank>1000</rank></script>
+    </scripts>
     <locales>
       <locale><localeId>en_AU.UTF-8</localeId><rank>1000</rank></locale>
     </locales>
@@ -2379,6 +2424,9 @@
       <name><languageId>zh_Hant_HK</languageId><trName>阿魯巴</trName></name>
       <name><languageId>zu</languageId><trName>i-Aruba</trName></name>
     </names>
+    <scripts>
+      <script><scriptId>Latn</scriptId><rank>1000</rank></script>
+    </scripts>
     <locales>
       <locale><localeId>nl_AW.UTF-8</localeId><rank>1000</rank></locale>
       <locale><localeId>pap_AW.UTF-8</localeId><rank>0</rank></locale>
@@ -2517,6 +2565,10 @@
       <name><languageId>zh_Hant_HK</languageId><trName>阿塞拜疆</trName></name>
       <name><languageId>zu</languageId><trName>i-Azerbaijan</trName></name>
     </names>
+    <scripts>
+      <script><scriptId>Latn</scriptId><rank>900</rank></script>
+      <script><scriptId>Cyrl</scriptId><rank>10</rank></script>
+    </scripts>
     <locales>
       <locale><localeId>az_AZ.UTF-8</localeId><rank>1000</rank></locale>
     </locales>
@@ -2653,6 +2705,10 @@
       <name><languageId>zh_Hant_HK</languageId><trName>波斯尼亞和黑塞哥維那</trName></name>
       <name><languageId>zu</languageId><trName>i-Bosnia ne-Herzegovina</trName></name>
     </names>
+    <scripts>
+      <script><scriptId>Latn</scriptId><rank>1000</rank></script>
+      <script><scriptId>Cyrl</scriptId><rank>1000</rank></script>
+    </scripts>
     <locales>
       <locale><localeId>bs_BA.UTF-8</localeId><rank>1000</rank></locale>
     </locales>
@@ -2788,6 +2844,9 @@
       <name><languageId>zh_Hant</languageId><trName>孟加拉</trName></name>
       <name><languageId>zu</languageId><trName>i-Bangladesh</trName></name>
     </names>
+    <scripts>
+      <script><scriptId>Beng</scriptId><rank>1000</rank></script>
+    </scripts>
     <locales>
       <locale><localeId>bn_BD.UTF-8</localeId><rank>1000</rank></locale>
     </locales>
@@ -2924,6 +2983,9 @@
       <name><languageId>zh_Hant</languageId><trName>比利時</trName></name>
       <name><languageId>zu</languageId><trName>i-Belgium</trName></name>
     </names>
+    <scripts>
+      <script><scriptId>Latn</scriptId><rank>1000</rank></script>
+    </scripts>
     <locales>
       <locale><localeId>nl_BE.UTF-8</localeId><rank>590</rank></locale>
       <locale><localeId>fr_BE.UTF-8</localeId><rank>400</rank></locale>
@@ -3064,6 +3126,9 @@
       <name><languageId>zh_Hant</languageId><trName>布吉納法索</trName></name>
       <name><languageId>zu</languageId><trName>i-Burkina Faso</trName></name>
     </names>
+    <scripts>
+      <script><scriptId>Latn</scriptId><rank>1000</rank></script>
+    </scripts>
     <locales>
     </locales>
     <languages>
@@ -3200,6 +3265,9 @@
       <name><languageId>zh_Hant</languageId><trName>保加利亞</trName></name>
       <name><languageId>zu</languageId><trName>i-Bulgaria</trName></name>
     </names>
+    <scripts>
+      <script><scriptId>Cyrl</scriptId><rank>1000</rank></script>
+    </scripts>
     <locales>
       <locale><localeId>bg_BG.UTF-8</localeId><rank>1000</rank></locale>
     </locales>
@@ -3333,6 +3401,9 @@
       <name><languageId>zh_Hant</languageId><trName>巴林</trName></name>
       <name><languageId>zu</languageId><trName>i-Bahrain</trName></name>
     </names>
+    <scripts>
+      <script><scriptId>Arab</scriptId><rank>1000</rank></script>
+    </scripts>
     <locales>
       <locale><localeId>ar_BH.UTF-8</localeId><rank>1000</rank></locale>
     </locales>
@@ -3468,6 +3539,9 @@
       <name><languageId>zh_Hant</languageId><trName>玻利維亞</trName></name>
       <name><languageId>zu</languageId><trName>i-Bolivia</trName></name>
     </names>
+    <scripts>
+      <script><scriptId>Latn</scriptId><rank>1000</rank></script>
+    </scripts>
     <locales>
       <locale><localeId>es_BO.UTF-8</localeId><rank>1000</rank></locale>
     </locales>
@@ -3607,6 +3681,9 @@
       <name><languageId>zh_Hant</languageId><trName>巴西</trName></name>
       <name><languageId>zu</languageId><trName>i-Brazil</trName></name>
     </names>
+    <scripts>
+      <script><scriptId>Latn</scriptId><rank>1000</rank></script>
+    </scripts>
     <locales>
       <locale><localeId>pt_BR.UTF-8</localeId><rank>1000</rank></locale>
     </locales>
@@ -3757,6 +3834,9 @@
       <name><languageId>zh_Hant</languageId><trName>不丹</trName></name>
       <name><languageId>zu</languageId><trName>i-Bhutan</trName></name>
     </names>
+    <scripts>
+      <script><scriptId>Tibt</scriptId><rank>1000</rank></script>
+    </scripts>
     <locales>
       <locale><localeId>dz_BT.UTF-8</localeId><rank>1000</rank></locale>
     </locales>
@@ -3890,6 +3970,9 @@
       <name><languageId>zh_Hant_HK</languageId><trName>博茨瓦納</trName></name>
       <name><languageId>zu</languageId><trName>i-Botswana</trName></name>
     </names>
+    <scripts>
+      <script><scriptId>Latn</scriptId><rank>1000</rank></script>
+    </scripts>
     <locales>
       <locale><localeId>en_BW.UTF-8</localeId><rank>900</rank></locale>
       <locale><localeId>tn_ZA.UTF-8</localeId><rank>100</rank></locale>
@@ -4030,6 +4113,9 @@
       <name><languageId>zh_Hant</languageId><trName>白俄羅斯</trName></name>
       <name><languageId>zu</languageId><trName>i-Belarus</trName></name>
     </names>
+    <scripts>
+      <script><scriptId>Cyrl</scriptId><rank>1000</rank></script>
+    </scripts>
     <locales>
       <locale><localeId>be_BY.UTF-8</localeId><rank>980</rank></locale>
       <locale><localeId>be_BY.UTF-8@latin</localeId><rank>20</rank></locale>
@@ -4167,6 +4253,10 @@
       <name><languageId>zh_Hant</languageId><trName>加拿大</trName></name>
       <name><languageId>zu</languageId><trName>i-Canada</trName></name>
     </names>
+    <scripts>
+      <script><scriptId>Latn</scriptId><rank>990</rank></script>
+      <script><scriptId>Cans</scriptId><rank>10</rank></script>
+    </scripts>
     <locales>
       <locale><localeId>en_CA.UTF-8</localeId><rank>600</rank></locale>
       <locale><localeId>fr_CA.UTF-8</localeId><rank>250</rank></locale>
@@ -4336,6 +4426,9 @@
       <name><languageId>zh_Hant_HK</languageId><trName>剛果 - 金夏沙</trName></name>
       <name><languageId>zu</languageId><trName>i-Congo - Kinshasa</trName></name>
     </names>
+    <scripts>
+      <script><scriptId>Latn</scriptId><rank>1000</rank></script>
+    </scripts>
     <locales>
     </locales>
     <languages>
@@ -4468,6 +4561,9 @@
       <name><languageId>zh_Hant_HK</languageId><trName>剛果 - 布拉薩</trName></name>
       <name><languageId>zu</languageId><trName>i-Congo - Brazzaville</trName></name>
     </names>
+    <scripts>
+      <script><scriptId>Latn</scriptId><rank>1000</rank></script>
+    </scripts>
     <locales>
     </locales>
     <languages>
@@ -4605,6 +4701,9 @@
       <name><languageId>zh_Hant</languageId><trName>瑞士</trName></name>
       <name><languageId>zu</languageId><trName>i-Switzerland</trName></name>
     </names>
+    <scripts>
+      <script><scriptId>Latn</scriptId><rank>1000</rank></script>
+    </scripts>
     <locales>
       <locale><localeId>de_CH.UTF-8</localeId><rank>637</rank></locale>
       <locale><localeId>fr_CH.UTF-8</localeId><rank>204</rank></locale>
@@ -4749,6 +4848,9 @@
       <name><languageId>zh_Hant</languageId><trName>智利</trName></name>
       <name><languageId>zu</languageId><trName>i-Chile</trName></name>
     </names>
+    <scripts>
+      <script><scriptId>Latn</scriptId><rank>1000</rank></script>
+    </scripts>
     <locales>
       <locale><localeId>es_CL.UTF-8</localeId><rank>1000</rank></locale>
     </locales>
@@ -4894,6 +4996,9 @@
       <name><languageId>zh_Hant_HK</languageId><trName>中國</trName></name>
       <name><languageId>zu</languageId><trName>i-China</trName></name>
     </names>
+    <scripts>
+      <script><scriptId>Hans</scriptId><rank>1000</rank></script>
+    </scripts>
     <locales>
       <locale><localeId>zh_CN.UTF-8</localeId><rank>1000</rank></locale>
     </locales>
@@ -5031,6 +5136,9 @@
       <name><languageId>zh_Hant</languageId><trName>哥倫比亞</trName></name>
       <name><languageId>zu</languageId><trName>i-Colombia</trName></name>
     </names>
+    <scripts>
+      <script><scriptId>Latn</scriptId><rank>1000</rank></script>
+    </scripts>
     <locales>
       <locale><localeId>es_CO.UTF-8</localeId><rank>1000</rank></locale>
     </locales>
@@ -5163,6 +5271,9 @@
       <name><languageId>zh_Hant_HK</languageId><trName>哥斯達黎加</trName></name>
       <name><languageId>zu</languageId><trName>i-Costa Rica</trName></name>
     </names>
+    <scripts>
+      <script><scriptId>Latn</scriptId><rank>1000</rank></script>
+    </scripts>
     <locales>
       <locale><localeId>es_CR.UTF-8</localeId><rank>1000</rank></locale>
     </locales>
@@ -5296,6 +5407,9 @@
       <name><languageId>zh_Hant</languageId><trName>古巴</trName></name>
       <name><languageId>zu</languageId><trName>i-Cuba</trName></name>
     </names>
+    <scripts>
+      <script><scriptId>Latn</scriptId><rank>1000</rank></script>
+    </scripts>
     <locales>
       <locale><localeId>es_CU.UTF-8</localeId><rank>1000</rank></locale>
     </locales>
@@ -5409,6 +5523,9 @@
       <name><languageId>zh_Hant</languageId><trName>庫拉索</trName></name>
       <name><languageId>zu</languageId><trName>i-Curaçao</trName></name>
     </names>
+    <scripts>
+      <script><scriptId>Latn</scriptId><rank>1000</rank></script>
+    </scripts>
     <locales>
       <locale><localeId>pap_CW.UTF-8</localeId><rank>1000</rank></locale>
     </locales>
@@ -5548,6 +5665,9 @@
       <name><languageId>zh_Hant_HK</languageId><trName>塞浦路斯</trName></name>
       <name><languageId>zu</languageId><trName>i-Cyprus</trName></name>
     </names>
+    <scripts>
+      <script><scriptId>Grek</scriptId><rank>1000</rank></script>
+    </scripts>
     <locales>
       <locale><localeId>el_CY.UTF-8</localeId><rank>1000</rank></locale>
     </locales>
@@ -5682,6 +5802,9 @@
       <name><languageId>zh_Hant</languageId><trName>捷克共和國</trName></name>
       <name><languageId>zu</languageId><trName>i-Czech Republic</trName></name>
     </names>
+    <scripts>
+      <script><scriptId>Latn</scriptId><rank>1000</rank></script>
+    </scripts>
     <locales>
       <locale><localeId>cs_CZ.UTF-8</localeId><rank>1000</rank></locale>
     </locales>
@@ -5824,6 +5947,9 @@
       <name><languageId>zh_Hant</languageId><trName>德國</trName></name>
       <name><languageId>zu</languageId><trName>i-Germany</trName></name>
     </names>
+    <scripts>
+      <script><scriptId>Latn</scriptId><rank>1000</rank></script>
+    </scripts>
     <locales>
       <locale><localeId>de_DE.UTF-8</localeId><rank>950</rank></locale>
       <locale><localeId>nds_DE.UTF-8</localeId><rank>11</rank></locale>
@@ -5963,6 +6089,11 @@
       <name><languageId>zh_Hant</languageId><trName>吉布地</trName></name>
       <name><languageId>zu</languageId><trName>i-Djibouti</trName></name>
     </names>
+    <scripts>
+      <script><scriptId>Latn</scriptId><rank>990</rank></script>
+      <script><scriptId>Osma</scriptId><rank>10</rank></script>
+      <script><scriptId>Arab</scriptId><rank>1</rank></script>
+    </scripts>
     <locales>
       <locale><localeId>so_DJ.UTF-8</localeId><rank>400</rank></locale>
       <locale><localeId>aa_DJ.UTF-8</localeId><rank>300</rank></locale>
@@ -6106,6 +6237,9 @@
       <name><languageId>zh_Hant</languageId><trName>丹麥</trName></name>
       <name><languageId>zu</languageId><trName>i-Denmark</trName></name>
     </names>
+    <scripts>
+      <script><scriptId>Latn</scriptId><rank>1000</rank></script>
+    </scripts>
     <locales>
       <locale><localeId>da_DK.UTF-8</localeId><rank>950</rank></locale>
       <locale><localeId>en_DK.UTF-8</localeId><rank>50</rank></locale>
@@ -6241,6 +6375,9 @@
       <name><languageId>zh_Hant</languageId><trName>多明尼加共和國</trName></name>
       <name><languageId>zu</languageId><trName>i-Dominican Republic</trName></name>
     </names>
+    <scripts>
+      <script><scriptId>Latn</scriptId><rank>1000</rank></script>
+    </scripts>
     <locales>
       <locale><localeId>es_DO.UTF-8</localeId><rank>1000</rank></locale>
     </locales>
@@ -6376,6 +6513,9 @@
       <name><languageId>zh_Hant</languageId><trName>阿爾及利亞</trName></name>
       <name><languageId>zu</languageId><trName>i-Algeria</trName></name>
     </names>
+    <scripts>
+      <script><scriptId>Arab</scriptId><rank>1000</rank></script>
+    </scripts>
     <locales>
       <locale><localeId>ar_DZ.UTF-8</localeId><rank>1000</rank></locale>
     </locales>
@@ -6511,6 +6651,9 @@
       <name><languageId>zh_Hant</languageId><trName>厄瓜多</trName></name>
       <name><languageId>zu</languageId><trName>i-Ecuador</trName></name>
     </names>
+    <scripts>
+      <script><scriptId>Latn</scriptId><rank>1000</rank></script>
+    </scripts>
     <locales>
       <locale><localeId>es_EC.UTF-8</localeId><rank>1000</rank></locale>
     </locales>
@@ -6647,6 +6790,9 @@
       <name><languageId>zh_Hant</languageId><trName>愛沙尼亞</trName></name>
       <name><languageId>zu</languageId><trName>i-Estonia</trName></name>
     </names>
+    <scripts>
+      <script><scriptId>Latn</scriptId><rank>1000</rank></script>
+    </scripts>
     <locales>
       <locale><localeId>et_EE.UTF-8</localeId><rank>1000</rank></locale>
     </locales>
@@ -6783,6 +6929,9 @@
       <name><languageId>zh_Hant</languageId><trName>埃及</trName></name>
       <name><languageId>zu</languageId><trName>i-Egypt</trName></name>
     </names>
+    <scripts>
+      <script><scriptId>Arab</scriptId><rank>1000</rank></script>
+    </scripts>
     <locales>
       <locale><localeId>ar_EG.UTF-8</localeId><rank>1000</rank></locale>
     </locales>
@@ -6920,6 +7069,10 @@
       <name><languageId>zh_Hant_HK</languageId><trName>厄立特里亞</trName></name>
       <name><languageId>zu</languageId><trName>i-Eritrea</trName></name>
     </names>
+    <scripts>
+      <script><scriptId>Ethi</scriptId><rank>900</rank></script>
+      <script><scriptId>Latn</scriptId><rank>100</rank></script>
+    </scripts>
     <locales>
       <locale><localeId>ti_ER.UTF-8</localeId><rank>700</rank></locale>
       <locale><localeId>tig_ER.UTF-8</localeId><rank>100</rank></locale>
@@ -7066,6 +7219,9 @@
       <name><languageId>zh_Hant</languageId><trName>西班牙</trName></name>
       <name><languageId>zu</languageId><trName>i-Spain</trName></name>
     </names>
+    <scripts>
+      <script><scriptId>Latn</scriptId><rank>1000</rank></script>
+    </scripts>
     <locales>
       <locale><localeId>es_ES.UTF-8</localeId><rank>700</rank></locale>
       <locale><localeId>an_ES.UTF-8</localeId><rank>150</rank></locale>
@@ -7215,6 +7371,10 @@
       <name><languageId>zh_Hant_HK</languageId><trName>埃塞俄比亞</trName></name>
       <name><languageId>zu</languageId><trName>i-Ethiopia</trName></name>
     </names>
+    <scripts>
+      <script><scriptId>Ethi</scriptId><rank>900</rank></script>
+      <script><scriptId>Latn</scriptId><rank>100</rank></script>
+    </scripts>
     <locales>
       <locale><localeId>am_ET.UTF-8</localeId><rank>310</rank></locale>
       <locale><localeId>om_ET.UTF-8</localeId><rank>300</rank></locale>
@@ -7366,6 +7526,9 @@
       <name><languageId>zh_Hant</languageId><trName>芬蘭</trName></name>
       <name><languageId>zu</languageId><trName>i-Finland</trName></name>
     </names>
+    <scripts>
+      <script><scriptId>Latn</scriptId><rank>1000</rank></script>
+    </scripts>
     <locales>
       <locale><localeId>fi_FI.UTF-8</localeId><rank>900</rank></locale>
       <locale><localeId>sv_FI.UTF-8</localeId><rank>100</rank></locale>
@@ -7503,6 +7666,9 @@
       <name><languageId>zh_Hant</languageId><trName>斐濟</trName></name>
       <name><languageId>zu</languageId><trName>i-Fiji</trName></name>
     </names>
+    <scripts>
+      <script><scriptId>Latn</scriptId><rank>1000</rank></script>
+    </scripts>
     <locales>
     </locales>
     <languages>
@@ -7625,6 +7791,9 @@
       <name><languageId>zh_Hant</languageId><trName>法羅群島</trName></name>
       <name><languageId>zu</languageId><trName>i-Faroe Islands</trName></name>
     </names>
+    <scripts>
+      <script><scriptId>Latn</scriptId><rank>1000</rank></script>
+    </scripts>
     <locales>
       <locale><localeId>fo_FO.UTF-8</localeId><rank>1000</rank></locale>
     </locales>
@@ -7766,6 +7935,9 @@
       <name><languageId>zh_Hant</languageId><trName>法國</trName></name>
       <name><languageId>zu</languageId><trName>i-France</trName></name>
     </names>
+    <scripts>
+      <script><scriptId>Latn</scriptId><rank>1000</rank></script>
+    </scripts>
     <locales>
       <locale><localeId>fr_FR.UTF-8</localeId><rank>950</rank></locale>
       <locale><localeId>br_FR.UTF-8</localeId><rank>11</rank></locale>
@@ -7916,6 +8088,9 @@
       <name><languageId>zh_Hant</languageId><trName>英國</trName></name>
       <name><languageId>zu</languageId><trName>i-United Kingdom</trName></name>
     </names>
+    <scripts>
+      <script><scriptId>Latn</scriptId><rank>1000</rank></script>
+    </scripts>
     <locales>
       <locale><localeId>en_GB.UTF-8</localeId><rank>900</rank></locale>
       <locale><localeId>cy_GB.UTF-8</localeId><rank>20</rank></locale>
@@ -8060,6 +8235,9 @@
       <name><languageId>zh_Hant_HK</languageId><trName>格魯吉亞</trName></name>
       <name><languageId>zu</languageId><trName>i-Georgia</trName></name>
     </names>
+    <scripts>
+      <script><scriptId>Geor</scriptId><rank>1000</rank></script>
+    </scripts>
     <locales>
       <locale><localeId>ka_GE.UTF-8</localeId><rank>1000</rank></locale>
     </locales>
@@ -8194,6 +8372,9 @@
       <name><languageId>zh_Hant_HK</languageId><trName>加納</trName></name>
       <name><languageId>zu</languageId><trName>i-Ghana</trName></name>
     </names>
+    <scripts>
+      <script><scriptId>Latn</scriptId><rank>1000</rank></script>
+    </scripts>
     <locales>
     </locales>
     <languages>
@@ -8324,6 +8505,9 @@
       <name><languageId>zh_Hant</languageId><trName>格陵蘭</trName></name>
       <name><languageId>zu</languageId><trName>i-Greenland</trName></name>
     </names>
+    <scripts>
+      <script><scriptId>Latn</scriptId><rank>1000</rank></script>
+    </scripts>
     <locales>
       <locale><localeId>kl_GL.UTF-8</localeId><rank>1000</rank></locale>
     </locales>
@@ -8464,6 +8648,9 @@
       <name><languageId>zh_Hant</languageId><trName>希臘</trName></name>
       <name><languageId>zu</languageId><trName>i-Greece</trName></name>
     </names>
+    <scripts>
+      <script><scriptId>Grek</scriptId><rank>1000</rank></script>
+    </scripts>
     <locales>
       <locale><localeId>el_GR.UTF-8</localeId><rank>1000</rank></locale>
     </locales>
@@ -8599,6 +8786,9 @@
       <name><languageId>zh_Hant_HK</languageId><trName>危地馬拉</trName></name>
       <name><languageId>zu</languageId><trName>i-Guatemala</trName></name>
     </names>
+    <scripts>
+      <script><scriptId>Latn</scriptId><rank>1000</rank></script>
+    </scripts>
     <locales>
       <locale><localeId>es_GT.UTF-8</localeId><rank>1000</rank></locale>
     </locales>
@@ -8725,6 +8915,9 @@
       <name><languageId>zh_Hant</languageId><trName>中華人民共和國香港特別行政區</trName></name>
       <name><languageId>zu</languageId><trName>i-Hong Kong SAR China</trName></name>
     </names>
+    <scripts>
+      <script><scriptId>Hant</scriptId><rank>1000</rank></script>
+    </scripts>
     <locales>
       <locale><localeId>zh_HK.UTF-8</localeId><rank>1000</rank></locale>
     </locales>
@@ -8860,6 +9053,9 @@
       <name><languageId>zh_Hant_HK</languageId><trName>洪都拉斯</trName></name>
       <name><languageId>zu</languageId><trName>i-Honduras</trName></name>
     </names>
+    <scripts>
+      <script><scriptId>Latn</scriptId><rank>1000</rank></script>
+    </scripts>
     <locales>
       <locale><localeId>es_HN.UTF-8</localeId><rank>1000</rank></locale>
     </locales>
@@ -8996,6 +9192,9 @@
       <name><languageId>zh_Hant_HK</languageId><trName>克羅地亞</trName></name>
       <name><languageId>zu</languageId><trName>i-Croatia</trName></name>
     </names>
+    <scripts>
+      <script><scriptId>Latn</scriptId><rank>1000</rank></script>
+    </scripts>
     <locales>
       <locale><localeId>hr_HR.UTF-8</localeId><rank>1000</rank></locale>
     </locales>
@@ -9133,6 +9332,9 @@
       <name><languageId>zh_Hant</languageId><trName>海地</trName></name>
       <name><languageId>zu</languageId><trName>i-Haiti</trName></name>
     </names>
+    <scripts>
+      <script><scriptId>Latn</scriptId><rank>1000</rank></script>
+    </scripts>
     <locales>
       <locale><localeId>ht_HT.UTF-8</localeId><rank>900</rank></locale>
       <locale><localeId>fr_HT.UTF-8</localeId><rank>0</rank></locale>
@@ -9270,6 +9472,9 @@
       <name><languageId>zh_Hant</languageId><trName>匈牙利</trName></name>
       <name><languageId>zu</languageId><trName>i-Hungary</trName></name>
     </names>
+    <scripts>
+      <script><scriptId>Latn</scriptId><rank>1000</rank></script>
+    </scripts>
     <locales>
       <locale><localeId>hu_HU.UTF-8</localeId><rank>1000</rank></locale>
     </locales>
@@ -9406,6 +9611,10 @@
       <name><languageId>zh_Hant</languageId><trName>印尼</trName></name>
       <name><languageId>zu</languageId><trName>i-Indonesia</trName></name>
     </names>
+    <scripts>
+      <script><scriptId>Latn</scriptId><rank>900</rank></script>
+      <script><scriptId>Latn</scriptId><rank>10</rank></script>
+    </scripts>
     <locales>
       <locale><localeId>id_ID.UTF-8</localeId><rank>1000</rank></locale>
     </locales>
@@ -9541,6 +9750,9 @@
       <name><languageId>zh_Hant</languageId><trName>愛爾蘭</trName></name>
       <name><languageId>zu</languageId><trName>i-Ireland</trName></name>
     </names>
+    <scripts>
+      <script><scriptId>Latn</scriptId><rank>1000</rank></script>
+    </scripts>
     <locales>
       <locale><localeId>en_IE.UTF-8</localeId><rank>900</rank></locale>
       <locale><localeId>ga_IE.UTF-8</localeId><rank>100</rank></locale>
@@ -9680,6 +9892,9 @@
       <name><languageId>zh_Hant</languageId><trName>以色列</trName></name>
       <name><languageId>zu</languageId><trName>i-Israel</trName></name>
     </names>
+    <scripts>
+      <script><scriptId>Hebr</scriptId><rank>1000</rank></script>
+    </scripts>
     <locales>
       <locale><localeId>he_IL.UTF-8</localeId><rank>1000</rank></locale>
       <locale><localeId>iw_IL.UTF-8</localeId><rank>0</rank></locale>
@@ -9826,6 +10041,30 @@
       <name><languageId>zh_Hant</languageId><trName>印度</trName></name>
       <name><languageId>zu</languageId><trName>i-India</trName></name>
     </names>
+    <scripts>
+      <script><scriptId>Deva</scriptId><rank>400</rank></script>
+      <script><scriptId>Latn</scriptId><rank>200</rank></script>
+      <script><scriptId>Beng</scriptId><rank>100</rank></script>
+      <script><scriptId>Telu</scriptId><rank>90</rank></script>
+      <script><scriptId>Taml</scriptId><rank>80</rank></script>
+      <script><scriptId>Gujr</scriptId><rank>70</rank></script>
+      <script><scriptId>Knda</scriptId><rank>60</rank></script>
+      <script><scriptId>Mlym</scriptId><rank>50</rank></script>
+      <script><scriptId>Orya</scriptId><rank>40</rank></script>
+      <script><scriptId>Guru</scriptId><rank>30</rank></script>
+      <script><scriptId>Arab</scriptId><rank>22</rank></script>
+      <script><scriptId>Olck</scriptId><rank>20</rank></script>
+      <script><scriptId>Tibt</scriptId><rank>18</rank></script>
+      <script><scriptId>Mtei</scriptId><rank>12</rank></script>
+      <script><scriptId>Takr</scriptId><rank>10</rank></script>
+      <script><scriptId>Tirh</scriptId><rank>8</rank></script>
+      <script><scriptId>Gran</scriptId><rank>6</rank></script>
+      <script><scriptId>Shrd</scriptId><rank>5</rank></script>
+      <script><scriptId>Sidd</scriptId><rank>4</rank></script>
+      <script><scriptId>Sinh</scriptId><rank>3</rank></script>
+      <script><scriptId>Modi</scriptId><rank>2</rank></script>
+      <script><scriptId>Mahj</scriptId><rank>1</rank></script>
+    </scripts>
     <locales>
       <locale><localeId>hi_IN.UTF-8</localeId><rank>400</rank></locale>
       <locale><localeId>en_IN.UTF-8</localeId><rank>200</rank></locale>
@@ -10030,6 +10269,9 @@
       <name><languageId>zh_Hant</languageId><trName>伊拉克</trName></name>
       <name><languageId>zu</languageId><trName>i-Iraq</trName></name>
     </names>
+    <scripts>
+      <script><scriptId>Arab</scriptId><rank>1000</rank></script>
+    </scripts>
     <locales>
       <locale><localeId>ar_IQ.UTF-8</localeId><rank>1000</rank></locale>
     </locales>
@@ -10162,6 +10404,10 @@
       <name><languageId>zh_Hant</languageId><trName>伊朗</trName></name>
       <name><languageId>zu</languageId><trName>i-Iran</trName></name>
     </names>
+    <scripts>
+      <script><scriptId>Arab</scriptId><rank>990</rank></script>
+      <script><scriptId>Syrc</scriptId><rank>10</rank></script>
+    </scripts>
     <locales>
       <locale><localeId>fa_IR.UTF-8</localeId><rank>1000</rank></locale>
     </locales>
@@ -10298,6 +10544,9 @@
       <name><languageId>zh_Hant</languageId><trName>冰島</trName></name>
       <name><languageId>zu</languageId><trName>i-Iceland</trName></name>
     </names>
+    <scripts>
+      <script><scriptId>Latn</scriptId><rank>1000</rank></script>
+    </scripts>
     <locales>
       <locale><localeId>is_IS.UTF-8</localeId><rank>1000</rank></locale>
     </locales>
@@ -10440,6 +10689,9 @@
       <name><languageId>zh_Hant_HK</languageId><trName>意大利</trName></name>
       <name><languageId>zu</languageId><trName>i-Italy</trName></name>
     </names>
+    <scripts>
+      <script><scriptId>Latn</scriptId><rank>1000</rank></script>
+    </scripts>
     <locales>
       <locale><localeId>it_IT.UTF-8</localeId><rank>950</rank></locale>
       <locale><localeId>lij_IT.UTF-8</localeId><rank>20</rank></locale>
@@ -10581,6 +10833,9 @@
       <name><languageId>zh_Hant</languageId><trName>約旦</trName></name>
       <name><languageId>zu</languageId><trName>i-Jordan</trName></name>
     </names>
+    <scripts>
+      <script><scriptId>Arab</scriptId><rank>1000</rank></script>
+    </scripts>
     <locales>
       <locale><localeId>ar_JO.UTF-8</localeId><rank>1000</rank></locale>
     </locales>
@@ -10721,6 +10976,12 @@
       <name><languageId>zh_Hant</languageId><trName>日本</trName></name>
       <name><languageId>zu</languageId><trName>i-Japan</trName></name>
     </names>
+    <scripts>
+      <script><scriptId>Hani</scriptId><rank>500</rank></script>
+      <script><scriptId>Hira</scriptId><rank>300</rank></script>
+      <script><scriptId>Kana</scriptId><rank>200</rank></script>
+      <script><scriptId>Jpan</scriptId><rank>0</rank></script>
+    </scripts>
     <locales>
       <locale><localeId>ja_JP.UTF-8</localeId><rank>1000</rank></locale>
     </locales>
@@ -10857,6 +11118,12 @@
       <name><languageId>zh_Hant_HK</languageId><trName>肯雅</trName></name>
       <name><languageId>zu</languageId><trName>i-Kenya</trName></name>
     </names>
+    <scripts>
+      <script><scriptId>Latn</scriptId><rank>900</rank></script>
+      <script><scriptId>Ethi</scriptId><rank>100</rank></script>
+      <script><scriptId>Osma</scriptId><rank>2</rank></script>
+      <script><scriptId>Arab</scriptId><rank>1</rank></script>
+    </scripts>
     <locales>
       <locale><localeId>sw_KE.UTF-8</localeId><rank>900</rank></locale>
       <locale><localeId>om_KE.UTF-8</localeId><rank>50</rank></locale>
@@ -10991,6 +11258,11 @@
       <name><languageId>zh_Hant</languageId><trName>吉爾吉斯</trName></name>
       <name><languageId>zu</languageId><trName>i-Kyrgyzstan</trName></name>
     </names>
+    <scripts>
+      <script><scriptId>Cyrl</scriptId><rank>900</rank></script>
+      <script><scriptId>Arab</scriptId><rank>90</rank></script>
+      <script><scriptId>Latn</scriptId><rank>10</rank></script>
+    </scripts>
     <locales>
       <locale><localeId>ky_KG.UTF-8</localeId><rank>1000</rank></locale>
     </locales>
@@ -11127,6 +11399,9 @@
       <name><languageId>zh_Hant</languageId><trName>柬埔寨</trName></name>
       <name><languageId>zu</languageId><trName>i-Cambodia</trName></name>
     </names>
+    <scripts>
+      <script><scriptId>Khmr</scriptId><rank>1000</rank></script>
+    </scripts>
     <locales>
       <locale><localeId>km_KH.UTF-8</localeId><rank>1000</rank></locale>
     </locales>
@@ -11261,6 +11536,11 @@
       <name><languageId>zh_Hant</languageId><trName>南韓</trName></name>
       <name><languageId>zu</languageId><trName>i-South Korea</trName></name>
     </names>
+    <scripts>
+      <script><scriptId>Hang</scriptId><rank>990</rank></script>
+      <script><scriptId>Hani</scriptId><rank>10</rank></script>
+      <script><scriptId>Kore</scriptId><rank>0</rank></script>
+    </scripts>
     <locales>
       <locale><localeId>ko_KR.UTF-8</localeId><rank>1000</rank></locale>
     </locales>
@@ -11396,6 +11676,9 @@
       <name><languageId>zh_Hant</languageId><trName>科威特</trName></name>
       <name><languageId>zu</languageId><trName>i-Kuwait</trName></name>
     </names>
+    <scripts>
+      <script><scriptId>Arab</scriptId><rank>1000</rank></script>
+    </scripts>
     <locales>
       <locale><localeId>ar_KW.UTF-8</localeId><rank>1000</rank></locale>
     </locales>
@@ -11526,6 +11809,10 @@
       <name><languageId>zh_Hant</languageId><trName>哈薩克</trName></name>
       <name><languageId>zu</languageId><trName>i-Kazakhstan</trName></name>
     </names>
+    <scripts>
+      <script><scriptId>Cyrl</scriptId><rank>900</rank></script>
+      <script><scriptId>Arab</scriptId><rank>100</rank></script>
+    </scripts>
     <locales>
       <locale><localeId>kk_KZ.UTF-8</localeId><rank>1000</rank></locale>
     </locales>
@@ -11658,6 +11945,9 @@
       <name><languageId>zh_Hant</languageId><trName>寮國</trName></name>
       <name><languageId>zu</languageId><trName>i-Laos</trName></name>
     </names>
+    <scripts>
+      <script><scriptId>Laoo</scriptId><rank>1000</rank></script>
+    </scripts>
     <locales>
       <locale><localeId>lo_LA.UTF-8</localeId><rank>1000</rank></locale>
     </locales>
@@ -11794,6 +12084,9 @@
       <name><languageId>zh_Hant</languageId><trName>黎巴嫩</trName></name>
       <name><languageId>zu</languageId><trName>i-Lebanon</trName></name>
     </names>
+    <scripts>
+      <script><scriptId>Arab</scriptId><rank>1000</rank></script>
+    </scripts>
     <locales>
       <locale><localeId>ar_LB.UTF-8</localeId><rank>1000</rank></locale>
     </locales>
@@ -11926,6 +12219,9 @@
       <name><languageId>zh_Hant</languageId><trName>斯里蘭卡</trName></name>
       <name><languageId>zu</languageId><trName>i-Sri Lanka</trName></name>
     </names>
+    <scripts>
+      <script><scriptId>Sinh</scriptId><rank>1000</rank></script>
+    </scripts>
     <locales>
       <locale><localeId>si_LK.UTF-8</localeId><rank>1000</rank></locale>
     </locales>
@@ -12061,6 +12357,9 @@
       <name><languageId>zh_Hant</languageId><trName>立陶宛</trName></name>
       <name><languageId>zu</languageId><trName>i-Lithuania</trName></name>
     </names>
+    <scripts>
+      <script><scriptId>Latn</scriptId><rank>1000</rank></script>
+    </scripts>
     <locales>
       <locale><localeId>lt_LT.UTF-8</localeId><rank>1000</rank></locale>
     </locales>
@@ -12192,6 +12491,9 @@
       <name><languageId>zh_Hant</languageId><trName>盧森堡</trName></name>
       <name><languageId>zu</languageId><trName>i-Luxembourg</trName></name>
     </names>
+    <scripts>
+      <script><scriptId>Latn</scriptId><rank>1000</rank></script>
+    </scripts>
     <locales>
       <locale><localeId>fr_LU.UTF-8</localeId><rank>400</rank></locale>
       <locale><localeId>de_LU.UTF-8</localeId><rank>300</rank></locale>
@@ -12335,6 +12637,9 @@
       <name><languageId>zh_Hant</languageId><trName>拉脫維亞</trName></name>
       <name><languageId>zu</languageId><trName>i-Latvia</trName></name>
     </names>
+    <scripts>
+      <script><scriptId>Latn</scriptId><rank>1000</rank></script>
+    </scripts>
     <locales>
       <locale><localeId>lv_LV.UTF-8</localeId><rank>1000</rank></locale>
     </locales>
@@ -12471,6 +12776,9 @@
       <name><languageId>zh_Hant</languageId><trName>利比亞</trName></name>
       <name><languageId>zu</languageId><trName>i-Libya</trName></name>
     </names>
+    <scripts>
+      <script><scriptId>Arab</scriptId><rank>1000</rank></script>
+    </scripts>
     <locales>
       <locale><localeId>ar_LY.UTF-8</localeId><rank>1000</rank></locale>
     </locales>
@@ -12607,6 +12915,9 @@
       <name><languageId>zh_Hant</languageId><trName>摩洛哥</trName></name>
       <name><languageId>zu</languageId><trName>i-Morocco</trName></name>
     </names>
+    <scripts>
+      <script><scriptId>Arab</scriptId><rank>1000</rank></script>
+    </scripts>
     <locales>
       <locale><localeId>ar_MA.UTF-8</localeId><rank>1000</rank></locale>
     </locales>
@@ -12728,6 +13039,10 @@
       <name><languageId>zh_Hant_HK</languageId><trName>黑山</trName></name>
       <name><languageId>zu</languageId><trName>i-Montenegro</trName></name>
     </names>
+    <scripts>
+      <script><scriptId>Cyrl</scriptId><rank>600</rank></script>
+      <script><scriptId>Latn</scriptId><rank>300</rank></script>
+    </scripts>
     <locales>
       <locale><localeId>sr_ME.UTF-8</localeId><rank>1000</rank></locale>
     </locales>
@@ -12860,6 +13175,9 @@
       <name><languageId>zh_Hant</languageId><trName>馬達加斯加</trName></name>
       <name><languageId>zu</languageId><trName>i-Madagascar</trName></name>
     </names>
+    <scripts>
+      <script><scriptId>Latn</scriptId><rank>1000</rank></script>
+    </scripts>
     <locales>
       <locale><localeId>mg_MG.UTF-8</localeId><rank>1000</rank></locale>
     </locales>
@@ -12994,6 +13312,11 @@
       <name><languageId>zh_Hant</languageId><trName>馬其頓</trName></name>
       <name><languageId>zu</languageId><trName>i-Macedonia</trName></name>
     </names>
+    <scripts>
+      <script><scriptId>Cyrl</scriptId><rank>900</rank></script>
+      <script><scriptId>Latn</scriptId><rank>90</rank></script>
+      <script><scriptId>Elba</scriptId><rank>10</rank></script>
+    </scripts>
     <locales>
       <locale><localeId>mk_MK.UTF-8</localeId><rank>900</rank></locale>
       <locale><localeId>sq_MK.UTF-8</localeId><rank>100</rank></locale>
@@ -13129,6 +13452,9 @@
       <name><languageId>zh_Hant</languageId><trName>緬甸</trName></name>
       <name><languageId>zu</languageId><trName>i-Myanmar (Burma)</trName></name>
     </names>
+    <scripts>
+      <script><scriptId>Mymr</scriptId><rank>1000</rank></script>
+    </scripts>
     <locales>
       <locale><localeId>my_MM.UTF-8</localeId><rank>1000</rank></locale>
     </locales>
@@ -13263,6 +13589,11 @@
       <name><languageId>zh_Hant</languageId><trName>蒙古</trName></name>
       <name><languageId>zu</languageId><trName>i-Mongolia</trName></name>
     </names>
+    <scripts>
+      <script><scriptId>Cyrl</scriptId><rank>900</rank></script>
+      <script><scriptId>Mong</scriptId><rank>90</rank></script>
+      <script><scriptId>Phag</scriptId><rank>1</rank></script>
+    </scripts>
     <locales>
       <locale><localeId>mn_MN.UTF-8</localeId><rank>1000</rank></locale>
     </locales>
@@ -13390,6 +13721,9 @@
       <name><languageId>zh_Hant</languageId><trName>中華人民共和國澳門特別行政區</trName></name>
       <name><languageId>zu</languageId><trName>i-Macau SAR China</trName></name>
     </names>
+    <scripts>
+      <script><scriptId>Hant</scriptId><rank>1000</rank></script>
+    </scripts>
     <locales>
       <locale><localeId>zh_HK.UTF-8</localeId><rank>1000</rank></locale>
       <locale><localeId>zh_MO.UTF-8</localeId><rank>0</rank></locale>
@@ -13526,6 +13860,9 @@
       <name><languageId>zh_Hant</languageId><trName>馬爾他</trName></name>
       <name><languageId>zu</languageId><trName>i-Malta</trName></name>
     </names>
+    <scripts>
+      <script><scriptId>Latn</scriptId><rank>1000</rank></script>
+    </scripts>
     <locales>
       <locale><localeId>mt_MT.UTF-8</localeId><rank>1000</rank></locale>
     </locales>
@@ -13659,6 +13996,9 @@
       <name><languageId>zh_Hant_HK</languageId><trName>馬爾代夫</trName></name>
       <name><languageId>zu</languageId><trName>i-Maldives</trName></name>
     </names>
+    <scripts>
+      <script><scriptId>Thaa</scriptId><rank>1000</rank></script>
+    </scripts>
     <locales>
       <locale><localeId>dv_MV.UTF-8</localeId><rank>1000</rank></locale>
     </locales>
@@ -13791,6 +14131,9 @@
       <name><languageId>zh_Hant</languageId><trName>馬拉威</trName></name>
       <name><languageId>zu</languageId><trName>i-Malawi</trName></name>
     </names>
+    <scripts>
+      <script><scriptId>Latn</scriptId><rank>1000</rank></script>
+    </scripts>
     <locales>
     </locales>
     <languages>
@@ -13927,6 +14270,9 @@
       <name><languageId>zh_Hant</languageId><trName>墨西哥</trName></name>
       <name><languageId>zu</languageId><trName>i-Mexico</trName></name>
     </names>
+    <scripts>
+      <script><scriptId>Latn</scriptId><rank>1000</rank></script>
+    </scripts>
     <locales>
       <locale><localeId>es_MX.UTF-8</localeId><rank>1000</rank></locale>
     </locales>
@@ -14073,6 +14419,10 @@
       <name><languageId>zh_Hant</languageId><trName>馬來西亞</trName></name>
       <name><languageId>zu</languageId><trName>i-Malaysia</trName></name>
     </names>
+    <scripts>
+      <script><scriptId>Latn</scriptId><rank>900</rank></script>
+      <script><scriptId>Arab</scriptId><rank>100</rank></script>
+    </scripts>
     <locales>
       <locale><localeId>ms_MY.UTF-8</localeId><rank>100</rank></locale>
     </locales>
@@ -14212,6 +14562,10 @@
       <name><languageId>zh_Hant_HK</languageId><trName>尼日利亞</trName></name>
       <name><languageId>zu</languageId><trName>i-Nigeria</trName></name>
     </names>
+    <scripts>
+      <script><scriptId>Latn</scriptId><rank>990</rank></script>
+      <script><scriptId>Arab</scriptId><rank>10</rank></script>
+    </scripts>
     <locales>
       <locale><localeId>en_NG.UTF-8</localeId><rank>400</rank></locale>
       <locale><localeId>ha_NG.UTF-8</localeId><rank>250</rank></locale>
@@ -14354,6 +14708,9 @@
       <name><languageId>zh_Hant</languageId><trName>尼加拉瓜</trName></name>
       <name><languageId>zu</languageId><trName>i-Nicaragua</trName></name>
     </names>
+    <scripts>
+      <script><scriptId>Latn</scriptId><rank>1000</rank></script>
+    </scripts>
     <locales>
       <locale><localeId>es_NI.UTF-8</localeId><rank>1000</rank></locale>
     </locales>
@@ -14492,6 +14849,9 @@
       <name><languageId>zh_Hant</languageId><trName>荷蘭</trName></name>
       <name><languageId>zu</languageId><trName>i-Netherlands</trName></name>
     </names>
+    <scripts>
+      <script><scriptId>Latn</scriptId><rank>1000</rank></script>
+    </scripts>
     <locales>
       <locale><localeId>nl_NL.UTF-8</localeId><rank>950</rank></locale>
       <locale><localeId>fy_NL.UTF-8</localeId><rank>10</rank></locale>
@@ -14636,6 +14996,9 @@
       <name><languageId>zh_Hant</languageId><trName>挪威</trName></name>
       <name><languageId>zu</languageId><trName>i-Norway</trName></name>
     </names>
+    <scripts>
+      <script><scriptId>Latn</scriptId><rank>1000</rank></script>
+    </scripts>
     <locales>
       <locale><localeId>nb_NO.UTF-8</localeId><rank>600</rank></locale>
       <locale><localeId>nn_NO.UTF-8</localeId><rank>300</rank></locale>
@@ -14778,6 +15141,9 @@
       <name><languageId>zh_Hant</languageId><trName>尼泊爾</trName></name>
       <name><languageId>zu</languageId><trName>i-Nepal</trName></name>
     </names>
+    <scripts>
+      <script><scriptId>Deva</scriptId><rank>1000</rank></script>
+    </scripts>
     <locales>
       <locale><localeId>ne_NP.UTF-8</localeId><rank>1000</rank></locale>
     </locales>
@@ -14907,6 +15273,9 @@
       <name><languageId>zh_Hant</languageId><trName>紐埃島</trName></name>
       <name><languageId>zu</languageId><trName>i-Niue</trName></name>
     </names>
+    <scripts>
+      <script><scriptId>Latn</scriptId><rank>1000</rank></script>
+    </scripts>
     <locales>
       <locale><localeId>niu_NU.UTF-8</localeId><rank>1000</rank></locale>
     </locales>
@@ -15043,6 +15412,9 @@
       <name><languageId>zh_Hant</languageId><trName>紐西蘭</trName></name>
       <name><languageId>zu</languageId><trName>i-New Zealand</trName></name>
     </names>
+    <scripts>
+      <script><scriptId>Latn</scriptId><rank>1000</rank></script>
+    </scripts>
     <locales>
       <locale><localeId>en_NZ.UTF-8</localeId><rank>940</rank></locale>
       <locale><localeId>mi_NZ.UTF-8</localeId><rank>50</rank></locale>
@@ -15180,6 +15552,9 @@
       <name><languageId>zh_Hant_HK</languageId><trName>阿曼</trName></name>
       <name><languageId>zu</languageId><trName>i-Oman</trName></name>
     </names>
+    <scripts>
+      <script><scriptId>Arab</scriptId><rank>1000</rank></script>
+    </scripts>
     <locales>
       <locale><localeId>ar_OM.UTF-8</localeId><rank>1000</rank></locale>
     </locales>
@@ -15311,6 +15686,9 @@
       <name><languageId>zh_Hant</languageId><trName>巴拿馬</trName></name>
       <name><languageId>zu</languageId><trName>i-Panama</trName></name>
     </names>
+    <scripts>
+      <script><scriptId>Latn</scriptId><rank>1000</rank></script>
+    </scripts>
     <locales>
       <locale><localeId>es_PA.UTF-8</localeId><rank>1000</rank></locale>
     </locales>
@@ -15446,6 +15824,9 @@
       <name><languageId>zh_Hant</languageId><trName>秘魯</trName></name>
       <name><languageId>zu</languageId><trName>i-Peru</trName></name>
     </names>
+    <scripts>
+      <script><scriptId>Latn</scriptId><rank>1000</rank></script>
+    </scripts>
     <locales>
       <locale><localeId>es_PE.UTF-8</localeId><rank>999</rank></locale>
       <locale><localeId>ayc_PE.UTF-8</localeId><rank>1</rank></locale>
@@ -15584,6 +15965,9 @@
       <name><languageId>zh_Hant_HK</languageId><trName>巴布亞新幾內亞</trName></name>
       <name><languageId>zu</languageId><trName>i-Papua New Guinea</trName></name>
     </names>
+    <scripts>
+      <script><scriptId>Latn</scriptId><rank>1000</rank></script>
+    </scripts>
     <locales>
     </locales>
     <languages>
@@ -15716,6 +16100,9 @@
       <name><languageId>zh_Hant</languageId><trName>菲律賓</trName></name>
       <name><languageId>zu</languageId><trName>i-Philippines</trName></name>
     </names>
+    <scripts>
+      <script><scriptId>Latn</scriptId><rank>1000</rank></script>
+    </scripts>
     <locales>
       <locale><localeId>fil_PH.UTF-8</localeId><rank>500</rank></locale>
       <locale><localeId>en_PH.UTF-8</localeId><rank>300</rank></locale>
@@ -15858,6 +16245,9 @@
       <name><languageId>zh_Hant</languageId><trName>巴基斯坦</trName></name>
       <name><languageId>zu</languageId><trName>i-Pakistan</trName></name>
     </names>
+    <scripts>
+      <script><scriptId>Arab</scriptId><rank>1000</rank></script>
+    </scripts>
     <locales>
       <locale><localeId>ur_PK.UTF-8</localeId><rank>600</rank></locale>
       <locale><localeId>pa_PK.UTF-8</localeId><rank>400</rank></locale>
@@ -15997,6 +16387,9 @@
       <name><languageId>zh_Hant</languageId><trName>波蘭</trName></name>
       <name><languageId>zu</languageId><trName>i-Poland</trName></name>
     </names>
+    <scripts>
+      <script><scriptId>Latn</scriptId><rank>1000</rank></script>
+    </scripts>
     <locales>
       <locale><localeId>pl_PL.UTF-8</localeId><rank>900</rank></locale>
       <locale><localeId>csb_PL.UTF-8</localeId><rank>10</rank></locale>
@@ -16134,6 +16527,9 @@
       <name><languageId>zh_Hant</languageId><trName>波多黎各</trName></name>
       <name><languageId>zu</languageId><trName>i-Puerto Rico</trName></name>
     </names>
+    <scripts>
+      <script><scriptId>Latn</scriptId><rank>1000</rank></script>
+    </scripts>
     <locales>
       <locale><localeId>es_PR.UTF-8</localeId><rank>1000</rank></locale>
     </locales>
@@ -16267,6 +16663,9 @@
       <name><languageId>zh_Hant</languageId><trName>葡萄牙</trName></name>
       <name><languageId>zu</languageId><trName>i-Portugal</trName></name>
     </names>
+    <scripts>
+      <script><scriptId>Latn</scriptId><rank>1000</rank></script>
+    </scripts>
     <locales>
       <locale><localeId>pt_PT.UTF-8</localeId><rank>1000</rank></locale>
     </locales>
@@ -16401,6 +16800,9 @@
       <name><languageId>zh_Hant</languageId><trName>巴拉圭</trName></name>
       <name><languageId>zu</languageId><trName>i-Paraguay</trName></name>
     </names>
+    <scripts>
+      <script><scriptId>Latn</scriptId><rank>1000</rank></script>
+    </scripts>
     <locales>
       <locale><localeId>es_PY.UTF-8</localeId><rank>1000</rank></locale>
     </locales>
@@ -16533,6 +16935,9 @@
       <name><languageId>zh_Hant_HK</languageId><trName>卡塔爾</trName></name>
       <name><languageId>zu</languageId><trName>i-Qatar</trName></name>
     </names>
+    <scripts>
+      <script><scriptId>Arab</scriptId><rank>1000</rank></script>
+    </scripts>
     <locales>
       <locale><localeId>ar_QA.UTF-8</localeId><rank>1000</rank></locale>
     </locales>
@@ -16667,6 +17072,9 @@
       <name><languageId>zh_Hant</languageId><trName>羅馬尼亞</trName></name>
       <name><languageId>zu</languageId><trName>i-Romania</trName></name>
     </names>
+    <scripts>
+      <script><scriptId>Latn</scriptId><rank>1000</rank></script>
+    </scripts>
     <locales>
       <locale><localeId>ro_RO.UTF-8</localeId><rank>1000</rank></locale>
     </locales>
@@ -16788,6 +17196,10 @@
       <name><languageId>zh_Hant</languageId><trName>塞爾維亞</trName></name>
       <name><languageId>zu</languageId><trName>i-Serbia</trName></name>
     </names>
+    <scripts>
+      <script><scriptId>Cyrl</scriptId><rank>600</rank></script>
+      <script><scriptId>Latn</scriptId><rank>400</rank></script>
+    </scripts>
     <locales>
       <locale><localeId>sr_RS.UTF-8</localeId><rank>600</rank></locale>
       <locale><localeId>sr_RS.UTF-8@latin</localeId><rank>400</rank></locale>
@@ -16933,6 +17345,9 @@
       <name><languageId>zh_Hant</languageId><trName>俄羅斯</trName></name>
       <name><languageId>zu</languageId><trName>i-Russia</trName></name>
     </names>
+    <scripts>
+      <script><scriptId>Cyrl</scriptId><rank>1000</rank></script>
+    </scripts>
     <locales>
       <locale><localeId>ru_RU.UTF-8</localeId><rank>950</rank></locale>
       <locale><localeId>cv_RU.UTF-8</localeId><rank>12</rank></locale>
@@ -17097,6 +17512,9 @@
       <name><languageId>zh_Hant_HK</languageId><trName>盧旺達</trName></name>
       <name><languageId>zu</languageId><trName>i-Rwanda</trName></name>
     </names>
+    <scripts>
+      <script><scriptId>Latn</scriptId><rank>1000</rank></script>
+    </scripts>
     <locales>
       <locale><localeId>rw_RW.UTF-8</localeId><rank>1000</rank></locale>
     </locales>
@@ -17233,6 +17651,9 @@
       <name><languageId>zh_Hant_HK</languageId><trName>沙特阿拉伯</trName></name>
       <name><languageId>zu</languageId><trName>i-Saudi Arabia</trName></name>
     </names>
+    <scripts>
+      <script><scriptId>Arab</scriptId><rank>1000</rank></script>
+    </scripts>
     <locales>
       <locale><localeId>ar_SA.UTF-8</localeId><rank>1000</rank></locale>
     </locales>
@@ -17368,6 +17789,9 @@
       <name><languageId>zh_Hant</languageId><trName>蘇丹</trName></name>
       <name><languageId>zu</languageId><trName>i-Sudan</trName></name>
     </names>
+    <scripts>
+      <script><scriptId>Arab</scriptId><rank>1000</rank></script>
+    </scripts>
     <locales>
       <locale><localeId>ar_SD.UTF-8</localeId><rank>1000</rank></locale>
     </locales>
@@ -17504,6 +17928,9 @@
       <name><languageId>zh_Hant</languageId><trName>瑞典</trName></name>
       <name><languageId>zu</languageId><trName>i-Sweden</trName></name>
     </names>
+    <scripts>
+      <script><scriptId>Latn</scriptId><rank>1000</rank></script>
+    </scripts>
     <locales>
       <locale><localeId>sv_SE.UTF-8</localeId><rank>1000</rank></locale>
     </locales>
@@ -17638,6 +18065,10 @@
       <name><languageId>zh_Hant</languageId><trName>新加坡</trName></name>
       <name><languageId>zu</languageId><trName>i-Singapore</trName></name>
     </names>
+    <scripts>
+      <script><scriptId>Latn</scriptId><rank>600</rank></script>
+      <script><scriptId>Hans</scriptId><rank>400</rank></script>
+    </scripts>
     <locales>
       <locale><localeId>en_SG.UTF-8</localeId><rank>1000</rank></locale>
       <locale><localeId>zh_SG.UTF-8</localeId><rank>1000</rank></locale>
@@ -17778,6 +18209,9 @@
       <name><languageId>zh_Hant_HK</languageId><trName>斯洛文尼亞</trName></name>
       <name><languageId>zu</languageId><trName>i-Slovenia</trName></name>
     </names>
+    <scripts>
+      <script><scriptId>Latn</scriptId><rank>1000</rank></script>
+    </scripts>
     <locales>
       <locale><localeId>sl_SI.UTF-8</localeId><rank>1000</rank></locale>
     </locales>
@@ -17913,6 +18347,9 @@
       <name><languageId>zh_Hant</languageId><trName>斯洛伐克</trName></name>
       <name><languageId>zu</languageId><trName>i-Slovakia</trName></name>
     </names>
+    <scripts>
+      <script><scriptId>Latn</scriptId><rank>1000</rank></script>
+    </scripts>
     <locales>
       <locale><localeId>sk_SK.UTF-8</localeId><rank>1000</rank></locale>
     </locales>
@@ -18048,6 +18485,10 @@
       <name><languageId>zh_Hant</languageId><trName>塞內加爾</trName></name>
       <name><languageId>zu</languageId><trName>i-Senegal</trName></name>
     </names>
+    <scripts>
+      <script><scriptId>Latn</scriptId><rank>950</rank></script>
+      <script><scriptId>Arab</scriptId><rank>50</rank></script>
+    </scripts>
     <locales>
       <locale><localeId>wo_SN.UTF-8</localeId><rank>500</rank></locale>
       <locale><localeId>ff_SN.UTF-8</localeId><rank>400</rank></locale>
@@ -18188,6 +18629,11 @@
       <name><languageId>zh_Hant_HK</languageId><trName>索馬里</trName></name>
       <name><languageId>zu</languageId><trName>i-Somalia</trName></name>
     </names>
+    <scripts>
+      <script><scriptId>Latn</scriptId><rank>900</rank></script>
+      <script><scriptId>Osma</scriptId><rank>100</rank></script>
+      <script><scriptId>Arab</scriptId><rank>10</rank></script>
+    </scripts>
     <locales>
       <locale><localeId>so_SO.UTF-8</localeId><rank>1000</rank></locale>
     </locales>
@@ -18308,19 +18754,23 @@
       <name><languageId>zh_Hant</languageId><trName>南蘇丹</trName></name>
       <name><languageId>zu</languageId><trName>i-South Sudan</trName></name>
     </names>
+    <scripts>
+      <script><scriptId>Arab</scriptId><rank>900</rank></script>
+      <script><scriptId>Syrc</scriptId><rank>10</rank></script>
+    </scripts>
     <locales>
-      <locale><localeId>en_SS.UTF-8</localeId><rank>0</rank></locale>
+      <locale><localeId>ar_SS.UTF-8</localeId><rank>0</rank></locale>
     </locales>
     <languages>
-      <language><languageId>en</languageId><rank>1000</rank></language>
+      <language><languageId>ar</languageId><rank>1000</rank></language>
     </languages>
     <keyboards>
-      <keyboard><keyboardId>us</keyboardId><rank>1000</rank></keyboard>
+      <keyboard><keyboardId>ara</keyboardId><rank>1000</rank></keyboard>
     </keyboards>
     <inputmethods>
     </inputmethods>
     <consolefonts>
-      <consolefont><consolefontId>eurlatgr</consolefontId><rank>1000</rank></consolefont>
+      <consolefont><consolefontId>latarcyrheb-sun16</consolefontId><rank>1000</rank></consolefont>
     </consolefonts>
     <timezones>
       <timezone><timezoneId>Africa/Juba</timezoneId><rank>1000</rank></timezone>
@@ -18440,6 +18890,9 @@
       <name><languageId>zh_Hant</languageId><trName>薩爾瓦多</trName></name>
       <name><languageId>zu</languageId><trName>i-El Salvador</trName></name>
     </names>
+    <scripts>
+      <script><scriptId>Latn</scriptId><rank>1000</rank></script>
+    </scripts>
     <locales>
       <locale><localeId>es_SV.UTF-8</localeId><rank>1000</rank></locale>
     </locales>
@@ -18575,6 +19028,9 @@
       <name><languageId>zh_Hant</languageId><trName>敘利亞</trName></name>
       <name><languageId>zu</languageId><trName>i-Syria</trName></name>
     </names>
+    <scripts>
+      <script><scriptId>Arab</scriptId><rank>1000</rank></script>
+    </scripts>
     <locales>
       <locale><localeId>ar_SY.UTF-8</localeId><rank>1000</rank></locale>
     </locales>
@@ -18709,6 +19165,9 @@
       <name><languageId>zh_Hant</languageId><trName>泰國</trName></name>
       <name><languageId>zu</languageId><trName>i-Thailand</trName></name>
     </names>
+    <scripts>
+      <script><scriptId>Thai</scriptId><rank>1000</rank></script>
+    </scripts>
     <locales>
       <locale><localeId>th_TH.UTF-8</localeId><rank>1000</rank></locale>
     </locales>
@@ -18846,6 +19305,11 @@
       <name><languageId>zh_Hant</languageId><trName>塔吉克</trName></name>
       <name><languageId>zu</languageId><trName>i-Tajikistan</trName></name>
     </names>
+    <scripts>
+      <script><scriptId>Cyrl</scriptId><rank>900</rank></script>
+      <script><scriptId>Latn</scriptId><rank>90</rank></script>
+      <script><scriptId>Arab</scriptId><rank>10</rank></script>
+    </scripts>
     <locales>
       <locale><localeId>tg_TJ.UTF-8</localeId><rank>1000</rank></locale>
     </locales>
@@ -18979,6 +19443,9 @@
       <name><languageId>zh_Hant</languageId><trName>東帝汶</trName></name>
       <name><languageId>zu</languageId><trName>i-Timor-Leste</trName></name>
     </names>
+    <scripts>
+      <script><scriptId>Latn</scriptId><rank>1000</rank></script>
+    </scripts>
     <locales>
     </locales>
     <languages>
@@ -19107,6 +19574,11 @@
       <name><languageId>zh_Hant</languageId><trName>土庫曼</trName></name>
       <name><languageId>zu</languageId><trName>i-Turkmenistan</trName></name>
     </names>
+    <scripts>
+      <script><scriptId>Latn</scriptId><rank>900</rank></script>
+      <script><scriptId>Cyrl</scriptId><rank>90</rank></script>
+      <script><scriptId>Arab</scriptId><rank>10</rank></script>
+    </scripts>
     <locales>
       <locale><localeId>tk_TM.UTF-8</localeId><rank>1000</rank></locale>
     </locales>
@@ -19241,6 +19713,9 @@
       <name><languageId>zh_Hant</languageId><trName>突尼西亞</trName></name>
       <name><languageId>zu</languageId><trName>i-Tunisia</trName></name>
     </names>
+    <scripts>
+      <script><scriptId>Arab</scriptId><rank>1000</rank></script>
+    </scripts>
     <locales>
       <locale><localeId>ar_TN.UTF-8</localeId><rank>1000</rank></locale>
     </locales>
@@ -19376,6 +19851,10 @@
       <name><languageId>zh_Hant</languageId><trName>土耳其</trName></name>
       <name><languageId>zu</languageId><trName>i-Turkey</trName></name>
     </names>
+    <scripts>
+      <script><scriptId>Latn</scriptId><rank>990</rank></script>
+      <script><scriptId>Arab</scriptId><rank>10</rank></script>
+    </scripts>
     <locales>
       <locale><localeId>tr_TR.UTF-8</localeId><rank>900</rank></locale>
       <locale><localeId>ku_TR.UTF-8</localeId><rank>100</rank></locale>
@@ -19509,6 +19988,9 @@
       <name><languageId>zh_TW</languageId><trName>台灣</trName></name>
       <name><languageId>zu</languageId><trName>i-Taiwan</trName></name>
     </names>
+    <scripts>
+      <script><scriptId>Hant</scriptId><rank>1000</rank></script>
+    </scripts>
     <locales>
       <locale><localeId>zh_TW.UTF-8</localeId><rank>1000</rank></locale>
     </locales>
@@ -19646,6 +20128,9 @@
       <name><languageId>zh_Hant_HK</languageId><trName>坦桑尼亞</trName></name>
       <name><languageId>zu</languageId><trName>i-Tanzania</trName></name>
     </names>
+    <scripts>
+      <script><scriptId>Latn</scriptId><rank>1000</rank></script>
+    </scripts>
     <locales>
       <locale><localeId>sw_TZ.UTF-8</localeId><rank>1000</rank></locale>
     </locales>
@@ -19778,6 +20263,9 @@
       <name><languageId>zh_Hant</languageId><trName>烏克蘭</trName></name>
       <name><languageId>zu</languageId><trName>i-Ukraine</trName></name>
     </names>
+    <scripts>
+      <script><scriptId>Cyrl</scriptId><rank>1000</rank></script>
+    </scripts>
     <locales>
       <locale><localeId>uk_UA.UTF-8</localeId><rank>900</rank></locale>
       <locale><localeId>ru_UA.UTF-8</localeId><rank>90</rank></locale>
@@ -19922,6 +20410,9 @@
       <name><languageId>zh_Hant</languageId><trName>烏干達</trName></name>
       <name><languageId>zu</languageId><trName>i-Uganda</trName></name>
     </names>
+    <scripts>
+      <script><scriptId>Latn</scriptId><rank>1000</rank></script>
+    </scripts>
     <locales>
       <locale><localeId>lg_UG.UTF-8</localeId><rank>1000</rank></locale>
     </locales>
@@ -20062,6 +20553,10 @@
       <name><languageId>zh_Hant</languageId><trName>美國</trName></name>
       <name><languageId>zu</languageId><trName>i-United States</trName></name>
     </names>
+    <scripts>
+      <script><scriptId>Latn</scriptId><rank>999</rank></script>
+      <script><scriptId>Hebr</scriptId><rank>1</rank></script>
+    </scripts>
     <locales>
       <locale><localeId>en_US.UTF-8</localeId><rank>800</rank></locale>
       <locale><localeId>es_US.UTF-8</localeId><rank>100</rank></locale>
@@ -20230,6 +20725,9 @@
       <name><languageId>zh_Hant</languageId><trName>烏拉圭</trName></name>
       <name><languageId>zu</languageId><trName>i-Uruguay</trName></name>
     </names>
+    <scripts>
+      <script><scriptId>Latn</scriptId><rank>1000</rank></script>
+    </scripts>
     <locales>
       <locale><localeId>es_UY.UTF-8</localeId><rank>1000</rank></locale>
     </locales>
@@ -20364,6 +20862,11 @@
       <name><languageId>zh_Hant</languageId><trName>烏茲別克</trName></name>
       <name><languageId>zu</languageId><trName>i-Uzbekistan</trName></name>
     </names>
+    <scripts>
+      <script><scriptId>Cyrl</scriptId><rank>600</rank></script>
+      <script><scriptId>Latn</scriptId><rank>400</rank></script>
+      <script><scriptId>Arab</scriptId><rank>1</rank></script>
+    </scripts>
     <locales>
       <locale><localeId>uz_UG.UTF-8@cyrillic</localeId><rank>600</rank></locale>
       <locale><localeId>uz_UG.UTF-8</localeId><rank>400</rank></locale>
@@ -20499,6 +21002,9 @@
       <name><languageId>zh_Hant_HK</languageId><trName>梵蒂岡宮城</trName></name>
       <name><languageId>zu</languageId><trName>i-Vatican City</trName></name>
     </names>
+    <scripts>
+      <script><scriptId>Latn</scriptId><rank>1000</rank></script>
+    </scripts>
     <locales>
       <locale><localeId>it_IT.UTF-8</localeId><rank>1000</rank></locale>
     </locales>
@@ -20635,6 +21141,9 @@
       <name><languageId>zh_Hant</languageId><trName>委內瑞拉</trName></name>
       <name><languageId>zu</languageId><trName>i-Venezuela</trName></name>
     </names>
+    <scripts>
+      <script><scriptId>Latn</scriptId><rank>1000</rank></script>
+    </scripts>
     <locales>
       <locale><localeId>es_VE.UTF-8</localeId><rank>1000</rank></locale>
     </locales>
@@ -20766,6 +21275,10 @@
       <name><languageId>zh_Hant</languageId><trName>越南</trName></name>
       <name><languageId>zu</languageId><trName>i-Vietnam</trName></name>
     </names>
+    <scripts>
+      <script><scriptId>Latn</scriptId><rank>999</rank></script>
+      <script><scriptId>Hani</scriptId><rank>1</rank></script>
+    </scripts>
     <locales>
       <locale><localeId>vi_VN.UTF-8</localeId><rank>1000</rank></locale>
     </locales>
@@ -20903,6 +21416,9 @@
       <name><languageId>zh_Hant_HK</languageId><trName>也門</trName></name>
       <name><languageId>zu</languageId><trName>i-Yemen</trName></name>
     </names>
+    <scripts>
+      <script><scriptId>Arab</scriptId><rank>1000</rank></script>
+    </scripts>
     <locales>
       <locale><localeId>ar_YE.UTF-8</localeId><rank>1000</rank></locale>
     </locales>
@@ -21038,6 +21554,9 @@
       <name><languageId>zh_Hant</languageId><trName>南非</trName></name>
       <name><languageId>zu</languageId><trName>i-South Africa</trName></name>
     </names>
+    <scripts>
+      <script><scriptId>Latn</scriptId><rank>1000</rank></script>
+    </scripts>
     <locales>
       <locale><localeId>zu_ZA.UTF-8</localeId><rank>227</rank></locale>
       <locale><localeId>xh_ZA.UTF-8</localeId><rank>160</rank></locale>
@@ -21195,6 +21714,9 @@
       <name><languageId>zh_Hant_HK</languageId><trName>贊比亞</trName></name>
       <name><languageId>zu</languageId><trName>i-Zambia</trName></name>
     </names>
+    <scripts>
+      <script><scriptId>Latn</scriptId><rank>1000</rank></script>
+    </scripts>
     <locales>
       <locale><localeId>en_ZM.UTF-8</localeId><rank>700</rank></locale>
       <locale><localeId>bem_ZM.UTF-8</localeId><rank>300</rank></locale>
@@ -21330,6 +21852,9 @@
       <name><languageId>zh_Hant_HK</languageId><trName>津巴布韋</trName></name>
       <name><languageId>zu</languageId><trName>i-Zimbabwe</trName></name>
     </names>
+    <scripts>
+      <script><scriptId>Latn</scriptId><rank>1000</rank></script>
+    </scripts>
     <locales>
       <locale><localeId>en_ZW.UTF-8</localeId><rank>1000</rank></locale>
     </locales>
