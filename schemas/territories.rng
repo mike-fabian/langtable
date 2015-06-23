@@ -20,6 +20,20 @@
         </element>
       </optional>
       <optional>
+        <element name="scripts">
+          <zeroOrMore>
+            <element name="script">
+              <element name="scriptId">
+                <text />
+              </element>
+              <element name="rank">
+                <data type="nonNegativeInteger" />
+              </element>
+            </element>
+          </zeroOrMore>
+        </element>
+      </optional>
+      <optional>
         <element name="locales">
           <zeroOrMore>
             <element name="locale">
