@@ -5,7 +5,7 @@
 %endif
 
 Name:           langtable
-Version:        0.0.33
+Version:        0.0.34
 Release:        1%{?dist}
 Summary:        Guessing reasonable defaults for locale, keyboard layout, territory, and language.
 Group:          Development/Tools
@@ -125,6 +125,11 @@ xmllint --noout --relaxng $RPM_BUILD_ROOT/%{_datadir}/langtable/schemas/timezone
 %{_datadir}/langtable/*.xml.gz
 
 %changelog
+* Wed Jul 01 2015 Mike FABIAN <mfabian@redhat.com> - 0.0.34-1
+- Add a function list_scripts() to list scripts used for a language or in a territory
+- Translation fix from CLDR
+- Add Sphinx markup to public functions
+
 * Wed May 13 2015 Mike FABIAN <mfabian@redhat.com> - 0.0.33-1
 - Translation fix for Tagalog <-> Filipino
 - Resolves: rhbz#1220775
