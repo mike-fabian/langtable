@@ -6,7 +6,7 @@
 
 Name:           langtable
 Version:        0.0.31
-Release:        2%{?dist}
+Release:        3%{?dist}
 Summary:        Guessing reasonable defaults for locale, keyboard layout, territory, and language.
 Group:          Development/Tools
 # the translations in languages.xml and territories.xml are (mostly)
@@ -17,6 +17,13 @@ License:        GPLv3+
 URL:            https://github.com/mike-fabian/langtable
 Source0:        http://mfabian.fedorapeople.org/langtable/%{name}-%{version}.tar.gz
 Patch0:         Revert-Make-eurlatgr-the-default-console-font-for-la.patch
+Patch1:         Add-language-endonym-for-tl.patch
+Patch2:         Some-translation-fixes-from-CLDR.patch
+Patch3:         Translation-fix-from-Wikipedia.patch
+Patch4:         Translation-fix-for-Tagalog-Filipino.patch
+Patch5:         Translation-fix-from-CLDR.patch
+Patch6:         Add-sphinx-markup-to-public-functions.patch
+Patch7:         Add-a-function-list_scripts-to-list-scripts-used-for.patch
 BuildArch:      noarch
 BuildRequires:  python2-devel
 %if 0%{?with_python3}
@@ -67,6 +74,13 @@ This package contains the data files for langtable.
 %prep
 %setup -q
 %patch0 -p1 -b .Revert-Make-eurlatgr-the-default-console-font-for-la
+%patch1 -p1 -b .Add-language-endonym-for-tl
+%patch2 -p1 -b .Some-translation-fixes-from-CLDR
+%patch3 -p1 -b .Translation-fix-from-Wikipedia
+%patch4 -p1 -b .Translation-fix-for-Tagalog-Filipino
+%patch5 -p1 -b .Translation-fix-from-CLDR
+%patch6 -p1 -b .Add-sphinx-markup-to-public-functions
+%patch7 -p1 -b .Add-a-function-list_scripts-to-list-scripts-used-for
 
 %if 0%{?with_python3}
 rm -rf %{py3dir}
@@ -127,6 +141,10 @@ xmllint --noout --relaxng $RPM_BUILD_ROOT/%{_datadir}/langtable/schemas/timezone
 %{_datadir}/langtable/*.xml.gz
 
 %changelog
+* Mon Jul 13 2015 Mike FABIAN <mfabian@redhat.com> - 0.0.31-3
+- Add patches to support listing scripts for languages and/or regions
+- Resolves: rhbz#1242571
+
 * Tue Apr 28 2015 Mike FABIAN <mfabian@redhat.com> - 0.0.31-2
 - Do not package the files in /usr/share/langtable/ twice
 - Resolves: rhbz#1202875
