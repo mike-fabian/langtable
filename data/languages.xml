@@ -10948,6 +10948,46 @@
     </timezones>
   </language>
   <language>
+    <languageId>khb</languageId>
+    <iso639-1>None</iso639-1>
+    <iso639-2-t>None</iso639-2-t>
+    <iso639-2-b>None</iso639-2-b>
+    <names>
+      <name><languageId>de</languageId><trName>Tai Lü</trName></name>
+      <name><languageId>en</languageId><trName>Tai Lü</trName></name>
+      <name><languageId>khb</languageId><trName>ᦅᧄᦑᦺᦟᦹᧉ</trName></name>
+    </names>
+    <scripts>
+      <script><scriptId>Lana</scriptId><rank>400</rank></script>
+      <script><scriptId>Talu</scriptId><rank>300</rank></script>
+      <script><scriptId>Thai</scriptId><rank>200</rank></script>
+    </scripts>
+    <locales>
+    </locales>
+    <territories>
+      <territory><territoryId>CN</territoryId><rank>400</rank></territory>
+      <territory><territoryId>MM</territoryId><rank>300</rank></territory>
+      <territory><territoryId>LA</territoryId><rank>150</rank></territory>
+      <territory><territoryId>TH</territoryId><rank>100</rank></territory>
+      <territory><territoryId>VN</territoryId><rank>50</rank></territory>
+    </territories>
+    <keyboards>
+      <keyboard><keyboardId>us</keyboardId><rank>1000</rank></keyboard>
+    </keyboards>
+    <inputmethods>
+    </inputmethods>
+    <consolefonts>
+      <consolefont><consolefontId>eurlatgr</consolefontId><rank>1000</rank></consolefont>
+    </consolefonts>
+    <timezones>
+      <timezone><timezoneId>Asia/Shanghai</timezoneId><rank>400</rank></timezone>
+      <timezone><timezoneId>Asia/Rangoon</timezoneId><rank>300</rank></timezone>
+      <timezone><timezoneId>Asia/Vientiane</timezoneId><rank>150</rank></timezone>
+      <timezone><timezoneId>Asia/Bangkok</timezoneId><rank>100</rank></timezone>
+      <timezone><timezoneId>Asia/Ho_Chi_Minh</timezoneId><rank>50</rank></timezone>
+    </timezones>
+  </language>
+  <language>
     <languageId>kk</languageId>
     <iso639-1>kk</iso639-1>
     <iso639-2-t>kaz</iso639-2-t>
