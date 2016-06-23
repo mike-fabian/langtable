@@ -2747,8 +2747,8 @@
       <name><languageId>zu</languageId><trName>i-Bosnia ne-Herzegovina</trName></name>
     </names>
     <scripts>
-      <script><scriptId>Latn</scriptId><rank>1000</rank></script>
-      <script><scriptId>Cyrl</scriptId><rank>1000</rank></script>
+      <script><scriptId>Latn</scriptId><rank>900</rank></script>
+      <script><scriptId>Cyrl</scriptId><rank>100</rank></script>
     </scripts>
     <locales>
       <locale><localeId>bs_BA.UTF-8</localeId><rank>1000</rank></locale>
@@ -9758,8 +9758,7 @@
       <name><languageId>zu</languageId><trName>i-Indonesia</trName></name>
     </names>
     <scripts>
-      <script><scriptId>Latn</scriptId><rank>900</rank></script>
-      <script><scriptId>Latn</scriptId><rank>10</rank></script>
+      <script><scriptId>Latn</scriptId><rank>1000</rank></script>
     </scripts>
     <locales>
       <locale><localeId>id_ID.UTF-8</localeId><rank>1000</rank></locale>
