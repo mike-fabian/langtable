@@ -1176,6 +1176,12 @@ def dummy():
     >>> print(territory_name(territoryId="RS", languageIdQuery="sr_Cyrl_RS", scriptIdQuery="Latn", territoryIdQuery="CH")) # doctest: +NORMALIZE_WHITESPACE
         Србија
 
+    >>> print(territory_name(territoryId="CY", languageIdQuery="tr")) # doctest: +NORMALIZE_WHITESPACE
+        Kıbrıs
+
+    >>> print(territory_name(territoryId="CY", languageIdQuery="tr_CY")) # doctest: +NORMALIZE_WHITESPACE
+        Kıbrıs
+
     ######################################################################
     # testing locale pattern regexp:
     #  valid patterns:
