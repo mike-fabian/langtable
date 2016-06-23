@@ -19314,12 +19314,12 @@
     </names>
     <scripts>
       <script><scriptId>Deva</scriptId><rank>900</rank></script>
+      <script><scriptId>Bhks</scriptId><rank>10</rank></script>
       <script><scriptId>Gran</scriptId><rank>10</rank></script>
+      <script><scriptId>Newa</scriptId><rank>10</rank></script>
       <script><scriptId>Shrd</scriptId><rank>10</rank></script>
       <script><scriptId>Sidd</scriptId><rank>10</rank></script>
       <script><scriptId>Sinh</scriptId><rank>10</rank></script>
-      <script><scriptId>Newa</scriptId><rank>10</rank></script>
-      <script><scriptId>Bhks</scriptId><rank>10</rank></script>
     </scripts>
     <locales>
       <locale><localeId>sa_IN.UTF-8</localeId><rank>1000</rank></locale>
