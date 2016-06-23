@@ -6353,7 +6353,8 @@
       <name><languageId>zh_Hant</languageId><trName>富拉文</trName></name>
     </names>
     <scripts>
-      <script><scriptId>Latn</scriptId><rank>1000</rank></script>
+      <script><scriptId>Latn</scriptId><rank>900</rank></script>
+      <script><scriptId>Adlm</scriptId><rank>100</rank></script>
     </scripts>
     <locales>
       <locale><localeId>ff_SN.UTF-8</localeId><rank>1000</rank></locale>
