@@ -16118,6 +16118,36 @@
     </timezones>
   </language>
   <language>
+    <languageId>new</languageId>
+    <iso639-1>None</iso639-1>
+    <iso639-2-t>new</iso639-2-t>
+    <iso639-2-b>new</iso639-2-b>
+    <names>
+      <name><languageId>en</languageId><trName>Newar</trName></name>
+      <name><languageId>new</languageId><trName>नेपाल भाषा</trName></name>
+    </names>
+    <scripts>
+      <script><scriptId>Deva</scriptId><rank>900</rank></script>
+      <script><scriptId>Newa</scriptId><rank>100</rank></script>
+    </scripts>
+    <locales>
+    </locales>
+    <territories>
+      <territory><territoryId>NP</territoryId><rank>1000</rank></territory>
+    </territories>
+    <keyboards>
+      <keyboard><keyboardId>in(eng)</keyboardId><rank>1000</rank></keyboard>
+    </keyboards>
+    <inputmethods>
+    </inputmethods>
+    <consolefonts>
+      <consolefont><consolefontId>eurlatgr</consolefontId><rank>1000</rank></consolefont>
+    </consolefonts>
+    <timezones>
+      <timezone><timezoneId>Asia/Kathmandu</timezoneId><rank>1000</rank></timezone>
+    </timezones>
+  </language>
+  <language>
     <languageId>nhn</languageId>
     <iso639-1>None</iso639-1>
     <iso639-2-t>None</iso639-2-t>
@@ -19153,6 +19183,7 @@
       <script><scriptId>Shrd</scriptId><rank>10</rank></script>
       <script><scriptId>Sidd</scriptId><rank>10</rank></script>
       <script><scriptId>Sinh</scriptId><rank>10</rank></script>
+      <script><scriptId>Newa</scriptId><rank>10</rank></script>
     </scripts>
     <locales>
       <locale><localeId>sa_IN.UTF-8</localeId><rank>1000</rank></locale>
