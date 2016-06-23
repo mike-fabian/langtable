@@ -1,3 +1,11 @@
+2016-06-23  Mike FABIAN  <mfabian@redhat.com>
+
+	* Version 0.0.35 released
+	* Add some translations from CLDR
+	* Translation fix for Cyprus in Turkish (Resolves: rhbz#1349245)
+	* Fix script entries for ID and BA
+	* Add khb, osa, new, xzh and Bhks and Marc scripts
+
 2015-07-01  Mike FABIAN  <mfabian@redhat.com>
 
 	* Version 0.0.34 released

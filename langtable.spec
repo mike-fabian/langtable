@@ -5,7 +5,7 @@
 %endif
 
 Name:           langtable
-Version:        0.0.34
+Version:        0.0.35
 Release:        1%{?dist}
 Summary:        Guessing reasonable defaults for locale, keyboard layout, territory, and language.
 Group:          Development/Tools
@@ -118,6 +118,12 @@ xmllint --noout --relaxng $RPM_BUILD_ROOT/%{_datadir}/langtable/schemas/timezone
 %{_datadir}/langtable/*.xml.gz
 
 %changelog
+* Wed Jun 23 2016 Mike FABIAN <mfabian@redhat.com> - 0.0.35-1
+- Add some translations from CLDR
+- Translation fix for Cyprus in Turkish (Resolves: rhbz#1349245)
+- Fix script entries for ID and BA
+- Add khb, osa, new, xzh and Bhks and Marc scripts
+
 * Thu Feb 04 2016 Fedora Release Engineering <releng@fedoraproject.org> - 0.0.34-4
 - Rebuilt for https://fedoraproject.org/wiki/Fedora_24_Mass_Rebuild
 
