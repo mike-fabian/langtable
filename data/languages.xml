@@ -16124,8 +16124,76 @@
     <iso639-2-t>new</iso639-2-t>
     <iso639-2-b>new</iso639-2-b>
     <names>
+      <name><languageId>ar</languageId><trName>النوارية</trName></name>
+      <name><languageId>ast</languageId><trName>newari</trName></name>
+      <name><languageId>az</languageId><trName>nevari</trName></name>
+      <name><languageId>bg</languageId><trName>неварски</trName></name>
+      <name><languageId>bn</languageId><trName>নেওয়ারি</trName></name>
+      <name><languageId>br</languageId><trName>newari</trName></name>
+      <name><languageId>brx</languageId><trName>नेवारी</trName></name>
+      <name><languageId>bs</languageId><trName>nevari</trName></name>
+      <name><languageId>ca</languageId><trName>newari</trName></name>
+      <name><languageId>cs</languageId><trName>névárština</trName></name>
+      <name><languageId>cy</languageId><trName>Newaeg</trName></name>
+      <name><languageId>da</languageId><trName>newari</trName></name>
+      <name><languageId>de</languageId><trName>Newari</trName></name>
+      <name><languageId>dz</languageId><trName>ནི་ཝ་རི</trName></name>
+      <name><languageId>el</languageId><trName>Νεγουάρι</trName></name>
       <name><languageId>en</languageId><trName>Newar</trName></name>
+      <name><languageId>es</languageId><trName>newari</trName></name>
+      <name><languageId>et</languageId><trName>nevari</trName></name>
+      <name><languageId>fa</languageId><trName>نواریایی</trName></name>
+      <name><languageId>fi</languageId><trName>newari</trName></name>
+      <name><languageId>fr</languageId><trName>newari</trName></name>
+      <name><languageId>fy</languageId><trName>Newari</trName></name>
+      <name><languageId>gd</languageId><trName>Newari</trName></name>
+      <name><languageId>gu</languageId><trName>નેવાડી</trName></name>
+      <name><languageId>he</languageId><trName>נווארי</trName></name>
+      <name><languageId>hi</languageId><trName>नेवाड़ी</trName></name>
+      <name><languageId>hr</languageId><trName>newari</trName></name>
+      <name><languageId>hu</languageId><trName>nevari</trName></name>
+      <name><languageId>id</languageId><trName>Newari</trName></name>
+      <name><languageId>is</languageId><trName>nevarí</trName></name>
+      <name><languageId>it</languageId><trName>newari</trName></name>
+      <name><languageId>ja</languageId><trName>ネワール語</trName></name>
+      <name><languageId>ka</languageId><trName>ნევარი</trName></name>
+      <name><languageId>kn</languageId><trName>ನೇವಾರೀ</trName></name>
+      <name><languageId>ko</languageId><trName>네와르어</trName></name>
+      <name><languageId>ks</languageId><trName>نیٚواری</trName></name>
+      <name><languageId>lb</languageId><trName>Newari</trName></name>
+      <name><languageId>lo</languageId><trName>ນີວາຣິ</trName></name>
+      <name><languageId>lt</languageId><trName>nevari</trName></name>
+      <name><languageId>lv</languageId><trName>nevaru</trName></name>
+      <name><languageId>mk</languageId><trName>неварски</trName></name>
+      <name><languageId>ml</languageId><trName>നേവാരി</trName></name>
+      <name><languageId>mr</languageId><trName>नेवारी</trName></name>
+      <name><languageId>mt</languageId><trName>Newari</trName></name>
+      <name><languageId>nb</languageId><trName>newari</trName></name>
+      <name><languageId>ne</languageId><trName>नेवारी</trName></name>
       <name><languageId>new</languageId><trName>नेपाल भाषा</trName></name>
+      <name><languageId>nl</languageId><trName>Newari</trName></name>
+      <name><languageId>nn</languageId><trName>newari</trName></name>
+      <name><languageId>or</languageId><trName>ନେୱାରୀ</trName></name>
+      <name><languageId>pl</languageId><trName>newarski</trName></name>
+      <name><languageId>pt</languageId><trName>newari</trName></name>
+      <name><languageId>ro</languageId><trName>newari</trName></name>
+      <name><languageId>ru</languageId><trName>неварский</trName></name>
+      <name><languageId>sk</languageId><trName>nevárčina</trName></name>
+      <name><languageId>sl</languageId><trName>nevarščina</trName></name>
+      <name><languageId>sr</languageId><trName>Невари</trName></name>
+      <name><languageId>sr_Latn</languageId><trName>Nevari</trName></name>
+      <name><languageId>sv</languageId><trName>newariska</trName></name>
+      <name><languageId>sw</languageId><trName>Kinewari</trName></name>
+      <name><languageId>ta</languageId><trName>நெவாரி</trName></name>
+      <name><languageId>te</languageId><trName>నెవారి</trName></name>
+      <name><languageId>th</languageId><trName>เนวาร์</trName></name>
+      <name><languageId>tr</languageId><trName>Nevari</trName></name>
+      <name><languageId>ug</languageId><trName>نېۋارىچە</trName></name>
+      <name><languageId>uk</languageId><trName>неварі</trName></name>
+      <name><languageId>vi</languageId><trName>Tiếng Newari</trName></name>
+      <name><languageId>yue</languageId><trName>尼瓦爾文</trName></name>
+      <name><languageId>zh</languageId><trName>尼瓦尔文</trName></name>
+      <name><languageId>zh_Hant</languageId><trName>尼瓦爾文</trName></name>
     </names>
     <scripts>
       <script><scriptId>Deva</scriptId><rank>900</rank></script>
@@ -17553,8 +17621,74 @@
     <iso639-2-t>osa</iso639-2-t>
     <iso639-2-b>osa</iso639-2-b>
     <names>
+      <name><languageId>ar</languageId><trName>الأوساج</trName></name>
+      <name><languageId>ast</languageId><trName>Osage</trName></name>
+      <name><languageId>az</languageId><trName>osage</trName></name>
+      <name><languageId>bg</languageId><trName>оседжи</trName></name>
+      <name><languageId>bn</languageId><trName>ওসেজ</trName></name>
+      <name><languageId>br</languageId><trName>osage</trName></name>
+      <name><languageId>brx</languageId><trName>ओसेज</trName></name>
+      <name><languageId>bs</languageId><trName>osage</trName></name>
+      <name><languageId>ca</languageId><trName>osage</trName></name>
+      <name><languageId>cs</languageId><trName>osage</trName></name>
+      <name><languageId>cy</languageId><trName>Osageg</trName></name>
+      <name><languageId>da</languageId><trName>osage</trName></name>
+      <name><languageId>de</languageId><trName>Osage-Sprache</trName></name>
+      <name><languageId>el</languageId><trName>Οσάζ</trName></name>
       <name><languageId>en</languageId><trName>Osage</trName></name>
+      <name><languageId>es</languageId><trName>osage</trName></name>
+      <name><languageId>et</languageId><trName>oseidži</trName></name>
+      <name><languageId>fa</languageId><trName>اوسیجی</trName></name>
+      <name><languageId>fi</languageId><trName>osage</trName></name>
+      <name><languageId>fr</languageId><trName>osage</trName></name>
+      <name><languageId>fy</languageId><trName>Osage</trName></name>
+      <name><languageId>gd</languageId><trName>Osage</trName></name>
+      <name><languageId>gu</languageId><trName>ઓસેજ</trName></name>
+      <name><languageId>he</languageId><trName>אוסג׳ה</trName></name>
+      <name><languageId>hi</languageId><trName>ओसेज</trName></name>
+      <name><languageId>hr</languageId><trName>osage</trName></name>
+      <name><languageId>hu</languageId><trName>osage</trName></name>
+      <name><languageId>hy</languageId><trName>օսեյջի</trName></name>
+      <name><languageId>id</languageId><trName>Osage</trName></name>
+      <name><languageId>is</languageId><trName>ósage</trName></name>
+      <name><languageId>it</languageId><trName>osage</trName></name>
+      <name><languageId>ja</languageId><trName>オセージ語</trName></name>
+      <name><languageId>kn</languageId><trName>ಓಸಾಜ್</trName></name>
+      <name><languageId>ko</languageId><trName>오세이지어</trName></name>
+      <name><languageId>ks</languageId><trName>اوٚسیج</trName></name>
+      <name><languageId>lb</languageId><trName>Osage-Sprooch</trName></name>
+      <name><languageId>lo</languageId><trName>ໂອແຊກ</trName></name>
+      <name><languageId>lt</languageId><trName>osage</trName></name>
+      <name><languageId>lv</languageId><trName>važāžu</trName></name>
+      <name><languageId>mk</languageId><trName>осашки</trName></name>
+      <name><languageId>ml</languageId><trName>ഒസേജ്</trName></name>
+      <name><languageId>mr</languageId><trName>ओसेज</trName></name>
+      <name><languageId>mt</languageId><trName>Osaġjan</trName></name>
+      <name><languageId>nb</languageId><trName>osage</trName></name>
+      <name><languageId>ne</languageId><trName>ओसागे</trName></name>
+      <name><languageId>nl</languageId><trName>Osage</trName></name>
+      <name><languageId>nn</languageId><trName>osage</trName></name>
+      <name><languageId>or</languageId><trName>ୱୌସେଜ୍</trName></name>
       <name><languageId>osa</languageId><trName>𐓏𐓘𐓻𐓘𐓻𐓟 𐒻𐓟</trName></name>
+      <name><languageId>pl</languageId><trName>osage</trName></name>
+      <name><languageId>pt</languageId><trName>osage</trName></name>
+      <name><languageId>ro</languageId><trName>osage</trName></name>
+      <name><languageId>ru</languageId><trName>оседжи</trName></name>
+      <name><languageId>sk</languageId><trName>osagčina</trName></name>
+      <name><languageId>sl</languageId><trName>osage</trName></name>
+      <name><languageId>sr</languageId><trName>Осаге</trName></name>
+      <name><languageId>sr_Latn</languageId><trName>Osage</trName></name>
+      <name><languageId>sv</languageId><trName>osage</trName></name>
+      <name><languageId>ta</languageId><trName>ஓசேஜ்</trName></name>
+      <name><languageId>te</languageId><trName>ఒసాజ్</trName></name>
+      <name><languageId>th</languageId><trName>โอซากี</trName></name>
+      <name><languageId>tr</languageId><trName>Osage</trName></name>
+      <name><languageId>ug</languageId><trName>ئوساگېلارچە</trName></name>
+      <name><languageId>uk</languageId><trName>осейдж</trName></name>
+      <name><languageId>vi</languageId><trName>Tiếng Osage</trName></name>
+      <name><languageId>yue</languageId><trName>歐塞奇文</trName></name>
+      <name><languageId>zh</languageId><trName>奥萨格文</trName></name>
+      <name><languageId>zh_Hant</languageId><trName>歐塞奇文</trName></name>
     </names>
     <scripts>
       <script><scriptId>Latn</scriptId><rank>600</rank></script>
