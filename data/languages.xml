@@ -25337,6 +25337,34 @@
     </timezones>
   </language>
   <language>
+    <languageId>xzh</languageId>
+    <iso639-1>None</iso639-1>
+    <iso639-2-t>None</iso639-2-t>
+    <iso639-2-b>None</iso639-2-b>
+    <names>
+      <name><languageId>en</languageId><trName>Zhang-Zhung</trName></name>
+    </names>
+    <scripts>
+      <script><scriptId>Marc</scriptId><rank>1000</rank></script>
+    </scripts>
+    <locales>
+    </locales>
+    <territories>
+      <territory><territoryId>CN</territoryId><rank>1000</rank></territory>
+    </territories>
+    <keyboards>
+      <keyboard><keyboardId>us</keyboardId><rank>1000</rank></keyboard>
+    </keyboards>
+    <inputmethods>
+    </inputmethods>
+    <consolefonts>
+      <consolefont><consolefontId>eurlatgr</consolefontId><rank>1000</rank></consolefont>
+    </consolefonts>
+    <timezones>
+      <timezone><timezoneId>Asia/Shanghai</timezoneId><rank>1</rank></timezone>
+    </timezones>
+  </language>
+  <language>
     <languageId>yi</languageId>
     <iso639-1>yi</iso639-1>
     <iso639-2-t>yid</iso639-2-t>
