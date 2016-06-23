@@ -17517,6 +17517,36 @@
     </timezones>
   </language>
   <language>
+    <languageId>osa</languageId>
+    <iso639-1>None</iso639-1>
+    <iso639-2-t>osa</iso639-2-t>
+    <iso639-2-b>osa</iso639-2-b>
+    <names>
+      <name><languageId>en</languageId><trName>Osage</trName></name>
+      <name><languageId>osa</languageId><trName>𐓏𐓘𐓻𐓘𐓻𐓟 𐒻𐓟</trName></name>
+    </names>
+    <scripts>
+      <script><scriptId>Latn</scriptId><rank>600</rank></script>
+      <script><scriptId>Osge</scriptId><rank>400</rank></script>
+    </scripts>
+    <locales>
+    </locales>
+    <territories>
+      <territory><territoryId>US</territoryId><rank>1000</rank></territory>
+    </territories>
+    <keyboards>
+      <keyboard><keyboardId>us</keyboardId><rank>1000</rank></keyboard>
+    </keyboards>
+    <inputmethods>
+    </inputmethods>
+    <consolefonts>
+      <consolefont><consolefontId>eurlatgr</consolefontId><rank>1000</rank></consolefont>
+    </consolefonts>
+    <timezones>
+      <timezone><timezoneId>America/Chicago</timezoneId><rank>1000</rank></timezone>
+    </timezones>
+  </language>
+  <language>
     <languageId>pa</languageId>
     <iso639-1>pa</iso639-1>
     <iso639-2-t>pan</iso639-2-t>
