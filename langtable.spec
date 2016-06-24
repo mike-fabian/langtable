@@ -66,30 +66,20 @@ This package contains the data files for langtable.
 %prep
 %setup -q
 
-%if 0%{?with_python3}
-rm -rf %{py3dir}
-cp -a . %{py3dir}
-%endif # with_python3
-
 %build
 perl -pi -e "s,_datadir = '(.*)',_datadir = '%{_datadir}/langtable'," langtable.py
-%{__python} setup.py build
+%py2_build
 
 %if 0%{?with_python3}
-pushd %{py3dir}
-perl -pi -e "s,_datadir = '(.*)',_datadir = '%{_datadir}/langtable'," langtable.py
-%{__python3} setup.py build
-popd
+%py3_build
 %endif # with_python3
 
 %install
-%{__python} setup.py install --skip-build --prefix=%{_prefix} --install-data=%{_datadir}/langtable --root $RPM_BUILD_ROOT
+%py2_install -- --install-data=%{_datadir}/langtable
 gzip --force --best $RPM_BUILD_ROOT/%{_datadir}/langtable/*.xml
 
 %if 0%{?with_python3}
-pushd %{py3dir}
-%{__python3} setup.py install --skip-build --prefix=%{_prefix} --install-data=%{_datadir}/langtable --root $RPM_BUILD_ROOT
-popd
+%py3_install -- --install-data=%{_datadir}/langtable
 # the .xml files copied by the “python3 setup.py install” are identical
 # to those copied in the “python2 setup.py install”,
 # it does not hurt to gzip them again:
@@ -97,7 +87,7 @@ gzip --force --best $RPM_BUILD_ROOT/%{_datadir}/langtable/*.xml
 %endif # with_python3
 
 %check
-(cd $RPM_BUILD_DIR/%{name}-%{version}/data; PYTHONPATH=.. %{__python} ../test_cases.py; %{__python} ../langtable.py)
+(cd $RPM_BUILD_DIR/%{name}-%{version}/data; PYTHONPATH=.. %{__python2} ../test_cases.py; %{__python2} ../langtable.py)
 %if 0%{?with_python3}
 (cd $RPM_BUILD_DIR/%{name}-%{version}/data; LC_CTYPE=en_US.UTF-8 PYTHONPATH=.. %{__python3} ../test_cases.py; %{__python3} ../langtable.py)
 %endif # with_python3
@@ -108,7 +98,8 @@ xmllint --noout --relaxng $RPM_BUILD_ROOT/%{_datadir}/langtable/schemas/timezone
 xmllint --noout --relaxng $RPM_BUILD_ROOT/%{_datadir}/langtable/schemas/timezones.rng $RPM_BUILD_ROOT/%{_datadir}/langtable/timezones.xml.gz
 
 %files
-%doc README COPYING ChangeLog unicode-license.txt test_cases.py
+%license COPYING unicode-license.txt
+%doc README ChangeLog test_cases.py
 %dir %{_datadir}/langtable/
 %{_datadir}/langtable/schemas
 
@@ -117,7 +108,9 @@ xmllint --noout --relaxng $RPM_BUILD_ROOT/%{_datadir}/langtable/schemas/timezone
 
 %if 0%{?with_python3}
 %files python3
-%{python3_sitelib}/*
+%{python3_sitelib}/langtable.py
+%{python3_sitelib}/langtable-*.egg-info
+%{python3_sitelib}/__pycache__/*
 %endif # with_python3
 
 %files data
@@ -125,10 +118,23 @@ xmllint --noout --relaxng $RPM_BUILD_ROOT/%{_datadir}/langtable/schemas/timezone
 %{_datadir}/langtable/*.xml.gz
 
 %changelog
+* Thu Feb 04 2016 Fedora Release Engineering <releng@fedoraproject.org> - 0.0.34-4
+- Rebuilt for https://fedoraproject.org/wiki/Fedora_24_Mass_Rebuild
+
+* Wed Feb 3 2016 Orion Poplawski <orion@cora.nwra.com> - 0.0.34-3
+- Modernize spec
+- Fix python3 package file ownership
+
+* Tue Nov 03 2015 Robert Kuska <rkuska@redhat.com> - 0.0.34-2
+- Rebuilt for Python3.5 rebuild
+
 * Wed Jul 01 2015 Mike FABIAN <mfabian@redhat.com> - 0.0.34-1
 - Add a function list_scripts() to list scripts used for a language or in a territory
 - Translation fix from CLDR
 - Add Sphinx markup to public functions
+
+* Wed Jun 17 2015 Fedora Release Engineering <rel-eng@lists.fedoraproject.org> - 0.0.33-2
+- Rebuilt for https://fedoraproject.org/wiki/Fedora_23_Mass_Rebuild
 
 * Wed May 13 2015 Mike FABIAN <mfabian@redhat.com> - 0.0.33-1
 - Translation fix for Tagalog <-> Filipino
