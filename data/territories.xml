@@ -12293,8 +12293,117 @@
   <territory>
     <territoryId>LI</territoryId>
     <names>
+      <name><languageId>af</languageId><trName>Liechtenstein</trName></name>
+      <name><languageId>ak</languageId><trName>Lektenstaen</trName></name>
+      <name><languageId>am</languageId><trName>ሊችተንስታይን</trName></name>
+      <name><languageId>ar</languageId><trName>ليختنشتاين</trName></name>
+      <name><languageId>ast</languageId><trName>Liechtenstein</trName></name>
+      <name><languageId>az</languageId><trName>Lixtenşteyn</trName></name>
+      <name><languageId>be</languageId><trName>Ліхтэнштэйн</trName></name>
+      <name><languageId>bg</languageId><trName>Лихтенщайн</trName></name>
+      <name><languageId>bn</languageId><trName>লিচেনস্টেইন</trName></name>
+      <name><languageId>bo</languageId><trName>ལེག་ཏེན་ཚིན།</trName></name>
+      <name><languageId>br</languageId><trName>Liechtenstein</trName></name>
+      <name><languageId>brx</languageId><trName>लिक्टैनस्टाईन</trName></name>
+      <name><languageId>bs</languageId><trName>Lihtenštajn</trName></name>
+      <name><languageId>ca</languageId><trName>Liechtenstein</trName></name>
+      <name><languageId>ce</languageId><trName>Лихтенштейн</trName></name>
+      <name><languageId>cs</languageId><trName>Lichtenštejnsko</trName></name>
+      <name><languageId>cy</languageId><trName>Liechtenstein</trName></name>
+      <name><languageId>da</languageId><trName>Liechtenstein</trName></name>
       <name><languageId>de</languageId><trName>Liechtenstein</trName></name>
+      <name><languageId>dsb</languageId><trName>Liechtenstein</trName></name>
+      <name><languageId>dz</languageId><trName>ལིཀ་ཏནས་ཏ་ཡིན</trName></name>
+      <name><languageId>el</languageId><trName>Λιχτενστάιν</trName></name>
       <name><languageId>en</languageId><trName>Liechtenstein</trName></name>
+      <name><languageId>eo</languageId><trName>Liĥtenŝtejno</trName></name>
+      <name><languageId>es</languageId><trName>Liechtenstein</trName></name>
+      <name><languageId>et</languageId><trName>Liechtenstein</trName></name>
+      <name><languageId>eu</languageId><trName>Liechtenstein</trName></name>
+      <name><languageId>fa</languageId><trName>لیختن‌اشتاین</trName></name>
+      <name><languageId>ff</languageId><trName>Lincenstayn</trName></name>
+      <name><languageId>fi</languageId><trName>Liechtenstein</trName></name>
+      <name><languageId>fil</languageId><trName>Liechtenstein</trName></name>
+      <name><languageId>fo</languageId><trName>Liktinstein</trName></name>
+      <name><languageId>fr</languageId><trName>Liechtenstein</trName></name>
+      <name><languageId>fur</languageId><trName>Liechtenstein</trName></name>
+      <name><languageId>fy</languageId><trName>Liechtenstein</trName></name>
+      <name><languageId>ga</languageId><trName>Lichtinstéin</trName></name>
+      <name><languageId>gd</languageId><trName>Lichtenstein</trName></name>
+      <name><languageId>gl</languageId><trName>Liechtenstein</trName></name>
+      <name><languageId>gu</languageId><trName>લૈચટેંસ્ટેઇન</trName></name>
+      <name><languageId>ha</languageId><trName>Licansitan</trName></name>
+      <name><languageId>he</languageId><trName>ליכטנשטיין</trName></name>
+      <name><languageId>hi</languageId><trName>लिचेंस्टीन</trName></name>
+      <name><languageId>hr</languageId><trName>Lihtenštajn</trName></name>
+      <name><languageId>hsb</languageId><trName>Liechtenstein</trName></name>
+      <name><languageId>hu</languageId><trName>Liechtenstein</trName></name>
+      <name><languageId>hy</languageId><trName>Լիխտենշտեյն</trName></name>
+      <name><languageId>id</languageId><trName>Liechtenstein</trName></name>
+      <name><languageId>is</languageId><trName>Liechtenstein</trName></name>
+      <name><languageId>it</languageId><trName>Liechtenstein</trName></name>
+      <name><languageId>ja</languageId><trName>リヒテンシュタイン</trName></name>
+      <name><languageId>ka</languageId><trName>ლიხტენშტაინი</trName></name>
+      <name><languageId>kk</languageId><trName>Лихтенштейн</trName></name>
+      <name><languageId>kl</languageId><trName>Liechtensteini</trName></name>
+      <name><languageId>km</languageId><trName>លិចទេនស្តែន</trName></name>
+      <name><languageId>kn</languageId><trName>ಲಿಚೆನ್‌ಸ್ಟೈನ್</trName></name>
+      <name><languageId>ko</languageId><trName>리히텐슈타인</trName></name>
+      <name><languageId>ks</languageId><trName>لِکٹیٛسٹیٖن</trName></name>
+      <name><languageId>ky</languageId><trName>Лихтенштейн</trName></name>
+      <name><languageId>lb</languageId><trName>Liechtenstein</trName></name>
+      <name><languageId>lg</languageId><trName>Licitensitayini</trName></name>
+      <name><languageId>ln</languageId><trName>Lishɛteni</trName></name>
+      <name><languageId>lo</languageId><trName>ລິດເທນສະຕາຍ</trName></name>
+      <name><languageId>lt</languageId><trName>Lichtenšteinas</trName></name>
+      <name><languageId>lv</languageId><trName>Lihtenšteina</trName></name>
+      <name><languageId>mg</languageId><trName>Listenstein</trName></name>
+      <name><languageId>mk</languageId><trName>Лихтенштајн</trName></name>
+      <name><languageId>ml</languageId><trName>ലിച്ചൺസ്റ്റൈൻ</trName></name>
+      <name><languageId>mn</languageId><trName>Лихтенштейн</trName></name>
+      <name><languageId>mr</languageId><trName>लिक्टेनस्टाइन</trName></name>
+      <name><languageId>ms</languageId><trName>Liechtenstein</trName></name>
+      <name><languageId>mt</languageId><trName>Liechtenstein</trName></name>
+      <name><languageId>my</languageId><trName>လစ်ခ်ထင်စတိုင်</trName></name>
+      <name><languageId>nb</languageId><trName>Liechtenstein</trName></name>
+      <name><languageId>ne</languageId><trName>लिएखटेन्स्टाइन</trName></name>
+      <name><languageId>nl</languageId><trName>Liechtenstein</trName></name>
+      <name><languageId>nn</languageId><trName>Liechtenstein</trName></name>
+      <name><languageId>or</languageId><trName>ଲିଚେସ୍ତିଆନାନ୍</trName></name>
+      <name><languageId>pa</languageId><trName>ਲਿਚੇਂਸਟਾਇਨ</trName></name>
+      <name><languageId>pl</languageId><trName>Liechtenstein</trName></name>
+      <name><languageId>pt</languageId><trName>Liechtenstein</trName></name>
+      <name><languageId>qu</languageId><trName>Liechtenstein</trName></name>
+      <name><languageId>ro</languageId><trName>Liechtenstein</trName></name>
+      <name><languageId>ru</languageId><trName>Лихтенштейн</trName></name>
+      <name><languageId>se</languageId><trName>Liechtenstein</trName></name>
+      <name><languageId>si</languageId><trName>ලික්ටන්ස්ටයින්</trName></name>
+      <name><languageId>sk</languageId><trName>Lichtenštajnsko</trName></name>
+      <name><languageId>sl</languageId><trName>Lihtenštajn</trName></name>
+      <name><languageId>so</languageId><trName>Liechtenstein</trName></name>
+      <name><languageId>sq</languageId><trName>Lihtënshtajn</trName></name>
+      <name><languageId>sr</languageId><trName>Лихтенштајн</trName></name>
+      <name><languageId>sr_Latn</languageId><trName>Lihtenštajn</trName></name>
+      <name><languageId>sv</languageId><trName>Liechtenstein</trName></name>
+      <name><languageId>sw</languageId><trName>Liechtenstein</trName></name>
+      <name><languageId>ta</languageId><trName>லிச்செண்ஸ்டெய்ன்</trName></name>
+      <name><languageId>te</languageId><trName>లిక్టెస్టేన్</trName></name>
+      <name><languageId>th</languageId><trName>ลิกเตนสไตน์</trName></name>
+      <name><languageId>ti</languageId><trName>ሊችተንስታይን</trName></name>
+      <name><languageId>tr</languageId><trName>Liechtenstein</trName></name>
+      <name><languageId>ug</languageId><trName>لىچتېنشتېين بەگلىكى</trName></name>
+      <name><languageId>uk</languageId><trName>Ліхтенштейн</trName></name>
+      <name><languageId>ur</languageId><trName>لیشٹنسٹائن</trName></name>
+      <name><languageId>uz</languageId><trName>Lixtenshteyn</trName></name>
+      <name><languageId>vi</languageId><trName>Liechtenstein</trName></name>
+      <name><languageId>wae</languageId><trName>Liečteštei</trName></name>
+      <name><languageId>yi</languageId><trName>ליכטנשטיין</trName></name>
+      <name><languageId>yo</languageId><trName>Orílẹ́ède Lẹṣitẹnisiteni</trName></name>
+      <name><languageId>yue</languageId><trName>列支敦斯登</trName></name>
+      <name><languageId>zh</languageId><trName>列支敦士登</trName></name>
+      <name><languageId>zh_Hant</languageId><trName>列支敦斯登</trName></name>
+      <name><languageId>zh_Hant_HK</languageId><trName>列支敦士登</trName></name>
+      <name><languageId>zu</languageId><trName>i-Liechtenstein</trName></name>
     </names>
     <scripts>
       <script><scriptId>Latn</scriptId><rank>1000</rank></script>
