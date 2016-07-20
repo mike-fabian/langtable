@@ -12291,6 +12291,33 @@
     </timezones>
   </territory>
   <territory>
+    <territoryId>LI</territoryId>
+    <names>
+      <name><languageId>de</languageId><trName>Liechtenstein</trName></name>
+      <name><languageId>en</languageId><trName>Liechtenstein</trName></name>
+    </names>
+    <scripts>
+      <script><scriptId>Latn</scriptId><rank>1000</rank></script>
+    </scripts>
+    <locales>
+      <locale><localeId>de_LI.UTF-8</localeId><rank>1000</rank></locale>
+    </locales>
+    <languages>
+      <language><languageId>de</languageId><rank>1000</rank></language>
+    </languages>
+    <keyboards>
+      <keyboard><keyboardId>ch</keyboardId><rank>1000</rank></keyboard>
+    </keyboards>
+    <inputmethods>
+    </inputmethods>
+    <consolefonts>
+      <consolefont><consolefontId>eurlatgr</consolefontId><rank>1000</rank></consolefont>
+    </consolefonts>
+    <timezones>
+      <timezone><timezoneId>Europe/Vaduz</timezoneId><rank>1000</rank></timezone>
+    </timezones>
+  </territory>
+  <territory>
     <territoryId>LK</territoryId>
     <names>
       <name><languageId>af</languageId><trName>Sri Lanka</trName></name>

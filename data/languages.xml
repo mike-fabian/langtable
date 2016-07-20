@@ -4508,6 +4508,7 @@
       <locale><localeId>de_DE.UTF-8</localeId><rank>600</rank></locale>
       <locale><localeId>de_AT.UTF-8</localeId><rank>200</rank></locale>
       <locale><localeId>de_CH.UTF-8</localeId><rank>90</rank></locale>
+      <locale><localeId>de_LI.UTF-8</localeId><rank>11</rank></locale>
       <locale><localeId>de_BE.UTF-8</localeId><rank>10</rank></locale>
       <locale><localeId>de_LU.UTF-8</localeId><rank>8</rank></locale>
     </locales>
