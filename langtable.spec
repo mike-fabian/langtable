@@ -5,7 +5,7 @@
 %endif
 
 Name:           langtable
-Version:        0.0.35
+Version:        0.0.36
 Release:        1%{?dist}
 Summary:        Guessing reasonable defaults for locale, keyboard layout, territory, and language.
 Group:          Development/Tools
@@ -118,6 +118,10 @@ xmllint --noout --relaxng $RPM_BUILD_ROOT/%{_datadir}/langtable/schemas/timezone
 %{_datadir}/langtable/*.xml.gz
 
 %changelog
+* Wed Jul 20 2016 Mike FABIAN <mfabian@redhat.com> - 0.0.36-1
+- Add LI (a de_LI locale has recently been added to glibc)
+- Add some translations for LI from CLDR
+
 * Tue Jul 19 2016 Fedora Release Engineering <rel-eng@lists.fedoraproject.org> - 0.0.35-2
 - https://fedoraproject.org/wiki/Changes/Automatic_Provides_for_Python_RPM_Packages
 

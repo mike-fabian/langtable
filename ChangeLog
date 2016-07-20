@@ -1,3 +1,9 @@
+2016-07-20  Mike FABIAN  <mfabian@redhat.com>
+
+	* Version 0.0.36 released
+	* Add LI (a de_LI locale has recently been added to glibc)
+	* Add some translations for LI from CLDR
+
 2016-06-23  Mike FABIAN  <mfabian@redhat.com>
 
 	* Version 0.0.35 released
