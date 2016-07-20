@@ -118,7 +118,10 @@ xmllint --noout --relaxng $RPM_BUILD_ROOT/%{_datadir}/langtable/schemas/timezone
 %{_datadir}/langtable/*.xml.gz
 
 %changelog
-* Wed Jun 23 2016 Mike FABIAN <mfabian@redhat.com> - 0.0.35-1
+* Tue Jul 19 2016 Fedora Release Engineering <rel-eng@lists.fedoraproject.org> - 0.0.35-2
+- https://fedoraproject.org/wiki/Changes/Automatic_Provides_for_Python_RPM_Packages
+
+* Fri Jun 24 2016 Mike FABIAN <mfabian@redhat.com> - 0.0.35-1
 - Add some translations from CLDR
 - Translation fix for Cyprus in Turkish (Resolves: rhbz#1349245)
 - Fix script entries for ID and BA
