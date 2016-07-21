@@ -6,7 +6,7 @@
 
 Name:           langtable
 Version:        0.0.36
-Release:        1%{?dist}
+Release:        2%{?dist}
 Summary:        Guessing reasonable defaults for locale, keyboard layout, territory, and language.
 Group:          Development/Tools
 # the translations in languages.xml and territories.xml are (mostly)
@@ -17,6 +17,7 @@ License:        GPLv3+
 URL:            https://github.com/mike-fabian/langtable
 Source0:        http://mfabian.fedorapeople.org/langtable/%{name}-%{version}.tar.gz
 BuildArch:      noarch
+BuildRequires:  perl
 BuildRequires:  python2-devel
 %if 0%{?with_python3}
 BuildRequires:  python3-devel
@@ -118,6 +119,9 @@ xmllint --noout --relaxng $RPM_BUILD_ROOT/%{_datadir}/langtable/schemas/timezone
 %{_datadir}/langtable/*.xml.gz
 
 %changelog
+* Thu Jul 21 2016 Mike FABIAN <mfabian@redhat.com> - 0.0.36-2
+- add BuildRequires: perl
+
 * Wed Jul 20 2016 Mike FABIAN <mfabian@redhat.com> - 0.0.36-1
 - Add LI (a de_LI locale has recently been added to glibc)
 - Add some translations for LI from CLDR
