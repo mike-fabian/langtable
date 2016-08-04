@@ -9547,7 +9547,8 @@
       <name><languageId>zu</languageId><trName>isi-Hungarian</trName></name>
     </names>
     <scripts>
-      <script><scriptId>Latn</scriptId><rank>1000</rank></script>
+      <script><scriptId>Latn</scriptId><rank>990</rank></script>
+      <script><scriptId>Hung</scriptId><rank>10</rank></script>
     </scripts>
     <locales>
       <locale><localeId>hu_HU.UTF-8</localeId><rank>1000</rank></locale>
