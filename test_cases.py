@@ -1093,10 +1093,10 @@ def dummy():
         Belarusian (Belarus)
 
     >>> print(language_name(languageId="nds", territoryId="DE")) # doctest: +NORMALIZE_WHITESPACE
-        Plattdüütsch (Düütschland)
+        Neddersass’sch (Düütschland)
 
     >>> print(language_name(languageId="nds", territoryId="NL")) # doctest: +NORMALIZE_WHITESPACE
-        Plattdüütsch (Nedderlannen)
+        Neddersass’sch (Nedderlannen)
 
     >>> print(language_name(languageId="pa")) # doctest: +NORMALIZE_WHITESPACE
         ਪੰਜਾਬੀ
