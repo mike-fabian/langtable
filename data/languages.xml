@@ -3458,6 +3458,38 @@
     </timezones>
   </language>
   <language>
+    <languageId>chr</languageId>
+    <iso639-1>None</iso639-1>
+    <iso639-2-t>chr</iso639-2-t>
+    <iso639-2-b>chr</iso639-2-b>
+    <names>
+      <name><languageId>chr</languageId><trName>ᏣᎳᎩ ᎦᏬᏂᎯᏍᏗ</trName></name>
+      <name><languageId>de</languageId><trName>Cherokee</trName></name>
+      <name><languageId>en</languageId><trName>Cherokee</trName></name>
+    </names>
+    <scripts>
+      <script><scriptId>Cher</scriptId><rank>900</rank></script>
+      <script><scriptId>Latn</scriptId><rank>100</rank></script>
+    </scripts>
+    <locales>
+      <locale><localeId>chr_US.UTF-8</localeId><rank>1000</rank></locale>
+    </locales>
+    <territories>
+      <territory><territoryId>US</territoryId><rank>1000</rank></territory>
+    </territories>
+    <keyboards>
+      <keyboard><keyboardId>us</keyboardId><rank>1000</rank></keyboard>
+    </keyboards>
+    <inputmethods>
+    </inputmethods>
+    <consolefonts>
+      <consolefont><consolefontId>eurlatgr</consolefontId><rank>1000</rank></consolefont>
+    </consolefonts>
+    <timezones>
+      <timezone><timezoneId>America/Chicago</timezoneId><rank>1000</rank></timezone>
+    </timezones>
+  </language>
+  <language>
     <languageId>cmn</languageId>
     <iso639-1>None</iso639-1>
     <iso639-2-t>None</iso639-2-t>
