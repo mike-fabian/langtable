@@ -5,8 +5,8 @@
 %endif
 
 Name:           langtable
-Version:        0.0.36
-Release:        2%{?dist}
+Version:        0.0.37
+Release:        1%{?dist}
 Summary:        Guessing reasonable defaults for locale, keyboard layout, territory, and language.
 Group:          Development/Tools
 # the translations in languages.xml and territories.xml are (mostly)
@@ -119,6 +119,15 @@ xmllint --noout --relaxng $RPM_BUILD_ROOT/%{_datadir}/langtable/schemas/timezone
 %{_datadir}/langtable/*.xml.gz
 
 %changelog
+* Wed Feb 08 2017 Mike FABIAN <mfabian@redhat.com> - 0.0.37-1
+- Add some new translations from CLDR
+- Add sgs
+- Add chr
+- Add Hung script
+
+* Mon Dec 12 2016 Charalampos Stratakis <cstratak@redhat.com> - 0.0.36-3
+- Rebuild for Python 3.6
+
 * Thu Jul 21 2016 Mike FABIAN <mfabian@redhat.com> - 0.0.36-2
 - add BuildRequires: perl
 
