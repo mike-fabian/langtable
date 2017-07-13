@@ -2080,6 +2080,35 @@
     </timezones>
   </territory>
   <territory>
+    <territoryId>AS</territoryId>
+    <names>
+      <name><languageId>de</languageId><trName>Amerikanisch-Samoa</trName></name>
+      <name><languageId>en</languageId><trName>American Samoa</trName></name>
+    </names>
+    <scripts>
+      <script><scriptId>Latn</scriptId><rank>1000</rank></script>
+    </scripts>
+    <locales>
+      <locale><localeId>en_US.UTF-8</localeId><rank>900</rank></locale>
+      <locale><localeId>sm_WS.UTF-8</localeId><rank>100</rank></locale>
+    </locales>
+    <languages>
+      <language><languageId>en</languageId><rank>900</rank></language>
+      <language><languageId>sm</languageId><rank>100</rank></language>
+    </languages>
+    <keyboards>
+      <keyboard><keyboardId>us(euro)</keyboardId><rank>1000</rank></keyboard>
+    </keyboards>
+    <inputmethods>
+    </inputmethods>
+    <consolefonts>
+      <consolefont><consolefontId>eurlatgr</consolefontId><rank>1000</rank></consolefont>
+    </consolefonts>
+    <timezones>
+      <timezone><timezoneId>Pacific/Pago_Pago</timezoneId><rank>1000</rank></timezone>
+    </timezones>
+  </territory>
+  <territory>
     <territoryId>AT</territoryId>
     <names>
       <name><languageId>af</languageId><trName>Oostenryk</trName></name>
@@ -7900,6 +7929,7 @@
       <script><scriptId>Latn</scriptId><rank>1000</rank></script>
     </scripts>
     <locales>
+      <locale><localeId>hif_FJ.UTF-8</localeId><rank>1000</rank></locale>
     </locales>
     <languages>
       <language><languageId>en</languageId><rank>600</rank></language>
@@ -14441,6 +14471,36 @@
     </timezones>
   </territory>
   <territory>
+    <territoryId>MU</territoryId>
+    <names>
+      <name><languageId>de</languageId><trName>Mauritius</trName></name>
+      <name><languageId>en</languageId><trName>Mauritius</trName></name>
+    </names>
+    <scripts>
+      <script><scriptId>Latn</scriptId><rank>1000</rank></script>
+    </scripts>
+    <locales>
+      <locale><localeId>mfe_MU.UTF-8</localeId><rank>1000</rank></locale>
+    </locales>
+    <languages>
+      <language><languageId>mfe</languageId><rank>600</rank></language>
+      <language><languageId>en</languageId><rank>150</rank></language>
+      <language><languageId>fr</languageId><rank>100</rank></language>
+      <language><languageId>bho</languageId><rank>50</rank></language>
+    </languages>
+    <keyboards>
+      <keyboard><keyboardId>us(euro)</keyboardId><rank>900</rank></keyboard>
+    </keyboards>
+    <inputmethods>
+    </inputmethods>
+    <consolefonts>
+      <consolefont><consolefontId>eurlatgr</consolefontId><rank>1000</rank></consolefont>
+    </consolefonts>
+    <timezones>
+      <timezone><timezoneId>Indian/Mauritius</timezoneId><rank>1000</rank></timezone>
+    </timezones>
+  </territory>
+  <territory>
     <territoryId>MV</territoryId>
     <names>
       <name><languageId>af</languageId><trName>Maledive</trName></name>
@@ -16445,7 +16505,8 @@
     </scripts>
     <locales>
       <locale><localeId>es_PE.UTF-8</localeId><rank>999</rank></locale>
-      <locale><localeId>ayc_PE.UTF-8</localeId><rank>1</rank></locale>
+      <locale><localeId>ayc_PE.UTF-8</localeId><rank>2</rank></locale>
+      <locale><localeId>agr_PE.UTF-8</localeId><rank>1</rank></locale>
     </locales>
     <languages>
       <language><languageId>es</languageId><rank>1000</rank></language>
@@ -16589,10 +16650,13 @@
       <script><scriptId>Latn</scriptId><rank>1000</rank></script>
     </scripts>
     <locales>
+      <locale><localeId>tpi_PG.UTF-8</localeId><rank>900</rank></locale>
+      <locale><localeId>yuw_PG.UTF-8</localeId><rank>100</rank></locale>
     </locales>
     <languages>
       <language><languageId>tpi</languageId><rank>600</rank></language>
-      <language><languageId>en</languageId><rank>400</rank></language>
+      <language><languageId>en</languageId><rank>300</rank></language>
+      <language><languageId>yuw</languageId><rank>100</rank></language>
     </languages>
     <keyboards>
       <keyboard><keyboardId>us</keyboardId><rank>1000</rank></keyboard>
@@ -18342,6 +18406,35 @@
     </consolefonts>
     <timezones>
       <timezone><timezoneId>Asia/Riyadh</timezoneId><rank>1000</rank></timezone>
+    </timezones>
+  </territory>
+  <territory>
+    <territoryId>SC</territoryId>
+    <names>
+      <name><languageId>de</languageId><trName>Seychellen</trName></name>
+      <name><languageId>en</languageId><trName>Seychelles</trName></name>
+    </names>
+    <scripts>
+      <script><scriptId>Latn</scriptId><rank>1000</rank></script>
+    </scripts>
+    <locales>
+      <locale><localeId>en_SC.UTF-8</localeId><rank>1000</rank></locale>
+    </locales>
+    <languages>
+      <language><languageId>en</languageId><rank>600</rank></language>
+      <language><languageId>fr</languageId><rank>300</rank></language>
+      <language><languageId>crs</languageId><rank>100</rank></language>
+    </languages>
+    <keyboards>
+      <keyboard><keyboardId>en(euro)</keyboardId><rank>1000</rank></keyboard>
+    </keyboards>
+    <inputmethods>
+    </inputmethods>
+    <consolefonts>
+      <consolefont><consolefontId>eurlatgr</consolefontId><rank>1000</rank></consolefont>
+    </consolefonts>
+    <timezones>
+      <timezone><timezoneId>Indian/Mahe</timezoneId><rank>1000</rank></timezone>
     </timezones>
   </territory>
   <territory>
@@ -20471,6 +20564,35 @@
     </timezones>
   </territory>
   <territory>
+    <territoryId>TO</territoryId>
+    <names>
+      <name><languageId>de</languageId><trName>Tonga</trName></name>
+      <name><languageId>en</languageId><trName>Tonga</trName></name>
+      <name><languageId>to</languageId><trName>Tonga</trName></name>
+    </names>
+    <scripts>
+      <script><scriptId>Latn</scriptId><rank>1000</rank></script>
+    </scripts>
+    <locales>
+      <locale><localeId>to_TO.UTF-8</localeId><rank>1000</rank></locale>
+    </locales>
+    <languages>
+      <language><languageId>to</languageId><rank>900</rank></language>
+      <language><languageId>en</languageId><rank>100</rank></language>
+    </languages>
+    <keyboards>
+      <keyboard><keyboardId>us</keyboardId><rank>1000</rank></keyboard>
+    </keyboards>
+    <inputmethods>
+    </inputmethods>
+    <consolefonts>
+      <consolefont><consolefontId>eurlatgr</consolefontId><rank>1000</rank></consolefont>
+    </consolefonts>
+    <timezones>
+      <timezone><timezoneId>Pacific/Tongatapu</timezoneId><rank>1000</rank></timezone>
+    </timezones>
+  </territory>
+  <territory>
     <territoryId>TR</territoryId>
     <names>
       <name><languageId>af</languageId><trName>Turkye</trName></name>
@@ -22080,6 +22202,64 @@
     </consolefonts>
     <timezones>
       <timezone><timezoneId>Asia/Ho_Chi_Minh</timezoneId><rank>1000</rank></timezone>
+    </timezones>
+  </territory>
+  <territory>
+    <territoryId>VU</territoryId>
+    <names>
+      <name><languageId>de</languageId><trName>Vanuatu</trName></name>
+      <name><languageId>en</languageId><trName>Vanuatu</trName></name>
+    </names>
+    <scripts>
+      <script><scriptId>Latn</scriptId><rank>1000</rank></script>
+    </scripts>
+    <locales>
+      <locale><localeId>bi_VU.UTF-8</localeId><rank>1000</rank></locale>
+    </locales>
+    <languages>
+      <language><languageId>bi</languageId><rank>700</rank></language>
+      <language><languageId>en</languageId><rank>200</rank></language>
+      <language><languageId>fr</languageId><rank>100</rank></language>
+    </languages>
+    <keyboards>
+      <keyboard><keyboardId>us(euro)</keyboardId><rank>1000</rank></keyboard>
+    </keyboards>
+    <inputmethods>
+    </inputmethods>
+    <consolefonts>
+      <consolefont><consolefontId>eurlatgr</consolefontId><rank>1000</rank></consolefont>
+    </consolefonts>
+    <timezones>
+      <timezone><timezoneId>Pacific/Efate</timezoneId><rank>1000</rank></timezone>
+    </timezones>
+  </territory>
+  <territory>
+    <territoryId>WS</territoryId>
+    <names>
+      <name><languageId>de</languageId><trName>Samoa</trName></name>
+      <name><languageId>en</languageId><trName>Samoa</trName></name>
+      <name><languageId>sm</languageId><trName>Sāmoa</trName></name>
+    </names>
+    <scripts>
+      <script><scriptId>Latn</scriptId><rank>1000</rank></script>
+    </scripts>
+    <locales>
+      <locale><localeId>sm_WS.UTF-8</localeId><rank>1000</rank></locale>
+    </locales>
+    <languages>
+      <language><languageId>sm</languageId><rank>900</rank></language>
+      <language><languageId>en</languageId><rank>100</rank></language>
+    </languages>
+    <keyboards>
+      <keyboard><keyboardId>us</keyboardId><rank>1000</rank></keyboard>
+    </keyboards>
+    <inputmethods>
+    </inputmethods>
+    <consolefonts>
+      <consolefont><consolefontId>eurlatgr</consolefontId><rank>1000</rank></consolefont>
+    </consolefonts>
+    <timezones>
+      <timezone><timezoneId>Pacific/Apia</timezoneId><rank>1000</rank></timezone>
     </timezones>
   </territory>
   <territory>
