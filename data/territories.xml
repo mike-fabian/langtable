@@ -22788,7 +22788,7 @@
       <language><languageId>zh</languageId><rank>1000</rank></language>
     </languages>
     <keyboards>
-      <keyboard><keyboardId>cn</keyboardId><rank>1000</rank></keyboard>
+      <keyboard><keyboardId>tw</keyboardId><rank>1000</rank></keyboard>
     </keyboards>
     <inputmethods>
       <inputmethod><inputmethodId>ibus/chewing</inputmethodId><rank>1000</rank></inputmethod>

@@ -726,8 +726,16 @@ def dummy():
         TW: ['zh_TW.UTF-8']
          +: ['zh_TW.UTF-8']
         zh: ['cn']
-        TW: ['cn']
-         +: ['cn']
+        TW: ['tw']
+         +: ['tw']
+
+    >>> _test_language_territory(show_weights=False, languageId="cmn", territoryId="TW") # doctest: +NORMALIZE_WHITESPACE
+        cmn: ['cmn_TW.UTF-8']
+        TW: ['zh_TW.UTF-8']
+         +: ['cmn_TW.UTF-8', 'zh_TW.UTF-8']
+        cmn: ['tw']
+        TW: ['tw']
+         +: ['tw']
 
     >>> _test_language_territory(show_weights=False, languageId="zh", territoryId="HK") # doctest: +NORMALIZE_WHITESPACE
         zh: ['zh_CN.UTF-8', 'zh_TW.UTF-8', 'zh_HK.UTF-8', 'zh_SG.UTF-8']
@@ -790,8 +798,8 @@ def dummy():
         TW: ['zh_TW.UTF-8']
          +: ['zh_CN.UTF-8', 'zh_SG.UTF-8', 'zh_TW.UTF-8']
         zh: ['cn']
-        TW: ['cn']
-         +: ['cn']
+        TW: ['tw']
+         +: ['tw', 'cn']
 
     >>> _test_language_territory(show_weights=False, languageId="zh", scriptId = "Hant", territoryId="HK") # doctest: +NORMALIZE_WHITESPACE
         zh: ['zh_CN.UTF-8', 'zh_TW.UTF-8', 'zh_HK.UTF-8', 'zh_SG.UTF-8']
