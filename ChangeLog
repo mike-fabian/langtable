@@ -1,3 +1,10 @@
+2017-11-06  Mike FABIAN  <mfabian@redhat.com>
+
+	* Version 0.0.38 released
+	* Add some new translations from CLDR
+	* Add agr, bi, hif, kab, mfe, miq, mjw, shn, sm, to, tpi_PG, yuw, AS, MU, SC, TO, VU, WS
+	* Make "tw" the default keyboard layout for zh_TW and cmn_TW (Resolves: rhbz#1387825)
+
 2017-02-08  Mike FABIAN  <mfabian@redhat.com>
 
 	* Version 0.0.37 released

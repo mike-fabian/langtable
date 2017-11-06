@@ -1,12 +1,12 @@
-%if 0%{?fedora}
+%if 0%{?fedora} || 0%{?rhel} >= 8
 %global with_python3 1
 %else
 %{!?python_sitelib: %global python_sitelib %(%{__python} -c "from distutils.sysconfig import get_python_lib; print (get_python_lib())")}
 %endif
 
 Name:           langtable
-Version:        0.0.37
-Release:        1%{?dist}
+Version:        0.0.38
+Release:        2%{?dist}
 Summary:        Guessing reasonable defaults for locale, keyboard layout, territory, and language.
 Group:          Development/Tools
 # the translations in languages.xml and territories.xml are (mostly)
@@ -15,9 +15,9 @@ Group:          Development/Tools
 # https://fedoraproject.org/wiki/Licensing:MIT?rd=Licensing/MIT#Modern_Style_without_sublicense_.28Unicode.29
 License:        GPLv3+
 URL:            https://github.com/mike-fabian/langtable
-Source0:        http://mfabian.fedorapeople.org/langtable/%{name}-%{version}.tar.gz
+Source0:        https://github.com/mike-fabian/langtable/releases/download/%{version}/%{name}-%{version}.tar.gz
 BuildArch:      noarch
-BuildRequires:  perl
+BuildRequires:  perl-interpreter
 BuildRequires:  python2-devel
 %if 0%{?with_python3}
 BuildRequires:  python3-devel
@@ -30,14 +30,18 @@ example, guess the territory and the keyboard layout if the language
 is known or guess the language and keyboard layout if the territory is
 already known.
 
-%package python
+%package -n python2-langtable
+%{?python_provide:%python_provide python2-langtable}
+# Remove before F30
+Provides: %{name}-python%{?_isa} = %{version}-%{release}
+Obsoletes: %{name}-python < %{version}-%{release}
 Summary:        Python module to query the langtable-data
 Group:          Development/Tools
 License:        GPLv3+
 Requires:       %{name} = %{version}-%{release}
 Requires:       %{name}-data = %{version}-%{release}
 
-%description python
+%description -n python2-langtable
 This package contains a Python module to query the data
 from langtable-data.
 
@@ -104,7 +108,7 @@ xmllint --noout --relaxng $RPM_BUILD_ROOT/%{_datadir}/langtable/schemas/timezone
 %dir %{_datadir}/langtable/
 %{_datadir}/langtable/schemas
 
-%files python
+%files -n python2-langtable
 %{python_sitelib}/*
 
 %if 0%{?with_python3}
@@ -119,6 +123,24 @@ xmllint --noout --relaxng $RPM_BUILD_ROOT/%{_datadir}/langtable/schemas/timezone
 %{_datadir}/langtable/*.xml.gz
 
 %changelog
+* Mon Nov 06 2017 Mike FABIAN <mfabian@redhat.com> - 0.0.38-2
+- Make "tw" the default keyboard layout for zh_TW and cmn_TW
+- Resolves: rhbz#1387825
+
+* Mon Nov 06 2017 Mike FABIAN <mfabian@redhat.com> - 0.0.38-1
+- Add some new translations from CLDR
+- Add agr, bi, hif, kab, mfe, miq, mjw, shn, sm, to, tpi_PG, yuw, AS, MU, SC, TO, VU, WS
+
+* Wed Sep 27 2017 Troy Dawson <tdawson@redhat.com> - 0.0.37-4
+- Cleanup spec file conditionals
+
+* Sat Aug 19 2017 Zbigniew Jędrzejewski-Szmek <zbyszek@in.waw.pl> - 0.0.37-3
+- Python 2 binary package renamed to python2-langtable
+  See https://fedoraproject.org/wiki/FinalizingFedoraSwitchtoPython3
+
+* Wed Jul 26 2017 Fedora Release Engineering <releng@fedoraproject.org> - 0.0.37-2
+- Rebuilt for https://fedoraproject.org/wiki/Fedora_27_Mass_Rebuild
+
 * Wed Feb 08 2017 Mike FABIAN <mfabian@redhat.com> - 0.0.37-1
 - Add some new translations from CLDR
 - Add sgs
