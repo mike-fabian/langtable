@@ -6130,6 +6130,7 @@
     <keyboards>
       <keyboard><keyboardId>us</keyboardId><rank>700</rank></keyboard>
       <keyboard><keyboardId>gb</keyboardId><rank>100</rank></keyboard>
+      <keyboard><keyboardId>au</keyboardId><rank>100</rank></keyboard>
     </keyboards>
     <inputmethods>
     </inputmethods>
