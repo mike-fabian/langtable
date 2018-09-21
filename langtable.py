@@ -1374,7 +1374,7 @@ def list_locales(concise=True, show_weights=False, languageId = None, scriptId =
     List the suitable locales for the language “German”:
 
     >>> list_locales(languageId="de")
-    ['de_DE.UTF-8', 'de_AT.UTF-8', 'de_CH.UTF-8', 'de_LI.UTF-8', 'de_BE.UTF-8', 'de_LU.UTF-8']
+    ['de_DE.UTF-8', 'de_AT.UTF-8', 'de_CH.UTF-8', 'de_IT.UTF-8', 'de_LI.UTF-8', 'de_BE.UTF-8', 'de_LU.UTF-8']
 
     So this returns a list of locales for German. These lists are
     sorted in order of decreasing likelyhood, i.e. the most common

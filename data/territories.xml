@@ -2794,12 +2794,12 @@
       <script><scriptId>Latn</scriptId><rank>1000</rank></script>
     </scripts>
     <locales>
-      <locale><localeId>nl_AW.UTF-8</localeId><rank>1000</rank></locale>
-      <locale><localeId>pap_AW.UTF-8</localeId><rank>0</rank></locale>
+      <locale><localeId>nl_AW.UTF-8</localeId><rank>600</rank></locale>
+      <locale><localeId>pap_AW.UTF-8</localeId><rank>400</rank></locale>
     </locales>
     <languages>
-      <language><languageId>nl</languageId><rank>900</rank></language>
-      <language><languageId>pap</languageId><rank>100</rank></language>
+      <language><languageId>nl</languageId><rank>600</rank></language>
+      <language><languageId>pap</languageId><rank>400</rank></language>
     </languages>
     <keyboards>
       <keyboard><keyboardId>us(euro)</keyboardId><rank>950</rank></keyboard>
@@ -5004,6 +5004,7 @@
       <script><scriptId>Latn</scriptId><rank>1000</rank></script>
     </scripts>
     <locales>
+      <locale><localeId>ln_CD.UTF-8</localeId><rank>1000</rank></locale>
     </locales>
     <languages>
       <language><languageId>fr</languageId><rank>700</rank></language>
@@ -5631,10 +5632,14 @@
       <script><scriptId>Hans</scriptId><rank>1000</rank></script>
     </scripts>
     <locales>
-      <locale><localeId>zh_CN.UTF-8</localeId><rank>1000</rank></locale>
+      <locale><localeId>zh_CN.UTF-8</localeId><rank>900</rank></locale>
+      <locale><localeId>bo_CN.UTF-8</localeId><rank>100</rank></locale>
+      <locale><localeId>ug_CN.UTF-8</localeId><rank>10</rank></locale>
     </locales>
     <languages>
-      <language><languageId>zh</languageId><rank>1000</rank></language>
+      <language><languageId>zh</languageId><rank>900</rank></language>
+      <language><languageId>bo</languageId><rank>100</rank></language>
+      <language><languageId>ug</languageId><rank>100</rank></language>
     </languages>
     <keyboards>
       <keyboard><keyboardId>cn</keyboardId><rank>1000</rank></keyboard>
@@ -6372,10 +6377,12 @@
       <script><scriptId>Grek</scriptId><rank>1000</rank></script>
     </scripts>
     <locales>
-      <locale><localeId>el_CY.UTF-8</localeId><rank>1000</rank></locale>
+      <locale><localeId>el_CY.UTF-8</localeId><rank>900</rank></locale>
+      <locale><localeId>tr_CY.UTF-8</localeId><rank>100</rank></locale>
     </locales>
     <languages>
-      <language><languageId>el</languageId><rank>1000</rank></language>
+      <language><languageId>el</languageId><rank>900</rank></language>
+      <language><languageId>tr</languageId><rank>100</rank></language>
     </languages>
     <keyboards>
       <keyboard><keyboardId>gr</keyboardId><rank>1000</rank></keyboard>
@@ -7306,10 +7313,13 @@
       <script><scriptId>Arab</scriptId><rank>1000</rank></script>
     </scripts>
     <locales>
-      <locale><localeId>ar_DZ.UTF-8</localeId><rank>1000</rank></locale>
+      <locale><localeId>ar_DZ.UTF-8</localeId><rank>900</rank></locale>
+      <locale><localeId>ber_DZ.UTF-8</localeId><rank>100</rank></locale>
+      <locale><localeId>kab_DZ.UTF-8</localeId><rank>10</rank></locale>
     </locales>
     <languages>
-      <language><languageId>ar</languageId><rank>1000</rank></language>
+      <language><languageId>ar</languageId><rank>900</rank></language>
+      <language><languageId>ber</languageId><rank>100</rank></language>
     </languages>
     <keyboards>
       <keyboard><keyboardId>ara(azerty)</keyboardId><rank>1000</rank></keyboard>
@@ -7928,7 +7938,9 @@
       <locale><localeId>tig_ER.UTF-8</localeId><rank>100</rank></locale>
       <locale><localeId>aa_ER.UTF-8</localeId><rank>80</rank></locale>
       <locale><localeId>byn_ER.UTF-8</localeId><rank>50</rank></locale>
-      <locale><localeId>gez_ER.UTF-8</localeId><rank>1</rank></locale>
+      <locale><localeId>gez_ER.UTF-8</localeId><rank>3</rank></locale>
+      <locale><localeId>gez_ER.UTF-8@abegede</localeId><rank>2</rank></locale>
+      <locale><localeId>aa_ER.UTF-8@saaho</localeId><rank>1</rank></locale>
     </locales>
     <languages>
       <language><languageId>ti</languageId><rank>700</rank></language>
@@ -8090,6 +8102,7 @@
       <locale><localeId>es_ES.UTF-8</localeId><rank>700</rank></locale>
       <locale><localeId>an_ES.UTF-8</localeId><rank>150</rank></locale>
       <locale><localeId>ca_ES.UTF-8</localeId><rank>100</rank></locale>
+      <locale><localeId>ca_ES.UTF-8@valencia</localeId><rank>95</rank></locale>
       <locale><localeId>ast_ES.UTF-8</localeId><rank>90</rank></locale>
       <locale><localeId>gl_ES.UTF-8</localeId><rank>80</rank></locale>
       <locale><localeId>eu_ES.UTF-8</localeId><rank>70</rank></locale>
@@ -9355,6 +9368,7 @@
       <script><scriptId>Latn</scriptId><rank>1000</rank></script>
     </scripts>
     <locales>
+      <locale><localeId>ak_GH.UTF-8</localeId><rank>1000</rank></locale>
     </locales>
     <languages>
       <language><languageId>en</languageId><rank>900</rank></language>
@@ -9953,10 +9967,14 @@
       <script><scriptId>Hant</scriptId><rank>1000</rank></script>
     </scripts>
     <locales>
-      <locale><localeId>zh_HK.UTF-8</localeId><rank>1000</rank></locale>
+      <locale><localeId>zh_HK.UTF-8</localeId><rank>900</rank></locale>
+      <locale><localeId>yue_HK.UTF-8</localeId><rank>100</rank></locale>
+      <locale><localeId>en_HK.UTF-8</localeId><rank>10</rank></locale>
     </locales>
     <languages>
-      <language><languageId>zh</languageId><rank>1000</rank></language>
+      <language><languageId>zh</languageId><rank>900</rank></language>
+      <language><languageId>yue</languageId><rank>100</rank></language>
+      <language><languageId>en</languageId><rank>10</rank></language>
     </languages>
     <keyboards>
       <keyboard><keyboardId>cn</keyboardId><rank>1000</rank></keyboard>
@@ -11030,11 +11048,13 @@
       <script><scriptId>Hebr</scriptId><rank>1000</rank></script>
     </scripts>
     <locales>
-      <locale><localeId>he_IL.UTF-8</localeId><rank>1000</rank></locale>
+      <locale><localeId>he_IL.UTF-8</localeId><rank>900</rank></locale>
+      <locale><localeId>en_IL.UTF-8</localeId><rank>100</rank></locale>
       <locale><localeId>iw_IL.UTF-8</localeId><rank>0</rank></locale>
     </locales>
     <languages>
-      <language><languageId>he</languageId><rank>1000</rank></language>
+      <language><languageId>he</languageId><rank>900</rank></language>
+      <language><languageId>en</languageId><rank>100</rank></language>
       <language><languageId>iw</languageId><rank>0</rank></language>
     </languages>
     <keyboards>
@@ -11235,10 +11255,15 @@
       <locale><localeId>doi_IN.UTF-8</localeId><rank>30</rank></locale>
       <locale><localeId>mni_IN.UTF-8</localeId><rank>25</rank></locale>
       <locale><localeId>brx_IN.UTF-8</localeId><rank>20</rank></locale>
-      <locale><localeId>bho_IN.UTF-8</localeId><rank>6</rank></locale>
-      <locale><localeId>bo_IN.UTF-8</localeId><rank>5</rank></locale>
-      <locale><localeId>hne_IN.UTF-8</localeId><rank>4</rank></locale>
-      <locale><localeId>mag_IN.UTF-8</localeId><rank>3</rank></locale>
+      <locale><localeId>raj_IN.UTF-8</localeId><rank>11</rank></locale>
+      <locale><localeId>mjw_IN.UTF-8</localeId><rank>10</rank></locale>
+      <locale><localeId>anp_IN.UTF-8</localeId><rank>9</rank></locale>
+      <locale><localeId>bhb_IN.UTF-8</localeId><rank>8</rank></locale>
+      <locale><localeId>bho_IN.UTF-8</localeId><rank>7</rank></locale>
+      <locale><localeId>bo_IN.UTF-8</localeId><rank>6</rank></locale>
+      <locale><localeId>hne_IN.UTF-8</localeId><rank>5</rank></locale>
+      <locale><localeId>mag_IN.UTF-8</localeId><rank>4</rank></locale>
+      <locale><localeId>tcy_IN.UTF-8</localeId><rank>3</rank></locale>
       <locale><localeId>ar_IN.UTF-8</localeId><rank>2</rank></locale>
       <locale><localeId>sa_IN.UTF-8</localeId><rank>0</rank></locale>
     </locales>
@@ -11264,10 +11289,15 @@
       <language><languageId>doi</languageId><rank>30</rank></language>
       <language><languageId>mni</languageId><rank>25</rank></language>
       <language><languageId>brx</languageId><rank>20</rank></language>
-      <language><languageId>bho</languageId><rank>6</rank></language>
-      <language><languageId>bo</languageId><rank>5</rank></language>
-      <language><languageId>hne</languageId><rank>4</rank></language>
-      <language><languageId>mag</languageId><rank>3</rank></language>
+      <language><languageId>raj</languageId><rank>11</rank></language>
+      <language><languageId>mjw</languageId><rank>10</rank></language>
+      <language><languageId>anp</languageId><rank>9</rank></language>
+      <language><languageId>bhb</languageId><rank>8</rank></language>
+      <language><languageId>bho</languageId><rank>7</rank></language>
+      <language><languageId>bo</languageId><rank>6</rank></language>
+      <language><languageId>hne</languageId><rank>5</rank></language>
+      <language><languageId>mag</languageId><rank>4</rank></language>
+      <language><languageId>tcy</languageId><rank>3</rank></language>
       <language><languageId>ar</languageId><rank>2</rank></language>
       <language><languageId>ne</languageId><rank>1</rank></language>
       <language><languageId>sa</languageId><rank>0</rank></language>
@@ -11584,10 +11614,12 @@
       <script><scriptId>Syrc</scriptId><rank>10</rank></script>
     </scripts>
     <locales>
-      <locale><localeId>fa_IR.UTF-8</localeId><rank>1000</rank></locale>
+      <locale><localeId>fa_IR.UTF-8</localeId><rank>990</rank></locale>
+      <locale><localeId>az_IR.UTF-8</localeId><rank>10</rank></locale>
     </locales>
     <languages>
-      <language><languageId>fa</languageId><rank>1000</rank></language>
+      <language><languageId>fa</languageId><rank>990</rank></language>
+      <language><languageId>az</languageId><rank>10</rank></language>
     </languages>
     <keyboards>
       <keyboard><keyboardId>ir</keyboardId><rank>1000</rank></keyboard>
@@ -11897,6 +11929,7 @@
     </scripts>
     <locales>
       <locale><localeId>it_IT.UTF-8</localeId><rank>950</rank></locale>
+      <locale><localeId>de_IT.UTF-8</localeId><rank>25</rank></locale>
       <locale><localeId>lij_IT.UTF-8</localeId><rank>20</rank></locale>
       <locale><localeId>sc_IT.UTF-8</localeId><rank>15</rank></locale>
       <locale><localeId>fur_IT.UTF-8</localeId><rank>10</rank></locale>
@@ -11904,6 +11937,7 @@
     </locales>
     <languages>
       <language><languageId>it</languageId><rank>950</rank></language>
+      <language><languageId>de</languageId><rank>25</rank></language>
       <language><languageId>lij</languageId><rank>20</rank></language>
       <language><languageId>sc</languageId><rank>15</rank></language>
       <language><languageId>fur</languageId><rank>10</rank></language>
@@ -13734,10 +13768,12 @@
       <script><scriptId>Sinh</scriptId><rank>1000</rank></script>
     </scripts>
     <locales>
-      <locale><localeId>si_LK.UTF-8</localeId><rank>1000</rank></locale>
+      <locale><localeId>si_LK.UTF-8</localeId><rank>900</rank></locale>
+      <locale><localeId>ta_LK.UTF-8</localeId><rank>100</rank></locale>
     </locales>
     <languages>
-      <language><languageId>si</languageId><rank>1000</rank></language>
+      <language><languageId>si</languageId><rank>900</rank></language>
+      <language><languageId>ta</languageId><rank>100</rank></language>
     </languages>
     <keyboards>
       <keyboard><keyboardId>us</keyboardId><rank>1000</rank></keyboard>
@@ -13888,10 +13924,12 @@
       <script><scriptId>Latn</scriptId><rank>1000</rank></script>
     </scripts>
     <locales>
-      <locale><localeId>lt_LT.UTF-8</localeId><rank>1000</rank></locale>
+      <locale><localeId>lt_LT.UTF-8</localeId><rank>990</rank></locale>
+      <locale><localeId>sgs_LT.UTF-8</localeId><rank>10</rank></locale>
     </locales>
     <languages>
-      <language><languageId>lt</languageId><rank>1000</rank></language>
+      <language><languageId>lt</languageId><rank>990</rank></language>
+      <language><languageId>sgs</languageId><rank>10</rank></language>
     </languages>
     <keyboards>
       <keyboard><keyboardId>lt</keyboardId><rank>1000</rank></keyboard>
@@ -14507,10 +14545,12 @@
       <script><scriptId>Arab</scriptId><rank>1000</rank></script>
     </scripts>
     <locales>
-      <locale><localeId>ar_MA.UTF-8</localeId><rank>1000</rank></locale>
+      <locale><localeId>ar_MA.UTF-8</localeId><rank>900</rank></locale>
+      <locale><localeId>ber_MA.UTF-8</localeId><rank>100</rank></locale>
     </locales>
     <languages>
-      <language><languageId>ar</languageId><rank>1000</rank></language>
+      <language><languageId>ar</languageId><rank>900</rank></language>
+      <language><languageId>ber</languageId><rank>100</rank></language>
     </languages>
     <keyboards>
       <keyboard><keyboardId>ma</keyboardId><rank>1000</rank></keyboard>
@@ -15104,10 +15144,12 @@
       <script><scriptId>Mymr</scriptId><rank>1000</rank></script>
     </scripts>
     <locales>
-      <locale><localeId>my_MM.UTF-8</localeId><rank>1000</rank></locale>
+      <locale><localeId>my_MM.UTF-8</localeId><rank>990</rank></locale>
+      <locale><localeId>shn_MM.UTF-8</localeId><rank>10</rank></locale>
     </locales>
     <languages>
-      <language><languageId>my</languageId><rank>1000</rank></language>
+      <language><languageId>my</languageId><rank>990</rank></language>
+      <language><languageId>shn</languageId><rank>10</rank></language>
     </languages>
     <keyboards>
       <keyboard><keyboardId>mm</keyboardId><rank>1000</rank></keyboard>
@@ -16164,10 +16206,12 @@
       <script><scriptId>Latn</scriptId><rank>1000</rank></script>
     </scripts>
     <locales>
-      <locale><localeId>es_MX.UTF-8</localeId><rank>1000</rank></locale>
+      <locale><localeId>es_MX.UTF-8</localeId><rank>990</rank></locale>
+      <locale><localeId>nhn_MX.UTF-8</localeId><rank>10</rank></locale>
     </locales>
     <languages>
-      <language><languageId>es</languageId><rank>1000</rank></language>
+      <language><languageId>es</languageId><rank>990</rank></language>
+      <language><languageId>nhn</languageId><rank>10</rank></language>
     </languages>
     <keyboards>
       <keyboard><keyboardId>latam</keyboardId><rank>1000</rank></keyboard>
@@ -16643,10 +16687,12 @@
       <script><scriptId>Latn</scriptId><rank>1000</rank></script>
     </scripts>
     <locales>
-      <locale><localeId>es_NI.UTF-8</localeId><rank>1000</rank></locale>
+      <locale><localeId>es_NI.UTF-8</localeId><rank>990</rank></locale>
+      <locale><localeId>miq_NI.UTF-8</localeId><rank>10</rank></locale>
     </locales>
     <languages>
-      <language><languageId>es</languageId><rank>1000</rank></language>
+      <language><languageId>es</languageId><rank>990</rank></language>
+      <language><languageId>miq</languageId><rank>10</rank></language>
     </languages>
     <keyboards>
       <keyboard><keyboardId>latam</keyboardId><rank>1000</rank></keyboard>
@@ -17118,11 +17164,16 @@
       <script><scriptId>Deva</scriptId><rank>1000</rank></script>
     </scripts>
     <locales>
-      <locale><localeId>ne_NP.UTF-8</localeId><rank>1000</rank></locale>
+      <locale><localeId>ne_NP.UTF-8</localeId><rank>900</rank></locale>
+      <locale><localeId>the_NP.UTF-8</localeId><rank>50</rank></locale>
+      <locale><localeId>bho_NP.UTF-8</localeId><rank>10</rank></locale>
+      <locale><localeId>mai_NP.UTF-8</localeId><rank>2</rank></locale>
     </locales>
     <languages>
       <language><languageId>ne</languageId><rank>950</rank></language>
       <language><languageId>the</languageId><rank>50</rank></language>
+      <language><languageId>bho</languageId><rank>10</rank></language>
+      <language><languageId>mai</languageId><rank>2</rank></language>
     </languages>
     <keyboards>
       <keyboard><keyboardId>np</keyboardId><rank>1000</rank></keyboard>
@@ -17875,8 +17926,9 @@
     </scripts>
     <locales>
       <locale><localeId>es_PE.UTF-8</localeId><rank>999</rank></locale>
-      <locale><localeId>ayc_PE.UTF-8</localeId><rank>2</rank></locale>
-      <locale><localeId>agr_PE.UTF-8</localeId><rank>1</rank></locale>
+      <locale><localeId>ayc_PE.UTF-8</localeId><rank>3</rank></locale>
+      <locale><localeId>agr_PE.UTF-8</localeId><rank>2</rank></locale>
+      <locale><localeId>quz_PE.UTF-8</localeId><rank>1</rank></locale>
     </locales>
     <languages>
       <language><languageId>es</languageId><rank>1000</rank></language>
@@ -19560,6 +19612,7 @@
     </scripts>
     <locales>
       <locale><localeId>ru_RU.UTF-8</localeId><rank>950</rank></locale>
+      <locale><localeId>ce_RU.UTF-8</localeId><rank>13</rank></locale>
       <locale><localeId>cv_RU.UTF-8</localeId><rank>12</rank></locale>
       <locale><localeId>mhr_RU.UTF-8</localeId><rank>11</rank></locale>
       <locale><localeId>os_RU.UTF-8</localeId><rank>10</rank></locale>
@@ -19568,6 +19621,7 @@
     </locales>
     <languages>
       <language><languageId>ru</languageId><rank>950</rank></language>
+      <language><languageId>ce</languageId><rank>13</rank></language>
       <language><languageId>cv</languageId><rank>12</rank></language>
       <language><languageId>mhr</languageId><rank>11</rank></language>
       <language><languageId>os</languageId><rank>10</rank></language>
@@ -21268,7 +21322,7 @@
       <script><scriptId>Syrc</scriptId><rank>10</rank></script>
     </scripts>
     <locales>
-      <locale><localeId>ar_SS.UTF-8</localeId><rank>0</rank></locale>
+      <locale><localeId>ar_SS.UTF-8</localeId><rank>1000</rank></locale>
     </locales>
     <languages>
       <language><languageId>ar</languageId><rank>1000</rank></language>
@@ -22782,10 +22836,19 @@
       <script><scriptId>Hant</scriptId><rank>1000</rank></script>
     </scripts>
     <locales>
-      <locale><localeId>zh_TW.UTF-8</localeId><rank>1000</rank></locale>
+      <locale><localeId>zh_TW.UTF-8</localeId><rank>900</rank></locale>
+      <locale><localeId>cmn_TW.UTF-8</localeId><rank>100</rank></locale>
+      <locale><localeId>hak_TW.UTF-8</localeId><rank>10</rank></locale>
+      <locale><localeId>lzh_TW.UTF-8</localeId><rank>8</rank></locale>
+      <locale><localeId>nan_TW.UTF-8</localeId><rank>5</rank></locale>
+      <locale><localeId>nan_TW.UTF-8@latin</localeId><rank>2</rank></locale>
     </locales>
     <languages>
-      <language><languageId>zh</languageId><rank>1000</rank></language>
+      <language><languageId>zh</languageId><rank>900</rank></language>
+      <language><languageId>cmn</languageId><rank>100</rank></language>
+      <language><languageId>hak</languageId><rank>10</rank></language>
+      <language><languageId>lzh</languageId><rank>8</rank></language>
+      <language><languageId>nan</languageId><rank>5</rank></language>
     </languages>
     <keyboards>
       <keyboard><keyboardId>tw</keyboardId><rank>1000</rank></keyboard>
@@ -23410,6 +23473,7 @@
       <locale><localeId>en_US.UTF-8</localeId><rank>800</rank></locale>
       <locale><localeId>es_US.UTF-8</localeId><rank>100</rank></locale>
       <locale><localeId>yi_US.UTF-8</localeId><rank>10</rank></locale>
+      <locale><localeId>chr_US.UTF-8</localeId><rank>2</rank></locale>
       <locale><localeId>unm_US.UTF-8</localeId><rank>1</rank></locale>
     </locales>
     <languages>
@@ -23746,8 +23810,8 @@
       <script><scriptId>Arab</scriptId><rank>1</rank></script>
     </scripts>
     <locales>
-      <locale><localeId>uz_UG.UTF-8@cyrillic</localeId><rank>600</rank></locale>
-      <locale><localeId>uz_UG.UTF-8</localeId><rank>400</rank></locale>
+      <locale><localeId>uz_UZ.UTF-8@cyrillic</localeId><rank>600</rank></locale>
+      <locale><localeId>uz_UZ.UTF-8</localeId><rank>400</rank></locale>
     </locales>
     <languages>
       <language><languageId>uz</languageId><rank>1000</rank></language>

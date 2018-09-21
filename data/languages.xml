@@ -121,6 +121,7 @@
       <locale><localeId>aa_DJ.UTF-8</localeId><rank>400</rank></locale>
       <locale><localeId>aa_ER.UTF-8</localeId><rank>300</rank></locale>
       <locale><localeId>aa_ET.UTF-8</localeId><rank>200</rank></locale>
+      <locale><localeId>aa_ER.UTF-8@saaho</localeId><rank>2</rank></locale>
     </locales>
     <territories>
       <territory><territoryId>DJ</territoryId><rank>400</rank></territory>
@@ -448,6 +449,7 @@
       <script><scriptId>Latn</scriptId><rank>1000</rank></script>
     </scripts>
     <locales>
+      <locale><localeId>ak_GH.UTF-8</localeId><rank>1000</rank></locale>
     </locales>
     <territories>
       <territory><territoryId>GH</territoryId><rank>1000</rank></territory>
@@ -1047,7 +1049,8 @@
       <locale><localeId>ar_OM.UTF-8</localeId><rank>15</rank></locale>
       <locale><localeId>ar_QA.UTF-8</localeId><rank>10</rank></locale>
       <locale><localeId>ar_BH.UTF-8</localeId><rank>9</rank></locale>
-      <locale><localeId>ar_IN.UTF-8</localeId><rank>1</rank></locale>
+      <locale><localeId>ar_IN.UTF-8</localeId><rank>2</rank></locale>
+      <locale><localeId>ar_SS.UTF-8</localeId><rank>1</rank></locale>
     </locales>
     <territories>
       <territory><territoryId>EG</territoryId><rank>300</rank></territory>
@@ -1711,10 +1714,12 @@
       <script><scriptId>Arab</scriptId><rank>10</rank></script>
     </scripts>
     <locales>
-      <locale><localeId>az_AZ.UTF-8</localeId><rank>1000</rank></locale>
+      <locale><localeId>az_AZ.UTF-8</localeId><rank>900</rank></locale>
+      <locale><localeId>az_IR.UTF-8</localeId><rank>100</rank></locale>
     </locales>
     <territories>
-      <territory><territoryId>AZ</territoryId><rank>1000</rank></territory>
+      <territory><territoryId>AZ</territoryId><rank>900</rank></territory>
+      <territory><territoryId>IR</territoryId><rank>100</rank></territory>
     </territories>
     <keyboards>
       <keyboard><keyboardId>az</keyboardId><rank>990</rank></keyboard>
@@ -2432,7 +2437,7 @@
       <script><scriptId>Deva</scriptId><rank>1000</rank></script>
     </scripts>
     <locales>
-      <locale><localeId>bh_IN.UTF-8</localeId><rank>1000</rank></locale>
+      <locale><localeId>bhb_IN.UTF-8</localeId><rank>1000</rank></locale>
     </locales>
     <territories>
       <territory><territoryId>IN</territoryId><rank>1000</rank></territory>
@@ -2558,10 +2563,12 @@
       <script><scriptId>Deva</scriptId><rank>1000</rank></script>
     </scripts>
     <locales>
-      <locale><localeId>bho_IN.UTF-8</localeId><rank>1000</rank></locale>
+      <locale><localeId>bho_IN.UTF-8</localeId><rank>900</rank></locale>
+      <locale><localeId>bho_NP.UTF-8</localeId><rank>100</rank></locale>
     </locales>
     <territories>
-      <territory><territoryId>IN</territoryId><rank>1000</rank></territory>
+      <territory><territoryId>IN</territoryId><rank>900</rank></territory>
+      <territory><territoryId>NP</territoryId><rank>100</rank></territory>
     </territories>
     <keyboards>
       <keyboard><keyboardId>in(eng)</keyboardId><rank>1000</rank></keyboard>
@@ -3711,6 +3718,7 @@
     </scripts>
     <locales>
       <locale><localeId>ca_ES.UTF-8</localeId><rank>900</rank></locale>
+      <locale><localeId>ca_ES.UTF-8@valencia</localeId><rank>110</rank></locale>
       <locale><localeId>ca_FR.UTF-8</localeId><rank>100</rank></locale>
       <locale><localeId>ca_AD.UTF-8</localeId><rank>50</rank></locale>
       <locale><localeId>ca_IT.UTF-8</localeId><rank>10</rank></locale>
@@ -3849,6 +3857,7 @@
       <script><scriptId>Cyrl</scriptId><rank>1000</rank></script>
     </scripts>
     <locales>
+      <locale><localeId>ce_RU.UTF-8</localeId><rank>1000</rank></locale>
     </locales>
     <territories>
       <territory><territoryId>RU</territoryId><rank>1000</rank></territory>
@@ -5231,6 +5240,7 @@
       <locale><localeId>de_DE.UTF-8</localeId><rank>600</rank></locale>
       <locale><localeId>de_AT.UTF-8</localeId><rank>200</rank></locale>
       <locale><localeId>de_CH.UTF-8</localeId><rank>90</rank></locale>
+      <locale><localeId>de_IT.UTF-8</localeId><rank>12</rank></locale>
       <locale><localeId>de_LI.UTF-8</localeId><rank>11</rank></locale>
       <locale><localeId>de_BE.UTF-8</localeId><rank>10</rank></locale>
       <locale><localeId>de_LU.UTF-8</localeId><rank>8</rank></locale>
@@ -5239,6 +5249,8 @@
       <territory><territoryId>DE</territoryId><rank>600</rank></territory>
       <territory><territoryId>AT</territoryId><rank>200</rank></territory>
       <territory><territoryId>CH</territoryId><rank>90</rank></territory>
+      <territory><territoryId>IT</territoryId><rank>12</rank></territory>
+      <territory><territoryId>LI</territoryId><rank>11</rank></territory>
       <territory><territoryId>BE</territoryId><rank>10</rank></territory>
       <territory><territoryId>LU</territoryId><rank>8</rank></territory>
     </territories>
@@ -6107,6 +6119,7 @@
       <locale><localeId>en_ZW.UTF-8</localeId><rank>20</rank></locale>
       <locale><localeId>en_BW.UTF-8</localeId><rank>15</rank></locale>
       <locale><localeId>en_AG.UTF-8</localeId><rank>10</rank></locale>
+      <locale><localeId>en_IL.UTF-8</localeId><rank>5</rank></locale>
     </locales>
     <territories>
       <territory><territoryId>US</territoryId><rank>900</rank></territory>
@@ -6126,6 +6139,7 @@
       <territory><territoryId>ZW</territoryId><rank>20</rank></territory>
       <territory><territoryId>BW</territoryId><rank>15</rank></territory>
       <territory><territoryId>AG</territoryId><rank>10</rank></territory>
+      <territory><territoryId>IL</territoryId><rank>5</rank></territory>
     </territories>
     <keyboards>
       <keyboard><keyboardId>us</keyboardId><rank>700</rank></keyboard>
@@ -8707,6 +8721,8 @@
     <locales>
       <locale><localeId>gez_ET.UTF-8</localeId><rank>900</rank></locale>
       <locale><localeId>gez_ER.UTF-8</localeId><rank>100</rank></locale>
+      <locale><localeId>gez_ET.UTF-8@abegede</localeId><rank>90</rank></locale>
+      <locale><localeId>gez_ER.UTF-8@abegede</localeId><rank>10</rank></locale>
     </locales>
     <territories>
       <territory><territoryId>ET</territoryId><rank>900</rank></territory>
@@ -15120,6 +15136,7 @@
       <script><scriptId>Latn</scriptId><rank>1000</rank></script>
     </scripts>
     <locales>
+      <locale><localeId>ln_CD.UTF-8</localeId><rank>1000</rank></locale>
     </locales>
     <territories>
       <territory><territoryId>CD</territoryId><rank>900</rank></territory>
@@ -15626,7 +15643,7 @@
       <script><scriptId>Hant</scriptId><rank>1000</rank></script>
     </scripts>
     <locales>
-      <locale><localeId>cmn_TW.UTF-8</localeId><rank>1000</rank></locale>
+      <locale><localeId>lzh_TW.UTF-8</localeId><rank>1000</rank></locale>
     </locales>
     <territories>
       <territory><territoryId>TW</territoryId><rank>1000</rank></territory>
@@ -15885,10 +15902,12 @@
       <script><scriptId>Tirh</scriptId><rank>10</rank></script>
     </scripts>
     <locales>
-      <locale><localeId>mai_IN.UTF-8</localeId><rank>1000</rank></locale>
+      <locale><localeId>mai_IN.UTF-8</localeId><rank>900</rank></locale>
+      <locale><localeId>mai_NP.UTF-8</localeId><rank>100</rank></locale>
     </locales>
     <territories>
-      <territory><territoryId>IN</territoryId><rank>1000</rank></territory>
+      <territory><territoryId>IN</territoryId><rank>900</rank></territory>
+      <territory><territoryId>NP</territoryId><rank>900</rank></territory>
     </territories>
     <keyboards>
       <keyboard><keyboardId>in(eng)</keyboardId><rank>1000</rank></keyboard>
@@ -17805,7 +17824,8 @@
       <script><scriptId>Hant</scriptId><rank>1000</rank></script>
     </scripts>
     <locales>
-      <locale><localeId>nan_TW.UTF-8</localeId><rank>1000</rank></locale>
+      <locale><localeId>nan_TW.UTF-8</localeId><rank>900</rank></locale>
+      <locale><localeId>nan_TW.UTF-8@latin</localeId><rank>100</rank></locale>
     </locales>
     <territories>
       <territory><territoryId>TW</territoryId><rank>1000</rank></territory>
@@ -20327,7 +20347,8 @@
       <script><scriptId>Latn</scriptId><rank>1000</rank></script>
     </scripts>
     <locales>
-      <locale><localeId>pap_AW.UTF-8</localeId><rank>0</rank></locale>
+      <locale><localeId>pap_AW.UTF-8</localeId><rank>600</rank></locale>
+      <locale><localeId>pap_CW.UTF-8</localeId><rank>400</rank></locale>
     </locales>
     <territories>
       <territory><territoryId>AW</territoryId><rank>0</rank></territory>
@@ -21025,6 +21046,7 @@
       <script><scriptId>Latn</scriptId><rank>1000</rank></script>
     </scripts>
     <locales>
+      <locale><localeId>quz_PE.UTF-8</localeId><rank>1000</rank></locale>
     </locales>
     <territories>
       <territory><territoryId>PE</territoryId><rank>400</rank></territory>
@@ -23885,10 +23907,12 @@
       <script><scriptId>Elba</scriptId><rank>10</rank></script>
     </scripts>
     <locales>
-      <locale><localeId>sq_AL.UTF-8</localeId><rank>1000</rank></locale>
+      <locale><localeId>sq_AL.UTF-8</localeId><rank>900</rank></locale>
+      <locale><localeId>sq_MK.UTF-8</localeId><rank>100</rank></locale>
     </locales>
     <territories>
-      <territory><territoryId>AL</territoryId><rank>1000</rank></territory>
+      <territory><territoryId>AL</territoryId><rank>900</rank></territory>
+      <territory><territoryId>MK</territoryId><rank>100</rank></territory>
     </territories>
     <keyboards>
       <keyboard><keyboardId>al</keyboardId><rank>1000</rank></keyboard>
@@ -25088,7 +25112,7 @@
       <script><scriptId>Knda</scriptId><rank>1000</rank></script>
     </scripts>
     <locales>
-      <locale><localeId>tu_IN.UTF-8</localeId><rank>1000</rank></locale>
+      <locale><localeId>tcy_IN.UTF-8</localeId><rank>1000</rank></locale>
     </locales>
     <territories>
       <territory><territoryId>IN</territoryId><rank>1000</rank></territory>
@@ -25700,9 +25724,10 @@
       <script><scriptId>Deva</scriptId><rank>1000</rank></script>
     </scripts>
     <locales>
+      <locale><localeId>the_NP.UTF-8</localeId><rank>1000</rank></locale>
     </locales>
     <territories>
-      <territory><territoryId>NP</territoryId><rank>400</rank></territory>
+      <territory><territoryId>NP</territoryId><rank>1000</rank></territory>
     </territories>
     <keyboards>
       <keyboard><keyboardId>np</keyboardId><rank>1000</rank></keyboard>
