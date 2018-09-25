@@ -143,6 +143,36 @@
     </timezones>
   </language>
   <language>
+    <languageId>ab</languageId>
+    <iso639-1>ab</iso639-1>
+    <iso639-2-t>abk</iso639-2-t>
+    <iso639-2-b>abk</iso639-2-b>
+    <names>
+      <name><languageId>ab</languageId><trName>аҧсуа бызшәа</trName></name>
+      <name><languageId>en</languageId><trName>Abkhazian</trName></name>
+      <name><languageId>de</languageId><trName>Abchasisch</trName></name>
+    </names>
+    <scripts>
+      <script><scriptId>Cyrl</scriptId><rank>1000</rank></script>
+    </scripts>
+    <locales>
+    </locales>
+    <territories>
+      <territory><territoryId>GE</territoryId><rank>1000</rank></territory>
+    </territories>
+    <keyboards>
+      <keyboard><keyboardId>ru</keyboardId><rank>1000</rank></keyboard>
+    </keyboards>
+    <inputmethods>
+    </inputmethods>
+    <consolefonts>
+      <consolefont><consolefontId>latarcyrheb-sun16</consolefontId><rank>1000</rank></consolefont>
+    </consolefonts>
+    <timezones>
+      <timezone><timezoneId>Asia/Tbilisi</timezoneId><rank>1000</rank></timezone>
+    </timezones>
+  </language>
+  <language>
     <languageId>af</languageId>
     <iso639-1>af</iso639-1>
     <iso639-2-t>afr</iso639-2-t>
@@ -1383,6 +1413,36 @@
     </consolefonts>
     <timezones>
       <timezone><timezoneId>Europe/Madrid</timezoneId><rank>1000</rank></timezone>
+    </timezones>
+  </language>
+  <language>
+    <languageId>av</languageId>
+    <iso639-1>av</iso639-1>
+    <iso639-2-t>ava</iso639-2-t>
+    <iso639-2-b>ava</iso639-2-b>
+    <names>
+      <name><languageId>av</languageId><trName>авар мацӀ</trName></name>
+      <name><languageId>en</languageId><trName>Avaric</trName></name>
+      <name><languageId>de</languageId><trName>Awarisch</trName></name>
+    </names>
+    <scripts>
+      <script><scriptId>Cyrl</scriptId><rank>1000</rank></script>
+    </scripts>
+    <locales>
+    </locales>
+    <territories>
+      <territory><territoryId>RU</territoryId><rank>1000</rank></territory>
+    </territories>
+    <keyboards>
+      <keyboard><keyboardId>ru</keyboardId><rank>1000</rank></keyboard>
+    </keyboards>
+    <inputmethods>
+    </inputmethods>
+    <consolefonts>
+      <consolefont><consolefontId>latarcyrheb-sun16</consolefontId><rank>1000</rank></consolefont>
+    </consolefonts>
+    <timezones>
+      <timezone><timezoneId>Europe/Moscow</timezoneId><rank>1000</rank></timezone>
     </timezones>
   </language>
   <language>
@@ -2713,6 +2773,67 @@
     </timezones>
   </language>
   <language>
+    <languageId>bin</languageId>
+    <iso639-1>None</iso639-1>
+    <iso639-2-t>bin</iso639-2-t>
+    <iso639-2-b>bin</iso639-2-b>
+    <names>
+      <name><languageId>bin</languageId><trName>Ẹ̀dó</trName></name>
+      <name><languageId>de</languageId><trName>Edo</trName></name>
+      <name><languageId>en</languageId><trName>Edo</trName></name>
+    </names>
+    <scripts>
+      <script><scriptId>Latn</scriptId><rank>1000</rank></script>
+    </scripts>
+    <locales>
+    </locales>
+    <territories>
+      <territory><territoryId>NG</territoryId><rank>1000</rank></territory>
+    </territories>
+    <keyboards>
+      <keyboard><keyboardId>us</keyboardId><rank>1000</rank></keyboard>
+    </keyboards>
+    <inputmethods>
+    </inputmethods>
+    <consolefonts>
+      <consolefont><consolefontId>eurlatgr</consolefontId><rank>1000</rank></consolefont>
+    </consolefonts>
+    <timezones>
+      <timezone><timezoneId>Africa/Lagos</timezoneId><rank>1000</rank></timezone>
+    </timezones>
+  </language>
+  <language>
+    <languageId>bm</languageId>
+    <iso639-1>None</iso639-1>
+    <iso639-2-t>bam</iso639-2-t>
+    <iso639-2-b>bam</iso639-2-b>
+    <names>
+      <name><languageId>bm</languageId><trName>Bambara</trName></name>
+      <name><languageId>de</languageId><trName>Bambara</trName></name>
+      <name><languageId>en</languageId><trName>Bambara</trName></name>
+    </names>
+    <scripts>
+      <script><scriptId>Latn</scriptId><rank>600</rank></script>
+      <script><scriptId>Nkoo</scriptId><rank>400</rank></script>
+    </scripts>
+    <locales>
+    </locales>
+    <territories>
+      <territory><territoryId>ML</territoryId><rank>1000</rank></territory>
+    </territories>
+    <keyboards>
+      <keyboard><keyboardId>us</keyboardId><rank>1000</rank></keyboard>
+    </keyboards>
+    <inputmethods>
+    </inputmethods>
+    <consolefonts>
+      <consolefont><consolefontId>eurlatgr</consolefontId><rank>1000</rank></consolefont>
+    </consolefonts>
+    <timezones>
+      <timezone><timezoneId>Africa/Bamako</timezoneId><rank>1000</rank></timezone>
+    </timezones>
+  </language>
+  <language>
     <languageId>bn</languageId>
     <iso639-1>bn</iso639-1>
     <iso639-2-t>ben</iso639-2-t>
@@ -3453,6 +3574,38 @@
     </timezones>
   </language>
   <language>
+    <languageId>bua</languageId>
+    <iso639-1>None</iso639-1>
+    <iso639-2-t>bua</iso639-2-t>
+    <iso639-2-b>bua</iso639-2-b>
+    <names>
+      <name><languageId>bua</languageId><trName>буряад хэлэн</trName></name>
+      <name><languageId>de</languageId><trName>Burjatisch</trName></name>
+      <name><languageId>en</languageId><trName>Buryat</trName></name>
+    </names>
+    <scripts>
+      <script><scriptId>Cyrl</scriptId><rank>700</rank></script>
+      <script><scriptId>Mong</scriptId><rank>200</rank></script>
+      <script><scriptId>Latn</scriptId><rank>100</rank></script>
+    </scripts>
+    <locales>
+    </locales>
+    <territories>
+      <territory><territoryId>RU</territoryId><rank>1000</rank></territory>
+    </territories>
+    <keyboards>
+      <keyboard><keyboardId>us</keyboardId><rank>1000</rank></keyboard>
+    </keyboards>
+    <inputmethods>
+    </inputmethods>
+    <consolefonts>
+      <consolefont><consolefontId>latarcyrheb-sun16</consolefontId><rank>1000</rank></consolefont>
+    </consolefonts>
+    <timezones>
+      <timezone><timezoneId>Asia/Irkutsk</timezoneId><rank>1000</rank></timezone>
+    </timezones>
+  </language>
+  <language>
     <languageId>byn</languageId>
     <iso639-1>None</iso639-1>
     <iso639-2-t>byn</iso639-2-t>
@@ -3875,6 +4028,38 @@
     </timezones>
   </language>
   <language>
+    <languageId>ch</languageId>
+    <iso639-1>ch</iso639-1>
+    <iso639-2-t>cha</iso639-2-t>
+    <iso639-2-b>cha</iso639-2-b>
+    <names>
+      <name><languageId>ch</languageId><trName>Finu' Chamoru</trName></name>
+      <name><languageId>de</languageId><trName>Chamorro</trName></name>
+      <name><languageId>en</languageId><trName>Chamorro</trName></name>
+    </names>
+    <scripts>
+      <script><scriptId>Latn</scriptId><rank>1000</rank></script>
+    </scripts>
+    <locales>
+    </locales>
+    <territories>
+      <territory><territoryId>GU</territoryId><rank>600</rank></territory>
+      <territory><territoryId>MP</territoryId><rank>400</rank></territory>
+    </territories>
+    <keyboards>
+      <keyboard><keyboardId>us</keyboardId><rank>1000</rank></keyboard>
+    </keyboards>
+    <inputmethods>
+    </inputmethods>
+    <consolefonts>
+      <consolefont><consolefontId>eurlatgr</consolefontId><rank>1000</rank></consolefont>
+    </consolefonts>
+    <timezones>
+      <timezone><timezoneId>Pacific/Guam</timezoneId><rank>600</rank></timezone>
+      <timezone><timezoneId>Pacific/Saipan</timezoneId><rank>400</rank></timezone>
+    </timezones>
+  </language>
+  <language>
     <languageId>chm</languageId>
     <iso639-1>None</iso639-1>
     <iso639-2-t>chm</iso639-2-t>
@@ -4176,6 +4361,38 @@
     <timezones>
       <timezone><timezoneId>Asia/Shanghai</timezoneId><rank>900</rank></timezone>
       <timezone><timezoneId>Asia/Taipei</timezoneId><rank>20</rank></timezone>
+    </timezones>
+  </language>
+  <language>
+    <languageId>co</languageId>
+    <iso639-1>co</iso639-1>
+    <iso639-2-t>cos</iso639-2-t>
+    <iso639-2-b>cos</iso639-2-b>
+    <names>
+      <name><languageId>co</languageId><trName>corsu</trName></name>
+      <name><languageId>de</languageId><trName>Korsisch</trName></name>
+      <name><languageId>en</languageId><trName>Corsican</trName></name>
+    </names>
+    <scripts>
+      <script><scriptId>Latn</scriptId><rank>1000</rank></script>
+    </scripts>
+    <locales>
+    </locales>
+    <territories>
+      <territory><territoryId>FR</territoryId><rank>1000</rank></territory>
+    </territories>
+    <keyboards>
+      <keyboard><keyboardId>fr(oss)</keyboardId><rank>900</rank></keyboard>
+      <keyboard><keyboardId>fr</keyboardId><rank>0</rank></keyboard>
+      <keyboard><keyboardId>fr(latin9)</keyboardId><rank>0</rank></keyboard>
+    </keyboards>
+    <inputmethods>
+    </inputmethods>
+    <consolefonts>
+      <consolefont><consolefontId>eurlatgr</consolefontId><rank>1000</rank></consolefont>
+    </consolefonts>
+    <timezones>
+      <timezone><timezoneId>Europe/Paris</timezoneId><rank>1000</rank></timezone>
     </timezones>
   </language>
   <language>
@@ -4648,6 +4865,51 @@
     </consolefonts>
     <timezones>
       <timezone><timezoneId>Europe/Warsaw</timezoneId><rank>1000</rank></timezone>
+    </timezones>
+  </language>
+  <language>
+    <languageId>cu</languageId>
+    <iso639-1>cu</iso639-1>
+    <iso639-2-t>chu</iso639-2-t>
+    <iso639-2-b>chu</iso639-2-b>
+    <names>
+      <name><languageId>cu</languageId><trName>Славе́нскїй ѧ҆зы́къ</trName></name>
+      <name><languageId>de</languageId><trName>Kirchenslawisch</trName></name>
+      <name><languageId>en</languageId><trName>Church Slavonic</trName></name>
+    </names>
+    <scripts>
+      <script><scriptId>Cyrs</scriptId><rank>900</rank></script>
+      <script><scriptId>Glag</scriptId><rank>100</rank></script>
+    </scripts>
+    <locales>
+    </locales>
+    <territories>
+      <territory><territoryId>BG</territoryId><rank>100</rank></territory>
+      <territory><territoryId>PL</territoryId><rank>95</rank></territory>
+      <territory><territoryId>CZ</territoryId><rank>90</rank></territory>
+      <territory><territoryId>SK</territoryId><rank>85</rank></territory>
+      <territory><territoryId>RU</territoryId><rank>80</rank></territory>
+      <territory><territoryId>BY</territoryId><rank>75</rank></territory>
+      <territory><territoryId>RS</territoryId><rank>70</rank></territory>
+      <territory><territoryId>ME</territoryId><rank>65</rank></territory>
+      <territory><territoryId>BA</territoryId><rank>60</rank></territory>
+      <territory><territoryId>MK</territoryId><rank>55</rank></territory>
+      <territory><territoryId>UA</territoryId><rank>50</rank></territory>
+      <territory><territoryId>SI</territoryId><rank>45</rank></territory>
+      <territory><territoryId>HR</territoryId><rank>40</rank></territory>
+    </territories>
+    <keyboards>
+      <keyboard><keyboardId>bg</keyboardId><rank>600</rank></keyboard>
+      <keyboard><keyboardId>ru</keyboardId><rank>400</rank></keyboard>
+    </keyboards>
+    <inputmethods>
+    </inputmethods>
+    <consolefonts>
+      <consolefont><consolefontId>latarcyrheb-sun16</consolefontId><rank>1000</rank></consolefont>
+    </consolefonts>
+    <timezones>
+      <timezone><timezoneId>Europe/Sofia</timezoneId><rank>600</rank></timezone>
+      <timezone><timezoneId>Europe/Warsaw</timezoneId><rank>400</rank></timezone>
     </timezones>
   </language>
   <language>
@@ -5783,6 +6045,38 @@
     </consolefonts>
     <timezones>
       <timezone><timezoneId>Asia/Thimphu</timezoneId><rank>1000</rank></timezone>
+    </timezones>
+  </language>
+  <language>
+    <languageId>ee</languageId>
+    <iso639-1>ee</iso639-1>
+    <iso639-2-t>ewe</iso639-2-t>
+    <iso639-2-b>ewe</iso639-2-b>
+    <names>
+      <name><languageId>de</languageId><trName>Ewe</trName></name>
+      <name><languageId>ee</languageId><trName>Èʋegbe</trName></name>
+      <name><languageId>en</languageId><trName>Ewe</trName></name>
+    </names>
+    <scripts>
+      <script><scriptId>Latn</scriptId><rank>1000</rank></script>
+    </scripts>
+    <locales>
+    </locales>
+    <territories>
+      <territory><territoryId>GH</territoryId><rank>900</rank></territory>
+      <territory><territoryId>TG</territoryId><rank>100</rank></territory>
+    </territories>
+    <keyboards>
+      <keyboard><keyboardId>us</keyboardId><rank>1000</rank></keyboard>
+    </keyboards>
+    <inputmethods>
+    </inputmethods>
+    <consolefonts>
+      <consolefont><consolefontId>eurlatgr</consolefontId><rank>1000</rank></consolefont>
+    </consolefonts>
+    <timezones>
+      <timezone><timezoneId>Africa/Accra</timezoneId><rank>900</rank></timezone>
+      <timezone><timezoneId>Africa/Lome</timezoneId><rank>100</rank></timezone>
     </timezones>
   </language>
   <language>
@@ -7114,6 +7408,36 @@
     </consolefonts>
     <timezones>
       <timezone><timezoneId>Asia/Tehran</timezoneId><rank>1000</rank></timezone>
+    </timezones>
+  </language>
+  <language>
+    <languageId>fat</languageId>
+    <iso639-1>None</iso639-1>
+    <iso639-2-t>fat</iso639-2-t>
+    <iso639-2-b>fat</iso639-2-b>
+    <names>
+      <name><languageId>de</languageId><trName>Fante</trName></name>
+      <name><languageId>en</languageId><trName>Fantse</trName></name>
+      <name><languageId>fat</languageId><trName>Fantse</trName></name>
+    </names>
+    <scripts>
+      <script><scriptId>Latn</scriptId><rank>1000</rank></script>
+    </scripts>
+    <locales>
+    </locales>
+    <territories>
+      <territory><territoryId>GH</territoryId><rank>1000</rank></territory>
+    </territories>
+    <keyboards>
+      <keyboard><keyboardId>us</keyboardId><rank>1000</rank></keyboard>
+    </keyboards>
+    <inputmethods>
+    </inputmethods>
+    <consolefonts>
+      <consolefont><consolefontId>eurlatgr</consolefontId><rank>1000</rank></consolefont>
+    </consolefonts>
+    <timezones>
+      <timezone><timezoneId>Africa/Accra</timezoneId><rank>1000</rank></timezone>
     </timezones>
   </language>
   <language>
@@ -9008,6 +9332,36 @@
     </timezones>
   </language>
   <language>
+    <languageId>gn</languageId>
+    <iso639-1>gn</iso639-1>
+    <iso639-2-t>grn</iso639-2-t>
+    <iso639-2-b>grn</iso639-2-b>
+    <names>
+      <name><languageId>de</languageId><trName>Guaraní</trName></name>
+      <name><languageId>en</languageId><trName>Guarani</trName></name>
+      <name><languageId>gn</languageId><trName>Avañe'ẽ</trName></name>
+    </names>
+    <scripts>
+      <script><scriptId>Latn</scriptId><rank>1000</rank></script>
+    </scripts>
+    <locales>
+    </locales>
+    <territories>
+      <territory><territoryId>PY</territoryId><rank>1000</rank></territory>
+    </territories>
+    <keyboards>
+      <keyboard><keyboardId>us</keyboardId><rank>1000</rank></keyboard>
+    </keyboards>
+    <inputmethods>
+    </inputmethods>
+    <consolefonts>
+      <consolefont><consolefontId>eurlatgr</consolefontId><rank>1000</rank></consolefont>
+    </consolefonts>
+    <timezones>
+      <timezone><timezoneId>America/Asuncion</timezoneId><rank>1000</rank></timezone>
+    </timezones>
+  </language>
+  <language>
     <languageId>gu</languageId>
     <iso639-1>gu</iso639-1>
     <iso639-2-t>guj</iso639-2-t>
@@ -10217,6 +10571,36 @@
     </timezones>
   </language>
   <language>
+    <languageId>ho</languageId>
+    <iso639-1>ho</iso639-1>
+    <iso639-2-t>hmo</iso639-2-t>
+    <iso639-2-b>hmo</iso639-2-b>
+    <names>
+      <name><languageId>de</languageId><trName>Hiri Motu</trName></name>
+      <name><languageId>en</languageId><trName>Hiri Motu</trName></name>
+      <name><languageId>ho</languageId><trName>Hiri Motu</trName></name>
+    </names>
+    <scripts>
+      <script><scriptId>Latn</scriptId><rank>1000</rank></script>
+    </scripts>
+    <locales>
+    </locales>
+    <territories>
+      <territory><territoryId>PG</territoryId><rank>1000</rank></territory>
+    </territories>
+    <keyboards>
+      <keyboard><keyboardId>us</keyboardId><rank>1000</rank></keyboard>
+    </keyboards>
+    <inputmethods>
+    </inputmethods>
+    <consolefonts>
+      <consolefont><consolefontId>eurlatgr</consolefontId><rank>1000</rank></consolefont>
+    </consolefonts>
+    <timezones>
+      <timezone><timezoneId>Pacific/Port_Moresby</timezoneId><rank>1000</rank></timezone>
+    </timezones>
+  </language>
+  <language>
     <languageId>hr</languageId>
     <iso639-1>hr</iso639-1>
     <iso639-2-t>hrv</iso639-2-t>
@@ -10955,6 +11339,40 @@
     </timezones>
   </language>
   <language>
+    <languageId>hz</languageId>
+    <iso639-1>hz</iso639-1>
+    <iso639-2-t>her</iso639-2-t>
+    <iso639-2-b>her</iso639-2-b>
+    <names>
+      <name><languageId>de</languageId><trName>Otjiherero</trName></name>
+      <name><languageId>en</languageId><trName>Herero</trName></name>
+      <name><languageId>hz</languageId><trName>Otjiherero</trName></name>
+    </names>
+    <scripts>
+      <script><scriptId>Latn</scriptId><rank>1000</rank></script>
+    </scripts>
+    <locales>
+    </locales>
+    <territories>
+      <territory><territoryId>NA</territoryId><rank>9000</rank></territory>
+      <territory><territoryId>BW</territoryId><rank>90</rank></territory>
+      <territory><territoryId>AO</territoryId><rank>10</rank></territory>
+    </territories>
+    <keyboards>
+      <keyboard><keyboardId>us</keyboardId><rank>1000</rank></keyboard>
+    </keyboards>
+    <inputmethods>
+    </inputmethods>
+    <consolefonts>
+      <consolefont><consolefontId>eurlatgr</consolefontId><rank>1000</rank></consolefont>
+    </consolefonts>
+    <timezones>
+      <timezone><timezoneId>Africa/Windhoek</timezoneId><rank>900</rank></timezone>
+      <timezone><timezoneId>Africa/Gaborone</timezoneId><rank>90</rank></timezone>
+      <timezone><timezoneId>Africa/Luanda</timezoneId><rank>10</rank></timezone>
+    </timezones>
+  </language>
+  <language>
     <languageId>ia</languageId>
     <iso639-1>ia</iso639-1>
     <iso639-2-t>ina</iso639-2-t>
@@ -11257,6 +11675,34 @@
     </timezones>
   </language>
   <language>
+    <languageId>ie</languageId>
+    <iso639-1>ie</iso639-1>
+    <iso639-2-t>ile</iso639-2-t>
+    <iso639-2-b>ile</iso639-2-b>
+    <names>
+      <name><languageId>de</languageId><trName>Interlingue</trName></name>
+      <name><languageId>en</languageId><trName>Interlingue</trName></name>
+      <name><languageId>ile</languageId><trName>Interlingue</trName></name>
+    </names>
+    <scripts>
+      <script><scriptId>Latn</scriptId><rank>1000</rank></script>
+    </scripts>
+    <locales>
+    </locales>
+    <territories>
+    </territories>
+    <keyboards>
+      <keyboard><keyboardId>us</keyboardId><rank>1000</rank></keyboard>
+    </keyboards>
+    <inputmethods>
+    </inputmethods>
+    <consolefonts>
+      <consolefont><consolefontId>eurlatgr</consolefontId><rank>1000</rank></consolefont>
+    </consolefonts>
+    <timezones>
+    </timezones>
+  </language>
+  <language>
     <languageId>ig</languageId>
     <iso639-1>ig</iso639-1>
     <iso639-2-t>ibo</iso639-2-t>
@@ -11401,6 +11847,36 @@
     </consolefonts>
     <timezones>
       <timezone><timezoneId>Africa/Lagos</timezoneId><rank>1000</rank></timezone>
+    </timezones>
+  </language>
+  <language>
+    <languageId>ii</languageId>
+    <iso639-1>ii</iso639-1>
+    <iso639-2-t>iii</iso639-2-t>
+    <iso639-2-b>iii</iso639-2-b>
+    <names>
+      <name><languageId>de</languageId><trName>Nuosu</trName></name>
+      <name><languageId>en</languageId><trName>Nuosu</trName></name>
+      <name><languageId>ii</languageId><trName>ꆈꌠꉙ</trName></name>
+    </names>
+    <scripts>
+      <script><scriptId>Yiii</scriptId><rank>1000</rank></script>
+    </scripts>
+    <locales>
+    </locales>
+    <territories>
+      <territory><territoryId>CN</territoryId><rank>1000</rank></territory>
+    </territories>
+    <keyboards>
+      <keyboard><keyboardId>us</keyboardId><rank>1000</rank></keyboard>
+    </keyboards>
+    <inputmethods>
+    </inputmethods>
+    <consolefonts>
+      <consolefont><consolefontId>eurlatgr</consolefontId><rank>1000</rank></consolefont>
+    </consolefonts>
+    <timezones>
+      <timezone><timezoneId>Asia/Shanghai</timezoneId><rank>1000</rank></timezone>
     </timezones>
   </language>
   <language>
@@ -11633,6 +12109,34 @@
     </consolefonts>
     <timezones>
       <timezone><timezoneId>Asia/Manila</timezoneId><rank>10</rank></timezone>
+    </timezones>
+  </language>
+  <language>
+    <languageId>io</languageId>
+    <iso639-1>io</iso639-1>
+    <iso639-2-t>ido</iso639-2-t>
+    <iso639-2-b>ido</iso639-2-b>
+    <names>
+      <name><languageId>de</languageId><trName>Ido</trName></name>
+      <name><languageId>en</languageId><trName>Ido</trName></name>
+      <name><languageId>io</languageId><trName>Ido</trName></name>
+    </names>
+    <scripts>
+      <script><scriptId>Latn</scriptId><rank>1000</rank></script>
+    </scripts>
+    <locales>
+    </locales>
+    <territories>
+    </territories>
+    <keyboards>
+      <keyboard><keyboardId>us</keyboardId><rank>1000</rank></keyboard>
+    </keyboards>
+    <inputmethods>
+    </inputmethods>
+    <consolefonts>
+      <consolefont><consolefontId>eurlatgr</consolefontId><rank>1000</rank></consolefont>
+    </consolefonts>
+    <timezones>
     </timezones>
   </language>
   <language>
@@ -12307,6 +12811,38 @@
     </timezones>
   </language>
   <language>
+    <languageId>jv</languageId>
+    <iso639-1>jv</iso639-1>
+    <iso639-2-t>jav</iso639-2-t>
+    <iso639-2-b>jav</iso639-2-b>
+    <names>
+      <name><languageId>de</languageId><trName>Javanisch</trName></name>
+      <name><languageId>en</languageId><trName>Javanese</trName></name>
+      <name><languageId>jv</languageId><trName>ꦧꦱꦗꦮ</trName></name>
+    </names>
+    <scripts>
+      <script><scriptId>Java</scriptId><rank>900</rank></script>
+      <script><scriptId>Latn</scriptId><rank>90</rank></script>
+      <script><scriptId>Arab</scriptId><rank>90</rank></script>
+    </scripts>
+    <locales>
+    </locales>
+    <territories>
+      <territory><territoryId>ID</territoryId><rank>1000</rank></territory>
+    </territories>
+    <keyboards>
+      <keyboard><keyboardId>us</keyboardId><rank>1000</rank></keyboard>
+    </keyboards>
+    <inputmethods>
+    </inputmethods>
+    <consolefonts>
+      <consolefont><consolefontId>eurlatgr</consolefontId><rank>1000</rank></consolefont>
+    </consolefonts>
+    <timezones>
+      <timezone><timezoneId>Asia/Jakarta</timezoneId><rank>1000</rank></timezone>
+    </timezones>
+  </language>
+  <language>
     <languageId>ka</languageId>
     <iso639-1>ka</iso639-1>
     <iso639-2-t>kat</iso639-2-t>
@@ -12458,6 +12994,37 @@
     </consolefonts>
     <timezones>
       <timezone><timezoneId>Asia/Tbilisi</timezoneId><rank>1000</rank></timezone>
+    </timezones>
+  </language>
+  <language>
+    <languageId>kaa</languageId>
+    <iso639-1>None</iso639-1>
+    <iso639-2-t>kaa</iso639-2-t>
+    <iso639-2-b>kaa</iso639-2-b>
+    <names>
+      <name><languageId>de</languageId><trName>Karakalpakisch</trName></name>
+      <name><languageId>en</languageId><trName>Karakalpak</trName></name>
+      <name><languageId>kaa</languageId><trName>Qaraqalpaq tili</trName></name>
+    </names>
+    <scripts>
+      <script><scriptId>Latn</scriptId><rank>900</rank></script>
+      <script><scriptId>Cyrl</scriptId><rank>100</rank></script>
+    </scripts>
+    <locales>
+    </locales>
+    <territories>
+      <territory><territoryId>UZ</territoryId><rank>1000</rank></territory>
+    </territories>
+    <keyboards>
+      <keyboard><keyboardId>us</keyboardId><rank>1000</rank></keyboard>
+    </keyboards>
+    <inputmethods>
+    </inputmethods>
+    <consolefonts>
+      <consolefont><consolefontId>eurlatgr</consolefontId><rank>1000</rank></consolefont>
+    </consolefonts>
+    <timezones>
+      <timezone><timezoneId>Asia/Samarkand</timezoneId><rank>1000</rank></timezone>
     </timezones>
   </language>
   <language>
@@ -12739,6 +13306,72 @@
       <timezone><timezoneId>Asia/Vientiane</timezoneId><rank>150</rank></timezone>
       <timezone><timezoneId>Asia/Bangkok</timezoneId><rank>100</rank></timezone>
       <timezone><timezoneId>Asia/Ho_Chi_Minh</timezoneId><rank>50</rank></timezone>
+    </timezones>
+  </language>
+  <language>
+    <languageId>ki</languageId>
+    <iso639-1>ki</iso639-1>
+    <iso639-2-t>kik</iso639-2-t>
+    <iso639-2-b>kik</iso639-2-b>
+    <names>
+      <name><languageId>de</languageId><trName>Kikuyu</trName></name>
+      <name><languageId>en</languageId><trName>Kikuyu</trName></name>
+      <name><languageId>ki</languageId><trName>Gĩkũyũ</trName></name>
+    </names>
+    <scripts>
+      <script><scriptId>Latn</scriptId><rank>1000</rank></script>
+    </scripts>
+    <locales>
+    </locales>
+    <territories>
+      <territory><territoryId>KE</territoryId><rank>700</rank></territory>
+      <territory><territoryId>TZ</territoryId><rank>200</rank></territory>
+      <territory><territoryId>UG</territoryId><rank>100</rank></territory>
+    </territories>
+    <keyboards>
+      <keyboard><keyboardId>us</keyboardId><rank>1000</rank></keyboard>
+    </keyboards>
+    <inputmethods>
+    </inputmethods>
+    <consolefonts>
+      <consolefont><consolefontId>eurlatgr</consolefontId><rank>1000</rank></consolefont>
+    </consolefonts>
+    <timezones>
+      <timezone><timezoneId>Africa/Nairobi</timezoneId><rank>700</rank></timezone>
+      <timezone><timezoneId>Africa/Dar_es_Salaam</timezoneId><rank>200</rank></timezone>
+      <timezone><timezoneId>Africa/Kampala</timezoneId><rank>100</rank></timezone>
+    </timezones>
+  </language>
+  <language>
+    <languageId>kj</languageId>
+    <iso639-1>kj</iso639-1>
+    <iso639-2-t>kua</iso639-2-t>
+    <iso639-2-b>kua</iso639-2-b>
+    <names>
+      <name><languageId>de</languageId><trName>Kwanyama</trName></name>
+      <name><languageId>en</languageId><trName>Kwanyama</trName></name>
+      <name><languageId>kj</languageId><trName>Kwanyama</trName></name>
+    </names>
+    <scripts>
+      <script><scriptId>Latn</scriptId><rank>1000</rank></script>
+    </scripts>
+    <locales>
+    </locales>
+    <territories>
+      <territory><territoryId>AO</territoryId><rank>700</rank></territory>
+      <territory><territoryId>NA</territoryId><rank>300</rank></territory>
+    </territories>
+    <keyboards>
+      <keyboard><keyboardId>us</keyboardId><rank>1000</rank></keyboard>
+    </keyboards>
+    <inputmethods>
+    </inputmethods>
+    <consolefonts>
+      <consolefont><consolefontId>eurlatgr</consolefontId><rank>1000</rank></consolefont>
+    </consolefonts>
+    <timezones>
+      <timezone><timezoneId>Africa/Luanda</timezoneId><rank>700</rank></timezone>
+      <timezone><timezoneId>Africa/Windhoek</timezoneId><rank>300</rank></timezone>
     </timezones>
   </language>
   <language>
@@ -13629,6 +14262,43 @@
     </timezones>
   </language>
   <language>
+    <languageId>kr</languageId>
+    <iso639-1>kr</iso639-1>
+    <iso639-2-t>kau</iso639-2-t>
+    <iso639-2-b>kau</iso639-2-b>
+    <names>
+      <name><languageId>de</languageId><trName>Kanuri</trName></name>
+      <name><languageId>en</languageId><trName>Kanuri</trName></name>
+      <name><languageId>kr</languageId><trName>Kanuri</trName></name>
+    </names>
+    <scripts>
+      <script><scriptId>Latn</scriptId><rank>900</rank></script>
+      <script><scriptId>Arab</scriptId><rank>100</rank></script>
+    </scripts>
+    <locales>
+    </locales>
+    <territories>
+      <territory><territoryId>NG</territoryId><rank>400</rank></territory>
+      <territory><territoryId>NE</territoryId><rank>300</rank></territory>
+      <territory><territoryId>TD</territoryId><rank>200</rank></territory>
+      <territory><territoryId>CM</territoryId><rank>100</rank></territory>
+    </territories>
+    <keyboards>
+      <keyboard><keyboardId>us</keyboardId><rank>1000</rank></keyboard>
+    </keyboards>
+    <inputmethods>
+    </inputmethods>
+    <consolefonts>
+      <consolefont><consolefontId>eurlatgr</consolefontId><rank>1000</rank></consolefont>
+    </consolefonts>
+    <timezones>
+      <timezone><timezoneId>Africa/Lagos</timezoneId><rank>400</rank></timezone>
+      <timezone><timezoneId>Africa/Niamey</timezoneId><rank>300</rank></timezone>
+      <timezone><timezoneId>Africa/Ndjamena</timezoneId><rank>200</rank></timezone>
+      <timezone><timezoneId>Africa/Douala</timezoneId><rank>100</rank></timezone>
+    </timezones>
+  </language>
+  <language>
     <languageId>ks</languageId>
     <iso639-1>ks</iso639-1>
     <iso639-2-t>kas</iso639-2-t>
@@ -13990,6 +14660,37 @@
     </timezones>
   </language>
   <language>
+    <languageId>kum</languageId>
+    <iso639-1>None</iso639-1>
+    <iso639-2-t>kum</iso639-2-t>
+    <iso639-2-b>kum</iso639-2-b>
+    <names>
+      <name><languageId>de</languageId><trName>Kumykisch</trName></name>
+      <name><languageId>en</languageId><trName>Kumyk</trName></name>
+      <name><languageId>kum</languageId><trName>къумукъ тил</trName></name>
+    </names>
+    <scripts>
+      <script><scriptId>Cyrl</scriptId><rank>990</rank></script>
+      <script><scriptId>Latn</scriptId><rank>10</rank></script>
+    </scripts>
+    <locales>
+    </locales>
+    <territories>
+      <territory><territoryId>RU</territoryId><rank>1000</rank></territory>
+    </territories>
+    <keyboards>
+      <keyboard><keyboardId>ru</keyboardId><rank>1000</rank></keyboard>
+    </keyboards>
+    <inputmethods>
+    </inputmethods>
+    <consolefonts>
+      <consolefont><consolefontId>latarcyrheb-sun16</consolefontId><rank>1000</rank></consolefont>
+    </consolefonts>
+    <timezones>
+      <timezone><timezoneId>Europe/Moscow</timezoneId><rank>1000</rank></timezone>
+    </timezones>
+  </language>
+  <language>
     <languageId>kv</languageId>
     <iso639-1>kv</iso639-1>
     <iso639-2-t>kom</iso639-2-t>
@@ -14246,6 +14947,38 @@
     </consolefonts>
     <timezones>
       <timezone><timezoneId>Europe/London</timezoneId><rank>1000</rank></timezone>
+    </timezones>
+  </language>
+  <language>
+    <languageId>kwm</languageId>
+    <iso639-1>None</iso639-1>
+    <iso639-2-t>None</iso639-2-t>
+    <iso639-2-b>None</iso639-2-b>
+    <names>
+      <name><languageId>de</languageId><trName>Kwambi</trName></name>
+      <name><languageId>en</languageId><trName>Kwambi</trName></name>
+      <name><languageId>kwm</languageId><trName>Kwambi</trName></name>
+    </names>
+    <scripts>
+      <script><scriptId>Latn</scriptId><rank>1000</rank></script>
+    </scripts>
+    <locales>
+    </locales>
+    <territories>
+      <territory><territoryId>NA</territoryId><rank>600</rank></territory>
+      <territory><territoryId>AO</territoryId><rank>400</rank></territory>
+    </territories>
+    <keyboards>
+      <keyboard><keyboardId>us</keyboardId><rank>1000</rank></keyboard>
+    </keyboards>
+    <inputmethods>
+    </inputmethods>
+    <consolefonts>
+      <consolefont><consolefontId>eurlatgr</consolefontId><rank>1000</rank></consolefont>
+    </consolefonts>
+    <timezones>
+      <timezone><timezoneId>Africa/Windhoek</timezoneId><rank>600</rank></timezone>
+      <timezone><timezoneId>Africa/Luanda</timezoneId><rank>400</rank></timezone>
     </timezones>
   </language>
   <language>
@@ -14553,6 +15286,36 @@
     </timezones>
   </language>
   <language>
+    <languageId>lah</languageId>
+    <iso639-1>None</iso639-1>
+    <iso639-2-t>lah</iso639-2-t>
+    <iso639-2-b>lah</iso639-2-b>
+    <names>
+      <name><languageId>de</languageId><trName>Lahnda</trName></name>
+      <name><languageId>en</languageId><trName>Lahnda</trName></name>
+      <name><languageId>lah</languageId><trName>Lahnda</trName></name>
+    </names>
+    <scripts>
+      <script><scriptId>Arab</scriptId><rank>1000</rank></script>
+    </scripts>
+    <locales>
+    </locales>
+    <territories>
+      <territory><territoryId>PK</territoryId><rank>1000</rank></territory>
+    </territories>
+    <keyboards>
+      <keyboard><keyboardId>us</keyboardId><rank>1000</rank></keyboard>
+    </keyboards>
+    <inputmethods>
+    </inputmethods>
+    <consolefonts>
+      <consolefont><consolefontId>eurlatgr</consolefontId><rank>1000</rank></consolefont>
+    </consolefonts>
+    <timezones>
+      <timezone><timezoneId>Asia/Karachi</timezoneId><rank>1000</rank></timezone>
+    </timezones>
+  </language>
+   <language>
     <languageId>lb</languageId>
     <iso639-1>lb</iso639-1>
     <iso639-2-t>ltz</iso639-2-t>
@@ -14693,6 +15456,38 @@
     </consolefonts>
     <timezones>
       <timezone><timezoneId>Europe/Luxembourg</timezoneId><rank>1000</rank></timezone>
+    </timezones>
+  </language>
+  <language>
+    <languageId>lez</languageId>
+    <iso639-1>None</iso639-1>
+    <iso639-2-t>lez</iso639-2-t>
+    <iso639-2-b>lez</iso639-2-b>
+    <names>
+      <name><languageId>de</languageId><trName>Lesgisch</trName></name>
+      <name><languageId>en</languageId><trName>Lezgian</trName></name>
+      <name><languageId>lez</languageId><trName>Лезги чӏал</trName></name>
+    </names>
+    <scripts>
+      <script><scriptId>Cyrl</scriptId><rank>1000</rank></script>
+    </scripts>
+    <locales>
+    </locales>
+    <territories>
+      <territory><territoryId>RU</territoryId><rank>600</rank></territory>
+      <territory><territoryId>AZ</territoryId><rank>400</rank></territory>
+    </territories>
+    <keyboards>
+      <keyboard><keyboardId>ru</keyboardId><rank>1000</rank></keyboard>
+    </keyboards>
+    <inputmethods>
+    </inputmethods>
+    <consolefonts>
+      <consolefont><consolefontId>latarcyrheb-sun16</consolefontId><rank>1000</rank></consolefont>
+    </consolefonts>
+    <timezones>
+      <timezone><timezoneId>Europe/Moscow</timezoneId><rank>600</rank></timezone>
+      <timezone><timezoneId>Asia/Baku</timezoneId><rank>400</rank></timezone>
     </timezones>
   </language>
   <language>
@@ -16224,6 +17019,36 @@
     </timezones>
   </language>
   <language>
+    <languageId>mh</languageId>
+    <iso639-1>mh</iso639-1>
+    <iso639-2-t>mah</iso639-2-t>
+    <iso639-2-b>mah</iso639-2-b>
+    <names>
+      <name><languageId>de</languageId><trName>Marshallesisch</trName></name>
+      <name><languageId>en</languageId><trName>Marshallese</trName></name>
+      <name><languageId>mh</languageId><trName>Kajin M̧ajeļ</trName></name>
+    </names>
+    <scripts>
+      <script><scriptId>Latn</scriptId><rank>1000</rank></script>
+    </scripts>
+    <locales>
+    </locales>
+    <territories>
+      <territory><territoryId>MH</territoryId><rank>1000</rank></territory>
+    </territories>
+    <keyboards>
+      <keyboard><keyboardId>us</keyboardId><rank>1000</rank></keyboard>
+    </keyboards>
+    <inputmethods>
+    </inputmethods>
+    <consolefonts>
+      <consolefont><consolefontId>eurlatgr</consolefontId><rank>1000</rank></consolefont>
+    </consolefonts>
+    <timezones>
+      <timezone><timezoneId>Pacific/Majuro</timezoneId><rank>1000</rank></timezone>
+    </timezones>
+  </language>
+  <language>
     <languageId>mi</languageId>
     <iso639-1>mi</iso639-1>
     <iso639-2-t>mri</iso639-2-t>
@@ -17014,6 +17839,37 @@
     </timezones>
   </language>
   <language>
+    <languageId>mo</languageId>
+    <iso639-1>mo</iso639-1>
+    <iso639-2-t>mol</iso639-2-t>
+    <iso639-2-b>mol</iso639-2-b>
+    <names>
+      <name><languageId>de</languageId><trName>Moldauisch</trName></name>
+      <name><languageId>en</languageId><trName>Moldovan</trName></name>
+      <name><languageId>mo</languageId><trName>лимба молдовеняскэ</trName></name>
+    </names>
+    <scripts>
+      <script><scriptId>Cyrl</scriptId><rank>9000</rank></script>
+      <script><scriptId>Latn</scriptId><rank>100</rank></script>
+    </scripts>
+    <locales>
+    </locales>
+    <territories>
+      <territory><territoryId>MD</territoryId><rank>1000</rank></territory>
+    </territories>
+    <keyboards>
+      <keyboard><keyboardId>ru</keyboardId><rank>1000</rank></keyboard>
+    </keyboards>
+    <inputmethods>
+    </inputmethods>
+    <consolefonts>
+      <consolefont><consolefontId>latarcyrheb-sun16</consolefontId><rank>1000</rank></consolefont>
+    </consolefonts>
+    <timezones>
+      <timezone><timezoneId>Europe/Chisinau</timezoneId><rank>1000</rank></timezone>
+    </timezones>
+  </language>
+  <language>
     <languageId>mos</languageId>
     <iso639-1>None</iso639-1>
     <iso639-2-t>mos</iso639-2-t>
@@ -17755,6 +18611,36 @@
     </timezones>
   </language>
   <language>
+    <languageId>na</languageId>
+    <iso639-1>na</iso639-1>
+    <iso639-2-t>nau</iso639-2-t>
+    <iso639-2-b>nau</iso639-2-b>
+    <names>
+      <name><languageId>de</languageId><trName>Nauruisch</trName></name>
+      <name><languageId>en</languageId><trName>Nauruan</trName></name>
+      <name><languageId>na</languageId><trName>Dorerin Naoero</trName></name>
+    </names>
+    <scripts>
+      <script><scriptId>Latn</scriptId><rank>1000</rank></script>
+    </scripts>
+    <locales>
+    </locales>
+    <territories>
+      <territory><territoryId>NR</territoryId><rank>1000</rank></territory>
+    </territories>
+    <keyboards>
+      <keyboard><keyboardId>us</keyboardId><rank>1000</rank></keyboard>
+    </keyboards>
+    <inputmethods>
+    </inputmethods>
+    <consolefonts>
+      <consolefont><consolefontId>eurlatgr</consolefontId><rank>1000</rank></consolefont>
+    </consolefonts>
+    <timezones>
+      <timezone><timezoneId>Pacific/Nauru</timezoneId><rank>1000</rank></timezone>
+    </timezones>
+  </language>
+  <language>
     <languageId>nan</languageId>
     <iso639-1>None</iso639-1>
     <iso639-2-t>None</iso639-2-t>
@@ -18395,6 +19281,38 @@
     </timezones>
   </language>
   <language>
+    <languageId>ng</languageId>
+    <iso639-1>ng</iso639-1>
+    <iso639-2-t>ndo</iso639-2-t>
+    <iso639-2-b>ndo</iso639-2-b>
+    <names>
+      <name><languageId>de</languageId><trName>Ndonga</trName></name>
+      <name><languageId>en</languageId><trName>Ndonga</trName></name>
+      <name><languageId>ng</languageId><trName>ndonga</trName></name>
+    </names>
+    <scripts>
+      <script><scriptId>Latn</scriptId><rank>1000</rank></script>
+    </scripts>
+    <locales>
+    </locales>
+    <territories>
+      <territory><territoryId>NA</territoryId><rank>900</rank></territory>
+      <territory><territoryId>AO</territoryId><rank>100</rank></territory>
+    </territories>
+    <keyboards>
+      <keyboard><keyboardId>us</keyboardId><rank>1000</rank></keyboard>
+    </keyboards>
+    <inputmethods>
+    </inputmethods>
+    <consolefonts>
+      <consolefont><consolefontId>eurlatgr</consolefontId><rank>1000</rank></consolefont>
+    </consolefonts>
+    <timezones>
+      <timezone><timezoneId>Africa/Windhoek</timezoneId><rank>1000</rank></timezone>
+      <timezone><timezoneId>Africa/Luanda</timezoneId><rank>1000</rank></timezone>
+    </timezones>
+  </language>
+  <language>
     <languageId>nhn</languageId>
     <iso639-1>None</iso639-1>
     <iso639-2-t>None</iso639-2-t>
@@ -19016,6 +19934,38 @@
     </timezones>
   </language>
   <language>
+    <languageId>nqo</languageId>
+    <iso639-1>None</iso639-1>
+    <iso639-2-t>nqo</iso639-2-t>
+    <iso639-2-b>nqo</iso639-2-b>
+    <names>
+      <name><languageId>de</languageId><trName>N’Ko</trName></name>
+      <name><languageId>en</languageId><trName>N’Ko</trName></name>
+      <name><languageId>nqo</languageId><trName>ߒߞߏ</trName></name>
+    </names>
+    <scripts>
+      <script><scriptId>Nkoo</scriptId><rank>1000</rank></script>
+    </scripts>
+    <locales>
+    </locales>
+    <territories>
+      <territory><territoryId>GN</territoryId><rank>900</rank></territory>
+      <territory><territoryId>CI</territoryId><rank>100</rank></territory>
+    </territories>
+    <keyboards>
+      <keyboard><keyboardId>us</keyboardId><rank>1000</rank></keyboard>
+    </keyboards>
+    <inputmethods>
+    </inputmethods>
+    <consolefonts>
+      <consolefont><consolefontId>eurlatgr</consolefontId><rank>1000</rank></consolefont>
+    </consolefonts>
+    <timezones>
+      <timezone><timezoneId>Africa/Conakry</timezoneId><rank>900</rank></timezone>
+      <timezone><timezoneId>Africa/Abidjan</timezoneId><rank>100</rank></timezone>
+    </timezones>
+  </language>
+  <language>
     <languageId>nr</languageId>
     <iso639-1>nr</iso639-1>
     <iso639-2-t>nbl</iso639-2-t>
@@ -19269,6 +20219,36 @@
     </consolefonts>
     <timezones>
       <timezone><timezoneId>Africa/Johannesburg</timezoneId><rank>1000</rank></timezone>
+    </timezones>
+  </language>
+  <language>
+    <languageId>nv</languageId>
+    <iso639-1>nv</iso639-1>
+    <iso639-2-t>nav</iso639-2-t>
+    <iso639-2-b>nav</iso639-2-b>
+    <names>
+      <name><languageId>de</languageId><trName>Navajo</trName></name>
+      <name><languageId>en</languageId><trName>Navajo</trName></name>
+      <name><languageId>nv</languageId><trName>Diné bizaad</trName></name>
+    </names>
+    <scripts>
+      <script><scriptId>Latn</scriptId><rank>1000</rank></script>
+    </scripts>
+    <locales>
+    </locales>
+    <territories>
+      <territory><territoryId>US</territoryId><rank>1000</rank></territory>
+    </territories>
+    <keyboards>
+      <keyboard><keyboardId>us</keyboardId><rank>1000</rank></keyboard>
+    </keyboards>
+    <inputmethods>
+    </inputmethods>
+    <consolefonts>
+      <consolefont><consolefontId>eurlatgr</consolefontId><rank>1000</rank></consolefont>
+    </consolefonts>
+    <timezones>
+      <timezone><timezoneId>America/Denver</timezoneId><rank>1000</rank></timezone>
     </timezones>
   </language>
   <language>
@@ -20065,6 +21045,36 @@
     </consolefonts>
     <timezones>
       <timezone><timezoneId>America/Chicago</timezoneId><rank>1000</rank></timezone>
+    </timezones>
+  </language>
+  <language>
+    <languageId>ota</languageId>
+    <iso639-1>None</iso639-1>
+    <iso639-2-t>ota</iso639-2-t>
+    <iso639-2-b>ota</iso639-2-b>
+    <names>
+      <name><languageId>de</languageId><trName>Osmanisches Türkisch</trName></name>
+      <name><languageId>en</languageId><trName>Ottoman Turkish</trName></name>
+      <name><languageId>ota</languageId><trName>لسان عثمانى</trName></name>
+    </names>
+    <scripts>
+      <script><scriptId>Arab</scriptId><rank>1000</rank></script>
+    </scripts>
+    <locales>
+    </locales>
+    <territories>
+      <territory><territoryId>TR</territoryId><rank>1000</rank></territory>
+    </territories>
+    <keyboards>
+      <keyboard><keyboardId>us</keyboardId><rank>1000</rank></keyboard>
+    </keyboards>
+    <inputmethods>
+    </inputmethods>
+    <consolefonts>
+      <consolefont><consolefontId>latarcyrheb-sun16</consolefontId><rank>1000</rank></consolefont>
+    </consolefonts>
+    <timezones>
+      <timezone><timezoneId>Europe/Istanbul</timezoneId><rank>1000</rank></timezone>
     </timezones>
   </language>
   <language>
@@ -21168,6 +22178,66 @@
     </timezones>
   </language>
   <language>
+    <languageId>rm</languageId>
+    <iso639-1>rm</iso639-1>
+    <iso639-2-t>roh</iso639-2-t>
+    <iso639-2-b>roh</iso639-2-b>
+    <names>
+      <name><languageId>de</languageId><trName>Rätoromanisch</trName></name>
+      <name><languageId>en</languageId><trName>Romansh</trName></name>
+      <name><languageId>rm</languageId><trName>Rumantsch</trName></name>
+    </names>
+    <scripts>
+      <script><scriptId>Latn</scriptId><rank>1000</rank></script>
+    </scripts>
+    <locales>
+    </locales>
+    <territories>
+      <territory><territoryId>CH</territoryId><rank>1000</rank></territory>
+    </territories>
+    <keyboards>
+      <keyboard><keyboardId>ch</keyboardId><rank>1000</rank></keyboard>
+    </keyboards>
+    <inputmethods>
+    </inputmethods>
+    <consolefonts>
+      <consolefont><consolefontId>eurlatgr</consolefontId><rank>1000</rank></consolefont>
+    </consolefonts>
+    <timezones>
+      <timezone><timezoneId>Europe/Zurich</timezoneId><rank>1000</rank></timezone>
+    </timezones>
+  </language>
+  <language>
+    <languageId>rn</languageId>
+    <iso639-1>rn</iso639-1>
+    <iso639-2-t>run</iso639-2-t>
+    <iso639-2-b>run</iso639-2-b>
+    <names>
+      <name><languageId>de</languageId><trName>Kirundi</trName></name>
+      <name><languageId>en</languageId><trName>Kirundi</trName></name>
+      <name><languageId>rn</languageId><trName>Ikirundi</trName></name>
+    </names>
+    <scripts>
+      <script><scriptId>Latn</scriptId><rank>1000</rank></script>
+    </scripts>
+    <locales>
+    </locales>
+    <territories>
+      <territory><territoryId>BI</territoryId><rank>1000</rank></territory>
+    </territories>
+    <keyboards>
+      <keyboard><keyboardId>us</keyboardId><rank>1000</rank></keyboard>
+    </keyboards>
+    <inputmethods>
+    </inputmethods>
+    <consolefonts>
+      <consolefont><consolefontId>eurlatgr</consolefontId><rank>1000</rank></consolefont>
+    </consolefonts>
+    <timezones>
+      <timezone><timezoneId>Africa/Bujumbura</timezoneId><rank>1000</rank></timezone>
+    </timezones>
+  </language>
+  <language>
     <languageId>ro</languageId>
     <iso639-1>ro</iso639-1>
     <iso639-2-t>ron</iso639-2-t>
@@ -22214,6 +23284,36 @@
     </timezones>
   </language>
   <language>
+    <languageId>sco</languageId>
+    <iso639-1>None</iso639-1>
+    <iso639-2-t>sco</iso639-2-t>
+    <iso639-2-b>sco</iso639-2-b>
+    <names>
+      <name><languageId>de</languageId><trName>Scots</trName></name>
+      <name><languageId>en</languageId><trName>Scots</trName></name>
+      <name><languageId>sco</languageId><trName>Scots</trName></name>
+    </names>
+    <scripts>
+      <script><scriptId>Latn</scriptId><rank>1000</rank></script>
+    </scripts>
+    <locales>
+    </locales>
+    <territories>
+      <territory><territoryId>GB</territoryId><rank>1000</rank></territory>
+    </territories>
+    <keyboards>
+      <keyboard><keyboardId>gb</keyboardId><rank>1000</rank></keyboard>
+    </keyboards>
+    <inputmethods>
+    </inputmethods>
+    <consolefonts>
+      <consolefont><consolefontId>eurlatgr</consolefontId><rank>1000</rank></consolefont>
+    </consolefonts>
+    <timezones>
+      <timezone><timezoneId>Europe/London</timezoneId><rank>1000</rank></timezone>
+    </timezones>
+  </language>
+  <language>
     <languageId>sd</languageId>
     <iso639-1>sd</iso639-1>
     <iso639-2-t>snd</iso639-2-t>
@@ -22575,6 +23675,36 @@
     </timezones>
   </language>
   <language>
+    <languageId>sg</languageId>
+    <iso639-1>sg</iso639-1>
+    <iso639-2-t>sag</iso639-2-t>
+    <iso639-2-b>sag</iso639-2-b>
+    <names>
+      <name><languageId>de</languageId><trName>Sango</trName></name>
+      <name><languageId>en</languageId><trName>Sango</trName></name>
+      <name><languageId>sg</languageId><trName>yângâ tî sängö</trName></name>
+    </names>
+    <scripts>
+      <script><scriptId>Latn</scriptId><rank>1000</rank></script>
+    </scripts>
+    <locales>
+    </locales>
+    <territories>
+      <territory><territoryId>CF</territoryId><rank>1000</rank></territory>
+    </territories>
+    <keyboards>
+      <keyboard><keyboardId>us</keyboardId><rank>1000</rank></keyboard>
+    </keyboards>
+    <inputmethods>
+    </inputmethods>
+    <consolefonts>
+      <consolefont><consolefontId>eurlatgr</consolefontId><rank>1000</rank></consolefont>
+    </consolefonts>
+    <timezones>
+      <timezone><timezoneId>Africa/Bangui</timezoneId><rank>1000</rank></timezone>
+    </timezones>
+  </language>
+  <language>
     <languageId>sgs</languageId>
     <iso639-1>None</iso639-1>
     <iso639-2-t>None</iso639-2-t>
@@ -22623,6 +23753,43 @@
     </consolefonts>
     <timezones>
       <timezone><timezoneId>Europe/Vilnius</timezoneId><rank>100</rank></timezone>
+    </timezones>
+  </language>
+  <language>
+    <languageId>sh</languageId>
+    <iso639-1>sh</iso639-1>
+    <iso639-2-t>srp</iso639-2-t>
+    <iso639-2-b>srp</iso639-2-b>
+    <names>
+      <name><languageId>de</languageId><trName>Serbokroatisch</trName></name>
+      <name><languageId>en</languageId><trName>Serbo-Croatian</trName></name>
+      <name><languageId>sh</languageId><trName>srpskohrvatski</trName></name>
+    </names>
+    <scripts>
+      <script><scriptId>Latn</scriptId><rank>600</rank></script>
+      <script><scriptId>Cyrl</scriptId><rank>400</rank></script>
+    </scripts>
+    <locales>
+    </locales>
+    <territories>
+      <territory><territoryId>RS</territoryId><rank>400</rank></territory>
+      <territory><territoryId>HR</territoryId><rank>300</rank></territory>
+      <territory><territoryId>BA</territoryId><rank>200</rank></territory>
+      <territory><territoryId>ME</territoryId><rank>100</rank></territory>
+    </territories>
+    <keyboards>
+      <keyboard><keyboardId>us</keyboardId><rank>1000</rank></keyboard>
+    </keyboards>
+    <inputmethods>
+    </inputmethods>
+    <consolefonts>
+      <consolefont><consolefontId>eurlatgr</consolefontId><rank>1000</rank></consolefont>
+    </consolefonts>
+    <timezones>
+      <timezone><timezoneId>Europe/Podgorica</timezoneId><rank>400</rank></timezone>
+      <timezone><timezoneId>Europe/Zagreb</timezoneId><rank>300</rank></timezone>
+      <timezone><timezoneId>Europe/Sarajevo</timezoneId><rank>200</rank></timezone>
+      <timezone><timezoneId>Europe/Podgorica</timezoneId><rank>100</rank></timezone>
     </timezones>
   </language>
   <language>
@@ -23474,6 +24641,36 @@
     </timezones>
   </language>
   <language>
+    <languageId>sma</languageId>
+    <iso639-1>None</iso639-1>
+    <iso639-2-t>sma</iso639-2-t>
+    <iso639-2-b>sma</iso639-2-b>
+    <names>
+      <name><languageId>de</languageId><trName>Südsamisch</trName></name>
+      <name><languageId>en</languageId><trName>Southern Sami</trName></name>
+      <name><languageId>sma</languageId><trName>åarjelsaemien gïele</trName></name>
+    </names>
+    <scripts>
+      <script><scriptId>Latn</scriptId><rank>1000</rank></script>
+    </scripts>
+    <locales>
+    </locales>
+    <territories>
+      <territory><territoryId>NO</territoryId><rank>1000</rank></territory>
+    </territories>
+    <keyboards>
+      <keyboard><keyboardId>no</keyboardId><rank>1000</rank></keyboard>
+    </keyboards>
+    <inputmethods>
+    </inputmethods>
+    <consolefonts>
+      <consolefont><consolefontId>eurlatgr</consolefontId><rank>1000</rank></consolefont>
+    </consolefonts>
+    <timezones>
+      <timezone><timezoneId>Europe/Oslo</timezoneId><rank>1000</rank></timezone>
+    </timezones>
+  </language>
+  <language>
     <languageId>smj</languageId>
     <iso639-1>None</iso639-1>
     <iso639-2-t>smj</iso639-2-t>
@@ -23606,6 +24803,98 @@
     <timezones>
       <timezone><timezoneId>Europe/Stockholm</timezoneId><rank>900</rank></timezone>
       <timezone><timezoneId>Europe/Oslo</timezoneId><rank>100</rank></timezone>
+    </timezones>
+  </language>
+  <language>
+    <languageId>smn</languageId>
+    <iso639-1>None</iso639-1>
+    <iso639-2-t>smn</iso639-2-t>
+    <iso639-2-b>smn</iso639-2-b>
+    <names>
+      <name><languageId>de</languageId><trName>Inarisamisch</trName></name>
+      <name><languageId>en</languageId><trName>Inari Sami</trName></name>
+      <name><languageId>smn</languageId><trName>anarâškielâ</trName></name>
+    </names>
+    <scripts>
+      <script><scriptId>Latn</scriptId><rank>1000</rank></script>
+    </scripts>
+    <locales>
+    </locales>
+    <territories>
+      <territory><territoryId>FI</territoryId><rank>1000</rank></territory>
+    </territories>
+    <keyboards>
+      <keyboard><keyboardId>fi</keyboardId><rank>1000</rank></keyboard>
+    </keyboards>
+    <inputmethods>
+    </inputmethods>
+    <consolefonts>
+      <consolefont><consolefontId>eurlatgr</consolefontId><rank>1000</rank></consolefont>
+    </consolefonts>
+    <timezones>
+      <timezone><timezoneId>Europe/Helsinki</timezoneId><rank>1000</rank></timezone>
+    </timezones>
+  </language>
+  <language>
+    <languageId>sms</languageId>
+    <iso639-1>None</iso639-1>
+    <iso639-2-t>sms</iso639-2-t>
+    <iso639-2-b>sms</iso639-2-b>
+    <names>
+      <name><languageId>de</languageId><trName>Skoltsamisch</trName></name>
+      <name><languageId>en</languageId><trName>Skolt Sami</trName></name>
+      <name><languageId>smn</languageId><trName>sääʹmǩiõll</trName></name>
+    </names>
+    <scripts>
+      <script><scriptId>Latn</scriptId><rank>1000</rank></script>
+    </scripts>
+    <locales>
+    </locales>
+    <territories>
+      <territory><territoryId>FI</territoryId><rank>900</rank></territory>
+      <territory><territoryId>RU</territoryId><rank>100</rank></territory>
+    </territories>
+    <keyboards>
+      <keyboard><keyboardId>fi</keyboardId><rank>1000</rank></keyboard>
+    </keyboards>
+    <inputmethods>
+    </inputmethods>
+    <consolefonts>
+      <consolefont><consolefontId>eurlatgr</consolefontId><rank>1000</rank></consolefont>
+    </consolefonts>
+    <timezones>
+      <timezone><timezoneId>Europe/Helsinki</timezoneId><rank>900</rank></timezone>
+      <timezone><timezoneId>Europe/Moscow</timezoneId><rank>100</rank></timezone>
+    </timezones>
+  </language>
+  <language>
+    <languageId>sn</languageId>
+    <iso639-1>sn</iso639-1>
+    <iso639-2-t>sna</iso639-2-t>
+    <iso639-2-b>sna</iso639-2-b>
+    <names>
+      <name><languageId>de</languageId><trName>Shona</trName></name>
+      <name><languageId>en</languageId><trName>Shona</trName></name>
+      <name><languageId>sn</languageId><trName>Shona</trName></name>
+    </names>
+    <scripts>
+      <script><scriptId>Latn</scriptId><rank>1000</rank></script>
+    </scripts>
+    <locales>
+    </locales>
+    <territories>
+      <territory><territoryId>ZW</territoryId><rank>1000</rank></territory>
+    </territories>
+    <keyboards>
+      <keyboard><keyboardId>us</keyboardId><rank>1000</rank></keyboard>
+    </keyboards>
+    <inputmethods>
+    </inputmethods>
+    <consolefonts>
+      <consolefont><consolefontId>eurlatgr</consolefontId><rank>1000</rank></consolefont>
+    </consolefonts>
+    <timezones>
+      <timezone><timezoneId>Africa/Harare</timezoneId><rank>1000</rank></timezone>
     </timezones>
   </language>
   <language>
@@ -24434,6 +25723,38 @@
     </timezones>
   </language>
   <language>
+    <languageId>su</languageId>
+    <iso639-1>su</iso639-1>
+    <iso639-2-t>sun</iso639-2-t>
+    <iso639-2-b>sun</iso639-2-b>
+    <names>
+      <name><languageId>de</languageId><trName>Sundanesisch</trName></name>
+      <name><languageId>en</languageId><trName>Sundanese</trName></name>
+      <name><languageId>su</languageId><trName>Basa Sunda</trName></name>
+    </names>
+    <scripts>
+      <script><scriptId>Latn</scriptId><rank>700</rank></script>
+      <script><scriptId>Sund</scriptId><rank>200</rank></script>
+      <script><scriptId>Java</scriptId><rank>100</rank></script>
+    </scripts>
+    <locales>
+    </locales>
+    <territories>
+      <territory><territoryId>ID</territoryId><rank>1000</rank></territory>
+    </territories>
+    <keyboards>
+      <keyboard><keyboardId>us</keyboardId><rank>1000</rank></keyboard>
+    </keyboards>
+    <inputmethods>
+    </inputmethods>
+    <consolefonts>
+      <consolefont><consolefontId>eurlatgr</consolefontId><rank>1000</rank></consolefont>
+    </consolefonts>
+    <timezones>
+      <timezone><timezoneId>Asia/Jakarta</timezoneId><rank>1000</rank></timezone>
+    </timezones>
+  </language>
+  <language>
     <languageId>sv</languageId>
     <iso639-1>sv</iso639-1>
     <iso639-2-t>swe</iso639-2-t>
@@ -24843,6 +26164,36 @@
     </inputmethods>
     <consolefonts>
       <consolefont><consolefontId>latarcyrheb-sun16</consolefontId><rank>1000</rank></consolefont>
+    </consolefonts>
+    <timezones>
+      <timezone><timezoneId>Asia/Damascus</timezoneId><rank>1000</rank></timezone>
+    </timezones>
+  </language>
+  <language>
+    <languageId>syr</languageId>
+    <iso639-1>None</iso639-1>
+    <iso639-2-t>syr</iso639-2-t>
+    <iso639-2-b>syr</iso639-2-b>
+    <names>
+      <name><languageId>de</languageId><trName>Syrisch</trName></name>
+      <name><languageId>en</languageId><trName>Syriac</trName></name>
+      <name><languageId>syr</languageId><trName>ܠܫܢܐ ܣܘܪܝܝܐ</trName></name>
+    </names>
+    <scripts>
+      <script><scriptId>Syrc</scriptId><rank>1000</rank></script>
+    </scripts>
+    <locales>
+    </locales>
+    <territories>
+      <territory><territoryId>SY</territoryId><rank>1000</rank></territory>
+    </territories>
+    <keyboards>
+      <keyboard><keyboardId>us</keyboardId><rank>1000</rank></keyboard>
+    </keyboards>
+    <inputmethods>
+    </inputmethods>
+    <consolefonts>
+      <consolefont><consolefontId>eurlatgr</consolefontId><rank>1000</rank></consolefont>
     </consolefonts>
     <timezones>
       <timezone><timezoneId>Asia/Damascus</timezoneId><rank>1000</rank></timezone>
@@ -27197,6 +28548,96 @@
     </timezones>
   </language>
   <language>
+    <languageId>tw</languageId>
+    <iso639-1>tw</iso639-1>
+    <iso639-2-t>twi</iso639-2-t>
+    <iso639-2-b>twi</iso639-2-b>
+    <names>
+      <name><languageId>de</languageId><trName>Twi</trName></name>
+      <name><languageId>en</languageId><trName>Twi</trName></name>
+      <name><languageId>tw</languageId><trName>Twi</trName></name>
+    </names>
+    <scripts>
+      <script><scriptId>Latn</scriptId><rank>1000</rank></script>
+    </scripts>
+    <locales>
+    </locales>
+    <territories>
+      <territory><territoryId>GH</territoryId><rank>1000</rank></territory>
+    </territories>
+    <keyboards>
+      <keyboard><keyboardId>us</keyboardId><rank>1000</rank></keyboard>
+    </keyboards>
+    <inputmethods>
+    </inputmethods>
+    <consolefonts>
+      <consolefont><consolefontId>eurlatgr</consolefontId><rank>1000</rank></consolefont>
+    </consolefonts>
+    <timezones>
+      <timezone><timezoneId>Africa/Accra</timezoneId><rank>1000</rank></timezone>
+    </timezones>
+  </language>
+  <language>
+    <languageId>ty</languageId>
+    <iso639-1>ty</iso639-1>
+    <iso639-2-t>tah</iso639-2-t>
+    <iso639-2-b>tah</iso639-2-b>
+    <names>
+      <name><languageId>de</languageId><trName>Taihitisch</trName></name>
+      <name><languageId>en</languageId><trName>Tahitian</trName></name>
+      <name><languageId>ty</languageId><trName>Reo Tahiti</trName></name>
+    </names>
+    <scripts>
+      <script><scriptId>Latn</scriptId><rank>1000</rank></script>
+    </scripts>
+    <locales>
+    </locales>
+    <territories>
+      <territory><territoryId>PF</territoryId><rank>1000</rank></territory>
+    </territories>
+    <keyboards>
+      <keyboard><keyboardId>fr(oss)</keyboardId><rank>1000</rank></keyboard>
+    </keyboards>
+    <inputmethods>
+    </inputmethods>
+    <consolefonts>
+      <consolefont><consolefontId>eurlatgr</consolefontId><rank>1000</rank></consolefont>
+    </consolefonts>
+    <timezones>
+      <timezone><timezoneId>Pacific/Tahiti</timezoneId><rank>1000</rank></timezone>
+    </timezones>
+  </language>
+  <language>
+    <languageId>tyv</languageId>
+    <iso639-1>None</iso639-1>
+    <iso639-2-t>tyv</iso639-2-t>
+    <iso639-2-b>tyv</iso639-2-b>
+    <names>
+      <name><languageId>de</languageId><trName>Tuwinisch</trName></name>
+      <name><languageId>en</languageId><trName>Tuvan</trName></name>
+      <name><languageId>tyv</languageId><trName>тыва дыл</trName></name>
+    </names>
+    <scripts>
+      <script><scriptId>Cyrl</scriptId><rank>1000</rank></script>
+    </scripts>
+    <locales>
+    </locales>
+    <territories>
+      <territory><territoryId>RU</territoryId><rank>1000</rank></territory>
+    </territories>
+    <keyboards>
+      <keyboard><keyboardId>ru</keyboardId><rank>1000</rank></keyboard>
+    </keyboards>
+    <inputmethods>
+    </inputmethods>
+    <consolefonts>
+      <consolefont><consolefontId>eurlatgr</consolefontId><rank>1000</rank></consolefont>
+    </consolefonts>
+    <timezones>
+      <timezone><timezoneId>Asia/Krasnoyarsk</timezoneId><rank>1000</rank></timezone>
+    </timezones>
+  </language>
+  <language>
     <languageId>txg</languageId>
     <iso639-1>None</iso639-1>
     <iso639-2-t>None</iso639-2-t>
@@ -28313,6 +29754,67 @@
     </timezones>
   </language>
   <language>
+    <languageId>vo</languageId>
+    <iso639-1>vo</iso639-1>
+    <iso639-2-t>vol</iso639-2-t>
+    <iso639-2-b>vol</iso639-2-b>
+    <names>
+      <name><languageId>de</languageId><trName>Volapük</trName></name>
+      <name><languageId>en</languageId><trName>Volapük</trName></name>
+      <name><languageId>vo</languageId><trName>Volapük</trName></name>
+    </names>
+    <scripts>
+      <script><scriptId>Latn</scriptId><rank>1000</rank></script>
+    </scripts>
+    <locales>
+    </locales>
+    <territories>
+      <territory><territoryId>DE</territoryId><rank>1000</rank></territory>
+    </territories>
+    <keyboards>
+      <keyboard><keyboardId>de(nodeadkeys)</keyboardId><rank>900</rank></keyboard>
+      <keyboard><keyboardId>de(deadacute)</keyboardId><rank>100</rank></keyboard>
+    </keyboards>
+    <inputmethods>
+    </inputmethods>
+    <consolefonts>
+      <consolefont><consolefontId>eurlatgr</consolefontId><rank>1000</rank></consolefont>
+    </consolefonts>
+    <timezones>
+      <timezone><timezoneId>Europe/Berlin</timezoneId><rank>1000</rank></timezone>
+    </timezones>
+  </language>
+  <language>
+    <languageId>vot</languageId>
+    <iso639-1>None</iso639-1>
+    <iso639-2-t>vot</iso639-2-t>
+    <iso639-2-b>vot</iso639-2-b>
+    <names>
+      <name><languageId>de</languageId><trName>Wotisch</trName></name>
+      <name><languageId>en</languageId><trName>Votic</trName></name>
+      <name><languageId>vo</languageId><trName>vađđa ceeli</trName></name>
+    </names>
+    <scripts>
+      <script><scriptId>Latn</scriptId><rank>1000</rank></script>
+    </scripts>
+    <locales>
+    </locales>
+    <territories>
+      <territory><territoryId>RU</territoryId><rank>1000</rank></territory>
+    </territories>
+    <keyboards>
+      <keyboard><keyboardId>us</keyboardId><rank>1000</rank></keyboard>
+    </keyboards>
+    <inputmethods>
+    </inputmethods>
+    <consolefonts>
+      <consolefont><consolefontId>eurlatgr</consolefontId><rank>1000</rank></consolefont>
+    </consolefonts>
+    <timezones>
+      <timezone><timezoneId>Europe/Moscow</timezoneId><rank>1000</rank></timezone>
+    </timezones>
+  </language>
+  <language>
     <languageId>wa</languageId>
     <iso639-1>wa</iso639-1>
     <iso639-2-t>wln</iso639-2-t>
@@ -28692,6 +30194,37 @@
     </consolefonts>
     <timezones>
       <timezone><timezoneId>Africa/Addis_Ababa</timezoneId><rank>1000</rank></timezone>
+    </timezones>
+  </language>
+  <language>
+    <languageId>wen</languageId>
+    <iso639-1>None</iso639-1>
+    <iso639-2-t>wen</iso639-2-t>
+    <iso639-2-b>wen</iso639-2-b>
+    <names>
+      <name><languageId>de</languageId><trName>Sorbisch</trName></name>
+      <name><languageId>en</languageId><trName>Sorbian Languages</trName></name>
+      <name><languageId>wen</languageId><trName>Serbska rěč</trName></name>
+    </names>
+    <scripts>
+      <script><scriptId>Latn</scriptId><rank>1000</rank></script>
+    </scripts>
+    <locales>
+    </locales>
+    <territories>
+      <territory><territoryId>DE</territoryId><rank>1000</rank></territory>
+    </territories>
+    <keyboards>
+      <keyboard><keyboardId>de(nodeadkeys)</keyboardId><rank>900</rank></keyboard>
+      <keyboard><keyboardId>de(deadacute)</keyboardId><rank>100</rank></keyboard>
+    </keyboards>
+    <inputmethods>
+    </inputmethods>
+    <consolefonts>
+      <consolefont><consolefontId>eurlatgr</consolefontId><rank>1000</rank></consolefont>
+    </consolefonts>
+    <timezones>
+      <timezone><timezoneId>Europe/Berlin</timezoneId><rank>1000</rank></timezone>
     </timezones>
   </language>
   <language>
@@ -29132,6 +30665,36 @@
     </consolefonts>
     <timezones>
       <timezone><timezoneId>Asia/Shanghai</timezoneId><rank>1</rank></timezone>
+    </timezones>
+  </language>
+  <language>
+    <languageId>yap</languageId>
+    <iso639-1>None</iso639-1>
+    <iso639-2-t>yap</iso639-2-t>
+    <iso639-2-b>yap</iso639-2-b>
+    <names>
+      <name><languageId>de</languageId><trName>Yapesisch</trName></name>
+      <name><languageId>en</languageId><trName>Yapese</trName></name>
+      <name><languageId>yap</languageId><trName>Yapese</trName></name>
+    </names>
+    <scripts>
+      <script><scriptId>Latn</scriptId><rank>1000</rank></script>
+    </scripts>
+    <locales>
+    </locales>
+    <territories>
+      <territory><territoryId>FM</territoryId><rank>1000</rank></territory>
+    </territories>
+    <keyboards>
+      <keyboard><keyboardId>us</keyboardId><rank>1000</rank></keyboard>
+    </keyboards>
+    <inputmethods>
+    </inputmethods>
+    <consolefonts>
+      <consolefont><consolefontId>eurlatgr</consolefontId><rank>1000</rank></consolefont>
+    </consolefonts>
+    <timezones>
+      <timezone><timezoneId>Pacific/Chuuk</timezoneId><rank>1000</rank></timezone>
     </timezones>
   </language>
   <language>
@@ -29614,6 +31177,36 @@
     </consolefonts>
     <timezones>
       <timezone><timezoneId>Pacific/Port_Moresby</timezoneId><rank>1000</rank></timezone>
+    </timezones>
+  </language>
+  <language>
+    <languageId>za</languageId>
+    <iso639-1>za</iso639-1>
+    <iso639-2-t>zha</iso639-2-t>
+    <iso639-2-b>zha</iso639-2-b>
+    <names>
+      <name><languageId>de</languageId><trName>Zhuang</trName></name>
+      <name><languageId>en</languageId><trName>Zhuang</trName></name>
+      <name><languageId>za</languageId><trName>Vahcuengh</trName></name>
+    </names>
+    <scripts>
+      <script><scriptId>Latn</scriptId><rank>1000</rank></script>
+    </scripts>
+    <locales>
+    </locales>
+    <territories>
+      <territory><territoryId>CN</territoryId><rank>1000</rank></territory>
+    </territories>
+    <keyboards>
+      <keyboard><keyboardId>us</keyboardId><rank>1000</rank></keyboard>
+    </keyboards>
+    <inputmethods>
+    </inputmethods>
+    <consolefonts>
+      <consolefont><consolefontId>eurlatgr</consolefontId><rank>1000</rank></consolefont>
+    </consolefonts>
+    <timezones>
+      <timezone><timezoneId>Asia/Shanghai</timezoneId><rank>1000</rank></timezone>
     </timezones>
   </language>
   <language>
