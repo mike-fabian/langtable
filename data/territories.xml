@@ -22854,7 +22854,8 @@
       <keyboard><keyboardId>tw</keyboardId><rank>1000</rank></keyboard>
     </keyboards>
     <inputmethods>
-      <inputmethod><inputmethodId>ibus/chewing</inputmethodId><rank>1000</rank></inputmethod>
+      <inputmethod><inputmethodId>ibus/libzhuyin</inputmethodId><rank>9000</rank></inputmethod>
+      <inputmethod><inputmethodId>ibus/chewing</inputmethodId><rank>100</rank></inputmethod>
     </inputmethods>
     <consolefonts>
       <consolefont><consolefontId>eurlatgr</consolefontId><rank>1000</rank></consolefont>

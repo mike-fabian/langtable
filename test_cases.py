@@ -442,7 +442,7 @@ def dummy():
         ['ibus/hangul']
 
     >>> list_inputmethods(languageId="zh") # doctest: +NORMALIZE_WHITESPACE
-        ['ibus/libpinyin', 'ibus/chewing', 'ibus/cangjie']
+        ['ibus/libpinyin', 'ibus/libzhuyin', 'ibus/chewing', 'ibus/cangjie']
 
     >>> list_inputmethods(languageId="zh", territoryId="CN") # doctest: +NORMALIZE_WHITESPACE
         ['ibus/libpinyin']
@@ -457,7 +457,7 @@ def dummy():
         ['ibus/cangjie']
 
     >>> list_inputmethods(languageId="zh", territoryId="TW") # doctest: +NORMALIZE_WHITESPACE
-        ['ibus/chewing']
+        ['ibus/libzhuyin', 'ibus/chewing']
 
     >>> list_inputmethods(languageId="zh", territoryId="SG") # doctest: +NORMALIZE_WHITESPACE
         ['ibus/libpinyin']
@@ -714,7 +714,7 @@ def dummy():
          +: ['in(eng)']
 
     >>> _test_language_territory(show_weights=False, languageId="zh", territoryId="CN") # doctest: +NORMALIZE_WHITESPACE
-        zh: ['zh_CN.UTF-8', 'zh_TW.UTF-8', 'zh_HK.UTF-8', 'zh_SG.UTF-8']
+        zh: ['zh_CN.UTF-8', 'zh_TW.UTF-8', 'cmn_TW.UTF-8', 'zh_HK.UTF-8', 'zh_SG.UTF-8']
         CN: ['zh_CN.UTF-8', 'bo_CN.UTF-8', 'ug_CN.UTF-8']
          +: ['zh_CN.UTF-8']
         zh: ['cn']
@@ -722,7 +722,7 @@ def dummy():
          +: ['cn']
 
     >>> _test_language_territory(show_weights=False, languageId="zh", territoryId="TW") # doctest: +NORMALIZE_WHITESPACE
-        zh: ['zh_CN.UTF-8', 'zh_TW.UTF-8', 'zh_HK.UTF-8', 'zh_SG.UTF-8']
+        zh: ['zh_CN.UTF-8', 'zh_TW.UTF-8', 'cmn_TW.UTF-8', 'zh_HK.UTF-8', 'zh_SG.UTF-8']
         TW: ['zh_TW.UTF-8', 'cmn_TW.UTF-8', 'hak_TW.UTF-8', 'lzh_TW.UTF-8', 'nan_TW.UTF-8', 'nan_TW.UTF-8@latin']
          +: ['zh_TW.UTF-8']
         zh: ['cn']
@@ -738,7 +738,7 @@ def dummy():
          +: ['tw']
 
     >>> _test_language_territory(show_weights=False, languageId="zh", territoryId="HK") # doctest: +NORMALIZE_WHITESPACE
-        zh: ['zh_CN.UTF-8', 'zh_TW.UTF-8', 'zh_HK.UTF-8', 'zh_SG.UTF-8']
+        zh: ['zh_CN.UTF-8', 'zh_TW.UTF-8', 'cmn_TW.UTF-8', 'zh_HK.UTF-8', 'zh_SG.UTF-8']
         HK: ['zh_HK.UTF-8', 'yue_HK.UTF-8', 'en_HK.UTF-8']
          +: ['zh_HK.UTF-8']
         zh: ['cn']
@@ -746,7 +746,7 @@ def dummy():
          +: ['cn']
 
     >>> _test_language_territory(show_weights=False, languageId="zh", territoryId="MO") # doctest: +NORMALIZE_WHITESPACE
-        zh: ['zh_CN.UTF-8', 'zh_TW.UTF-8', 'zh_HK.UTF-8', 'zh_SG.UTF-8']
+        zh: ['zh_CN.UTF-8', 'zh_TW.UTF-8', 'cmn_TW.UTF-8', 'zh_HK.UTF-8', 'zh_SG.UTF-8']
         MO: ['zh_HK.UTF-8']
          +: ['zh_HK.UTF-8']
         zh: ['cn']
@@ -754,7 +754,7 @@ def dummy():
          +: ['cn']
 
     >>> _test_language_territory(show_weights=False, languageId="zh", territoryId="SG") # doctest: +NORMALIZE_WHITESPACE
-        zh: ['zh_CN.UTF-8', 'zh_TW.UTF-8', 'zh_HK.UTF-8', 'zh_SG.UTF-8']
+        zh: ['zh_CN.UTF-8', 'zh_TW.UTF-8', 'cmn_TW.UTF-8', 'zh_HK.UTF-8', 'zh_SG.UTF-8']
         SG: ['zh_SG.UTF-8', 'en_SG.UTF-8']
          +: ['zh_SG.UTF-8']
         zh: ['cn']
@@ -778,7 +778,7 @@ def dummy():
          +: ['au']
 
     >>> _test_language_territory(show_weights=False, languageId="zh", scriptId = "Hant", territoryId=None) # doctest: +NORMALIZE_WHITESPACE
-        zh: ['zh_CN.UTF-8', 'zh_TW.UTF-8', 'zh_HK.UTF-8', 'zh_SG.UTF-8']
+        zh: ['zh_CN.UTF-8', 'zh_TW.UTF-8', 'cmn_TW.UTF-8', 'zh_HK.UTF-8', 'zh_SG.UTF-8']
         None: []
          +: ['zh_TW.UTF-8', 'zh_HK.UTF-8']
         zh: ['cn']
@@ -786,7 +786,7 @@ def dummy():
          +: ['cn']
 
     >>> _test_language_territory(show_weights=False, languageId="zh", scriptId = "Hans", territoryId=None) # doctest: +NORMALIZE_WHITESPACE
-        zh: ['zh_CN.UTF-8', 'zh_TW.UTF-8', 'zh_HK.UTF-8', 'zh_SG.UTF-8']
+        zh: ['zh_CN.UTF-8', 'zh_TW.UTF-8', 'cmn_TW.UTF-8', 'zh_HK.UTF-8', 'zh_SG.UTF-8']
         None: []
          +: ['zh_CN.UTF-8', 'zh_SG.UTF-8']
         zh: ['cn']
@@ -794,7 +794,7 @@ def dummy():
          +: ['cn']
 
     >>> _test_language_territory(show_weights=False, languageId="zh", scriptId = "Hans", territoryId="SG") # doctest: +NORMALIZE_WHITESPACE
-        zh: ['zh_CN.UTF-8', 'zh_TW.UTF-8', 'zh_HK.UTF-8', 'zh_SG.UTF-8']
+        zh: ['zh_CN.UTF-8', 'zh_TW.UTF-8', 'cmn_TW.UTF-8', 'zh_HK.UTF-8', 'zh_SG.UTF-8']
         SG: ['zh_SG.UTF-8', 'en_SG.UTF-8']
          +: ['zh_SG.UTF-8']
         zh: ['cn']
@@ -802,7 +802,7 @@ def dummy():
          +: ['cn']
 
     >>> _test_language_territory(show_weights=False, languageId="zh", scriptId = "Hans", territoryId="TW") # doctest: +NORMALIZE_WHITESPACE
-        zh: ['zh_CN.UTF-8', 'zh_TW.UTF-8', 'zh_HK.UTF-8', 'zh_SG.UTF-8']
+        zh: ['zh_CN.UTF-8', 'zh_TW.UTF-8', 'cmn_TW.UTF-8', 'zh_HK.UTF-8', 'zh_SG.UTF-8']
         TW: ['zh_TW.UTF-8', 'cmn_TW.UTF-8', 'hak_TW.UTF-8', 'lzh_TW.UTF-8', 'nan_TW.UTF-8', 'nan_TW.UTF-8@latin']
          +: ['zh_CN.UTF-8', 'zh_SG.UTF-8', 'zh_TW.UTF-8', 'cmn_TW.UTF-8', 'hak_TW.UTF-8', 'lzh_TW.UTF-8', 'nan_TW.UTF-8', 'nan_TW.UTF-8@latin']
         zh: ['cn']
@@ -810,7 +810,7 @@ def dummy():
          +: ['tw', 'cn']
 
     >>> _test_language_territory(show_weights=False, languageId="zh", scriptId = "Hant", territoryId="HK") # doctest: +NORMALIZE_WHITESPACE
-        zh: ['zh_CN.UTF-8', 'zh_TW.UTF-8', 'zh_HK.UTF-8', 'zh_SG.UTF-8']
+        zh: ['zh_CN.UTF-8', 'zh_TW.UTF-8', 'cmn_TW.UTF-8', 'zh_HK.UTF-8', 'zh_SG.UTF-8']
         HK: ['zh_HK.UTF-8', 'yue_HK.UTF-8', 'en_HK.UTF-8']
          +: ['zh_HK.UTF-8']
         zh: ['cn']
@@ -818,7 +818,7 @@ def dummy():
          +: ['cn']
 
     >>> _test_language_territory(show_weights=False, languageId="zh", scriptId = "Hant", territoryId="MO") # doctest: +NORMALIZE_WHITESPACE
-        zh: ['zh_CN.UTF-8', 'zh_TW.UTF-8', 'zh_HK.UTF-8', 'zh_SG.UTF-8']
+        zh: ['zh_CN.UTF-8', 'zh_TW.UTF-8', 'cmn_TW.UTF-8', 'zh_HK.UTF-8', 'zh_SG.UTF-8']
         MO: ['zh_HK.UTF-8']
          +: ['zh_HK.UTF-8']
         zh: ['cn']
@@ -826,7 +826,7 @@ def dummy():
          +: ['cn']
 
     >>> _test_language_territory(show_weights=False, languageId="zh", scriptId = "Hant", territoryId="CN") # doctest: +NORMALIZE_WHITESPACE
-        zh: ['zh_CN.UTF-8', 'zh_TW.UTF-8', 'zh_HK.UTF-8', 'zh_SG.UTF-8']
+        zh: ['zh_CN.UTF-8', 'zh_TW.UTF-8', 'cmn_TW.UTF-8', 'zh_HK.UTF-8', 'zh_SG.UTF-8']
         CN: ['zh_CN.UTF-8', 'bo_CN.UTF-8', 'ug_CN.UTF-8']
          +: ['zh_TW.UTF-8', 'zh_HK.UTF-8', 'zh_CN.UTF-8', 'bo_CN.UTF-8', 'ug_CN.UTF-8']
         zh: ['cn']

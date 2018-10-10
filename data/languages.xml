@@ -4165,7 +4165,8 @@
       <keyboard><keyboardId>tw</keyboardId><rank>1000</rank></keyboard>
     </keyboards>
     <inputmethods>
-      <inputmethod><inputmethodId>ibus/libpinyin</inputmethodId><rank>900</rank></inputmethod>
+      <inputmethod><inputmethodId>ibus/libzhuyin</inputmethodId><rank>900</rank></inputmethod>
+      <inputmethod><inputmethodId>ibus/libpinyin</inputmethodId><rank>100</rank></inputmethod>
       <inputmethod><inputmethodId>ibus/chewing</inputmethodId><rank>20</rank></inputmethod>
       <inputmethod><inputmethodId>ibus/cangjie</inputmethodId><rank>10</rank></inputmethod>
     </inputmethods>
@@ -9523,7 +9524,8 @@
       <keyboard><keyboardId>cn</keyboardId><rank>1000</rank></keyboard>
     </keyboards>
     <inputmethods>
-      <inputmethod><inputmethodId>ibus/libpinyin</inputmethodId><rank>900</rank></inputmethod>
+      <inputmethod><inputmethodId>ibus/libzhuyin</inputmethodId><rank>900</rank></inputmethod>
+      <inputmethod><inputmethodId>ibus/libpinyin</inputmethodId><rank>100</rank></inputmethod>
       <inputmethod><inputmethodId>ibus/chewing</inputmethodId><rank>20</rank></inputmethod>
       <inputmethod><inputmethodId>ibus/cangjie</inputmethodId><rank>10</rank></inputmethod>
     </inputmethods>
@@ -15652,7 +15654,8 @@
       <keyboard><keyboardId>cn</keyboardId><rank>1000</rank></keyboard>
     </keyboards>
     <inputmethods>
-      <inputmethod><inputmethodId>ibus/libpinyin</inputmethodId><rank>900</rank></inputmethod>
+      <inputmethod><inputmethodId>ibus/libzhuyin</inputmethodId><rank>900</rank></inputmethod>
+      <inputmethod><inputmethodId>ibus/libpinyin</inputmethodId><rank>100</rank></inputmethod>
       <inputmethod><inputmethodId>ibus/chewing</inputmethodId><rank>20</rank></inputmethod>
       <inputmethod><inputmethodId>ibus/cangjie</inputmethodId><rank>10</rank></inputmethod>
     </inputmethods>
@@ -29759,7 +29762,8 @@
     <locales>
       <locale><localeId>zh_CN.UTF-8</localeId><rank>900</rank></locale>
       <locale><localeId>zh_TW.UTF-8</localeId><rank>20</rank></locale>
-      <locale><localeId>zh_HK.UTF-8</localeId><rank>19</rank></locale>
+      <locale><localeId>cmn_TW.UTF-8</localeId><rank>19</rank></locale>
+      <locale><localeId>zh_HK.UTF-8</localeId><rank>18</rank></locale>
       <locale><localeId>zh_SG.UTF-8</localeId><rank>10</rank></locale>
       <locale><localeId>zh_MO.UTF-8</localeId><rank>0</rank></locale>
     </locales>
@@ -29775,7 +29779,8 @@
     </keyboards>
     <inputmethods>
       <inputmethod><inputmethodId>ibus/libpinyin</inputmethodId><rank>900</rank></inputmethod>
-      <inputmethod><inputmethodId>ibus/chewing</inputmethodId><rank>20</rank></inputmethod>
+      <inputmethod><inputmethodId>ibus/libzhuyin</inputmethodId><rank>20</rank></inputmethod>
+      <inputmethod><inputmethodId>ibus/chewing</inputmethodId><rank>19</rank></inputmethod>
       <inputmethod><inputmethodId>ibus/cangjie</inputmethodId><rank>10</rank></inputmethod>
     </inputmethods>
     <consolefonts>
@@ -30133,7 +30138,8 @@
       <keyboard><keyboardId>cn</keyboardId><rank>1000</rank></keyboard>
     </keyboards>
     <inputmethods>
-      <inputmethod><inputmethodId>ibus/chewing</inputmethodId><rank>900</rank></inputmethod>
+      <inputmethod><inputmethodId>ibus/libzhuyin</inputmethodId><rank>900</rank></inputmethod>
+      <inputmethod><inputmethodId>ibus/chewing</inputmethodId><rank>200</rank></inputmethod>
       <inputmethod><inputmethodId>ibus/cangjie</inputmethodId><rank>100</rank></inputmethod>
     </inputmethods>
     <consolefonts>
@@ -30238,7 +30244,8 @@
       <keyboard><keyboardId>tw</keyboardId><rank>1000</rank></keyboard>
     </keyboards>
     <inputmethods>
-      <inputmethod><inputmethodId>ibus/chewing</inputmethodId><rank>1000</rank></inputmethod>
+      <inputmethod><inputmethodId>ibus/libzhuyin</inputmethodId><rank>900</rank></inputmethod>
+      <inputmethod><inputmethodId>ibus/chewing</inputmethodId><rank>100</rank></inputmethod>
     </inputmethods>
     <consolefonts>
       <consolefont><consolefontId>eurlatgr</consolefontId><rank>1000</rank></consolefont>
