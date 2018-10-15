@@ -1,3 +1,12 @@
+2018-10-15  Mike FABIAN  <mfabian@redhat.com>
+
+	* Version 0.0.39 released
+	* Add the new keyboard layout "au" for Australia (same as "us")
+	* Add locales missing in languages.xml, territiories.xml or in both.
+	* Add ibus/libzhuyin and make it the default for TW.
+	* Add cmn_TW.UTF-8 to the Chinese locales
+	* Add several missing  languages (Resolves: rhbz#1631214): ab av bin bm bua ch co cu ee fat gn ho hz ie ii io kaa ki kj kr kum kwm lah lez mh mo na ng nqo nv ota rm rn sco sg sh sma smn sms sn su syr tw ty tyv vo vot wen yap za
+
 2017-11-06  Mike FABIAN  <mfabian@redhat.com>
 
 	* Version 0.0.38 released
