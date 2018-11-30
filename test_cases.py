@@ -71,6 +71,9 @@ def dummy():
     >>> list_locales(show_weights=False, languageId="el") # doctest: +NORMALIZE_WHITESPACE
         ['el_GR.UTF-8', 'el_CY.UTF-8']
 
+    >>> list_locales(show_weights=False, languageId="eo") # doctest: +NORMALIZE_WHITESPACE
+        ['eo.UTF-8']
+
     >>> list_locales(show_weights=False, languageId="en") # doctest: +NORMALIZE_WHITESPACE
         ['en_US.UTF-8', 'en_GB.UTF-8', 'en_IN.UTF-8', 'en_AU.UTF-8', 'en_CA.UTF-8', 'en_DK.UTF-8', 'en_IE.UTF-8', 'en_NZ.UTF-8', 'en_NG.UTF-8', 'en_HK.UTF-8', 'en_PH.UTF-8', 'en_SG.UTF-8', 'en_ZA.UTF-8', 'en_ZM.UTF-8', 'en_ZW.UTF-8', 'en_BW.UTF-8', 'en_AG.UTF-8', 'en_IL.UTF-8']
 
