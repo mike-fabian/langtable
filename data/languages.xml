@@ -6644,6 +6644,7 @@
       <script><scriptId>Latn</scriptId><rank>1000</rank></script>
     </scripts>
     <locales>
+        <locale><localeId>eo.UTF-8</localeId><rank>1000</rank></locale>
     </locales>
     <territories>
     </territories>
