@@ -23675,6 +23675,36 @@
     </timezones>
   </language>
   <language>
+    <languageId>sel</languageId>
+    <iso639-1>None</iso639-1>
+    <iso639-2-t>sel</iso639-2-t>
+    <iso639-2-b>sel</iso639-2-b>
+    <names>
+      <name><languageId>de</languageId><trName>Selkupisch</trName></name>
+      <name><languageId>en</languageId><trName>Selkup</trName></name>
+      <name><languageId>sel</languageId><trName>cелькупский язык</trName></name>
+    </names>
+    <scripts>
+      <script><scriptId>Cyrl</scriptId><rank>1000</rank></script>
+    </scripts>
+    <locales>
+    </locales>
+    <territories>
+      <territory><territoryId>RU</territoryId><rank>1000</rank></territory>
+    </territories>
+    <keyboards>
+      <keyboard><keyboardId>ru</keyboardId><rank>1000</rank></keyboard>
+    </keyboards>
+    <inputmethods>
+    </inputmethods>
+    <consolefonts>
+      <consolefont><consolefontId>latarcyrheb-sun16</consolefontId><rank>1000</rank></consolefont>
+    </consolefonts>
+    <timezones>
+      <timezone><timezoneId>Europe/Moscow</timezoneId><rank>1000</rank></timezone>
+    </timezones>
+  </language>
+  <language>
     <languageId>sg</languageId>
     <iso639-1>sg</iso639-1>
     <iso639-2-t>sag</iso639-2-t>
