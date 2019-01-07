@@ -1,3 +1,10 @@
+2019-01-07  Mike FABIAN  <mfabian@redhat.com>
+
+	* Version 0.0.40 released
+	* Add Esperanto locale and test case
+	(Thanks to Carmen Bianca Bakker <carmen@carmenbianca.eu>).
+	* Add sel
+
 2018-10-15  Mike FABIAN  <mfabian@redhat.com>
 
 	* Version 0.0.39 released
