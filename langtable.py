@@ -55,18 +55,18 @@ _cldr_locale_pattern = re.compile(
     '^(?P<language>[a-z]{2,3}'
     # language is only valid if
     +'(?=$|@' # locale string ends here or only options follow
-    +'|_[A-Z][a-z]{3}(?=$|@|_[A-Z]{2}(?=$|@))' # valid script follows
-    +'|_[A-Z]{2}(?=$|@)' # valid territory follows
+    +'|_[A-Z][a-z]{3}(?=$|@|_[A-Z0-9]{2,3}(?=$|@))' # valid script follows
+    +'|_[A-Z0-9]{2,3}(?=$|@)' # valid territory follows
     +'))'
     # script must be 1 upper case letter followed by
     # 3 lower case letters:
     +'(?:_(?P<script>[A-Z][a-z]{3})'
     # script is only valid if
     +'(?=$|@' # locale string ends here or only options follow
-    +'|_[A-Z]{2}(?=$|@)' # valid territory follows
+    +'|_[A-Z0-9]{2,3}(?=$|@)' # valid territory follows
     +')){0,1}'
-    # territory must be 2 upper case letters:
-    +'(?:_(?P<territory>[A-Z]{2})'
+    # territory must be 2 upper case letters or 3 digits:
+    +'(?:_(?P<territory>[A-Z0-9]{2,3})'
     # territory is only valid if
     +'(?=$|@' # locale string ends here or only options follow
     +')){0,1}')
@@ -915,6 +915,23 @@ def _parse_and_split_languageId(languageId=None, scriptId=None, territoryId=None
     languageId and the scriptId parameter. I.e.  language id like
     “sr_latin_RS” is accepted as well and treated the same as
     “sr_Latn_RS”.
+
+    Examples:
+
+    >>> _parse_and_split_languageId(languageId='de_DE')
+    ('de', None, 'DE')
+
+    >>> _parse_and_split_languageId(languageId='zh_Hant_TW')
+    ('zh', 'Hant', 'TW')
+
+    >>> _parse_and_split_languageId(languageId='es_419')
+    ('es', None, '419')
+
+    >>> _parse_and_split_languageId(languageId='sr_latin_RS')
+    ('sr', 'Latn', 'RS')
+
+    >>> _parse_and_split_languageId(languageId='sr_Latn_RS')
+    ('sr', 'Latn', 'RS')
     '''
     if languageId:
         dot_index = languageId.find('.')
@@ -1051,6 +1068,11 @@ def language_name(languageId = None, scriptId = None, territoryId = None, langua
     >>> print(language_name(languageId="sr", scriptId="Latn", languageIdQuery="en"))
     Serbian (Latin)
 
+    >>> print(language_name(languageId="de_DE", languageIdQuery="en"))
+    German (Germany)
+
+    >>> print(language_name(languageId="es_419", languageIdQuery="en"))
+    Spanish (Latin America)
     '''
     languageId, scriptId, territoryId = _parse_and_split_languageId(
         languageId=languageId,

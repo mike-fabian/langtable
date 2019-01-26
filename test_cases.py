@@ -1231,10 +1231,10 @@ def dummy():
     >>> _test_cldr_locale_pattern(localeId="srx_ARtc_XK") # doctest: +NORMALIZE_WHITESPACE
         []
 
-    >>> _test_cldr_locale_pattern(localeId="srx_Artc_XXK") # doctest: +NORMALIZE_WHITESPACE
+    >>> _test_cldr_locale_pattern(localeId="srx_Artc_XXk") # doctest: +NORMALIZE_WHITESPACE
         []
 
-    >>> _test_cldr_locale_pattern(localeId="srx_XXK") # doctest: +NORMALIZE_WHITESPACE
+    >>> _test_cldr_locale_pattern(localeId="srx_XXk") # doctest: +NORMALIZE_WHITESPACE
         []
 
     >>> _test_cldr_locale_pattern(localeId="srx_Artc_Kx") # doctest: +NORMALIZE_WHITESPACE
