@@ -163,6 +163,8 @@ def get_translations_from_cldr(main_cldr_dir = None):
                         'language_to_translate': language_to_translate,
                         'target_language': target_language,
                         'tr': translations_languages[language_to_translate]})
+                    # Uncomment this to really make the change:
+                    #langtable._languages_db[language_to_translate].names[target_language] = translations_languages[language_to_translate]
             else:
                 if opts['debug']:
                     print("Not in langtable: %(language_to_translate)s" %{
@@ -188,6 +190,8 @@ def get_translations_from_cldr(main_cldr_dir = None):
                     print("+ %(territory_to_translate)s → %(target_language)s = %(tr)s" %{'territory_to_translate': territory_to_translate,
                                                                                            'target_language': target_language,
                                                                                            'tr': translations_territories[territory_to_translate]})
+                    # Uncomment this to really make the change:
+                    #langtable._territories_db[territory_to_translate].names[target_language] = translations_territories[territory_to_translate]
             else:
                 if opts['debug']:
                     print("Not in langtable: %(territory_to_translate)s" %{
@@ -218,6 +222,8 @@ def get_translations_from_cldr(main_cldr_dir = None):
                             'timezone_city_to_translate': timezone_city_to_translate,
                             'target_language': target_language,
                             'tr': translations_timezone_cities[timezone_city_to_translate]})
+                        # Uncomment this to really make the change:
+                        #langtable._timezoneIdParts_db[timezone_city_to_translate].names[target_language] = translations_timezone_cities[timezone_city_to_translate]
     return
 
 def _test_timezone_names():
