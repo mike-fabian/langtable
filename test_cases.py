@@ -1165,7 +1165,7 @@ def dummy():
         台灣
 
     >>> print(territory_name(territoryId="HK", languageIdQuery="zh", territoryIdQuery="HK")) # doctest: +NORMALIZE_WHITESPACE
-        中華人民共和國香港特別行政區
+        中國香港特別行政區
 
     >>> print(territory_name(territoryId="TW", languageIdQuery="zh", scriptIdQuery="Hans")) # doctest: +NORMALIZE_WHITESPACE
         台湾
