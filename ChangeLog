@@ -1,3 +1,11 @@
+2019-01-29  Mike FABIAN  <mfabian@redhat.com>
+
+	* Version 0.0.41 released
+	* Use python3 in "make install"
+	* The territory can be 2 upper case letters *or* 3 digits
+	* Get translation changes from CLDR
+	* Add many languages and territories and also add new translations from CLDR
+
 2019-01-07  Mike FABIAN  <mfabian@redhat.com>
 
 	* Version 0.0.40 released
