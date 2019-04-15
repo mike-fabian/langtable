@@ -56,6 +56,12 @@ def dummy():
     >>> list_locales(show_weights=False, languageId="ca") # doctest: +NORMALIZE_WHITESPACE
         ['ca_ES.UTF-8', 'ca_ES.UTF-8@valencia', 'ca_FR.UTF-8', 'ca_AD.UTF-8', 'ca_IT.UTF-8']
 
+    >>> list_locales(show_weights=False, languageId="ca_ES_VALENCIA") # doctest: +NORMALIZE_WHITESPACE
+        ['ca_ES.UTF-8@valencia']
+
+    >>> list_locales(show_weights=False, languageId="ca_ES_VALENCIA", territoryId='ES') # doctest: +NORMALIZE_WHITESPACE
+        ['ca_ES.UTF-8@valencia']
+
     >>> list_locales(show_weights=False, languageId="cs") # doctest: +NORMALIZE_WHITESPACE
         ['cs_CZ.UTF-8']
 
@@ -1140,6 +1146,33 @@ def dummy():
 
     >>> print(language_name(languageId="tl")) # doctest: +NORMALIZE_WHITESPACE
         Tagalog
+
+    >>> print(language_name(languageId="ca")) # doctest: +NORMALIZE_WHITESPACE
+    català
+
+    >>> print(language_name(languageId="ca_AD")) # doctest: +NORMALIZE_WHITESPACE
+    català (Andorra)
+
+    >>> print(language_name(languageId="ca_FR")) # doctest: +NORMALIZE_WHITESPACE
+    català (França)
+
+    >>> print(language_name(languageId="ca_IT")) # doctest: +NORMALIZE_WHITESPACE
+    català (Itàlia)
+
+    >>> print(language_name(languageId="ca_ES")) # doctest: +NORMALIZE_WHITESPACE
+    català (Espanya)
+
+    >>> print(language_name(languageId="ca_ES.UTF-8")) # doctest: +NORMALIZE_WHITESPACE
+    català (Espanya)
+
+    >>> print(language_name(languageId="ca_ES_VALENCIA")) # doctest: +NORMALIZE_WHITESPACE
+    valencià (Espanya)
+
+    >>> print(language_name(languageId="ca_ES@valencia")) # doctest: +NORMALIZE_WHITESPACE
+    valencià (Espanya)
+
+    >>> print(language_name(languageId="ca_ES.UTF-8@valencia")) # doctest: +NORMALIZE_WHITESPACE
+    valencià (Espanya)
 
     >>> print(territory_name(territoryId="AE", languageIdQuery="ar")) # doctest: +NORMALIZE_WHITESPACE
         الإمارات العربية المتحدة

@@ -932,7 +932,26 @@ def _parse_and_split_languageId(languageId=None, scriptId=None, territoryId=None
 
     >>> _parse_and_split_languageId(languageId='sr_Latn_RS')
     ('sr', 'Latn', 'RS')
+
+    >>> _parse_and_split_languageId(languageId='ca_ES')
+    ('ca', None, 'ES')
+
+    >>> _parse_and_split_languageId(languageId='ca_ES.UTF-8')
+    ('ca', None, 'ES')
+
+    >>> _parse_and_split_languageId(languageId='ca_ES_VALENCIA')
+    ('ca_ES_VALENCIA', None, None)
+
+    >>> _parse_and_split_languageId(languageId='ca_ES.UTF-8@valencia')
+    ('ca_ES_VALENCIA', None, None)
+
+    >>> _parse_and_split_languageId(languageId='ca_ES@valencia')
+    ('ca_ES_VALENCIA', None, None)
     '''
+    if languageId and languageId.lower().find('valencia') >= 0:
+        languageId = 'ca_ES_VALENCIA'
+        scriptId = None
+        territoryId = None
     if languageId:
         dot_index = languageId.find('.')
         at_index = languageId.find('@')

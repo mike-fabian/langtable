@@ -5566,6 +5566,39 @@
     </timezones>
   </language>
   <language>
+    <languageId>ca_ES_VALENCIA</languageId>
+    <iso639-1>ca</iso639-1>
+    <iso639-2-t>cat</iso639-2-t>
+    <iso639-2-b>cat</iso639-2-b>
+    <names>
+      <name><languageId>ca</languageId><trName>valencià (Espanya)</trName></name>
+      <name><languageId>ca_ES</languageId><trName>valencià (Espanya)</trName></name>
+      <name><languageId>ca_ES_VALENCIA</languageId><trName>valencià (Espanya)</trName></name>
+      <name><languageId>de</languageId><trName>Valencianisch (Spanien)</trName></name>
+      <name><languageId>en</languageId><trName>Valencian (Spain)</trName></name>
+    </names>
+    <scripts>
+      <script><scriptId>Latn</scriptId><rank>1000</rank></script>
+    </scripts>
+    <locales>
+      <locale><localeId>ca_ES.UTF-8@valencia</localeId><rank>110</rank></locale>
+    </locales>
+    <territories>
+      <territory><territoryId>ES</territoryId><rank>900</rank></territory>
+    </territories>
+    <keyboards>
+      <keyboard><keyboardId>es(cat)</keyboardId><rank>1000</rank></keyboard>
+    </keyboards>
+    <inputmethods>
+    </inputmethods>
+    <consolefonts>
+      <consolefont><consolefontId>eurlatgr</consolefontId><rank>1000</rank></consolefont>
+    </consolefonts>
+    <timezones>
+      <timezone><timezoneId>Europe/Madrid</timezoneId><rank>900</rank></timezone>
+    </timezones>
+  </language>
+  <language>
     <languageId>ccp</languageId>
     <iso639-1>None</iso639-1>
     <iso639-2-t>None</iso639-2-t>
