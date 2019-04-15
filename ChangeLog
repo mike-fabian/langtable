@@ -1,3 +1,8 @@
+2019-04-15  Mike FABIAN  <mfabian@redhat.com>
+
+	* Version 0.0.42 released
+	* Add special support for languageId ca_ES_VALENCIA (Resolves: rhbz#1698984)
+
 2019-01-29  Mike FABIAN  <mfabian@redhat.com>
 
 	* Version 0.0.41 released
