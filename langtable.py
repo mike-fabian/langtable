@@ -592,7 +592,7 @@ def _write_territories_file(file):
             file.write(
                 '      <name>'
                 +'<languageId>'+name+'</languageId>'
-                +'<trName>'+names[name]+'</trName>'
+                +'<trName>'+names[name].replace('&', '&amp;')+'</trName>'
                 +'</name>\n')
         file.write('    </names>\n')
         scripts = _territories_db[territoryId].scripts
