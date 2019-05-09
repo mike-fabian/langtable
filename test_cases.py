@@ -764,7 +764,7 @@ def dummy():
 
     >>> _test_language_territory(show_weights=False, languageId="zh", territoryId="SG") # doctest: +NORMALIZE_WHITESPACE
         zh: ['zh_CN.UTF-8', 'zh_TW.UTF-8', 'cmn_TW.UTF-8', 'zh_HK.UTF-8', 'zh_SG.UTF-8']
-        SG: ['zh_SG.UTF-8', 'en_SG.UTF-8']
+        SG: ['en_SG.UTF-8', 'zh_SG.UTF-8']
          +: ['zh_SG.UTF-8']
         zh: ['cn']
         SG: ['us', 'cn']
@@ -772,7 +772,7 @@ def dummy():
 
     >>> _test_language_territory(show_weights=False, languageId="en", territoryId="SG") # doctest: +NORMALIZE_WHITESPACE
         en: ['en_US.UTF-8', 'en_GB.UTF-8', 'en_IN.UTF-8', 'en_AU.UTF-8', 'en_CA.UTF-8', 'en_DK.UTF-8', 'en_IE.UTF-8', 'en_NZ.UTF-8', 'en_NG.UTF-8', 'en_HK.UTF-8', 'en_PH.UTF-8', 'en_SG.UTF-8', 'en_ZA.UTF-8', 'en_ZM.UTF-8', 'en_ZW.UTF-8', 'en_BW.UTF-8', 'en_AG.UTF-8', 'en_IL.UTF-8']
-        SG: ['zh_SG.UTF-8', 'en_SG.UTF-8']
+        SG: ['en_SG.UTF-8', 'zh_SG.UTF-8']
          +: ['en_SG.UTF-8']
         en: ['us', 'gb', 'au']
         SG: ['us', 'cn']
@@ -804,7 +804,7 @@ def dummy():
 
     >>> _test_language_territory(show_weights=False, languageId="zh", scriptId = "Hans", territoryId="SG") # doctest: +NORMALIZE_WHITESPACE
         zh: ['zh_CN.UTF-8', 'zh_TW.UTF-8', 'cmn_TW.UTF-8', 'zh_HK.UTF-8', 'zh_SG.UTF-8']
-        SG: ['zh_SG.UTF-8', 'en_SG.UTF-8']
+        SG: ['en_SG.UTF-8', 'zh_SG.UTF-8']
          +: ['zh_SG.UTF-8']
         zh: ['cn']
         SG: ['us', 'cn']
