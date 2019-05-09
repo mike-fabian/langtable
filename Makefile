@@ -21,6 +21,9 @@ test: install
 	xmllint --noout --relaxng $(DATADIR)/schemas/timezones.rng $(DATADIR)/timezones.xml.gz
 	xmllint --noout --relaxng $(DATADIR)/schemas/timezoneidparts.rng $(DATADIR)/timezoneidparts.xml.gz
 
+.PHONE: check
+check: test
+
 .PHONY: dist
 dist:
 	DISTUTILS_DEBUG=$(DEBUG) python ./setup.py sdist
