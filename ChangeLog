@@ -1,3 +1,13 @@
+2019-05-09  Mike FABIAN  <mfabian@redhat.com>
+
+	* Version 0.0.43 released
+	* Get translation changes from CLDR
+	* Add some new translations from CLDR
+	* Add dsb_DE.UTF-8 sah_RU.UTF-8 locales
+	* Fix ranks for "en" and "zh" in "SG", English should be the default for "SG"
+	* Reduce the rank of cmn_TW.UTF-8 and zh_SG.UTF-8 to 0 for languageId="zh"
+	(Resolves: https://github.com/mike-fabian/langtable/issues/8)
+
 2019-04-15  Mike FABIAN  <mfabian@redhat.com>
 
 	* Version 0.0.42 released
