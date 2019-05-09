@@ -48910,9 +48910,9 @@
     <locales>
       <locale><localeId>zh_CN.UTF-8</localeId><rank>900</rank></locale>
       <locale><localeId>zh_TW.UTF-8</localeId><rank>20</rank></locale>
-      <locale><localeId>cmn_TW.UTF-8</localeId><rank>19</rank></locale>
       <locale><localeId>zh_HK.UTF-8</localeId><rank>18</rank></locale>
-      <locale><localeId>zh_SG.UTF-8</localeId><rank>10</rank></locale>
+      <locale><localeId>cmn_TW.UTF-8</localeId><rank>0</rank></locale>
+      <locale><localeId>zh_SG.UTF-8</localeId><rank>0</rank></locale>
       <locale><localeId>zh_MO.UTF-8</localeId><rank>0</rank></locale>
     </locales>
     <territories>
