@@ -30,6 +30,7 @@
       <name><languageId>ee</languageId><trName>xexeme</trName></name>
       <name><languageId>el</languageId><trName>Κόσμος</trName></name>
       <name><languageId>en</languageId><trName>World</trName></name>
+      <name><languageId>eo</languageId><trName>Mondo</trName></name>
       <name><languageId>es</languageId><trName>Mundo</trName></name>
       <name><languageId>et</languageId><trName>maailm</trName></name>
       <name><languageId>eu</languageId><trName>Mundua</trName></name>
@@ -7299,6 +7300,7 @@
       <name><languageId>hy</languageId><trName>Բրազիլիա</trName></name>
       <name><languageId>ia</languageId><trName>Brasil</trName></name>
       <name><languageId>id</languageId><trName>Brasil</trName></name>
+      <name><languageId>ig</languageId><trName>Mba Brazil</trName></name>
       <name><languageId>ii</languageId><trName>ꀠꑭ</trName></name>
       <name><languageId>is</languageId><trName>Brasilía</trName></name>
       <name><languageId>it</languageId><trName>Brasile</trName></name>
@@ -12537,6 +12539,7 @@
       <name><languageId>hy</languageId><trName>Գերմանիա</trName></name>
       <name><languageId>ia</languageId><trName>Germania</trName></name>
       <name><languageId>id</languageId><trName>Jerman</trName></name>
+      <name><languageId>ig</languageId><trName>Mba Germany</trName></name>
       <name><languageId>ii</languageId><trName>ꄓꇩ</trName></name>
       <name><languageId>is</languageId><trName>Þýskaland</trName></name>
       <name><languageId>it</languageId><trName>Germania</trName></name>
@@ -16609,6 +16612,7 @@
       <name><languageId>hy</languageId><trName>Ֆրանսիա</trName></name>
       <name><languageId>ia</languageId><trName>Francia</trName></name>
       <name><languageId>id</languageId><trName>Prancis</trName></name>
+      <name><languageId>ig</languageId><trName>Mba France</trName></name>
       <name><languageId>ii</languageId><trName>ꃔꇩ</trName></name>
       <name><languageId>is</languageId><trName>Frakkland</trName></name>
       <name><languageId>it</languageId><trName>Francia</trName></name>
@@ -17053,6 +17057,7 @@
       <name><languageId>hy</languageId><trName>Միացյալ Թագավորություն</trName></name>
       <name><languageId>ia</languageId><trName>Regno Unite</trName></name>
       <name><languageId>id</languageId><trName>Inggris Raya</trName></name>
+      <name><languageId>ig</languageId><trName>Mba United Kingdom</trName></name>
       <name><languageId>ii</languageId><trName>ꑱꇩ</trName></name>
       <name><languageId>is</languageId><trName>Bretland</trName></name>
       <name><languageId>it</languageId><trName>Regno Unito</trName></name>
@@ -22570,6 +22575,7 @@
       <name><languageId>hy</languageId><trName>Հնդկաստան</trName></name>
       <name><languageId>ia</languageId><trName>India</trName></name>
       <name><languageId>id</languageId><trName>India</trName></name>
+      <name><languageId>ig</languageId><trName>Mba India</trName></name>
       <name><languageId>ii</languageId><trName>ꑴꄗ</trName></name>
       <name><languageId>is</languageId><trName>Indland</trName></name>
       <name><languageId>it</languageId><trName>India</trName></name>
@@ -23739,6 +23745,7 @@
       <name><languageId>hy</languageId><trName>Իտալիա</trName></name>
       <name><languageId>ia</languageId><trName>Italia</trName></name>
       <name><languageId>id</languageId><trName>Italia</trName></name>
+      <name><languageId>ig</languageId><trName>Mba Italy</trName></name>
       <name><languageId>ii</languageId><trName>ꑴꄊꆺ</trName></name>
       <name><languageId>is</languageId><trName>Ítalía</trName></name>
       <name><languageId>it</languageId><trName>Italia</trName></name>
@@ -24544,6 +24551,7 @@
       <name><languageId>hy</languageId><trName>Ճապոնիա</trName></name>
       <name><languageId>ia</languageId><trName>Japon</trName></name>
       <name><languageId>id</languageId><trName>Jepang</trName></name>
+      <name><languageId>ig</languageId><trName>Mba Japan</trName></name>
       <name><languageId>ii</languageId><trName>ꏝꀪ</trName></name>
       <name><languageId>is</languageId><trName>Japan</trName></name>
       <name><languageId>it</languageId><trName>Giappone</trName></name>
@@ -30836,6 +30844,7 @@
       <name><languageId>mfe</languageId><trName>Masedwann</trName></name>
       <name><languageId>mg</languageId><trName>Makedonia</trName></name>
       <name><languageId>mgh</languageId><trName>Umasedonia</trName></name>
+      <name><languageId>mi</languageId><trName>Makerōnia ki te Raki</trName></name>
       <name><languageId>mk</languageId><trName>Македонија</trName></name>
       <name><languageId>ml</languageId><trName>മാസിഡോണിയ</trName></name>
       <name><languageId>mn</languageId><trName>Македон</trName></name>
@@ -30866,6 +30875,7 @@
       <name><languageId>ro</languageId><trName>Republica Macedonia</trName></name>
       <name><languageId>rof</languageId><trName>Masedonia</trName></name>
       <name><languageId>ru</languageId><trName>Македония</trName></name>
+      <name><languageId>rw</languageId><trName>Masedoniya y'Amajyaruguru</trName></name>
       <name><languageId>rwk</languageId><trName>Masedonia</trName></name>
       <name><languageId>saq</languageId><trName>Masedonia</trName></name>
       <name><languageId>sbp</languageId><trName>Masedoniya</trName></name>
@@ -30910,6 +30920,7 @@
       <name><languageId>wae</languageId><trName>Mazedonie</trName></name>
       <name><languageId>wal</languageId><trName>ማከዶኒያ</trName></name>
       <name><languageId>wo</languageId><trName>Maseduwaan</trName></name>
+      <name><languageId>xh</languageId><trName>uMntla Macedonia</trName></name>
       <name><languageId>xog</languageId><trName>Masedoniya</trName></name>
       <name><languageId>yav</languageId><trName>masetuán</trName></name>
       <name><languageId>yi</languageId><trName>מאַקעדאניע</trName></name>
@@ -40657,6 +40668,7 @@
       <name><languageId>hy</languageId><trName>Ռուսաստան</trName></name>
       <name><languageId>ia</languageId><trName>Russia</trName></name>
       <name><languageId>id</languageId><trName>Rusia</trName></name>
+      <name><languageId>ig</languageId><trName>Mba Russia</trName></name>
       <name><languageId>ii</languageId><trName>ꊉꇆꌦ</trName></name>
       <name><languageId>is</languageId><trName>Rússland</trName></name>
       <name><languageId>it</languageId><trName>Russia</trName></name>
@@ -49154,6 +49166,7 @@
       <name><languageId>hy</languageId><trName>Միացյալ Նահանգներ</trName></name>
       <name><languageId>ia</languageId><trName>Statos Unite</trName></name>
       <name><languageId>id</languageId><trName>Amerika Serikat</trName></name>
+      <name><languageId>ig</languageId><trName>Mba United States</trName></name>
       <name><languageId>ii</languageId><trName>ꂰꇩ</trName></name>
       <name><languageId>is</languageId><trName>Bandaríkin</trName></name>
       <name><languageId>it</languageId><trName>Stati Uniti</trName></name>

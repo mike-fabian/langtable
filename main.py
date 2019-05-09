@@ -140,6 +140,8 @@ def get_translations_from_cldr(main_cldr_dir = None):
             continue
         read_translations_from_cldr_file(cldr_file)
         for language_to_translate in translations_languages:
+            if translations_languages[language_to_translate] in ('↑↑↑', 'Tagalog'):
+                continue
             if language_to_translate in langtable._languages_db:
                 if target_language not in langtable._languages_db[language_to_translate].names:
                     print("Missing: %(language_to_translate)s → %(target_language)s = %(tr)s" %{
@@ -170,6 +172,8 @@ def get_translations_from_cldr(main_cldr_dir = None):
                     print("Not in langtable: %(language_to_translate)s" %{
                         'language_to_translate': language_to_translate})
         for territory_to_translate in translations_territories:
+            if translations_territories[territory_to_translate] in ('↑↑↑',):
+                continue
             if territory_to_translate in langtable._territories_db:
                 if target_language not in langtable._territories_db[territory_to_translate].names:
                     print("Missing: %(territory_to_translate)s → %(target_language)s = %(tr)s" %{'territory_to_translate': territory_to_translate,
@@ -197,6 +201,8 @@ def get_translations_from_cldr(main_cldr_dir = None):
                     print("Not in langtable: %(territory_to_translate)s" %{
                         'territory_to_translate': territory_to_translate})
         for timezone_city_to_translate in translations_timezone_cities:
+            if translations_timezone_cities[timezone_city_to_translate] in ('↑↑↑',):
+                continue
             if timezone_city_to_translate in langtable._timezoneIdParts_db:
                 if target_language not in langtable._timezoneIdParts_db[timezone_city_to_translate].names:
                     if timezone_city_to_translate not in ['Vevay', 'Center']:
