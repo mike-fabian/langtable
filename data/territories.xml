@@ -12677,6 +12677,7 @@
       <locale><localeId>nds_DE.UTF-8</localeId><rank>11</rank></locale>
       <locale><localeId>hsb_DE.UTF-8</localeId><rank>10</rank></locale>
       <locale><localeId>fy_DE.UTF-8</localeId><rank>9</rank></locale>
+      <locale><localeId>dsb_DE.UTF-8</localeId><rank>2</rank></locale>
     </locales>
     <languages>
       <language><languageId>de</languageId><rank>950</rank></language>
@@ -40800,7 +40801,8 @@
       <locale><localeId>mhr_RU.UTF-8</localeId><rank>11</rank></locale>
       <locale><localeId>os_RU.UTF-8</localeId><rank>10</rank></locale>
       <locale><localeId>tt_RU.UTF-8</localeId><rank>9</rank></locale>
-      <locale><localeId>tt_RU.UTF-8@iqtelif</localeId><rank>1</rank></locale>
+      <locale><localeId>tt_RU.UTF-8@iqtelif</localeId><rank>2</rank></locale>
+      <locale><localeId>sah_RU.UTF-8</localeId><rank>1</rank></locale>
     </locales>
     <languages>
       <language><languageId>ru</languageId><rank>950</rank></language>

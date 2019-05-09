@@ -350,7 +350,7 @@ def dummy():
 
     # if languageId contains an invalid locale id, it is completely ignored:
     >>> list_locales(languageId="sr_CYrl_RS", scriptId="Latn", territoryId="DE") # doctest: +NORMALIZE_WHITESPACE
-        ['de_DE.UTF-8', 'nds_DE.UTF-8', 'hsb_DE.UTF-8', 'fy_DE.UTF-8']
+        ['de_DE.UTF-8', 'nds_DE.UTF-8', 'hsb_DE.UTF-8', 'fy_DE.UTF-8', 'dsb_DE.UTF-8']
 
     # Japanese uses a mixture of hiragana, katakana, and kanji:
     >>> list_scripts(languageId='ja') # doctest: +NORMALIZE_WHITESPACE
@@ -636,8 +636,8 @@ def dummy():
 
     >>> _test_language_territory(show_weights=False, languageId="ja", territoryId="DE") # doctest: +NORMALIZE_WHITESPACE
         ja: ['ja_JP.UTF-8']
-        DE: ['de_DE.UTF-8', 'nds_DE.UTF-8', 'hsb_DE.UTF-8', 'fy_DE.UTF-8']
-         +: ['ja_JP.UTF-8', 'de_DE.UTF-8', 'nds_DE.UTF-8', 'hsb_DE.UTF-8', 'fy_DE.UTF-8']
+        DE: ['de_DE.UTF-8', 'nds_DE.UTF-8', 'hsb_DE.UTF-8', 'fy_DE.UTF-8', 'dsb_DE.UTF-8']
+         +: ['ja_JP.UTF-8', 'de_DE.UTF-8', 'nds_DE.UTF-8', 'hsb_DE.UTF-8', 'fy_DE.UTF-8', 'dsb_DE.UTF-8']
         ja: ['jp']
         DE: ['de(nodeadkeys)', 'de(deadacute)']
          +: ['jp', 'de(nodeadkeys)', 'de(deadacute)']
@@ -692,8 +692,8 @@ def dummy():
 
     >>> _test_language_territory(show_weights=False, languageId="ar", territoryId="DE") # doctest: +NORMALIZE_WHITESPACE
         ar: ['ar_EG.UTF-8', 'ar_SD.UTF-8', 'ar_DZ.UTF-8', 'ar_MA.UTF-8', 'ar_IQ.UTF-8', 'ar_SA.UTF-8', 'ar_YE.UTF-8', 'ar_SY.UTF-8', 'ar_TN.UTF-8', 'ar_LY.UTF-8', 'ar_JO.UTF-8', 'ar_AE.UTF-8', 'ar_LB.UTF-8', 'ar_KW.UTF-8', 'ar_OM.UTF-8', 'ar_QA.UTF-8', 'ar_BH.UTF-8', 'ar_IN.UTF-8', 'ar_SS.UTF-8']
-        DE: ['de_DE.UTF-8', 'nds_DE.UTF-8', 'hsb_DE.UTF-8', 'fy_DE.UTF-8']
-         +: ['ar_EG.UTF-8', 'ar_SD.UTF-8', 'ar_DZ.UTF-8', 'ar_MA.UTF-8', 'ar_IQ.UTF-8', 'ar_SA.UTF-8', 'ar_YE.UTF-8', 'ar_SY.UTF-8', 'ar_TN.UTF-8', 'ar_LY.UTF-8', 'ar_JO.UTF-8', 'ar_AE.UTF-8', 'ar_LB.UTF-8', 'ar_KW.UTF-8', 'ar_OM.UTF-8', 'ar_QA.UTF-8', 'de_DE.UTF-8', 'ar_BH.UTF-8', 'ar_IN.UTF-8', 'ar_SS.UTF-8', 'nds_DE.UTF-8', 'hsb_DE.UTF-8', 'fy_DE.UTF-8']
+        DE: ['de_DE.UTF-8', 'nds_DE.UTF-8', 'hsb_DE.UTF-8', 'fy_DE.UTF-8', 'dsb_DE.UTF-8']
+         +: ['ar_EG.UTF-8', 'ar_SD.UTF-8', 'ar_DZ.UTF-8', 'ar_MA.UTF-8', 'ar_IQ.UTF-8', 'ar_SA.UTF-8', 'ar_YE.UTF-8', 'ar_SY.UTF-8', 'ar_TN.UTF-8', 'ar_LY.UTF-8', 'ar_JO.UTF-8', 'ar_AE.UTF-8', 'ar_LB.UTF-8', 'ar_KW.UTF-8', 'ar_OM.UTF-8', 'ar_QA.UTF-8', 'de_DE.UTF-8', 'ar_BH.UTF-8', 'ar_IN.UTF-8', 'ar_SS.UTF-8', 'nds_DE.UTF-8', 'hsb_DE.UTF-8', 'fy_DE.UTF-8', 'dsb_DE.UTF-8']
         ar: ['ara', 'ara(azerty)', 'iq', 'ma', 'sy']
         DE: ['de(nodeadkeys)', 'de(deadacute)']
          +: ['de(nodeadkeys)', 'ara', 'de(deadacute)', 'ara(azerty)', 'iq', 'ma', 'sy']
@@ -852,15 +852,15 @@ def dummy():
 
     >>> _test_language_territory(show_weights=False, languageId="ia", territoryId="DE") # doctest: +NORMALIZE_WHITESPACE
         ia: ['ia_FR.UTF-8']
-        DE: ['de_DE.UTF-8', 'nds_DE.UTF-8', 'hsb_DE.UTF-8', 'fy_DE.UTF-8']
-         +: ['ia_FR.UTF-8', 'de_DE.UTF-8', 'nds_DE.UTF-8', 'hsb_DE.UTF-8', 'fy_DE.UTF-8']
+        DE: ['de_DE.UTF-8', 'nds_DE.UTF-8', 'hsb_DE.UTF-8', 'fy_DE.UTF-8', 'dsb_DE.UTF-8']
+         +: ['ia_FR.UTF-8', 'de_DE.UTF-8', 'nds_DE.UTF-8', 'hsb_DE.UTF-8', 'fy_DE.UTF-8', 'dsb_DE.UTF-8']
         ia: ['us(euro)']
         DE: ['de(nodeadkeys)', 'de(deadacute)']
          +: ['us(euro)', 'de(nodeadkeys)', 'de(deadacute)']
 
     >>> _test_language_territory(show_weights=False, languageId="tt", territoryId="RU") # doctest: +NORMALIZE_WHITESPACE
         tt: ['tt_RU.UTF-8', 'tt_RU.UTF-8@iqtelif']
-        RU: ['ru_RU.UTF-8', 'ce_RU.UTF-8', 'cv_RU.UTF-8', 'mhr_RU.UTF-8', 'os_RU.UTF-8', 'tt_RU.UTF-8', 'tt_RU.UTF-8@iqtelif']
+        RU: ['ru_RU.UTF-8', 'ce_RU.UTF-8', 'cv_RU.UTF-8', 'mhr_RU.UTF-8', 'os_RU.UTF-8', 'tt_RU.UTF-8', 'tt_RU.UTF-8@iqtelif', 'sah_RU.UTF-8']
          +: ['tt_RU.UTF-8']
         tt: ['ru(tt)', 'us(altgr-intl)']
         RU: ['ru', 'ru(tt)', 'us(altgr-intl)']
@@ -868,7 +868,7 @@ def dummy():
 
     >>> _test_language_territory(show_weights=False, languageId="tt", scriptId="Latn", territoryId="RU") # doctest: +NORMALIZE_WHITESPACE
         tt: ['tt_RU.UTF-8', 'tt_RU.UTF-8@iqtelif']
-        RU: ['ru_RU.UTF-8', 'ce_RU.UTF-8', 'cv_RU.UTF-8', 'mhr_RU.UTF-8', 'os_RU.UTF-8', 'tt_RU.UTF-8', 'tt_RU.UTF-8@iqtelif']
+        RU: ['ru_RU.UTF-8', 'ce_RU.UTF-8', 'cv_RU.UTF-8', 'mhr_RU.UTF-8', 'os_RU.UTF-8', 'tt_RU.UTF-8', 'tt_RU.UTF-8@iqtelif', 'sah_RU.UTF-8']
          +: ['tt_RU.UTF-8@iqtelif']
         tt: ['ru(tt)', 'us(altgr-intl)']
         RU: ['ru', 'ru(tt)', 'us(altgr-intl)']
