@@ -4,9 +4,11 @@ DEBUG=
 PWD := $(shell pwd)
 SRCDIR=$(PWD)
 
+.PHONY: install
 install:
 	perl -pi -e "s,_datadir = '(.*)',_datadir = '$(DATADIR)'," langtable.py
-	DISTUTILS_DEBUG=$(DEBUG) python3 ./setup.py install --prefix=$(DESTDIR) --install-data=$(DATADIR)
+	DISTUTILS_DEBUG=$(DEBUG) python3 ./setup.py install --prefix=$(DESTDIR)
+	DISTUTILS_DEBUG=$(DEBUG) python3 ./setup.py install_data --install-dir=$(DATADIR)
 	gzip --force --best $(DATADIR)/*.xml
 
 .PHONY: test
