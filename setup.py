@@ -4,8 +4,12 @@ import setuptools
 import codecs
 
 setuptools.setup(
+    # do not zip the egg file to be able to access the *.xml.gz files
+    # within the egg directory easily:
+    zip_safe=False,
     name='langtable',
     version='0.0.43',
+    packages=setuptools.find_packages(),
     description='guess reasonable defaults for locale, keyboard, territory, ...',
     long_description=codecs.open('README', encoding='UTF-8').read(),
     license="GPLv3+",
@@ -13,20 +17,27 @@ setuptools.setup(
     author_email='mfabian@redhat.com',
     url='https://github.com/mike-fabian/langtable',
     py_modules=['langtable'],
-    data_files = [
-        ('',
-         ['data/keyboards.xml',
-          'data/languages.xml',
-          'data/territories.xml',
-          'data/timezones.xml',
-          'data/timezoneidparts.xml']),
-        ('schemas',
-         ['schemas/keyboards.rng',
-          'schemas/languages.rng',
-          'schemas/territories.rng',
-          'schemas/timezones.rng',
-          'schemas/timezoneidparts.rng'])],
-      classifiers=[
+    package_data={
+        'langtable': ['data/*.xml.gz', 'schemas/*.rng'],
+    },
+    # data_files is for installing the data files outside of the package with:
+    #
+    #     ./setup.py install_data --install-dir=dirname
+    #
+    #    data_files = [
+    #        ('data',
+    #         ['langtable/data/keyboards.xml.gz',
+    #          'langtable/data/languages.xml.gz',
+    #          'langtable/data/territories.xml.gz',
+    #          'langtable/data/timezones.xml.gz',
+    #          'langtable/data/timezoneidparts.xml.gz']),
+    #        ('schemas',
+    #         ['langtable/schemas/keyboards.rng',
+    #          'langtable/schemas/languages.rng',
+    #          'langtable/schemas/territories.rng',
+    #          'langtable/schemas/timezones.rng',
+    #          'langtable/schemas/timezoneidparts.rng'])],
+    classifiers=[
         'Development Status :: 2 - Pre-Alpha',
         'Environment :: Console',
         'Intended Audience :: Developers',
@@ -34,5 +45,5 @@ setuptools.setup(
         'Operating System :: POSIX :: Linux',
         'Programming Language :: Python',
         'Topic :: System :: Installation/Setup',
-      ],
-     )
+    ],
+)

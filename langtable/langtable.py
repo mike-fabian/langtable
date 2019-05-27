@@ -46,7 +46,7 @@ import xml.parsers.expat
 from xml.sax.handler import ContentHandler
 
 # will be replaced by “make install”:
-_datadir = '/usr/share/langtable'
+_DATADIR = '/usr/share/langtable'
 
 # For the ICU/CLDR locale pattern see: http://userguide.icu-project.org/locale
 # (We ignore the variant code here)
@@ -841,12 +841,13 @@ def _expat_parse(file, sax_handler):
     parser.CharacterDataHandler = sax_handler.characters
     parser.ParseFile(file)
 
-def _read_file(datadir, filename, sax_handler):
+def _read_file(filename, sax_handler):
     '''
     Only for internal use
     '''
-
-    for dir in [datadir, '.']:
+    for dir in (
+            os.path.join(os.path.dirname(os.path.realpath(__file__)), 'data'),
+            os.path.join(_DATADIR, 'data')):
         path = os.path.join(dir, filename)
         if os.path.isfile(path):
             with open(path, mode='rb') as file:
@@ -1954,9 +1955,7 @@ def _test_language_territory(show_weights=False, languageId=None, scriptId=None,
           )
     return
 
-def _init(debug = False,
-         logfilename = '/dev/null',
-         datadir = _datadir):
+def _init(debug=False, logfilename='/dev/null'):
 
     log_level = logging.INFO
     if debug:
@@ -1966,11 +1965,11 @@ def _init(debug = False,
                         format="%(levelname)s: %(message)s",
                         level=log_level)
 
-    _read_file(datadir, 'territories.xml', TerritoriesContentHandler())
-    _read_file(datadir, 'languages.xml', LanguagesContentHandler())
-    _read_file(datadir, 'keyboards.xml', KeyboardsContentHandler())
-    _read_file(datadir, 'timezones.xml', TimezonesContentHandler())
-    _read_file(datadir, 'timezoneidparts.xml', TimezoneIdPartsContentHandler())
+    _read_file('territories.xml', TerritoriesContentHandler())
+    _read_file('languages.xml', LanguagesContentHandler())
+    _read_file('keyboards.xml', KeyboardsContentHandler())
+    _read_file('timezones.xml', TimezonesContentHandler())
+    _read_file('timezoneidparts.xml', TimezoneIdPartsContentHandler())
 
 class __ModuleInitializer:
     def __init__(self):

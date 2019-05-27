@@ -1,34 +1,45 @@
 DESTDIR=/usr
-DATADIR=$(DESTDIR)/share/langtable
+DATADIR=$(DESTDIR)/share/langtable/
 DEBUG=
 PWD := $(shell pwd)
 SRCDIR=$(PWD)
 
-.PHONY: install
-install:
-	perl -pi -e "s,_datadir = '(.*)',_datadir = '$(DATADIR)'," langtable.py
-	DISTUTILS_DEBUG=$(DEBUG) python3 ./setup.py install --prefix=$(DESTDIR)
-	DISTUTILS_DEBUG=$(DEBUG) python3 ./setup.py install_data --install-dir=$(DATADIR)
-	gzip --force --best $(DATADIR)/*.xml
+.PHONY: gzip
+gzip:
+	gzip --keep --force --best langtable/data/*.xml
 
 .PHONY: test
-test: install
-	python2 langtable.py
-	python3 langtable.py
-	(cd $(DATADIR); python2 $(SRCDIR)/test_cases.py)
-	(cd $(DATADIR); python3 $(SRCDIR)/test_cases.py)
-	xmllint --noout --relaxng $(DATADIR)/schemas/keyboards.rng $(DATADIR)/keyboards.xml.gz
-	xmllint --noout --relaxng $(DATADIR)/schemas/languages.rng $(DATADIR)/languages.xml.gz
-	xmllint --noout --relaxng $(DATADIR)/schemas/territories.rng $(DATADIR)/territories.xml.gz
-	xmllint --noout --relaxng $(DATADIR)/schemas/timezones.rng $(DATADIR)/timezones.xml.gz
-	xmllint --noout --relaxng $(DATADIR)/schemas/timezoneidparts.rng $(DATADIR)/timezoneidparts.xml.gz
+test: gzip
+	(cd langtable; python2 langtable.py)
+	(cd langtable; python3 langtable.py)
+	python2 test_cases.py
+	python3 test_cases.py
+	(cd langtable; xmllint --noout --relaxng schemas/keyboards.rng data/keyboards.xml.gz)
+	(cd langtable; xmllint --noout --relaxng schemas/languages.rng data/languages.xml.gz)
+	(cd langtable; xmllint --noout --relaxng schemas/territories.rng data/territories.xml.gz)
+	(cd langtable; xmllint --noout --relaxng schemas/timezones.rng data/timezones.xml.gz)
+	(cd langtable; xmllint --noout --relaxng schemas/timezoneidparts.rng data/timezoneidparts.xml.gz)
 
 .PHONE: check
 check: test
 
 .PHONY: dist
-dist:
-	DISTUTILS_DEBUG=$(DEBUG) python3 ./setup.py sdist
+dist: gzip
+	DISTUTILS_DEBUG=$(DEBUG) python3 ./setup.py sdist bdist_egg bdist_wheel
+
+.PHONY: install
+install: dist
+	perl -pi -e "s,_datadir = '(.*)',_DATADIR = '$(DATADIR)'," langtable/langtable.py
+	DISTUTILS_DEBUG=$(DEBUG) python3 ./setup.py install --prefix=$(DESTDIR)
+#	DISTUTILS_DEBUG=$(DEBUG) python3 ./setup.py install_data --install-dir=$(DATADIR)
+
+.PHONY: twine-upload-test
+twine-upload-test: dist
+	python3 -m twine upload --repository-url https://test.pypi.org/legacy/ dist/*
+
+.PHONY: pip-install-test
+pip-install-test:
+	(cd /tmp; python3 -m pip install --user --ignore-installed --index-url https://test.pypi.org/simple/ --no-deps langtable)
 
 .PHONY: clean
 clean:

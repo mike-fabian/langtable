@@ -4,7 +4,9 @@ MANIFEST
 *.pyc
 *.log
 *.rnc
+*.gz
 /build/
 /dist/
 /mockbuild-results/
 /_build/
+/langtable.egg-info/

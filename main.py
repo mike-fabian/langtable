@@ -34,33 +34,33 @@ def parse_args():
     parser.add_argument('-T', '--territoriesoutputfile',
                         nargs='?',
                         type=str,
-                        default='./data/territories.xml.new',
-                        help='territories output file, default is ./data/territories.xml.new')
+                        default='./langtable/data/territories.xml.new',
+                        help='territories output file, default is %(default)s')
     parser.add_argument('-K', '--keyboardsoutputfile',
                         nargs='?',
                         type=str,
-                        default='./data/keyboards.xml.new',
-                        help='keyboards file, default is ./data/keyboards.xml.new')
+                        default='./langtable/data/keyboards.xml.new',
+                        help='keyboards file, default is %(default)s')
     parser.add_argument('-L', '--languagesoutputfile',
                         nargs='?',
                         type=str,
-                        default='./data/languages.xml.new',
-                        help='languages output file, default is ./data/languages.xml.new')
+                        default='./langtable/data/languages.xml.new',
+                        help='languages output file, default is %(default)s')
     parser.add_argument('-z', '--timezonesoutputfile',
                         nargs='?',
                         type=str,
-                        default='./data/timezones.xml.new',
-                        help='timezones output file, default is ./data/timezones.xml.new')
+                        default='./langtable/data/timezones.xml.new',
+                        help='timezones output file, default is %(default)s')
     parser.add_argument('-p', '--timezoneidpartsoutputfile',
                         nargs='?',
                         type=str,
-                        default='./data/timezoneidparts.xml.new',
-                        help='timezoneidparts output file, default is ./data/timezoneidparts.xml.new')
+                        default='./langtable/data/timezoneidparts.xml.new',
+                        help='timezoneidparts output file, default is %(default)s')
     parser.add_argument('-l', '--logfilename',
                         nargs='?',
                         type=str,
                         default='./langtable.log',
-                        help='log file, default is ./langtable.log')
+                        help='log file, default is %(default)s')
     parser.add_argument('-d', '--debug',
                         action='store_true',
                         help='print debugging output')
@@ -249,10 +249,9 @@ def main():
         opts['debug'] = False
 
     langtable._init(debug = True,
-                    logfilename = args.logfilename,
-                    datadir = './data')
+                    logfilename = args.logfilename)
 
-    get_translations_from_cldr(main_cldr_dir='/local/mfabian/src/cldr-svn/trunk/common/main')
+    get_translations_from_cldr(main_cldr_dir='/local/mfabian/src/cldr/common/main')
 
     #_test_timezone_names()
 
