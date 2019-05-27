@@ -4,6 +4,5 @@ include ChangeLog
 include Makefile
 include MANIFEST.in
 include test_cases.py
-include run_test_cases
 include main.py
 recursive-include tools *
