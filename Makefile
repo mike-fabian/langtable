@@ -26,7 +26,7 @@ check: test
 
 .PHONY: dist
 dist:
-	DISTUTILS_DEBUG=$(DEBUG) python ./setup.py sdist
+	DISTUTILS_DEBUG=$(DEBUG) python3 ./setup.py sdist
 
 .PHONY: clean
 clean:
