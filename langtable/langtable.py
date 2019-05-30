@@ -45,6 +45,8 @@ import gzip
 import xml.parsers.expat
 from xml.sax.handler import ContentHandler
 
+_INFO = {'data_files_read': []}
+
 # will be replaced by “make install”:
 _DATADIR = '/usr/share/langtable'
 
@@ -853,12 +855,14 @@ def _read_file(filename, sax_handler):
             with open(path, mode='rb') as file:
                 logging.info('reading file=%s' %file)
                 _expat_parse(file, sax_handler)
+                _INFO['data_files_read'].append(path)
             return
         path = os.path.join(dir, filename+'.gz')
         if os.path.isfile(path):
             with gzip.open(path, mode='rb') as file:
                 logging.info('reading file=%s' %file)
                 _expat_parse(file, sax_handler)
+                _INFO['data_files_read'].append(path)
             return
     logging.info('no readable file found.')
 
@@ -1920,6 +1924,23 @@ def supports_ascii(keyboardId=None):
     if keyboardId in _keyboards_db:
         return _keyboards_db[keyboardId].ascii
     return True
+
+def version():
+    '''
+    Return version of langtable
+    '''
+    import pkg_resources  # part of setuptools
+    return pkg_resources.require("langtable")[0].version
+
+def info():
+    '''
+    Print some info about langtable
+    '''
+    import pkg_resources  # part of setuptools
+    version = pkg_resources.require("langtable")[0].version
+    print('Version: = %s' %version)
+    print('Loaded from: %s' %os.path.realpath(__file__))
+    print('Data files read: %s' %_INFO['data_files_read'])
 
 def _test_cldr_locale_pattern(localeId):
     '''
