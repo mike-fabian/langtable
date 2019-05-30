@@ -1,14 +1,7 @@
-%if 0%{?fedora} || 0%{?rhel} >= 8
-%global with_python3 1
-%else
-%{!?python_sitelib: %global python_sitelib %(%{__python} -c "from distutils.sysconfig import get_python_lib; print (get_python_lib())")}
-%endif
-
 Name:           langtable
-Version:        0.0.38
-Release:        2%{?dist}
+Version:        0.0.44
+Release:        1%{?dist}
 Summary:        Guessing reasonable defaults for locale, keyboard layout, territory, and language.
-Group:          Development/Tools
 # the translations in languages.xml and territories.xml are (mostly)
 # imported from CLDR and are thus under the Unicode license, the
 # short name for this license is "MIT", see:
@@ -18,10 +11,7 @@ URL:            https://github.com/mike-fabian/langtable
 Source0:        https://github.com/mike-fabian/langtable/releases/download/%{version}/%{name}-%{version}.tar.gz
 BuildArch:      noarch
 BuildRequires:  perl-interpreter
-BuildRequires:  python2-devel
-%if 0%{?with_python3}
 BuildRequires:  python3-devel
-%endif # if with_python3
 
 %description
 langtable is used to guess reasonable defaults for locale, keyboard layout,
@@ -30,99 +20,126 @@ example, guess the territory and the keyboard layout if the language
 is known or guess the language and keyboard layout if the territory is
 already known.
 
-%package -n python2-langtable
-%{?python_provide:%python_provide python2-langtable}
-# Remove before F30
-Provides: %{name}-python%{?_isa} = %{version}-%{release}
-Obsoletes: %{name}-python < %{version}-%{release}
+%package -n python3-langtable
 Summary:        Python module to query the langtable-data
-Group:          Development/Tools
 License:        GPLv3+
 Requires:       %{name} = %{version}-%{release}
-Requires:       %{name}-data = %{version}-%{release}
 
-%description -n python2-langtable
+%description -n python3-langtable
 This package contains a Python module to query the data
 from langtable-data.
-
-%if 0%{?with_python3}
-%package python3
-Summary:        Python module to query the langtable-data
-Group:          Development/Tools
-License:        GPLv3+
-Requires:       %{name} = %{version}-%{release}
-Requires:       %{name}-data = %{version}-%{release}
-
-%description python3
-This package contains a Python module to query the data
-from langtable-data.
-
-%endif # with_python3
-
-%package data
-Summary:        Data files for langtable
-Group:          Development/Tools
-License:        GPLv3+ and MIT
-Requires:       %{name} = %{version}-%{release}
-
-%description data
-This package contains the data files for langtable.
 
 %prep
 %setup -q
 
 %build
-perl -pi -e "s,_datadir = '(.*)',_datadir = '%{_datadir}/langtable'," langtable.py
-%py2_build
+perl -pi -e "s,_DATADIR = '(.*)',_DATADIR = '%{_datadir}/langtable'," langtable/langtable.py
 
-%if 0%{?with_python3}
 %py3_build
-%endif # with_python3
 
 %install
-%py2_install -- --install-data=%{_datadir}/langtable
-gzip --force --best $RPM_BUILD_ROOT/%{_datadir}/langtable/*.xml
 
-%if 0%{?with_python3}
-%py3_install -- --install-data=%{_datadir}/langtable
-# the .xml files copied by the “python3 setup.py install” are identical
-# to those copied in the “python2 setup.py install”,
-# it does not hurt to gzip them again:
-gzip --force --best $RPM_BUILD_ROOT/%{_datadir}/langtable/*.xml
-%endif # with_python3
+%py3_install
 
 %check
-(cd $RPM_BUILD_DIR/%{name}-%{version}/data; PYTHONPATH=.. %{__python2} ../test_cases.py; %{__python2} ../langtable.py)
-%if 0%{?with_python3}
-(cd $RPM_BUILD_DIR/%{name}-%{version}/data; LC_CTYPE=en_US.UTF-8 PYTHONPATH=.. %{__python3} ../test_cases.py; %{__python3} ../langtable.py)
-%endif # with_python3
-xmllint --noout --relaxng $RPM_BUILD_ROOT/%{_datadir}/langtable/schemas/keyboards.rng $RPM_BUILD_ROOT/%{_datadir}/langtable/keyboards.xml.gz
-xmllint --noout --relaxng $RPM_BUILD_ROOT/%{_datadir}/langtable/schemas/languages.rng $RPM_BUILD_ROOT/%{_datadir}/langtable/languages.xml.gz
-xmllint --noout --relaxng $RPM_BUILD_ROOT/%{_datadir}/langtable/schemas/territories.rng $RPM_BUILD_ROOT/%{_datadir}/langtable/territories.xml.gz
-xmllint --noout --relaxng $RPM_BUILD_ROOT/%{_datadir}/langtable/schemas/timezoneidparts.rng $RPM_BUILD_ROOT/%{_datadir}/langtable/timezoneidparts.xml.gz
-xmllint --noout --relaxng $RPM_BUILD_ROOT/%{_datadir}/langtable/schemas/timezones.rng $RPM_BUILD_ROOT/%{_datadir}/langtable/timezones.xml.gz
+(cd $RPM_BUILD_DIR/%{name}-%{version}/langtable; %{__python3} langtable.py)
+(cd $RPM_BUILD_DIR/%{name}-%{version}; %{__python3} test_cases.py)
+xmllint --noout --relaxng \
+        $RPM_BUILD_DIR/%{name}-%{version}/langtable/schemas/keyboards.rng \
+        $RPM_BUILD_DIR/%{name}-%{version}/langtable/data/keyboards.xml.gz
+xmllint --noout --relaxng \
+        $RPM_BUILD_DIR/%{name}-%{version}/langtable/schemas/languages.rng \
+        $RPM_BUILD_DIR/%{name}-%{version}/langtable/data/languages.xml.gz
+xmllint --noout --relaxng \
+        $RPM_BUILD_DIR/%{name}-%{version}/langtable/schemas/territories.rng \
+        $RPM_BUILD_DIR/%{name}-%{version}/langtable/data/territories.xml.gz
+xmllint --noout --relaxng \
+        $RPM_BUILD_DIR/%{name}-%{version}/langtable/schemas/timezoneidparts.rng \
+        $RPM_BUILD_DIR/%{name}-%{version}/langtable/data/timezoneidparts.xml.gz
+xmllint --noout --relaxng \
+        $RPM_BUILD_DIR/%{name}-%{version}/langtable/schemas/timezones.rng \
+        $RPM_BUILD_DIR/%{name}-%{version}/langtable/data/timezones.xml.gz
 
 %files
 %license COPYING unicode-license.txt
-%doc README ChangeLog test_cases.py
-%dir %{_datadir}/langtable/
-%{_datadir}/langtable/schemas
+%doc README ChangeLog test_cases.py langtable/schemas/*.rng
 
-%files -n python2-langtable
-%{python_sitelib}/*
-
-%if 0%{?with_python3}
-%files python3
-%{python3_sitelib}/langtable.py
-%{python3_sitelib}/langtable-*.egg-info
-%{python3_sitelib}/__pycache__/*
-%endif # with_python3
-
-%files data
-%dir %{_datadir}/langtable/
-%{_datadir}/langtable/*.xml.gz
+%files -n python3-langtable
+%dir %{python3_sitelib}/langtable
+%{python3_sitelib}/langtable/*
+%dir %{python3_sitelib}/langtable-*.egg-info
+%{python3_sitelib}/langtable-*.egg-info/*
 
 %changelog
+* Fri May 31 2019 Mike FABIAN <mfabian@redhat.com> - 0.0.44-1
+- Use setuptools instead of distutils
+- Add a version() function and an info() function.
+- Restructure langtable project a bit to be able to upload to PyPi
+- Increase the rank of zh_SG.UTF-8 back to 10 again for languageId="zh"
+- Remove old provides and obsoletes
+
+* Fri May 10 2019 Mike FABIAN <mfabian@redhat.com> - 0.0.43-1
+- Get translation changes from CLDR
+- Add some new translations from CLDR
+- Add dsb_DE.UTF-8 sah_RU.UTF-8 locales
+- Fix ranks for "en" and "zh" in "SG", English should be the default for "SG"
+- Reduce the rank of cmn_TW.UTF-8 and zh_SG.UTF-8 to 0 for languageId="zh"
+  (Resolves: https://github.com/mike-fabian/langtable/issues/8)
+
+* Mon Apr 08 2019 Mike FABIAN <mfabian@redhat.com> - 0.0.42-1
+- Add special support for languageId ca_ES_VALENCIA (Resolves: rhbz#1698984)
+
+* Fri Mar 08 2019 Mike FABIAN <mfabian@redhat.com> - 0.0.41-3
+- Remove python2-langtable subpackage (Resolves: rhbz#1686395)
+
+* Fri Feb 01 2019 Fedora Release Engineering <releng@fedoraproject.org> - 0.0.41-2
+- Rebuilt for https://fedoraproject.org/wiki/Fedora_30_Mass_Rebuild
+
+* Tue Jan 29 2019 Mike FABIAN <mfabian@redhat.com> - 0.0.41-1
+- The territory can be 2 upper case letters *or* 3 digits
+- Get translation changes from CLDR
+- Add many languages and territories and also add new translations from CLDR
+
+* Mon Jan 07 2019 Mike FABIAN <mfabian@redhat.com> - 0.0.40-1
+- Add Esperanto locale and test case
+  (Thanks to Carmen Bianca Bakker <carmen@carmenbianca.eu>).
+- Add sel
+
+* Thu Nov 08 2018 Mike FABIAN <mfabian@redhat.com> - 0.0.39-2
+- Remove unnecessary LC_CTYPE=en_US.UTF-8 in check section.
+
+* Mon Oct 15 2018 Mike FABIAN <mfabian@redhat.com> - 0.0.39-1
+- Add the new keyboard layout "au" for Australia (same as "us")
+- Add locales missing in languages.xml, territiories.xml or in both.
+- Add ibus/libzhuyin and make it the default for TW.
+- Add cmn_TW.UTF-8 to the Chinese locales
+- Add several missing  languages (Resolves: rhbz#1631214):
+  ab av bin bm bua ch co cu ee fat gn ho hz ie ii io kaa ki kj kr kum
+  kwm lah lez mh mo na ng nqo nv ota rm rn sco sg sh sma smn sms sn su
+  syr tw ty tyv vo vot wen yap za
+
+* Tue Jul 17 2018 Miro Hrončok <mhroncok@redhat.com> - 0.0.38-8
+- Update Python macros to new packaging standards
+  (See https://fedoraproject.org/wiki/Changes/Move_usr_bin_python_into_separate_package)
+
+* Fri Jul 13 2018 Fedora Release Engineering <releng@fedoraproject.org> - 0.0.38-7
+- Rebuilt for https://fedoraproject.org/wiki/Fedora_29_Mass_Rebuild
+
+* Tue Jun 19 2018 Miro Hrončok <mhroncok@redhat.com> - 0.0.38-6
+- Rebuilt for Python 3.7
+
+* Tue Apr 10 2018 Pete Walter <pwalter@fedoraproject.org> - 0.0.38-5
+- Conditionally add back Python 2 subpackage on Fedora
+- Rename Python 3 subpackage to python3-langtable to follow guidelines
+- Resolves: rhbz#1559099
+
+* Wed Apr 04 2018 Mike FABIAN <mfabian@redhat.com> - 0.0.38-4
+- Drop Python 2 subpackage
+- Resolves: rhbz#1559099
+
+* Wed Feb 07 2018 Fedora Release Engineering <releng@fedoraproject.org> - 0.0.38-3
+- Rebuilt for https://fedoraproject.org/wiki/Fedora_28_Mass_Rebuild
+
 * Mon Nov 06 2017 Mike FABIAN <mfabian@redhat.com> - 0.0.38-2
 - Make "tw" the default keyboard layout for zh_TW and cmn_TW
 - Resolves: rhbz#1387825
