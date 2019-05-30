@@ -1,3 +1,11 @@
+2019-05-31  Mike FABIAN  <mfabian@redhat.com>
+
+	* Version 0.0.44 released
+	* Use setuptools instead of distutils
+	* Add a version() function and an info() function.
+	* Restructure langtable project a bit to be able to upload to PyPi
+	* Increase the rank of zh_SG.UTF-8 back to 10 again for languageId="zh"
+
 2019-05-09  Mike FABIAN  <mfabian@redhat.com>
 
 	* Version 0.0.43 released
