@@ -37,9 +37,17 @@ install: dist
 twine-upload-test: dist
 	python3 -m twine upload --repository-url https://test.pypi.org/legacy/ dist/*
 
+.PHONY: twine-upload
+twine-upload: dist
+	python3 -m twine upload dist/*
+
 .PHONY: pip-install-test
 pip-install-test:
 	(cd /tmp; python3 -m pip install --user --ignore-installed --index-url https://test.pypi.org/simple/ --no-deps langtable)
+
+.PHONY: pip-install
+pip-install:
+	(cd /tmp; python3 -m pip install --user --ignore-installed --no-deps langtable)
 
 .PHONY: clean
 clean:
