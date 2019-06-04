@@ -1,5 +1,7 @@
 # vim:fileencoding=utf-8:sw=4:et -*- coding: utf-8 -*-
 
+import sys
+
 def dummy():
     u'''
     >>> import langtable
@@ -1396,4 +1398,8 @@ def dummy():
 
 if __name__ == "__main__":
     import doctest
-    doctest.testmod()
+    (FAILED, ATTEMPTED) = doctest.testmod()
+    if FAILED:
+        # Return number of failed tests:
+        sys.exit(FAILED)
+    sys.exit(0)
