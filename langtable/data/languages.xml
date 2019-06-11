@@ -457,7 +457,7 @@
       <territory><territoryId>ZA</territoryId><rank>1000</rank></territory>
     </territories>
     <keyboards>
-      <keyboard><keyboardId>us</keyboardId><rank>1000</rank></keyboard>
+      <keyboard><keyboardId>us(intl)</keyboardId><rank>1000</rank></keyboard>
     </keyboards>
     <inputmethods>
     </inputmethods>

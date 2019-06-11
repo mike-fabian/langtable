@@ -2788,6 +2788,19 @@
     </territories>
   </keyboard>
   <keyboard>
+    <keyboardId>us(intl)</keyboardId>
+    <description>English (US, intl., with dead keys)</description>
+    <ascii>True</ascii>
+    <comment>Used for af</comment>
+    <languages>
+      <language><languageId>af</languageId><rank>90</rank></language>
+      <language><languageId>en</languageId><rank>10</rank></language>
+    </languages>
+    <territories>
+      <territory><territoryId>ZA</territoryId><rank>1000</rank></territory>
+    </territories>
+  </keyboard>
+  <keyboard>
     <keyboardId>us(rus)</keyboardId>
     <description>Russian (US, phonetic)</description>
     <ascii>False</ascii>
