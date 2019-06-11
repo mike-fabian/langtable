@@ -1,3 +1,13 @@
+2019-06-11  Mike FABIAN  <mfabian@redhat.com>
+
+	* Version 0.0.45 released
+	* “us” is a possible layout for “ZA”, it is used by default for “zu” for example
+	* Add “za” keyboard layout for nso, tn, ve
+	(Resolves: https://github.com/mike-fabian/langtable/issues/10)
+	* Use “us(intl)” keyboard instead of “us” as the default for af and ZA
+	(Resolves: https://github.com/mike-fabian/langtable/issues/9)
+	* Return number of failed tests in test_cases.py doctests.
+
 2019-05-31  Mike FABIAN  <mfabian@redhat.com>
 
 	* Version 0.0.44 released
