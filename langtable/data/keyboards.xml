@@ -2844,4 +2844,18 @@
       <territory><territoryId>VN</territoryId><rank>1000</rank></territory>
     </territories>
   </keyboard>
+  <keyboard>
+    <keyboardId>za</keyboardId>
+    <description>English (South Africa)</description>
+    <ascii>True</ascii>
+    <comment>Used for nso, tn, ve</comment>
+    <languages>
+      <language><languageId>nso</languageId><rank>700</rank></language>
+      <language><languageId>tn</languageId><rank>200</rank></language>
+      <language><languageId>ve</languageId><rank>100</rank></language>
+    </languages>
+    <territories>
+      <territory><territoryId>ZA</territoryId><rank>1000</rank></territory>
+    </territories>
+  </keyboard>
 </keyboards>
