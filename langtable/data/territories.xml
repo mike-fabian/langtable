@@ -52479,7 +52479,8 @@
       <language><languageId>nr</languageId><rank>21</rank></language>
     </languages>
     <keyboards>
-      <keyboard><keyboardId>us(intl)</keyboardId><rank>900</rank></keyboard>
+      <keyboard><keyboardId>us(intl)</keyboardId><rank>700</rank></keyboard>
+      <keyboard><keyboardId>us</keyboardId><rank>200</rank></keyboard>
       <keyboard><keyboardId>za</keyboardId><rank>100</rank></keyboard>
     </keyboards>
     <inputmethods>

@@ -577,7 +577,7 @@ def dummy():
         ZA: ['zu_ZA.UTF-8', 'xh_ZA.UTF-8', 'af_ZA.UTF-8', 'en_ZA.UTF-8', 'nso_ZA.UTF-8', 'tn_ZA.UTF-8', 'st_ZA.UTF-8', 'ts_ZA.UTF-8', 'ss_ZA.UTF-8', 've_ZA.UTF-8', 'nr_ZA.UTF-8']
          +: ['af_ZA.UTF-8']
         af: ['us(intl)']
-        ZA: ['us(intl)', 'za']
+        ZA: ['us(intl)', 'us', 'za']
          +: ['us(intl)']
 
     >>> _test_language_territory(show_weights=False, languageId="nso", territoryId="ZA") # doctest: +NORMALIZE_WHITESPACE
@@ -585,7 +585,7 @@ def dummy():
         ZA: ['zu_ZA.UTF-8', 'xh_ZA.UTF-8', 'af_ZA.UTF-8', 'en_ZA.UTF-8', 'nso_ZA.UTF-8', 'tn_ZA.UTF-8', 'st_ZA.UTF-8', 'ts_ZA.UTF-8', 'ss_ZA.UTF-8', 've_ZA.UTF-8', 'nr_ZA.UTF-8']
          +: ['nso_ZA.UTF-8']
        nso: ['za']
-        ZA: ['us(intl)', 'za']
+        ZA: ['us(intl)', 'us', 'za']
          +: ['za']
 
     >>> _test_language_territory(show_weights=False, languageId="tn", territoryId="ZA") # doctest: +NORMALIZE_WHITESPACE
@@ -593,7 +593,7 @@ def dummy():
         ZA: ['zu_ZA.UTF-8', 'xh_ZA.UTF-8', 'af_ZA.UTF-8', 'en_ZA.UTF-8', 'nso_ZA.UTF-8', 'tn_ZA.UTF-8', 'st_ZA.UTF-8', 'ts_ZA.UTF-8', 'ss_ZA.UTF-8', 've_ZA.UTF-8', 'nr_ZA.UTF-8']
          +: ['tn_ZA.UTF-8']
         tn: ['za']
-        ZA: ['us(intl)', 'za']
+        ZA: ['us(intl)', 'us', 'za']
          +: ['za']
 
     >>> _test_language_territory(show_weights=False, languageId="ve", territoryId="ZA") # doctest: +NORMALIZE_WHITESPACE
@@ -601,7 +601,7 @@ def dummy():
         ZA: ['zu_ZA.UTF-8', 'xh_ZA.UTF-8', 'af_ZA.UTF-8', 'en_ZA.UTF-8', 'nso_ZA.UTF-8', 'tn_ZA.UTF-8', 'st_ZA.UTF-8', 'ts_ZA.UTF-8', 'ss_ZA.UTF-8', 've_ZA.UTF-8', 'nr_ZA.UTF-8']
          +: ['ve_ZA.UTF-8']
         ve: ['za']
-        ZA: ['us(intl)', 'za']
+        ZA: ['us(intl)', 'us', 'za']
          +: ['za']
 
     >>> _test_language_territory(show_weights=False, languageId="be", territoryId="BY") # doctest: +NORMALIZE_WHITESPACE
@@ -681,8 +681,8 @@ def dummy():
         ZA: ['zu_ZA.UTF-8', 'xh_ZA.UTF-8', 'af_ZA.UTF-8', 'en_ZA.UTF-8', 'nso_ZA.UTF-8', 'tn_ZA.UTF-8', 'st_ZA.UTF-8', 'ts_ZA.UTF-8', 'ss_ZA.UTF-8', 've_ZA.UTF-8', 'nr_ZA.UTF-8']
          +: ['de_DE.UTF-8', 'de_AT.UTF-8', 'de_CH.UTF-8', 'de_IT.UTF-8', 'de_LI.UTF-8', 'de_BE.UTF-8', 'de_LU.UTF-8', 'zu_ZA.UTF-8', 'xh_ZA.UTF-8', 'af_ZA.UTF-8', 'en_ZA.UTF-8', 'nso_ZA.UTF-8', 'tn_ZA.UTF-8', 'st_ZA.UTF-8', 'ts_ZA.UTF-8', 'ss_ZA.UTF-8', 've_ZA.UTF-8', 'nr_ZA.UTF-8']
         de: ['de(nodeadkeys)', 'de(deadacute)', 'at(nodeadkeys)', 'ch', 'be(oss)']
-        ZA: ['us(intl)', 'za']
-         +: ['us(intl)', 'de(nodeadkeys)', 'za', 'de(deadacute)', 'at(nodeadkeys)', 'ch', 'be(oss)']
+        ZA: ['us(intl)', 'us', 'za']
+         +: ['us(intl)', 'de(nodeadkeys)', 'us', 'za', 'de(deadacute)', 'at(nodeadkeys)', 'ch', 'be(oss)']
 
     >>> _test_language_territory(show_weights=False, languageId="ar", territoryId="EG") # doctest: +NORMALIZE_WHITESPACE
         ar: ['ar_EG.UTF-8', 'ar_SD.UTF-8', 'ar_DZ.UTF-8', 'ar_MA.UTF-8', 'ar_IQ.UTF-8', 'ar_SA.UTF-8', 'ar_YE.UTF-8', 'ar_SY.UTF-8', 'ar_TN.UTF-8', 'ar_LY.UTF-8', 'ar_JO.UTF-8', 'ar_AE.UTF-8', 'ar_LB.UTF-8', 'ar_KW.UTF-8', 'ar_OM.UTF-8', 'ar_QA.UTF-8', 'ar_BH.UTF-8', 'ar_IN.UTF-8', 'ar_SS.UTF-8']
