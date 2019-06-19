@@ -33,10 +33,12 @@ install: dist
 	DISTUTILS_DEBUG=$(DEBUG) python3 ./setup.py install --prefix=$(DESTDIR)
 #	DISTUTILS_DEBUG=$(DEBUG) python3 ./setup.py install_data --install-dir=$(DATADIR)
 
+# check it here: https://test.pypi.org/manage/project/langtable/releases/
 .PHONY: twine-upload-test
 twine-upload-test: dist
 	python3 -m twine upload --repository-url https://test.pypi.org/legacy/ dist/*
 
+# check it here: https://pypi.org/manage/project/langtable/releases/
 .PHONY: twine-upload
 twine-upload: dist
 	python3 -m twine upload dist/*
