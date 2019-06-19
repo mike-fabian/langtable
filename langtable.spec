@@ -1,5 +1,5 @@
 Name:           langtable
-Version:        0.0.44
+Version:        0.0.45
 Release:        1%{?dist}
 Summary:        Guessing reasonable defaults for locale, keyboard layout, territory, and language.
 # the translations in languages.xml and territories.xml are (mostly)
@@ -24,6 +24,8 @@ already known.
 Summary:        Python module to query the langtable-data
 License:        GPLv3+
 Requires:       %{name} = %{version}-%{release}
+Obsoletes:      %{name}-data < %{version}-%{release}
+%{?python_provide:%python_provide python3-%{name}}
 
 %description -n python3-langtable
 This package contains a Python module to query the data
@@ -71,6 +73,19 @@ xmllint --noout --relaxng \
 %{python3_sitelib}/langtable-*.egg-info/*
 
 %changelog
+* Fri May 31 2019 Mike FABIAN <mfabian@redhat.com> - 0.0.45-1
+- Add python_provide macro to make the switch from Python 2 to
+  Python 3 automatic (Resolves: rhbz#1717341)
+- Use “us(intl)” keyboard instead of “us” as the default for af and ZA
+  (Resolves: https://github.com/mike-fabian/langtable/issues/9)
+- Add za keyboard layout for nso, tn, ve
+  (Resolves: https://github.com/mike-fabian/langtable/issues/10)
+- “us” is a possible layout for “ZA”, it is used by default for “zu” for example
+- Return number of failed tests in test_cases.py doctests.
+
+* Fri May 31 2019 Mike FABIAN <mfabian@redhat.com> - 0.0.44-2
+- Obsolete langtable-data
+
 * Fri May 31 2019 Mike FABIAN <mfabian@redhat.com> - 0.0.44-1
 - Use setuptools instead of distutils
 - Add a version() function and an info() function.
