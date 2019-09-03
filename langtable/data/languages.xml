@@ -38631,6 +38631,7 @@
       <name><languageId>rm</languageId><trName>sidamo</trName></name>
       <name><languageId>ro</languageId><trName>sidamo</trName></name>
       <name><languageId>ru</languageId><trName>сидама</trName></name>
+      <name><languageId>sid</languageId><trName>Sidaama</trName></name>
       <name><languageId>sk</languageId><trName>sidamo</trName></name>
       <name><languageId>sl</languageId><trName>sidamščina</trName></name>
       <name><languageId>sr</languageId><trName>сидамо</trName></name>
@@ -42790,6 +42791,7 @@
     <iso639-2-b>None</iso639-2-b>
     <names>
       <name><languageId>en</languageId><trName>Chitwania Tharu</trName></name>
+      <name><languageId>the</languageId><trName>थारु</trName></name>
     </names>
     <scripts>
       <script><scriptId>Deva</scriptId><rank>1000</rank></script>
