@@ -1072,6 +1072,7 @@
     <names>
       <name><languageId>af</languageId><trName>Aragonees</trName></name>
       <name><languageId>am</languageId><trName>አራጎንስ</trName></name>
+      <name><languageId>an</languageId><trName>aragonés</trName></name>
       <name><languageId>ar</languageId><trName>الأراغونية</trName></name>
       <name><languageId>as</languageId><trName>আৰ্গোনিজ</trName></name>
       <name><languageId>ast</languageId><trName>aragonés</trName></name>
@@ -2368,6 +2369,7 @@
     <iso639-2-t>ayc</iso639-2-t>
     <iso639-2-b>ayc</iso639-2-b>
     <names>
+      <name><languageId>ayc</languageId><trName>Aymar aru</trName></name>
       <name><languageId>en</languageId><trName>Southern Aymara</trName></name>
     </names>
     <scripts>
@@ -3271,6 +3273,7 @@
       <name><languageId>af</languageId><trName>Berbers</trName></name>
       <name><languageId>ar</languageId><trName>البربرية</trName></name>
       <name><languageId>az</languageId><trName>berber dili</trName></name>
+      <name><languageId>ber</languageId><trName>Tamaziɣt</trName></name>
       <name><languageId>bg</languageId><trName>берберски</trName></name>
       <name><languageId>bn</languageId><trName>বেরবের</trName></name>
       <name><languageId>br</languageId><trName>berbereg</trName></name>
@@ -3765,6 +3768,7 @@
       <name><languageId>az</languageId><trName>bxoçpuri</trName></name>
       <name><languageId>be</languageId><trName>бхаджпуры</trName></name>
       <name><languageId>bg</languageId><trName>боджпури</trName></name>
+      <name><languageId>bho</languageId><trName>भोजपुरी</trName></name>
       <name><languageId>bn</languageId><trName>ভোজপুরি</trName></name>
       <name><languageId>br</languageId><trName>bhojpuri</trName></name>
       <name><languageId>brx</languageId><trName>भोजपुरी</trName></name>
@@ -6879,6 +6883,7 @@
       <name><languageId>bs</languageId><trName>krimski turski</trName></name>
       <name><languageId>ca</languageId><trName>tàtar de Crimea</trName></name>
       <name><languageId>ccp</languageId><trName>𑄇𑄳𑄢𑄨𑄟𑄨𑄠𑄚𑄴 𑄖𑄪𑄢𑄴𑄇𑄨</trName></name>
+      <name><languageId>crh</languageId><trName>qırımtatar tili</trName></name>
       <name><languageId>cs</languageId><trName>turečtina (krymská)</trName></name>
       <name><languageId>cy</languageId><trName>Tyrceg y Crimea</trName></name>
       <name><languageId>da</languageId><trName>krim-tyrkisk</trName></name>
@@ -7216,6 +7221,7 @@
       <name><languageId>ca</languageId><trName>caixubi</trName></name>
       <name><languageId>ccp</languageId><trName>𑄇𑄥𑄪𑄝𑄨𑄠𑄚𑄴</trName></name>
       <name><languageId>cs</languageId><trName>kašubština</trName></name>
+      <name><languageId>csb</languageId><trName>kaszëbsczi</trName></name>
       <name><languageId>da</languageId><trName>kasjubisk</trName></name>
       <name><languageId>de</languageId><trName>Kaschubisch</trName></name>
       <name><languageId>el</languageId><trName>Κασούμπιαν</trName></name>
@@ -7478,6 +7484,7 @@
       <name><languageId>chr</languageId><trName>ᏧᏩᏏ</trName></name>
       <name><languageId>ckb</languageId><trName>چووڤاشی</trName></name>
       <name><languageId>cs</languageId><trName>čuvaština</trName></name>
+      <name><languageId>cv</languageId><trName>Чӑвашла</trName></name>
       <name><languageId>cy</languageId><trName>Tshwfasheg</trName></name>
       <name><languageId>da</languageId><trName>chuvash</trName></name>
       <name><languageId>de</languageId><trName>Tschuwaschisch</trName></name>
@@ -17447,6 +17454,7 @@
       <name><languageId>hsb</languageId><trName>inupiak</trName></name>
       <name><languageId>hu</languageId><trName>inupiak</trName></name>
       <name><languageId>id</languageId><trName>Inupiak</trName></name>
+      <name><languageId>ik</languageId><trName>Iñupiatun</trName></name>
       <name><languageId>is</languageId><trName>ínúpíak</trName></name>
       <name><languageId>it</languageId><trName>inupiak</trName></name>
       <name><languageId>ja</languageId><trName>イヌピアック語</trName></name>
@@ -18253,6 +18261,7 @@
       <name><languageId>id</languageId><trName>Inuktitut</trName></name>
       <name><languageId>is</languageId><trName>inúktitút</trName></name>
       <name><languageId>it</languageId><trName>inuktitut</trName></name>
+      <name><languageId>iu</languageId><trName>ᐃᓄᒃᑎᑐᑦ</trName></name>
       <name><languageId>ja</languageId><trName>イヌクティトット語</trName></name>
       <name><languageId>ka</languageId><trName>ინუკტიტუტი</trName></name>
       <name><languageId>kab</languageId><trName>Tinuktitut</trName></name>
