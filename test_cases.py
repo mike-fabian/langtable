@@ -1208,6 +1208,646 @@ def dummy():
     >>> print(language_name(languageId="ca_ES.UTF-8@valencia")) # doctest: +NORMALIZE_WHITESPACE
     valencià (Espanya)
 
+    ######################################################################
+    # Test the fallback flag:
+    >>> print(language_name(languageId="de", languageIdQuery="quz")) # doctest: +NORMALIZE_WHITESPACE
+    German
+
+    >>> print(language_name(languageId="de", languageIdQuery="quz", fallback=False)) # doctest: +NORMALIZE_WHITESPACE
+
+    ######################################################################
+    >>> print(language_name(languageId="sr_RS.UTF-8@latin")) # doctest: +NORMALIZE_WHITESPACE
+    Srpski (Latinica) (Srbija)
+
+    >>> print(language_name(languageId="sr_RS.utf8@latin")) # doctest: +NORMALIZE_WHITESPACE
+    Srpski (Latinica) (Srbija)
+
+    >>> print(language_name(languageId="aa_DJ.utf8")) # doctest: +NORMALIZE_WHITESPACE
+    Qafar (Yabuuti)
+    >>> print(language_name(languageId="aa_ER.utf8")) # doctest: +NORMALIZE_WHITESPACE
+    Qafar (Eretria)
+    >>> print(language_name(languageId="aa_ER.utf8@saaho")) # doctest: +NORMALIZE_WHITESPACE
+    Qafar (Eretria)
+    >>> print(language_name(languageId="aa_ET.utf8")) # doctest: +NORMALIZE_WHITESPACE
+    Qafar (Otobbia)
+    >>> print(language_name(languageId="af_ZA.utf8")) # doctest: +NORMALIZE_WHITESPACE
+    Afrikaans (Suid-Afrika)
+    >>> print(language_name(languageId="agr_PE.utf8")) # doctest: +NORMALIZE_WHITESPACE
+    Awajún (Peru)
+    >>> print(language_name(languageId="ak_GH.utf8")) # doctest: +NORMALIZE_WHITESPACE
+    Akan (Gaana)
+    >>> print(language_name(languageId="am_ET.utf8")) # doctest: +NORMALIZE_WHITESPACE
+    አማርኛ (ኢትዮጵያ)
+    >>> print(language_name(languageId="an_ES.utf8")) # doctest: +NORMALIZE_WHITESPACE
+    aragonés (Espanya)
+    >>> print(language_name(languageId="anp_IN.utf8")) # doctest: +NORMALIZE_WHITESPACE
+    अंगिका (भारत)
+    >>> print(language_name(languageId="ar_AE.utf8")) # doctest: +NORMALIZE_WHITESPACE
+    العربية (الإمارات العربية المتحدة)
+    >>> print(language_name(languageId="ar_BH.utf8")) # doctest: +NORMALIZE_WHITESPACE
+    العربية (البحرين)
+    >>> print(language_name(languageId="ar_DZ.utf8")) # doctest: +NORMALIZE_WHITESPACE
+    العربية (الجزائر)
+    >>> print(language_name(languageId="ar_EG.utf8")) # doctest: +NORMALIZE_WHITESPACE
+    العربية (مصر)
+    >>> print(language_name(languageId="ar_IN.utf8")) # doctest: +NORMALIZE_WHITESPACE
+    العربية (الهند)
+    >>> print(language_name(languageId="ar_IQ.utf8")) # doctest: +NORMALIZE_WHITESPACE
+    العربية (العراق)
+    >>> print(language_name(languageId="ar_JO.utf8")) # doctest: +NORMALIZE_WHITESPACE
+    العربية (الأردن)
+    >>> print(language_name(languageId="ar_KW.utf8")) # doctest: +NORMALIZE_WHITESPACE
+    العربية (الكويت)
+    >>> print(language_name(languageId="ar_LB.utf8")) # doctest: +NORMALIZE_WHITESPACE
+    العربية (لبنان)
+    >>> print(language_name(languageId="ar_LY.utf8")) # doctest: +NORMALIZE_WHITESPACE
+    العربية (ليبيا)
+    >>> print(language_name(languageId="ar_MA.utf8")) # doctest: +NORMALIZE_WHITESPACE
+    العربية (المغرب)
+    >>> print(language_name(languageId="ar_OM.utf8")) # doctest: +NORMALIZE_WHITESPACE
+    العربية (عُمان)
+    >>> print(language_name(languageId="ar_QA.utf8")) # doctest: +NORMALIZE_WHITESPACE
+    العربية (قطر)
+    >>> print(language_name(languageId="ar_SA.utf8")) # doctest: +NORMALIZE_WHITESPACE
+    العربية (المملكة العربية السعودية)
+    >>> print(language_name(languageId="ar_SD.utf8")) # doctest: +NORMALIZE_WHITESPACE
+    العربية (السودان)
+    >>> print(language_name(languageId="ar_SS.utf8")) # doctest: +NORMALIZE_WHITESPACE
+    العربية (جنوب السودان)
+    >>> print(language_name(languageId="ar_SY.utf8")) # doctest: +NORMALIZE_WHITESPACE
+    العربية (سوريا)
+    >>> print(language_name(languageId="ar_TN.utf8")) # doctest: +NORMALIZE_WHITESPACE
+    العربية (تونس)
+    >>> print(language_name(languageId="ar_YE.utf8")) # doctest: +NORMALIZE_WHITESPACE
+    العربية (اليمن)
+    >>> print(language_name(languageId="as_IN.utf8")) # doctest: +NORMALIZE_WHITESPACE
+    অসমীয়া (ভাৰত)
+    >>> print(language_name(languageId="ast_ES.utf8")) # doctest: +NORMALIZE_WHITESPACE
+    asturianu (España)
+    >>> print(language_name(languageId="ayc_PE.utf8")) # doctest: +NORMALIZE_WHITESPACE
+    Aymar aru (Peru)
+    >>> print(language_name(languageId="az_AZ.utf8")) # doctest: +NORMALIZE_WHITESPACE
+    azərbaycan (Azərbaycan)
+    >>> print(language_name(languageId="az_IR.utf8")) # doctest: +NORMALIZE_WHITESPACE
+    azərbaycan (İran)
+    >>> print(language_name(languageId="be_BY.utf8")) # doctest: +NORMALIZE_WHITESPACE
+    беларуская (Беларусь)
+    >>> print(language_name(languageId="be_BY.utf8@latin")) # doctest: +NORMALIZE_WHITESPACE
+    biełaruskaja (Bielaruś)
+    >>> print(language_name(languageId="bem_ZM.utf8")) # doctest: +NORMALIZE_WHITESPACE
+    Ichibemba (Zambia)
+    >>> print(language_name(languageId="ber_DZ.utf8")) # doctest: +NORMALIZE_WHITESPACE
+    Tamaziɣt (Algeria)
+    >>> print(language_name(languageId="ber_MA.utf8")) # doctest: +NORMALIZE_WHITESPACE
+    Tamaziɣt (Morocco)
+    >>> print(language_name(languageId="bg_BG.utf8")) # doctest: +NORMALIZE_WHITESPACE
+    български (България)
+    >>> print(language_name(languageId="bhb_IN.utf8")) # doctest: +NORMALIZE_WHITESPACE
+    भीली (India)
+    >>> print(language_name(languageId="bho_IN.utf8")) # doctest: +NORMALIZE_WHITESPACE
+    भोजपुरी (India)
+    >>> print(language_name(languageId="bho_NP.utf8")) # doctest: +NORMALIZE_WHITESPACE
+    भोजपुरी (Nepal)
+    >>> print(language_name(languageId="bi_VU.utf8")) # doctest: +NORMALIZE_WHITESPACE
+    Bislama (Vanuatu)
+    >>> print(language_name(languageId="bn_BD.utf8")) # doctest: +NORMALIZE_WHITESPACE
+    বাংলা (বাংলাদেশ)
+    >>> print(language_name(languageId="bn_IN.utf8")) # doctest: +NORMALIZE_WHITESPACE
+    বাংলা (ভারত)
+    >>> print(language_name(languageId="bo_CN.utf8")) # doctest: +NORMALIZE_WHITESPACE
+    བོད་སྐད་ (རྒྱ་ནག)
+    >>> print(language_name(languageId="bo_IN.utf8")) # doctest: +NORMALIZE_WHITESPACE
+    བོད་སྐད་ (རྒྱ་གར་)
+    >>> print(language_name(languageId="br_FR.utf8")) # doctest: +NORMALIZE_WHITESPACE
+    brezhoneg (Frañs)
+    >>> print(language_name(languageId="brx_IN.utf8")) # doctest: +NORMALIZE_WHITESPACE
+    बड़ो (भारत)
+    >>> print(language_name(languageId="bs_BA.utf8")) # doctest: +NORMALIZE_WHITESPACE
+    bosanski (Bosna i Hercegovina)
+    >>> print(language_name(languageId="byn_ER.utf8")) # doctest: +NORMALIZE_WHITESPACE
+    ብሊን (ኤርትራ)
+    >>> print(language_name(languageId="ca_AD.utf8")) # doctest: +NORMALIZE_WHITESPACE
+    català (Andorra)
+    >>> print(language_name(languageId="ca_ES.utf8")) # doctest: +NORMALIZE_WHITESPACE
+    català (Espanya)
+    >>> print(language_name(languageId="ca_ES.utf8@valencia")) # doctest: +NORMALIZE_WHITESPACE
+    valencià (Espanya)
+    >>> print(language_name(languageId="ca_FR.utf8")) # doctest: +NORMALIZE_WHITESPACE
+    català (França)
+    >>> print(language_name(languageId="ca_IT.utf8")) # doctest: +NORMALIZE_WHITESPACE
+    català (Itàlia)
+    >>> print(language_name(languageId="ce_RU.utf8")) # doctest: +NORMALIZE_WHITESPACE
+    нохчийн (Росси)
+    >>> print(language_name(languageId="chr_US.utf8")) # doctest: +NORMALIZE_WHITESPACE
+    ᏣᎳᎩ (ᏌᏊ ᎢᏳᎾᎵᏍᏔᏅ ᏍᎦᏚᎩ)
+    >>> print(language_name(languageId="cmn_TW.utf8")) # doctest: +NORMALIZE_WHITESPACE
+    官话 (Taiwan)
+    >>> print(language_name(languageId="crh_UA.utf8")) # doctest: +NORMALIZE_WHITESPACE
+    qırımtatar tili (Ukraine)
+    >>> print(language_name(languageId="cs_CZ.utf8")) # doctest: +NORMALIZE_WHITESPACE
+    čeština (Česko)
+    >>> print(language_name(languageId="csb_PL.utf8")) # doctest: +NORMALIZE_WHITESPACE
+    kaszëbsczi (Poland)
+    >>> print(language_name(languageId="cv_RU.utf8")) # doctest: +NORMALIZE_WHITESPACE
+    Чӑвашла (Russia)
+    >>> print(language_name(languageId="cy_GB.utf8")) # doctest: +NORMALIZE_WHITESPACE
+    Cymraeg (Y Deyrnas Unedig)
+    >>> print(language_name(languageId="da_DK.utf8")) # doctest: +NORMALIZE_WHITESPACE
+    dansk (Danmark)
+    >>> print(language_name(languageId="de_AT.utf8")) # doctest: +NORMALIZE_WHITESPACE
+    Deutsch (Österreich)
+    >>> print(language_name(languageId="de_BE.utf8")) # doctest: +NORMALIZE_WHITESPACE
+    Deutsch (Belgien)
+    >>> print(language_name(languageId="de_CH.utf8")) # doctest: +NORMALIZE_WHITESPACE
+    Deutsch (Schweiz)
+    >>> print(language_name(languageId="de_DE.utf8")) # doctest: +NORMALIZE_WHITESPACE
+    Deutsch (Deutschland)
+    >>> print(language_name(languageId="de_IT.utf8")) # doctest: +NORMALIZE_WHITESPACE
+    Deutsch (Italien)
+    >>> print(language_name(languageId="de_LI.utf8")) # doctest: +NORMALIZE_WHITESPACE
+    Deutsch (Liechtenstein)
+    >>> print(language_name(languageId="de_LU.utf8")) # doctest: +NORMALIZE_WHITESPACE
+    Deutsch (Luxemburg)
+    >>> print(language_name(languageId="doi_IN.utf8")) # doctest: +NORMALIZE_WHITESPACE
+    डोगरी (India)
+    >>> print(language_name(languageId="dsb_DE.utf8")) # doctest: +NORMALIZE_WHITESPACE
+    dolnoserbšćina (Nimska)
+    >>> print(language_name(languageId="dv_MV.utf8")) # doctest: +NORMALIZE_WHITESPACE
+    ދިވެހި (Maldives)
+    >>> print(language_name(languageId="dz_BT.utf8")) # doctest: +NORMALIZE_WHITESPACE
+    རྫོང་ཁ (འབྲུག)
+    >>> print(language_name(languageId="el_CY.utf8")) # doctest: +NORMALIZE_WHITESPACE
+    Ελληνικά (Κύπρος)
+    >>> print(language_name(languageId="el_GR.utf8")) # doctest: +NORMALIZE_WHITESPACE
+    Ελληνικά (Ελλάδα)
+    >>> print(language_name(languageId="en_AG.utf8")) # doctest: +NORMALIZE_WHITESPACE
+    English (Antigua & Barbuda)
+    >>> print(language_name(languageId="en_AU.utf8")) # doctest: +NORMALIZE_WHITESPACE
+    English (Australia)
+    >>> print(language_name(languageId="en_BW.utf8")) # doctest: +NORMALIZE_WHITESPACE
+    English (Botswana)
+    >>> print(language_name(languageId="en_CA.utf8")) # doctest: +NORMALIZE_WHITESPACE
+    English (Canada)
+    >>> print(language_name(languageId="en_DK.utf8")) # doctest: +NORMALIZE_WHITESPACE
+    English (Denmark)
+    >>> print(language_name(languageId="en_GB.utf8")) # doctest: +NORMALIZE_WHITESPACE
+    English (United Kingdom)
+    >>> print(language_name(languageId="en_HK.utf8")) # doctest: +NORMALIZE_WHITESPACE
+    English (Hong Kong SAR China)
+    >>> print(language_name(languageId="en_IE.utf8")) # doctest: +NORMALIZE_WHITESPACE
+    English (Ireland)
+    >>> print(language_name(languageId="en_IL.utf8")) # doctest: +NORMALIZE_WHITESPACE
+    English (Israel)
+    >>> print(language_name(languageId="en_IN.utf8")) # doctest: +NORMALIZE_WHITESPACE
+    English (India)
+    >>> print(language_name(languageId="en_NG.utf8")) # doctest: +NORMALIZE_WHITESPACE
+    English (Nigeria)
+    >>> print(language_name(languageId="en_NZ.utf8")) # doctest: +NORMALIZE_WHITESPACE
+    English (New Zealand)
+    >>> print(language_name(languageId="en_PH.utf8")) # doctest: +NORMALIZE_WHITESPACE
+    English (Philippines)
+    >>> print(language_name(languageId="en_SC.utf8")) # doctest: +NORMALIZE_WHITESPACE
+    English (Seychelles)
+    >>> print(language_name(languageId="en_SG.utf8")) # doctest: +NORMALIZE_WHITESPACE
+    English (Singapore)
+    >>> print(language_name(languageId="en_US.utf8")) # doctest: +NORMALIZE_WHITESPACE
+    English (United States)
+    >>> print(language_name(languageId="en_ZA.utf8")) # doctest: +NORMALIZE_WHITESPACE
+    English (South Africa)
+    >>> print(language_name(languageId="en_ZM.utf8")) # doctest: +NORMALIZE_WHITESPACE
+    English (Zambia)
+    >>> print(language_name(languageId="en_ZW.utf8")) # doctest: +NORMALIZE_WHITESPACE
+    English (Zimbabwe)
+    >>> print(language_name(languageId="eo.utf8")) # doctest: +NORMALIZE_WHITESPACE
+    esperanto
+    >>> print(language_name(languageId="es_AR.utf8")) # doctest: +NORMALIZE_WHITESPACE
+    español (Argentina)
+    >>> print(language_name(languageId="es_BO.utf8")) # doctest: +NORMALIZE_WHITESPACE
+    español (Bolivia)
+    >>> print(language_name(languageId="es_CL.utf8")) # doctest: +NORMALIZE_WHITESPACE
+    español (Chile)
+    >>> print(language_name(languageId="es_CO.utf8")) # doctest: +NORMALIZE_WHITESPACE
+    español (Colombia)
+    >>> print(language_name(languageId="es_CR.utf8")) # doctest: +NORMALIZE_WHITESPACE
+    español (Costa Rica)
+    >>> print(language_name(languageId="es_CU.utf8")) # doctest: +NORMALIZE_WHITESPACE
+    español (Cuba)
+    >>> print(language_name(languageId="es_DO.utf8")) # doctest: +NORMALIZE_WHITESPACE
+    español (República Dominicana)
+    >>> print(language_name(languageId="es_EC.utf8")) # doctest: +NORMALIZE_WHITESPACE
+    español (Ecuador)
+    >>> print(language_name(languageId="es_ES.utf8")) # doctest: +NORMALIZE_WHITESPACE
+    español (España)
+    >>> print(language_name(languageId="es_GT.utf8")) # doctest: +NORMALIZE_WHITESPACE
+    español (Guatemala)
+    >>> print(language_name(languageId="es_HN.utf8")) # doctest: +NORMALIZE_WHITESPACE
+    español (Honduras)
+    >>> print(language_name(languageId="es_MX.utf8")) # doctest: +NORMALIZE_WHITESPACE
+    español (México)
+    >>> print(language_name(languageId="es_NI.utf8")) # doctest: +NORMALIZE_WHITESPACE
+    español (Nicaragua)
+    >>> print(language_name(languageId="es_PA.utf8")) # doctest: +NORMALIZE_WHITESPACE
+    español (Panamá)
+    >>> print(language_name(languageId="es_PE.utf8")) # doctest: +NORMALIZE_WHITESPACE
+    español (Perú)
+    >>> print(language_name(languageId="es_PR.utf8")) # doctest: +NORMALIZE_WHITESPACE
+    español (Puerto Rico)
+    >>> print(language_name(languageId="es_PY.utf8")) # doctest: +NORMALIZE_WHITESPACE
+    español (Paraguay)
+    >>> print(language_name(languageId="es_SV.utf8")) # doctest: +NORMALIZE_WHITESPACE
+    español (El Salvador)
+    >>> print(language_name(languageId="es_US.utf8")) # doctest: +NORMALIZE_WHITESPACE
+    español (Estados Unidos)
+    >>> print(language_name(languageId="es_UY.utf8")) # doctest: +NORMALIZE_WHITESPACE
+    español (Uruguay)
+    >>> print(language_name(languageId="es_VE.utf8")) # doctest: +NORMALIZE_WHITESPACE
+    español (Venezuela)
+    >>> print(language_name(languageId="et_EE.utf8")) # doctest: +NORMALIZE_WHITESPACE
+    eesti (Eesti)
+    >>> print(language_name(languageId="eu_ES.utf8")) # doctest: +NORMALIZE_WHITESPACE
+    euskara (Espainia)
+    >>> print(language_name(languageId="fa_IR.utf8")) # doctest: +NORMALIZE_WHITESPACE
+    فارسی (ایران)
+    >>> print(language_name(languageId="ff_SN.utf8")) # doctest: +NORMALIZE_WHITESPACE
+    Pulaar (Senegaal)
+    >>> print(language_name(languageId="fi_FI.utf8")) # doctest: +NORMALIZE_WHITESPACE
+    suomi (Suomi)
+    >>> print(language_name(languageId="fil_PH.utf8")) # doctest: +NORMALIZE_WHITESPACE
+    Filipino (Pilipinas)
+    >>> print(language_name(languageId="fo_FO.utf8")) # doctest: +NORMALIZE_WHITESPACE
+    føroyskt (Føroyar)
+    >>> print(language_name(languageId="fr_BE.utf8")) # doctest: +NORMALIZE_WHITESPACE
+    français (Belgique)
+    >>> print(language_name(languageId="fr_CA.utf8")) # doctest: +NORMALIZE_WHITESPACE
+    français (Canada)
+    >>> print(language_name(languageId="fr_CH.utf8")) # doctest: +NORMALIZE_WHITESPACE
+    français (Suisse)
+    >>> print(language_name(languageId="fr_FR.utf8")) # doctest: +NORMALIZE_WHITESPACE
+    français (France)
+    >>> print(language_name(languageId="fr_LU.utf8")) # doctest: +NORMALIZE_WHITESPACE
+    français (Luxembourg)
+    >>> print(language_name(languageId="fur_IT.utf8")) # doctest: +NORMALIZE_WHITESPACE
+    furlan (Italie)
+    >>> print(language_name(languageId="fy_DE.utf8")) # doctest: +NORMALIZE_WHITESPACE
+    Frysk (Dútslân)
+    >>> print(language_name(languageId="fy_NL.utf8")) # doctest: +NORMALIZE_WHITESPACE
+    Frysk (Nederlân)
+    >>> print(language_name(languageId="ga_IE.utf8")) # doctest: +NORMALIZE_WHITESPACE
+    Gaeilge (Éire)
+    >>> print(language_name(languageId="gd_GB.utf8")) # doctest: +NORMALIZE_WHITESPACE
+    Gàidhlig (An Rìoghachd Aonaichte)
+    >>> print(language_name(languageId="gez_ER.utf8")) # doctest: +NORMALIZE_WHITESPACE
+    ግዕዝ (Eritrea)
+    >>> print(language_name(languageId="gez_ER.utf8@abegede")) # doctest: +NORMALIZE_WHITESPACE
+    ግዕዝ (Eritrea)
+    >>> print(language_name(languageId="gez_ET.utf8")) # doctest: +NORMALIZE_WHITESPACE
+    ግዕዝ (Ethiopia)
+    >>> print(language_name(languageId="gez_ET.utf8@abegede")) # doctest: +NORMALIZE_WHITESPACE
+    ግዕዝ (Ethiopia)
+    >>> print(language_name(languageId="gl_ES.utf8")) # doctest: +NORMALIZE_WHITESPACE
+    galego (España)
+    >>> print(language_name(languageId="gu_IN.utf8")) # doctest: +NORMALIZE_WHITESPACE
+    ગુજરાતી (ભારત)
+    >>> print(language_name(languageId="gv_GB.utf8")) # doctest: +NORMALIZE_WHITESPACE
+    Gaelg (Rywvaneth Unys)
+    >>> print(language_name(languageId="ha_NG.utf8")) # doctest: +NORMALIZE_WHITESPACE
+    Hausa (Najeriya)
+    >>> print(language_name(languageId="hak_TW.utf8")) # doctest: +NORMALIZE_WHITESPACE
+    客家話 (Taiwan)
+    >>> print(language_name(languageId="he_IL.utf8")) # doctest: +NORMALIZE_WHITESPACE
+    עברית (ישראל)
+    >>> print(language_name(languageId="hi_IN.utf8")) # doctest: +NORMALIZE_WHITESPACE
+    हिन्दी (भारत)
+    >>> print(language_name(languageId="hif_FJ.utf8")) # doctest: +NORMALIZE_WHITESPACE
+    हिन्दी (Fiji)
+    >>> print(language_name(languageId="hne_IN.utf8")) # doctest: +NORMALIZE_WHITESPACE
+    छत्तीसगढ़ी (India)
+    >>> print(language_name(languageId="hr_HR.utf8")) # doctest: +NORMALIZE_WHITESPACE
+    hrvatski (Hrvatska)
+    >>> print(language_name(languageId="hsb_DE.utf8")) # doctest: +NORMALIZE_WHITESPACE
+    hornjoserbšćina (Němska)
+    >>> print(language_name(languageId="ht_HT.utf8")) # doctest: +NORMALIZE_WHITESPACE
+    Kreyòl ayisyen (Ayiti)
+    >>> print(language_name(languageId="hu_HU.utf8")) # doctest: +NORMALIZE_WHITESPACE
+    magyar (Magyarország)
+    >>> print(language_name(languageId="hy_AM.utf8")) # doctest: +NORMALIZE_WHITESPACE
+    հայերեն (Հայաստան)
+    >>> print(language_name(languageId="ia_FR.utf8")) # doctest: +NORMALIZE_WHITESPACE
+    interlingua (Francia)
+    >>> print(language_name(languageId="id_ID.utf8")) # doctest: +NORMALIZE_WHITESPACE
+    Indonesia (Indonesia)
+    >>> print(language_name(languageId="ig_NG.utf8")) # doctest: +NORMALIZE_WHITESPACE
+    Asụsụ Igbo (Naịjịrịa)
+    >>> print(language_name(languageId="ik_CA.utf8")) # doctest: +NORMALIZE_WHITESPACE
+    Iñupiatun (Canada)
+    >>> print(language_name(languageId="is_IS.utf8")) # doctest: +NORMALIZE_WHITESPACE
+    íslenska (Ísland)
+    >>> print(language_name(languageId="it_CH.utf8")) # doctest: +NORMALIZE_WHITESPACE
+    italiano (Svizzera)
+    >>> print(language_name(languageId="it_IT.utf8")) # doctest: +NORMALIZE_WHITESPACE
+    italiano (Italia)
+    >>> print(language_name(languageId="iu_CA.utf8")) # doctest: +NORMALIZE_WHITESPACE
+    ᐃᓄᒃᑎᑐᑦ (Canada)
+    >>> print(language_name(languageId="ja_JP.utf8")) # doctest: +NORMALIZE_WHITESPACE
+    日本語 (日本)
+    >>> print(language_name(languageId="ka_GE.utf8")) # doctest: +NORMALIZE_WHITESPACE
+    ქართული (საქართველო)
+    >>> print(language_name(languageId="kab_DZ.utf8")) # doctest: +NORMALIZE_WHITESPACE
+    Taqbaylit (Lezzayer)
+    >>> print(language_name(languageId="kk_KZ.utf8")) # doctest: +NORMALIZE_WHITESPACE
+    қазақ тілі (Қазақстан)
+    >>> print(language_name(languageId="kl_GL.utf8")) # doctest: +NORMALIZE_WHITESPACE
+    kalaallisut (Kalaallit Nunaat)
+    >>> print(language_name(languageId="km_KH.utf8")) # doctest: +NORMALIZE_WHITESPACE
+    ខ្មែរ (កម្ពុជា)
+    >>> print(language_name(languageId="kn_IN.utf8")) # doctest: +NORMALIZE_WHITESPACE
+    ಕನ್ನಡ (ಭಾರತ)
+    >>> print(language_name(languageId="ko_KR.utf8")) # doctest: +NORMALIZE_WHITESPACE
+    한국어 (대한민국)
+    >>> print(language_name(languageId="kok_IN.utf8")) # doctest: +NORMALIZE_WHITESPACE
+    कोंकणी (भारत)
+    >>> print(language_name(languageId="ks_IN.utf8")) # doctest: +NORMALIZE_WHITESPACE
+    کٲشُر (ہِندوستان)
+    >>> print(language_name(languageId="ks_IN.utf8@devanagari")) # doctest: +NORMALIZE_WHITESPACE
+    कॉशुर (India)
+    >>> print(language_name(languageId="ku_TR.utf8")) # doctest: +NORMALIZE_WHITESPACE
+    kurdî (Tirkiye)
+    >>> print(language_name(languageId="kw_GB.utf8")) # doctest: +NORMALIZE_WHITESPACE
+    kernewek (Rywvaneth Unys)
+    >>> print(language_name(languageId="ky_KG.utf8")) # doctest: +NORMALIZE_WHITESPACE
+    кыргызча (Кыргызстан)
+    >>> print(language_name(languageId="lb_LU.utf8")) # doctest: +NORMALIZE_WHITESPACE
+    Lëtzebuergesch (Lëtzebuerg)
+    >>> print(language_name(languageId="lg_UG.utf8")) # doctest: +NORMALIZE_WHITESPACE
+    Luganda (Yuganda)
+    >>> print(language_name(languageId="li_BE.utf8")) # doctest: +NORMALIZE_WHITESPACE
+    Lèmbörgs ('t Belsj)
+    >>> print(language_name(languageId="li_NL.utf8")) # doctest: +NORMALIZE_WHITESPACE
+    Lèmbörgs (Nederlands)
+    >>> print(language_name(languageId="lij_IT.utf8")) # doctest: +NORMALIZE_WHITESPACE
+    Lìgure (Italia)
+    >>> print(language_name(languageId="ln_CD.utf8")) # doctest: +NORMALIZE_WHITESPACE
+    lingála (Republíki ya Kongó Demokratíki)
+    >>> print(language_name(languageId="lo_LA.utf8")) # doctest: +NORMALIZE_WHITESPACE
+    ລາວ (ລາວ)
+    >>> print(language_name(languageId="lt_LT.utf8")) # doctest: +NORMALIZE_WHITESPACE
+    lietuvių (Lietuva)
+    >>> print(language_name(languageId="lv_LV.utf8")) # doctest: +NORMALIZE_WHITESPACE
+    latviešu (Latvija)
+    >>> print(language_name(languageId="lzh_TW.utf8")) # doctest: +NORMALIZE_WHITESPACE
+    文言 (Taiwan)
+    >>> print(language_name(languageId="mag_IN.utf8")) # doctest: +NORMALIZE_WHITESPACE
+    मगही (India)
+    >>> print(language_name(languageId="mai_IN.utf8")) # doctest: +NORMALIZE_WHITESPACE
+    मैथिली (भारत)
+    >>> print(language_name(languageId="mai_NP.utf8")) # doctest: +NORMALIZE_WHITESPACE
+    मैथिली (नेपाल)
+    >>> print(language_name(languageId="mfe_MU.utf8")) # doctest: +NORMALIZE_WHITESPACE
+    kreol morisien (Moris)
+    >>> print(language_name(languageId="mg_MG.utf8")) # doctest: +NORMALIZE_WHITESPACE
+    Malagasy (Madagasikara)
+    >>> print(language_name(languageId="mhr_RU.utf8")) # doctest: +NORMALIZE_WHITESPACE
+    марий йылме (Russia)
+    >>> print(language_name(languageId="mi_NZ.utf8")) # doctest: +NORMALIZE_WHITESPACE
+    Māori (Aotearoa)
+    >>> print(language_name(languageId="miq_NI.utf8")) # doctest: +NORMALIZE_WHITESPACE
+    Mískitu (Nicaragua)
+    >>> print(language_name(languageId="mjw_IN.utf8")) # doctest: +NORMALIZE_WHITESPACE
+    Karbi (India)
+    >>> print(language_name(languageId="mk_MK.utf8")) # doctest: +NORMALIZE_WHITESPACE
+    македонски (Северна Македонија)
+    >>> print(language_name(languageId="ml_IN.utf8")) # doctest: +NORMALIZE_WHITESPACE
+    മലയാളം (ഇന്ത്യ)
+    >>> print(language_name(languageId="mn_MN.utf8")) # doctest: +NORMALIZE_WHITESPACE
+    монгол (Монгол)
+    >>> print(language_name(languageId="mni_IN.utf8")) # doctest: +NORMALIZE_WHITESPACE
+    মৈতৈলোন্ (India)
+    >>> print(language_name(languageId="mr_IN.utf8")) # doctest: +NORMALIZE_WHITESPACE
+    मराठी (भारत)
+    >>> print(language_name(languageId="ms_MY.utf8")) # doctest: +NORMALIZE_WHITESPACE
+    Melayu (Malaysia)
+    >>> print(language_name(languageId="mt_MT.utf8")) # doctest: +NORMALIZE_WHITESPACE
+    Malti (Malta)
+    >>> print(language_name(languageId="my_MM.utf8")) # doctest: +NORMALIZE_WHITESPACE
+    မြန်မာ (မြန်မာ)
+    >>> print(language_name(languageId="nan_TW.utf8")) # doctest: +NORMALIZE_WHITESPACE
+    閩南語 (Taiwan)
+    >>> print(language_name(languageId="nan_TW.utf8@latin")) # doctest: +NORMALIZE_WHITESPACE
+    Bân-lâm-gú (Taiwan)
+    >>> print(language_name(languageId="nb_NO.utf8")) # doctest: +NORMALIZE_WHITESPACE
+    norsk bokmål (Norge)
+    >>> print(language_name(languageId="nds_DE.utf8")) # doctest: +NORMALIZE_WHITESPACE
+    Neddersass’sch (Düütschland)
+    >>> print(language_name(languageId="nds_NL.utf8")) # doctest: +NORMALIZE_WHITESPACE
+    Neddersass’sch (Nedderlannen)
+    >>> print(language_name(languageId="ne_NP.utf8")) # doctest: +NORMALIZE_WHITESPACE
+    नेपाली (नेपाल)
+    >>> print(language_name(languageId="nhn_MX.utf8")) # doctest: +NORMALIZE_WHITESPACE
+    Tlaxcala–Puebla Nahuatl (Mexico)
+    >>> print(language_name(languageId="niu_NU.utf8")) # doctest: +NORMALIZE_WHITESPACE
+    ko e vagahau Niuē (Niue)
+    >>> print(language_name(languageId="niu_NZ.utf8")) # doctest: +NORMALIZE_WHITESPACE
+    ko e vagahau Niuē (New Zealand)
+    >>> print(language_name(languageId="nl_AW.utf8")) # doctest: +NORMALIZE_WHITESPACE
+    Nederlands (Aruba)
+    >>> print(language_name(languageId="nl_BE.utf8")) # doctest: +NORMALIZE_WHITESPACE
+    Nederlands (België)
+    >>> print(language_name(languageId="nl_NL.utf8")) # doctest: +NORMALIZE_WHITESPACE
+    Nederlands (Nederland)
+    >>> print(language_name(languageId="nn_NO.utf8")) # doctest: +NORMALIZE_WHITESPACE
+    nynorsk (Noreg)
+    >>> print(language_name(languageId="nr_ZA.utf8")) # doctest: +NORMALIZE_WHITESPACE
+    isiNdebele (South Africa)
+    >>> print(language_name(languageId="nso_ZA.utf8")) # doctest: +NORMALIZE_WHITESPACE
+    Sesotho sa Leboa (South Africa)
+    >>> print(language_name(languageId="oc_FR.utf8")) # doctest: +NORMALIZE_WHITESPACE
+    occitan (França)
+    >>> print(language_name(languageId="om_ET.utf8")) # doctest: +NORMALIZE_WHITESPACE
+    Oromoo (Itoophiyaa)
+    >>> print(language_name(languageId="om_KE.utf8")) # doctest: +NORMALIZE_WHITESPACE
+    Oromoo (Keeniyaa)
+    >>> print(language_name(languageId="or_IN.utf8")) # doctest: +NORMALIZE_WHITESPACE
+    ଓଡ଼ିଆ (ଭାରତ)
+    >>> print(language_name(languageId="os_RU.utf8")) # doctest: +NORMALIZE_WHITESPACE
+    ирон (Уӕрӕсе)
+    >>> print(language_name(languageId="pa_IN.utf8")) # doctest: +NORMALIZE_WHITESPACE
+    ਪੰਜਾਬੀ (ਭਾਰਤ)
+    >>> print(language_name(languageId="pa_PK.utf8")) # doctest: +NORMALIZE_WHITESPACE
+    پنجاب (پکستان)
+    >>> print(language_name(languageId="pap_AW.utf8")) # doctest: +NORMALIZE_WHITESPACE
+    Papiamento (Aruba)
+    >>> print(language_name(languageId="pap_CW.utf8")) # doctest: +NORMALIZE_WHITESPACE
+    Papiamento (Kòrsou)
+    >>> print(language_name(languageId="pl_PL.utf8")) # doctest: +NORMALIZE_WHITESPACE
+    polski (Polska)
+    >>> print(language_name(languageId="ps_AF.utf8")) # doctest: +NORMALIZE_WHITESPACE
+    پښتو (افغانستان)
+    >>> print(language_name(languageId="pt_BR.utf8")) # doctest: +NORMALIZE_WHITESPACE
+    português (Brasil)
+    >>> print(language_name(languageId="pt_PT.utf8")) # doctest: +NORMALIZE_WHITESPACE
+    português (Portugal)
+    >>> print(language_name(languageId="quz_PE.utf8")) # doctest: +NORMALIZE_WHITESPACE
+    Qusqu runasimi (Peru)
+    >>> print(language_name(languageId="raj_IN.utf8")) # doctest: +NORMALIZE_WHITESPACE
+    राजस्थानी (India)
+    >>> print(language_name(languageId="ro_RO.utf8")) # doctest: +NORMALIZE_WHITESPACE
+    română (România)
+    >>> print(language_name(languageId="ru_RU.utf8")) # doctest: +NORMALIZE_WHITESPACE
+    русский (Россия)
+    >>> print(language_name(languageId="ru_UA.utf8")) # doctest: +NORMALIZE_WHITESPACE
+    русский (Украина)
+    >>> print(language_name(languageId="rw_RW.utf8")) # doctest: +NORMALIZE_WHITESPACE
+    Kinyarwanda (U Rwanda)
+    >>> print(language_name(languageId="sa_IN.utf8")) # doctest: +NORMALIZE_WHITESPACE
+    संस्कृतम् (India)
+    >>> print(language_name(languageId="sah_RU.utf8")) # doctest: +NORMALIZE_WHITESPACE
+    саха тыла (Арассыыйа)
+    >>> print(language_name(languageId="sat_IN.utf8")) # doctest: +NORMALIZE_WHITESPACE
+    ᱥᱟᱱᱛᱟᱲᱤ (India)
+    >>> print(language_name(languageId="sc_IT.utf8")) # doctest: +NORMALIZE_WHITESPACE
+    sardu (Itàlia)
+    >>> print(language_name(languageId="sd_IN.utf8")) # doctest: +NORMALIZE_WHITESPACE
+     سنڌي (انڊيا)
+    >>> print(language_name(languageId="sd_IN.utf8@devanagari")) # doctest: +NORMALIZE_WHITESPACE
+    सिन्धी (India)
+    >>> print(language_name(languageId="se_NO.utf8")) # doctest: +NORMALIZE_WHITESPACE
+    davvisámegiella (Norga)
+    >>> print(language_name(languageId="sgs_LT.utf8")) # doctest: +NORMALIZE_WHITESPACE
+    Žemaitiu kalba (Lithuania)
+    >>> print(language_name(languageId="shn_MM.utf8")) # doctest: +NORMALIZE_WHITESPACE
+    လိၵ်ႈတႆး (Myanmar (Burma))
+    >>> print(language_name(languageId="shs_CA.utf8")) # doctest: +NORMALIZE_WHITESPACE
+    Secwepemctsín (Canada)
+    >>> print(language_name(languageId="si_LK.utf8")) # doctest: +NORMALIZE_WHITESPACE
+    සිංහල (ශ්‍රී ලංකාව)
+    >>> print(language_name(languageId="sid_ET.utf8")) # doctest: +NORMALIZE_WHITESPACE
+    Sidaama (Ethiopia)
+    >>> print(language_name(languageId="sk_SK.utf8")) # doctest: +NORMALIZE_WHITESPACE
+    slovenčina (Slovensko)
+    >>> print(language_name(languageId="sl_SI.utf8")) # doctest: +NORMALIZE_WHITESPACE
+    slovenščina (Slovenija)
+    >>> print(language_name(languageId="sm_WS.utf8")) # doctest: +NORMALIZE_WHITESPACE
+    Gagana faʻa Sāmoa (Sāmoa)
+    >>> print(language_name(languageId="so_DJ.utf8")) # doctest: +NORMALIZE_WHITESPACE
+    Soomaali (Jabuuti)
+    >>> print(language_name(languageId="so_ET.utf8")) # doctest: +NORMALIZE_WHITESPACE
+    Soomaali (Itoobiya)
+    >>> print(language_name(languageId="so_KE.utf8")) # doctest: +NORMALIZE_WHITESPACE
+    Soomaali (Kenya)
+    >>> print(language_name(languageId="so_SO.utf8")) # doctest: +NORMALIZE_WHITESPACE
+    Soomaali (Soomaaliya)
+    >>> print(language_name(languageId="sq_AL.utf8")) # doctest: +NORMALIZE_WHITESPACE
+    shqip (Shqipëri)
+    >>> print(language_name(languageId="sq_MK.utf8")) # doctest: +NORMALIZE_WHITESPACE
+    shqip (Maqedonia e Veriut)
+    >>> print(language_name(languageId="sr_ME.utf8")) # doctest: +NORMALIZE_WHITESPACE
+    српски (Црна Гора)
+    >>> print(language_name(languageId="sr_RS.utf8")) # doctest: +NORMALIZE_WHITESPACE
+    српски (Србија)
+    >>> print(language_name(languageId="sr_RS.utf8@latin")) # doctest: +NORMALIZE_WHITESPACE
+    Srpski (Latinica) (Srbija)
+    >>> print(language_name(languageId="ss_ZA.utf8")) # doctest: +NORMALIZE_WHITESPACE
+    Siswati (South Africa)
+    >>> print(language_name(languageId="st_ZA.utf8")) # doctest: +NORMALIZE_WHITESPACE
+    Sesotho (South Africa)
+    >>> print(language_name(languageId="sv_FI.utf8")) # doctest: +NORMALIZE_WHITESPACE
+    svenska (Finland)
+    >>> print(language_name(languageId="sv_SE.utf8")) # doctest: +NORMALIZE_WHITESPACE
+    svenska (Sverige)
+    >>> print(language_name(languageId="sw_KE.utf8")) # doctest: +NORMALIZE_WHITESPACE
+    Kiswahili (Kenya)
+    >>> print(language_name(languageId="sw_TZ.utf8")) # doctest: +NORMALIZE_WHITESPACE
+    Kiswahili (Tanzania)
+    >>> print(language_name(languageId="szl_PL.utf8")) # doctest: +NORMALIZE_WHITESPACE
+    ślōnskŏ gŏdka (Poland)
+    >>> print(language_name(languageId="ta_IN.utf8")) # doctest: +NORMALIZE_WHITESPACE
+    தமிழ் (இந்தியா)
+    >>> print(language_name(languageId="ta_LK.utf8")) # doctest: +NORMALIZE_WHITESPACE
+    தமிழ் (இலங்கை)
+    >>> print(language_name(languageId="tcy_IN.utf8")) # doctest: +NORMALIZE_WHITESPACE
+    ತುಳು ಭಾಷೆ (India)
+    >>> print(language_name(languageId="te_IN.utf8")) # doctest: +NORMALIZE_WHITESPACE
+    తెలుగు (భారతదేశం)
+    >>> print(language_name(languageId="tg_TJ.utf8")) # doctest: +NORMALIZE_WHITESPACE
+    тоҷикӣ (Тоҷикистон)
+    >>> print(language_name(languageId="th_TH.utf8")) # doctest: +NORMALIZE_WHITESPACE
+    ไทย (ไทย)
+    >>> print(language_name(languageId="the_NP.utf8")) # doctest: +NORMALIZE_WHITESPACE
+    थारु (Nepal)
+    >>> print(language_name(languageId="ti_ER.utf8")) # doctest: +NORMALIZE_WHITESPACE
+    ትግርኛ (ኤርትራ)
+    >>> print(language_name(languageId="ti_ET.utf8")) # doctest: +NORMALIZE_WHITESPACE
+     ትግርኛ (ኢትዮጵያ)
+    >>> print(language_name(languageId="tig_ER.utf8")) # doctest: +NORMALIZE_WHITESPACE
+    ትግረ (ኤርትራ)
+    >>> print(language_name(languageId="tk_TM.utf8")) # doctest: +NORMALIZE_WHITESPACE
+    türkmen dili (Türkmenistan)
+    >>> print(language_name(languageId="tl_PH.utf8")) # doctest: +NORMALIZE_WHITESPACE
+    Tagalog (Philippines)
+    >>> print(language_name(languageId="tn_ZA.utf8")) # doctest: +NORMALIZE_WHITESPACE
+    Setswana (South Africa)
+    >>> print(language_name(languageId="to_TO.utf8")) # doctest: +NORMALIZE_WHITESPACE
+    lea fakatonga (Tonga)
+    >>> print(language_name(languageId="tpi_PG.utf8")) # doctest: +NORMALIZE_WHITESPACE
+    Tok Pisin (Papua Niugini)
+    >>> print(language_name(languageId="tr_CY.utf8")) # doctest: +NORMALIZE_WHITESPACE
+    Türkçe (Kıbrıs)
+    >>> print(language_name(languageId="tr_TR.utf8")) # doctest: +NORMALIZE_WHITESPACE
+    Türkçe (Türkiye)
+    >>> print(language_name(languageId="ts_ZA.utf8")) # doctest: +NORMALIZE_WHITESPACE
+    Xitsonga (South Africa)
+    >>> print(language_name(languageId="tt_RU.utf8")) # doctest: +NORMALIZE_WHITESPACE
+    татар (Россия)
+    >>> print(language_name(languageId="tt_RU.utf8@iqtelif")) # doctest: +NORMALIZE_WHITESPACE
+    tatar tele (Urıs Patşahlıq)
+    >>> print(language_name(languageId="ug_CN.utf8")) # doctest: +NORMALIZE_WHITESPACE
+    ئۇيغۇرچە (جۇڭگو)
+    >>> print(language_name(languageId="uk_UA.utf8")) # doctest: +NORMALIZE_WHITESPACE
+    українська (Україна)
+    >>> print(language_name(languageId="unm_US.utf8")) # doctest: +NORMALIZE_WHITESPACE
+    Lenape (United States)
+    >>> print(language_name(languageId="ur_IN.utf8")) # doctest: +NORMALIZE_WHITESPACE
+    اردو (بھارت)
+    >>> print(language_name(languageId="ur_PK.utf8")) # doctest: +NORMALIZE_WHITESPACE
+    اردو (پاکستان)
+    >>> print(language_name(languageId="uz_UZ.utf8")) # doctest: +NORMALIZE_WHITESPACE
+    o‘zbek (Oʻzbekiston)
+    >>> print(language_name(languageId="uz_UZ.utf8@cyrillic")) # doctest: +NORMALIZE_WHITESPACE
+    Ўзбек (Ўзбекистон)
+    >>> print(language_name(languageId="ve_ZA.utf8")) # doctest: +NORMALIZE_WHITESPACE
+    Tshivenḓa (South Africa)
+    >>> print(language_name(languageId="vi_VN.utf8")) # doctest: +NORMALIZE_WHITESPACE
+    Tiếng Việt (Việt Nam)
+    >>> print(language_name(languageId="wa_BE.utf8")) # doctest: +NORMALIZE_WHITESPACE
+    walon (Beldjike)
+    >>> print(language_name(languageId="wae_CH.utf8")) # doctest: +NORMALIZE_WHITESPACE
+    Walser (Schwiz)
+    >>> print(language_name(languageId="wal_ET.utf8")) # doctest: +NORMALIZE_WHITESPACE
+    ወላይታቱ (ኢትዮጵያ)
+    >>> print(language_name(languageId="wo_SN.utf8")) # doctest: +NORMALIZE_WHITESPACE
+    Wolof (Senegaal)
+    >>> print(language_name(languageId="xh_ZA.utf8")) # doctest: +NORMALIZE_WHITESPACE
+    isiXhosa (eMzantsi Afrika)
+    >>> print(language_name(languageId="yi_US.utf8")) # doctest: +NORMALIZE_WHITESPACE
+    ייִדיש (פֿאַראייניגטע שטאַטן)
+    >>> print(language_name(languageId="yo_NG.utf8")) # doctest: +NORMALIZE_WHITESPACE
+    Èdè Yorùbá (Orilẹ̀-èdè Nàìjíríà)
+    >>> print(language_name(languageId="yue_HK.utf8")) # doctest: +NORMALIZE_WHITESPACE
+    粵語 (中華人民共和國香港特別行政區)
+    >>> print(language_name(languageId="yuw_PG.utf8")) # doctest: +NORMALIZE_WHITESPACE
+    Uruwa (Papua New Guinea)
+    >>> print(language_name(languageId="zh_CN.utf8")) # doctest: +NORMALIZE_WHITESPACE
+    简体中文 (中国)
+    >>> print(language_name(languageId="zh_HK.utf8")) # doctest: +NORMALIZE_WHITESPACE
+    繁體中文 (中華人民共和國香港特別行政區)
+    >>> print(language_name(languageId="zh_SG.utf8")) # doctest: +NORMALIZE_WHITESPACE
+    简体中文 (新加坡)
+    >>> print(language_name(languageId="zh_TW.utf8")) # doctest: +NORMALIZE_WHITESPACE
+    繁體中文 (台灣)
+    >>> print(language_name(languageId="zu_ZA.utf8")) # doctest: +NORMALIZE_WHITESPACE
+    isiZulu (iNingizimu Afrika)
+
+    ######################################################################
     >>> print(territory_name(territoryId="AE", languageIdQuery="ar")) # doctest: +NORMALIZE_WHITESPACE
         الإمارات العربية المتحدة
 
@@ -1218,6 +1858,9 @@ def dummy():
         United Arab Emirates
 
     >>> print(territory_name(territoryId="AE", languageIdQuery=None)) # doctest: +NORMALIZE_WHITESPACE
+    United Arab Emirates
+
+    >>> print(territory_name(territoryId="AE", languageIdQuery=None, fallback=False)) # doctest: +NORMALIZE_WHITESPACE
 
     >>> print(territory_name(territoryId="TW", languageIdQuery="zh")) # doctest: +NORMALIZE_WHITESPACE
         台湾
