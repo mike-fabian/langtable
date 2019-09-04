@@ -990,7 +990,7 @@ def _parse_and_split_languageId(languageId=None, scriptId=None, territoryId=None
             scriptId = 'Hant'
     return (languageId, scriptId, territoryId)
 
-def territory_name(territoryId = None, languageIdQuery = None, scriptIdQuery = None, territoryIdQuery = None):
+def territory_name(territoryId = None, languageIdQuery = None, scriptIdQuery = None, territoryIdQuery = None, fallback=True):
     u'''Query translations of territory names
 
     :param territoryId: identifier for the territory
@@ -1001,6 +1001,9 @@ def territory_name(territoryId = None, languageIdQuery = None, scriptIdQuery = N
     :type scriptIdQuery: string
     :param territoryIdQuery: identifier for the territory used in the result
     :type territoryIdQuery: string
+    :param fallback: Whether a fallback to English should be returned if the
+                     name cannot be found in the requested language.
+    :type fallback: Boolean
     :rtype: string
 
     **Examples:**
@@ -1041,9 +1044,11 @@ def territory_name(territoryId = None, languageIdQuery = None, scriptIdQuery = N
             icuLocaleIdQuery = languageIdQuery
             if icuLocaleIdQuery in _territories_db[territoryId].names:
                 return _territories_db[territoryId].names[icuLocaleIdQuery]
+        if fallback and 'en' in _territories_db[territoryId].names:
+            return _territories_db[territoryId].names['en']
     return ''
 
-def language_name(languageId = None, scriptId = None, territoryId = None, languageIdQuery = None, scriptIdQuery = None, territoryIdQuery = None):
+def language_name(languageId = None, scriptId = None, territoryId = None, languageIdQuery = None, scriptIdQuery = None, territoryIdQuery = None, fallback=True):
     u'''Query translations of language names
 
     :param languageId: identifier for the language
@@ -1058,6 +1063,9 @@ def language_name(languageId = None, scriptId = None, territoryId = None, langua
     :type scriptIdQuery: string
     :param territoryIdQuery: identifier for the territory used in the result
     :type territoryIdQuery: string
+    :param fallback: Whether a fallback to English should be returned if the
+                     name cannot be found in the requested language.
+    :type fallback: Boolean
     :rtype: string
 
     **Examples:**
@@ -1213,6 +1221,11 @@ def language_name(languageId = None, scriptId = None, territoryId = None, langua
                 icuLocaleIdQuery = languageIdQuery
                 if icuLocaleIdQuery in _languages_db[icuLocaleId].names:
                     return _languages_db[icuLocaleId].names[icuLocaleIdQuery]
+    if (fallback
+        and icuLocaleId
+        and icuLocaleId in _languages_db
+        and 'en' in _languages_db[icuLocaleId].names):
+        return _languages_db[icuLocaleId].names['en']
     return ''
 
 def _timezone_name_from_id_parts(timezoneId = None, icuLocaleIdQuery = None):
