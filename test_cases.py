@@ -994,16 +994,16 @@ def dummy():
         मैथिली (नेपाल)
 
     >>> print(language_name(languageId="zh")) # doctest: +NORMALIZE_WHITESPACE
-        中文
+        普通话
 
     >>> print(language_name(languageId="zh", languageIdQuery="de")) # doctest: +NORMALIZE_WHITESPACE
-        Chinesisch
+        Chinesisch (Mandarin)
 
     >>> print(language_name(languageId="zh", scriptId="Hant", languageIdQuery="de")) # doctest: +NORMALIZE_WHITESPACE
         Chinesisch (traditionell)
 
     >>> print(language_name(languageId="zh", scriptId="Hans", languageIdQuery="de")) # doctest: +NORMALIZE_WHITESPACE
-        Chinesisch (vereinfacht)
+        Mandarin (Vereinfacht)
 
     >>> print(language_name(languageId="zh", territoryId="HK", languageIdQuery="de")) # doctest: +NORMALIZE_WHITESPACE
         Traditionelles Chinesisch (Sonderverwaltungszone Hongkong)
@@ -1039,10 +1039,10 @@ def dummy():
         Traditionelles Chinesisch (Taiwan)
 
     >>> print(language_name(languageId="zh", territoryId="TW", languageIdQuery="es")) # doctest: +NORMALIZE_WHITESPACE
-        chino tradicional (Taiwán)
+        chino mandarín tradicional (Taiwán)
 
     >>> print(language_name(languageId="zh", territoryId="TW", languageIdQuery="es", territoryIdQuery="ES")) # doctest: +NORMALIZE_WHITESPACE
-        chino tradicional (Taiwán)
+        chino mandarín tradicional (Taiwán)
 
     >>> print(language_name(languageId="zh", territoryId="TW", languageIdQuery="zh")) # doctest: +NORMALIZE_WHITESPACE
         繁体中文 (台湾)
@@ -1833,7 +1833,7 @@ def dummy():
     >>> print(language_name(languageId="yo_NG.utf8")) # doctest: +NORMALIZE_WHITESPACE
     Èdè Yorùbá (Orilẹ̀-èdè Nàìjíríà)
     >>> print(language_name(languageId="yue_HK.utf8")) # doctest: +NORMALIZE_WHITESPACE
-    粵語 (中華人民共和國香港特別行政區)
+    中文 (粵語) (中華人民共和國香港特別行政區)
     >>> print(language_name(languageId="yuw_PG.utf8")) # doctest: +NORMALIZE_WHITESPACE
     Uruwa (Papua New Guinea)
     >>> print(language_name(languageId="zh_CN.utf8")) # doctest: +NORMALIZE_WHITESPACE
