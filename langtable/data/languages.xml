@@ -1550,7 +1550,7 @@
       <name><languageId>xog</languageId><trName>Oluwarabu</trName></name>
       <name><languageId>yav</languageId><trName>́pakas</trName></name>
       <name><languageId>yi</languageId><trName>אַראַביש</trName></name>
-      <name><languageId>yo</languageId><trName>Èdè Arabiki</trName></name>
+      <name><languageId>yo</languageId><trName>Èdè Árábìkì</trName></name>
       <name><languageId>yue</languageId><trName>阿拉伯文</trName></name>
       <name><languageId>zgh</languageId><trName>ⵜⴰⵄⵔⴰⴱⵜ</trName></name>
       <name><languageId>zh</languageId><trName>阿拉伯语</trName></name>
@@ -1832,7 +1832,7 @@
       <name><languageId>en</languageId><trName>Asu</trName></name>
       <name><languageId>es</languageId><trName>asu</trName></name>
       <name><languageId>et</languageId><trName>asu</trName></name>
-      <name><languageId>eu</languageId><trName>asua</trName></name>
+      <name><languageId>eu</languageId><trName>asu</trName></name>
       <name><languageId>fa</languageId><trName>آسو</trName></name>
       <name><languageId>fi</languageId><trName>asu</trName></name>
       <name><languageId>fil</languageId><trName>Asu</trName></name>
@@ -2494,7 +2494,7 @@
       <name><languageId>ja</languageId><trName>アゼルバイジャン語</trName></name>
       <name><languageId>jv</languageId><trName>Azerbaijan</trName></name>
       <name><languageId>ka</languageId><trName>აზერბაიჯანული</trName></name>
-      <name><languageId>kab</languageId><trName>Tazerbiǧanit</trName></name>
+      <name><languageId>kab</languageId><trName>Tazerbayǧant</trName></name>
       <name><languageId>kea</languageId><trName>azerbaijanu</trName></name>
       <name><languageId>kk</languageId><trName>әзірбайжан тілі</trName></name>
       <name><languageId>kl</languageId><trName>aserbajdsjaniskisut</trName></name>
@@ -2550,7 +2550,7 @@
       <name><languageId>st</languageId><trName>Se-azerbaijani</trName></name>
       <name><languageId>sv</languageId><trName>azerbajdzjanska</trName></name>
       <name><languageId>sw</languageId><trName>Kiazerbaijani</trName></name>
-      <name><languageId>ta</languageId><trName>அஸர்பைஜானி</trName></name>
+      <name><languageId>ta</languageId><trName>அசர்பைஜானி</trName></name>
       <name><languageId>te</languageId><trName>అజర్బైజాని</trName></name>
       <name><languageId>tg</languageId><trName>озарбойҷонӣ</trName></name>
       <name><languageId>th</languageId><trName>อาเซอร์ไบจาน</trName></name>
@@ -2559,7 +2559,7 @@
       <name><languageId>tk</languageId><trName>azerbaýjan dili</trName></name>
       <name><languageId>tn</languageId><trName>Azerbaijani</trName></name>
       <name><languageId>to</languageId><trName>lea fakaʻasapaisani</trName></name>
-      <name><languageId>tr</languageId><trName>Azerice</trName></name>
+      <name><languageId>tr</languageId><trName>Azerbaycan dili</trName></name>
       <name><languageId>tt</languageId><trName>әзәрбайҗан</trName></name>
       <name><languageId>ug</languageId><trName>ئەزەربەيجانچە</trName></name>
       <name><languageId>uk</languageId><trName>азербайджанська</trName></name>
@@ -2960,7 +2960,7 @@
       <name><languageId>fy</languageId><trName>Wyt-Russysk</trName></name>
       <name><languageId>ga</languageId><trName>Bealarúisis</trName></name>
       <name><languageId>gd</languageId><trName>Bealaruisis</trName></name>
-      <name><languageId>gl</languageId><trName>bielorruso</trName></name>
+      <name><languageId>gl</languageId><trName>belaruso</trName></name>
       <name><languageId>gsw</languageId><trName>Wiissrussisch</trName></name>
       <name><languageId>gu</languageId><trName>બેલારુશિયન</trName></name>
       <name><languageId>guz</languageId><trName>Kibelarusi</trName></name>
@@ -3220,7 +3220,7 @@
       <name><languageId>or</languageId><trName>ବେମ୍ବା</trName></name>
       <name><languageId>pa</languageId><trName>ਬੇਮਬਾ</trName></name>
       <name><languageId>pl</languageId><trName>bemba</trName></name>
-      <name><languageId>ps</languageId><trName>بیبا</trName></name>
+      <name><languageId>ps</languageId><trName>بيمبا</trName></name>
       <name><languageId>pt</languageId><trName>bemba</trName></name>
       <name><languageId>qu</languageId><trName>Bemba Simi</trName></name>
       <name><languageId>rm</languageId><trName>bemba</trName></name>
@@ -4087,7 +4087,7 @@
       <name><languageId>fr</languageId><trName>bini</trName></name>
       <name><languageId>fy</languageId><trName>Bini</trName></name>
       <name><languageId>ga</languageId><trName>bin</trName></name>
-      <name><languageId>gd</languageId><trName>Bini</trName></name>
+      <name><languageId>gd</languageId><trName>Edo</trName></name>
       <name><languageId>gl</languageId><trName>bini</trName></name>
       <name><languageId>gsw</languageId><trName>Bini</trName></name>
       <name><languageId>gu</languageId><trName>બિની</trName></name>
@@ -4274,7 +4274,7 @@
       <name><languageId>or</languageId><trName>ବାମ୍ବାରା</trName></name>
       <name><languageId>pa</languageId><trName>ਬੰਬਾਰਾ</trName></name>
       <name><languageId>pl</languageId><trName>bambara</trName></name>
-      <name><languageId>ps</languageId><trName>بامره</trName></name>
+      <name><languageId>ps</languageId><trName>بمبارا</trName></name>
       <name><languageId>pt</languageId><trName>bambara</trName></name>
       <name><languageId>qu</languageId><trName>Bambara Simi</trName></name>
       <name><languageId>rm</languageId><trName>bambara</trName></name>
@@ -4515,7 +4515,7 @@
       <name><languageId>tzm</languageId><trName>Tabinɣalit</trName></name>
       <name><languageId>ug</languageId><trName>بېنگالچە</trName></name>
       <name><languageId>uk</languageId><trName>банґла</trName></name>
-      <name><languageId>ur</languageId><trName>بنگالی</trName></name>
+      <name><languageId>ur</languageId><trName>بنگلہ</trName></name>
       <name><languageId>uz</languageId><trName>bengal</trName></name>
       <name><languageId>uz_Cyrl</languageId><trName>Бенгалча</trName></name>
       <name><languageId>vai</languageId><trName>ꗩꕭꔷ</trName></name>
@@ -4629,7 +4629,7 @@
       <name><languageId>km</languageId><trName>ទីបេ</trName></name>
       <name><languageId>kn</languageId><trName>ಟಿಬೇಟಿಯನ್</trName></name>
       <name><languageId>ko</languageId><trName>티베트어</trName></name>
-      <name><languageId>kok</languageId><trName>तिबेतियन</trName></name>
+      <name><languageId>kok</languageId><trName>तिबेटी</trName></name>
       <name><languageId>ks</languageId><trName>تِبتی</trName></name>
       <name><languageId>ksh</languageId><trName>Tibehtesch</trName></name>
       <name><languageId>ku</languageId><trName>tîbetî</trName></name>
@@ -5675,7 +5675,7 @@
       <name><languageId>el</languageId><trName>Τσάκμα</trName></name>
       <name><languageId>en</languageId><trName>Chakma</trName></name>
       <name><languageId>es</languageId><trName>chakma</trName></name>
-      <name><languageId>et</languageId><trName>Chakma</trName></name>
+      <name><languageId>et</languageId><trName>tšaakma</trName></name>
       <name><languageId>eu</languageId><trName>chakmera</trName></name>
       <name><languageId>fa</languageId><trName>چاکما</trName></name>
       <name><languageId>fi</languageId><trName>chakma</trName></name>
@@ -5721,7 +5721,7 @@
       <name><languageId>pa</languageId><trName>ਚਕਮਾ</trName></name>
       <name><languageId>pl</languageId><trName>czakma</trName></name>
       <name><languageId>ps</languageId><trName>چکما</trName></name>
-      <name><languageId>pt</languageId><trName>Chakma</trName></name>
+      <name><languageId>pt</languageId><trName>chakma</trName></name>
       <name><languageId>qu</languageId><trName>Chakma Simi</trName></name>
       <name><languageId>ro</languageId><trName>chakma</trName></name>
       <name><languageId>ru</languageId><trName>чакма</trName></name>
@@ -5829,7 +5829,7 @@
       <name><languageId>ja</languageId><trName>チェチェン語</trName></name>
       <name><languageId>jv</languageId><trName>Chechen</trName></name>
       <name><languageId>ka</languageId><trName>ჩეჩნური</trName></name>
-      <name><languageId>kab</languageId><trName>Tačičant</trName></name>
+      <name><languageId>kab</languageId><trName>Tačičinit</trName></name>
       <name><languageId>kea</languageId><trName>txetxenu</trName></name>
       <name><languageId>kk</languageId><trName>шешен тілі</trName></name>
       <name><languageId>km</languageId><trName>ឈីឆេន</trName></name>
@@ -5863,7 +5863,7 @@
       <name><languageId>os</languageId><trName>цӕцӕйнаг</trName></name>
       <name><languageId>pa</languageId><trName>ਚੇਚਨ</trName></name>
       <name><languageId>pl</languageId><trName>czeczeński</trName></name>
-      <name><languageId>ps</languageId><trName>چيچيني</trName></name>
+      <name><languageId>ps</languageId><trName>چيچني</trName></name>
       <name><languageId>pt</languageId><trName>checheno</trName></name>
       <name><languageId>qu</languageId><trName>Checheno Simi</trName></name>
       <name><languageId>rm</languageId><trName>tschetschen</trName></name>
@@ -6025,7 +6025,7 @@
       <name><languageId>th</languageId><trName>คีกา</trName></name>
       <name><languageId>tk</languageId><trName>kiga</trName></name>
       <name><languageId>to</languageId><trName>lea fakakika</trName></name>
-      <name><languageId>tr</languageId><trName>Kigaca</trName></name>
+      <name><languageId>tr</languageId><trName>Kiga</trName></name>
       <name><languageId>ug</languageId><trName>چىگاچە</trName></name>
       <name><languageId>uk</languageId><trName>кіга</trName></name>
       <name><languageId>ur</languageId><trName>چیگا</trName></name>
@@ -6355,7 +6355,7 @@
       <name><languageId>bn</languageId><trName>চেরোকী</trName></name>
       <name><languageId>br</languageId><trName>cherokee</trName></name>
       <name><languageId>brx</languageId><trName>चीरोकी</trName></name>
-      <name><languageId>bs</languageId><trName>čiroki</trName></name>
+      <name><languageId>bs</languageId><trName>čeroki</trName></name>
       <name><languageId>ca</languageId><trName>cherokee</trName></name>
       <name><languageId>ccp</languageId><trName>𑄌𑄬𑄢𑄮𑄇𑄩</trName></name>
       <name><languageId>ce</languageId><trName>чероки</trName></name>
@@ -6403,7 +6403,7 @@
       <name><languageId>km</languageId><trName>ឆេរូគី</trName></name>
       <name><languageId>kn</languageId><trName>ಚೆರೋಕಿ</trName></name>
       <name><languageId>ko</languageId><trName>체로키어</trName></name>
-      <name><languageId>kok</languageId><trName>चिरोकी</trName></name>
+      <name><languageId>kok</languageId><trName>चॅरोकी</trName></name>
       <name><languageId>ks</languageId><trName>چیروکی</trName></name>
       <name><languageId>ksh</languageId><trName>Tschärrokeh</trName></name>
       <name><languageId>ku</languageId><trName>çerokî</trName></name>
@@ -6520,7 +6520,7 @@
       <name><languageId>eo</languageId><trName>sorana</trName></name>
       <name><languageId>es</languageId><trName>kurdo sorani</trName></name>
       <name><languageId>et</languageId><trName>sorani</trName></name>
-      <name><languageId>eu</languageId><trName>sorania</trName></name>
+      <name><languageId>eu</languageId><trName>erdialdeko kurduera</trName></name>
       <name><languageId>fa</languageId><trName>کردی مرکزی</trName></name>
       <name><languageId>fi</languageId><trName>sorani</trName></name>
       <name><languageId>fil</languageId><trName>Central Kurdish</trName></name>
@@ -6529,7 +6529,7 @@
       <name><languageId>fy</languageId><trName>Soranî</trName></name>
       <name><languageId>ga</languageId><trName>Coirdis Lárnach</trName></name>
       <name><languageId>gd</languageId><trName>Cùrdais Mheadhanach</trName></name>
-      <name><languageId>gl</languageId><trName>kurdo soraní</trName></name>
+      <name><languageId>gl</languageId><trName>kurdo central</trName></name>
       <name><languageId>gu</languageId><trName>સેન્ટ્રલ કુર્દિશ</trName></name>
       <name><languageId>ha</languageId><trName>Kurdish na Tsaka</trName></name>
       <name><languageId>he</languageId><trName>כורדית סוראנית</trName></name>
@@ -7427,7 +7427,7 @@
       <name><languageId>hi</languageId><trName>चर्च साल्विक</trName></name>
       <name><languageId>hr</languageId><trName>crkvenoslavenski</trName></name>
       <name><languageId>hu</languageId><trName>egyházi szláv</trName></name>
-      <name><languageId>hy</languageId><trName>եկեղեցական սլավոներեն</trName></name>
+      <name><languageId>hy</languageId><trName>սլավոներեն, եկեղեցական</trName></name>
       <name><languageId>ia</languageId><trName>slavo ecclesiastic</trName></name>
       <name><languageId>id</languageId><trName>Bahasa Gereja Slavonia</trName></name>
       <name><languageId>is</languageId><trName>kirkjuslavneska</trName></name>
@@ -7946,7 +7946,7 @@
       <name><languageId>pa</languageId><trName>ਡੈਨਿਸ਼</trName></name>
       <name><languageId>pl</languageId><trName>duński</trName></name>
       <name><languageId>prg</languageId><trName>dāniskan</trName></name>
-      <name><languageId>ps</languageId><trName>دانمارکي</trName></name>
+      <name><languageId>ps</languageId><trName>ډنمارکي</trName></name>
       <name><languageId>pt</languageId><trName>dinamarquês</trName></name>
       <name><languageId>qu</languageId><trName>Danes Simi</trName></name>
       <name><languageId>rm</languageId><trName>danais</trName></name>
@@ -8242,7 +8242,7 @@
       <name><languageId>kab</languageId><trName>Talmant</trName></name>
       <name><languageId>kam</languageId><trName>Kijerumani</trName></name>
       <name><languageId>kde</languageId><trName>Chidyelumani</trName></name>
-      <name><languageId>kea</languageId><trName>alimãu</trName></name>
+      <name><languageId>kea</languageId><trName>alemon</trName></name>
       <name><languageId>khq</languageId><trName>Almaŋ senni</trName></name>
       <name><languageId>ki</languageId><trName>Kĩnjeremani</trName></name>
       <name><languageId>kk</languageId><trName>неміс тілі</trName></name>
@@ -8365,7 +8365,7 @@
       <name><languageId>xog</languageId><trName>Oludaaki</trName></name>
       <name><languageId>yav</languageId><trName>ŋndiáman</trName></name>
       <name><languageId>yi</languageId><trName>דײַטש</trName></name>
-      <name><languageId>yo</languageId><trName>Èdè Ilẹ̀ Jámánì</trName></name>
+      <name><languageId>yo</languageId><trName>Èdè Jámánì</trName></name>
       <name><languageId>yue</languageId><trName>德文</trName></name>
       <name><languageId>zgh</languageId><trName>ⵜⴰⵍⵉⵎⴰⵏⵜ</trName></name>
       <name><languageId>zh</languageId><trName>德语</trName></name>
@@ -8721,7 +8721,7 @@
       <name><languageId>kea</languageId><trName>sórbiu baxu</trName></name>
       <name><languageId>kk</languageId><trName>төменгі лужица тілі</trName></name>
       <name><languageId>km</languageId><trName>សូប៊ីក្រោម</trName></name>
-      <name><languageId>kn</languageId><trName>ಲೋವರ್ ಸೋರ್ಬಿಯನ್</trName></name>
+      <name><languageId>kn</languageId><trName>ಲೋವರ್ ಸರ್ಬಿಯನ್</trName></name>
       <name><languageId>ko</languageId><trName>저지 소르비아어</trName></name>
       <name><languageId>kok</languageId><trName>लोवर सोर्बियन</trName></name>
       <name><languageId>ks</languageId><trName>بۆنِم ساربِیَن</trName></name>
@@ -8749,7 +8749,7 @@
       <name><languageId>or</languageId><trName>ନିମ୍ନ ସର୍ବିଆନ୍‌</trName></name>
       <name><languageId>pa</languageId><trName>ਲੋਅਰ ਸੋਰਬੀਅਨ</trName></name>
       <name><languageId>pl</languageId><trName>dolnołużycki</trName></name>
-      <name><languageId>ps</languageId><trName>لوړې سربي</trName></name>
+      <name><languageId>ps</languageId><trName>کښته سربيايي</trName></name>
       <name><languageId>pt</languageId><trName>baixo sorábio</trName></name>
       <name><languageId>qu</languageId><trName>Bajo Sorbio Simi</trName></name>
       <name><languageId>rm</languageId><trName>bass sorb</trName></name>
@@ -8762,7 +8762,7 @@
       <name><languageId>smn</languageId><trName>vyelisorbi</trName></name>
       <name><languageId>so</languageId><trName>Soorbiyaanka Hoose</trName></name>
       <name><languageId>sq</languageId><trName>sorbishte e poshtme</trName></name>
-      <name><languageId>sr</languageId><trName>доњи лужичкосрпски</trName></name>
+      <name><languageId>sr</languageId><trName>доњолужичкосрпски</trName></name>
       <name><languageId>sr_Latn</languageId><trName>donji lužičkosrpski</trName></name>
       <name><languageId>sv</languageId><trName>lågsorbiska</trName></name>
       <name><languageId>sw</languageId><trName>Kisobia cha Chini</trName></name>
@@ -9205,7 +9205,7 @@
       <name><languageId>ta</languageId><trName>ஜோலா-ஃபோன்யி</trName></name>
       <name><languageId>te</languageId><trName>జోలా-ఫోనయి</trName></name>
       <name><languageId>th</languageId><trName>โจลา-ฟอนยี</trName></name>
-      <name><languageId>tk</languageId><trName>ýola-Fonyi dili</trName></name>
+      <name><languageId>tk</languageId><trName>ýola-fonýi dili</trName></name>
       <name><languageId>to</languageId><trName>lea fakaiola-fonī</trName></name>
       <name><languageId>tr</languageId><trName>Jola-Fonyi</trName></name>
       <name><languageId>ug</languageId><trName>جولاچە</trName></name>
@@ -9319,7 +9319,7 @@
       <name><languageId>lt</languageId><trName>botijų</trName></name>
       <name><languageId>lv</languageId><trName>dzongke</trName></name>
       <name><languageId>mk</languageId><trName>ѕонгка</trName></name>
-      <name><languageId>ml</languageId><trName>സോങ്ക</trName></name>
+      <name><languageId>ml</languageId><trName>ദ്‌സോങ്ക</trName></name>
       <name><languageId>mn</languageId><trName>зонха</trName></name>
       <name><languageId>mr</languageId><trName>झोंगखा</trName></name>
       <name><languageId>ms</languageId><trName>Dzongkha</trName></name>
@@ -9481,7 +9481,7 @@
       <name><languageId>or</languageId><trName>ଏମ୍ଵୁ</trName></name>
       <name><languageId>pa</languageId><trName>ਇੰਬੂ</trName></name>
       <name><languageId>pl</languageId><trName>embu</trName></name>
-      <name><languageId>ps</languageId><trName>ایمو</trName></name>
+      <name><languageId>ps</languageId><trName>ايمبو</trName></name>
       <name><languageId>pt</languageId><trName>embu</trName></name>
       <name><languageId>qu</languageId><trName>Embu Simi</trName></name>
       <name><languageId>ro</languageId><trName>embu</trName></name>
@@ -10067,7 +10067,7 @@
       <name><languageId>pa</languageId><trName>ਅੰਗਰੇਜ਼ੀ</trName></name>
       <name><languageId>pl</languageId><trName>angielski</trName></name>
       <name><languageId>prg</languageId><trName>ēngliskan</trName></name>
-      <name><languageId>ps</languageId><trName>انګریزي</trName></name>
+      <name><languageId>ps</languageId><trName>انګليسي</trName></name>
       <name><languageId>pt</languageId><trName>inglês</trName></name>
       <name><languageId>qu</languageId><trName>Ingles Simi</trName></name>
       <name><languageId>rm</languageId><trName>englais</trName></name>
@@ -10990,7 +10990,7 @@
       <name><languageId>gl</languageId><trName>éuscaro</trName></name>
       <name><languageId>gsw</languageId><trName>Baskisch</trName></name>
       <name><languageId>gu</languageId><trName>બાસ્ક</trName></name>
-      <name><languageId>ha</languageId><trName>Dan/ʼYar Kabilar Bas</trName></name>
+      <name><languageId>ha</languageId><trName>Basque</trName></name>
       <name><languageId>he</languageId><trName>בסקית</trName></name>
       <name><languageId>hi</languageId><trName>बास्क</trName></name>
       <name><languageId>hr</languageId><trName>baskijski</trName></name>
@@ -11341,7 +11341,7 @@
       <name><languageId>km</languageId><trName>ភឺសៀន</trName></name>
       <name><languageId>kn</languageId><trName>ಪರ್ಶಿಯನ್</trName></name>
       <name><languageId>ko</languageId><trName>페르시아어</trName></name>
-      <name><languageId>kok</languageId><trName>पर्षियन्</trName></name>
+      <name><languageId>kok</languageId><trName>पर्सियन</trName></name>
       <name><languageId>ks</languageId><trName>فارسی</trName></name>
       <name><languageId>ksb</languageId><trName>Kiajemi</trName></name>
       <name><languageId>ksf</languageId><trName>ripɛrsán</trName></name>
@@ -11665,7 +11665,7 @@
       <name><languageId>or</languageId><trName>ଫୁଲାହ</trName></name>
       <name><languageId>pa</languageId><trName>ਫੁਲਾਹ</trName></name>
       <name><languageId>pl</languageId><trName>fulani</trName></name>
-      <name><languageId>ps</languageId><trName>فلاحہ</trName></name>
+      <name><languageId>ps</languageId><trName>فولاح</trName></name>
       <name><languageId>pt</languageId><trName>fula</trName></name>
       <name><languageId>qu</languageId><trName>Fulah Simi</trName></name>
       <name><languageId>rm</languageId><trName>fulah</trName></name>
@@ -12649,7 +12649,7 @@
       <name><languageId>ast</languageId><trName>friulianu</trName></name>
       <name><languageId>az</languageId><trName>friul</trName></name>
       <name><languageId>be</languageId><trName>фрыульская</trName></name>
-      <name><languageId>bg</languageId><trName>фриулиански</trName></name>
+      <name><languageId>bg</languageId><trName>фриулски</trName></name>
       <name><languageId>bn</languageId><trName>ফ্রিউলিয়ান</trName></name>
       <name><languageId>br</languageId><trName>frioulaneg</trName></name>
       <name><languageId>brx</languageId><trName>फ्रीउलीअन्</trName></name>
@@ -12873,7 +12873,7 @@
       <name><languageId>or</languageId><trName>ପାଶ୍ଚାତ୍ୟ ଫ୍ରିସିଆନ୍</trName></name>
       <name><languageId>pa</languageId><trName>ਪੱਛਮੀ ਫ੍ਰਿਸੀਅਨ</trName></name>
       <name><languageId>pl</languageId><trName>zachodniofryzyjski</trName></name>
-      <name><languageId>ps</languageId><trName>فريزي</trName></name>
+      <name><languageId>ps</languageId><trName>لوېديځ فريشي</trName></name>
       <name><languageId>pt</languageId><trName>frísio ocidental</trName></name>
       <name><languageId>qu</languageId><trName>Frison Simi</trName></name>
       <name><languageId>rm</languageId><trName>fris</trName></name>
@@ -12979,7 +12979,7 @@
       <name><languageId>eo</languageId><trName>irlanda</trName></name>
       <name><languageId>es</languageId><trName>irlandés</trName></name>
       <name><languageId>et</languageId><trName>iiri</trName></name>
-      <name><languageId>eu</languageId><trName>gaeliko</trName></name>
+      <name><languageId>eu</languageId><trName>irlandera</trName></name>
       <name><languageId>fa</languageId><trName>ایرلندی</trName></name>
       <name><languageId>fi</languageId><trName>iiri</trName></name>
       <name><languageId>fil</languageId><trName>Irish</trName></name>
@@ -13125,7 +13125,7 @@
       <name><languageId>ast</languageId><trName>gaélicu escocés</trName></name>
       <name><languageId>az</languageId><trName>Şotlandiya keltcəsi</trName></name>
       <name><languageId>be</languageId><trName>шатландская гэльская</trName></name>
-      <name><languageId>bg</languageId><trName>шотландски галски</trName></name>
+      <name><languageId>bg</languageId><trName>шотландски келтски</trName></name>
       <name><languageId>bn</languageId><trName>স্কটস-গ্যেলিক</trName></name>
       <name><languageId>br</languageId><trName>skoseg</trName></name>
       <name><languageId>brx</languageId><trName>स्कॉट्स् गैलिक्</trName></name>
@@ -13900,7 +13900,7 @@
       <name><languageId>gu</languageId><trName>સ્વિસ જર્મન</trName></name>
       <name><languageId>ha</languageId><trName>Jamusanci Swiss</trName></name>
       <name><languageId>haw</languageId><trName>Kuikilani Kelemānia</trName></name>
-      <name><languageId>he</languageId><trName>גרמנית שוויצרית</trName></name>
+      <name><languageId>he</languageId><trName>גרמנית (בשוויץ)</trName></name>
       <name><languageId>hi</languageId><trName>स्विस जर्मन</trName></name>
       <name><languageId>hr</languageId><trName>švicarski njemački</trName></name>
       <name><languageId>hsb</languageId><trName>šwicarska němčina</trName></name>
@@ -13914,7 +13914,7 @@
       <name><languageId>jv</languageId><trName>Jerman Swiss</trName></name>
       <name><languageId>ka</languageId><trName>შვეიცარიული გერმანული</trName></name>
       <name><languageId>kab</languageId><trName>Talmanit n Swiss</trName></name>
-      <name><languageId>kea</languageId><trName>alimãu suísu</trName></name>
+      <name><languageId>kea</languageId><trName>alemon suísu</trName></name>
       <name><languageId>kk</languageId><trName>швейцариялық неміс тілі</trName></name>
       <name><languageId>km</languageId><trName>អាល្លឺម៉ង (ស្វីស)</trName></name>
       <name><languageId>kn</languageId><trName>ಸ್ವಿಸ್ ಜರ್ಮನ್</trName></name>
@@ -14977,7 +14977,7 @@
       <name><languageId>gl</languageId><trName>hebreo</trName></name>
       <name><languageId>gsw</languageId><trName>Hebräisch</trName></name>
       <name><languageId>gu</languageId><trName>હીબ્રુ</trName></name>
-      <name><languageId>ha</languageId><trName>Yahudanci</trName></name>
+      <name><languageId>ha</languageId><trName>Ibrananci</trName></name>
       <name><languageId>haw</languageId><trName>Hebera</trName></name>
       <name><languageId>he</languageId><trName>עברית</trName></name>
       <name><languageId>hi</languageId><trName>हिब्रू</trName></name>
@@ -15029,7 +15029,7 @@
       <name><languageId>os</languageId><trName>уираг</trName></name>
       <name><languageId>pa</languageId><trName>ਹਿਬਰੂ</trName></name>
       <name><languageId>pl</languageId><trName>hebrajski</trName></name>
-      <name><languageId>ps</languageId><trName>عبري</trName></name>
+      <name><languageId>ps</languageId><trName>عبراني</trName></name>
       <name><languageId>pt</languageId><trName>hebraico</trName></name>
       <name><languageId>qu</languageId><trName>Hebreo Simi</trName></name>
       <name><languageId>rm</languageId><trName>ebraic</trName></name>
@@ -15297,7 +15297,7 @@
       <name><languageId>xog</languageId><trName>Oluhindu</trName></name>
       <name><languageId>yav</languageId><trName>índí</trName></name>
       <name><languageId>yi</languageId><trName>הינדי</trName></name>
-      <name><languageId>yo</languageId><trName>Èdè Hindi</trName></name>
+      <name><languageId>yo</languageId><trName>Èdè Híńdì</trName></name>
       <name><languageId>yue</languageId><trName>北印度文</trName></name>
       <name><languageId>zgh</languageId><trName>ⵜⴰⵀⵉⵏⴷⵉⵜ</trName></name>
       <name><languageId>zh</languageId><trName>印地语</trName></name>
@@ -15758,7 +15758,7 @@
       <name><languageId>os</languageId><trName>хорватаг</trName></name>
       <name><languageId>pa</languageId><trName>ਕ੍ਰੋਏਸ਼ਿਆਈ</trName></name>
       <name><languageId>pl</languageId><trName>chorwacki</trName></name>
-      <name><languageId>ps</languageId><trName>کروواسي</trName></name>
+      <name><languageId>ps</languageId><trName>کروايشيايي</trName></name>
       <name><languageId>pt</languageId><trName>croata</trName></name>
       <name><languageId>qu</languageId><trName>Croata Simi</trName></name>
       <name><languageId>rm</languageId><trName>croat</trName></name>
@@ -15872,7 +15872,7 @@
       <name><languageId>gsw</languageId><trName>Obersorbisch</trName></name>
       <name><languageId>gu</languageId><trName>અપર સોર્બિયન</trName></name>
       <name><languageId>ha</languageId><trName>Sorbianci ta Sama</trName></name>
-      <name><languageId>he</languageId><trName>סורבית גבוהה</trName></name>
+      <name><languageId>he</languageId><trName>סורבית עילית</trName></name>
       <name><languageId>hi</languageId><trName>ऊपरी सॉर्बियन</trName></name>
       <name><languageId>hr</languageId><trName>gornjolužički</trName></name>
       <name><languageId>hsb</languageId><trName>hornjoserbšćina</trName></name>
@@ -15917,7 +15917,7 @@
       <name><languageId>or</languageId><trName>ଉପର ସର୍ବିଆନ୍</trName></name>
       <name><languageId>pa</languageId><trName>ਅੱਪਰ ਸੋਰਬੀਅਨ</trName></name>
       <name><languageId>pl</languageId><trName>górnołużycki</trName></name>
-      <name><languageId>ps</languageId><trName>پورته صربي</trName></name>
+      <name><languageId>ps</languageId><trName>پورته سربيايي</trName></name>
       <name><languageId>pt</languageId><trName>alto sorábio</trName></name>
       <name><languageId>qu</languageId><trName>Alto Sorbio Simi</trName></name>
       <name><languageId>rm</languageId><trName>aut sorb</trName></name>
@@ -15930,7 +15930,7 @@
       <name><languageId>smn</languageId><trName>pajesorbi</trName></name>
       <name><languageId>so</languageId><trName>Sorobiyaanka Sare</trName></name>
       <name><languageId>sq</languageId><trName>sorbishte e sipërme</trName></name>
-      <name><languageId>sr</languageId><trName>горњи лужичкосрпски</trName></name>
+      <name><languageId>sr</languageId><trName>горњолужичкосрпски</trName></name>
       <name><languageId>sr_Latn</languageId><trName>gornji lužičkosrpski</trName></name>
       <name><languageId>sv</languageId><trName>högsorbiska</trName></name>
       <name><languageId>sw</languageId><trName>Kisobia cha Ukanda wa Juu</trName></name>
@@ -16072,7 +16072,7 @@
       <name><languageId>or</languageId><trName>ହୈତାୟିନ୍</trName></name>
       <name><languageId>pa</languageId><trName>ਹੈਤੀਆਈ</trName></name>
       <name><languageId>pl</languageId><trName>kreolski haitański</trName></name>
-      <name><languageId>ps</languageId><trName>هيٽي کرولي</trName></name>
+      <name><languageId>ps</languageId><trName>هيټي کريول</trName></name>
       <name><languageId>pt</languageId><trName>haitiano</trName></name>
       <name><languageId>qu</languageId><trName>Haitiano Criollo Simi</trName></name>
       <name><languageId>rm</languageId><trName>haitian</trName></name>
@@ -16164,7 +16164,7 @@
       <name><languageId>ce</languageId><trName>венгрийн</trName></name>
       <name><languageId>cgg</languageId><trName>Oruhangare</trName></name>
       <name><languageId>chr</languageId><trName>ᎲᏂᎦᎵᎠᏂ</trName></name>
-      <name><languageId>ckb</languageId><trName>هەنگاری (مەجاری)</trName></name>
+      <name><languageId>ckb</languageId><trName>هەنگاری</trName></name>
       <name><languageId>cs</languageId><trName>maďarština</trName></name>
       <name><languageId>cy</languageId><trName>Hwngareg</trName></name>
       <name><languageId>da</languageId><trName>ungarsk</trName></name>
@@ -16459,7 +16459,7 @@
       <name><languageId>os</languageId><trName>сомихаг</trName></name>
       <name><languageId>pa</languageId><trName>ਅਰਮੀਨੀਆਈ</trName></name>
       <name><languageId>pl</languageId><trName>ormiański</trName></name>
-      <name><languageId>ps</languageId><trName>ارمني</trName></name>
+      <name><languageId>ps</languageId><trName>آرمينيايي</trName></name>
       <name><languageId>pt</languageId><trName>armênio</trName></name>
       <name><languageId>qu</languageId><trName>Armenio Simi</trName></name>
       <name><languageId>rm</languageId><trName>armen</trName></name>
@@ -16786,7 +16786,7 @@
       <name><languageId>tk</languageId><trName>interlingwa dili</trName></name>
       <name><languageId>tn</languageId><trName>Interlingua</trName></name>
       <name><languageId>to</languageId><trName>lea fakavahaʻalea</trName></name>
-      <name><languageId>tr</languageId><trName>Interlingua</trName></name>
+      <name><languageId>tr</languageId><trName>İnterlingua</trName></name>
       <name><languageId>ug</languageId><trName>ئارىلىق تىل</trName></name>
       <name><languageId>uk</languageId><trName>інтерлінгва</trName></name>
       <name><languageId>ur</languageId><trName>بین لسانیات</trName></name>
@@ -17015,7 +17015,7 @@
       <name><languageId>xog</languageId><trName>Oluyindonezya</trName></name>
       <name><languageId>yav</languageId><trName>índonísiɛ</trName></name>
       <name><languageId>yi</languageId><trName>אינדאנעזיש</trName></name>
-      <name><languageId>yo</languageId><trName>Èdè Indonasia</trName></name>
+      <name><languageId>yo</languageId><trName>Èdè Indonéṣíà</trName></name>
       <name><languageId>yue</languageId><trName>印尼文</trName></name>
       <name><languageId>zgh</languageId><trName>ⵜⴰⵏⴷⵓⵏⵉⵙⵉⵜ</trName></name>
       <name><languageId>zh</languageId><trName>印度尼西亚语</trName></name>
@@ -17352,7 +17352,7 @@
       <name><languageId>wo</languageId><trName>Igbo</trName></name>
       <name><languageId>xog</languageId><trName>Oluyibo</trName></name>
       <name><languageId>yav</languageId><trName>íbo</trName></name>
-      <name><languageId>yo</languageId><trName>Èdè Ibo</trName></name>
+      <name><languageId>yo</languageId><trName>Èdè Yíbò</trName></name>
       <name><languageId>yue</languageId><trName>伊布文</trName></name>
       <name><languageId>zgh</languageId><trName>ⵜⵉⴳⴱⵓⵜ</trName></name>
       <name><languageId>zh</languageId><trName>伊博语</trName></name>
@@ -17393,7 +17393,7 @@
       <name><languageId>ast</languageId><trName>yi de Sichuán</trName></name>
       <name><languageId>az</languageId><trName>siçuan yi</trName></name>
       <name><languageId>be</languageId><trName>сычуаньская йі</trName></name>
-      <name><languageId>bg</languageId><trName>съчуански и</trName></name>
+      <name><languageId>bg</languageId><trName>съчуански йи</trName></name>
       <name><languageId>bn</languageId><trName>সিচুয়ান য়ি</trName></name>
       <name><languageId>br</languageId><trName>yieg Sichuan</trName></name>
       <name><languageId>brx</languageId><trName>सीचुआन् यी</trName></name>
@@ -17411,7 +17411,7 @@
       <name><languageId>el</languageId><trName>Σίτσουαν Γι</trName></name>
       <name><languageId>en</languageId><trName>Sichuan Yi</trName></name>
       <name><languageId>es</languageId><trName>yi de Sichuán</trName></name>
-      <name><languageId>et</languageId><trName>Sichuani jii</trName></name>
+      <name><languageId>et</languageId><trName>nuosu</trName></name>
       <name><languageId>eu</languageId><trName>Sichuango yiera</trName></name>
       <name><languageId>fa</languageId><trName>یی سیچوان</trName></name>
       <name><languageId>fi</languageId><trName>sichuanin-yi</trName></name>
@@ -17487,7 +17487,7 @@
       <name><languageId>sw</languageId><trName>Kiyi cha Sichuan</trName></name>
       <name><languageId>ta</languageId><trName>சிசுவான் ஈ</trName></name>
       <name><languageId>te</languageId><trName>శిషువన్ ఈ</trName></name>
-      <name><languageId>th</languageId><trName>เสฉวนยิ</trName></name>
+      <name><languageId>th</languageId><trName>เสฉวนยี่</trName></name>
       <name><languageId>tk</languageId><trName>syçuan-i dili</trName></name>
       <name><languageId>to</languageId><trName>lea fakasisiuani-ī</trName></name>
       <name><languageId>tr</languageId><trName>Sichuan Yi</trName></name>
@@ -18282,7 +18282,7 @@
       <name><languageId>xog</languageId><trName>Oluyitale</trName></name>
       <name><languageId>yav</languageId><trName>itáliɛ</trName></name>
       <name><languageId>yi</languageId><trName>איטאַליעניש</trName></name>
-      <name><languageId>yo</languageId><trName>Èdè ilẹ̀ Ítálì</trName></name>
+      <name><languageId>yo</languageId><trName>Èdè Ítálì</trName></name>
       <name><languageId>yue</languageId><trName>義大利文</trName></name>
       <name><languageId>zgh</languageId><trName>ⵜⴰⵟⴰⵍⵢⴰⵏⵜ</trName></name>
       <name><languageId>zh</languageId><trName>意大利语</trName></name>
@@ -18712,7 +18712,7 @@
       <name><languageId>xog</languageId><trName>Olujapani</trName></name>
       <name><languageId>yav</languageId><trName>ndiáman</trName></name>
       <name><languageId>yi</languageId><trName>יאַפּאַניש</trName></name>
-      <name><languageId>yo</languageId><trName>Èdè ilẹ̀ Japan</trName></name>
+      <name><languageId>yo</languageId><trName>Èdè Jàpáànù</trName></name>
       <name><languageId>yue</languageId><trName>日文</trName></name>
       <name><languageId>zgh</languageId><trName>ⵜⴰⵊⴰⴱⴱⵓⵏⵉⵜ</trName></name>
       <name><languageId>zh</languageId><trName>日语</trName></name>
@@ -18783,7 +18783,7 @@
       <name><languageId>fo</languageId><trName>ngomba</trName></name>
       <name><languageId>fr</languageId><trName>ngomba</trName></name>
       <name><languageId>fy</languageId><trName>Ngomba</trName></name>
-      <name><languageId>ga</languageId><trName>jgo</trName></name>
+      <name><languageId>ga</languageId><trName>Ngomba</trName></name>
       <name><languageId>gd</languageId><trName>Ngomba</trName></name>
       <name><languageId>gl</languageId><trName>ngomba</trName></name>
       <name><languageId>gu</languageId><trName>નગોમ્બા</trName></name>
@@ -18831,7 +18831,7 @@
       <name><languageId>or</languageId><trName>ନାଗୋମ୍ଵା</trName></name>
       <name><languageId>pa</languageId><trName>ਨਗੋਂਬਾ</trName></name>
       <name><languageId>pl</languageId><trName>ngombe</trName></name>
-      <name><languageId>ps</languageId><trName>نګبا</trName></name>
+      <name><languageId>ps</languageId><trName>نګومبا</trName></name>
       <name><languageId>pt</languageId><trName>nguemba</trName></name>
       <name><languageId>qu</languageId><trName>Ngomba Simi</trName></name>
       <name><languageId>ro</languageId><trName>ngomba</trName></name>
@@ -18914,14 +18914,14 @@
       <name><languageId>en</languageId><trName>Machame</trName></name>
       <name><languageId>es</languageId><trName>machame</trName></name>
       <name><languageId>et</languageId><trName>matšame</trName></name>
-      <name><languageId>eu</languageId><trName>machamera</trName></name>
+      <name><languageId>eu</languageId><trName>machame</trName></name>
       <name><languageId>fa</languageId><trName>ماچامه‌ای</trName></name>
       <name><languageId>fi</languageId><trName>machame</trName></name>
       <name><languageId>fil</languageId><trName>Machame</trName></name>
       <name><languageId>fo</languageId><trName>machame</trName></name>
       <name><languageId>fr</languageId><trName>matchamé</trName></name>
       <name><languageId>fy</languageId><trName>Machame</trName></name>
-      <name><languageId>ga</languageId><trName>jmc</trName></name>
+      <name><languageId>ga</languageId><trName>Machame</trName></name>
       <name><languageId>gd</languageId><trName>Machame</trName></name>
       <name><languageId>gl</languageId><trName>machame</trName></name>
       <name><languageId>gu</languageId><trName>મકામે</trName></name>
@@ -19194,7 +19194,7 @@
       <name><languageId>ti</languageId><trName>ጃቫንኛ</trName></name>
       <name><languageId>tk</languageId><trName>ýawa dili</trName></name>
       <name><languageId>to</languageId><trName>lea fakasava</trName></name>
-      <name><languageId>tr</languageId><trName>Cava Dili</trName></name>
+      <name><languageId>tr</languageId><trName>Cava dili</trName></name>
       <name><languageId>twq</languageId><trName>Javanee senni</trName></name>
       <name><languageId>tzm</languageId><trName>Tajavanit</trName></name>
       <name><languageId>ug</languageId><trName>ياۋاچە</trName></name>
@@ -19548,7 +19548,7 @@
       <name><languageId>fo</languageId><trName>kabyle</trName></name>
       <name><languageId>fr</languageId><trName>kabyle</trName></name>
       <name><languageId>fy</languageId><trName>Kabyle</trName></name>
-      <name><languageId>ga</languageId><trName>kab</trName></name>
+      <name><languageId>ga</languageId><trName>Caibílis</trName></name>
       <name><languageId>gd</languageId><trName>Kabyle</trName></name>
       <name><languageId>gl</languageId><trName>cabila</trName></name>
       <name><languageId>gsw</languageId><trName>Kabylisch</trName></name>
@@ -19694,7 +19694,7 @@
       <name><languageId>fo</languageId><trName>kamba</trName></name>
       <name><languageId>fr</languageId><trName>kamba</trName></name>
       <name><languageId>fy</languageId><trName>Kamba</trName></name>
-      <name><languageId>ga</languageId><trName>kam</trName></name>
+      <name><languageId>ga</languageId><trName>Cambais</trName></name>
       <name><languageId>gd</languageId><trName>Kamba</trName></name>
       <name><languageId>gl</languageId><trName>kamba</trName></name>
       <name><languageId>gsw</languageId><trName>Kamba</trName></name>
@@ -19829,14 +19829,14 @@
       <name><languageId>en</languageId><trName>Makonde</trName></name>
       <name><languageId>es</languageId><trName>makonde</trName></name>
       <name><languageId>et</languageId><trName>makonde</trName></name>
-      <name><languageId>eu</languageId><trName>makondera</trName></name>
+      <name><languageId>eu</languageId><trName>makondeera</trName></name>
       <name><languageId>fa</languageId><trName>ماکونده</trName></name>
       <name><languageId>fi</languageId><trName>makonde</trName></name>
       <name><languageId>fil</languageId><trName>Makonde</trName></name>
       <name><languageId>fo</languageId><trName>makonde</trName></name>
       <name><languageId>fr</languageId><trName>makondé</trName></name>
       <name><languageId>fy</languageId><trName>Makonde</trName></name>
-      <name><languageId>ga</languageId><trName>kde</trName></name>
+      <name><languageId>ga</languageId><trName>Makonde</trName></name>
       <name><languageId>gd</languageId><trName>Makonde</trName></name>
       <name><languageId>gl</languageId><trName>makonde</trName></name>
       <name><languageId>gu</languageId><trName>મકોન્ડે</trName></name>
@@ -19884,7 +19884,7 @@
       <name><languageId>or</languageId><trName>ମାକୋଣ୍ଡେ</trName></name>
       <name><languageId>pa</languageId><trName>ਮਕੋਂਡ</trName></name>
       <name><languageId>pl</languageId><trName>makonde</trName></name>
-      <name><languageId>ps</languageId><trName>ماکډون</trName></name>
+      <name><languageId>ps</languageId><trName>ميکونډي</trName></name>
       <name><languageId>pt</languageId><trName>maconde</trName></name>
       <name><languageId>qu</languageId><trName>Makonde Simi</trName></name>
       <name><languageId>ro</languageId><trName>makonde</trName></name>
@@ -20262,14 +20262,14 @@
       <name><languageId>en</languageId><trName>Koyra Chiini</trName></name>
       <name><languageId>es</languageId><trName>koyra chiini</trName></name>
       <name><languageId>et</languageId><trName>koyra chiini</trName></name>
-      <name><languageId>eu</languageId><trName>koyra chiiniera</trName></name>
+      <name><languageId>eu</languageId><trName>koyra chiini</trName></name>
       <name><languageId>fa</languageId><trName>کوجراچینی</trName></name>
       <name><languageId>fi</languageId><trName>koyra chiini</trName></name>
       <name><languageId>fil</languageId><trName>Koyra Chiini</trName></name>
       <name><languageId>fo</languageId><trName>koyra chiini</trName></name>
       <name><languageId>fr</languageId><trName>koyra chiini</trName></name>
       <name><languageId>fy</languageId><trName>Koyra Chiini</trName></name>
-      <name><languageId>ga</languageId><trName>khq</trName></name>
+      <name><languageId>ga</languageId><trName>Koyra Chiini</trName></name>
       <name><languageId>gd</languageId><trName>Koyra Chiini</trName></name>
       <name><languageId>gl</languageId><trName>koyra chiini</trName></name>
       <name><languageId>gu</languageId><trName>કોયરા ચિનિ</trName></name>
@@ -20331,7 +20331,7 @@
       <name><languageId>sq</languageId><trName>kojraçinisht</trName></name>
       <name><languageId>sr</languageId><trName>којра чиини</trName></name>
       <name><languageId>sr_Latn</languageId><trName>kojra čiini</trName></name>
-      <name><languageId>sv</languageId><trName>Timbuktu-songhoy</trName></name>
+      <name><languageId>sv</languageId><trName>Timbuktu-songhai</trName></name>
       <name><languageId>sw</languageId><trName>Koyra Chiini</trName></name>
       <name><languageId>ta</languageId><trName>கொய்ரா சீனீ</trName></name>
       <name><languageId>te</languageId><trName>కొయరా చీన్నీ</trName></name>
@@ -20700,7 +20700,7 @@
       <name><languageId>fy</languageId><trName>Kazachs</trName></name>
       <name><languageId>ga</languageId><trName>Casaicis</trName></name>
       <name><languageId>gd</languageId><trName>Casachais</trName></name>
-      <name><languageId>gl</languageId><trName>casaco</trName></name>
+      <name><languageId>gl</languageId><trName>kazako</trName></name>
       <name><languageId>gsw</languageId><trName>Kasachisch</trName></name>
       <name><languageId>gu</languageId><trName>કઝાખ</trName></name>
       <name><languageId>ha</languageId><trName>Kazakh</trName></name>
@@ -20845,14 +20845,14 @@
       <name><languageId>en</languageId><trName>Kako</trName></name>
       <name><languageId>es</languageId><trName>kako</trName></name>
       <name><languageId>et</languageId><trName>kako</trName></name>
-      <name><languageId>eu</languageId><trName>kakoa</trName></name>
+      <name><languageId>eu</languageId><trName>kako</trName></name>
       <name><languageId>fa</languageId><trName>کاکایی</trName></name>
       <name><languageId>fi</languageId><trName>kako</trName></name>
       <name><languageId>fil</languageId><trName>Kako</trName></name>
       <name><languageId>fo</languageId><trName>kako</trName></name>
       <name><languageId>fr</languageId><trName>kako</trName></name>
       <name><languageId>fy</languageId><trName>Kako</trName></name>
-      <name><languageId>ga</languageId><trName>kkj</trName></name>
+      <name><languageId>ga</languageId><trName>Kako</trName></name>
       <name><languageId>gd</languageId><trName>Kako</trName></name>
       <name><languageId>gl</languageId><trName>kako</trName></name>
       <name><languageId>gu</languageId><trName>કાકો</trName></name>
@@ -21142,7 +21142,7 @@
       <name><languageId>fo</languageId><trName>kalenjin</trName></name>
       <name><languageId>fr</languageId><trName>kalendjin</trName></name>
       <name><languageId>fy</languageId><trName>Kalenjin</trName></name>
-      <name><languageId>ga</languageId><trName>kln</trName></name>
+      <name><languageId>ga</languageId><trName>Kalenjin</trName></name>
       <name><languageId>gd</languageId><trName>Kalenjin</trName></name>
       <name><languageId>gl</languageId><trName>kalenjin</trName></name>
       <name><languageId>gu</languageId><trName>કલેજિન</trName></name>
@@ -21511,7 +21511,7 @@
       <name><languageId>gl</languageId><trName>kannará</trName></name>
       <name><languageId>gsw</languageId><trName>Kannada</trName></name>
       <name><languageId>gu</languageId><trName>કન્નડ</trName></name>
-      <name><languageId>ha</languageId><trName>Dan/ʼYar Kabilar Kannada</trName></name>
+      <name><languageId>ha</languageId><trName>Kannada</trName></name>
       <name><languageId>he</languageId><trName>קנאדה</trName></name>
       <name><languageId>hi</languageId><trName>कन्नड़</trName></name>
       <name><languageId>hr</languageId><trName>karnatački</trName></name>
@@ -21559,7 +21559,7 @@
       <name><languageId>or</languageId><trName>କନ୍ନଡ</trName></name>
       <name><languageId>pa</languageId><trName>ਕੰਨੜ</trName></name>
       <name><languageId>pl</languageId><trName>kannada</trName></name>
-      <name><languageId>ps</languageId><trName>کنأډه</trName></name>
+      <name><languageId>ps</languageId><trName>کناډا</trName></name>
       <name><languageId>pt</languageId><trName>canarim</trName></name>
       <name><languageId>qu</languageId><trName>Kannada Simi</trName></name>
       <name><languageId>rm</languageId><trName>kannada</trName></name>
@@ -21829,7 +21829,7 @@
       <name><languageId>xog</languageId><trName>Olukoreya</trName></name>
       <name><languageId>yav</languageId><trName>kolíe</trName></name>
       <name><languageId>yi</languageId><trName>קארעאיש</trName></name>
-      <name><languageId>yo</languageId><trName>Èdè Koria</trName></name>
+      <name><languageId>yo</languageId><trName>Èdè Kòríà</trName></name>
       <name><languageId>yue</languageId><trName>韓文</trName></name>
       <name><languageId>zgh</languageId><trName>ⵜⴰⴽⵓⵔⵉⵜ</trName></name>
       <name><languageId>zh</languageId><trName>韩语</trName></name>
@@ -21951,7 +21951,7 @@
       <name><languageId>or</languageId><trName>କୋଙ୍କଣି</trName></name>
       <name><languageId>pa</languageId><trName>ਕੋਂਕਣੀ</trName></name>
       <name><languageId>pl</languageId><trName>konkani</trName></name>
-      <name><languageId>ps</languageId><trName>کنکني</trName></name>
+      <name><languageId>ps</languageId><trName>کونکاني</trName></name>
       <name><languageId>pt</languageId><trName>concani</trName></name>
       <name><languageId>qu</languageId><trName>Konkani Simi</trName></name>
       <name><languageId>rm</languageId><trName>konkani</trName></name>
@@ -22464,7 +22464,7 @@
       <name><languageId>or</languageId><trName>ଶାମବାଲା</trName></name>
       <name><languageId>pa</languageId><trName>ਸ਼ੰਬਾਲਾ</trName></name>
       <name><languageId>pl</languageId><trName>sambala</trName></name>
-      <name><languageId>ps</languageId><trName>شمبلا</trName></name>
+      <name><languageId>ps</languageId><trName>شمبالا</trName></name>
       <name><languageId>pt</languageId><trName>shambala</trName></name>
       <name><languageId>qu</languageId><trName>Shambala Simi</trName></name>
       <name><languageId>ro</languageId><trName>shambala</trName></name>
@@ -22485,7 +22485,7 @@
       <name><languageId>th</languageId><trName>ชัมบาลา</trName></name>
       <name><languageId>tk</languageId><trName>şambala dili</trName></name>
       <name><languageId>to</languageId><trName>lea fakasiamipala</trName></name>
-      <name><languageId>tr</languageId><trName>Shambala</trName></name>
+      <name><languageId>tr</languageId><trName>Şambala</trName></name>
       <name><languageId>ug</languageId><trName>شامبالاچە</trName></name>
       <name><languageId>uk</languageId><trName>шамбала</trName></name>
       <name><languageId>ur</languageId><trName>شامبالا</trName></name>
@@ -22737,7 +22737,7 @@
       <name><languageId>or</languageId><trName>କୋଲୋବନିୟ</trName></name>
       <name><languageId>pa</languageId><trName>ਕਲੋਗਨੀਅਨ</trName></name>
       <name><languageId>pl</languageId><trName>gwara kolońska</trName></name>
-      <name><languageId>ps</languageId><trName>کولوگنيسي</trName></name>
+      <name><languageId>ps</languageId><trName>کولوګنيايي</trName></name>
       <name><languageId>pt</languageId><trName>kölsch</trName></name>
       <name><languageId>qu</languageId><trName>Kölsch Simi</trName></name>
       <name><languageId>ro</languageId><trName>kölsch</trName></name>
@@ -23321,7 +23321,7 @@
       <name><languageId>or</languageId><trName>କୋର୍ନିସ୍</trName></name>
       <name><languageId>pa</languageId><trName>ਕੋਰਨਿਸ਼</trName></name>
       <name><languageId>pl</languageId><trName>kornijski</trName></name>
-      <name><languageId>ps</languageId><trName>کرونيشي</trName></name>
+      <name><languageId>ps</languageId><trName>کورنيشي</trName></name>
       <name><languageId>pt</languageId><trName>córnico</trName></name>
       <name><languageId>qu</languageId><trName>Córnico Simi</trName></name>
       <name><languageId>rm</languageId><trName>cornic</trName></name>
@@ -23504,7 +23504,7 @@
       <name><languageId>or</languageId><trName>କୀରଗୀଜ୍</trName></name>
       <name><languageId>pa</languageId><trName>ਕਿਰਗੀਜ਼</trName></name>
       <name><languageId>pl</languageId><trName>kirgiski</trName></name>
-      <name><languageId>ps</languageId><trName>کرګيز</trName></name>
+      <name><languageId>ps</languageId><trName>کرغيزي</trName></name>
       <name><languageId>pt</languageId><trName>quirguiz</trName></name>
       <name><languageId>qu</languageId><trName>Kirghiz Simi</trName></name>
       <name><languageId>rm</languageId><trName>kirghis</trName></name>
@@ -23522,7 +23522,7 @@
       <name><languageId>sr</languageId><trName>киргиски</trName></name>
       <name><languageId>sr_Latn</languageId><trName>kirgiski</trName></name>
       <name><languageId>st</languageId><trName>Kyrgyz</trName></name>
-      <name><languageId>sv</languageId><trName>kirgisiska</trName></name>
+      <name><languageId>sv</languageId><trName>kirgiziska</trName></name>
       <name><languageId>sw</languageId><trName>Kikyrgyz</trName></name>
       <name><languageId>ta</languageId><trName>கிர்கிஸ்</trName></name>
       <name><languageId>te</languageId><trName>కిర్గిజ్</trName></name>
@@ -23780,7 +23780,7 @@
       <name><languageId>fo</languageId><trName>langi</trName></name>
       <name><languageId>fr</languageId><trName>langi</trName></name>
       <name><languageId>fy</languageId><trName>Langi</trName></name>
-      <name><languageId>ga</languageId><trName>lag</trName></name>
+      <name><languageId>ga</languageId><trName>Langi</trName></name>
       <name><languageId>gd</languageId><trName>Langi</trName></name>
       <name><languageId>gl</languageId><trName>langi</trName></name>
       <name><languageId>gu</languageId><trName>લંગી</trName></name>
@@ -24671,7 +24671,7 @@
       <name><languageId>fo</languageId><trName>lakota</trName></name>
       <name><languageId>fr</languageId><trName>lakota</trName></name>
       <name><languageId>fy</languageId><trName>Lakota</trName></name>
-      <name><languageId>ga</languageId><trName>lkt</trName></name>
+      <name><languageId>ga</languageId><trName>Lakota</trName></name>
       <name><languageId>gd</languageId><trName>Lakhóta</trName></name>
       <name><languageId>gl</languageId><trName>lakota</trName></name>
       <name><languageId>gu</languageId><trName>લાકોટા</trName></name>
@@ -24720,7 +24720,7 @@
       <name><languageId>or</languageId><trName>ଲାକୋଟା</trName></name>
       <name><languageId>pa</languageId><trName>ਲਕੋਟਾ</trName></name>
       <name><languageId>pl</languageId><trName>lakota</trName></name>
-      <name><languageId>ps</languageId><trName>لکټو</trName></name>
+      <name><languageId>ps</languageId><trName>لکوټا</trName></name>
       <name><languageId>pt</languageId><trName>lacota</trName></name>
       <name><languageId>qu</languageId><trName>Lakota Simi</trName></name>
       <name><languageId>ro</languageId><trName>lakota</trName></name>
@@ -24866,7 +24866,7 @@
       <name><languageId>or</languageId><trName>ଲିଙ୍ଗାଲା</trName></name>
       <name><languageId>pa</languageId><trName>ਲਿੰਗਾਲਾ</trName></name>
       <name><languageId>pl</languageId><trName>lingala</trName></name>
-      <name><languageId>ps</languageId><trName>لنگلا</trName></name>
+      <name><languageId>ps</languageId><trName>لنګالا</trName></name>
       <name><languageId>pt</languageId><trName>lingala</trName></name>
       <name><languageId>qu</languageId><trName>Lingala Simi</trName></name>
       <name><languageId>rm</languageId><trName>lingala</trName></name>
@@ -25120,7 +25120,7 @@
       <name><languageId>fil</languageId><trName>Hilagang Luri</trName></name>
       <name><languageId>fo</languageId><trName>norður luri</trName></name>
       <name><languageId>fr</languageId><trName>lori du Nord</trName></name>
-      <name><languageId>ga</languageId><trName>lrc</trName></name>
+      <name><languageId>ga</languageId><trName>Luri Thuaidh</trName></name>
       <name><languageId>gd</languageId><trName>Luri Thuathach</trName></name>
       <name><languageId>gl</languageId><trName>luri setentrional</trName></name>
       <name><languageId>gu</languageId><trName>ઉત્તરી લુરી</trName></name>
@@ -25283,7 +25283,7 @@
       <name><languageId>jv</languageId><trName>Lithuania</trName></name>
       <name><languageId>ka</languageId><trName>ლიეტუვური</trName></name>
       <name><languageId>kab</languageId><trName>Talitwanit</trName></name>
-      <name><languageId>kea</languageId><trName>lituanes</trName></name>
+      <name><languageId>kea</languageId><trName>lituanu</trName></name>
       <name><languageId>kk</languageId><trName>литва тілі</trName></name>
       <name><languageId>kl</languageId><trName>litauenimiutut</trName></name>
       <name><languageId>km</languageId><trName>លីទុយអានី</trName></name>
@@ -25419,8 +25419,8 @@
       <name><languageId>el</languageId><trName>Λούμπα-Κατάνγκα</trName></name>
       <name><languageId>en</languageId><trName>Luba-Katanga</trName></name>
       <name><languageId>es</languageId><trName>luba-katanga</trName></name>
-      <name><languageId>et</languageId><trName>luba</trName></name>
-      <name><languageId>eu</languageId><trName>luba-katangera</trName></name>
+      <name><languageId>et</languageId><trName>Katanga luba</trName></name>
+      <name><languageId>eu</languageId><trName>Katangako lubera</trName></name>
       <name><languageId>fa</languageId><trName>لوبایی‐کاتانگا</trName></name>
       <name><languageId>fi</languageId><trName>katanganluba</trName></name>
       <name><languageId>fil</languageId><trName>Luba-Katanga</trName></name>
@@ -25499,7 +25499,7 @@
       <name><languageId>ta</languageId><trName>லுபா-கடாங்கா</trName></name>
       <name><languageId>te</languageId><trName>లూబ-కటాంగ</trName></name>
       <name><languageId>th</languageId><trName>ลูบา-กาตองกา</trName></name>
-      <name><languageId>tk</languageId><trName>luba-Katanga dili</trName></name>
+      <name><languageId>tk</languageId><trName>luba-katanga dili</trName></name>
       <name><languageId>to</languageId><trName>lea fakalupa-katanga</trName></name>
       <name><languageId>tr</languageId><trName>Luba-Katanga</trName></name>
       <name><languageId>ug</languageId><trName>لۇبا-كاتانگاچە</trName></name>
@@ -25571,7 +25571,7 @@
       <name><languageId>fo</languageId><trName>luo</trName></name>
       <name><languageId>fr</languageId><trName>luo</trName></name>
       <name><languageId>fy</languageId><trName>Luo</trName></name>
-      <name><languageId>ga</languageId><trName>luo</trName></name>
+      <name><languageId>ga</languageId><trName>Lúóis</trName></name>
       <name><languageId>gd</languageId><trName>Luo</trName></name>
       <name><languageId>gl</languageId><trName>luo</trName></name>
       <name><languageId>gsw</languageId><trName>Luo-Schpraach</trName></name>
@@ -25715,7 +25715,7 @@
       <name><languageId>fo</languageId><trName>luyia</trName></name>
       <name><languageId>fr</languageId><trName>luyia</trName></name>
       <name><languageId>fy</languageId><trName>Luyia</trName></name>
-      <name><languageId>ga</languageId><trName>luy</trName></name>
+      <name><languageId>ga</languageId><trName>Luyia</trName></name>
       <name><languageId>gd</languageId><trName>Luyia</trName></name>
       <name><languageId>gl</languageId><trName>luyia</trName></name>
       <name><languageId>gsw</languageId><trName>Olulujia</trName></name>
@@ -26357,7 +26357,7 @@
       <name><languageId>fo</languageId><trName>masai</trName></name>
       <name><languageId>fr</languageId><trName>maasaï</trName></name>
       <name><languageId>fy</languageId><trName>Masai</trName></name>
-      <name><languageId>ga</languageId><trName>mas</trName></name>
+      <name><languageId>ga</languageId><trName>Másais</trName></name>
       <name><languageId>gd</languageId><trName>Maasai</trName></name>
       <name><languageId>gl</languageId><trName>masai</trName></name>
       <name><languageId>gsw</languageId><trName>Massai-Schpraach</trName></name>
@@ -26500,7 +26500,7 @@
       <name><languageId>fo</languageId><trName>meru</trName></name>
       <name><languageId>fr</languageId><trName>meru</trName></name>
       <name><languageId>fy</languageId><trName>Meru</trName></name>
-      <name><languageId>ga</languageId><trName>mer</trName></name>
+      <name><languageId>ga</languageId><trName>Meru</trName></name>
       <name><languageId>gd</languageId><trName>Meru</trName></name>
       <name><languageId>gl</languageId><trName>meru</trName></name>
       <name><languageId>gu</languageId><trName>મેરુ</trName></name>
@@ -26636,7 +26636,7 @@
       <name><languageId>fo</languageId><trName>morisyen</trName></name>
       <name><languageId>fr</languageId><trName>créole mauricien</trName></name>
       <name><languageId>fy</languageId><trName>Morisyen</trName></name>
-      <name><languageId>ga</languageId><trName>mfe</trName></name>
+      <name><languageId>ga</languageId><trName>Morisyen</trName></name>
       <name><languageId>gd</languageId><trName>Morisyen</trName></name>
       <name><languageId>gl</languageId><trName>crioulo mauriciano</trName></name>
       <name><languageId>gu</languageId><trName>મોરીસ્યેન</trName></name>
@@ -26832,7 +26832,7 @@
       <name><languageId>nl</languageId><trName>Malagassisch</trName></name>
       <name><languageId>nn</languageId><trName>madagassisk</trName></name>
       <name><languageId>or</languageId><trName>ମାଲାଗାସୀ</trName></name>
-      <name><languageId>pa</languageId><trName>ਮੇਲੇਗਸੀ</trName></name>
+      <name><languageId>pa</languageId><trName>ਮਾਲਾਗੈਸੀ</trName></name>
       <name><languageId>pl</languageId><trName>malgaski</trName></name>
       <name><languageId>ps</languageId><trName>ملغاسي</trName></name>
       <name><languageId>pt</languageId><trName>malgaxe</trName></name>
@@ -26934,7 +26934,7 @@
       <name><languageId>fo</languageId><trName>makhuwa-meetto</trName></name>
       <name><languageId>fr</languageId><trName>makua</trName></name>
       <name><languageId>fy</languageId><trName>Makhuwa-Meetto</trName></name>
-      <name><languageId>ga</languageId><trName>mgh</trName></name>
+      <name><languageId>ga</languageId><trName>Makhuwa-Meetto</trName></name>
       <name><languageId>gd</languageId><trName>Makhuwa-Meetto</trName></name>
       <name><languageId>gl</languageId><trName>makhuwa-meetto</trName></name>
       <name><languageId>gu</languageId><trName>માખુવા-મીટ્ટુ</trName></name>
@@ -27000,7 +27000,7 @@
       <name><languageId>ta</languageId><trName>மகுவா-மீட்டோ</trName></name>
       <name><languageId>te</languageId><trName>మక్వా-మిట్టో</trName></name>
       <name><languageId>th</languageId><trName>มากัววา-มีทโท</trName></name>
-      <name><languageId>tk</languageId><trName>makua-Mitto dili</trName></name>
+      <name><languageId>tk</languageId><trName>makuwa-mito dili</trName></name>
       <name><languageId>to</languageId><trName>lea fakamakūa-meʻeto</trName></name>
       <name><languageId>tr</languageId><trName>Makhuwa-Meetto</trName></name>
       <name><languageId>ug</languageId><trName>ماكۇۋاچە</trName></name>
@@ -27064,14 +27064,14 @@
       <name><languageId>en</languageId><trName>Metaʼ</trName></name>
       <name><languageId>es</languageId><trName>meta’</trName></name>
       <name><languageId>et</languageId><trName>meta</trName></name>
-      <name><languageId>eu</languageId><trName>metera</trName></name>
+      <name><languageId>eu</languageId><trName>metaʼera</trName></name>
       <name><languageId>fa</languageId><trName>متایی</trName></name>
       <name><languageId>fi</languageId><trName>meta’</trName></name>
       <name><languageId>fil</languageId><trName>Meta’</trName></name>
       <name><languageId>fo</languageId><trName>metaʼ</trName></name>
       <name><languageId>fr</languageId><trName>metaʼ</trName></name>
       <name><languageId>fy</languageId><trName>Meta’</trName></name>
-      <name><languageId>ga</languageId><trName>mgo</trName></name>
+      <name><languageId>ga</languageId><trName>Metaʼ</trName></name>
       <name><languageId>gd</languageId><trName>Meta’</trName></name>
       <name><languageId>gl</languageId><trName>meta’</trName></name>
       <name><languageId>gu</languageId><trName>મેતા</trName></name>
@@ -27100,7 +27100,7 @@
       <name><languageId>lo</languageId><trName>ເມທາ</trName></name>
       <name><languageId>lrc</languageId><trName>مئتاٛ</trName></name>
       <name><languageId>lt</languageId><trName>meta</trName></name>
-      <name><languageId>lv</languageId><trName>mgo</trName></name>
+      <name><languageId>lv</languageId><trName>metu</trName></name>
       <name><languageId>mgo</languageId><trName>metaʼ</trName></name>
       <name><languageId>mk</languageId><trName>мета</trName></name>
       <name><languageId>ml</languageId><trName>മേത്താ</trName></name>
@@ -27958,7 +27958,7 @@
       <name><languageId>km</languageId><trName>ម៉ុងហ្គោលី</trName></name>
       <name><languageId>kn</languageId><trName>ಮಂಗೋಲಿಯನ್</trName></name>
       <name><languageId>ko</languageId><trName>몽골어</trName></name>
-      <name><languageId>kok</languageId><trName>मंगोलियन्</trName></name>
+      <name><languageId>kok</languageId><trName>मंगोलियन</trName></name>
       <name><languageId>ks</languageId><trName>مَنگولی</trName></name>
       <name><languageId>ksh</languageId><trName>Mongjohlesch</trName></name>
       <name><languageId>ku</languageId><trName>mongolî</trName></name>
@@ -28955,7 +28955,7 @@
       <name><languageId>fo</languageId><trName>mundang</trName></name>
       <name><languageId>fr</languageId><trName>moundang</trName></name>
       <name><languageId>fy</languageId><trName>Mundang</trName></name>
-      <name><languageId>ga</languageId><trName>mua</trName></name>
+      <name><languageId>ga</languageId><trName>Mundang</trName></name>
       <name><languageId>gd</languageId><trName>Mundang</trName></name>
       <name><languageId>gl</languageId><trName>mundang</trName></name>
       <name><languageId>gu</languageId><trName>મુનડાન્ગ</trName></name>
@@ -29284,7 +29284,7 @@
       <name><languageId>ast</languageId><trName>mazanderani</trName></name>
       <name><languageId>az</languageId><trName>mazandaran</trName></name>
       <name><languageId>be</languageId><trName>мазандэранская</trName></name>
-      <name><languageId>bg</languageId><trName>мазандари</trName></name>
+      <name><languageId>bg</languageId><trName>мазандерански</trName></name>
       <name><languageId>bn</languageId><trName>মাজানদেরানি</trName></name>
       <name><languageId>br</languageId><trName>mazanderaneg</trName></name>
       <name><languageId>bs</languageId><trName>mazanderanski</trName></name>
@@ -29307,7 +29307,7 @@
       <name><languageId>fil</languageId><trName>Mazanderani</trName></name>
       <name><languageId>fo</languageId><trName>mazanderani</trName></name>
       <name><languageId>fr</languageId><trName>mazandérani</trName></name>
-      <name><languageId>ga</languageId><trName>mzn</trName></name>
+      <name><languageId>ga</languageId><trName>Mazanderani</trName></name>
       <name><languageId>gd</languageId><trName>Mazanderani</trName></name>
       <name><languageId>gl</languageId><trName>mazandaraní</trName></name>
       <name><languageId>gu</languageId><trName>મઝાન્દેરાની</trName></name>
@@ -29356,7 +29356,7 @@
       <name><languageId>pt</languageId><trName>mazandarani</trName></name>
       <name><languageId>qu</languageId><trName>Mazandaraní Simi</trName></name>
       <name><languageId>ro</languageId><trName>mazanderani</trName></name>
-      <name><languageId>ru</languageId><trName>мазендеранский</trName></name>
+      <name><languageId>ru</languageId><trName>мазандеранский</trName></name>
       <name><languageId>sd</languageId><trName>مزيندراني</trName></name>
       <name><languageId>si</languageId><trName>මැසන්ඩරනි</trName></name>
       <name><languageId>sk</languageId><trName>mázandaránčina</trName></name>
@@ -29674,7 +29674,7 @@
       <name><languageId>fo</languageId><trName>nama</trName></name>
       <name><languageId>fr</languageId><trName>nama</trName></name>
       <name><languageId>fy</languageId><trName>Nama</trName></name>
-      <name><languageId>ga</languageId><trName>naq</trName></name>
+      <name><languageId>ga</languageId><trName>Nama</trName></name>
       <name><languageId>gd</languageId><trName>Nama</trName></name>
       <name><languageId>gl</languageId><trName>nama</trName></name>
       <name><languageId>gu</languageId><trName>નમા</trName></name>
@@ -30074,7 +30074,7 @@
     <iso639-2-t>nds</iso639-2-t>
     <iso639-2-b>nds</iso639-2-b>
     <names>
-      <name><languageId>af</languageId><trName>Lae Duits</trName></name>
+      <name><languageId>af</languageId><trName>Nederduits</trName></name>
       <name><languageId>am</languageId><trName>የታችኛው ጀርመን</trName></name>
       <name><languageId>ar</languageId><trName>الألمانية السفلى</trName></name>
       <name><languageId>as</languageId><trName>ল’ জাৰ্মান</trName></name>
@@ -30159,7 +30159,7 @@
       <name><languageId>qu</languageId><trName>Bajo Alemán Simi</trName></name>
       <name><languageId>rm</languageId><trName>bass tudestg</trName></name>
       <name><languageId>ro</languageId><trName>germana de jos</trName></name>
-      <name><languageId>ru</languageId><trName>нижнегерманский</trName></name>
+      <name><languageId>ru</languageId><trName>нижненемецкий</trName></name>
       <name><languageId>sd</languageId><trName>لو جرمن</trName></name>
       <name><languageId>si</languageId><trName>පහළ ජර්මන්</trName></name>
       <name><languageId>sk</languageId><trName>dolná nemčina</trName></name>
@@ -31086,7 +31086,7 @@
       <name><languageId>xog</languageId><trName>Oluholandi</trName></name>
       <name><languageId>yav</languageId><trName>nilándɛ</trName></name>
       <name><languageId>yi</languageId><trName>האלענדיש</trName></name>
-      <name><languageId>yo</languageId><trName>Èdè Duki</trName></name>
+      <name><languageId>yo</languageId><trName>Èdè Dọ́ọ̀ṣì</trName></name>
       <name><languageId>yue</languageId><trName>荷蘭文</trName></name>
       <name><languageId>zgh</languageId><trName>ⵜⴰⵀⵓⵍⴰⵏⴷⵉⵜ</trName></name>
       <name><languageId>zh</languageId><trName>荷兰语</trName></name>
@@ -31162,7 +31162,7 @@
       <name><languageId>fo</languageId><trName>kwasio</trName></name>
       <name><languageId>fr</languageId><trName>ngoumba</trName></name>
       <name><languageId>fy</languageId><trName>Ngumba</trName></name>
-      <name><languageId>ga</languageId><trName>nmg</trName></name>
+      <name><languageId>ga</languageId><trName>Kwasio</trName></name>
       <name><languageId>gd</languageId><trName>Kwasio</trName></name>
       <name><languageId>gl</languageId><trName>kwasio</trName></name>
       <name><languageId>gu</languageId><trName>ક્વાસિઓ</trName></name>
@@ -31311,7 +31311,7 @@
       <name><languageId>gl</languageId><trName>noruegués nynorsk</trName></name>
       <name><languageId>gsw</languageId><trName>Norwegisch Nynorsk</trName></name>
       <name><languageId>gu</languageId><trName>નોર્વેજિયન નાયનૉર્સ્ક</trName></name>
-      <name><languageId>ha</languageId><trName>Yaren Kasar Norway</trName></name>
+      <name><languageId>ha</languageId><trName>Norwegian Nynorsk</trName></name>
       <name><languageId>he</languageId><trName>נורווגית חדשה</trName></name>
       <name><languageId>hi</languageId><trName>नॉर्वेजियाई नॉयनॉर्स्क</trName></name>
       <name><languageId>hr</languageId><trName>norveški nynorsk</trName></name>
@@ -31452,13 +31452,13 @@
       <name><languageId>es</languageId><trName>ngiemboon</trName></name>
       <name><languageId>et</languageId><trName>ngiembooni</trName></name>
       <name><languageId>eu</languageId><trName>ngiemboonera</trName></name>
-      <name><languageId>fa</languageId><trName>انگیمبونی</trName></name>
+      <name><languageId>fa</languageId><trName>نیامبون</trName></name>
       <name><languageId>fi</languageId><trName>ngiemboon</trName></name>
       <name><languageId>fil</languageId><trName>Ngiemboon</trName></name>
       <name><languageId>fo</languageId><trName>ngiemboon</trName></name>
       <name><languageId>fr</languageId><trName>ngiemboon</trName></name>
       <name><languageId>fy</languageId><trName>Ngiemboon</trName></name>
-      <name><languageId>ga</languageId><trName>nnh</trName></name>
+      <name><languageId>ga</languageId><trName>Ngiemboon</trName></name>
       <name><languageId>gd</languageId><trName>Ngiemboon</trName></name>
       <name><languageId>gl</languageId><trName>ngiemboon</trName></name>
       <name><languageId>gu</languageId><trName>નીએમબુન</trName></name>
@@ -32156,7 +32156,7 @@
       <name><languageId>fo</languageId><trName>nuer</trName></name>
       <name><languageId>fr</languageId><trName>nuer</trName></name>
       <name><languageId>fy</languageId><trName>Nuer</trName></name>
-      <name><languageId>ga</languageId><trName>nus</trName></name>
+      <name><languageId>ga</languageId><trName>Nuer</trName></name>
       <name><languageId>gd</languageId><trName>Nuer</trName></name>
       <name><languageId>gl</languageId><trName>nuer</trName></name>
       <name><languageId>gu</languageId><trName>નુએર</trName></name>
@@ -32434,7 +32434,7 @@
       <name><languageId>fy</languageId><trName>Nyanja</trName></name>
       <name><languageId>ga</languageId><trName>Siséivis</trName></name>
       <name><languageId>gd</languageId><trName>Nyanja</trName></name>
-      <name><languageId>gl</languageId><trName>nyanja</trName></name>
+      <name><languageId>gl</languageId><trName>chewa</trName></name>
       <name><languageId>gsw</languageId><trName>Chewa-Schpraach</trName></name>
       <name><languageId>gu</languageId><trName>ન્યાન્જા</trName></name>
       <name><languageId>ha</languageId><trName>Nyanja</trName></name>
@@ -32445,7 +32445,7 @@
       <name><languageId>hy</languageId><trName>նյանջա</trName></name>
       <name><languageId>ia</languageId><trName>nyanja</trName></name>
       <name><languageId>id</languageId><trName>Nyanja</trName></name>
-      <name><languageId>is</languageId><trName>njanja; sísjeva; sjeva</trName></name>
+      <name><languageId>is</languageId><trName>nýanja</trName></name>
       <name><languageId>it</languageId><trName>nyanja</trName></name>
       <name><languageId>ja</languageId><trName>ニャンジャ語</trName></name>
       <name><languageId>jv</languageId><trName>Nyanja</trName></name>
@@ -32567,7 +32567,7 @@
       <name><languageId>el</languageId><trName>Νιανκόλε</trName></name>
       <name><languageId>en</languageId><trName>Nyankole</trName></name>
       <name><languageId>es</languageId><trName>nyankole</trName></name>
-      <name><languageId>et</languageId><trName>nkole</trName></name>
+      <name><languageId>et</languageId><trName>njankole</trName></name>
       <name><languageId>eu</languageId><trName>ankolera</trName></name>
       <name><languageId>fa</languageId><trName>نیانکوله‌ای</trName></name>
       <name><languageId>fi</languageId><trName>nyankole</trName></name>
@@ -32575,7 +32575,7 @@
       <name><languageId>fo</languageId><trName>nyankole</trName></name>
       <name><languageId>fr</languageId><trName>nyankolé</trName></name>
       <name><languageId>fy</languageId><trName>Nyankole</trName></name>
-      <name><languageId>ga</languageId><trName>nyn</trName></name>
+      <name><languageId>ga</languageId><trName>Niancóilis</trName></name>
       <name><languageId>gd</languageId><trName>Nyankole</trName></name>
       <name><languageId>gl</languageId><trName>nyankole</trName></name>
       <name><languageId>gsw</languageId><trName>Nyankole</trName></name>
@@ -33008,7 +33008,7 @@
       <name><languageId>bo</languageId><trName>ཨཽ་རི་ཡ་སྐད།</trName></name>
       <name><languageId>br</languageId><trName>oriya</trName></name>
       <name><languageId>brx</languageId><trName>उड़िया</trName></name>
-      <name><languageId>bs</languageId><trName>orijski</trName></name>
+      <name><languageId>bs</languageId><trName>odija</trName></name>
       <name><languageId>byn</languageId><trName>ኦሪያኛ</trName></name>
       <name><languageId>ca</languageId><trName>oriya</trName></name>
       <name><languageId>ccp</languageId><trName>𑄃𑄮𑄢𑄨𑄠</trName></name>
@@ -33166,7 +33166,7 @@
       <name><languageId>ast</languageId><trName>oséticu</trName></name>
       <name><languageId>az</languageId><trName>osetin</trName></name>
       <name><languageId>be</languageId><trName>асецінская</trName></name>
-      <name><languageId>bg</languageId><trName>осетски</trName></name>
+      <name><languageId>bg</languageId><trName>осетински</trName></name>
       <name><languageId>bn</languageId><trName>ওসেটিক</trName></name>
       <name><languageId>br</languageId><trName>oseteg</trName></name>
       <name><languageId>brx</languageId><trName>ओस्सेटी</trName></name>
@@ -33242,7 +33242,7 @@
       <name><languageId>os</languageId><trName>ирон</trName></name>
       <name><languageId>pa</languageId><trName>ਓਸੈਟਿਕ</trName></name>
       <name><languageId>pl</languageId><trName>osetyjski</trName></name>
-      <name><languageId>ps</languageId><trName>اوسیٹک</trName></name>
+      <name><languageId>ps</languageId><trName>اوسيټک</trName></name>
       <name><languageId>pt</languageId><trName>osseto</trName></name>
       <name><languageId>qu</languageId><trName>Osetio Simi</trName></name>
       <name><languageId>rm</languageId><trName>ossetic</trName></name>
@@ -33546,7 +33546,7 @@
       <name><languageId>el</languageId><trName>Παντζαπικά</trName></name>
       <name><languageId>en</languageId><trName>Punjabi</trName></name>
       <name><languageId>eo</languageId><trName>panĝaba</trName></name>
-      <name><languageId>es</languageId><trName>panyabí</trName></name>
+      <name><languageId>es</languageId><trName>punyabí</trName></name>
       <name><languageId>et</languageId><trName>pandžabi</trName></name>
       <name><languageId>eu</languageId><trName>punjabera</trName></name>
       <name><languageId>ewo</languageId><trName>ǹkɔ́bɔ funəhábia</trName></name>
@@ -34078,7 +34078,7 @@
       <name><languageId>xog</languageId><trName>Olupolandi</trName></name>
       <name><languageId>yav</languageId><trName>nupolonɛ́ɛ</trName></name>
       <name><languageId>yi</languageId><trName>פּויליש</trName></name>
-      <name><languageId>yo</languageId><trName>Èdè Ilẹ̀ Polandi</trName></name>
+      <name><languageId>yo</languageId><trName>Èdè Póláǹdì</trName></name>
       <name><languageId>yue</languageId><trName>波蘭文</trName></name>
       <name><languageId>zgh</languageId><trName>ⵜⴰⴱⵓⵍⵓⵏⵉⵜ</trName></name>
       <name><languageId>zh</languageId><trName>波兰语</trName></name>
@@ -34565,7 +34565,7 @@
       <name><languageId>sah</languageId><trName>Португааллыы</trName></name>
       <name><languageId>saq</languageId><trName>Kireno</trName></name>
       <name><languageId>sbp</languageId><trName>Ishileno</trName></name>
-      <name><languageId>sd</languageId><trName>پرتگالي</trName></name>
+      <name><languageId>sd</languageId><trName>پورٽگليز</trName></name>
       <name><languageId>se</languageId><trName>portugálagiella</trName></name>
       <name><languageId>seh</languageId><trName>português</trName></name>
       <name><languageId>ses</languageId><trName>Portugee senni</trName></name>
@@ -35543,7 +35543,7 @@
       <name><languageId>en</languageId><trName>Rombo</trName></name>
       <name><languageId>es</languageId><trName>rombo</trName></name>
       <name><languageId>et</languageId><trName>rombo</trName></name>
-      <name><languageId>eu</languageId><trName>romboera</trName></name>
+      <name><languageId>eu</languageId><trName>rombo</trName></name>
       <name><languageId>fa</languageId><trName>رومبویی</trName></name>
       <name><languageId>fi</languageId><trName>rombo</trName></name>
       <name><languageId>fil</languageId><trName>Rombo</trName></name>
@@ -35859,7 +35859,7 @@
       <name><languageId>xog</languageId><trName>Olulasa</trName></name>
       <name><languageId>yav</languageId><trName>nulúse</trName></name>
       <name><languageId>yi</languageId><trName>רוסיש</trName></name>
-      <name><languageId>yo</languageId><trName>Èdè Rọsià</trName></name>
+      <name><languageId>yo</languageId><trName>Èdè Rọ́ṣíà</trName></name>
       <name><languageId>yue</languageId><trName>俄文</trName></name>
       <name><languageId>zgh</languageId><trName>ⵜⴰⵔⵓⵙⵉⵜ</trName></name>
       <name><languageId>zh</languageId><trName>俄语</trName></name>
@@ -36153,7 +36153,7 @@
       <name><languageId>en</languageId><trName>Rwa</trName></name>
       <name><languageId>es</languageId><trName>rwa</trName></name>
       <name><languageId>et</languageId><trName>rvaa</trName></name>
-      <name><languageId>eu</languageId><trName>rwaera</trName></name>
+      <name><languageId>eu</languageId><trName>rwera</trName></name>
       <name><languageId>fa</languageId><trName>روایی</trName></name>
       <name><languageId>fi</languageId><trName>rwa</trName></name>
       <name><languageId>fil</languageId><trName>Rwa</trName></name>
@@ -36308,7 +36308,7 @@
       <name><languageId>gl</languageId><trName>sánscrito</trName></name>
       <name><languageId>gsw</languageId><trName>Sanschkrit</trName></name>
       <name><languageId>gu</languageId><trName>સંસ્કૃત</trName></name>
-      <name><languageId>ha</languageId><trName>sanskrit</trName></name>
+      <name><languageId>ha</languageId><trName>Sanskrit</trName></name>
       <name><languageId>he</languageId><trName>סנסקריט</trName></name>
       <name><languageId>hi</languageId><trName>संस्कृत</trName></name>
       <name><languageId>hr</languageId><trName>sanskrtski</trName></name>
@@ -36439,7 +36439,7 @@
       <name><languageId>ast</languageId><trName>sakha</trName></name>
       <name><languageId>az</languageId><trName>saxa</trName></name>
       <name><languageId>be</languageId><trName>якуцкая</trName></name>
-      <name><languageId>bg</languageId><trName>якутски</trName></name>
+      <name><languageId>bg</languageId><trName>сакха</trName></name>
       <name><languageId>bn</languageId><trName>শাখা</trName></name>
       <name><languageId>br</languageId><trName>yakouteg</trName></name>
       <name><languageId>brx</languageId><trName>यकुट्</trName></name>
@@ -36484,7 +36484,7 @@
       <name><languageId>jv</languageId><trName>Sakha</trName></name>
       <name><languageId>ka</languageId><trName>იაკუტური</trName></name>
       <name><languageId>kab</languageId><trName>Tayakut</trName></name>
-      <name><languageId>kk</languageId><trName>якут тілі</trName></name>
+      <name><languageId>kk</languageId><trName>саха тілі</trName></name>
       <name><languageId>km</languageId><trName>សាខា</trName></name>
       <name><languageId>kn</languageId><trName>ಸಖಾ</trName></name>
       <name><languageId>ko</languageId><trName>야쿠트어</trName></name>
@@ -37271,7 +37271,7 @@
       <name><languageId>af</languageId><trName>Sindhi</trName></name>
       <name><languageId>am</languageId><trName>ሲንድሂኛ</trName></name>
       <name><languageId>ar</languageId><trName>السندية</trName></name>
-      <name><languageId>as</languageId><trName>সিন্ধি</trName></name>
+      <name><languageId>as</languageId><trName>সিন্ধী</trName></name>
       <name><languageId>ast</languageId><trName>sindhi</trName></name>
       <name><languageId>az</languageId><trName>sindhi</trName></name>
       <name><languageId>be</languageId><trName>сіндхі</trName></name>
@@ -37918,14 +37918,14 @@
       <name><languageId>en</languageId><trName>Koyraboro Senni</trName></name>
       <name><languageId>es</languageId><trName>koyraboro senni</trName></name>
       <name><languageId>et</languageId><trName>koyraboro senni</trName></name>
-      <name><languageId>eu</languageId><trName>koyraboro sennia</trName></name>
+      <name><languageId>eu</languageId><trName>koyraboro senni</trName></name>
       <name><languageId>fa</languageId><trName>کویرابورا سنی</trName></name>
       <name><languageId>fi</languageId><trName>koyraboro senni</trName></name>
       <name><languageId>fil</languageId><trName>Koyraboro Senni</trName></name>
       <name><languageId>fo</languageId><trName>koyraboro senni</trName></name>
       <name><languageId>fr</languageId><trName>koyraboro senni</trName></name>
       <name><languageId>fy</languageId><trName>Koyraboro Senni</trName></name>
-      <name><languageId>ga</languageId><trName>ses</trName></name>
+      <name><languageId>ga</languageId><trName>Koyraboro Senni</trName></name>
       <name><languageId>gd</languageId><trName>Koyraboro Senni</trName></name>
       <name><languageId>gl</languageId><trName>koyraboro senni</trName></name>
       <name><languageId>gu</languageId><trName>કોયરાબોરો સેન્ની</trName></name>
@@ -37987,12 +37987,12 @@
       <name><languageId>sq</languageId><trName>senishte kojrabore</trName></name>
       <name><languageId>sr</languageId><trName>којраборо сени</trName></name>
       <name><languageId>sr_Latn</languageId><trName>kojraboro seni</trName></name>
-      <name><languageId>sv</languageId><trName>Gao-songhay</trName></name>
+      <name><languageId>sv</languageId><trName>Gao-songhai</trName></name>
       <name><languageId>sw</languageId><trName>Koyraboro Senni</trName></name>
       <name><languageId>ta</languageId><trName>கொய்ராபோரோ சென்னி</trName></name>
       <name><languageId>te</languageId><trName>కోయోరాబోరో సెన్నీ</trName></name>
       <name><languageId>th</languageId><trName>โคย์ราโบโรเซนนี</trName></name>
-      <name><languageId>tk</languageId><trName>koýraboro-Senni dili</trName></name>
+      <name><languageId>tk</languageId><trName>koýraboro-senni dili</trName></name>
       <name><languageId>to</languageId><trName>lea fakakoilapolo-seni</trName></name>
       <name><languageId>tr</languageId><trName>Koyraboro Senni</trName></name>
       <name><languageId>ug</languageId><trName>شەرقىي سوڭخايچە</trName></name>
@@ -38392,7 +38392,7 @@
       <name><languageId>en</languageId><trName>Tachelhit</trName></name>
       <name><languageId>es</languageId><trName>tashelhit</trName></name>
       <name><languageId>et</languageId><trName>šilha</trName></name>
-      <name><languageId>eu</languageId><trName>tachelhita</trName></name>
+      <name><languageId>eu</languageId><trName>tachelhit</trName></name>
       <name><languageId>fa</languageId><trName>تاچل‌هیت</trName></name>
       <name><languageId>fi</languageId><trName>tašelhit</trName></name>
       <name><languageId>fil</languageId><trName>Tachelhit</trName></name>
@@ -38467,7 +38467,7 @@
       <name><languageId>th</languageId><trName>ทาเชลีห์ท</trName></name>
       <name><languageId>tk</languageId><trName>tahelhit dili</trName></name>
       <name><languageId>to</languageId><trName>lea fakataselihiti</trName></name>
-      <name><languageId>tr</languageId><trName>Taşelhit</trName></name>
+      <name><languageId>tr</languageId><trName>Taşelit</trName></name>
       <name><languageId>ug</languageId><trName>شىلخاچە</trName></name>
       <name><languageId>uk</languageId><trName>тачеліт</trName></name>
       <name><languageId>ur</languageId><trName>تشلحيت</trName></name>
@@ -38981,7 +38981,7 @@
       <name><languageId>gl</languageId><trName>eslovaco</trName></name>
       <name><languageId>gsw</languageId><trName>Slowakisch</trName></name>
       <name><languageId>gu</languageId><trName>સ્લોવૅક</trName></name>
-      <name><languageId>ha</languageId><trName>Basulake</trName></name>
+      <name><languageId>ha</languageId><trName>Basulke</trName></name>
       <name><languageId>he</languageId><trName>סלובקית</trName></name>
       <name><languageId>hi</languageId><trName>स्लोवाक</trName></name>
       <name><languageId>hr</languageId><trName>slovački</trName></name>
@@ -39728,7 +39728,7 @@
       <name><languageId>chr</languageId><trName>ᎢᎾᎵ ᏌᎻ</trName></name>
       <name><languageId>ckb</languageId><trName>ئیناری سامی</trName></name>
       <name><languageId>cs</languageId><trName>sámština (inarijská)</trName></name>
-      <name><languageId>cy</languageId><trName>Sami Inari</trName></name>
+      <name><languageId>cy</languageId><trName>Inari Sami</trName></name>
       <name><languageId>da</languageId><trName>enaresamisk</trName></name>
       <name><languageId>de</languageId><trName>Inari-Samisch</trName></name>
       <name><languageId>dsb</languageId><trName>inari-samišćina</trName></name>
@@ -40108,7 +40108,7 @@
       <name><languageId>th</languageId><trName>โชนา</trName></name>
       <name><languageId>tk</languageId><trName>şona dili</trName></name>
       <name><languageId>to</languageId><trName>lea fakasiona</trName></name>
-      <name><languageId>tr</languageId><trName>Shona</trName></name>
+      <name><languageId>tr</languageId><trName>Şona dili</trName></name>
       <name><languageId>ug</languageId><trName>شوناچە</trName></name>
       <name><languageId>uk</languageId><trName>шона</trName></name>
       <name><languageId>ur</languageId><trName>شونا</trName></name>
@@ -40206,7 +40206,7 @@
       <name><languageId>gsw</languageId><trName>Somali</trName></name>
       <name><languageId>gu</languageId><trName>સોમાલી</trName></name>
       <name><languageId>guz</languageId><trName>Kisomali</trName></name>
-      <name><languageId>ha</languageId><trName>Somali</trName></name>
+      <name><languageId>ha</languageId><trName>Somalianci</trName></name>
       <name><languageId>he</languageId><trName>סומלית</trName></name>
       <name><languageId>hi</languageId><trName>सोमाली</trName></name>
       <name><languageId>hr</languageId><trName>somalski</trName></name>
@@ -40424,7 +40424,7 @@
       <name><languageId>gl</languageId><trName>albanés</trName></name>
       <name><languageId>gsw</languageId><trName>Albanisch</trName></name>
       <name><languageId>gu</languageId><trName>અલ્બેનિયન</trName></name>
-      <name><languageId>ha</languageId><trName>Dʼan/ʼYar Kabilar Albaniya</trName></name>
+      <name><languageId>ha</languageId><trName>Albanian</trName></name>
       <name><languageId>he</languageId><trName>אלבנית</trName></name>
       <name><languageId>hi</languageId><trName>अल्बानियाई</trName></name>
       <name><languageId>hr</languageId><trName>albanski</trName></name>
@@ -40946,7 +40946,7 @@
       <name><languageId>ast</languageId><trName>sotho del sur</trName></name>
       <name><languageId>az</languageId><trName>sesoto</trName></name>
       <name><languageId>be</languageId><trName>сесута</trName></name>
-      <name><languageId>bg</languageId><trName>сесото</trName></name>
+      <name><languageId>bg</languageId><trName>сото</trName></name>
       <name><languageId>bn</languageId><trName>দক্ষিন সোথো</trName></name>
       <name><languageId>br</languageId><trName>sotho ar Su</trName></name>
       <name><languageId>bs</languageId><trName>južni soto</trName></name>
@@ -41023,7 +41023,7 @@
       <name><languageId>or</languageId><trName>ସେସୋଥୋ</trName></name>
       <name><languageId>pa</languageId><trName>ਦੱਖਣੀ ਸੋਥੋ</trName></name>
       <name><languageId>pl</languageId><trName>sotho południowy</trName></name>
-      <name><languageId>ps</languageId><trName>سيسوتو</trName></name>
+      <name><languageId>ps</languageId><trName>سويلي سوتو</trName></name>
       <name><languageId>pt</languageId><trName>soto do sul</trName></name>
       <name><languageId>qu</languageId><trName>Soto Meridional Simi</trName></name>
       <name><languageId>rm</languageId><trName>sotho dal sid</trName></name>
@@ -41047,7 +41047,7 @@
       <name><languageId>th</languageId><trName>โซโทใต้</trName></name>
       <name><languageId>ti</languageId><trName>ሰሴቶ</trName></name>
       <name><languageId>tig</languageId><trName>ሶዞኛ</trName></name>
-      <name><languageId>tk</languageId><trName>günorta Soto dili</trName></name>
+      <name><languageId>tk</languageId><trName>günorta soto dili</trName></name>
       <name><languageId>to</languageId><trName>lea fakasoto-tonga</trName></name>
       <name><languageId>tr</languageId><trName>Güney Sotho dili</trName></name>
       <name><languageId>ug</languageId><trName>سوتوچە</trName></name>
@@ -41132,7 +41132,7 @@
       <name><languageId>gl</languageId><trName>sundanés</trName></name>
       <name><languageId>gsw</languageId><trName>Sundanesisch</trName></name>
       <name><languageId>gu</languageId><trName>સંડેનીઝ</trName></name>
-      <name><languageId>ha</languageId><trName>Sundanese</trName></name>
+      <name><languageId>ha</languageId><trName>Sudananci</trName></name>
       <name><languageId>he</languageId><trName>סונדנזית</trName></name>
       <name><languageId>hi</languageId><trName>सुंडानी</trName></name>
       <name><languageId>hr</languageId><trName>sundanski</trName></name>
@@ -41205,7 +41205,7 @@
       <name><languageId>ti</languageId><trName>ሱዳንኛ</trName></name>
       <name><languageId>tk</languageId><trName>sundan dili</trName></name>
       <name><languageId>to</languageId><trName>lea fakasunitā</trName></name>
-      <name><languageId>tr</languageId><trName>Sunda Dili</trName></name>
+      <name><languageId>tr</languageId><trName>Sunda dili</trName></name>
       <name><languageId>ug</languageId><trName>سۇنداچە</trName></name>
       <name><languageId>uk</languageId><trName>сунданська</trName></name>
       <name><languageId>ur</languageId><trName>سنڈانیز</trName></name>
@@ -41770,7 +41770,7 @@
       <name><languageId>en</languageId><trName>Syriac</trName></name>
       <name><languageId>es</languageId><trName>siriaco</trName></name>
       <name><languageId>et</languageId><trName>süüria</trName></name>
-      <name><languageId>eu</languageId><trName>siriera</trName></name>
+      <name><languageId>eu</languageId><trName>asiriera</trName></name>
       <name><languageId>fa</languageId><trName>سریانی</trName></name>
       <name><languageId>fi</languageId><trName>syyria</trName></name>
       <name><languageId>fil</languageId><trName>Syriac</trName></name>
@@ -42077,7 +42077,7 @@
       <name><languageId>or</languageId><trName>ତାମିଲ୍</trName></name>
       <name><languageId>pa</languageId><trName>ਤਮਿਲ</trName></name>
       <name><languageId>pl</languageId><trName>tamilski</trName></name>
-      <name><languageId>ps</languageId><trName>تامیل</trName></name>
+      <name><languageId>ps</languageId><trName>تامل</trName></name>
       <name><languageId>pt</languageId><trName>tâmil</trName></name>
       <name><languageId>qu</languageId><trName>Tamil Simi</trName></name>
       <name><languageId>rm</languageId><trName>tamil</trName></name>
@@ -42738,7 +42738,7 @@
       <name><languageId>km</languageId><trName>តាហ្ស៊ីគ</trName></name>
       <name><languageId>kn</languageId><trName>ತಾಜಿಕ್</trName></name>
       <name><languageId>ko</languageId><trName>타지크어</trName></name>
-      <name><languageId>kok</languageId><trName>तजिक</trName></name>
+      <name><languageId>kok</languageId><trName>ताजिक</trName></name>
       <name><languageId>ks</languageId><trName>تاجِک</trName></name>
       <name><languageId>ksh</languageId><trName>Tadschihkesch</trName></name>
       <name><languageId>ku</languageId><trName>tacikî</trName></name>
@@ -43413,7 +43413,7 @@
       <name><languageId>chr</languageId><trName>ᎠᏂᎬᎾ</trName></name>
       <name><languageId>ckb</languageId><trName>تورکمانی</trName></name>
       <name><languageId>cs</languageId><trName>turkmenština</trName></name>
-      <name><languageId>cy</languageId><trName>Twrcmeneg</trName></name>
+      <name><languageId>cy</languageId><trName>Tyrcmeneg</trName></name>
       <name><languageId>da</languageId><trName>turkmensk</trName></name>
       <name><languageId>de</languageId><trName>Turkmenisch</trName></name>
       <name><languageId>dsb</languageId><trName>turkmeńšćina</trName></name>
@@ -43434,7 +43434,7 @@
       <name><languageId>fy</languageId><trName>Turkmeens</trName></name>
       <name><languageId>ga</languageId><trName>Tuircméinis</trName></name>
       <name><languageId>gd</languageId><trName>Turcmanais</trName></name>
-      <name><languageId>gl</languageId><trName>turcomán</trName></name>
+      <name><languageId>gl</languageId><trName>turkmeno</trName></name>
       <name><languageId>gsw</languageId><trName>Turkmenisch</trName></name>
       <name><languageId>gu</languageId><trName>તુર્કમેન</trName></name>
       <name><languageId>ha</languageId><trName>Tukmenistanci</trName></name>
@@ -43457,7 +43457,7 @@
       <name><languageId>km</languageId><trName>តួកម៉េន</trName></name>
       <name><languageId>kn</languageId><trName>ಟರ್ಕ್‌ಮೆನ್</trName></name>
       <name><languageId>ko</languageId><trName>투르크멘어</trName></name>
-      <name><languageId>kok</languageId><trName>तुर्कमन</trName></name>
+      <name><languageId>kok</languageId><trName>तुर्कमेन</trName></name>
       <name><languageId>ks</languageId><trName>تُرکمین</trName></name>
       <name><languageId>ksh</languageId><trName>Törkmehnesch</trName></name>
       <name><languageId>ku</languageId><trName>tirkmenî</trName></name>
@@ -45296,7 +45296,7 @@
       <name><languageId>as</languageId><trName>চেণ্ট্ৰেল এটলাছ টামাজাইট</trName></name>
       <name><languageId>ast</languageId><trName>tamazight del Atles central</trName></name>
       <name><languageId>az</languageId><trName>Mərkəzi Atlas tamazicəsi</trName></name>
-      <name><languageId>be</languageId><trName>цэнтральнаатлаская тамазіхт</trName></name>
+      <name><languageId>be</languageId><trName>сярэднеатлаская тамазігхт</trName></name>
       <name><languageId>bg</languageId><trName>централноатласки тамазигт</trName></name>
       <name><languageId>bn</languageId><trName>সেন্ট্রাল আটলাস তামাজিগাত</trName></name>
       <name><languageId>br</languageId><trName>tamazigteg Kreizatlas</trName></name>
@@ -45307,7 +45307,7 @@
       <name><languageId>chr</languageId><trName>ᎠᏰᏟ ᎡᎶᎯ ᏓᏟᎶᏍᏗᏓᏅᎢ ᏔᎹᏏᏘ</trName></name>
       <name><languageId>ckb</languageId><trName>ئەمازیغی ناوەڕاست</trName></name>
       <name><languageId>cs</languageId><trName>tamazight (střední Maroko)</trName></name>
-      <name><languageId>cy</languageId><trName>Tamaseit Canolbarth Moroco</trName></name>
+      <name><languageId>cy</languageId><trName>Tamazight Canol yr Atlas</trName></name>
       <name><languageId>da</languageId><trName>centralmarokkansk tamazight</trName></name>
       <name><languageId>de</languageId><trName>Zentralatlas-Tamazight</trName></name>
       <name><languageId>dsb</languageId><trName>centralnoatlaski tamazight</trName></name>
@@ -45357,7 +45357,7 @@
       <name><languageId>lv</languageId><trName>Centrālmarokas tamazīts</trName></name>
       <name><languageId>mk</languageId><trName>централноатлански тамазитски</trName></name>
       <name><languageId>ml</languageId><trName>മധ്യ അറ്റ്‌ലസ് ടമാസൈറ്റ്</trName></name>
-      <name><languageId>mn</languageId><trName>Төв Атласын тамазайт</trName></name>
+      <name><languageId>mn</languageId><trName>Төв Атласын тамазигхт</trName></name>
       <name><languageId>mr</languageId><trName>मध्य ऍटलास तॅमॅझायट</trName></name>
       <name><languageId>ms</languageId><trName>Tamazight Atlas Tengah</trName></name>
       <name><languageId>mt</languageId><trName>Tamazight tal-Atlas Ċentrali</trName></name>
@@ -45390,7 +45390,7 @@
       <name><languageId>te</languageId><trName>సెంట్రల్ అట్లాస్ టామాజైట్</trName></name>
       <name><languageId>tg</languageId><trName>тамазайти атласи марказӣ</trName></name>
       <name><languageId>th</languageId><trName>ทามาไซต์แอตลาสกลาง</trName></name>
-      <name><languageId>tk</languageId><trName>orta-Atlas tamazight dili</trName></name>
+      <name><languageId>tk</languageId><trName>orta-atlas tamazight dili</trName></name>
       <name><languageId>to</languageId><trName>lea fakatamasaiti-ʻatilasi-loloto</trName></name>
       <name><languageId>tr</languageId><trName>Orta Atlas Tamazigti</trName></name>
       <name><languageId>tt</languageId><trName>үзәк атлас тамазигт</trName></name>
@@ -45865,7 +45865,7 @@
       <name><languageId>or</languageId><trName>ୟୁକ୍ରାନିଆନ୍</trName></name>
       <name><languageId>pa</languageId><trName>ਯੂਕਰੇਨੀਆਈ</trName></name>
       <name><languageId>pl</languageId><trName>ukraiński</trName></name>
-      <name><languageId>ps</languageId><trName>اوکرانايي</trName></name>
+      <name><languageId>ps</languageId><trName>اوکرايني</trName></name>
       <name><languageId>pt</languageId><trName>ucraniano</trName></name>
       <name><languageId>qu</languageId><trName>Ucraniano Simi</trName></name>
       <name><languageId>rm</languageId><trName>ucranais</trName></name>
@@ -45916,7 +45916,7 @@
       <name><languageId>uz</languageId><trName>ukrain</trName></name>
       <name><languageId>uz_Cyrl</languageId><trName>Украинча</trName></name>
       <name><languageId>vai</languageId><trName>ꖳꖴꔓꕇꘂꘋ</trName></name>
-      <name><languageId>vi</languageId><trName>Tiếng Ucraina</trName></name>
+      <name><languageId>vi</languageId><trName>Tiếng Ukraina</trName></name>
       <name><languageId>vun</languageId><trName>Kyiukrania</trName></name>
       <name><languageId>wae</languageId><trName>Ukrainiš</trName></name>
       <name><languageId>wo</languageId><trName>Ikreniye</trName></name>
@@ -46052,7 +46052,7 @@
       <name><languageId>gsw</languageId><trName>Urdu</trName></name>
       <name><languageId>gu</languageId><trName>ઉર્દૂ</trName></name>
       <name><languageId>guz</languageId><trName>Kiurdu</trName></name>
-      <name><languageId>ha</languageId><trName>Harshen Urdu</trName></name>
+      <name><languageId>ha</languageId><trName>Urdawa</trName></name>
       <name><languageId>he</languageId><trName>אורדו</trName></name>
       <name><languageId>hi</languageId><trName>उर्दू</trName></name>
       <name><languageId>hr</languageId><trName>urdski</trName></name>
@@ -46265,7 +46265,7 @@
       <name><languageId>fy</languageId><trName>Oezbeeks</trName></name>
       <name><languageId>ga</languageId><trName>Úisbéiceastáinis</trName></name>
       <name><languageId>gd</languageId><trName>Usbagais</trName></name>
-      <name><languageId>gl</languageId><trName>uzbeco</trName></name>
+      <name><languageId>gl</languageId><trName>uzbeko</trName></name>
       <name><languageId>gsw</languageId><trName>Usbekisch</trName></name>
       <name><languageId>gu</languageId><trName>ઉઝ્બેક</trName></name>
       <name><languageId>ha</languageId><trName>Uzbek</trName></name>
@@ -46288,7 +46288,7 @@
       <name><languageId>km</languageId><trName>អ៊ូសបេគ</trName></name>
       <name><languageId>kn</languageId><trName>ಉಜ್ಬೇಕ್</trName></name>
       <name><languageId>ko</languageId><trName>우즈베크어</trName></name>
-      <name><languageId>kok</languageId><trName>उज़बेक</trName></name>
+      <name><languageId>kok</languageId><trName>उझबेक</trName></name>
       <name><languageId>ks</languageId><trName>اُزبیک</trName></name>
       <name><languageId>ksh</languageId><trName>Ußbehkesch</trName></name>
       <name><languageId>ku</languageId><trName>ozbekî</trName></name>
@@ -46740,11 +46740,11 @@
       <name><languageId>guz</languageId><trName>Kivietinamu</trName></name>
       <name><languageId>ha</languageId><trName>Harshen Biyetinam</trName></name>
       <name><languageId>haw</languageId><trName>Wiekanama</trName></name>
-      <name><languageId>he</languageId><trName>ויאטנמית</trName></name>
+      <name><languageId>he</languageId><trName>וייטנאמית</trName></name>
       <name><languageId>hi</languageId><trName>वियतनामी</trName></name>
       <name><languageId>hr</languageId><trName>vijetnamski</trName></name>
       <name><languageId>hsb</languageId><trName>vietnamšćina</trName></name>
-      <name><languageId>hu</languageId><trName>vietnami</trName></name>
+      <name><languageId>hu</languageId><trName>vietnámi</trName></name>
       <name><languageId>hy</languageId><trName>վիետնամերեն</trName></name>
       <name><languageId>ia</languageId><trName>vietnamese</trName></name>
       <name><languageId>id</languageId><trName>Vietnam</trName></name>
@@ -47450,7 +47450,7 @@
       <name><languageId>el</languageId><trName>Βάλσερ</trName></name>
       <name><languageId>en</languageId><trName>Walser</trName></name>
       <name><languageId>es</languageId><trName>walser</trName></name>
-      <name><languageId>et</languageId><trName>walseri</trName></name>
+      <name><languageId>et</languageId><trName>valsi</trName></name>
       <name><languageId>eu</languageId><trName>walserera</trName></name>
       <name><languageId>fa</languageId><trName>والسر</trName></name>
       <name><languageId>fi</languageId><trName>walser</trName></name>
@@ -48466,7 +48466,7 @@
       <name><languageId>en</languageId><trName>Yangben</trName></name>
       <name><languageId>es</languageId><trName>yangben</trName></name>
       <name><languageId>et</languageId><trName>yangbeni</trName></name>
-      <name><languageId>eu</languageId><trName>jangbenera</trName></name>
+      <name><languageId>eu</languageId><trName>yangbenera</trName></name>
       <name><languageId>fa</languageId><trName>یانگبنی</trName></name>
       <name><languageId>fi</languageId><trName>yangben</trName></name>
       <name><languageId>fil</languageId><trName>Yangben</trName></name>
@@ -48974,123 +48974,123 @@
     <iso639-2-t>None</iso639-2-t>
     <iso639-2-b>None</iso639-2-b>
     <names>
-      <name><languageId>af</languageId><trName>Kantonees</trName></name>
-      <name><languageId>am</languageId><trName>ካንቶኒዝ</trName></name>
+      <name><languageId>af</languageId><trName>Kantonese Chinees</trName></name>
+      <name><languageId>am</languageId><trName>ቻይና፤ ካንቶንኛ</trName></name>
       <name><languageId>ar</languageId><trName>الكَنْتُونية</trName></name>
-      <name><languageId>as</languageId><trName>কেণ্টোনীজ</trName></name>
+      <name><languageId>as</languageId><trName>চাইনিজ, কেণ্টোনীজ</trName></name>
       <name><languageId>ast</languageId><trName>cantonés</trName></name>
-      <name><languageId>az</languageId><trName>kanton</trName></name>
-      <name><languageId>be</languageId><trName>кантонскі дыялект кітайскай</trName></name>
+      <name><languageId>az</languageId><trName>Çin, kanton</trName></name>
+      <name><languageId>be</languageId><trName>кітайская, кантонскі дыялект</trName></name>
       <name><languageId>bg</languageId><trName>кантонски</trName></name>
-      <name><languageId>bn</languageId><trName>ক্যানটোনীজ</trName></name>
-      <name><languageId>br</languageId><trName>kantoneg</trName></name>
-      <name><languageId>bs</languageId><trName>kantonski</trName></name>
-      <name><languageId>ca</languageId><trName>cantonès</trName></name>
+      <name><languageId>bn</languageId><trName>চীনা, ক্যানটোনীজ</trName></name>
+      <name><languageId>br</languageId><trName>sinaeg, kantoneg</trName></name>
+      <name><languageId>bs</languageId><trName>jue</trName></name>
+      <name><languageId>ca</languageId><trName>xinès, cantonès</trName></name>
       <name><languageId>ca_ES_VALENCIA</languageId><trName>cantonés</trName></name>
       <name><languageId>ccp</languageId><trName>𑄇𑄳𑄠𑄚𑄴𑄑𑄮𑄚𑄩𑄎𑄴</trName></name>
       <name><languageId>ce</languageId><trName>кантонийн</trName></name>
-      <name><languageId>chr</languageId><trName>ᎨᎾᏙᏂᏏ</trName></name>
+      <name><languageId>chr</languageId><trName>ᏓᎶᏂᎨ, ᎨᎾᏙᏂᏏ</trName></name>
       <name><languageId>ckb</languageId><trName>کانتۆنی</trName></name>
-      <name><languageId>cs</languageId><trName>kantonština</trName></name>
-      <name><languageId>cy</languageId><trName>Cantoneeg</trName></name>
-      <name><languageId>da</languageId><trName>kantonesisk</trName></name>
-      <name><languageId>de</languageId><trName>Kantonesisch</trName></name>
+      <name><languageId>cs</languageId><trName>jüe</trName></name>
+      <name><languageId>cy</languageId><trName>Tsieinëeg, Cantoneg</trName></name>
+      <name><languageId>da</languageId><trName>kantonesisk (Kina)</trName></name>
+      <name><languageId>de</languageId><trName>Chinesisch (Kantonesisch)</trName></name>
       <name><languageId>ee</languageId><trName>cantongbe</trName></name>
-      <name><languageId>el</languageId><trName>Καντονέζικα</trName></name>
+      <name><languageId>el</languageId><trName>Κινεζικά, Καντονέζικα</trName></name>
       <name><languageId>en</languageId><trName>Chinese, Cantonese</trName></name>
-      <name><languageId>es</languageId><trName>cantonés</trName></name>
-      <name><languageId>et</languageId><trName>kantoni</trName></name>
-      <name><languageId>eu</languageId><trName>kantonera</trName></name>
-      <name><languageId>fa</languageId><trName>کانتونی</trName></name>
-      <name><languageId>fi</languageId><trName>kantoninkiina</trName></name>
-      <name><languageId>fil</languageId><trName>Cantonese</trName></name>
-      <name><languageId>fo</languageId><trName>kantonesiskt</trName></name>
-      <name><languageId>fr</languageId><trName>cantonais</trName></name>
+      <name><languageId>es</languageId><trName>chino cantonés</trName></name>
+      <name><languageId>et</languageId><trName>kantoni hiina</trName></name>
+      <name><languageId>eu</languageId><trName>Kantongo txinera</trName></name>
+      <name><languageId>fa</languageId><trName>چینی کانتونی</trName></name>
+      <name><languageId>fi</languageId><trName>kiina (kantonin)</trName></name>
+      <name><languageId>fil</languageId><trName>Chinese, Cantonese</trName></name>
+      <name><languageId>fo</languageId><trName>kinesiskt, kantonesiskt</trName></name>
+      <name><languageId>fr</languageId><trName>chinois cantonais</trName></name>
       <name><languageId>fy</languageId><trName>Kantoneesk</trName></name>
-      <name><languageId>ga</languageId><trName>Cantainis</trName></name>
-      <name><languageId>gd</languageId><trName>Cantonais</trName></name>
-      <name><languageId>gl</languageId><trName>cantonés</trName></name>
+      <name><languageId>ga</languageId><trName>Sínis, Cantainis</trName></name>
+      <name><languageId>gd</languageId><trName>Sìnis, Cantonais</trName></name>
+      <name><languageId>gl</languageId><trName>chinés cantonés</trName></name>
       <name><languageId>gsw</languageId><trName>Kantonesisch</trName></name>
-      <name><languageId>gu</languageId><trName>કેંટોનીઝ</trName></name>
+      <name><languageId>gu</languageId><trName>ચાઇનીઝ, કેન્ટોનીઝ</trName></name>
       <name><languageId>ha</languageId><trName>Sinanci</trName></name>
-      <name><languageId>he</languageId><trName>קנטונזית</trName></name>
-      <name><languageId>hi</languageId><trName>कैंटोनीज़</trName></name>
-      <name><languageId>hr</languageId><trName>kantonski</trName></name>
-      <name><languageId>hu</languageId><trName>kantoni</trName></name>
-      <name><languageId>hy</languageId><trName>կանտոներեն</trName></name>
+      <name><languageId>he</languageId><trName>סינית, קנטונזית</trName></name>
+      <name><languageId>hi</languageId><trName>चीनी, कैंटोनीज़</trName></name>
+      <name><languageId>hr</languageId><trName>kineski, kantonski</trName></name>
+      <name><languageId>hu</languageId><trName>kantoni kínai</trName></name>
+      <name><languageId>hy</languageId><trName>չինարեն, կանտոներեն</trName></name>
       <name><languageId>ia</languageId><trName>cantonese</trName></name>
-      <name><languageId>id</languageId><trName>Kanton</trName></name>
-      <name><languageId>is</languageId><trName>kantónska</trName></name>
+      <name><languageId>id</languageId><trName>Tionghoa, Kanton</trName></name>
+      <name><languageId>is</languageId><trName>kínverska, kantónska</trName></name>
       <name><languageId>it</languageId><trName>cantonese</trName></name>
-      <name><languageId>ja</languageId><trName>広東語</trName></name>
-      <name><languageId>jv</languageId><trName>Kanton</trName></name>
-      <name><languageId>ka</languageId><trName>კანტონური</trName></name>
-      <name><languageId>kab</languageId><trName>Takantunit</trName></name>
-      <name><languageId>kea</languageId><trName>kantonese</trName></name>
-      <name><languageId>kk</languageId><trName>кантон тілі</trName></name>
-      <name><languageId>km</languageId><trName>កន្តាំង</trName></name>
-      <name><languageId>kn</languageId><trName>ಕ್ಯಾಂಟನೀಸ್</trName></name>
-      <name><languageId>ko</languageId><trName>광둥어</trName></name>
+      <name><languageId>ja</languageId><trName>中国語 (広東語)</trName></name>
+      <name><languageId>jv</languageId><trName>Tyonghwa, Kanton</trName></name>
+      <name><languageId>ka</languageId><trName>ჩინური, კანტონური</trName></name>
+      <name><languageId>kab</languageId><trName>Tacinwat, Takantunit</trName></name>
+      <name><languageId>kea</languageId><trName>kantunes (tradisional)</trName></name>
+      <name><languageId>kk</languageId><trName>қытай тілі (кантон)</trName></name>
+      <name><languageId>km</languageId><trName>ចិនកាតាំង</trName></name>
+      <name><languageId>kn</languageId><trName>ಚೈನೀಸ್, ಕ್ಯಾಂಟೊನೀಸ್</trName></name>
+      <name><languageId>ko</languageId><trName>중국어(광둥어)</trName></name>
       <name><languageId>kok</languageId><trName>कांटोसी</trName></name>
       <name><languageId>ksh</languageId><trName>Kanton-Schinehsesch</trName></name>
       <name><languageId>ku</languageId><trName>kantonî</trName></name>
       <name><languageId>kw</languageId><trName>Kantonek</trName></name>
-      <name><languageId>ky</languageId><trName>кантончо</trName></name>
+      <name><languageId>ky</languageId><trName>Кытайча, Кантондук</trName></name>
       <name><languageId>lb</languageId><trName>Kantonesesch</trName></name>
-      <name><languageId>lo</languageId><trName>ກວາງຕຸ້ງ</trName></name>
+      <name><languageId>lo</languageId><trName>ພາສາຈີນ, ຈີກວາງຕຸ້ງ</trName></name>
       <name><languageId>lt</languageId><trName>kinų kalbos Kantono tarmė</trName></name>
-      <name><languageId>lv</languageId><trName>kantoniešu</trName></name>
-      <name><languageId>mk</languageId><trName>кантонски</trName></name>
-      <name><languageId>ml</languageId><trName>കാന്റണീസ്</trName></name>
-      <name><languageId>mn</languageId><trName>кантон</trName></name>
-      <name><languageId>mr</languageId><trName>कँटोनीज</trName></name>
-      <name><languageId>ms</languageId><trName>Kantonis</trName></name>
+      <name><languageId>lv</languageId><trName>ķīniešu (kantoniešu)</trName></name>
+      <name><languageId>mk</languageId><trName>кинески, кантонски</trName></name>
+      <name><languageId>ml</languageId><trName>ചൈനീസ്, കാന്റണീസ്</trName></name>
+      <name><languageId>mn</languageId><trName>хятад, кантон</trName></name>
+      <name><languageId>mr</languageId><trName>चीनी, कँटोनीज</trName></name>
+      <name><languageId>ms</languageId><trName>Cina, Kantonis</trName></name>
       <name><languageId>mt</languageId><trName>Kantoniż</trName></name>
-      <name><languageId>my</languageId><trName>ကွမ်တုံ</trName></name>
+      <name><languageId>my</languageId><trName>တရုတ်၊ ကွမ်းတုံ</trName></name>
       <name><languageId>nb</languageId><trName>kantonesisk</trName></name>
-      <name><languageId>ne</languageId><trName>क्यान्टोनिज</trName></name>
+      <name><languageId>ne</languageId><trName>चिनियाँ, क्यान्टोनिज</trName></name>
       <name><languageId>nl</languageId><trName>Kantonees</trName></name>
       <name><languageId>nn</languageId><trName>kantonesisk</trName></name>
-      <name><languageId>or</languageId><trName>କାନଟୋନେସେ</trName></name>
-      <name><languageId>pa</languageId><trName>ਕੈਂਟੋਨੀਜ਼</trName></name>
+      <name><languageId>or</languageId><trName>ଚାଇନିଜ୍‌, କାନଟୋନେସେ</trName></name>
+      <name><languageId>pa</languageId><trName>ਚੀਨੀ, ਕੈਂਟੋਨੀਜ਼</trName></name>
       <name><languageId>pl</languageId><trName>kantoński</trName></name>
-      <name><languageId>ps</languageId><trName>کانټوني</trName></name>
-      <name><languageId>pt</languageId><trName>cantonês</trName></name>
+      <name><languageId>ps</languageId><trName>چايني، کانټونيز</trName></name>
+      <name><languageId>pt</languageId><trName>cantonês (tradicional)</trName></name>
       <name><languageId>qu</languageId><trName>Chino Cantonés Simi</trName></name>
-      <name><languageId>ro</languageId><trName>cantoneză</trName></name>
-      <name><languageId>ru</languageId><trName>кантонский</trName></name>
-      <name><languageId>sd</languageId><trName>ڪينٽونيز</trName></name>
+      <name><languageId>ro</languageId><trName>chineză, cantoneză</trName></name>
+      <name><languageId>ru</languageId><trName>юэ</trName></name>
+      <name><languageId>sd</languageId><trName>چيني، ڪينٽونيز</trName></name>
       <name><languageId>se</languageId><trName>kantongiella</trName></name>
-      <name><languageId>si</languageId><trName>කැන්ටොනීස්</trName></name>
-      <name><languageId>sk</languageId><trName>kantončina</trName></name>
-      <name><languageId>sl</languageId><trName>kantonščina</trName></name>
+      <name><languageId>si</languageId><trName>චීන, කැන්ටොනීස්</trName></name>
+      <name><languageId>sk</languageId><trName>čínština (kantonská)</trName></name>
+      <name><languageId>sl</languageId><trName>kitajščina (kantonščina)</trName></name>
       <name><languageId>smn</languageId><trName>kantonkielâ</trName></name>
       <name><languageId>so</languageId><trName>Kantoneese</trName></name>
-      <name><languageId>sq</languageId><trName>kantonezisht</trName></name>
-      <name><languageId>sr</languageId><trName>кантонски</trName></name>
+      <name><languageId>sq</languageId><trName>kinezishte kantoneze</trName></name>
+      <name><languageId>sr</languageId><trName>кантонски кинески</trName></name>
       <name><languageId>sr_Latn</languageId><trName>kantonski</trName></name>
       <name><languageId>sv</languageId><trName>kantonesiska</trName></name>
-      <name><languageId>sw</languageId><trName>Kikantoni</trName></name>
-      <name><languageId>ta</languageId><trName>காண்டோனீஸ்</trName></name>
-      <name><languageId>te</languageId><trName>కాంటనీస్</trName></name>
-      <name><languageId>th</languageId><trName>กวางตุ้ง</trName></name>
-      <name><languageId>tk</languageId><trName>kanton dili</trName></name>
-      <name><languageId>to</languageId><trName>lea fakakuangitongi</trName></name>
-      <name><languageId>tr</languageId><trName>Kantonca</trName></name>
+      <name><languageId>sw</languageId><trName>Kichina, Kikantoni</trName></name>
+      <name><languageId>ta</languageId><trName>சீனம், காண்டோனீஸ்</trName></name>
+      <name><languageId>te</languageId><trName>చైనీస్, కాంటనీస్</trName></name>
+      <name><languageId>th</languageId><trName>จีน (กวางตุ้ง)</trName></name>
+      <name><languageId>tk</languageId><trName>hytaý dili, kantonça</trName></name>
+      <name><languageId>to</languageId><trName>lea fakakuangitongi (Siaina)</trName></name>
+      <name><languageId>tr</languageId><trName>Çince, Kantonca</trName></name>
       <name><languageId>ug</languageId><trName>گۇاڭدوڭچە</trName></name>
-      <name><languageId>uk</languageId><trName>кантонська</trName></name>
-      <name><languageId>ur</languageId><trName>کینٹونیز</trName></name>
-      <name><languageId>uz</languageId><trName>kanton</trName></name>
-      <name><languageId>vi</languageId><trName>Tiếng Quảng Đông</trName></name>
-      <name><languageId>yue</languageId><trName>粵語</trName></name>
+      <name><languageId>uk</languageId><trName>китайська кантонська</trName></name>
+      <name><languageId>ur</languageId><trName>چینی، کینٹونیز</trName></name>
+      <name><languageId>uz</languageId><trName>xitoy, kanton</trName></name>
+      <name><languageId>vi</languageId><trName>Tiếng Trung (Tiếng Quảng Đông)</trName></name>
+      <name><languageId>yue</languageId><trName>中文 (粵語)</trName></name>
       <name><languageId>yue_Hans</languageId><trName>粤语</trName></name>
       <name><languageId>yue_Hant</languageId><trName>粵語</trName></name>
-      <name><languageId>zh</languageId><trName>粤语</trName></name>
+      <name><languageId>zh</languageId><trName>广东话</trName></name>
       <name><languageId>zh_HK</languageId><trName>粵語</trName></name>
       <name><languageId>zh_Hans</languageId><trName>粤语</trName></name>
       <name><languageId>zh_Hant</languageId><trName>粵語</trName></name>
       <name><languageId>zh_Hant_HK</languageId><trName>廣東話</trName></name>
-      <name><languageId>zu</languageId><trName>isi-Cantonese</trName></name>
+      <name><languageId>zu</languageId><trName>isi-Chinese, Cantonese</trName></name>
     </names>
     <scripts>
       <script><scriptId>Hant</scriptId><rank>1000</rank></script>
@@ -49319,7 +49319,7 @@
       <name><languageId>lv</languageId><trName>standarta tamazigtu (Maroka)</trName></name>
       <name><languageId>mk</languageId><trName>стандарден марокански тамазитски</trName></name>
       <name><languageId>ml</languageId><trName>സ്റ്റാൻഡേർഡ് മൊറോക്കൻ റ്റാമസിയറ്റ്</trName></name>
-      <name><languageId>mn</languageId><trName>Мороккогийн стандарт тамазайт</trName></name>
+      <name><languageId>mn</languageId><trName>стандарт тамазайт (Морокко)</trName></name>
       <name><languageId>mr</languageId><trName>प्रमाण मोरोक्कन तॅमॅझायट</trName></name>
       <name><languageId>ms</languageId><trName>Tamazight Maghribi Standard</trName></name>
       <name><languageId>mt</languageId><trName>Tamazight Standard tal-Marokk</trName></name>
@@ -49332,14 +49332,14 @@
       <name><languageId>or</languageId><trName>ମାନାଙ୍କ ମରୋକିୟ ତାମାଜିଘାଟ୍</trName></name>
       <name><languageId>pa</languageId><trName>ਮਿਆਰੀ ਮੋਰੋਕੇਨ ਟਾਮਾਜ਼ਿਕ</trName></name>
       <name><languageId>pl</languageId><trName>standardowy marokański tamazight</trName></name>
-      <name><languageId>ps</languageId><trName>معياري مراکش تمازټیټ</trName></name>
+      <name><languageId>ps</languageId><trName>معياري مراکشي تمازيټ</trName></name>
       <name><languageId>pt</languageId><trName>tamazirte marroqino padrão</trName></name>
       <name><languageId>qu</languageId><trName>Bereber Marroquí Estándar Simi</trName></name>
       <name><languageId>ro</languageId><trName>tamazight standard marocană</trName></name>
       <name><languageId>ru</languageId><trName>тамазигхтский</trName></name>
       <name><languageId>sd</languageId><trName>معياري مراڪشي تامازائيٽ</trName></name>
       <name><languageId>si</languageId><trName>සම්මත මොරොක්කෝ ටමසිග්ත්</trName></name>
-      <name><languageId>sk</languageId><trName>tuaregčina (štandardná marocká)</trName></name>
+      <name><languageId>sk</languageId><trName>tuaregčina (marocká štandardná)</trName></name>
       <name><languageId>sl</languageId><trName>standardni maroški tamazig</trName></name>
       <name><languageId>smn</languageId><trName>standard tamazight</trName></name>
       <name><languageId>so</languageId><trName>Morokaanka Tamasayt Rasmiga</trName></name>
@@ -49392,98 +49392,98 @@
     <iso639-2-t>zho</iso639-2-t>
     <iso639-2-b>chi</iso639-2-b>
     <names>
-      <name><languageId>af</languageId><trName>Sjinees</trName></name>
+      <name><languageId>af</languageId><trName>Mandarynse Chinees</trName></name>
       <name><languageId>agq</languageId><trName>Chàenê</trName></name>
       <name><languageId>ak</languageId><trName>Kyaena kasa</trName></name>
-      <name><languageId>am</languageId><trName>ቻይንኛ</trName></name>
+      <name><languageId>am</languageId><trName>ማንድሪን ቻይንኛ</trName></name>
       <name><languageId>ar</languageId><trName>الصينية</trName></name>
-      <name><languageId>as</languageId><trName>চীনা</trName></name>
+      <name><languageId>as</languageId><trName>চীনা, মেণ্ডাৰিন</trName></name>
       <name><languageId>asa</languageId><trName>Kichina</trName></name>
       <name><languageId>ast</languageId><trName>chinu</trName></name>
-      <name><languageId>az</languageId><trName>çin</trName></name>
+      <name><languageId>az</languageId><trName>Çin, mandarin</trName></name>
       <name><languageId>bas</languageId><trName>Hɔp u kinà</trName></name>
-      <name><languageId>be</languageId><trName>кітайская</trName></name>
+      <name><languageId>be</languageId><trName>кітайская, паўночныя дыялекты</trName></name>
       <name><languageId>bem</languageId><trName>Ichi Chainisi</trName></name>
       <name><languageId>bez</languageId><trName>Hichina</trName></name>
-      <name><languageId>bg</languageId><trName>китайски</trName></name>
+      <name><languageId>bg</languageId><trName>китайски, мандарин</trName></name>
       <name><languageId>bm</languageId><trName>siniwakan</trName></name>
-      <name><languageId>bn</languageId><trName>চীনা</trName></name>
+      <name><languageId>bn</languageId><trName>চীনা, ম্যান্ডারিন</trName></name>
       <name><languageId>bo</languageId><trName>རྒྱ་སྐད་</trName></name>
-      <name><languageId>br</languageId><trName>sinaeg</trName></name>
+      <name><languageId>br</languageId><trName>sinaeg, mandarineg</trName></name>
       <name><languageId>brx</languageId><trName>चीनी</trName></name>
-      <name><languageId>bs</languageId><trName>kineski</trName></name>
+      <name><languageId>bs</languageId><trName>kineski (standardni)</trName></name>
       <name><languageId>byn</languageId><trName>ቻይንኛ</trName></name>
-      <name><languageId>ca</languageId><trName>xinès</trName></name>
+      <name><languageId>ca</languageId><trName>xinès, mandarí</trName></name>
       <name><languageId>ca_ES_VALENCIA</languageId><trName>xinés</trName></name>
       <name><languageId>ccp</languageId><trName>𑄌𑄩𑄚</trName></name>
       <name><languageId>ce</languageId><trName>цийн</trName></name>
       <name><languageId>cgg</languageId><trName>Oruchaina</trName></name>
-      <name><languageId>chr</languageId><trName>ᏓᎶᏂᎨ</trName></name>
+      <name><languageId>chr</languageId><trName>ᏓᎶᏂᎨ, ᎹᏓᏈᏂ</trName></name>
       <name><languageId>ckb</languageId><trName>چینی</trName></name>
-      <name><languageId>cs</languageId><trName>čínština</trName></name>
+      <name><languageId>cs</languageId><trName>standardní čínština</trName></name>
       <name><languageId>cu</languageId><trName>хи́нскїй</trName></name>
-      <name><languageId>cy</languageId><trName>Tsieineeg</trName></name>
-      <name><languageId>da</languageId><trName>kinesisk</trName></name>
+      <name><languageId>cy</languageId><trName>Tsieinëeg, Mandarin</trName></name>
+      <name><languageId>da</languageId><trName>mandarin (Kina)</trName></name>
       <name><languageId>dav</languageId><trName>Kichina</trName></name>
-      <name><languageId>de</languageId><trName>Chinesisch</trName></name>
+      <name><languageId>de</languageId><trName>Chinesisch (Mandarin)</trName></name>
       <name><languageId>dje</languageId><trName>Sinuwa senni</trName></name>
       <name><languageId>dsb</languageId><trName>chinšćina</trName></name>
       <name><languageId>dyo</languageId><trName>sinua</trName></name>
       <name><languageId>dz</languageId><trName>རྒྱ་མི་ཁ</trName></name>
       <name><languageId>ebu</languageId><trName>Kĩchina</trName></name>
       <name><languageId>ee</languageId><trName>Chinagbe</trName></name>
-      <name><languageId>el</languageId><trName>Κινεζικά</trName></name>
+      <name><languageId>el</languageId><trName>Κινεζικά, Μανδαρινικά</trName></name>
       <name><languageId>en</languageId><trName>Chinese, Mandarin</trName></name>
       <name><languageId>eo</languageId><trName>ĉina</trName></name>
-      <name><languageId>es</languageId><trName>chino</trName></name>
-      <name><languageId>et</languageId><trName>hiina</trName></name>
-      <name><languageId>eu</languageId><trName>txinera</trName></name>
+      <name><languageId>es</languageId><trName>chino mandarín</trName></name>
+      <name><languageId>et</languageId><trName>mandariinihiina</trName></name>
+      <name><languageId>eu</languageId><trName>mandarin</trName></name>
       <name><languageId>ewo</languageId><trName>Ǹkɔ́bɔ tsainís</trName></name>
-      <name><languageId>fa</languageId><trName>چینی</trName></name>
+      <name><languageId>fa</languageId><trName>چینی، ماندارین</trName></name>
       <name><languageId>ff</languageId><trName>Sinuwaare</trName></name>
-      <name><languageId>fi</languageId><trName>kiina</trName></name>
-      <name><languageId>fil</languageId><trName>Chinese</trName></name>
-      <name><languageId>fo</languageId><trName>kinesiskt</trName></name>
-      <name><languageId>fr</languageId><trName>chinois</trName></name>
+      <name><languageId>fi</languageId><trName>kiina (mandariini)</trName></name>
+      <name><languageId>fil</languageId><trName>Chinese, Mandarin</trName></name>
+      <name><languageId>fo</languageId><trName>kinesiskt, mandarin</trName></name>
+      <name><languageId>fr</languageId><trName>chinois mandarin</trName></name>
       <name><languageId>fur</languageId><trName>cinês</trName></name>
       <name><languageId>fy</languageId><trName>Sineesk</trName></name>
       <name><languageId>ga</languageId><trName>Sínis</trName></name>
-      <name><languageId>gd</languageId><trName>Sìnis</trName></name>
-      <name><languageId>gl</languageId><trName>chinés</trName></name>
+      <name><languageId>gd</languageId><trName>Sìnis, Mandairinis</trName></name>
+      <name><languageId>gl</languageId><trName>chinés mandarín</trName></name>
       <name><languageId>gsw</languageId><trName>Chineesisch</trName></name>
-      <name><languageId>gu</languageId><trName>ચાઇનીઝ</trName></name>
+      <name><languageId>gu</languageId><trName>ચાઇનીઝ, મેન્ડેરિન</trName></name>
       <name><languageId>guz</languageId><trName>Kichina</trName></name>
-      <name><languageId>ha</languageId><trName>Harshen Sinanci</trName></name>
+      <name><languageId>ha</languageId><trName>Harshen, Sinanci</trName></name>
       <name><languageId>haw</languageId><trName>Pākē</trName></name>
-      <name><languageId>he</languageId><trName>סינית</trName></name>
-      <name><languageId>hi</languageId><trName>चीनी</trName></name>
-      <name><languageId>hr</languageId><trName>kineski</trName></name>
+      <name><languageId>he</languageId><trName>סינית, מנדרינית</trName></name>
+      <name><languageId>hi</languageId><trName>चीनी, मैंडेरिन</trName></name>
+      <name><languageId>hr</languageId><trName>kineski, mandarinski</trName></name>
       <name><languageId>hsb</languageId><trName>chinšćina</trName></name>
-      <name><languageId>hu</languageId><trName>kínai</trName></name>
+      <name><languageId>hu</languageId><trName>mandarin</trName></name>
       <name><languageId>hy</languageId><trName>չինարեն</trName></name>
       <name><languageId>ia</languageId><trName>chinese</trName></name>
-      <name><languageId>id</languageId><trName>Tionghoa</trName></name>
+      <name><languageId>id</languageId><trName>Tionghoa, Mandarin</trName></name>
       <name><languageId>ig</languageId><trName>Mandarịịnị</trName></name>
       <name><languageId>ii</languageId><trName>ꍏꇩꉙ</trName></name>
-      <name><languageId>is</languageId><trName>kínverska</trName></name>
-      <name><languageId>it</languageId><trName>cinese</trName></name>
-      <name><languageId>ja</languageId><trName>中国語</trName></name>
+      <name><languageId>is</languageId><trName>kínverska, mandarín</trName></name>
+      <name><languageId>it</languageId><trName>cinese (mandarino)</trName></name>
+      <name><languageId>ja</languageId><trName>中国語 (標準語)</trName></name>
       <name><languageId>jgo</languageId><trName>Shinwâ</trName></name>
       <name><languageId>jmc</languageId><trName>Kyichina</trName></name>
-      <name><languageId>jv</languageId><trName>Tyonghwa</trName></name>
-      <name><languageId>ka</languageId><trName>ჩინური</trName></name>
+      <name><languageId>jv</languageId><trName>Tyonghwa, Mandarin</trName></name>
+      <name><languageId>ka</languageId><trName>ჩინური, მანდარინი</trName></name>
       <name><languageId>kab</languageId><trName>Tacinwat, Tamundarint</trName></name>
       <name><languageId>kam</languageId><trName>Kichina</trName></name>
       <name><languageId>kde</languageId><trName>Chichina</trName></name>
-      <name><languageId>kea</languageId><trName>xines</trName></name>
+      <name><languageId>kea</languageId><trName>xines, mandarin</trName></name>
       <name><languageId>khq</languageId><trName>Sinuwa senni, Mandareŋ</trName></name>
       <name><languageId>ki</languageId><trName>Kĩcaina</trName></name>
-      <name><languageId>kk</languageId><trName>қытай тілі</trName></name>
+      <name><languageId>kk</languageId><trName>қытай тілі (мандарин)</trName></name>
       <name><languageId>kl</languageId><trName>kineserisut</trName></name>
       <name><languageId>kln</languageId><trName>kutitab China</trName></name>
-      <name><languageId>km</languageId><trName>ចិន</trName></name>
-      <name><languageId>kn</languageId><trName>ಚೈನೀಸ್</trName></name>
-      <name><languageId>ko</languageId><trName>중국어</trName></name>
+      <name><languageId>km</languageId><trName>ចិនកុកងឺ</trName></name>
+      <name><languageId>kn</languageId><trName>ಚೈನೀಸ್, ಮಂಡಾರಿನ್</trName></name>
+      <name><languageId>ko</languageId><trName>중국어(만다린)</trName></name>
       <name><languageId>kok</languageId><trName>चिनी</trName></name>
       <name><languageId>ks</languageId><trName>چیٖنی</trName></name>
       <name><languageId>ksb</languageId><trName>Kichina</trName></name>
@@ -49491,98 +49491,98 @@
       <name><languageId>ksh</languageId><trName>Schinehsesch (Mandarin)</trName></name>
       <name><languageId>ku</languageId><trName>çînî, mandarînî</trName></name>
       <name><languageId>kw</languageId><trName>Chinek</trName></name>
-      <name><languageId>ky</languageId><trName>кытайча</trName></name>
+      <name><languageId>ky</languageId><trName>Кытайча,Мандарин</trName></name>
       <name><languageId>lag</languageId><trName>Kɨchíina</trName></name>
       <name><languageId>lb</languageId><trName>Chinesesch</trName></name>
       <name><languageId>lg</languageId><trName>Lucayina</trName></name>
       <name><languageId>lkt</languageId><trName>Pȟečhókaŋ Háŋska Iyápi</trName></name>
       <name><languageId>ln</languageId><trName>lisinwa</trName></name>
-      <name><languageId>lo</languageId><trName>ຈີນ</trName></name>
+      <name><languageId>lo</languageId><trName>ພາສາຈີນ, ພາສາຈີນກາງ</trName></name>
       <name><languageId>lrc</languageId><trName>چینی</trName></name>
-      <name><languageId>lt</languageId><trName>kinų</trName></name>
+      <name><languageId>lt</languageId><trName>kinų, mandarinų</trName></name>
       <name><languageId>lu</languageId><trName>shinɛ</trName></name>
       <name><languageId>luo</languageId><trName>Kichina</trName></name>
       <name><languageId>luy</languageId><trName>Kichina</trName></name>
-      <name><languageId>lv</languageId><trName>ķīniešu</trName></name>
+      <name><languageId>lv</languageId><trName>ķīniešu (mandarīnu)</trName></name>
       <name><languageId>mas</languageId><trName>nkʉtʉ́k ɔ́ɔ̄ lchina</trName></name>
       <name><languageId>mer</languageId><trName>Kĩchina</trName></name>
       <name><languageId>mfe</languageId><trName>sinwa, mandarin</trName></name>
       <name><languageId>mg</languageId><trName>Sinoa, Mandarin</trName></name>
       <name><languageId>mgh</languageId><trName>Ichina</trName></name>
-      <name><languageId>mi</languageId><trName>Hainamana</trName></name>
-      <name><languageId>mk</languageId><trName>кинески</trName></name>
-      <name><languageId>ml</languageId><trName>ചൈനീസ്</trName></name>
-      <name><languageId>mn</languageId><trName>хятад</trName></name>
-      <name><languageId>mr</languageId><trName>चीनी</trName></name>
-      <name><languageId>ms</languageId><trName>Cina</trName></name>
+      <name><languageId>mi</languageId><trName>Hainamana Manarini</trName></name>
+      <name><languageId>mk</languageId><trName>кинески, мандарински</trName></name>
+      <name><languageId>ml</languageId><trName>ചൈനീസ്, മാൻഡറിൻ</trName></name>
+      <name><languageId>mn</languageId><trName>хятад, мандарин</trName></name>
+      <name><languageId>mr</languageId><trName>चीनी, मँडेरिन</trName></name>
+      <name><languageId>ms</languageId><trName>Cina, Mandarin</trName></name>
       <name><languageId>mt</languageId><trName>Ċiniż</trName></name>
       <name><languageId>mua</languageId><trName>zah Syiŋ</trName></name>
-      <name><languageId>my</languageId><trName>တရုတ်</trName></name>
+      <name><languageId>my</languageId><trName>ပြည်ကြီးတရုတ်</trName></name>
       <name><languageId>mzn</languageId><trName>چینی</trName></name>
       <name><languageId>naq</languageId><trName>Chineesǁî gowab, Mandarinni</trName></name>
-      <name><languageId>nb</languageId><trName>kinesisk</trName></name>
+      <name><languageId>nb</languageId><trName>kinesisk, mandarin</trName></name>
       <name><languageId>nd</languageId><trName>isi-China</trName></name>
       <name><languageId>nds</languageId><trName>Chineesch</trName></name>
-      <name><languageId>ne</languageId><trName>चिनियाँ</trName></name>
-      <name><languageId>nl</languageId><trName>Chinees</trName></name>
+      <name><languageId>ne</languageId><trName>चिनियाँ, म्यान्डरिन</trName></name>
+      <name><languageId>nl</languageId><trName>Mandarijn</trName></name>
       <name><languageId>nmg</languageId><trName>Kiɛl bó chinois</trName></name>
       <name><languageId>nn</languageId><trName>kinesisk</trName></name>
       <name><languageId>nus</languageId><trName>Thok cayna</trName></name>
       <name><languageId>nyn</languageId><trName>Oruchaina</trName></name>
       <name><languageId>om</languageId><trName>Chinese</trName></name>
-      <name><languageId>or</languageId><trName>ଚାଇନିଜ୍‌</trName></name>
+      <name><languageId>or</languageId><trName>ଚାଇନିଜ୍, ମାଣ୍ଡାରିନ୍</trName></name>
       <name><languageId>os</languageId><trName>китайаг</trName></name>
-      <name><languageId>pa</languageId><trName>ਚੀਨੀ (ਮੈਂਡਰਿਨ)</trName></name>
-      <name><languageId>pl</languageId><trName>chiński</trName></name>
+      <name><languageId>pa</languageId><trName>ਚੀਨੀ, ਮੈਂਡਰਿਨ</trName></name>
+      <name><languageId>pl</languageId><trName>chiński, mandaryński</trName></name>
       <name><languageId>prg</languageId><trName>kīniskan</trName></name>
-      <name><languageId>ps</languageId><trName>چیني</trName></name>
-      <name><languageId>pt</languageId><trName>chinês</trName></name>
-      <name><languageId>qu</languageId><trName>Chino Simi</trName></name>
+      <name><languageId>ps</languageId><trName>چيني، ماندرين</trName></name>
+      <name><languageId>pt</languageId><trName>chinês, mandarim</trName></name>
+      <name><languageId>qu</languageId><trName>Chino Mandarín Simi</trName></name>
       <name><languageId>rm</languageId><trName>chinais</trName></name>
       <name><languageId>rn</languageId><trName>Igishinwa</trName></name>
-      <name><languageId>ro</languageId><trName>chineză</trName></name>
+      <name><languageId>ro</languageId><trName>chineză, mandarină</trName></name>
       <name><languageId>rof</languageId><trName>Kichina</trName></name>
-      <name><languageId>ru</languageId><trName>китайский</trName></name>
+      <name><languageId>ru</languageId><trName>севернокитайский</trName></name>
       <name><languageId>rwk</languageId><trName>Kyichina</trName></name>
       <name><languageId>sah</languageId><trName>Кытайдыы</trName></name>
       <name><languageId>saq</languageId><trName>Kichina</trName></name>
       <name><languageId>sbp</languageId><trName>Ishishina</trName></name>
-      <name><languageId>sd</languageId><trName>چيني</trName></name>
+      <name><languageId>sd</languageId><trName>چيني، مندارن</trName></name>
       <name><languageId>se</languageId><trName>kiinnágiella</trName></name>
       <name><languageId>seh</languageId><trName>chinês</trName></name>
       <name><languageId>ses</languageId><trName>Sinuwa senni, Mandareŋ</trName></name>
       <name><languageId>sg</languageId><trName>Shinuäa</trName></name>
       <name><languageId>shi</languageId><trName>ⵜⴰⵛⵉⵏⵡⵉⵜ</trName></name>
-      <name><languageId>si</languageId><trName>චීන</trName></name>
-      <name><languageId>sk</languageId><trName>čínština</trName></name>
-      <name><languageId>sl</languageId><trName>kitajščina</trName></name>
+      <name><languageId>si</languageId><trName>චීන, මැන්ඩරීන්</trName></name>
+      <name><languageId>sk</languageId><trName>čínština (mandarínska)</trName></name>
+      <name><languageId>sl</languageId><trName>kitajščina (mandarinščina)</trName></name>
       <name><languageId>smn</languageId><trName>mandarinkiinakielâ</trName></name>
       <name><languageId>sn</languageId><trName>chiChinese</trName></name>
       <name><languageId>so</languageId><trName>Shiinaha Mandarin</trName></name>
-      <name><languageId>sq</languageId><trName>kinezisht</trName></name>
-      <name><languageId>sr</languageId><trName>кинески</trName></name>
+      <name><languageId>sq</languageId><trName>kinezishte mandarine</trName></name>
+      <name><languageId>sr</languageId><trName>мандарински кинески</trName></name>
       <name><languageId>sr_Latn</languageId><trName>kineski</trName></name>
-      <name><languageId>sv</languageId><trName>kinesiska</trName></name>
-      <name><languageId>sw</languageId><trName>Kichina</trName></name>
-      <name><languageId>ta</languageId><trName>சீனம்</trName></name>
-      <name><languageId>te</languageId><trName>చైనీస్</trName></name>
+      <name><languageId>sv</languageId><trName>mandarin</trName></name>
+      <name><languageId>sw</languageId><trName>Kichina sanifu</trName></name>
+      <name><languageId>ta</languageId><trName>சீனம், மாண்டரின்</trName></name>
+      <name><languageId>te</languageId><trName>చైనీస్, మాండరిన్</trName></name>
       <name><languageId>teo</languageId><trName>Kichina</trName></name>
-      <name><languageId>tg</languageId><trName>хитоӣ</trName></name>
-      <name><languageId>th</languageId><trName>จีน</trName></name>
+      <name><languageId>tg</languageId><trName>хитоӣ, мандаринӣ</trName></name>
+      <name><languageId>th</languageId><trName>จีนกลาง</trName></name>
       <name><languageId>tig</languageId><trName>ቻይንኛ</trName></name>
-      <name><languageId>tk</languageId><trName>hytaý dili</trName></name>
-      <name><languageId>to</languageId><trName>lea fakasiaina</trName></name>
-      <name><languageId>tr</languageId><trName>Çince</trName></name>
-      <name><languageId>tt</languageId><trName>кытай (тәрҗемә киңәше: аерым алганда, мандарин кытайчасы)</trName></name>
+      <name><languageId>tk</languageId><trName>hytaý dili, mandarin</trName></name>
+      <name><languageId>to</languageId><trName>lea fakasiaina-mānitali</trName></name>
+      <name><languageId>tr</languageId><trName>Çince, Mandarin</trName></name>
+      <name><languageId>tt</languageId><trName>мандарин кытайчасы</trName></name>
       <name><languageId>twq</languageId><trName>Sinuwa senni, Mandareŋ</trName></name>
       <name><languageId>tzm</languageId><trName>Tacinwit,Mandarin</trName></name>
       <name><languageId>ug</languageId><trName>خەنزۇچە</trName></name>
-      <name><languageId>uk</languageId><trName>китайська</trName></name>
-      <name><languageId>ur</languageId><trName>چینی</trName></name>
-      <name><languageId>uz</languageId><trName>xitoy</trName></name>
+      <name><languageId>uk</languageId><trName>китайська мандаринська</trName></name>
+      <name><languageId>ur</languageId><trName>چینی، مندارن</trName></name>
+      <name><languageId>uz</languageId><trName>xitoy, mandarin</trName></name>
       <name><languageId>uz_Cyrl</languageId><trName>Хитойча</trName></name>
       <name><languageId>vai</languageId><trName>ꕦꕇꔧ</trName></name>
-      <name><languageId>vi</languageId><trName>Tiếng Trung</trName></name>
+      <name><languageId>vi</languageId><trName>Tiếng Trung (Phổ thông)</trName></name>
       <name><languageId>vo</languageId><trName>Tsyinänapük</trName></name>
       <name><languageId>vun</languageId><trName>Kyichina</trName></name>
       <name><languageId>wae</languageId><trName>Chinesiš</trName></name>
@@ -49591,12 +49591,12 @@
       <name><languageId>xog</languageId><trName>Olucayina</trName></name>
       <name><languageId>yav</languageId><trName>sinúɛ</trName></name>
       <name><languageId>yi</languageId><trName>כינעזיש</trName></name>
-      <name><languageId>yo</languageId><trName>Èdè Mandarin tí wọ́n ń sọ lórílẹ̀-èdè Ṣáínà</trName></name>
-      <name><languageId>yue</languageId><trName>中文</trName></name>
+      <name><languageId>yo</languageId><trName>Ṣáídà, Mandrínì</trName></name>
+      <name><languageId>yue</languageId><trName>中文 (普通話)</trName></name>
       <name><languageId>zgh</languageId><trName>ⵜⴰⵛⵉⵏⵡⵉⵜ</trName></name>
-      <name><languageId>zh</languageId><trName>中文</trName></name>
+      <name><languageId>zh</languageId><trName>普通话</trName></name>
       <name><languageId>zh_Hant</languageId><trName>中文</trName></name>
-      <name><languageId>zu</languageId><trName>isi-Chinese</trName></name>
+      <name><languageId>zu</languageId><trName>isi-Chinese, Mandarin</trName></name>
     </names>
     <scripts>
       <script><scriptId>Hans</scriptId><rank>800</rank></script>
@@ -49643,73 +49643,73 @@
     <iso639-2-t>zho</iso639-2-t>
     <iso639-2-b>chi</iso639-2-b>
     <names>
-      <name><languageId>af</languageId><trName>Chinees (Vereenvoudig)</trName></name>
-      <name><languageId>am</languageId><trName>ቀለል ያለ ቻይንኛ</trName></name>
+      <name><languageId>af</languageId><trName>Mandarynse Chinees (Vereenvoudigd)</trName></name>
+      <name><languageId>am</languageId><trName>ቀለል ያለ ማንድሪን ቻይንኛ</trName></name>
       <name><languageId>ar</languageId><trName>الصينية المبسطة</trName></name>
-      <name><languageId>as</languageId><trName>সৰলীকৃত চীনা</trName></name>
+      <name><languageId>as</languageId><trName>সৰলীকৃত মেণ্ডাৰিন চীনা</trName></name>
       <name><languageId>ast</languageId><trName>chinu simplificáu</trName></name>
-      <name><languageId>az</languageId><trName>sadələşmiş çin</trName></name>
-      <name><languageId>be</languageId><trName>кітайская (спрошчаныя іерогліфы)</trName></name>
-      <name><languageId>bg</languageId><trName>китайски (опростен)</trName></name>
-      <name><languageId>bn</languageId><trName>সরলীকৃত চীনা</trName></name>
+      <name><languageId>az</languageId><trName>sadələşmiş mandarin çincəsi</trName></name>
+      <name><languageId>be</languageId><trName>паўночнакітайская (спрошчаныя іерогліфы)</trName></name>
+      <name><languageId>bg</languageId><trName>китайски, мандарин (опростен)</trName></name>
+      <name><languageId>bn</languageId><trName>চীনা ম্যান্ডারিন সরলীকৃত</trName></name>
       <name><languageId>bo</languageId><trName>སྟབས་བརྡའི། ཀྲུང་གོའི།</trName></name>
-      <name><languageId>br</languageId><trName>sinaeg eeunaet</trName></name>
+      <name><languageId>br</languageId><trName>sinaeg mandarinek eeunaet</trName></name>
       <name><languageId>brx</languageId><trName>चीनी (सरलीकृत)</trName></name>
-      <name><languageId>bs</languageId><trName>kineski (pojednostavljeni)</trName></name>
-      <name><languageId>ca</languageId><trName>xinès simplificat</trName></name>
+      <name><languageId>bs</languageId><trName>kineski (pojednostavljeni standardni)</trName></name>
+      <name><languageId>ca</languageId><trName>xinès mandarí (simplificat)</trName></name>
       <name><languageId>ccp</languageId><trName>𑄅𑄪𑄎𑄪𑄅𑄪𑄏𑄫 𑄌𑄩𑄚</trName></name>
       <name><languageId>ce</languageId><trName>атта цийн</trName></name>
-      <name><languageId>chr</languageId><trName>ᎠᎯᏗᎨ ᏓᎶᏂᎨ</trName></name>
+      <name><languageId>chr</languageId><trName>ᎠᎯᏗᎨ ᎹᏓᏈᏂ ᏓᎶᏂᎨ</trName></name>
       <name><languageId>ckb</languageId><trName>چینی (چینیی ئاسانکراو)</trName></name>
-      <name><languageId>cs</languageId><trName>čínština (zjednodušená)</trName></name>
+      <name><languageId>cs</languageId><trName>standardní čínština (zjednodušená)</trName></name>
       <name><languageId>cu</languageId><trName>ᲂу҆проще́нный хи́нскїй</trName></name>
-      <name><languageId>cy</languageId><trName>Tsieineeg Symledig</trName></name>
+      <name><languageId>cy</languageId><trName>Tsieinëeg Mandarin Symledig</trName></name>
       <name><languageId>da</languageId><trName>forenklet kinesisk</trName></name>
-      <name><languageId>de</languageId><trName>Chinesisch (vereinfacht)</trName></name>
+      <name><languageId>de</languageId><trName>Mandarin (Vereinfacht)</trName></name>
       <name><languageId>dsb</languageId><trName>chinšćina (zjadnorjona)</trName></name>
       <name><languageId>dz</languageId><trName>རྒྱ་མི་ཁ་འཇམ་སངམ</trName></name>
       <name><languageId>ee</languageId><trName>tsainagbe</trName></name>
-      <name><languageId>el</languageId><trName>Απλοποιημένα Κινεζικά</trName></name>
+      <name><languageId>el</languageId><trName>Απλοποιημένα Μανδαρινικά Κινεζικά</trName></name>
       <name><languageId>en</languageId><trName>Simplified Mandarin Chinese</trName></name>
       <name><languageId>eo</languageId><trName>ĉina simpligita</trName></name>
-      <name><languageId>es</languageId><trName>chino simplificado</trName></name>
-      <name><languageId>et</languageId><trName>lihtsustatud hiina</trName></name>
-      <name><languageId>eu</languageId><trName>txinera soildua</trName></name>
-      <name><languageId>fa</languageId><trName>چینی ساده‌شده</trName></name>
+      <name><languageId>es</languageId><trName>chino mandarín simplificado</trName></name>
+      <name><languageId>et</languageId><trName>lihtsustatud mandariinihiina</trName></name>
+      <name><languageId>eu</languageId><trName>mandarin sinplifikatu</trName></name>
+      <name><languageId>fa</languageId><trName>چینی ماندارین ساده‌شده</trName></name>
       <name><languageId>fi</languageId><trName>yksinkertaistettu kiina</trName></name>
-      <name><languageId>fil</languageId><trName>Pinasimpleng Chinese</trName></name>
-      <name><languageId>fo</languageId><trName>einkult kinesiskt</trName></name>
-      <name><languageId>fr</languageId><trName>chinois simplifié</trName></name>
+      <name><languageId>fil</languageId><trName>Pinasimpleng Mandarin Chinese</trName></name>
+      <name><languageId>fo</languageId><trName>mandarin kinesiskt (einkult)</trName></name>
+      <name><languageId>fr</languageId><trName>mandarin simplifié</trName></name>
       <name><languageId>fur</languageId><trName>cinês semplificât</trName></name>
       <name><languageId>fy</languageId><trName>Ferienfâldich Sineesk</trName></name>
       <name><languageId>ga</languageId><trName>Sínis Shimplithe</trName></name>
-      <name><languageId>gd</languageId><trName>Sìnis Shimplichte</trName></name>
-      <name><languageId>gl</languageId><trName>chinés simplificado</trName></name>
+      <name><languageId>gd</languageId><trName>Mandairinis Shimplichte</trName></name>
+      <name><languageId>gl</languageId><trName>chinés mandarín simplificado</trName></name>
       <name><languageId>gsw</languageId><trName>Veräifachts Chineesisch</trName></name>
-      <name><languageId>gu</languageId><trName>સરળીકૃત ચાઇનીઝ</trName></name>
+      <name><languageId>gu</languageId><trName>સરળીકૃત મેન્ડેરિન ચાઇનીઝ</trName></name>
       <name><languageId>ha</languageId><trName>Sauƙaƙaƙƙen Sinanci</trName></name>
       <name><languageId>haw</languageId><trName>Pākē Hoʻomaʻalahi ʻia</trName></name>
-      <name><languageId>he</languageId><trName>סינית פשוטה</trName></name>
-      <name><languageId>hi</languageId><trName>सरलीकृत चीनी</trName></name>
-      <name><languageId>hr</languageId><trName>kineski (pojednostavljeni)</trName></name>
+      <name><languageId>he</languageId><trName>סינית מנדרינית פשוטה</trName></name>
+      <name><languageId>hi</languageId><trName>सरलीकृत मैंडेरिन चीनी</trName></name>
+      <name><languageId>hr</languageId><trName>mandarinski kineski (pojednostavljeni)</trName></name>
       <name><languageId>hsb</languageId><trName>chinšćina (zjednorjena)</trName></name>
-      <name><languageId>hu</languageId><trName>egyszerűsített kínai</trName></name>
+      <name><languageId>hu</languageId><trName>kínai (egyszerűsített)</trName></name>
       <name><languageId>hy</languageId><trName>պարզեցված չինարեն</trName></name>
       <name><languageId>ia</languageId><trName>chinese simplificate</trName></name>
       <name><languageId>id</languageId><trName>Tionghoa (Aksara Sederhana)</trName></name>
       <name><languageId>ig</languageId><trName>Asụsụ Chinese dị mfe</trName></name>
       <name><languageId>ii</languageId><trName>ꈝꐯꍏꇩꉙ</trName></name>
-      <name><languageId>is</languageId><trName>kínverska (einfölduð)</trName></name>
-      <name><languageId>it</languageId><trName>cinese semplificato</trName></name>
-      <name><languageId>ja</languageId><trName>簡体中国語</trName></name>
-      <name><languageId>jv</languageId><trName>Tyonghwa (Gampang)</trName></name>
-      <name><languageId>ka</languageId><trName>გამარტივებული ჩინური</trName></name>
-      <name><languageId>kab</languageId><trName>Tacinwat taḥerfit</trName></name>
-      <name><languageId>kea</languageId><trName>xines simplifikadu</trName></name>
-      <name><languageId>kk</languageId><trName>жеңілдетілген қытай тілі</trName></name>
-      <name><languageId>km</languageId><trName>ចិន​អក្សរ​កាត់</trName></name>
+      <name><languageId>is</languageId><trName>mandarín (einfölduð)</trName></name>
+      <name><languageId>it</languageId><trName>cinese mandarino semplificato</trName></name>
+      <name><languageId>ja</languageId><trName>標準中国語 (簡体字)</trName></name>
+      <name><languageId>jv</languageId><trName>Tyonghwa Mandarin (Ringkes)</trName></name>
+      <name><languageId>ka</languageId><trName>გამარტივებული ჩინური მანდარინი</trName></name>
+      <name><languageId>kab</languageId><trName>Tacinwat tamundarint taḥerfit</trName></name>
+      <name><languageId>kea</languageId><trName>xines mandarin (simplificadu)</trName></name>
+      <name><languageId>kk</languageId><trName>жеңілдетілген қытай тілі (мандарин)</trName></name>
+      <name><languageId>km</languageId><trName>ចិនកុកងឺ (អក្សរ​កាត់)</trName></name>
       <name><languageId>kn</languageId><trName>ಸರಳೀಕೃತ ಚೈನೀಸ್</trName></name>
-      <name><languageId>ko</languageId><trName>중국어(간체)</trName></name>
+      <name><languageId>ko</languageId><trName>중국어(만다린, 간체)</trName></name>
       <name><languageId>kok</languageId><trName>सोंपी चिनी</trName></name>
       <name><languageId>ks</languageId><trName>سیود چیٖنی</trName></name>
       <name><languageId>ksh</languageId><trName>Schinehsesch (eijfache Schreff)</trName></name>
@@ -49718,65 +49718,65 @@
       <name><languageId>ky</languageId><trName>кытайча (жөнөкөйлөштүрүлгөн)</trName></name>
       <name><languageId>lb</languageId><trName>Chinesesch (vereinfacht)</trName></name>
       <name><languageId>lkt</languageId><trName>Pȟečhókaŋ Háŋska Iyápi Ikčéka</trName></name>
-      <name><languageId>lo</languageId><trName>ຈີນແບບຮຽບງ່າຍ</trName></name>
+      <name><languageId>lo</languageId><trName>ພາສາຈີນກາງ</trName></name>
       <name><languageId>lrc</languageId><trName>چینی سادە بیە</trName></name>
-      <name><languageId>lt</languageId><trName>supaprastintoji kinų</trName></name>
-      <name><languageId>lv</languageId><trName>ķīniešu vienkāršotā</trName></name>
+      <name><languageId>lt</languageId><trName>supaprastintoji mandarinų kinų</trName></name>
+      <name><languageId>lv</languageId><trName>ķīniešu vienkāršotā (mandarīnu)</trName></name>
       <name><languageId>mi</languageId><trName>Hainamana Māmā</trName></name>
-      <name><languageId>mk</languageId><trName>поедноставен кинески</trName></name>
+      <name><languageId>mk</languageId><trName>поедноставен мандарински</trName></name>
       <name><languageId>ml</languageId><trName>ലളിതമാക്കിയ ചൈനീസ്</trName></name>
-      <name><languageId>mn</languageId><trName>хялбаршуулсан хятад</trName></name>
-      <name><languageId>mr</languageId><trName>सरलीकृत चीनी</trName></name>
-      <name><languageId>ms</languageId><trName>Cina Ringkas</trName></name>
+      <name><languageId>mn</languageId><trName>хялбаршуулсан мандарин хятад</trName></name>
+      <name><languageId>mr</languageId><trName>सरलीकृत मँडेरिन चीनी</trName></name>
+      <name><languageId>ms</languageId><trName>Cina Mandarin Ringkas</trName></name>
       <name><languageId>mt</languageId><trName>Ċiniż Simplifikat</trName></name>
-      <name><languageId>my</languageId><trName>ရိုးရှင်းသော တရုတ်</trName></name>
+      <name><languageId>my</languageId><trName>ပြည်ကြီးတရုတ် (ရိုးရှင်း)</trName></name>
       <name><languageId>mzn</languageId><trName>ساده چینی</trName></name>
-      <name><languageId>nb</languageId><trName>forenklet kinesisk</trName></name>
+      <name><languageId>nb</languageId><trName>forenklet mandarinkinesisk</trName></name>
       <name><languageId>nds</languageId><trName>Vereenfacht Chineesch</trName></name>
-      <name><languageId>ne</languageId><trName>सरलिकृत चिनियाँ</trName></name>
-      <name><languageId>nl</languageId><trName>vereenvoudigd Chinees</trName></name>
+      <name><languageId>ne</languageId><trName>सरलिकृत म्यान्डरिन चिनियाँ</trName></name>
+      <name><languageId>nl</languageId><trName>Mandarijn (vereenvoudigd)</trName></name>
       <name><languageId>nn</languageId><trName>forenkla kinesisk</trName></name>
-      <name><languageId>or</languageId><trName>ସରଳୀକୃତ ଚାଇନିଜ୍‌</trName></name>
+      <name><languageId>or</languageId><trName>ସରଳୀକୃତ ମାଣ୍ଡାରିନ୍ ଚାଇନିଜ୍</trName></name>
       <name><languageId>os</languageId><trName>ӕнцонгонд китайаг</trName></name>
-      <name><languageId>pa</languageId><trName>ਚੀਨੀ (ਸਰਲ)</trName></name>
-      <name><languageId>pl</languageId><trName>chiński uproszczony</trName></name>
+      <name><languageId>pa</languageId><trName>ਚੀਨੀ ਮੈਂਡਰਿਨ (ਸਰਲ)</trName></name>
+      <name><languageId>pl</languageId><trName>standardowy chiński uproszczony</trName></name>
       <name><languageId>prg</languageId><trName>prastintan kīniskan</trName></name>
-      <name><languageId>ps</languageId><trName>ساده چيني</trName></name>
-      <name><languageId>pt</languageId><trName>chinês simplificado</trName></name>
+      <name><languageId>ps</languageId><trName>چيني ماندرين چيني</trName></name>
+      <name><languageId>pt</languageId><trName>chinês mandarim (simplificado)</trName></name>
       <name><languageId>qu</languageId><trName>Chino Mandarín Simplificado Simi</trName></name>
       <name><languageId>rm</languageId><trName>chinais simplifitgà</trName></name>
-      <name><languageId>ro</languageId><trName>chineză simplificată</trName></name>
-      <name><languageId>ru</languageId><trName>китайский, упрощенное письмо</trName></name>
-      <name><languageId>sd</languageId><trName>آسان چینی</trName></name>
+      <name><languageId>ro</languageId><trName>chineză mandarină simplificată</trName></name>
+      <name><languageId>ru</languageId><trName>севернокитайский, упрощенное письмо</trName></name>
+      <name><languageId>sd</languageId><trName>سادي مندارن چيني</trName></name>
       <name><languageId>se</languageId><trName>álki kiinágiella</trName></name>
-      <name><languageId>si</languageId><trName>සරල චීන</trName></name>
-      <name><languageId>sk</languageId><trName>čínština (zjednodušená)</trName></name>
+      <name><languageId>si</languageId><trName>සරල මැන්ඩරීන් චීන</trName></name>
+      <name><languageId>sk</languageId><trName>čínština (mandarínska zjednodušená)</trName></name>
       <name><languageId>sl</languageId><trName>poenostavljena kitajščina</trName></name>
       <name><languageId>smn</languageId><trName>oovtâkiärdánis kiinakielâ</trName></name>
       <name><languageId>so</languageId><trName>Shiinaha Rasmiga ah</trName></name>
-      <name><languageId>sq</languageId><trName>kinezishte e thjeshtuar</trName></name>
+      <name><languageId>sq</languageId><trName>kinezishte mandarine (e thjeshtuar)</trName></name>
       <name><languageId>sr</languageId><trName>поједностављени кинески</trName></name>
       <name><languageId>sr_Latn</languageId><trName>pojednostavljeni kineski</trName></name>
       <name><languageId>sv</languageId><trName>förenklad kinesiska</trName></name>
       <name><languageId>sw</languageId><trName>Kichina (Kilichorahisishwa)</trName></name>
-      <name><languageId>ta</languageId><trName>எளிதாக்கப்பட்ட சீனம்</trName></name>
-      <name><languageId>te</languageId><trName>సరళీకృత చైనీస్</trName></name>
-      <name><languageId>tg</languageId><trName>хитоии осонфаҳм</trName></name>
+      <name><languageId>ta</languageId><trName>எளிதாக்கப்பட்ட சீன மாண்டரின்</trName></name>
+      <name><languageId>te</languageId><trName>సరళీకృత మాండరిన్ చైనీస్</trName></name>
+      <name><languageId>tg</languageId><trName>хитоии мандаринии осонфаҳм</trName></name>
       <name><languageId>th</languageId><trName>จีนประยุกต์</trName></name>
-      <name><languageId>tk</languageId><trName>ýönekeýleşdirilen hytaý dili</trName></name>
-      <name><languageId>to</languageId><trName>lea fakasiaina-fakafaingofua</trName></name>
-      <name><languageId>tr</languageId><trName>Basitleştirilmiş Çince</trName></name>
-      <name><languageId>tt</languageId><trName>гадиләштерелгән кытай</trName></name>
+      <name><languageId>tk</languageId><trName>ýönekeýleşdirilen hytaý diliniň mandarin şiwesi</trName></name>
+      <name><languageId>to</languageId><trName>lea fakasiaina-mānitali-fakafaingofua</trName></name>
+      <name><languageId>tr</languageId><trName>Basitleştirilmiş Çince (Mandarin)</trName></name>
+      <name><languageId>tt</languageId><trName>гадиләштерелгән мандарин кытайчасы</trName></name>
       <name><languageId>ug</languageId><trName>ئاددىي خەنچە</trName></name>
-      <name><languageId>uk</languageId><trName>китайська (спрощене письмо)</trName></name>
-      <name><languageId>ur</languageId><trName>چینی (آسان کردہ)</trName></name>
-      <name><languageId>uz</languageId><trName>xitoy (soddalashgan)</trName></name>
+      <name><languageId>uk</languageId><trName>китайська мандаринська (спрощене письмо)</trName></name>
+      <name><languageId>ur</languageId><trName>سادہ مندارن چینی</trName></name>
+      <name><languageId>uz</languageId><trName>xitoy (soddalashtirilgan mandarin)</trName></name>
       <name><languageId>uz_Cyrl</languageId><trName>zh_Hans</trName></name>
-      <name><languageId>vi</languageId><trName>Tiếng Trung (Giản thể)</trName></name>
+      <name><languageId>vi</languageId><trName>Tiếng Trung Phổ thông (Giản thể)</trName></name>
       <name><languageId>wae</languageId><trName>Vereifačts Chinesiš</trName></name>
       <name><languageId>wo</languageId><trName>Sinuwaa buñ woyofal</trName></name>
-      <name><languageId>yue</languageId><trName>簡體中文</trName></name>
-      <name><languageId>zh</languageId><trName>简体中文</trName></name>
+      <name><languageId>yue</languageId><trName>簡體中文 (普通話)</trName></name>
+      <name><languageId>zh</languageId><trName>现代标准汉语</trName></name>
       <name><languageId>zh_Hans</languageId><trName>简体中文</trName></name>
       <name><languageId>zh_Hant</languageId><trName>簡體中文</trName></name>
       <name><languageId>zu</languageId><trName>isi-Chinese (esenziwe-lula)</trName></name>
@@ -49875,73 +49875,73 @@
     <iso639-2-t>zho</iso639-2-t>
     <iso639-2-b>chi</iso639-2-b>
     <names>
-      <name><languageId>af</languageId><trName>Chinees (Tradisioneel)</trName></name>
-      <name><languageId>am</languageId><trName>ባህላዊ ቻይንኛ</trName></name>
+      <name><languageId>af</languageId><trName>Mandarynse Chinees (Tradisioneel)</trName></name>
+      <name><languageId>am</languageId><trName>ባህላዊ ማንድሪን ቻይንኛ</trName></name>
       <name><languageId>ar</languageId><trName>الصينية التقليدية</trName></name>
-      <name><languageId>as</languageId><trName>পৰম্পৰাগত চীনা</trName></name>
+      <name><languageId>as</languageId><trName>পৰম্পৰাগত মেণ্ডাৰিন চীনা</trName></name>
       <name><languageId>ast</languageId><trName>chinu tradicional</trName></name>
-      <name><languageId>az</languageId><trName>ənənəvi çin</trName></name>
-      <name><languageId>be</languageId><trName>кітайская (традыцыйныя іерогліфы)</trName></name>
-      <name><languageId>bg</languageId><trName>традиционен китайски</trName></name>
-      <name><languageId>bn</languageId><trName>ঐতিহ্যবাহি চীনা</trName></name>
+      <name><languageId>az</languageId><trName>ənənəvi mandarin çincəsi</trName></name>
+      <name><languageId>be</languageId><trName>паўночнакітайская (традыцыйныя іерогліфы)</trName></name>
+      <name><languageId>bg</languageId><trName>китайски, мандарин (традиционен)</trName></name>
+      <name><languageId>bn</languageId><trName>ঐতিহ্যবাহী ম্যান্ডারিন চীনা</trName></name>
       <name><languageId>bo</languageId><trName>སྲོལ་རྒྱུན་གྱི།</trName></name>
-      <name><languageId>br</languageId><trName>sinaeg hengounel</trName></name>
+      <name><languageId>br</languageId><trName>sinaeg mandarinek hengounel</trName></name>
       <name><languageId>brx</languageId><trName>चीनी (पारम्परिक)</trName></name>
-      <name><languageId>bs</languageId><trName>kineski (tradicionalni)</trName></name>
-      <name><languageId>ca</languageId><trName>xinès tradicional</trName></name>
+      <name><languageId>bs</languageId><trName>kineski (tradicionalni standardni)</trName></name>
+      <name><languageId>ca</languageId><trName>xinès mandarí (tradicional)</trName></name>
       <name><languageId>ccp</languageId><trName>𑄢𑄨𑄘𑄨𑄥𑄪𑄘𑄮𑄟𑄴 𑄌𑄩𑄚</trName></name>
       <name><languageId>ce</languageId><trName>ламастан цийн</trName></name>
-      <name><languageId>chr</languageId><trName>ᎤᏦᏍᏗ ᏓᎶᏂᎨ</trName></name>
+      <name><languageId>chr</languageId><trName>ᎤᏦᏍᏗ ᎹᏓᏈᏂ ᏓᎶᏂᎨ</trName></name>
       <name><languageId>ckb</languageId><trName>چینی (چینیی دێرین)</trName></name>
-      <name><languageId>cs</languageId><trName>čínština [tradiční]</trName></name>
+      <name><languageId>cs</languageId><trName>standardní čínština (tradiční)</trName></name>
       <name><languageId>cu</languageId><trName>традїцїо́нный хи́нскїй</trName></name>
-      <name><languageId>cy</languageId><trName>Tsieineeg Traddodiadol</trName></name>
+      <name><languageId>cy</languageId><trName>Tsieinëeg Mandarin Traddodiadol</trName></name>
       <name><languageId>da</languageId><trName>traditionelt kinesisk</trName></name>
       <name><languageId>de</languageId><trName>Chinesisch (traditionell)</trName></name>
       <name><languageId>dsb</languageId><trName>chinšćina (tradicionalna)</trName></name>
       <name><languageId>dz</languageId><trName>སྔ་དུས་ཀྱི་རྒྱ་མི་ཁ</trName></name>
       <name><languageId>ee</languageId><trName>blema tsainagbe</trName></name>
-      <name><languageId>el</languageId><trName>Παραδοσιακά Κινεζικά</trName></name>
+      <name><languageId>el</languageId><trName>Παραδοσιακά Μανδαρινικά Κινεζικά</trName></name>
       <name><languageId>en</languageId><trName>Traditional Mandarin Chinese</trName></name>
       <name><languageId>eo</languageId><trName>ĉina tradicia</trName></name>
-      <name><languageId>es</languageId><trName>chino tradicional</trName></name>
-      <name><languageId>et</languageId><trName>traditsiooniline hiina</trName></name>
-      <name><languageId>eu</languageId><trName>txinera tradizionala</trName></name>
-      <name><languageId>fa</languageId><trName>چینی سنتی</trName></name>
+      <name><languageId>es</languageId><trName>chino mandarín tradicional</trName></name>
+      <name><languageId>et</languageId><trName>traditsiooniline mandariinihiina</trName></name>
+      <name><languageId>eu</languageId><trName>mandarin tradizional</trName></name>
+      <name><languageId>fa</languageId><trName>چینی ماندارین سنتی</trName></name>
       <name><languageId>fi</languageId><trName>perinteinen kiina</trName></name>
-      <name><languageId>fil</languageId><trName>Tradisyonal na Chinese</trName></name>
-      <name><languageId>fo</languageId><trName>vanligt kinesiskt</trName></name>
-      <name><languageId>fr</languageId><trName>chinois traditionnel</trName></name>
+      <name><languageId>fil</languageId><trName>Tradisyonal na Mandarin Chinese</trName></name>
+      <name><languageId>fo</languageId><trName>mandarin kinesiskt (vanligt)</trName></name>
+      <name><languageId>fr</languageId><trName>mandarin traditionnel</trName></name>
       <name><languageId>fur</languageId><trName>cinês tradizionâl</trName></name>
       <name><languageId>fy</languageId><trName>Tradisjoneel Sineesk</trName></name>
       <name><languageId>ga</languageId><trName>Sínis Thraidisiúnta</trName></name>
-      <name><languageId>gd</languageId><trName>Sìnis Thradaiseanta</trName></name>
-      <name><languageId>gl</languageId><trName>chinés tradicional</trName></name>
+      <name><languageId>gd</languageId><trName>Mandairinis Thradaiseanta</trName></name>
+      <name><languageId>gl</languageId><trName>chinés mandarín tradicional</trName></name>
       <name><languageId>gsw</languageId><trName>Tradizionells Chineesisch</trName></name>
-      <name><languageId>gu</languageId><trName>પારંપરિક ચાઇનીઝ</trName></name>
+      <name><languageId>gu</languageId><trName>પરંપરાગત મેન્ડેરિન ચાઇનીઝ</trName></name>
       <name><languageId>ha</languageId><trName>Sinanci na gargajiya</trName></name>
       <name><languageId>haw</languageId><trName>Pākē Kuʻuna</trName></name>
-      <name><languageId>he</languageId><trName>סינית מסורתית</trName></name>
-      <name><languageId>hi</languageId><trName>पारंपरिक चीनी</trName></name>
-      <name><languageId>hr</languageId><trName>kineski (tradicionalni)</trName></name>
+      <name><languageId>he</languageId><trName>סינית מנדרינית מסורתית</trName></name>
+      <name><languageId>hi</languageId><trName>पारंपरिक मैंडेरिन चीनी</trName></name>
+      <name><languageId>hr</languageId><trName>mandarinski kineski (tradicionalni)</trName></name>
       <name><languageId>hsb</languageId><trName>chinšćina (tradicionalna)</trName></name>
-      <name><languageId>hu</languageId><trName>hagyományos kínai</trName></name>
-      <name><languageId>hy</languageId><trName>ավանդական չինարեն</trName></name>
+      <name><languageId>hu</languageId><trName>kínai (hagyományos)</trName></name>
+      <name><languageId>hy</languageId><trName>չինարեն (ավանդական չինարեն)</trName></name>
       <name><languageId>ia</languageId><trName>chinese traditional</trName></name>
       <name><languageId>id</languageId><trName>Tionghoa (Aksara Tradisional)</trName></name>
       <name><languageId>ig</languageId><trName>Asụsụ Chinese Izugbe</trName></name>
       <name><languageId>ii</languageId><trName>ꀎꋏꍏꇩꉙ</trName></name>
-      <name><languageId>is</languageId><trName>kínverska (hefðbundin)</trName></name>
-      <name><languageId>it</languageId><trName>cinese tradizionale</trName></name>
-      <name><languageId>ja</languageId><trName>繁体中国語</trName></name>
-      <name><languageId>jv</languageId><trName>Tyonghwa (Tradisional)</trName></name>
-      <name><languageId>ka</languageId><trName>ტრადიციული ჩინური</trName></name>
-      <name><languageId>kab</languageId><trName>Tacinwat tamensayt</trName></name>
-      <name><languageId>kea</languageId><trName>xines tradisional</trName></name>
-      <name><languageId>kk</languageId><trName>дәстүрлі қытай тілі</trName></name>
-      <name><languageId>km</languageId><trName>ចិន​អក្សរ​ពេញ</trName></name>
-      <name><languageId>kn</languageId><trName>ಸಾಂಪ್ರದಾಯಿಕ ಚೈನೀಸ್</trName></name>
-      <name><languageId>ko</languageId><trName>중국어(번체)</trName></name>
+      <name><languageId>is</languageId><trName>mandarín (hefðbundin)</trName></name>
+      <name><languageId>it</languageId><trName>cinese mandarino tradizionale</trName></name>
+      <name><languageId>ja</languageId><trName>標準中国語 (繁体字)</trName></name>
+      <name><languageId>jv</languageId><trName>Tyonghwa Mandarin (Tradisional)</trName></name>
+      <name><languageId>ka</languageId><trName>ტრადიციული ჩინური მანდარინი</trName></name>
+      <name><languageId>kab</languageId><trName>Tacinwat tamundarint tamensayt</trName></name>
+      <name><languageId>kea</languageId><trName>xines mandarin (tradisional)</trName></name>
+      <name><languageId>kk</languageId><trName>дәстүрлі қытай тілі (мандарин)</trName></name>
+      <name><languageId>km</languageId><trName>ចិនកុកងឺ (អក្សរ​ពុម្ព)</trName></name>
+      <name><languageId>kn</languageId><trName>ಸಾಂಪ್ರದಾಯಿಕ ಮ್ಯಾಂಡರಿನ್ ಚೈನೀಸ್</trName></name>
+      <name><languageId>ko</languageId><trName>중국어(만다린, 번체)</trName></name>
       <name><languageId>kok</languageId><trName>पारंपारीक चिनी</trName></name>
       <name><languageId>ks</languageId><trName>رِوٲجی چیٖنی</trName></name>
       <name><languageId>ksh</languageId><trName>Schinehsesch (tradizjonälle Schreff)</trName></name>
@@ -49950,65 +49950,65 @@
       <name><languageId>ky</languageId><trName>кытайча (салттуу)</trName></name>
       <name><languageId>lb</languageId><trName>Chinesesch (traditionell)</trName></name>
       <name><languageId>lkt</languageId><trName>Pȟečhókaŋ Háŋska Iyápi Ȟče</trName></name>
-      <name><languageId>lo</languageId><trName>ຈີນແບບດັ້ງເດີມ</trName></name>
+      <name><languageId>lo</languageId><trName>ພາສາຈີນແມນດາຣິນດັ້ງເດີມ</trName></name>
       <name><languageId>lrc</languageId><trName>چینی سونأتی</trName></name>
-      <name><languageId>lt</languageId><trName>tradicinė kinų</trName></name>
-      <name><languageId>lv</languageId><trName>ķīniešu tradicionālā</trName></name>
+      <name><languageId>lt</languageId><trName>tradicinė mandarinų kinų</trName></name>
+      <name><languageId>lv</languageId><trName>ķīniešu tradicionālā (mandarīnu)</trName></name>
       <name><languageId>mi</languageId><trName>Hainamana Tukuiho</trName></name>
-      <name><languageId>mk</languageId><trName>традиционален кинески</trName></name>
+      <name><languageId>mk</languageId><trName>традиционален мандарински</trName></name>
       <name><languageId>ml</languageId><trName>പരമ്പരാഗത ചൈനീസ്</trName></name>
-      <name><languageId>mn</languageId><trName>уламжлалт хятад</trName></name>
-      <name><languageId>mr</languageId><trName>पारंपारिक चीनी</trName></name>
-      <name><languageId>ms</languageId><trName>Cina Tradisional</trName></name>
+      <name><languageId>mn</languageId><trName>уламжлалт мандарин хятад</trName></name>
+      <name><languageId>mr</languageId><trName>पारंपारिक मँडेरिन चीनी</trName></name>
+      <name><languageId>ms</languageId><trName>Cina Mandarin Tradisional</trName></name>
       <name><languageId>mt</languageId><trName>Ċiniż Tradizzjonali</trName></name>
-      <name><languageId>my</languageId><trName>ရှေးရိုးစဉ်လာ တရုတ်</trName></name>
+      <name><languageId>my</languageId><trName>ပြည်ကြီးတရုတ် (ရိုးရာ)</trName></name>
       <name><languageId>mzn</languageId><trName>سنتی چینی</trName></name>
-      <name><languageId>nb</languageId><trName>tradisjonell kinesisk</trName></name>
+      <name><languageId>nb</languageId><trName>tradisjonell mandarinkinesisk</trName></name>
       <name><languageId>nds</languageId><trName>Traditschonell Chineesch</trName></name>
-      <name><languageId>ne</languageId><trName>परम्परागत चिनियाँ</trName></name>
-      <name><languageId>nl</languageId><trName>traditioneel Chinees</trName></name>
+      <name><languageId>ne</languageId><trName>परम्परागत म्यान्डरिन चिनियाँ</trName></name>
+      <name><languageId>nl</languageId><trName>Mandarijn (traditioneel)</trName></name>
       <name><languageId>nn</languageId><trName>tradisjonell kinesisk</trName></name>
-      <name><languageId>or</languageId><trName>ପାରମ୍ପରିକ ଚାଇନିଜ୍‌</trName></name>
+      <name><languageId>or</languageId><trName>ପାରମ୍ପରିକ ମାଣ୍ଡାରିନ୍ ଚାଇନିଜ୍</trName></name>
       <name><languageId>os</languageId><trName>традицион китайаг</trName></name>
-      <name><languageId>pa</languageId><trName>ਚੀਨੀ (ਰਵਾਇਤੀ)</trName></name>
-      <name><languageId>pl</languageId><trName>chiński tradycyjny</trName></name>
+      <name><languageId>pa</languageId><trName>ਚੀਨੀ ਮੈਂਡਰਿਨ (ਰਵਾਇਤੀ)</trName></name>
+      <name><languageId>pl</languageId><trName>standardowy chiński tradycyjny</trName></name>
       <name><languageId>prg</languageId><trName>tradiciōnalin kīniskan</trName></name>
-      <name><languageId>ps</languageId><trName>دوديزه چيني</trName></name>
-      <name><languageId>pt</languageId><trName>chinês tradicional</trName></name>
+      <name><languageId>ps</languageId><trName>دوديزه ماندرين چيني</trName></name>
+      <name><languageId>pt</languageId><trName>chinês mandarim (tradicional)</trName></name>
       <name><languageId>qu</languageId><trName>Chino Mandarín Tradicional Simi</trName></name>
       <name><languageId>rm</languageId><trName>chinais tradiziunal</trName></name>
-      <name><languageId>ro</languageId><trName>chineză tradițională</trName></name>
-      <name><languageId>ru</languageId><trName>китайский, традиционное письмо</trName></name>
-      <name><languageId>sd</languageId><trName>روايتي چيني</trName></name>
+      <name><languageId>ro</languageId><trName>chineză mandarină tradițională</trName></name>
+      <name><languageId>ru</languageId><trName>севернокитайский, традиционное письмо</trName></name>
+      <name><languageId>sd</languageId><trName>رواجي مندارن چيني</trName></name>
       <name><languageId>se</languageId><trName>árbevirolaš kiinnágiella</trName></name>
-      <name><languageId>si</languageId><trName>සාම්ප්‍රදායික චීන</trName></name>
-      <name><languageId>sk</languageId><trName>čínština (tradičná)</trName></name>
+      <name><languageId>si</languageId><trName>සාම්ප්‍රදායික මැන්ඩරීන් චීන</trName></name>
+      <name><languageId>sk</languageId><trName>čínština (mandarínska tradičná)</trName></name>
       <name><languageId>sl</languageId><trName>tradicionalna kitajščina</trName></name>
       <name><languageId>smn</languageId><trName>ärbivuáválâš kiinakielâ</trName></name>
       <name><languageId>so</languageId><trName>Shiinahii Hore</trName></name>
-      <name><languageId>sq</languageId><trName>kinezishte tradicionale</trName></name>
+      <name><languageId>sq</languageId><trName>kinezishte mandarine (tradicionale)</trName></name>
       <name><languageId>sr</languageId><trName>традиционални кинески</trName></name>
       <name><languageId>sr_Latn</languageId><trName>tradicionalni kineski</trName></name>
       <name><languageId>sv</languageId><trName>traditionell kinesiska</trName></name>
-      <name><languageId>sw</languageId><trName>Kichina cha Jadi</trName></name>
-      <name><languageId>ta</languageId><trName>பாரம்பரிய சீனம்</trName></name>
-      <name><languageId>te</languageId><trName>సాంప్రదాయక చైనీస్</trName></name>
-      <name><languageId>tg</languageId><trName>хитоии анъанавӣ</trName></name>
+      <name><languageId>sw</languageId><trName>Kichina (cha jadi)</trName></name>
+      <name><languageId>ta</languageId><trName>பாரம்பரிய சீன மாண்டரின்</trName></name>
+      <name><languageId>te</languageId><trName>సాంప్రదాయక మాండరిన్ చైనీస్</trName></name>
+      <name><languageId>tg</languageId><trName>хитоии мандаринии анъанавӣ</trName></name>
       <name><languageId>th</languageId><trName>จีนดั้งเดิม</trName></name>
-      <name><languageId>tk</languageId><trName>adaty hytaý dili</trName></name>
-      <name><languageId>to</languageId><trName>lea fakasiaina-tukufakaholo</trName></name>
-      <name><languageId>tr</languageId><trName>Geleneksel Çince</trName></name>
-      <name><languageId>tt</languageId><trName>традицион кытай</trName></name>
+      <name><languageId>tk</languageId><trName>adaty hytaý diliniň mandarin şiwesi</trName></name>
+      <name><languageId>to</languageId><trName>lea fakasiaina-mānitali-tukufakaholo</trName></name>
+      <name><languageId>tr</languageId><trName>Geleneksel Çince (Mandarin)</trName></name>
+      <name><languageId>tt</languageId><trName>традицион мандарин кытайчасы</trName></name>
       <name><languageId>ug</languageId><trName>مۇرەككەپ خەنچە</trName></name>
-      <name><languageId>uk</languageId><trName>китайська (традиційне письмо)</trName></name>
-      <name><languageId>ur</languageId><trName>روایتی چینی</trName></name>
-      <name><languageId>uz</languageId><trName>xitoy (an’anaviy)</trName></name>
+      <name><languageId>uk</languageId><trName>китайська мандаринська (традиційне письмо)</trName></name>
+      <name><languageId>ur</languageId><trName>روایتی مندارن چینی</trName></name>
+      <name><languageId>uz</languageId><trName>xitoy (an’anaviy mandarin)</trName></name>
       <name><languageId>uz_Cyrl</languageId><trName>zh_Hant</trName></name>
-      <name><languageId>vi</languageId><trName>Tiếng Trung (Phồn thể)</trName></name>
+      <name><languageId>vi</languageId><trName>Tiếng Trung Phổ thông (Phồn thể)</trName></name>
       <name><languageId>wae</languageId><trName>Traditionells Chinesiš</trName></name>
       <name><languageId>wo</languageId><trName>Sinuwaa bu cosaan</trName></name>
-      <name><languageId>yue</languageId><trName>繁體中文</trName></name>
-      <name><languageId>zh</languageId><trName>繁体中文</trName></name>
+      <name><languageId>yue</languageId><trName>繁體中文 (普通話)</trName></name>
+      <name><languageId>zh</languageId><trName>台湾国语</trName></name>
       <name><languageId>zh_Hant</languageId><trName>繁體中文</trName></name>
       <name><languageId>zu</languageId><trName>isi-Chinese (Okosiko)</trName></name>
     </names>

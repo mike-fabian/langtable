@@ -10,7 +10,7 @@
       <name><languageId>ast</languageId><trName>Mundu</trName></name>
       <name><languageId>az</languageId><trName>Dünya</trName></name>
       <name><languageId>be</languageId><trName>Свет</trName></name>
-      <name><languageId>bg</languageId><trName>Свят</trName></name>
+      <name><languageId>bg</languageId><trName>свят</trName></name>
       <name><languageId>bn</languageId><trName>পৃথিবী</trName></name>
       <name><languageId>bo</languageId><trName>འཛམ་གླིང་།</trName></name>
       <name><languageId>br</languageId><trName>Bed</trName></name>
@@ -534,7 +534,7 @@
       <name><languageId>mk</languageId><trName>Азија</trName></name>
       <name><languageId>ml</languageId><trName>ഏഷ്യ</trName></name>
       <name><languageId>mn</languageId><trName>Ази</trName></name>
-      <name><languageId>mr</languageId><trName>अशिया</trName></name>
+      <name><languageId>mr</languageId><trName>आशिया</trName></name>
       <name><languageId>ms</languageId><trName>Asia</trName></name>
       <name><languageId>mt</languageId><trName>Asja</trName></name>
       <name><languageId>my</languageId><trName>အာရှ</trName></name>
@@ -2851,7 +2851,7 @@
       <name><languageId>hu</languageId><trName>Antarktisz</trName></name>
       <name><languageId>hy</languageId><trName>Անտարկտիդա</trName></name>
       <name><languageId>ia</languageId><trName>Antarctica</trName></name>
-      <name><languageId>id</languageId><trName>Antartika</trName></name>
+      <name><languageId>id</languageId><trName>Antarktika</trName></name>
       <name><languageId>ig</languageId><trName>Antarctica</trName></name>
       <name><languageId>is</languageId><trName>Suðurskautslandið</trName></name>
       <name><languageId>it</languageId><trName>Antartide</trName></name>
@@ -4275,7 +4275,7 @@
       <name><languageId>kab</languageId><trName>Azrabijan</trName></name>
       <name><languageId>kam</languageId><trName>Azabajani</trName></name>
       <name><languageId>kde</languageId><trName>Azabadyani</trName></name>
-      <name><languageId>kea</languageId><trName>Azerbaijãu</trName></name>
+      <name><languageId>kea</languageId><trName>Azerbaidjan</trName></name>
       <name><languageId>khq</languageId><trName>Azerbaayijaŋ</trName></name>
       <name><languageId>ki</languageId><trName>Azabajani</trName></name>
       <name><languageId>kk</languageId><trName>Әзірбайжан</trName></name>
@@ -4439,10 +4439,10 @@
       <name><languageId>ccp</languageId><trName>𑄝𑄧𑄥𑄴𑄚𑄨𑄠 𑄃𑄮 𑄦𑄢𑄴𑄎𑄬𑄉𑄮𑄞𑄨𑄚</trName></name>
       <name><languageId>ce</languageId><trName>Босни а, Герцеговина а</trName></name>
       <name><languageId>cgg</languageId><trName>Boziniya na Hezegovina</trName></name>
-      <name><languageId>chr</languageId><trName>ᏉᏏᏂᎠ &amp; ᎲᏤᎪᏫ</trName></name>
+      <name><languageId>chr</languageId><trName>ᏉᏏᏂᎠ &amp; ᎲᏤᎪᏫᎾ</trName></name>
       <name><languageId>ckb</languageId><trName>بۆسنیا و ھەرزەگۆڤینا</trName></name>
       <name><languageId>cs</languageId><trName>Bosna a Hercegovina</trName></name>
-      <name><languageId>cy</languageId><trName>Bosnia &amp; Herzegovina</trName></name>
+      <name><languageId>cy</languageId><trName>Bosnia a Herzegovina</trName></name>
       <name><languageId>da</languageId><trName>Bosnien-Hercegovina</trName></name>
       <name><languageId>dav</languageId><trName>Bosnia na Hezegovina</trName></name>
       <name><languageId>de</languageId><trName>Bosnien und Herzegowina</trName></name>
@@ -4791,7 +4791,7 @@
       <name><languageId>sr_Latn</languageId><trName>Barbados</trName></name>
       <name><languageId>sv</languageId><trName>Barbados</trName></name>
       <name><languageId>sw</languageId><trName>Babadosi</trName></name>
-      <name><languageId>ta</languageId><trName>பார்படோஸ்</trName></name>
+      <name><languageId>ta</languageId><trName>பார்படாஸ்</trName></name>
       <name><languageId>te</languageId><trName>బార్బడోస్</trName></name>
       <name><languageId>teo</languageId><trName>Babadosi</trName></name>
       <name><languageId>tg</languageId><trName>Барбадос</trName></name>
@@ -4865,7 +4865,7 @@
       <name><languageId>br</languageId><trName>Bangladesh</trName></name>
       <name><languageId>brx</languageId><trName>बंगलादेश</trName></name>
       <name><languageId>bs</languageId><trName>Bangladeš</trName></name>
-      <name><languageId>ca</languageId><trName>Bangla Desh</trName></name>
+      <name><languageId>ca</languageId><trName>Bangladesh</trName></name>
       <name><languageId>ccp</languageId><trName>𑄝𑄁𑄣𑄘𑄬𑄌𑄴</trName></name>
       <name><languageId>ce</languageId><trName>Бангладеш</trName></name>
       <name><languageId>cgg</languageId><trName>Bangaradeshi</trName></name>
@@ -6412,7 +6412,7 @@
       <name><languageId>jv</languageId><trName>Saint Barthélémi</trName></name>
       <name><languageId>ka</languageId><trName>სენ-ბართელმი</trName></name>
       <name><languageId>kab</languageId><trName>Sant Baṛtilimi</trName></name>
-      <name><languageId>kea</languageId><trName>Sãu Bartolomeu</trName></name>
+      <name><languageId>kea</languageId><trName>San Bartolomeu</trName></name>
       <name><languageId>kk</languageId><trName>Сен-Бартелеми</trName></name>
       <name><languageId>kl</languageId><trName>Saint Barthélemy</trName></name>
       <name><languageId>km</languageId><trName>សាំង​បាថេឡេមី</trName></name>
@@ -7528,7 +7528,7 @@
       <name><languageId>agq</languageId><trName>Bàhamàs</trName></name>
       <name><languageId>ak</languageId><trName>Bahama</trName></name>
       <name><languageId>am</languageId><trName>ባሃማስ</trName></name>
-      <name><languageId>ar</languageId><trName>البهاما</trName></name>
+      <name><languageId>ar</languageId><trName>جزر البهاما</trName></name>
       <name><languageId>as</languageId><trName>বাহামাছ</trName></name>
       <name><languageId>asa</languageId><trName>Bahama</trName></name>
       <name><languageId>ast</languageId><trName>Les Bahames</trName></name>
@@ -7811,7 +7811,7 @@
       <name><languageId>kab</languageId><trName>Bhutan</trName></name>
       <name><languageId>kam</languageId><trName>Butani</trName></name>
       <name><languageId>kde</languageId><trName>Butani</trName></name>
-      <name><languageId>kea</languageId><trName>Butãu</trName></name>
+      <name><languageId>kea</languageId><trName>Butan</trName></name>
       <name><languageId>khq</languageId><trName>Buutaŋ</trName></name>
       <name><languageId>ki</languageId><trName>Butani</trName></name>
       <name><languageId>kk</languageId><trName>Бутан</trName></name>
@@ -9132,7 +9132,7 @@
       <name><languageId>nmg</languageId><trName>Kongó Zaïre</trName></name>
       <name><languageId>nn</languageId><trName>Kongo-Kinshasa</trName></name>
       <name><languageId>nyn</languageId><trName>Demokoratika Ripaaburika ya Kongo</trName></name>
-      <name><languageId>or</languageId><trName>କଙ୍ଗୋ-କିନସାସା</trName></name>
+      <name><languageId>or</languageId><trName>କଙ୍ଗୋ (ଡିଆରସି)</trName></name>
       <name><languageId>pa</languageId><trName>ਕਾਂਗੋ - ਕਿੰਸ਼ਾਸਾ</trName></name>
       <name><languageId>pl</languageId><trName>Demokratyczna Republika Konga</trName></name>
       <name><languageId>ps</languageId><trName>کانګو - کینشاسا</trName></name>
@@ -9152,7 +9152,7 @@
       <name><languageId>ses</languageId><trName>Kongoo demookaratiki laboo</trName></name>
       <name><languageId>sg</languageId><trName>Ködörösêse tî Ngunuhalëzo tî kongö</trName></name>
       <name><languageId>shi</languageId><trName>ⵜⴰⴳⴷⵓⴷⴰⵏⵜ ⵜⴰⴷⵉⵎⵓⵇⵔⴰⵜⵉⵜ ⵏ ⴽⵓⵏⴳⵓ</trName></name>
-      <name><languageId>si</languageId><trName>කොංගො - කින්ශාසා</trName></name>
+      <name><languageId>si</languageId><trName>කොංගෝව (ඩීආර්සී)</trName></name>
       <name><languageId>sk</languageId><trName>Konžská demokratická republika</trName></name>
       <name><languageId>sl</languageId><trName>Demokratična republika Kongo</trName></name>
       <name><languageId>smn</languageId><trName>Kongo demokraattisâš täsiväldi</trName></name>
@@ -9227,7 +9227,7 @@
       <name><languageId>af</languageId><trName>Sentraal-Afrikaanse Republiek</trName></name>
       <name><languageId>agq</languageId><trName>Sɛnta Afɨlekan Lèkpobèlè</trName></name>
       <name><languageId>ak</languageId><trName>Afrika Finimfin Man</trName></name>
-      <name><languageId>am</languageId><trName>የመካከለኛው አፍሪካ ሪፐብሊክ</trName></name>
+      <name><languageId>am</languageId><trName>ማዕከላዊ አፍሪካ ሪፑብሊክ</trName></name>
       <name><languageId>ar</languageId><trName>جمهورية أفريقيا الوسطى</trName></name>
       <name><languageId>as</languageId><trName>মধ্য আফ্রিকান প্রজাতন্ত্র</trName></name>
       <name><languageId>asa</languageId><trName>Jamhuri ya Afrika ya Kati</trName></name>
@@ -9518,7 +9518,7 @@
       <name><languageId>km</languageId><trName>កុងហ្គោ - ប្រាហ្សាវីល</trName></name>
       <name><languageId>kn</languageId><trName>ಕಾಂಗೋ - ಬ್ರಾಜಾವಿಲ್ಲೇ</trName></name>
       <name><languageId>ko</languageId><trName>콩고-브라자빌</trName></name>
-      <name><languageId>kok</languageId><trName>कोंगो - ब्राझाविला</trName></name>
+      <name><languageId>kok</languageId><trName>काँगो - ब्राझाविला</trName></name>
       <name><languageId>ks</languageId><trName>کونگو بٔرزاوِلی</trName></name>
       <name><languageId>ksb</languageId><trName>Kongo</trName></name>
       <name><languageId>ksf</languageId><trName>kɔngó</trName></name>
@@ -9890,7 +9890,7 @@
       <name><languageId>br</languageId><trName>Aod an Olifant</trName></name>
       <name><languageId>brx</languageId><trName>आईवरी कोस्ट</trName></name>
       <name><languageId>bs</languageId><trName>Obala Slonovače</trName></name>
-      <name><languageId>ca</languageId><trName>Costa d’Ivori</trName></name>
+      <name><languageId>ca</languageId><trName>Côte d’Ivoire</trName></name>
       <name><languageId>ccp</languageId><trName>𑄃𑄭𑄞𑄧𑄢𑄨 𑄇𑄮𑄌𑄴𑄑𑄴</trName></name>
       <name><languageId>ce</languageId><trName>Кот-Д’ивуар</trName></name>
       <name><languageId>cgg</languageId><trName>Aivore Kositi</trName></name>
@@ -9924,7 +9924,7 @@
       <name><languageId>fy</languageId><trName>Ivoorkust</trName></name>
       <name><languageId>ga</languageId><trName>an Cósta Eabhair</trName></name>
       <name><languageId>gd</languageId><trName>Côte d’Ivoire</trName></name>
-      <name><languageId>gl</languageId><trName>Costa do Marfil</trName></name>
+      <name><languageId>gl</languageId><trName>Côte d’Ivoire</trName></name>
       <name><languageId>gsw</languageId><trName>Elfebäiküschte</trName></name>
       <name><languageId>gu</languageId><trName>કોટ ડીઆઇવરી</trName></name>
       <name><languageId>guz</languageId><trName>Kodivaa</trName></name>
@@ -9934,8 +9934,8 @@
       <name><languageId>hr</languageId><trName>Obala Bjelokosti</trName></name>
       <name><languageId>hsb</languageId><trName>Côte d’Ivoire</trName></name>
       <name><languageId>hu</languageId><trName>Elefántcsontpart</trName></name>
-      <name><languageId>hy</languageId><trName>Կոտ դ’Իվուար</trName></name>
-      <name><languageId>id</languageId><trName>Pantai Gading</trName></name>
+      <name><languageId>hy</languageId><trName>Կոտ դ՚Իվուար</trName></name>
+      <name><languageId>id</languageId><trName>Côte d’Ivoire</trName></name>
       <name><languageId>ig</languageId><trName>Côte d’Ivoire</trName></name>
       <name><languageId>is</languageId><trName>Fílabeinsströndin</trName></name>
       <name><languageId>it</languageId><trName>Costa d’Avorio</trName></name>
@@ -10025,7 +10025,7 @@
       <name><languageId>sq</languageId><trName>Côte d’Ivoire</trName></name>
       <name><languageId>sr</languageId><trName>Обала Слоноваче (Кот д’Ивоар)</trName></name>
       <name><languageId>sr_Latn</languageId><trName>Obala Slonovače (Kot d’Ivoar)</trName></name>
-      <name><languageId>sv</languageId><trName>Elfenbenskusten</trName></name>
+      <name><languageId>sv</languageId><trName>Côte d’Ivoire</trName></name>
       <name><languageId>sw</languageId><trName>Cote d’Ivoire</trName></name>
       <name><languageId>ta</languageId><trName>கோட் தி’வாயர்</trName></name>
       <name><languageId>te</languageId><trName>కోట్ డి ఐవోర్</trName></name>
@@ -10035,7 +10035,7 @@
       <name><languageId>ti</languageId><trName>ኮት ዲቯር</trName></name>
       <name><languageId>tk</languageId><trName>Kot-d’Iwuar</trName></name>
       <name><languageId>to</languageId><trName>Matafonua ʻAivolī</trName></name>
-      <name><languageId>tr</languageId><trName>Fildişi Sahili</trName></name>
+      <name><languageId>tr</languageId><trName>Côte d’Ivoire</trName></name>
       <name><languageId>tt</languageId><trName>Кот-д’Ивуар</trName></name>
       <name><languageId>twq</languageId><trName>Kudwar</trName></name>
       <name><languageId>tzm</languageId><trName>Taɣazut n Uszer</trName></name>
@@ -10047,7 +10047,7 @@
       <name><languageId>vi</languageId><trName>Côte d’Ivoire</trName></name>
       <name><languageId>vun</languageId><trName>Kodivaa</trName></name>
       <name><languageId>wae</languageId><trName>Elfebeiküšta</trName></name>
-      <name><languageId>wo</languageId><trName>Kodiwaar (Côte d’Ivoire)</trName></name>
+      <name><languageId>wo</languageId><trName>Kodiwaar</trName></name>
       <name><languageId>xog</languageId><trName>Kote Divwa</trName></name>
       <name><languageId>yav</languageId><trName>Kótifualɛ</trName></name>
       <name><languageId>yi</languageId><trName>העלפֿאַ נדביין בארטן</trName></name>
@@ -10590,7 +10590,7 @@
       <name><languageId>kab</languageId><trName>Kamirun</trName></name>
       <name><languageId>kam</languageId><trName>Kameluni</trName></name>
       <name><languageId>kde</languageId><trName>Kameluni</trName></name>
-      <name><languageId>kea</languageId><trName>Kamarõis</trName></name>
+      <name><languageId>kea</languageId><trName>Kamarons</trName></name>
       <name><languageId>khq</languageId><trName>Kameruun</trName></name>
       <name><languageId>ki</languageId><trName>Kameruni</trName></name>
       <name><languageId>kk</languageId><trName>Камерун</trName></name>
@@ -10788,7 +10788,7 @@
       <name><languageId>gsw</languageId><trName>Chiina</trName></name>
       <name><languageId>gu</languageId><trName>ચીન</trName></name>
       <name><languageId>guz</languageId><trName>China</trName></name>
-      <name><languageId>ha</languageId><trName>Caina, Sin</trName></name>
+      <name><languageId>ha</languageId><trName>Sin</trName></name>
       <name><languageId>haw</languageId><trName>Kina</trName></name>
       <name><languageId>he</languageId><trName>סין</trName></name>
       <name><languageId>hi</languageId><trName>चीन</trName></name>
@@ -12019,7 +12019,7 @@
       <name><languageId>hu</languageId><trName>Karácsony-sziget</trName></name>
       <name><languageId>hy</languageId><trName>Սուրբ Ծննդյան կղզի</trName></name>
       <name><languageId>ia</languageId><trName>Insula de Natal</trName></name>
-      <name><languageId>id</languageId><trName>Pulau Christmas</trName></name>
+      <name><languageId>id</languageId><trName>Pulau Natal</trName></name>
       <name><languageId>ig</languageId><trName>Agwaetiti Christmas</trName></name>
       <name><languageId>is</languageId><trName>Jólaey</trName></name>
       <name><languageId>it</languageId><trName>Isola Christmas</trName></name>
@@ -12380,7 +12380,7 @@
       <name><languageId>et</languageId><trName>Tšehhi</trName></name>
       <name><languageId>eu</languageId><trName>Txekia</trName></name>
       <name><languageId>ewo</languageId><trName>Ǹnam Tsɛ́g</trName></name>
-      <name><languageId>fa</languageId><trName>جمهوری چک</trName></name>
+      <name><languageId>fa</languageId><trName>چک</trName></name>
       <name><languageId>ff</languageId><trName>Ndenndaandi Cek</trName></name>
       <name><languageId>fi</languageId><trName>Tšekki</trName></name>
       <name><languageId>fil</languageId><trName>Czechia</trName></name>
@@ -14018,7 +14018,7 @@
       <name><languageId>as</languageId><trName>চেউটা আৰু মেলিলা</trName></name>
       <name><languageId>ast</languageId><trName>Ceuta y Melilla</trName></name>
       <name><languageId>az</languageId><trName>Seuta və Melilya</trName></name>
-      <name><languageId>be</languageId><trName>Сеўта і Мелілья</trName></name>
+      <name><languageId>be</languageId><trName>Сеута і Мелілья</trName></name>
       <name><languageId>bg</languageId><trName>Сеута и Мелия</trName></name>
       <name><languageId>bn</languageId><trName>কুউটা এবং মেলিলা</trName></name>
       <name><languageId>br</languageId><trName>Ceuta ha Melilla</trName></name>
@@ -14077,7 +14077,7 @@
       <name><languageId>ky</languageId><trName>Сеута жана Мелилла</trName></name>
       <name><languageId>lb</languageId><trName>Ceuta a Melilla</trName></name>
       <name><languageId>ln</languageId><trName>Zewta mpé Melílla</trName></name>
-      <name><languageId>lo</languageId><trName>ເຊວຕາ ແລະເມລິນລາ</trName></name>
+      <name><languageId>lo</languageId><trName>ເຊວຕາ &amp; ເມລິນລາ</trName></name>
       <name><languageId>lt</languageId><trName>Seuta ir Melila</trName></name>
       <name><languageId>lv</languageId><trName>Seūta un Melilja</trName></name>
       <name><languageId>mk</languageId><trName>Сеута и Мелиља</trName></name>
@@ -15076,7 +15076,7 @@
       <name><languageId>nb</languageId><trName>Eritrea</trName></name>
       <name><languageId>nd</languageId><trName>Eritrea</trName></name>
       <name><languageId>nds</languageId><trName>Eritrea</trName></name>
-      <name><languageId>ne</languageId><trName>एरित्रिया</trName></name>
+      <name><languageId>ne</languageId><trName>एरिट्रीया</trName></name>
       <name><languageId>nl</languageId><trName>Eritrea</trName></name>
       <name><languageId>nmg</languageId><trName>Erytrea</trName></name>
       <name><languageId>nn</languageId><trName>Eritrea</trName></name>
@@ -16109,7 +16109,7 @@
       <name><languageId>ce</languageId><trName>Фолклендан гӀайренаш</trName></name>
       <name><languageId>cgg</languageId><trName>Ebizinga bya Faakilanda</trName></name>
       <name><languageId>chr</languageId><trName>ᏩᎩ ᏚᎦᏚᏛᎢ</trName></name>
-      <name><languageId>ckb</languageId><trName>دوورگەکانی مالڤیناس</trName></name>
+      <name><languageId>ckb</languageId><trName>دوورگەکانی مالڤیناس (دوورگەکانی فاڵکلاند)</trName></name>
       <name><languageId>cs</languageId><trName>Falklandské ostrovy</trName></name>
       <name><languageId>cy</languageId><trName>Ynysoedd y Falkland/Malvinas</trName></name>
       <name><languageId>da</languageId><trName>Falklandsøerne</trName></name>
@@ -16147,7 +16147,7 @@
       <name><languageId>hsb</languageId><trName>Falklandske kupy</trName></name>
       <name><languageId>hu</languageId><trName>Falkland-szigetek</trName></name>
       <name><languageId>hy</languageId><trName>Ֆոլքլենդյան կղզիներ</trName></name>
-      <name><languageId>id</languageId><trName>Kepulauan Malvinas</trName></name>
+      <name><languageId>id</languageId><trName>Kepulauan Falkland</trName></name>
       <name><languageId>ig</languageId><trName>Agwaetiti Falkland</trName></name>
       <name><languageId>is</languageId><trName>Falklandseyjar</trName></name>
       <name><languageId>it</languageId><trName>Isole Falkland</trName></name>
@@ -16823,7 +16823,7 @@
       <name><languageId>ta</languageId><trName>பிரான்ஸ்</trName></name>
       <name><languageId>te</languageId><trName>ఫ్రాన్స్‌</trName></name>
       <name><languageId>teo</languageId><trName>Ufaransa</trName></name>
-      <name><languageId>tg</languageId><trName>Франсия</trName></name>
+      <name><languageId>tg</languageId><trName>Фаронса</trName></name>
       <name><languageId>th</languageId><trName>ฝรั่งเศส</trName></name>
       <name><languageId>ti</languageId><trName>ፈረንሳይ</trName></name>
       <name><languageId>tig</languageId><trName>ፈረንሳይ</trName></name>
@@ -16964,7 +16964,7 @@
       <name><languageId>kab</languageId><trName>Gabun</trName></name>
       <name><languageId>kam</languageId><trName>Gaboni</trName></name>
       <name><languageId>kde</languageId><trName>Gaboni</trName></name>
-      <name><languageId>kea</languageId><trName>Gabãu</trName></name>
+      <name><languageId>kea</languageId><trName>Gabon</trName></name>
       <name><languageId>khq</languageId><trName>Gaabon</trName></name>
       <name><languageId>ki</languageId><trName>Gaboni</trName></name>
       <name><languageId>kk</languageId><trName>Габон</trName></name>
@@ -17117,7 +17117,7 @@
       <name><languageId>bo</languageId><trName>དབྱིན་ཇི་</trName></name>
       <name><languageId>br</languageId><trName>Rouantelezh-Unanet</trName></name>
       <name><languageId>brx</languageId><trName>ब्रितन</trName></name>
-      <name><languageId>bs</languageId><trName>Velika Britanija</trName></name>
+      <name><languageId>bs</languageId><trName>Ujedinjeno Kraljevstvo</trName></name>
       <name><languageId>byn</languageId><trName>እንግሊዝ</trName></name>
       <name><languageId>ca</languageId><trName>Regne Unit</trName></name>
       <name><languageId>ccp</languageId><trName>𑄎𑄧𑄙𑄢𑄬𑄌𑄴𑄎𑄮</trName></name>
@@ -17186,7 +17186,7 @@
       <name><languageId>kl</languageId><trName>Tuluit Nunaat</trName></name>
       <name><languageId>kln</languageId><trName>Emetab Kibagenge nebo Uingereza</trName></name>
       <name><languageId>km</languageId><trName>ចក្រភព​អង់គ្លេស</trName></name>
-      <name><languageId>kn</languageId><trName>ಬ್ರಿಟನ್/ಇಂಗ್ಲೆಂಡ್</trName></name>
+      <name><languageId>kn</languageId><trName>ಯುನೈಟೆಡ್ ಕಿಂಗ್‌ಡಮ್</trName></name>
       <name><languageId>ko</languageId><trName>영국</trName></name>
       <name><languageId>kok</languageId><trName>युनायटेड किंगडम</trName></name>
       <name><languageId>ks</languageId><trName>یُنایٹِڑ کِنگڈَم</trName></name>
@@ -17275,7 +17275,7 @@
       <name><languageId>tk</languageId><trName>Birleşen Patyşalyk</trName></name>
       <name><languageId>to</languageId><trName>Pilitānia</trName></name>
       <name><languageId>tr</languageId><trName>Birleşik Krallık</trName></name>
-      <name><languageId>tt</languageId><trName>Бөекбритания</trName></name>
+      <name><languageId>tt</languageId><trName>Берләшкән Корольлек</trName></name>
       <name><languageId>twq</languageId><trName>Albaasalaama Marganta</trName></name>
       <name><languageId>tzm</languageId><trName>Tagelda Taddukelt</trName></name>
       <name><languageId>ug</languageId><trName>بىرلەشمە پادىشاھلىق</trName></name>
@@ -17719,7 +17719,7 @@
       <name><languageId>uz</languageId><trName>Gruziya</trName></name>
       <name><languageId>uz_Cyrl</languageId><trName>Грузия</trName></name>
       <name><languageId>vai</languageId><trName>ꗘꖺꕀꕩ</trName></name>
-      <name><languageId>vi</languageId><trName>Gruzia</trName></name>
+      <name><languageId>vi</languageId><trName>Georgia</trName></name>
       <name><languageId>vo</languageId><trName>Grusiyän</trName></name>
       <name><languageId>vun</languageId><trName>Jojia</trName></name>
       <name><languageId>wae</languageId><trName>Georgie</trName></name>
@@ -18049,7 +18049,7 @@
       <name><languageId>mzn</languageId><trName>گرنزی</trName></name>
       <name><languageId>nb</languageId><trName>Guernsey</trName></name>
       <name><languageId>nds</languageId><trName>Guernsey</trName></name>
-      <name><languageId>ne</languageId><trName>गुएर्नसे</trName></name>
+      <name><languageId>ne</languageId><trName>ग्यूर्न्सी</trName></name>
       <name><languageId>nl</languageId><trName>Guernsey</trName></name>
       <name><languageId>nn</languageId><trName>Guernsey</trName></name>
       <name><languageId>or</languageId><trName>ଗୁଏରନେସି</trName></name>
@@ -18563,7 +18563,7 @@
       <name><languageId>br</languageId><trName>Greunland</trName></name>
       <name><languageId>brx</languageId><trName>ग्रीनलैण्ड</trName></name>
       <name><languageId>bs</languageId><trName>Grenland</trName></name>
-      <name><languageId>ca</languageId><trName>Grenlàndia</trName></name>
+      <name><languageId>ca</languageId><trName>Groenlàndia</trName></name>
       <name><languageId>ccp</languageId><trName>𑄉𑄳𑄢𑄩𑄚𑄴𑄣𑄳𑄠𑄚𑄴𑄓𑄴</trName></name>
       <name><languageId>ce</languageId><trName>Гренланди</trName></name>
       <name><languageId>cgg</languageId><trName>Guriinirandi</trName></name>
@@ -20673,7 +20673,7 @@
       <name><languageId>ar</languageId><trName>هونغ كونغ الصينية (منطقة إدارية خاصة)</trName></name>
       <name><languageId>as</languageId><trName>হং কং এছ. এ. আৰ. চীন</trName></name>
       <name><languageId>ast</languageId><trName>ARE China de Ḥong Kong</trName></name>
-      <name><languageId>az</languageId><trName>Honq Konq Xüsusi İnzibati Ərazi Çin</trName></name>
+      <name><languageId>az</languageId><trName>Honq Konq Xüsusi İnzibati Rayonu Çin</trName></name>
       <name><languageId>be</languageId><trName>Ганконг, САР (Кітай)</trName></name>
       <name><languageId>bg</languageId><trName>Хонконг, САР на Китай</trName></name>
       <name><languageId>bn</languageId><trName>হংকং এসএআর চীনা</trName></name>
@@ -20700,7 +20700,7 @@
       <name><languageId>es</languageId><trName>RAE de Hong Kong (China)</trName></name>
       <name><languageId>et</languageId><trName>Hongkongi erihalduspiirkond</trName></name>
       <name><languageId>eu</languageId><trName>Hong Kong Txinako AEB</trName></name>
-      <name><languageId>fa</languageId><trName>هنگ‌کنگ، منطقۀ ویژۀ اداری چین</trName></name>
+      <name><languageId>fa</languageId><trName>هنگ‌کنگ، منطقهٔ ویژهٔ اداری چین</trName></name>
       <name><languageId>fi</languageId><trName>Hongkong – Kiinan e.h.a.</trName></name>
       <name><languageId>fil</languageId><trName>Hong Kong SAR China</trName></name>
       <name><languageId>fo</languageId><trName>Hong Kong SAR Kina</trName></name>
@@ -20718,14 +20718,14 @@
       <name><languageId>hsb</languageId><trName>Wosebita zarjadniska cona Hongkong</trName></name>
       <name><languageId>hu</languageId><trName>Hongkong KKT</trName></name>
       <name><languageId>hy</languageId><trName>Հոնկոնգի ՀՎՇ</trName></name>
-      <name><languageId>id</languageId><trName>Hong Kong SAR Tiongkok</trName></name>
+      <name><languageId>id</languageId><trName>Hong Kong DAK Tiongkok</trName></name>
       <name><languageId>is</languageId><trName>sérstjórnarsvæðið Hong Kong</trName></name>
       <name><languageId>it</languageId><trName>RAS di Hong Kong</trName></name>
       <name><languageId>ja</languageId><trName>中華人民共和国香港特別行政区</trName></name>
       <name><languageId>jv</languageId><trName>Laladan Administratif Astamiwa Hong Kong</trName></name>
       <name><languageId>ka</languageId><trName>ჰონკონგის სპეციალური ადმინისტრაციული რეგიონი, ჩინეთი</trName></name>
       <name><languageId>kab</languageId><trName>Tamnaṭ Taqbuṛt Tacinwat n Hung Kung</trName></name>
-      <name><languageId>kea</languageId><trName>Rejiãu Administrativu Spesial di Hong Kong</trName></name>
+      <name><languageId>kea</languageId><trName>Hong Kong, Rejion Administrativu Spesial di Xina</trName></name>
       <name><languageId>kk</languageId><trName>Сянган АӘА</trName></name>
       <name><languageId>kl</languageId><trName>Hongkong</trName></name>
       <name><languageId>km</languageId><trName>ហុងកុង</trName></name>
@@ -20776,7 +20776,7 @@
       <name><languageId>sv</languageId><trName>Hongkong</trName></name>
       <name><languageId>sw</languageId><trName>Hong Kong SAR China</trName></name>
       <name><languageId>ta</languageId><trName>ஹாங்காங் எஸ்ஏஆர் சீனா</trName></name>
-      <name><languageId>te</languageId><trName>హాంకాంగ్ ఎస్ఏఆర్</trName></name>
+      <name><languageId>te</languageId><trName>హాంకాంగ్ ఎస్ఏఆర్ చైనా</trName></name>
       <name><languageId>tg</languageId><trName>Ҳонконг (МММ)</trName></name>
       <name><languageId>th</languageId><trName>เขตปกครองพิเศษฮ่องกงแห่งสาธารณรัฐประชาชนจีน</trName></name>
       <name><languageId>ti</languageId><trName>ሆንግ ኮንግ</trName></name>
@@ -21201,7 +21201,7 @@
       <name><languageId>sr_Latn</languageId><trName>Hrvatska</trName></name>
       <name><languageId>sv</languageId><trName>Kroatien</trName></name>
       <name><languageId>sw</languageId><trName>Croatia</trName></name>
-      <name><languageId>ta</languageId><trName>குரேஷியா</trName></name>
+      <name><languageId>ta</languageId><trName>குரோஷியா</trName></name>
       <name><languageId>te</languageId><trName>క్రొయేషియా</trName></name>
       <name><languageId>teo</languageId><trName>Korasia</trName></name>
       <name><languageId>tg</languageId><trName>Хорватия</trName></name>
@@ -21741,7 +21741,7 @@
       <name><languageId>hsb</languageId><trName>Kanariske kupy</trName></name>
       <name><languageId>hu</languageId><trName>Kanári-szigetek</trName></name>
       <name><languageId>hy</languageId><trName>Կանարյան կղզիներ</trName></name>
-      <name><languageId>id</languageId><trName>Kepulauan Canary</trName></name>
+      <name><languageId>id</languageId><trName>Kepulauan Canaria</trName></name>
       <name><languageId>ig</languageId><trName>Agwaetiti Kanarị</trName></name>
       <name><languageId>is</languageId><trName>Kanaríeyjar</trName></name>
       <name><languageId>it</languageId><trName>Isole Canarie</trName></name>
@@ -22184,7 +22184,7 @@
       <name><languageId>or</languageId><trName>ଆୟରଲ୍ୟାଣ୍ଡ</trName></name>
       <name><languageId>pa</languageId><trName>ਆਇਰਲੈਂਡ</trName></name>
       <name><languageId>pl</languageId><trName>Irlandia</trName></name>
-      <name><languageId>ps</languageId><trName>ایرلینډ</trName></name>
+      <name><languageId>ps</languageId><trName>آيرلېنډ</trName></name>
       <name><languageId>pt</languageId><trName>Irlanda</trName></name>
       <name><languageId>qu</languageId><trName>Irlanda</trName></name>
       <name><languageId>rm</languageId><trName>Irlanda</trName></name>
@@ -23003,7 +23003,7 @@
       <name><languageId>ckb</languageId><trName>ھەرێمی بەریتانی لە ئۆقیانووسی ھیند</trName></name>
       <name><languageId>cs</languageId><trName>Britské indickooceánské území</trName></name>
       <name><languageId>cy</languageId><trName>Tiriogaeth Brydeinig Cefnfor India</trName></name>
-      <name><languageId>da</languageId><trName>Det britiske territorium i Det Indiske Ocean</trName></name>
+      <name><languageId>da</languageId><trName>Det Britiske Territorium i Det Indiske Ocean</trName></name>
       <name><languageId>dav</languageId><trName>Eneo la Uingereza katika Bahari Hindi</trName></name>
       <name><languageId>de</languageId><trName>Britisches Territorium im Indischen Ozean</trName></name>
       <name><languageId>dje</languageId><trName>Britiši Indu teekoo laama</trName></name>
@@ -23129,7 +23129,7 @@
       <name><languageId>sv</languageId><trName>Brittiska territoriet i Indiska oceanen</trName></name>
       <name><languageId>sw</languageId><trName>Eneo la Uingereza katika Bahari Hindi</trName></name>
       <name><languageId>ta</languageId><trName>பிரிட்டிஷ் இந்தியப் பெருங்கடல் பிரதேசம்</trName></name>
-      <name><languageId>te</languageId><trName>బ్రిటీష్ హిందూ మహాసముద్ర ప్రాంతం</trName></name>
+      <name><languageId>te</languageId><trName>బ్రిటిష్ హిందూ మహాసముద్ర ప్రాంతం</trName></name>
       <name><languageId>teo</languageId><trName>Eneo la Uingereza katika Bahari Hindi</trName></name>
       <name><languageId>tg</languageId><trName>Қаламрави Британия дар уқёнуси Ҳинд</trName></name>
       <name><languageId>th</languageId><trName>บริติชอินเดียนโอเชียนเทร์ริทอรี</trName></name>
@@ -23953,7 +23953,7 @@
       <name><languageId>nb</languageId><trName>Italia</trName></name>
       <name><languageId>nd</languageId><trName>Itali</trName></name>
       <name><languageId>nds</languageId><trName>Italien</trName></name>
-      <name><languageId>ne</languageId><trName>इटाली</trName></name>
+      <name><languageId>ne</languageId><trName>इटली</trName></name>
       <name><languageId>nl</languageId><trName>Italië</trName></name>
       <name><languageId>nmg</languageId><trName>Italia</trName></name>
       <name><languageId>nn</languageId><trName>Italia</trName></name>
@@ -24716,7 +24716,7 @@
       <name><languageId>kab</languageId><trName>Jappu</trName></name>
       <name><languageId>kam</languageId><trName>Japani</trName></name>
       <name><languageId>kde</languageId><trName>Dyapani</trName></name>
-      <name><languageId>kea</languageId><trName>Japãu</trName></name>
+      <name><languageId>kea</languageId><trName>Japon</trName></name>
       <name><languageId>khq</languageId><trName>Jaapoŋ</trName></name>
       <name><languageId>ki</languageId><trName>Njabani</trName></name>
       <name><languageId>kk</languageId><trName>Жапония</trName></name>
@@ -25114,7 +25114,7 @@
       <name><languageId>ce</languageId><trName>Киргизи</trName></name>
       <name><languageId>cgg</languageId><trName>Kirigizistani</trName></name>
       <name><languageId>chr</languageId><trName>ᎩᎵᏣᎢᏍ</trName></name>
-      <name><languageId>ckb</languageId><trName>قرغیزستان</trName></name>
+      <name><languageId>ckb</languageId><trName>کرگیزستان</trName></name>
       <name><languageId>cs</languageId><trName>Kyrgyzstán</trName></name>
       <name><languageId>cu</languageId><trName>кирги́зїа</trName></name>
       <name><languageId>cy</languageId><trName>Kyrgyzstan</trName></name>
@@ -25165,7 +25165,7 @@
       <name><languageId>kab</languageId><trName>Kirigistan</trName></name>
       <name><languageId>kam</languageId><trName>Kirigizistani</trName></name>
       <name><languageId>kde</languageId><trName>Kiligizistani</trName></name>
-      <name><languageId>kea</languageId><trName>Kirgistãu</trName></name>
+      <name><languageId>kea</languageId><trName>Kirgistan</trName></name>
       <name><languageId>khq</languageId><trName>Kyrgyzstan</trName></name>
       <name><languageId>ki</languageId><trName>Kirigizistani</trName></name>
       <name><languageId>kk</languageId><trName>Қырғызстан</trName></name>
@@ -26014,7 +26014,7 @@
       <name><languageId>kab</languageId><trName>San Kits d Nivis</trName></name>
       <name><languageId>kam</languageId><trName>Santakitzi na Nevis</trName></name>
       <name><languageId>kde</languageId><trName>Santakitzi na Nevis</trName></name>
-      <name><languageId>kea</languageId><trName>Sãu Kristovãu i Nevis</trName></name>
+      <name><languageId>kea</languageId><trName>San Kristovan i Nevis</trName></name>
       <name><languageId>khq</languageId><trName>Seŋ Kitts nda Nevis</trName></name>
       <name><languageId>ki</languageId><trName>Santakitzi na Nevis</trName></name>
       <name><languageId>kk</languageId><trName>Сент-Китс және Невис</trName></name>
@@ -26203,7 +26203,7 @@
       <name><languageId>gsw</languageId><trName>Demokraatischi Volksrepublik Koreea</trName></name>
       <name><languageId>gu</languageId><trName>ઉત્તર કોરિયા</trName></name>
       <name><languageId>guz</languageId><trName>Korea Kaskazini</trName></name>
-      <name><languageId>ha</languageId><trName>Koreya Ta Arewa</trName></name>
+      <name><languageId>ha</languageId><trName>Koriya Ta Arewa</trName></name>
       <name><languageId>he</languageId><trName>קוריאה הצפונית</trName></name>
       <name><languageId>hi</languageId><trName>उत्तर कोरिया</trName></name>
       <name><languageId>hr</languageId><trName>Sjeverna Koreja</trName></name>
@@ -26412,7 +26412,7 @@
       <name><languageId>gsw</languageId><trName>Republik Koreea</trName></name>
       <name><languageId>gu</languageId><trName>દક્ષિણ કોરિયા</trName></name>
       <name><languageId>guz</languageId><trName>Korea Kusini</trName></name>
-      <name><languageId>ha</languageId><trName>Koreya Ta Kudu</trName></name>
+      <name><languageId>ha</languageId><trName>Koriya Ta Kudu</trName></name>
       <name><languageId>he</languageId><trName>קוריאה הדרומית</trName></name>
       <name><languageId>hi</languageId><trName>दक्षिण कोरिया</trName></name>
       <name><languageId>hr</languageId><trName>Južna Koreja</trName></name>
@@ -26693,7 +26693,7 @@
       <name><languageId>or</languageId><trName>କୁଏତ୍</trName></name>
       <name><languageId>pa</languageId><trName>ਕੁਵੈਤ</trName></name>
       <name><languageId>pl</languageId><trName>Kuwejt</trName></name>
-      <name><languageId>ps</languageId><trName>کویټ</trName></name>
+      <name><languageId>ps</languageId><trName>کويت</trName></name>
       <name><languageId>pt</languageId><trName>Kuwait</trName></name>
       <name><languageId>qu</languageId><trName>Kuwait</trName></name>
       <name><languageId>rm</languageId><trName>Kuwait</trName></name>
@@ -26853,7 +26853,7 @@
       <name><languageId>kab</languageId><trName>Tigzirin n Kamyan</trName></name>
       <name><languageId>kam</languageId><trName>Isiwa sya Kayman</trName></name>
       <name><languageId>kde</languageId><trName>Chisiwa cha Kemen</trName></name>
-      <name><languageId>kea</languageId><trName>Ilhas Kaimãu</trName></name>
+      <name><languageId>kea</languageId><trName>Ilhas Kaimon</trName></name>
       <name><languageId>khq</languageId><trName>Kayman gungey</trName></name>
       <name><languageId>ki</languageId><trName>Visiwa vya Kayman</trName></name>
       <name><languageId>kk</languageId><trName>Кайман аралдары</trName></name>
@@ -27040,7 +27040,7 @@
       <name><languageId>fy</languageId><trName>Kazachstan</trName></name>
       <name><languageId>ga</languageId><trName>an Chasacstáin</trName></name>
       <name><languageId>gd</languageId><trName>Casachstàn</trName></name>
-      <name><languageId>gl</languageId><trName>Casaquistán</trName></name>
+      <name><languageId>gl</languageId><trName>Kazakistán</trName></name>
       <name><languageId>gsw</languageId><trName>Kasachschtan</trName></name>
       <name><languageId>gu</languageId><trName>કઝાકિસ્તાન</trName></name>
       <name><languageId>guz</languageId><trName>Kazakistani</trName></name>
@@ -27062,7 +27062,7 @@
       <name><languageId>kab</languageId><trName>Kazaxistan</trName></name>
       <name><languageId>kam</languageId><trName>Kazakistani</trName></name>
       <name><languageId>kde</languageId><trName>Kazachistani</trName></name>
-      <name><languageId>kea</languageId><trName>Kazakistãu</trName></name>
+      <name><languageId>kea</languageId><trName>Kazakistan</trName></name>
       <name><languageId>khq</languageId><trName>Kaazakstan</trName></name>
       <name><languageId>ki</languageId><trName>Kazakistani</trName></name>
       <name><languageId>kk</languageId><trName>Қазақстан</trName></name>
@@ -28384,7 +28384,7 @@
       <name><languageId>or</languageId><trName>ଲାଇବେରିଆ</trName></name>
       <name><languageId>pa</languageId><trName>ਲਾਈਬੀਰੀਆ</trName></name>
       <name><languageId>pl</languageId><trName>Liberia</trName></name>
-      <name><languageId>ps</languageId><trName>لایبریا</trName></name>
+      <name><languageId>ps</languageId><trName>لايبيريا</trName></name>
       <name><languageId>pt</languageId><trName>Libéria</trName></name>
       <name><languageId>qu</languageId><trName>Liberia</trName></name>
       <name><languageId>rm</languageId><trName>Liberia</trName></name>
@@ -30081,7 +30081,7 @@
       <name><languageId>mg</languageId><trName>Môldavia</trName></name>
       <name><languageId>mk</languageId><trName>Молдавија</trName></name>
       <name><languageId>ml</languageId><trName>മൾഡോവ</trName></name>
-      <name><languageId>mn</languageId><trName>Молдав</trName></name>
+      <name><languageId>mn</languageId><trName>Молдова</trName></name>
       <name><languageId>mr</languageId><trName>मोल्डोव्हा</trName></name>
       <name><languageId>ms</languageId><trName>Moldova</trName></name>
       <name><languageId>mt</languageId><trName>il-Moldova</trName></name>
@@ -30395,13 +30395,13 @@
       <name><languageId>hy</languageId><trName>Սեն Մարտեն</trName></name>
       <name><languageId>id</languageId><trName>Saint Martin</trName></name>
       <name><languageId>ig</languageId><trName>St. Martin</trName></name>
-      <name><languageId>is</languageId><trName>St. Martin</trName></name>
+      <name><languageId>is</languageId><trName>Saint-Martin</trName></name>
       <name><languageId>it</languageId><trName>Saint Martin</trName></name>
       <name><languageId>ja</languageId><trName>サン・マルタン</trName></name>
       <name><languageId>jv</languageId><trName>Santa Martin</trName></name>
       <name><languageId>ka</languageId><trName>სენ-მარტენი</trName></name>
       <name><languageId>kab</languageId><trName>San Maṛtan</trName></name>
-      <name><languageId>kea</languageId><trName>Sãu Martinhu di Fransa</trName></name>
+      <name><languageId>kea</languageId><trName>San Martinhu (Fransa)</trName></name>
       <name><languageId>kk</languageId><trName>Сен-Мартен</trName></name>
       <name><languageId>kl</languageId><trName>Frankrigi Saint Martin</trName></name>
       <name><languageId>km</languageId><trName>សាំង​ម៉ាទីន</trName></name>
@@ -30625,7 +30625,7 @@
       <name><languageId>or</languageId><trName>ମାଡାଗାସ୍କର୍</trName></name>
       <name><languageId>pa</languageId><trName>ਮੈਡਾਗਾਸਕਰ</trName></name>
       <name><languageId>pl</languageId><trName>Madagaskar</trName></name>
-      <name><languageId>ps</languageId><trName>مدګاسکار</trName></name>
+      <name><languageId>ps</languageId><trName>مدغاسکر</trName></name>
       <name><languageId>pt</languageId><trName>Madagascar</trName></name>
       <name><languageId>qu</languageId><trName>Madagascar</trName></name>
       <name><languageId>rm</languageId><trName>Madagascar</trName></name>
@@ -30918,12 +30918,12 @@
   <territory>
     <territoryId>MK</territoryId>
     <names>
-      <name><languageId>af</languageId><trName>Macedonië</trName></name>
+      <name><languageId>af</languageId><trName>Noord-Macedonië</trName></name>
       <name><languageId>agq</languageId><trName>Mɨ̀sɨ̀donyìa</trName></name>
       <name><languageId>ak</languageId><trName>Masedonia</trName></name>
       <name><languageId>am</languageId><trName>ሰሜን መቄዶንያ</trName></name>
       <name><languageId>ar</languageId><trName>مقدونيا الشمالية</trName></name>
-      <name><languageId>as</languageId><trName>মেচিডোনীয়া</trName></name>
+      <name><languageId>as</languageId><trName>উত্তৰ মেচিডোনীয়া</trName></name>
       <name><languageId>asa</languageId><trName>Mathedonia</trName></name>
       <name><languageId>ast</languageId><trName>Macedonia</trName></name>
       <name><languageId>az</languageId><trName>Şimali Makedoniya</trName></name>
@@ -30932,8 +30932,8 @@
       <name><languageId>bez</languageId><trName>Humasedonia</trName></name>
       <name><languageId>bg</languageId><trName>Северна Македония</trName></name>
       <name><languageId>bm</languageId><trName>Macedɔni</trName></name>
-      <name><languageId>bn</languageId><trName>ম্যাসাডোনিয়া</trName></name>
-      <name><languageId>br</languageId><trName>Makedonia</trName></name>
+      <name><languageId>bn</languageId><trName>উত্তর ম্যাসেডোনিয়া</trName></name>
+      <name><languageId>br</languageId><trName>Makedonia an Norzh</trName></name>
       <name><languageId>brx</languageId><trName>मैसेडोनिया</trName></name>
       <name><languageId>bs</languageId><trName>Sjeverna Makedonija</trName></name>
       <name><languageId>byn</languageId><trName>ማከዶኒያ</trName></name>
@@ -30942,7 +30942,7 @@
       <name><languageId>ce</languageId><trName>Македони</trName></name>
       <name><languageId>cgg</languageId><trName>Masedoonia</trName></name>
       <name><languageId>chr</languageId><trName>ᏧᏴᏜ ᎹᏎᏙᏂᏯ</trName></name>
-      <name><languageId>ckb</languageId><trName>ماکەدۆنیا</trName></name>
+      <name><languageId>ckb</languageId><trName>مەکدۆنیای باکوور</trName></name>
       <name><languageId>cs</languageId><trName>Severní Makedonie</trName></name>
       <name><languageId>cy</languageId><trName>Gogledd Macedonia</trName></name>
       <name><languageId>da</languageId><trName>Nordmakedonien</trName></name>
@@ -30974,9 +30974,9 @@
       <name><languageId>gsw</languageId><trName>Mazedoonie</trName></name>
       <name><languageId>gu</languageId><trName>ઉત્તર મેસેડોનિયા</trName></name>
       <name><languageId>guz</languageId><trName>Masedonia</trName></name>
-      <name><languageId>ha</languageId><trName>Masedoniya</trName></name>
+      <name><languageId>ha</languageId><trName>Macedonia ta Arewa</trName></name>
       <name><languageId>he</languageId><trName>מקדוניה הצפונית</trName></name>
-      <name><languageId>hi</languageId><trName>मकदूनिया</trName></name>
+      <name><languageId>hi</languageId><trName>उत्तरी मकदूनिया</trName></name>
       <name><languageId>hr</languageId><trName>Sjeverna Makedonija</trName></name>
       <name><languageId>hsb</languageId><trName>Makedonska</trName></name>
       <name><languageId>hu</languageId><trName>Észak-Macedónia</trName></name>
@@ -30989,18 +30989,18 @@
       <name><languageId>ja</languageId><trName>北マケドニア</trName></name>
       <name><languageId>jmc</languageId><trName>Masedonia</trName></name>
       <name><languageId>jv</languageId><trName>Makédonia</trName></name>
-      <name><languageId>ka</languageId><trName>მაკედონია</trName></name>
+      <name><languageId>ka</languageId><trName>ჩრდილოეთ მაკედონია</trName></name>
       <name><languageId>kab</languageId><trName>Masidwan</trName></name>
       <name><languageId>kam</languageId><trName>Masedonia</trName></name>
       <name><languageId>kde</languageId><trName>Masedonia</trName></name>
-      <name><languageId>kea</languageId><trName>Masidónia</trName></name>
+      <name><languageId>kea</languageId><trName>Masidónia di Norti</trName></name>
       <name><languageId>khq</languageId><trName>Maacedooni</trName></name>
       <name><languageId>ki</languageId><trName>Masedonia</trName></name>
       <name><languageId>kk</languageId><trName>Солтүстік Македония</trName></name>
       <name><languageId>kl</languageId><trName>Makedonia</trName></name>
       <name><languageId>kln</languageId><trName>Emetab Macedonia</trName></name>
       <name><languageId>km</languageId><trName>ម៉ាសេដ្វានខាងជើង</trName></name>
-      <name><languageId>kn</languageId><trName>ಮ್ಯಾಸಿಡೋನಿಯಾ</trName></name>
+      <name><languageId>kn</languageId><trName>ಉತ್ತರ ಮ್ಯಾಸಿಡೋನಿಯಾ</trName></name>
       <name><languageId>ko</languageId><trName>북마케도니아</trName></name>
       <name><languageId>kok</languageId><trName>उत्तर मॅसिडोनिया</trName></name>
       <name><languageId>ks</languageId><trName>مؠسوڑونِیا</trName></name>
@@ -31013,7 +31013,7 @@
       <name><languageId>lb</languageId><trName>Nordmazedonien</trName></name>
       <name><languageId>lg</languageId><trName>Masedoniya</trName></name>
       <name><languageId>ln</languageId><trName>Masedwanɛ</trName></name>
-      <name><languageId>lo</languageId><trName>ແມຊິໂດເນຍ</trName></name>
+      <name><languageId>lo</languageId><trName>ແມຊິໂດເນຍເໜືອ</trName></name>
       <name><languageId>lt</languageId><trName>Šiaurės Makedonija</trName></name>
       <name><languageId>lu</languageId><trName>Masedwane</trName></name>
       <name><languageId>luo</languageId><trName>Macedonia</trName></name>
@@ -31027,7 +31027,7 @@
       <name><languageId>mi</languageId><trName>Makerōnia ki te Raki</trName></name>
       <name><languageId>mk</languageId><trName>Северна Македонија</trName></name>
       <name><languageId>ml</languageId><trName>നോർത്ത് മാസിഡോണിയ</trName></name>
-      <name><languageId>mn</languageId><trName>Македон</trName></name>
+      <name><languageId>mn</languageId><trName>Хойд Македон</trName></name>
       <name><languageId>mr</languageId><trName>उत्तर मॅसेडोनिया</trName></name>
       <name><languageId>ms</languageId><trName>Macedonia Utara</trName></name>
       <name><languageId>mt</languageId><trName>il-Maċedonja ta’ Fuq</trName></name>
@@ -31044,7 +31044,7 @@
       <name><languageId>nn</languageId><trName>Nord-Makedonia</trName></name>
       <name><languageId>nyn</languageId><trName>Masedoonia</trName></name>
       <name><languageId>or</languageId><trName>ଉତ୍ତର ମାସେଡୋନିଆ</trName></name>
-      <name><languageId>pa</languageId><trName>ਮੈਕਡੋਨੀਆ</trName></name>
+      <name><languageId>pa</languageId><trName>ਉੱਤਰੀ ਮੈਕਡੋਨੀਆ</trName></name>
       <name><languageId>pl</languageId><trName>Macedonia Północna</trName></name>
       <name><languageId>prg</languageId><trName>Macedōnija</trName></name>
       <name><languageId>ps</languageId><trName>شمالي مقدونيه</trName></name>
@@ -31055,17 +31055,17 @@
       <name><languageId>ro</languageId><trName>Macedonia de Nord</trName></name>
       <name><languageId>rof</languageId><trName>Masedonia</trName></name>
       <name><languageId>ru</languageId><trName>Северная Македония</trName></name>
-      <name><languageId>rw</languageId><trName>Masedoniya y'Amajyaruguru</trName></name>
+      <name><languageId>rw</languageId><trName>Masedoniya y’Amajyaruguru</trName></name>
       <name><languageId>rwk</languageId><trName>Masedonia</trName></name>
       <name><languageId>saq</languageId><trName>Masedonia</trName></name>
       <name><languageId>sbp</languageId><trName>Masedoniya</trName></name>
-      <name><languageId>sd</languageId><trName>ميسي ڊونيا</trName></name>
+      <name><languageId>sd</languageId><trName>شمالي مقدونيا</trName></name>
       <name><languageId>se</languageId><trName>Makedonia</trName></name>
       <name><languageId>seh</languageId><trName>Macedônia</trName></name>
       <name><languageId>ses</languageId><trName>Maacedooni</trName></name>
       <name><languageId>sg</languageId><trName>Maseduäni</trName></name>
       <name><languageId>shi</languageId><trName>ⵎⴰⵙⵉⴷⵓⵏⵢⴰ</trName></name>
-      <name><languageId>si</languageId><trName>මැසිඩෝනියාව</trName></name>
+      <name><languageId>si</languageId><trName>උතුරු මැසිඩෝනියාව</trName></name>
       <name><languageId>sk</languageId><trName>Severné Macedónsko</trName></name>
       <name><languageId>sl</languageId><trName>Severna Makedonija</trName></name>
       <name><languageId>smn</languageId><trName>OJT Makedonia</trName></name>
@@ -31075,16 +31075,16 @@
       <name><languageId>sr</languageId><trName>Северна Македонија</trName></name>
       <name><languageId>sr_Latn</languageId><trName>Severna Makedonija</trName></name>
       <name><languageId>sv</languageId><trName>Nordmakedonien</trName></name>
-      <name><languageId>sw</languageId><trName>Macedonia</trName></name>
-      <name><languageId>ta</languageId><trName>மாசிடோனியா</trName></name>
-      <name><languageId>te</languageId><trName>మేసిడోనియా</trName></name>
+      <name><languageId>sw</languageId><trName>Masedonia ya Kaskazini</trName></name>
+      <name><languageId>ta</languageId><trName>வடக்கு மாசிடோனியா</trName></name>
+      <name><languageId>te</languageId><trName>ఉత్తర మాసిడోనియా</trName></name>
       <name><languageId>teo</languageId><trName>Masedonia</trName></name>
       <name><languageId>tg</languageId><trName>Македонияи Шимолӣ</trName></name>
       <name><languageId>th</languageId><trName>มาซิโดเนียเหนือ</trName></name>
       <name><languageId>ti</languageId><trName>ሰሜን መቆዶንያ</trName></name>
       <name><languageId>tig</languageId><trName>ማከዶኒያ</trName></name>
       <name><languageId>tk</languageId><trName>Demirgazyk Makedoniýa</trName></name>
-      <name><languageId>to</languageId><trName>Masetōnia</trName></name>
+      <name><languageId>to</languageId><trName>Masetōnia fakatokelau</trName></name>
       <name><languageId>tr</languageId><trName>Kuzey Makedonya</trName></name>
       <name><languageId>tt</languageId><trName>Төньяк Македония</trName></name>
       <name><languageId>twq</languageId><trName>Maacedooni</trName></name>
@@ -31104,12 +31104,12 @@
       <name><languageId>xog</languageId><trName>Masedoniya</trName></name>
       <name><languageId>yav</languageId><trName>masetuán</trName></name>
       <name><languageId>yi</languageId><trName>מאַקעדאניע</trName></name>
-      <name><languageId>yo</languageId><trName>Orílẹ́ède Masidonia</trName></name>
+      <name><languageId>yo</languageId><trName>Àríwá Macedonia</trName></name>
       <name><languageId>yue</languageId><trName>北馬其頓</trName></name>
       <name><languageId>zgh</languageId><trName>ⵎⴰⵙⵉⴷⵓⵏⵢⴰ</trName></name>
       <name><languageId>zh</languageId><trName>北马其顿</trName></name>
       <name><languageId>zh_Hant</languageId><trName>北馬其頓</trName></name>
-      <name><languageId>zu</languageId><trName>i-Macedonia</trName></name>
+      <name><languageId>zu</languageId><trName>i-North Macedonia</trName></name>
     </names>
     <scripts>
       <script><scriptId>Cyrl</scriptId><rank>900</rank></script>
@@ -31415,7 +31415,7 @@
       <name><languageId>hi</languageId><trName>म्यांमार (बर्मा)</trName></name>
       <name><languageId>hr</languageId><trName>Mjanmar (Burma)</trName></name>
       <name><languageId>hsb</languageId><trName>Myanmar</trName></name>
-      <name><languageId>hu</languageId><trName>Mianmar (Burma)</trName></name>
+      <name><languageId>hu</languageId><trName>Mianmar</trName></name>
       <name><languageId>hy</languageId><trName>Մյանմա (Բիրմա)</trName></name>
       <name><languageId>ia</languageId><trName>Birmania/Myanmar</trName></name>
       <name><languageId>id</languageId><trName>Myanmar (Burma)</trName></name>
@@ -31689,7 +31689,7 @@
       <name><languageId>or</languageId><trName>ମଙ୍ଗୋଲିଆ</trName></name>
       <name><languageId>pa</languageId><trName>ਮੰਗੋਲੀਆ</trName></name>
       <name><languageId>pl</languageId><trName>Mongolia</trName></name>
-      <name><languageId>ps</languageId><trName>مغولستان</trName></name>
+      <name><languageId>ps</languageId><trName>منګوليا</trName></name>
       <name><languageId>pt</languageId><trName>Mongólia</trName></name>
       <name><languageId>qu</languageId><trName>Mongolia</trName></name>
       <name><languageId>rm</languageId><trName>Mongolia</trName></name>
@@ -31781,10 +31781,10 @@
     <names>
       <name><languageId>af</languageId><trName>Macau SAS Sjina</trName></name>
       <name><languageId>am</languageId><trName>ማካኡ ልዩ የአስተዳደር ክልል ቻይና</trName></name>
-      <name><languageId>ar</languageId><trName>مكاو الصينية (منطقة إدارية خاصة)</trName></name>
-      <name><languageId>as</languageId><trName>মাকাউ এছ. এ. আৰ. চীন</trName></name>
+      <name><languageId>ar</languageId><trName>منطقة ماكاو الإدارية الخاصة</trName></name>
+      <name><languageId>as</languageId><trName>মাকাও এছ. এ. আৰ. চীন</trName></name>
       <name><languageId>ast</languageId><trName>ARE China de Macáu</trName></name>
-      <name><languageId>az</languageId><trName>Makao Xüsusi İnzibati Ərazi Çin</trName></name>
+      <name><languageId>az</languageId><trName>Makao XİR Çin</trName></name>
       <name><languageId>be</languageId><trName>Макаа, САР (Кітай)</trName></name>
       <name><languageId>bg</languageId><trName>Макао, САР на Китай</trName></name>
       <name><languageId>bn</languageId><trName>ম্যাকাও এসএআর চীনা</trName></name>
@@ -31810,7 +31810,7 @@
       <name><languageId>es</languageId><trName>RAE de Macao (China)</trName></name>
       <name><languageId>et</languageId><trName>Macau erihalduspiirkond</trName></name>
       <name><languageId>eu</languageId><trName>Macau Txinako AEB</trName></name>
-      <name><languageId>fa</languageId><trName>ماکائو، منطقۀ ویژۀ اداری چین</trName></name>
+      <name><languageId>fa</languageId><trName>ماکائو، منطقهٔ ویژهٔ اداری چین</trName></name>
       <name><languageId>fi</languageId><trName>Macao – Kiinan e.h.a.</trName></name>
       <name><languageId>fil</languageId><trName>Macau SAR China</trName></name>
       <name><languageId>fo</languageId><trName>Makao SAR Kina</trName></name>
@@ -31828,14 +31828,14 @@
       <name><languageId>hsb</languageId><trName>Wosebita zarjadniska cona Macao</trName></name>
       <name><languageId>hu</languageId><trName>Makaó KKT</trName></name>
       <name><languageId>hy</languageId><trName>Չինաստանի Մակաո ՀՎՇ</trName></name>
-      <name><languageId>id</languageId><trName>Makau SAR Tiongkok</trName></name>
+      <name><languageId>id</languageId><trName>Makau DAK Tiongkok</trName></name>
       <name><languageId>is</languageId><trName>sérstjórnarsvæðið Makaó</trName></name>
       <name><languageId>it</languageId><trName>RAS di Macao</trName></name>
       <name><languageId>ja</languageId><trName>中華人民共和国マカオ特別行政区</trName></name>
       <name><languageId>jv</languageId><trName>Laladan Administratif Astamiwa Makau</trName></name>
       <name><languageId>ka</languageId><trName>მაკაოს სპეციალური ადმინისტრაციული რეგიონი, ჩინეთი</trName></name>
       <name><languageId>kab</languageId><trName>Tamnaṭ Tudbilt Tuzzigt tacenwit n Makaw</trName></name>
-      <name><languageId>kea</languageId><trName>Rejiãu Administrativu Spesial di Makau</trName></name>
+      <name><languageId>kea</languageId><trName>Makau, Rejion Administrativu Spesial di Xina</trName></name>
       <name><languageId>kk</languageId><trName>Макао АӘА</trName></name>
       <name><languageId>kl</languageId><trName>Macao</trName></name>
       <name><languageId>km</languageId><trName>ម៉ាកាវ តំបន់រដ្ឋបាលពិសេសចិន</trName></name>
@@ -31850,7 +31850,7 @@
       <name><languageId>ln</languageId><trName>Makau (Shina)</trName></name>
       <name><languageId>lo</languageId><trName>ມາກາວ ເຂດປົກຄອງພິເສດ ຈີນ</trName></name>
       <name><languageId>lt</languageId><trName>Ypatingasis Administracinis Kinijos Regionas Makao</trName></name>
-      <name><languageId>lv</languageId><trName>Ķīnas īpašās pārvaldes apgabals Makao</trName></name>
+      <name><languageId>lv</languageId><trName>ĶTR īpašais administratīvais reģions Makao</trName></name>
       <name><languageId>mk</languageId><trName>Макао САР</trName></name>
       <name><languageId>ml</languageId><trName>മക്കാവു (SAR) ചൈന</trName></name>
       <name><languageId>mn</languageId><trName>БНХАУ-ын Тусгай захиргааны бүс Макао</trName></name>
@@ -31875,7 +31875,7 @@
       <name><languageId>ru</languageId><trName>Макао (САР)</trName></name>
       <name><languageId>sd</languageId><trName>مڪائو SAR چين</trName></name>
       <name><languageId>se</languageId><trName>Makáo</trName></name>
-      <name><languageId>si</languageId><trName>මකාවු චීන විශේෂ පරිපාලන කලාපය</trName></name>
+      <name><languageId>si</languageId><trName>මකාවු එස්ඒආර්</trName></name>
       <name><languageId>sk</languageId><trName>Macao – OAO Číny</trName></name>
       <name><languageId>sl</languageId><trName>Posebno administrativno območje LR Kitajske Macao</trName></name>
       <name><languageId>smn</languageId><trName>Macao - – Kiina e.h.k.</trName></name>
@@ -31884,7 +31884,7 @@
       <name><languageId>sr</languageId><trName>САР Макао (Кина)</trName></name>
       <name><languageId>sr_Latn</languageId><trName>SAR Makao (Kina)</trName></name>
       <name><languageId>sv</languageId><trName>Macao</trName></name>
-      <name><languageId>sw</languageId><trName>Macau SAR China</trName></name>
+      <name><languageId>sw</languageId><trName>Makau SAR China</trName></name>
       <name><languageId>ta</languageId><trName>மகாவ் எஸ்ஏஆர் சீனா</trName></name>
       <name><languageId>te</languageId><trName>మకావ్ ఎస్ఏఆర్ చైనా</trName></name>
       <name><languageId>tg</languageId><trName>Макао (МММ)</trName></name>
@@ -32890,7 +32890,7 @@
       <name><languageId>pa</languageId><trName>ਮਾਲਟਾ</trName></name>
       <name><languageId>pl</languageId><trName>Malta</trName></name>
       <name><languageId>prg</languageId><trName>Mālta</trName></name>
-      <name><languageId>ps</languageId><trName>مالتا</trName></name>
+      <name><languageId>ps</languageId><trName>مالټا</trName></name>
       <name><languageId>pt</languageId><trName>Malta</trName></name>
       <name><languageId>qu</languageId><trName>Malta</trName></name>
       <name><languageId>rm</languageId><trName>Malta</trName></name>
@@ -37330,7 +37330,7 @@
       <name><languageId>gsw</languageId><trName>Peru</trName></name>
       <name><languageId>gu</languageId><trName>પેરુ</trName></name>
       <name><languageId>guz</languageId><trName>Peru</trName></name>
-      <name><languageId>ha</languageId><trName>Peru</trName></name>
+      <name><languageId>ha</languageId><trName>Feru</trName></name>
       <name><languageId>he</languageId><trName>פרו</trName></name>
       <name><languageId>hi</languageId><trName>पेरू</trName></name>
       <name><languageId>hr</languageId><trName>Peru</trName></name>
@@ -38212,7 +38212,7 @@
       <name><languageId>kab</languageId><trName>Pakistan</trName></name>
       <name><languageId>kam</languageId><trName>Pakistani</trName></name>
       <name><languageId>kde</languageId><trName>Pakistani</trName></name>
-      <name><languageId>kea</languageId><trName>Pakistãu</trName></name>
+      <name><languageId>kea</languageId><trName>Pakistan</trName></name>
       <name><languageId>khq</languageId><trName>Paakistan</trName></name>
       <name><languageId>ki</languageId><trName>Pakistani</trName></name>
       <name><languageId>kk</languageId><trName>Пәкістан</trName></name>
@@ -38630,7 +38630,7 @@
       <name><languageId>ha</languageId><trName>San Piyar Da Mikelan</trName></name>
       <name><languageId>he</languageId><trName>סנט פייר ומיקלון</trName></name>
       <name><languageId>hi</languageId><trName>सेंट पिएरे और मिक्वेलान</trName></name>
-      <name><languageId>hr</languageId><trName>Sveti Petar i Mikelon</trName></name>
+      <name><languageId>hr</languageId><trName>Saint-Pierre-et-Miquelon</trName></name>
       <name><languageId>hsb</languageId><trName>St. Pierre a Miquelon</trName></name>
       <name><languageId>hu</languageId><trName>Saint-Pierre és Miquelon</trName></name>
       <name><languageId>hy</languageId><trName>Սեն Պիեռ և Միքելոն</trName></name>
@@ -38678,7 +38678,7 @@
       <name><languageId>mg</languageId><trName>Saint-Pierre-et-Miquelon</trName></name>
       <name><languageId>mgh</languageId><trName>Usantapieri na Mikeloni</trName></name>
       <name><languageId>mk</languageId><trName>Сент Пјер и Микелан</trName></name>
-      <name><languageId>ml</languageId><trName>സെന്റ് പിയറിയും മിക്കലണും</trName></name>
+      <name><languageId>ml</languageId><trName>സെന്റ് പിയറി ആൻഡ് മിക്വലൻ</trName></name>
       <name><languageId>mn</languageId><trName>Сент-Пьер ба Микело</trName></name>
       <name><languageId>mr</languageId><trName>सेंट पियरे आणि मिक्वेलोन</trName></name>
       <name><languageId>ms</languageId><trName>Saint Pierre dan Miquelon</trName></name>
@@ -38852,7 +38852,7 @@
       <name><languageId>kab</languageId><trName>Pitkarin</trName></name>
       <name><languageId>kam</languageId><trName>Pitkairni</trName></name>
       <name><languageId>kde</languageId><trName>Pitikeluni</trName></name>
-      <name><languageId>kea</languageId><trName>Pirkairn</trName></name>
+      <name><languageId>kea</languageId><trName>Ilhas Pitkairn</trName></name>
       <name><languageId>khq</languageId><trName>Pitikarin</trName></name>
       <name><languageId>ki</languageId><trName>Pitkairni</trName></name>
       <name><languageId>kk</languageId><trName>Питкэрн аралдары</trName></name>
@@ -39217,7 +39217,7 @@
       <name><languageId>br</languageId><trName>Tiriadoù Palestina</trName></name>
       <name><languageId>brx</languageId><trName>फ़िलिस्तीन</trName></name>
       <name><languageId>bs</languageId><trName>Palestinska Teritorija</trName></name>
-      <name><languageId>ca</languageId><trName>territoris palestins</trName></name>
+      <name><languageId>ca</languageId><trName>Territoris palestins</trName></name>
       <name><languageId>ccp</languageId><trName>𑄜𑄨𑄣𑄨𑄌𑄴𑄖𑄨𑄚𑄴 𑄎𑄉𑄊𑄚𑄨</trName></name>
       <name><languageId>ce</languageId><trName>ПалестӀинан латтанаш</trName></name>
       <name><languageId>chr</languageId><trName>ᏆᎴᏍᏗᏂᎠᏂ ᏄᎬᏫᏳᏌᏕᎩ</trName></name>
@@ -39269,7 +39269,7 @@
       <name><languageId>kab</languageId><trName>Falisṭin d Ɣezza</trName></name>
       <name><languageId>kam</languageId><trName>Ukingo wa Magharibi na Ukanda wa Gaza wa Palestina</trName></name>
       <name><languageId>kde</languageId><trName>Nchingu wa Magalibi wa Mpanda wa kuGaza wa kuPales</trName></name>
-      <name><languageId>kea</languageId><trName>Palistina</trName></name>
+      <name><languageId>kea</languageId><trName>Tiritóriu palistinianu</trName></name>
       <name><languageId>khq</languageId><trName>Palestine Dangay nda Gaaza</trName></name>
       <name><languageId>ki</languageId><trName>Ukingo wa Magharibi na Ukanda wa Gaza wa Palestina</trName></name>
       <name><languageId>kk</languageId><trName>Палестина аймақтары</trName></name>
@@ -39365,7 +39365,7 @@
       <name><languageId>wae</languageId><trName>Paleština</trName></name>
       <name><languageId>xog</languageId><trName>Palesitayini ni Gaza</trName></name>
       <name><languageId>yav</languageId><trName>kitɔŋ ki palɛstíin</trName></name>
-      <name><languageId>yo</languageId><trName>Orílẹ́ède Iwọorun Pakisitian ati Gaṣa</trName></name>
+      <name><languageId>yo</languageId><trName>Agbègbè Palẹsítíànù</trName></name>
       <name><languageId>yue</languageId><trName>巴勒斯坦自治區</trName></name>
       <name><languageId>zgh</languageId><trName>ⴰⴳⵎⵎⴰⴹ ⵏ ⵜⴰⴳⵓⵜ ⴷ ⵖⵣⵣⴰ</trName></name>
       <name><languageId>zh</languageId><trName>巴勒斯坦领土</trName></name>
@@ -39577,7 +39577,7 @@
       <name><languageId>xog</languageId><trName>Potugaali</trName></name>
       <name><languageId>yav</languageId><trName>pɔltukáal</trName></name>
       <name><languageId>yi</languageId><trName>פּארטוגאַל</trName></name>
-      <name><languageId>yo</languageId><trName>Orílẹ́ède Pọtugi</trName></name>
+      <name><languageId>yo</languageId><trName>Orílẹ́ède Pọ́túgà</trName></name>
       <name><languageId>yue</languageId><trName>葡萄牙</trName></name>
       <name><languageId>zgh</languageId><trName>ⴱⵕⵟⵇⵉⵣ</trName></name>
       <name><languageId>zh</languageId><trName>葡萄牙</trName></name>
@@ -39875,7 +39875,7 @@
       <name><languageId>gsw</languageId><trName>Paraguai</trName></name>
       <name><languageId>gu</languageId><trName>પેરાગ્વે</trName></name>
       <name><languageId>guz</languageId><trName>Paragwai</trName></name>
-      <name><languageId>ha</languageId><trName>Paragai</trName></name>
+      <name><languageId>ha</languageId><trName>Faragwai</trName></name>
       <name><languageId>he</languageId><trName>פרגוואי</trName></name>
       <name><languageId>hi</languageId><trName>पराग्वे</trName></name>
       <name><languageId>hr</languageId><trName>Paragvaj</trName></name>
@@ -40087,7 +40087,7 @@
       <name><languageId>gsw</languageId><trName>Ggatar</trName></name>
       <name><languageId>gu</languageId><trName>કતાર</trName></name>
       <name><languageId>guz</languageId><trName>Katari</trName></name>
-      <name><languageId>ha</languageId><trName>Kwatar</trName></name>
+      <name><languageId>ha</languageId><trName>Katar</trName></name>
       <name><languageId>he</languageId><trName>קטאר</trName></name>
       <name><languageId>hi</languageId><trName>क़तर</trName></name>
       <name><languageId>hr</languageId><trName>Katar</trName></name>
@@ -40315,7 +40315,7 @@
       <name><languageId>kab</languageId><trName>Timlilit</trName></name>
       <name><languageId>kam</languageId><trName>Riyunioni</trName></name>
       <name><languageId>kde</languageId><trName>Liyunioni</trName></name>
-      <name><languageId>kea</languageId><trName>Runiãu</trName></name>
+      <name><languageId>kea</languageId><trName>Runion</trName></name>
       <name><languageId>khq</languageId><trName>Reenioŋ</trName></name>
       <name><languageId>ki</languageId><trName>Riyunioni</trName></name>
       <name><languageId>kk</languageId><trName>Реюньон</trName></name>
@@ -40403,7 +40403,7 @@
       <name><languageId>ti</languageId><trName>ሪዩኒየን</trName></name>
       <name><languageId>tk</languageId><trName>Reýunýon</trName></name>
       <name><languageId>to</languageId><trName>Lēunioni</trName></name>
-      <name><languageId>tr</languageId><trName>Réunion</trName></name>
+      <name><languageId>tr</languageId><trName>Reunion</trName></name>
       <name><languageId>tt</languageId><trName>Реюньон</trName></name>
       <name><languageId>twq</languageId><trName>Reenioŋ</trName></name>
       <name><languageId>tzm</languageId><trName>Riyyunyun</trName></name>
@@ -41357,7 +41357,7 @@
       <name><languageId>gsw</languageId><trName>Saudi-Araabie</trName></name>
       <name><languageId>gu</languageId><trName>સાઉદી અરેબિયા</trName></name>
       <name><languageId>guz</languageId><trName>Saudi</trName></name>
-      <name><languageId>ha</languageId><trName>Ƙasar Makka</trName></name>
+      <name><languageId>ha</languageId><trName>Saudiyya</trName></name>
       <name><languageId>he</languageId><trName>ערב הסעודית</trName></name>
       <name><languageId>hi</languageId><trName>सऊदी अरब</trName></name>
       <name><languageId>hr</languageId><trName>Saudijska Arabija</trName></name>
@@ -41439,7 +41439,7 @@
       <name><languageId>rwk</languageId><trName>Saudi</trName></name>
       <name><languageId>saq</languageId><trName>Saudi</trName></name>
       <name><languageId>sbp</languageId><trName>Sawudi</trName></name>
-      <name><languageId>sd</languageId><trName>سعودی عرب</trName></name>
+      <name><languageId>sd</languageId><trName>سعودي عرب</trName></name>
       <name><languageId>se</languageId><trName>Saudi-Arábia</trName></name>
       <name><languageId>seh</languageId><trName>Arábia Saudita</trName></name>
       <name><languageId>ses</languageId><trName>Saudiya</trName></name>
@@ -41631,7 +41631,7 @@
       <name><languageId>nb</languageId><trName>Salomonøyene</trName></name>
       <name><languageId>nd</languageId><trName>Solomon Islands</trName></name>
       <name><languageId>nds</languageId><trName>Salomonen</trName></name>
-      <name><languageId>ne</languageId><trName>सोलोमोन टापुहरु</trName></name>
+      <name><languageId>ne</languageId><trName>सोलोमन टापुहरू</trName></name>
       <name><languageId>nl</languageId><trName>Salomonseilanden</trName></name>
       <name><languageId>nmg</languageId><trName>Maŋ́ má Salomɔn</trName></name>
       <name><languageId>nn</languageId><trName>Salomonøyane</trName></name>
@@ -41778,7 +41778,7 @@
       <name><languageId>gsw</languageId><trName>Seischälle</trName></name>
       <name><languageId>gu</languageId><trName>સેશેલ્સ</trName></name>
       <name><languageId>guz</languageId><trName>Shelisheli</trName></name>
-      <name><languageId>ha</languageId><trName>Saishal</trName></name>
+      <name><languageId>ha</languageId><trName>Seychelles</trName></name>
       <name><languageId>he</languageId><trName>איי סיישל</trName></name>
       <name><languageId>hi</languageId><trName>सेशेल्स</trName></name>
       <name><languageId>hr</languageId><trName>Sejšeli</trName></name>
@@ -42013,7 +42013,7 @@
       <name><languageId>kab</languageId><trName>Sudan</trName></name>
       <name><languageId>kam</languageId><trName>Sudani</trName></name>
       <name><languageId>kde</languageId><trName>Sudani</trName></name>
-      <name><languageId>kea</languageId><trName>Sudãu</trName></name>
+      <name><languageId>kea</languageId><trName>Sudon</trName></name>
       <name><languageId>khq</languageId><trName>Suudaŋ</trName></name>
       <name><languageId>ki</languageId><trName>Sudani</trName></name>
       <name><languageId>kk</languageId><trName>Судан</trName></name>
@@ -43041,7 +43041,7 @@
       <name><languageId>es</languageId><trName>Svalbard y Jan Mayen</trName></name>
       <name><languageId>et</languageId><trName>Svalbard ja Jan Mayen</trName></name>
       <name><languageId>eu</languageId><trName>Svalbard eta Jan Mayen uharteak</trName></name>
-      <name><languageId>fa</languageId><trName>اسوالبارد و جان‌ماین</trName></name>
+      <name><languageId>fa</languageId><trName>سوالبارد و یان ماین</trName></name>
       <name><languageId>fi</languageId><trName>Huippuvuoret ja Jan Mayen</trName></name>
       <name><languageId>fil</languageId><trName>Svalbard &amp; Jan Mayen</trName></name>
       <name><languageId>fo</languageId><trName>Svalbard &amp; Jan Mayen</trName></name>
@@ -43858,7 +43858,7 @@
       <name><languageId>gsw</languageId><trName>Senegal</trName></name>
       <name><languageId>gu</languageId><trName>સેનેગલ</trName></name>
       <name><languageId>guz</languageId><trName>Senegali</trName></name>
-      <name><languageId>ha</languageId><trName>Sinigal</trName></name>
+      <name><languageId>ha</languageId><trName>Sanigal</trName></name>
       <name><languageId>he</languageId><trName>סנגל</trName></name>
       <name><languageId>hi</languageId><trName>सेनेगल</trName></name>
       <name><languageId>hr</languageId><trName>Senegal</trName></name>
@@ -44507,7 +44507,7 @@
       <name><languageId>jv</languageId><trName>Sudan Kidul</trName></name>
       <name><languageId>ka</languageId><trName>სამხრეთ სუდანი</trName></name>
       <name><languageId>kab</languageId><trName>Sudan n unẓul</trName></name>
-      <name><languageId>kea</languageId><trName>Sudãu di Sul</trName></name>
+      <name><languageId>kea</languageId><trName>Sudon di Sul</trName></name>
       <name><languageId>kk</languageId><trName>Оңтүстік Судан</trName></name>
       <name><languageId>kl</languageId><trName>Kujalleqsudan</trName></name>
       <name><languageId>km</languageId><trName>ស៊ូដង់​ខាង​ត្បូង</trName></name>
@@ -44680,7 +44680,7 @@
       <name><languageId>kab</languageId><trName>Saw Tumi d Pransip</trName></name>
       <name><languageId>kam</languageId><trName>Sao Tome na Principe</trName></name>
       <name><languageId>kde</languageId><trName>Saotome na Prinsipe</trName></name>
-      <name><languageId>kea</languageId><trName>Sãu Tume i Prínsipi</trName></name>
+      <name><languageId>kea</languageId><trName>San Tume i Prínsipi</trName></name>
       <name><languageId>khq</languageId><trName>Sao Tome nda Prinsipe</trName></name>
       <name><languageId>ki</languageId><trName>Sao Tome na Principe</trName></name>
       <name><languageId>kk</languageId><trName>Сан-Томе және Принсипи</trName></name>
@@ -44689,7 +44689,7 @@
       <name><languageId>km</languageId><trName>សៅតូម៉េ និង ប្រាំងស៊ីប</trName></name>
       <name><languageId>kn</languageId><trName>ಸಾವೋ ಟೋಮ್ ಮತ್ತು ಪ್ರಿನ್ಸಿಪಿ</trName></name>
       <name><languageId>ko</languageId><trName>상투메 프린시페</trName></name>
-      <name><languageId>kok</languageId><trName>सावो टोमे आनी प्रिंसिपल</trName></name>
+      <name><languageId>kok</languageId><trName>साओ टोम आनी प्रिन्सिप</trName></name>
       <name><languageId>ks</languageId><trName>ساو توم تہٕ پرنسِپی</trName></name>
       <name><languageId>ksb</languageId><trName>Sao Tome na Plincipe</trName></name>
       <name><languageId>ksf</languageId><trName>saotomɛ́ ri priŋsib</trName></name>
@@ -44737,7 +44737,7 @@
       <name><languageId>qu</languageId><trName>Santo Tomé y Príncipe</trName></name>
       <name><languageId>rm</languageId><trName>São Tomé e Principe</trName></name>
       <name><languageId>rn</languageId><trName>Sawotome na Perensipe</trName></name>
-      <name><languageId>ro</languageId><trName>Sao Tome și Principe</trName></name>
+      <name><languageId>ro</languageId><trName>São Tomé și Príncipe</trName></name>
       <name><languageId>rof</languageId><trName>Sao Tome na Principe</trName></name>
       <name><languageId>ru</languageId><trName>Сан-Томе и Принсипи</trName></name>
       <name><languageId>rwk</languageId><trName>Sao Tome na Principe</trName></name>
@@ -44768,13 +44768,13 @@
       <name><languageId>ti</languageId><trName>ሳኦ ቶሜን ፕሪንሲፔን</trName></name>
       <name><languageId>tk</languageId><trName>San-Tome we Prinsipi</trName></name>
       <name><languageId>to</languageId><trName>Sao Tomē mo Pilinisipe</trName></name>
-      <name><languageId>tr</languageId><trName>São Tomé ve Príncipe</trName></name>
+      <name><languageId>tr</languageId><trName>Sao Tome ve Principe</trName></name>
       <name><languageId>tt</languageId><trName>Сан-Томе һәм Принсипи</trName></name>
       <name><languageId>twq</languageId><trName>Sao Tome nda Prinsipe</trName></name>
       <name><languageId>tzm</languageId><trName>Sawṭumi d Prinsip</trName></name>
       <name><languageId>ug</languageId><trName>سان تومې ۋە پرىنسىپې</trName></name>
       <name><languageId>uk</languageId><trName>Сан-Томе і Прінсіпі</trName></name>
-      <name><languageId>ur</languageId><trName>ساؤ ٹوم اور پرنسپے</trName></name>
+      <name><languageId>ur</languageId><trName>ساؤ ٹومے اور پرنسپے</trName></name>
       <name><languageId>uz</languageId><trName>San-Tome va Prinsipi</trName></name>
       <name><languageId>vai</languageId><trName>ꕢꕴ ꕿꔈ ꗪ ꕉ ꕮꔧ ꕗꕴꔀ</trName></name>
       <name><languageId>vi</languageId><trName>São Tomé và Príncipe</trName></name>
@@ -45084,7 +45084,7 @@
       <name><languageId>jv</languageId><trName>Sint Martén</trName></name>
       <name><languageId>ka</languageId><trName>სინტ-მარტენი</trName></name>
       <name><languageId>kab</languageId><trName>San Maṛtan(Tamnaḍt tahulandit)</trName></name>
-      <name><languageId>kea</languageId><trName>Sãu Martinhu di Olanda</trName></name>
+      <name><languageId>kea</languageId><trName>San Martinhu (Olanda)</trName></name>
       <name><languageId>kk</languageId><trName>Синт-Мартен</trName></name>
       <name><languageId>km</languageId><trName>សីង​ម៉ាធីន</trName></name>
       <name><languageId>kn</languageId><trName>ಸಿಂಟ್ ಮಾರ್ಟೆನ್</trName></name>
@@ -45385,7 +45385,7 @@
   <territory>
     <territoryId>SZ</territoryId>
     <names>
-      <name><languageId>af</languageId><trName>Swaziland</trName></name>
+      <name><languageId>af</languageId><trName>Eswatini</trName></name>
       <name><languageId>agq</languageId><trName>Shǔazìlân</trName></name>
       <name><languageId>ak</languageId><trName>Swaziland</trName></name>
       <name><languageId>am</languageId><trName>ሱዋዚላንድ</trName></name>
@@ -45395,14 +45395,14 @@
       <name><languageId>ast</languageId><trName>Suazilandia</trName></name>
       <name><languageId>az</languageId><trName>Esvatini</trName></name>
       <name><languageId>bas</languageId><trName>Swàzìlând</trName></name>
-      <name><languageId>be</languageId><trName>Свазіленд</trName></name>
+      <name><languageId>be</languageId><trName>Эсватыні</trName></name>
       <name><languageId>bez</languageId><trName>Huuswazi</trName></name>
-      <name><languageId>bg</languageId><trName>Свазиленд</trName></name>
+      <name><languageId>bg</languageId><trName>Есватини</trName></name>
       <name><languageId>bm</languageId><trName>Swazilandi</trName></name>
       <name><languageId>bn</languageId><trName>ইসওয়াতিনি</trName></name>
-      <name><languageId>br</languageId><trName>Swaziland</trName></name>
+      <name><languageId>br</languageId><trName>Eswatini</trName></name>
       <name><languageId>brx</languageId><trName>स्वाज़ीलैंड</trName></name>
-      <name><languageId>bs</languageId><trName>Svazilend</trName></name>
+      <name><languageId>bs</languageId><trName>Esvatini</trName></name>
       <name><languageId>ca</languageId><trName>eSwatini</trName></name>
       <name><languageId>ccp</languageId><trName>𑄥𑄮𑄠𑄎𑄨𑄣𑄳𑄠𑄚𑄴𑄓𑄴</trName></name>
       <name><languageId>ce</languageId><trName>Свазиленд</trName></name>
@@ -45413,7 +45413,7 @@
       <name><languageId>cy</languageId><trName>Eswatini</trName></name>
       <name><languageId>da</languageId><trName>Eswatini</trName></name>
       <name><languageId>dav</languageId><trName>Uswazi</trName></name>
-      <name><languageId>de</languageId><trName>Swasiland</trName></name>
+      <name><languageId>de</languageId><trName>Eswatini</trName></name>
       <name><languageId>dje</languageId><trName>Swaziland</trName></name>
       <name><languageId>dsb</languageId><trName>Swasiska</trName></name>
       <name><languageId>dz</languageId><trName>སུ་ཝ་ཛི་ལེནཌ</trName></name>
@@ -45430,20 +45430,20 @@
       <name><languageId>ff</languageId><trName>Swaasilannda</trName></name>
       <name><languageId>fi</languageId><trName>Swazimaa</trName></name>
       <name><languageId>fil</languageId><trName>Swaziland</trName></name>
-      <name><languageId>fo</languageId><trName>Svasiland</trName></name>
+      <name><languageId>fo</languageId><trName>Esvatini</trName></name>
       <name><languageId>fr</languageId><trName>Eswatini</trName></name>
       <name><languageId>fur</languageId><trName>Swaziland</trName></name>
       <name><languageId>fy</languageId><trName>Swazilân</trName></name>
-      <name><languageId>ga</languageId><trName>an tSuasalainn</trName></name>
-      <name><languageId>gd</languageId><trName>Dùthaich nan Suasaidh</trName></name>
-      <name><languageId>gl</languageId><trName>Suazilandia</trName></name>
+      <name><languageId>ga</languageId><trName>eSuaitíní</trName></name>
+      <name><languageId>gd</languageId><trName>eSwatini</trName></name>
+      <name><languageId>gl</languageId><trName>Eswatini</trName></name>
       <name><languageId>gsw</languageId><trName>Swasiland</trName></name>
-      <name><languageId>gu</languageId><trName>સ્વાઝિલેન્ડ</trName></name>
+      <name><languageId>gu</languageId><trName>એસ્વાટીની</trName></name>
       <name><languageId>guz</languageId><trName>Uswazi</trName></name>
-      <name><languageId>ha</languageId><trName>Suwazilan</trName></name>
+      <name><languageId>ha</languageId><trName>Eswatini</trName></name>
       <name><languageId>he</languageId><trName>אסוואטיני</trName></name>
       <name><languageId>hi</languageId><trName>स्वाज़ीलैंड</trName></name>
-      <name><languageId>hr</languageId><trName>Svazi</trName></name>
+      <name><languageId>hr</languageId><trName>Esvatini</trName></name>
       <name><languageId>hsb</languageId><trName>Swaziska</trName></name>
       <name><languageId>hu</languageId><trName>Szváziföld</trName></name>
       <name><languageId>hy</languageId><trName>Էսվատինի</trName></name>
@@ -45460,16 +45460,16 @@
       <name><languageId>kab</languageId><trName>Swazilund</trName></name>
       <name><languageId>kam</languageId><trName>Uswazi</trName></name>
       <name><languageId>kde</languageId><trName>Uswazi</trName></name>
-      <name><languageId>kea</languageId><trName>Suazilándia</trName></name>
+      <name><languageId>kea</languageId><trName>Eswatini</trName></name>
       <name><languageId>khq</languageId><trName>Swaziland</trName></name>
       <name><languageId>ki</languageId><trName>Uswazi</trName></name>
       <name><languageId>kk</languageId><trName>Свазиленд</trName></name>
       <name><languageId>kl</languageId><trName>Swazilandi</trName></name>
       <name><languageId>kln</languageId><trName>Emetab Swaziland</trName></name>
       <name><languageId>km</languageId><trName>ស្វាស៊ីឡង់</trName></name>
-      <name><languageId>kn</languageId><trName>ಸ್ವಾಜಿಲ್ಯಾಂಡ್</trName></name>
+      <name><languageId>kn</languageId><trName>ಸ್ವಾತಿನಿ</trName></name>
       <name><languageId>ko</languageId><trName>에스와티니</trName></name>
-      <name><languageId>kok</languageId><trName>स्वाजीलँड</trName></name>
+      <name><languageId>kok</languageId><trName>इस्वातिनी</trName></name>
       <name><languageId>ks</languageId><trName>سُوزِلینڑ</trName></name>
       <name><languageId>ksb</languageId><trName>Uswazi</trName></name>
       <name><languageId>ksf</languageId><trName>swazilan</trName></name>
@@ -45485,7 +45485,7 @@
       <name><languageId>lu</languageId><trName>Swazilandi</trName></name>
       <name><languageId>luo</languageId><trName>Swaziland</trName></name>
       <name><languageId>luy</languageId><trName>Uswazi</trName></name>
-      <name><languageId>lv</languageId><trName>Svazilenda</trName></name>
+      <name><languageId>lv</languageId><trName>Svatini</trName></name>
       <name><languageId>mas</languageId><trName>Uswazi</trName></name>
       <name><languageId>mer</languageId><trName>Swazilandi</trName></name>
       <name><languageId>mfe</languageId><trName>Swaziland</trName></name>
@@ -45493,8 +45493,8 @@
       <name><languageId>mgh</languageId><trName>Uswazi</trName></name>
       <name><languageId>mk</languageId><trName>Свазиленд</trName></name>
       <name><languageId>ml</languageId><trName>സ്വാസിലാന്റ്</trName></name>
-      <name><languageId>mn</languageId><trName>Свазиланд</trName></name>
-      <name><languageId>mr</languageId><trName>स्वाझिलँड</trName></name>
+      <name><languageId>mn</languageId><trName>Эсватини</trName></name>
+      <name><languageId>mr</languageId><trName>इस्वातिनी</trName></name>
       <name><languageId>ms</languageId><trName>Swaziland</trName></name>
       <name><languageId>mt</languageId><trName>is-Swaziland</trName></name>
       <name><languageId>mua</languageId><trName>Sǝr Swaziland</trName></name>
@@ -45513,7 +45513,7 @@
       <name><languageId>pa</languageId><trName>ਇਸਵਾਤੀਨੀ</trName></name>
       <name><languageId>pl</languageId><trName>Eswatini</trName></name>
       <name><languageId>ps</languageId><trName>اسواټيني</trName></name>
-      <name><languageId>pt</languageId><trName>Suazilândia</trName></name>
+      <name><languageId>pt</languageId><trName>Essuatíni</trName></name>
       <name><languageId>qu</languageId><trName>Suazilandia</trName></name>
       <name><languageId>rm</languageId><trName>Swaziland</trName></name>
       <name><languageId>rn</languageId><trName>Suwazilandi</trName></name>
@@ -45529,9 +45529,9 @@
       <name><languageId>ses</languageId><trName>Swaziland</trName></name>
       <name><languageId>sg</languageId><trName>Swäzïlânde</trName></name>
       <name><languageId>shi</languageId><trName>ⵙⵡⴰⵣⵉⵍⴰⵏⴷⴰ</trName></name>
-      <name><languageId>si</languageId><trName>ස්වාසිලන්තය</trName></name>
-      <name><languageId>sk</languageId><trName>Svazijsko</trName></name>
-      <name><languageId>sl</languageId><trName>Svazi</trName></name>
+      <name><languageId>si</languageId><trName>එස්වාටිනි</trName></name>
+      <name><languageId>sk</languageId><trName>Eswatini</trName></name>
+      <name><languageId>sl</languageId><trName>Esvatini</trName></name>
       <name><languageId>smn</languageId><trName>Swazieennâm</trName></name>
       <name><languageId>sn</languageId><trName>Swaziland</trName></name>
       <name><languageId>so</languageId><trName>Eswaatiini</trName></name>
@@ -45540,14 +45540,14 @@
       <name><languageId>sr_Latn</languageId><trName>Svazilend</trName></name>
       <name><languageId>sv</languageId><trName>Swaziland</trName></name>
       <name><languageId>sw</languageId><trName>Uswazi</trName></name>
-      <name><languageId>ta</languageId><trName>ஸ்வாஸிலாந்து</trName></name>
-      <name><languageId>te</languageId><trName>స్వాజిల్యాండ్</trName></name>
+      <name><languageId>ta</languageId><trName>எஸ்வாட்டீனி</trName></name>
+      <name><languageId>te</languageId><trName>ఈస్వాటిని</trName></name>
       <name><languageId>teo</languageId><trName>Uswazi</trName></name>
       <name><languageId>tg</languageId><trName>Свазиленд</trName></name>
       <name><languageId>th</languageId><trName>เอสวาตีนี</trName></name>
       <name><languageId>ti</languageId><trName>ሱዋዚላንድ</trName></name>
-      <name><languageId>tk</languageId><trName>Swazilend</trName></name>
-      <name><languageId>to</languageId><trName>Suasilani</trName></name>
+      <name><languageId>tk</languageId><trName>Eswatini</trName></name>
+      <name><languageId>to</languageId><trName>ʻEsuatini</trName></name>
       <name><languageId>tr</languageId><trName>Esvatini</trName></name>
       <name><languageId>tt</languageId><trName>Свазиленд</trName></name>
       <name><languageId>twq</languageId><trName>Swaziland</trName></name>
@@ -45568,7 +45568,7 @@
       <name><languageId>yue</languageId><trName>史瓦濟蘭</trName></name>
       <name><languageId>zgh</languageId><trName>ⵙⵡⴰⵣⵉⵍⴰⵏⴷⴰ</trName></name>
       <name><languageId>zh</languageId><trName>斯威士兰</trName></name>
-      <name><languageId>zh_Hant</languageId><trName>史瓦濟蘭</trName></name>
+      <name><languageId>zh_Hant</languageId><trName>史瓦帝尼</trName></name>
       <name><languageId>zh_Hant_HK</languageId><trName>斯威士蘭</trName></name>
       <name><languageId>zu</languageId><trName>i-Swaziland</trName></name>
     </names>
@@ -45761,7 +45761,7 @@
       <name><languageId>tzm</languageId><trName>Tigzirin Turkiyyin d Tikaykusin</trName></name>
       <name><languageId>ug</languageId><trName>تۇركس ۋە كايكوس ئاراللىرى</trName></name>
       <name><languageId>uk</languageId><trName>Острови Теркс і Кайкос</trName></name>
-      <name><languageId>ur</languageId><trName>ترکس اور کیکاؤس جزائر</trName></name>
+      <name><languageId>ur</languageId><trName>ٹرکس اور کیکوس جزائر</trName></name>
       <name><languageId>uz</languageId><trName>Turks va Kaykos orollari</trName></name>
       <name><languageId>vai</languageId><trName>ꗋꖺꕃꔻ ꗪ ꕪꔤꖏꔻ ꔳꘋꗣ</trName></name>
       <name><languageId>vi</languageId><trName>Quần đảo Turks và Caicos</trName></name>
@@ -46520,7 +46520,7 @@
       <name><languageId>kab</languageId><trName>Tajikistan</trName></name>
       <name><languageId>kam</languageId><trName>Tajikistani</trName></name>
       <name><languageId>kde</languageId><trName>Tadikistani</trName></name>
-      <name><languageId>kea</languageId><trName>Tadjikistãu</trName></name>
+      <name><languageId>kea</languageId><trName>Tadjikistan</trName></name>
       <name><languageId>khq</languageId><trName>Taažikistan</trName></name>
       <name><languageId>ki</languageId><trName>Tajikistani</trName></name>
       <name><languageId>kk</languageId><trName>Тәжікстан</trName></name>
@@ -46946,7 +46946,7 @@
       <name><languageId>kk</languageId><trName>Тимор-Лесте</trName></name>
       <name><languageId>kl</languageId><trName>Timor Kangilliit</trName></name>
       <name><languageId>kln</languageId><trName>Emetab Timor nebo Murot tai</trName></name>
-      <name><languageId>km</languageId><trName>ទីម័រលីស</trName></name>
+      <name><languageId>km</languageId><trName>ទីម័រលេស្តេ</trName></name>
       <name><languageId>kn</languageId><trName>ಪೂರ್ವ ತಿಮೋರ್</trName></name>
       <name><languageId>ko</languageId><trName>동티모르</trName></name>
       <name><languageId>kok</languageId><trName>तिमोर-लेस्ते</trName></name>
@@ -47020,7 +47020,7 @@
       <name><languageId>sr_Latn</languageId><trName>Timor-Leste (Istočni Timor)</trName></name>
       <name><languageId>sv</languageId><trName>Östtimor</trName></name>
       <name><languageId>sw</languageId><trName>Timor-Leste</trName></name>
-      <name><languageId>ta</languageId><trName>தைமூர்-லெஸ்தே</trName></name>
+      <name><languageId>ta</languageId><trName>திமோர்-லெஸ்தே</trName></name>
       <name><languageId>te</languageId><trName>టిమోర్-లెస్టె</trName></name>
       <name><languageId>teo</languageId><trName>Timori ya Mashariki</trName></name>
       <name><languageId>tg</languageId><trName>Тимор-Лесте</trName></name>
@@ -47028,7 +47028,7 @@
       <name><languageId>ti</languageId><trName>ምብራቕ ቲሞር</trName></name>
       <name><languageId>tig</languageId><trName>ምስራቅ ቲሞር</trName></name>
       <name><languageId>tk</languageId><trName>Timor-Leste</trName></name>
-      <name><languageId>to</languageId><trName>Timoa hahake</trName></name>
+      <name><languageId>to</languageId><trName>Timoa fakahahake</trName></name>
       <name><languageId>tr</languageId><trName>Timor-Leste</trName></name>
       <name><languageId>tt</languageId><trName>Тимор-Лесте</trName></name>
       <name><languageId>twq</languageId><trName>Timoor hawsa</trName></name>
@@ -47149,7 +47149,7 @@
       <name><languageId>kab</languageId><trName>Ṭurkmanistan</trName></name>
       <name><languageId>kam</languageId><trName>Turukimenistani</trName></name>
       <name><languageId>kde</languageId><trName>Tuluchimenistani</trName></name>
-      <name><languageId>kea</languageId><trName>Turkumenistãu</trName></name>
+      <name><languageId>kea</languageId><trName>Turkumenistan</trName></name>
       <name><languageId>khq</languageId><trName>Turkmenistaŋ</trName></name>
       <name><languageId>ki</languageId><trName>Turukimenistani</trName></name>
       <name><languageId>kk</languageId><trName>Түрікменстан</trName></name>
@@ -47556,7 +47556,7 @@
       <name><languageId>gsw</languageId><trName>Tonga</trName></name>
       <name><languageId>gu</languageId><trName>ટોંગા</trName></name>
       <name><languageId>guz</languageId><trName>Tonga</trName></name>
-      <name><languageId>ha</languageId><trName>Tanga</trName></name>
+      <name><languageId>ha</languageId><trName>Tonga</trName></name>
       <name><languageId>he</languageId><trName>טונגה</trName></name>
       <name><languageId>hi</languageId><trName>टोंगा</trName></name>
       <name><languageId>hr</languageId><trName>Tonga</trName></name>
@@ -48753,7 +48753,7 @@
       <name><languageId>wo</languageId><trName>Taŋsani</trName></name>
       <name><languageId>yav</languageId><trName>taŋsaní</trName></name>
       <name><languageId>yi</languageId><trName>טאַנזאַניע</trName></name>
-      <name><languageId>yo</languageId><trName>Orílẹ́ède Tanṣania</trName></name>
+      <name><languageId>yo</languageId><trName>Orílẹ́ède Tàǹsáníà</trName></name>
       <name><languageId>yue</languageId><trName>坦尚尼亞</trName></name>
       <name><languageId>zgh</languageId><trName>ⵟⴰⵏⵥⴰⵏⵢⴰ</trName></name>
       <name><languageId>zh</languageId><trName>坦桑尼亚</trName></name>
@@ -49343,7 +49343,7 @@
       <name><languageId>yue</languageId><trName>美國本土外小島嶼</trName></name>
       <name><languageId>zh</languageId><trName>美国本土外小岛屿</trName></name>
       <name><languageId>zh_Hant</languageId><trName>美國本土外小島嶼</trName></name>
-      <name><languageId>zu</languageId><trName>i-U.S. Minor Outlying Islands</trName></name>
+      <name><languageId>zu</languageId><trName>I-U.S. Outlying Islands</trName></name>
     </names>
     <scripts>
       <script><scriptId>Latn</scriptId><rank>1000</rank></script>
@@ -49379,7 +49379,7 @@
       <name><languageId>ast</languageId><trName>Estaos Xuníos</trName></name>
       <name><languageId>az</languageId><trName>Amerika Birləşmiş Ştatları</trName></name>
       <name><languageId>bas</languageId><trName>Àdnà i Bilɔ̀ŋ bi Amerkà</trName></name>
-      <name><languageId>be</languageId><trName>Злучаныя Штаты Амерыкі</trName></name>
+      <name><languageId>be</languageId><trName>Злучаныя Штаты</trName></name>
       <name><languageId>bez</languageId><trName>Humalekani</trName></name>
       <name><languageId>bg</languageId><trName>Съединени щати</trName></name>
       <name><languageId>bm</languageId><trName>Ameriki</trName></name>
@@ -49387,7 +49387,7 @@
       <name><languageId>bo</languageId><trName>ཨ་མེ་རི་ཀ།</trName></name>
       <name><languageId>br</languageId><trName>Stadoù-Unanet</trName></name>
       <name><languageId>brx</languageId><trName>संयुक्त राज्य अमरिका</trName></name>
-      <name><languageId>bs</languageId><trName>Sjedinjene Američke Države</trName></name>
+      <name><languageId>bs</languageId><trName>Sjedinjene Države</trName></name>
       <name><languageId>byn</languageId><trName>አሜሪካ</trName></name>
       <name><languageId>ca</languageId><trName>Estats Units</trName></name>
       <name><languageId>ccp</languageId><trName>𑄟𑄢𑄴𑄇𑄨𑄚𑄴 𑄎𑄧𑄙𑄢𑄬𑄌𑄴𑄎𑄮</trName></name>
@@ -49427,7 +49427,7 @@
       <name><languageId>gsw</languageId><trName>Veräinigti Schtaate</trName></name>
       <name><languageId>gu</languageId><trName>યુનાઇટેડ સ્ટેટ્સ</trName></name>
       <name><languageId>guz</languageId><trName>Marekani</trName></name>
-      <name><languageId>ha</languageId><trName>Amirka</trName></name>
+      <name><languageId>ha</languageId><trName>Amurka</trName></name>
       <name><languageId>haw</languageId><trName>ʻAmelika Hui Pū ʻIa</trName></name>
       <name><languageId>he</languageId><trName>ארצות הברית</trName></name>
       <name><languageId>hi</languageId><trName>संयुक्त राज्य</trName></name>
@@ -49551,7 +49551,7 @@
       <name><languageId>tzm</languageId><trName>Iwunak Idduklen n Amirika</trName></name>
       <name><languageId>ug</languageId><trName>ئامېرىكا قوشما ئىشتاتلىرى</trName></name>
       <name><languageId>uk</languageId><trName>Сполучені Штати</trName></name>
-      <name><languageId>ur</languageId><trName>ریاستہائے متحدہ</trName></name>
+      <name><languageId>ur</languageId><trName>ریاست ہائے متحدہ امریکہ</trName></name>
       <name><languageId>uz</languageId><trName>Amerika Qo‘shma Shtatlari</trName></name>
       <name><languageId>uz_Cyrl</languageId><trName>Қўшма Штатлар</trName></name>
       <name><languageId>vai</languageId><trName>ꕶꕱ</trName></name>
@@ -49688,7 +49688,7 @@
       <name><languageId>gsw</languageId><trName>Uruguay</trName></name>
       <name><languageId>gu</languageId><trName>ઉરુગ્વે</trName></name>
       <name><languageId>guz</languageId><trName>Urugwai</trName></name>
-      <name><languageId>ha</languageId><trName>Yurugai</trName></name>
+      <name><languageId>ha</languageId><trName>Yurigwai</trName></name>
       <name><languageId>he</languageId><trName>אורוגוואי</trName></name>
       <name><languageId>hi</languageId><trName>उरूग्वे</trName></name>
       <name><languageId>hr</languageId><trName>Urugvaj</trName></name>
@@ -49896,7 +49896,7 @@
       <name><languageId>fy</languageId><trName>Oezbekistan</trName></name>
       <name><languageId>ga</languageId><trName>an Úisbéiceastáin</trName></name>
       <name><languageId>gd</languageId><trName>Usbagastàn</trName></name>
-      <name><languageId>gl</languageId><trName>Uzbequistán</trName></name>
+      <name><languageId>gl</languageId><trName>Uzbekistán</trName></name>
       <name><languageId>gsw</languageId><trName>Uschbeekischtan</trName></name>
       <name><languageId>gu</languageId><trName>ઉઝ્બેકિસ્તાન</trName></name>
       <name><languageId>guz</languageId><trName>Uzibekistani</trName></name>
@@ -49918,7 +49918,7 @@
       <name><languageId>kab</languageId><trName>Uzbaxistan</trName></name>
       <name><languageId>kam</languageId><trName>Uzibekistani</trName></name>
       <name><languageId>kde</languageId><trName>Uzibechistani</trName></name>
-      <name><languageId>kea</languageId><trName>Uzbekistãu</trName></name>
+      <name><languageId>kea</languageId><trName>Uzbekistan</trName></name>
       <name><languageId>khq</languageId><trName>Uzbeekistan</trName></name>
       <name><languageId>ki</languageId><trName>Uzibekistani</trName></name>
       <name><languageId>kk</languageId><trName>Өзбекстан</trName></name>
@@ -50335,7 +50335,7 @@
       <name><languageId>hu</languageId><trName>Saint Vincent és a Grenadine-szigetek</trName></name>
       <name><languageId>hy</languageId><trName>Սենթ Վինսենթ և Գրենադիններ</trName></name>
       <name><languageId>ia</languageId><trName>Sancte Vincente e le Grenadinas</trName></name>
-      <name><languageId>id</languageId><trName>Saint Vincent dan Grenadines</trName></name>
+      <name><languageId>id</languageId><trName>Saint Vincent dan Grenadine</trName></name>
       <name><languageId>ig</languageId><trName>St. Vincent &amp; Grenadines</trName></name>
       <name><languageId>is</languageId><trName>Sankti Vinsent og Grenadíneyjar</trName></name>
       <name><languageId>it</languageId><trName>Saint Vincent e Grenadine</trName></name>
@@ -50346,7 +50346,7 @@
       <name><languageId>kab</languageId><trName>San Vansu d Grunadin</trName></name>
       <name><languageId>kam</languageId><trName>Santavisenti na Grenadini</trName></name>
       <name><languageId>kde</languageId><trName>Santavisenti na Glenadini</trName></name>
-      <name><languageId>kea</languageId><trName>Sãu Bisenti i Granadinas</trName></name>
+      <name><languageId>kea</languageId><trName>San Bisenti i Granadinas</trName></name>
       <name><languageId>khq</languageId><trName>Seŋvinsaŋ nda Grenadine</trName></name>
       <name><languageId>ki</languageId><trName>Santavisenti na Grenadini</trName></name>
       <name><languageId>kk</languageId><trName>Сент-Винсент және Гренадин аралдары</trName></name>
@@ -50758,7 +50758,7 @@
       <name><languageId>hsb</languageId><trName>Britiske knježniske kupy</trName></name>
       <name><languageId>hu</languageId><trName>Brit Virgin-szigetek</trName></name>
       <name><languageId>hy</languageId><trName>Բրիտանական Վիրջինյան կղզիներ</trName></name>
-      <name><languageId>id</languageId><trName>Kepulauan Virgin Inggris</trName></name>
+      <name><languageId>id</languageId><trName>Kepulauan Virgin Britania Raya</trName></name>
       <name><languageId>ig</languageId><trName>Agwaetiti British Virgin</trName></name>
       <name><languageId>is</languageId><trName>Bresku Jómfrúaeyjar</trName></name>
       <name><languageId>it</languageId><trName>Isole Vergini Britanniche</trName></name>
@@ -50963,7 +50963,7 @@
       <name><languageId>hsb</languageId><trName>Ameriske knježniske kupy</trName></name>
       <name><languageId>hu</languageId><trName>Amerikai Virgin-szigetek</trName></name>
       <name><languageId>hy</languageId><trName>ԱՄՆ Վիրջինյան կղզիներ</trName></name>
-      <name><languageId>id</languageId><trName>Kepulauan Virgin A.S.</trName></name>
+      <name><languageId>id</languageId><trName>Kepulauan Virgin Amerika Serikat</trName></name>
       <name><languageId>ig</languageId><trName>Agwaetiti Virgin nke US</trName></name>
       <name><languageId>is</languageId><trName>Bandarísku Jómfrúaeyjar</trName></name>
       <name><languageId>it</languageId><trName>Isole Vergini Americane</trName></name>
@@ -51791,7 +51791,7 @@
       <name><languageId>gsw</languageId><trName>Samooa</trName></name>
       <name><languageId>gu</languageId><trName>સમોઆ</trName></name>
       <name><languageId>guz</languageId><trName>Samoa</trName></name>
-      <name><languageId>ha</languageId><trName>Samowa</trName></name>
+      <name><languageId>ha</languageId><trName>Samoa</trName></name>
       <name><languageId>he</languageId><trName>סמואה</trName></name>
       <name><languageId>hi</languageId><trName>समोआ</trName></name>
       <name><languageId>hr</languageId><trName>Samoa</trName></name>
@@ -52731,7 +52731,7 @@
       <name><languageId>xog</languageId><trName>Sawusafirika</trName></name>
       <name><languageId>yav</languageId><trName>afilí mbátɛ́</trName></name>
       <name><languageId>yi</languageId><trName>דרום־אַפֿריקע</trName></name>
-      <name><languageId>yo</languageId><trName>Orílẹ́ède Ariwa Afirika</trName></name>
+      <name><languageId>yo</languageId><trName>Gúúṣù Áfíríkà</trName></name>
       <name><languageId>yue</languageId><trName>南非</trName></name>
       <name><languageId>zgh</languageId><trName>ⴰⴼⵔⵉⵇⵢⴰ ⵏ ⵉⴼⴼⵓⵙ</trName></name>
       <name><languageId>zh</languageId><trName>南非</trName></name>
