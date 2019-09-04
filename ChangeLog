@@ -1,3 +1,28 @@
+2019-09-04  Mike FABIAN  <mfabian@redhat.com>
+
+	* Version 0.0.46 released
+	* Add some documentation about the parsing of languageId
+	* Adapt test cases to translation changes from CLDR
+	* Get translation changes from CLDR
+	* Add more translations from CLDR
+	* More test cases
+	* Add optional boolean parameter “fallback” in language_name() and territory_name()
+	* Add translation of ES in an
+	* Add dummy translation of IN in ks_Deva
+	* Add endonyms for ik, iu, cv, csb, crh, an, ayc, ber, bho
+	* Add translation of IT in lij
+	* Add endonym for nan_Latn
+	* Add endonym for oc and translation of FR in oc
+	* Add translations of AW and CW in pap
+	* Add endonyms for sat, sa, quz
+	* Add translation of IT in sc
+	* Add dummy translation of IN in sd_Deva
+	* Add endonyms for sid, the
+	* Add translations of “Tok Pisin” and “Papua New Guinea” in the Tok Pisin language
+	* Add translations of “Walloon” and “Belgium” in the Walloon language
+	* Some comments in Makefile
+	* Sync langtable.spec with Fedora rawhide
+
 2019-06-11  Mike FABIAN  <mfabian@redhat.com>
 
 	* Version 0.0.45 released
