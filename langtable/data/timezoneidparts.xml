@@ -54,6 +54,7 @@
       <name><languageId>km</languageId><trName>អាប៊ីដ្យាន</trName></name>
       <name><languageId>kn</languageId><trName>ಅಬಿದ್‌ಜನ್</trName></name>
       <name><languageId>ko</languageId><trName>아비장</trName></name>
+      <name><languageId>kok</languageId><trName>अबिदजान</trName></name>
       <name><languageId>ks</languageId><trName>عابِدجان</trName></name>
       <name><languageId>ky</languageId><trName>Абиджан</trName></name>
       <name><languageId>lo</languageId><trName>ອາບິດແຈນ</trName></name>
@@ -165,6 +166,7 @@
       <name><languageId>km</languageId><trName>អាក្រា</trName></name>
       <name><languageId>kn</languageId><trName>ಅಕ್ರಾ</trName></name>
       <name><languageId>ko</languageId><trName>아크라</trName></name>
+      <name><languageId>kok</languageId><trName>आकरा</trName></name>
       <name><languageId>ks</languageId><trName>اؠکرا</trName></name>
       <name><languageId>ky</languageId><trName>Аккра</trName></name>
       <name><languageId>lb</languageId><trName>Accra</trName></name>
@@ -385,6 +387,7 @@
       <name><languageId>km</languageId><trName>អាឌីសអាបេបា</trName></name>
       <name><languageId>kn</languageId><trName>ಆಡಿಸ್ ಅಬಾಬಾ</trName></name>
       <name><languageId>ko</languageId><trName>아디스아바바</trName></name>
+      <name><languageId>kok</languageId><trName>आदीस अबाबा</trName></name>
       <name><languageId>ky</languageId><trName>Аддис-Абеба</trName></name>
       <name><languageId>lb</languageId><trName>Addis Abeba</trName></name>
       <name><languageId>lo</languageId><trName>ແອດດິສ ອະບາບາ</trName></name>
@@ -492,6 +495,7 @@
       <name><languageId>km</languageId><trName>អាឌីឡៃ</trName></name>
       <name><languageId>kn</languageId><trName>ಅಡಿಲೇಡ್</trName></name>
       <name><languageId>ko</languageId><trName>애들레이드</trName></name>
+      <name><languageId>kok</languageId><trName>एडिलेड</trName></name>
       <name><languageId>ks</languageId><trName>اٮ۪ڑِلیڑ</trName></name>
       <name><languageId>ky</languageId><trName>Аделаида</trName></name>
       <name><languageId>lo</languageId><trName>ເອດີແລດ</trName></name>
@@ -582,6 +586,7 @@
       <name><languageId>gd</languageId><trName>Aden</trName></name>
       <name><languageId>gl</languageId><trName>Adén</trName></name>
       <name><languageId>gu</languageId><trName>એદેન</trName></name>
+      <name><languageId>ha</languageId><trName>Aden</trName></name>
       <name><languageId>he</languageId><trName>עדן</trName></name>
       <name><languageId>hi</languageId><trName>आदेन</trName></name>
       <name><languageId>hr</languageId><trName>Aden</trName></name>
@@ -598,6 +603,7 @@
       <name><languageId>km</languageId><trName>អាដែន</trName></name>
       <name><languageId>kn</languageId><trName>ಏಡನ್</trName></name>
       <name><languageId>ko</languageId><trName>아덴</trName></name>
+      <name><languageId>kok</languageId><trName>Aden</trName></name>
       <name><languageId>ks</languageId><trName>ایڈٕن</trName></name>
       <name><languageId>ky</languageId><trName>Аден</trName></name>
       <name><languageId>lo</languageId><trName>ເອເດັນ</trName></name>
@@ -889,6 +895,7 @@
       <name><languageId>km</languageId><trName>អាល់ហ្សេ</trName></name>
       <name><languageId>kn</languageId><trName>ಅಲ್ಜೀರ್ಸ್</trName></name>
       <name><languageId>ko</languageId><trName>알제</trName></name>
+      <name><languageId>kok</languageId><trName>आल्जियार्स</trName></name>
       <name><languageId>ks</languageId><trName>اَلجیٖرِیا</trName></name>
       <name><languageId>ky</languageId><trName>Алжир</trName></name>
       <name><languageId>lb</languageId><trName>Alger</trName></name>
@@ -999,6 +1006,7 @@
       <name><languageId>km</languageId><trName>អាល់ម៉ាទី</trName></name>
       <name><languageId>kn</languageId><trName>ಅಲ್ಮಾಟಿ</trName></name>
       <name><languageId>ko</languageId><trName>알마티</trName></name>
+      <name><languageId>kok</languageId><trName>अल्माटी</trName></name>
       <name><languageId>ks</languageId><trName>اَلماٹی</trName></name>
       <name><languageId>ky</languageId><trName>Алматы</trName></name>
       <name><languageId>lo</languageId><trName>ອໍມາຕີ</trName></name>
@@ -1187,6 +1195,7 @@
       <name><languageId>gd</languageId><trName>Ammān</trName></name>
       <name><languageId>gl</languageId><trName>Amán</trName></name>
       <name><languageId>gu</languageId><trName>અમ્માન</trName></name>
+      <name><languageId>ha</languageId><trName>Amman</trName></name>
       <name><languageId>he</languageId><trName>עמאן</trName></name>
       <name><languageId>hi</languageId><trName>अम्मान</trName></name>
       <name><languageId>hr</languageId><trName>Amman</trName></name>
@@ -1203,6 +1212,7 @@
       <name><languageId>km</languageId><trName>អាម៉ាន់</trName></name>
       <name><languageId>kn</languageId><trName>ಅಮ್ಮಾನ್</trName></name>
       <name><languageId>ko</languageId><trName>암만</trName></name>
+      <name><languageId>kok</languageId><trName>अम्मान</trName></name>
       <name><languageId>ks</languageId><trName>اَمان</trName></name>
       <name><languageId>ky</languageId><trName>Амман</trName></name>
       <name><languageId>lo</languageId><trName>ອຳມານ</trName></name>
@@ -1311,6 +1321,7 @@
       <name><languageId>km</languageId><trName>អាំស្ទែដាំ</trName></name>
       <name><languageId>kn</languageId><trName>ಆಮ್‌ಸ್ಟೆರ್‌ಡ್ಯಾಂ</trName></name>
       <name><languageId>ko</languageId><trName>암스테르담</trName></name>
+      <name><languageId>kok</languageId><trName>ऍम्स्टरडॅम</trName></name>
       <name><languageId>ks</languageId><trName>ایمسٹَرڈیم</trName></name>
       <name><languageId>ky</languageId><trName>Амстердам</trName></name>
       <name><languageId>lo</languageId><trName>ອາມສເຕີດຳ</trName></name>
@@ -1418,6 +1429,7 @@
       <name><languageId>km</languageId><trName>អាណាឌី</trName></name>
       <name><languageId>kn</languageId><trName>ಅನದ್ಯರ್</trName></name>
       <name><languageId>ko</languageId><trName>아나디리</trName></name>
+      <name><languageId>kok</languageId><trName>अनादिर</trName></name>
       <name><languageId>ks</languageId><trName>اَنَدیر</trName></name>
       <name><languageId>ky</languageId><trName>Анадыр</trName></name>
       <name><languageId>lo</languageId><trName>ອານາດີ</trName></name>
@@ -1636,6 +1648,7 @@
       <name><languageId>km</languageId><trName>អង់ដូរ៉ា</trName></name>
       <name><languageId>kn</languageId><trName>ಅಂಡೋರಾ</trName></name>
       <name><languageId>ko</languageId><trName>안도라</trName></name>
+      <name><languageId>kok</languageId><trName>अंडोरा</trName></name>
       <name><languageId>ks</languageId><trName>اَنڑورا</trName></name>
       <name><languageId>ky</languageId><trName>Андорра</trName></name>
       <name><languageId>lo</languageId><trName>ອິນດໍຣາ</trName></name>
@@ -1852,6 +1865,7 @@
       <name><languageId>km</languageId><trName>អង់តាណាណារីវ</trName></name>
       <name><languageId>kn</languageId><trName>ಅಂಟಾನನಾರಿವೊ</trName></name>
       <name><languageId>ko</languageId><trName>안타나나리보</trName></name>
+      <name><languageId>kok</languageId><trName>अंटानानारिवो</trName></name>
       <name><languageId>ks</languageId><trName>اؠنٹنانرِوو</trName></name>
       <name><languageId>ky</languageId><trName>Антананариво</trName></name>
       <name><languageId>lo</languageId><trName>ອັນຕານານາຣິໂວ</trName></name>
@@ -2171,6 +2185,7 @@
       <name><languageId>km</languageId><trName>អាពី</trName></name>
       <name><languageId>kn</languageId><trName>ಅಪಿಯಾ</trName></name>
       <name><languageId>ko</languageId><trName>아피아</trName></name>
+      <name><languageId>kok</languageId><trName>अपिया</trName></name>
       <name><languageId>ks</languageId><trName>آپِیا</trName></name>
       <name><languageId>ky</languageId><trName>Апиа</trName></name>
       <name><languageId>lo</languageId><trName>ເອປີອາ</trName></name>
@@ -2276,6 +2291,7 @@
       <name><languageId>km</languageId><trName>អាកទូ</trName></name>
       <name><languageId>kn</languageId><trName>ಅಕ್ತಾವ್</trName></name>
       <name><languageId>ko</languageId><trName>아크타우</trName></name>
+      <name><languageId>kok</languageId><trName>ऍक्टो</trName></name>
       <name><languageId>ks</languageId><trName>اَکتاؤں</trName></name>
       <name><languageId>ky</languageId><trName>Актау</trName></name>
       <name><languageId>lo</languageId><trName>ອັດຕາອູ</trName></name>
@@ -2385,6 +2401,7 @@
       <name><languageId>km</languageId><trName>អាកទូប៊ី</trName></name>
       <name><languageId>kn</languageId><trName>ಅಕ್ಟೋಬೆ</trName></name>
       <name><languageId>ko</languageId><trName>악토브</trName></name>
+      <name><languageId>kok</languageId><trName>अक्टोबे</trName></name>
       <name><languageId>ks</languageId><trName>اَقٹوب</trName></name>
       <name><languageId>ksh</languageId><trName>Aqtöbe</trName></name>
       <name><languageId>ky</languageId><trName>Актобе</trName></name>
@@ -2482,6 +2499,7 @@
       <name><languageId>hu</languageId><trName>Araguaína</trName></name>
       <name><languageId>hy</languageId><trName>Արագուաինա</trName></name>
       <name><languageId>id</languageId><trName>Araguaina</trName></name>
+      <name><languageId>ig</languageId><trName>Araguaina</trName></name>
       <name><languageId>is</languageId><trName>Araguaina</trName></name>
       <name><languageId>it</languageId><trName>Araguaina</trName></name>
       <name><languageId>ja</languageId><trName>アラグァイナ</trName></name>
@@ -2974,6 +2992,7 @@
       <name><languageId>km</languageId><trName>អាសហ្គាបាត</trName></name>
       <name><languageId>kn</languageId><trName>ಅಶ್ಗಬಾತ್</trName></name>
       <name><languageId>ko</languageId><trName>아슈하바트</trName></name>
+      <name><languageId>kok</languageId><trName>अशगाबाट</trName></name>
       <name><languageId>ks</languageId><trName>اَشگَبَت</trName></name>
       <name><languageId>ksh</languageId><trName>Asshgabat</trName></name>
       <name><languageId>ky</languageId><trName>Ашхабад</trName></name>
@@ -3186,6 +3205,7 @@
       <name><languageId>km</languageId><trName>អាស្មារ៉ា</trName></name>
       <name><languageId>kn</languageId><trName>ಅಸ್ಮಾರಾ</trName></name>
       <name><languageId>ko</languageId><trName>아스메라</trName></name>
+      <name><languageId>kok</languageId><trName>अस्मारा</trName></name>
       <name><languageId>ks</languageId><trName>اَسمیرا</trName></name>
       <name><languageId>ky</languageId><trName>Асмара</trName></name>
       <name><languageId>lb</languageId><trName>Asmara</trName></name>
@@ -3416,6 +3436,7 @@
       <name><languageId>km</languageId><trName>អាថែន</trName></name>
       <name><languageId>kn</languageId><trName>ಅಥೆನ್ಸ್</trName></name>
       <name><languageId>ko</languageId><trName>아테네</trName></name>
+      <name><languageId>kok</languageId><trName>अथेन्स</trName></name>
       <name><languageId>ks</languageId><trName>اؠتھٕنس</trName></name>
       <name><languageId>ksh</languageId><trName>Athen</trName></name>
       <name><languageId>ky</languageId><trName>Афины</trName></name>
@@ -3714,6 +3735,7 @@
       <name><languageId>km</languageId><trName>អកឡែន</trName></name>
       <name><languageId>kn</languageId><trName>ಆಕ್ ಲ್ಯಾಂಡ್</trName></name>
       <name><languageId>ko</languageId><trName>오클랜드</trName></name>
+      <name><languageId>kok</languageId><trName>ऑकलँड</trName></name>
       <name><languageId>ks</languageId><trName>آکلینڈ</trName></name>
       <name><languageId>ky</languageId><trName>Оклэнд</trName></name>
       <name><languageId>lo</languageId><trName>ອັກແລນ</trName></name>
@@ -3938,6 +3960,7 @@
       <name><languageId>km</languageId><trName>អាសូរ៉េស</trName></name>
       <name><languageId>kn</languageId><trName>ಅಝೋರಿಸ್</trName></name>
       <name><languageId>ko</languageId><trName>아조레스</trName></name>
+      <name><languageId>kok</languageId><trName>अझोरेस</trName></name>
       <name><languageId>ks</languageId><trName>اَزورَس</trName></name>
       <name><languageId>ksh</languageId><trName>Azoore</trName></name>
       <name><languageId>ky</languageId><trName>Азор</trName></name>
@@ -4034,6 +4057,7 @@
       <name><languageId>gl</languageId><trName>Bagdad</trName></name>
       <name><languageId>gsw</languageId><trName>Bagdad</trName></name>
       <name><languageId>gu</languageId><trName>બગદાદ</trName></name>
+      <name><languageId>ha</languageId><trName>Baghdad</trName></name>
       <name><languageId>he</languageId><trName>בגדד</trName></name>
       <name><languageId>hi</languageId><trName>बगदाद</trName></name>
       <name><languageId>hr</languageId><trName>Bagdad</trName></name>
@@ -4051,6 +4075,7 @@
       <name><languageId>km</languageId><trName>បាកដាដ</trName></name>
       <name><languageId>kn</languageId><trName>ಬಾಗ್ದಾದ್</trName></name>
       <name><languageId>ko</languageId><trName>바그다드</trName></name>
+      <name><languageId>kok</languageId><trName>बगदाद</trName></name>
       <name><languageId>ks</languageId><trName>بغداد</trName></name>
       <name><languageId>ksh</languageId><trName>Bagdad</trName></name>
       <name><languageId>ky</languageId><trName>Багдад</trName></name>
@@ -4359,6 +4384,7 @@
       <name><languageId>gd</languageId><trName>Bachrain</trName></name>
       <name><languageId>gl</languageId><trName>Bahrain</trName></name>
       <name><languageId>gu</languageId><trName>બેહરીન</trName></name>
+      <name><languageId>ha</languageId><trName>Bahrain</trName></name>
       <name><languageId>he</languageId><trName>בחריין</trName></name>
       <name><languageId>hi</languageId><trName>बहरीन</trName></name>
       <name><languageId>hr</languageId><trName>Bahrein</trName></name>
@@ -4375,6 +4401,7 @@
       <name><languageId>km</languageId><trName>បារ៉ែន</trName></name>
       <name><languageId>kn</languageId><trName>ಬಹ್ರೇನ್</trName></name>
       <name><languageId>ko</languageId><trName>바레인</trName></name>
+      <name><languageId>kok</languageId><trName>बेहरेन</trName></name>
       <name><languageId>ks</languageId><trName>بؠہریٖن</trName></name>
       <name><languageId>ky</languageId><trName>Бахрейн</trName></name>
       <name><languageId>lo</languageId><trName>ບາເຣນ</trName></name>
@@ -4465,6 +4492,7 @@
       <name><languageId>gd</languageId><trName>Baku</trName></name>
       <name><languageId>gl</languageId><trName>Bacú</trName></name>
       <name><languageId>gu</languageId><trName>બાકુ</trName></name>
+      <name><languageId>ha</languageId><trName>Baku</trName></name>
       <name><languageId>he</languageId><trName>באקו</trName></name>
       <name><languageId>hi</languageId><trName>बाकु</trName></name>
       <name><languageId>hr</languageId><trName>Baku</trName></name>
@@ -4481,6 +4509,7 @@
       <name><languageId>km</languageId><trName>បាគូ</trName></name>
       <name><languageId>kn</languageId><trName>ಬಕು</trName></name>
       <name><languageId>ko</languageId><trName>바쿠</trName></name>
+      <name><languageId>kok</languageId><trName>बाकू</trName></name>
       <name><languageId>ks</languageId><trName>باقوٗ</trName></name>
       <name><languageId>ky</languageId><trName>Баку</trName></name>
       <name><languageId>lo</languageId><trName>ບາກູ</trName></name>
@@ -4588,6 +4617,7 @@
       <name><languageId>km</languageId><trName>បាម៉ាកូ</trName></name>
       <name><languageId>kn</languageId><trName>ಬಮಾಕೊ</trName></name>
       <name><languageId>ko</languageId><trName>바마코</trName></name>
+      <name><languageId>kok</languageId><trName>बामाको</trName></name>
       <name><languageId>ks</languageId><trName>بماکو</trName></name>
       <name><languageId>ky</languageId><trName>Бамако</trName></name>
       <name><languageId>lo</languageId><trName>ບາມາໂກ</trName></name>
@@ -4677,6 +4707,7 @@
       <name><languageId>gd</languageId><trName>Bangkok</trName></name>
       <name><languageId>gl</languageId><trName>Bangkok</trName></name>
       <name><languageId>gu</languageId><trName>બેંગકોક</trName></name>
+      <name><languageId>ha</languageId><trName>Bangkok</trName></name>
       <name><languageId>he</languageId><trName>בנגקוק</trName></name>
       <name><languageId>hi</languageId><trName>बैंकॉक</trName></name>
       <name><languageId>hr</languageId><trName>Bangkok</trName></name>
@@ -4693,6 +4724,7 @@
       <name><languageId>km</languageId><trName>បាងកក</trName></name>
       <name><languageId>kn</languageId><trName>ಬ್ಯಾಂಕಾಕ್</trName></name>
       <name><languageId>ko</languageId><trName>방콕</trName></name>
+      <name><languageId>kok</languageId><trName>बँकॉक</trName></name>
       <name><languageId>ks</languageId><trName>بینگ کاک</trName></name>
       <name><languageId>ky</languageId><trName>Бангкок</trName></name>
       <name><languageId>lo</languageId><trName>ບາງກອກ</trName></name>
@@ -4799,6 +4831,7 @@
       <name><languageId>km</languageId><trName>បង់ហ្គី</trName></name>
       <name><languageId>kn</languageId><trName>ಬಾಂಗಿ</trName></name>
       <name><languageId>ko</languageId><trName>방기</trName></name>
+      <name><languageId>kok</languageId><trName>बांगी</trName></name>
       <name><languageId>ks</languageId><trName>بؠنگوٗیی</trName></name>
       <name><languageId>ky</languageId><trName>Баги</trName></name>
       <name><languageId>lo</languageId><trName>ບັງກຸຍ</trName></name>
@@ -4906,6 +4939,7 @@
       <name><languageId>km</languageId><trName>បង់ហ្ស៊ុល</trName></name>
       <name><languageId>kn</languageId><trName>ಬಂಜುಲ್</trName></name>
       <name><languageId>ko</languageId><trName>반줄</trName></name>
+      <name><languageId>kok</languageId><trName>बानजुल</trName></name>
       <name><languageId>ks</languageId><trName>بَنجوٗل</trName></name>
       <name><languageId>ky</languageId><trName>Банжул</trName></name>
       <name><languageId>lo</languageId><trName>ບານຈູ</trName></name>
@@ -5105,6 +5139,7 @@
       <name><languageId>gd</languageId><trName>Beirut</trName></name>
       <name><languageId>gl</languageId><trName>Beirut</trName></name>
       <name><languageId>gu</languageId><trName>બૈરુત</trName></name>
+      <name><languageId>ha</languageId><trName>Beirut</trName></name>
       <name><languageId>he</languageId><trName>ביירות</trName></name>
       <name><languageId>hi</languageId><trName>बेरुत</trName></name>
       <name><languageId>hr</languageId><trName>Beirut</trName></name>
@@ -5121,6 +5156,7 @@
       <name><languageId>km</languageId><trName>បេរូត</trName></name>
       <name><languageId>kn</languageId><trName>ಬೀರಟ್</trName></name>
       <name><languageId>ko</languageId><trName>베이루트</trName></name>
+      <name><languageId>kok</languageId><trName>बेरूत</trName></name>
       <name><languageId>ks</languageId><trName>بیرُت</trName></name>
       <name><languageId>ky</languageId><trName>Бейрут</trName></name>
       <name><languageId>lo</languageId><trName>ເບຣຸດ</trName></name>
@@ -5338,6 +5374,7 @@
       <name><languageId>km</languageId><trName>បែលក្រាដ</trName></name>
       <name><languageId>kn</languageId><trName>ಬೆಲ್‌ಗ್ರೇಡ್</trName></name>
       <name><languageId>ko</languageId><trName>베오그라드</trName></name>
+      <name><languageId>kok</languageId><trName>बेलग्रेड</trName></name>
       <name><languageId>ksh</languageId><trName>Beljrad</trName></name>
       <name><languageId>ky</languageId><trName>Белград</trName></name>
       <name><languageId>lb</languageId><trName>Belgrad</trName></name>
@@ -5559,6 +5596,7 @@
       <name><languageId>km</languageId><trName>បែរឡាំង</trName></name>
       <name><languageId>kn</languageId><trName>ಬರ್ಲಿನ್</trName></name>
       <name><languageId>ko</languageId><trName>베를린</trName></name>
+      <name><languageId>kok</languageId><trName>बर्लिन</trName></name>
       <name><languageId>ks</languageId><trName>بٔرلِن</trName></name>
       <name><languageId>ky</languageId><trName>Берлин</trName></name>
       <name><languageId>lo</languageId><trName>ເບີລິນ</trName></name>
@@ -5762,6 +5800,7 @@
       <name><languageId>gd</languageId><trName>Beulah, North Dakota</trName></name>
       <name><languageId>gl</languageId><trName>Beulah</trName></name>
       <name><languageId>gu</languageId><trName>બિયુલાહ</trName></name>
+      <name><languageId>ha</languageId><trName>Beulah, Arewacin Dakota</trName></name>
       <name><languageId>he</languageId><trName>ביולה</trName></name>
       <name><languageId>hi</languageId><trName>ब्यूला</trName></name>
       <name><languageId>hr</languageId><trName>Beulah</trName></name>
@@ -5893,6 +5932,7 @@
       <name><languageId>km</languageId><trName>ប៊ីស្កេក</trName></name>
       <name><languageId>kn</languageId><trName>ಬಿಶ್ಕೆಕ್</trName></name>
       <name><languageId>ko</languageId><trName>비슈케크</trName></name>
+      <name><languageId>kok</languageId><trName>बिश्केक</trName></name>
       <name><languageId>ks</languageId><trName>بِشکیک</trName></name>
       <name><languageId>ksh</languageId><trName>Bischkek</trName></name>
       <name><languageId>ky</languageId><trName>Бишкек</trName></name>
@@ -6003,6 +6043,7 @@
       <name><languageId>km</languageId><trName>ប៊ីស្សូ</trName></name>
       <name><languageId>kn</languageId><trName>ಬಿಸ್ಸಾವ್</trName></name>
       <name><languageId>ko</languageId><trName>비사우</trName></name>
+      <name><languageId>kok</languageId><trName>बिसाउ</trName></name>
       <name><languageId>ks</languageId><trName>بِساؤں</trName></name>
       <name><languageId>ky</languageId><trName>Бисау</trName></name>
       <name><languageId>lo</languageId><trName>ບິສເຊົາ</trName></name>
@@ -6214,6 +6255,7 @@
       <name><languageId>km</languageId><trName>ប្លាំងទីរ៉េ</trName></name>
       <name><languageId>kn</languageId><trName>ಬ್ಲ್ಯಾಂಟೈರ್</trName></name>
       <name><languageId>ko</languageId><trName>블랜타이어</trName></name>
+      <name><languageId>kok</languageId><trName>ब्लानटायर</trName></name>
       <name><languageId>ks</languageId><trName>بلانتَیر</trName></name>
       <name><languageId>ky</languageId><trName>Блантайр</trName></name>
       <name><languageId>lo</languageId><trName>ແບລນໄທຣ໌</trName></name>
@@ -6642,6 +6684,7 @@
       <name><languageId>km</languageId><trName>ប្រាទីស្លាវ៉ា</trName></name>
       <name><languageId>kn</languageId><trName>ಬ್ರಾಟಿಸ್ಲಾವ</trName></name>
       <name><languageId>ko</languageId><trName>브라티슬라바</trName></name>
+      <name><languageId>kok</languageId><trName>ब्राटिस्लाव्हा</trName></name>
       <name><languageId>ky</languageId><trName>Братислава</trName></name>
       <name><languageId>lo</languageId><trName>ບຣາທິສລາວາ</trName></name>
       <name><languageId>lt</languageId><trName>Bratislava</trName></name>
@@ -6748,6 +6791,7 @@
       <name><languageId>km</languageId><trName>ប្រាស្ហាវីល</trName></name>
       <name><languageId>kn</languageId><trName>ಬ್ರೆಜಾವೀಲ್</trName></name>
       <name><languageId>ko</languageId><trName>브라자빌</trName></name>
+      <name><languageId>kok</languageId><trName>ब्राझाविले</trName></name>
       <name><languageId>ks</languageId><trName>برازاوِل</trName></name>
       <name><languageId>ky</languageId><trName>Браззавилл</trName></name>
       <name><languageId>lo</languageId><trName>ບຣາຊາວິວ</trName></name>
@@ -6853,6 +6897,7 @@
       <name><languageId>km</languageId><trName>ប្រីសបាណេ</trName></name>
       <name><languageId>kn</languageId><trName>ಬ್ರಿಸ್ಬೇನ್‌</trName></name>
       <name><languageId>ko</languageId><trName>브리스베인</trName></name>
+      <name><languageId>kok</languageId><trName>ब्रिस्बेन</trName></name>
       <name><languageId>ks</languageId><trName>برٛسبین</trName></name>
       <name><languageId>ky</languageId><trName>Брисбен</trName></name>
       <name><languageId>lo</languageId><trName>ບຣິດເບນ</trName></name>
@@ -6958,6 +7003,7 @@
       <name><languageId>km</languageId><trName>ប្រូកខិនហីល</trName></name>
       <name><languageId>kn</languageId><trName>ಬ್ರೊಕನ್ ಹಿಲ್</trName></name>
       <name><languageId>ko</languageId><trName>브로컨힐</trName></name>
+      <name><languageId>kok</languageId><trName>ब्रोकन हिल</trName></name>
       <name><languageId>ks</languageId><trName>برٛوکٕن ہِل</trName></name>
       <name><languageId>ky</languageId><trName>Броукен Хил</trName></name>
       <name><languageId>lo</languageId><trName>ໂບເຄນຮີວ</trName></name>
@@ -7064,6 +7110,7 @@
       <name><languageId>km</languageId><trName>ព្រុយណេ</trName></name>
       <name><languageId>kn</languageId><trName>ಬ್ರೂನಿ</trName></name>
       <name><languageId>ko</languageId><trName>브루나이</trName></name>
+      <name><languageId>kok</languageId><trName>ब्रूनेई</trName></name>
       <name><languageId>ks</languageId><trName>بروٗنَے</trName></name>
       <name><languageId>ky</languageId><trName>Бруней</trName></name>
       <name><languageId>lo</languageId><trName>ບຣູໄນ</trName></name>
@@ -7176,6 +7223,7 @@
       <name><languageId>km</languageId><trName>ព្រុចសែល</trName></name>
       <name><languageId>kn</languageId><trName>ಬ್ರಸ್ಸೆಲ್ಸ್</trName></name>
       <name><languageId>ko</languageId><trName>브뤼셀</trName></name>
+      <name><languageId>kok</languageId><trName>ब्रुसेल्स</trName></name>
       <name><languageId>ks</languageId><trName>برسٕلس</trName></name>
       <name><languageId>ksh</languageId><trName>Brüssel</trName></name>
       <name><languageId>ky</languageId><trName>Брюссель</trName></name>
@@ -7291,6 +7339,7 @@
       <name><languageId>km</languageId><trName>ប៊ុយការ៉េស</trName></name>
       <name><languageId>kn</languageId><trName>ಬುಕಾರೆಸ್ಟ್</trName></name>
       <name><languageId>ko</languageId><trName>부쿠레슈티</trName></name>
+      <name><languageId>kok</languageId><trName>बुखारेस्ट</trName></name>
       <name><languageId>ks</languageId><trName>بَچاریسٹ</trName></name>
       <name><languageId>ksh</languageId><trName>Bukarest</trName></name>
       <name><languageId>ky</languageId><trName>Бухарест</trName></name>
@@ -7403,6 +7452,7 @@
       <name><languageId>km</languageId><trName>ប៊ុយដាប៉ែស</trName></name>
       <name><languageId>kn</languageId><trName>ಬುಡಾಪೆಸ್ಟ್</trName></name>
       <name><languageId>ko</languageId><trName>부다페스트</trName></name>
+      <name><languageId>kok</languageId><trName>बुडापेस्ट</trName></name>
       <name><languageId>ks</languageId><trName>بُڑاپیسٹ</trName></name>
       <name><languageId>ky</languageId><trName>Будапешт</trName></name>
       <name><languageId>lo</languageId><trName>ບູດາເປສຕ໌</trName></name>
@@ -7617,6 +7667,7 @@
       <name><languageId>km</languageId><trName>ប៊ូយ៉ាំប៊ូរ៉ា</trName></name>
       <name><languageId>kn</languageId><trName>ಬುಜುಂಬುರಾ</trName></name>
       <name><languageId>ko</languageId><trName>부줌부라</trName></name>
+      <name><languageId>kok</languageId><trName>बुजुमबुरा</trName></name>
       <name><languageId>ks</languageId><trName>بُجُمبُرا</trName></name>
       <name><languageId>ky</languageId><trName>Бужумбура</trName></name>
       <name><languageId>lo</languageId><trName>ບູຈູມບູຣາ</trName></name>
@@ -7723,6 +7774,7 @@
       <name><languageId>km</languageId><trName>ប៊ូស៊ីងហ្គែន</trName></name>
       <name><languageId>kn</languageId><trName>ಬುಸಿಂಜೆನ್</trName></name>
       <name><languageId>ko</languageId><trName>뷔지겐</trName></name>
+      <name><languageId>kok</languageId><trName>बुसिंजेन</trName></name>
       <name><languageId>ky</languageId><trName>Бузинген</trName></name>
       <name><languageId>lo</languageId><trName>ບັດຊິນເກນ</trName></name>
       <name><languageId>lt</languageId><trName>Biusingenas</trName></name>
@@ -7832,6 +7884,7 @@
       <name><languageId>km</languageId><trName>គែរ</trName></name>
       <name><languageId>kn</languageId><trName>ಕೈರೋ</trName></name>
       <name><languageId>ko</languageId><trName>카이로</trName></name>
+      <name><languageId>kok</languageId><trName>कायरो</trName></name>
       <name><languageId>ks</languageId><trName>کَیرو</trName></name>
       <name><languageId>ksh</languageId><trName>Kaijro</trName></name>
       <name><languageId>ky</languageId><trName>Каир</trName></name>
@@ -8159,6 +8212,7 @@
       <name><languageId>km</languageId><trName>កាណារី</trName></name>
       <name><languageId>kn</languageId><trName>ಕ್ಯಾನರಿ</trName></name>
       <name><languageId>ko</languageId><trName>카나리아 제도</trName></name>
+      <name><languageId>kok</languageId><trName>कॅनरी</trName></name>
       <name><languageId>ks</languageId><trName>کؠنَری</trName></name>
       <name><languageId>ksh</languageId><trName>Kannaare</trName></name>
       <name><languageId>ky</languageId><trName>Канари</trName></name>
@@ -8265,6 +8319,7 @@
       <name><languageId>jv</languageId><trName>Cancun</trName></name>
       <name><languageId>ka</languageId><trName>კანკუნი</trName></name>
       <name><languageId>kab</languageId><trName>Kankun</trName></name>
+      <name><languageId>kea</languageId><trName>Kankun</trName></name>
       <name><languageId>kk</languageId><trName>Канкун</trName></name>
       <name><languageId>km</languageId><trName>ខានខុន</trName></name>
       <name><languageId>kn</languageId><trName>ಕ್ಯಾಂಕನ್</trName></name>
@@ -8382,6 +8437,7 @@
       <name><languageId>km</languageId><trName>កាប់វែរ</trName></name>
       <name><languageId>kn</languageId><trName>ಕೇಪ್ ವೆರ್ಡ್</trName></name>
       <name><languageId>ko</languageId><trName>카보 베르데</trName></name>
+      <name><languageId>kok</languageId><trName>केप वर्दे</trName></name>
       <name><languageId>ks</languageId><trName>کیپ ؤرڑے</trName></name>
       <name><languageId>ksh</languageId><trName>Kap Verde</trName></name>
       <name><languageId>ky</languageId><trName>Капе Верде</trName></name>
@@ -8599,6 +8655,7 @@
       <name><languageId>km</languageId><trName>កាសាប្លាំងកា</trName></name>
       <name><languageId>kn</languageId><trName>ಕ್ಯಾಸಾಬ್ಲಾಂಕಾ</trName></name>
       <name><languageId>ko</languageId><trName>카사블랑카</trName></name>
+      <name><languageId>kok</languageId><trName>कासाब्लांका</trName></name>
       <name><languageId>ks</languageId><trName>کؠسابلؠنکا</trName></name>
       <name><languageId>ky</languageId><trName>Касабланка</trName></name>
       <name><languageId>lo</languageId><trName>ຄາຊາບລັງກາ</trName></name>
@@ -8703,6 +8760,7 @@
       <name><languageId>km</languageId><trName>កាសី</trName></name>
       <name><languageId>kn</languageId><trName>ಕೇಸಿ</trName></name>
       <name><languageId>ko</languageId><trName>케이시</trName></name>
+      <name><languageId>kok</languageId><trName>केसी</trName></name>
       <name><languageId>ks</languageId><trName>کیسی</trName></name>
       <name><languageId>ky</languageId><trName>Кейси</trName></name>
       <name><languageId>lo</languageId><trName>ເຄຊີ</trName></name>
@@ -9298,6 +9356,7 @@
       <name><languageId>km</languageId><trName>ឈៀតា</trName></name>
       <name><languageId>kn</languageId><trName>ಸೆಯುಟಾ</trName></name>
       <name><languageId>ko</languageId><trName>세우타</trName></name>
+      <name><languageId>kok</languageId><trName>सेउटा</trName></name>
       <name><languageId>ks</languageId><trName>کیوٗٹا</trName></name>
       <name><languageId>ky</languageId><trName>Сеута</trName></name>
       <name><languageId>lo</languageId><trName>ຊີວຕາ</trName></name>
@@ -9404,6 +9463,7 @@
       <name><languageId>km</languageId><trName>កាហ្គោ</trName></name>
       <name><languageId>kn</languageId><trName>ಚಾಗೊಸ್</trName></name>
       <name><languageId>ko</languageId><trName>차고스</trName></name>
+      <name><languageId>kok</languageId><trName>चागोस</trName></name>
       <name><languageId>ks</languageId><trName>چاگوس</trName></name>
       <name><languageId>ky</languageId><trName>Чагос</trName></name>
       <name><languageId>lo</languageId><trName>ຊາໂກສ</trName></name>
@@ -9511,6 +9571,7 @@
       <name><languageId>km</languageId><trName>ចាថាំ</trName></name>
       <name><languageId>kn</languageId><trName>ಚಥಾಮ್</trName></name>
       <name><languageId>ko</languageId><trName>채텀</trName></name>
+      <name><languageId>kok</languageId><trName>चॅथम</trName></name>
       <name><languageId>ks</languageId><trName>چَتھَم</trName></name>
       <name><languageId>ky</languageId><trName>Чатем</trName></name>
       <name><languageId>lo</languageId><trName>ແຊແທມ</trName></name>
@@ -9616,6 +9677,7 @@
       <name><languageId>jv</languageId><trName>Chicago</trName></name>
       <name><languageId>ka</languageId><trName>ჩიკაგო</trName></name>
       <name><languageId>kab</languageId><trName>Cikagu</trName></name>
+      <name><languageId>kea</languageId><trName>Xikagu</trName></name>
       <name><languageId>kk</languageId><trName>Чикаго</trName></name>
       <name><languageId>km</languageId><trName>ស៊ីកាហ្គោ</trName></name>
       <name><languageId>kn</languageId><trName>ಚಿಕಾಗೋ</trName></name>
@@ -9722,6 +9784,7 @@
       <name><languageId>jv</languageId><trName>Chihuahua</trName></name>
       <name><languageId>ka</languageId><trName>ჩიჰუაჰუა</trName></name>
       <name><languageId>kab</languageId><trName>Ciwawa</trName></name>
+      <name><languageId>kea</languageId><trName>Xiuáua</trName></name>
       <name><languageId>kk</languageId><trName>Чиуауа</trName></name>
       <name><languageId>km</languageId><trName>ជីហួហួ</trName></name>
       <name><languageId>kn</languageId><trName>ಚಿವಾವ</trName></name>
@@ -9838,6 +9901,7 @@
       <name><languageId>km</languageId><trName>ជីស៊ីណូ</trName></name>
       <name><languageId>kn</languageId><trName>ಚಿಸಿನಾವ್</trName></name>
       <name><languageId>ko</languageId><trName>키시나우</trName></name>
+      <name><languageId>kok</languageId><trName>चिसीनाऊ</trName></name>
       <name><languageId>ks</languageId><trName>چِسیٖنو</trName></name>
       <name><languageId>ky</languageId><trName>Кишинев</trName></name>
       <name><languageId>lb</languageId><trName>Kischinau</trName></name>
@@ -9944,6 +10008,7 @@
       <name><languageId>km</languageId><trName>ឈូបាល់សាន</trName></name>
       <name><languageId>kn</languageId><trName>ಚೊಯ್‍ಬಾಲ್ಸನ್</trName></name>
       <name><languageId>ko</languageId><trName>초이발산</trName></name>
+      <name><languageId>kok</languageId><trName>चोईबाल्सन</trName></name>
       <name><languageId>ks</languageId><trName>چویبالسَن</trName></name>
       <name><languageId>ky</languageId><trName>Чойбалсан</trName></name>
       <name><languageId>lo</languageId><trName>ຊອຍບອລຊານ</trName></name>
@@ -10139,6 +10204,7 @@
       <name><languageId>km</languageId><trName>គ្រីស្មាស</trName></name>
       <name><languageId>kn</languageId><trName>ಕ್ರಿಸ್ಮಸ್</trName></name>
       <name><languageId>ko</languageId><trName>크리스마스</trName></name>
+      <name><languageId>kok</languageId><trName>क्रिसमस</trName></name>
       <name><languageId>ks</languageId><trName>کرِسمَس</trName></name>
       <name><languageId>ky</languageId><trName>Крисмас</trName></name>
       <name><languageId>lb</languageId><trName>Chrëschtdagsinsel</trName></name>
@@ -10248,6 +10314,7 @@
       <name><languageId>km</languageId><trName>ឈូអុក</trName></name>
       <name><languageId>kn</languageId><trName>ಚುಕ್</trName></name>
       <name><languageId>ko</languageId><trName>트루크</trName></name>
+      <name><languageId>kok</languageId><trName>चुक</trName></name>
       <name><languageId>ks</languageId><trName>ٹرک</trName></name>
       <name><languageId>ky</languageId><trName>Чуук</trName></name>
       <name><languageId>lb</languageId><trName>Chuuk</trName></name>
@@ -10357,6 +10424,7 @@
       <name><languageId>km</languageId><trName>កូកូស</trName></name>
       <name><languageId>kn</languageId><trName>ಕೊಕೋಸ್</trName></name>
       <name><languageId>ko</languageId><trName>코코스</trName></name>
+      <name><languageId>kok</languageId><trName>कोकोस</trName></name>
       <name><languageId>ks</languageId><trName>کوکوس</trName></name>
       <name><languageId>ky</languageId><trName>Кокос</trName></name>
       <name><languageId>lo</languageId><trName>ໂຄໂຄສ</trName></name>
@@ -10465,6 +10533,7 @@
       <name><languageId>km</languageId><trName>កូឡុំបូ</trName></name>
       <name><languageId>kn</languageId><trName>ಕೊಲಂಬೊ</trName></name>
       <name><languageId>ko</languageId><trName>콜롬보</trName></name>
+      <name><languageId>kok</languageId><trName>कोलंबो</trName></name>
       <name><languageId>ks</languageId><trName>کولَمبو</trName></name>
       <name><languageId>ky</languageId><trName>Коломбо</trName></name>
       <name><languageId>lo</languageId><trName>ໂຄລຳໂບ</trName></name>
@@ -10576,6 +10645,7 @@
       <name><languageId>km</languageId><trName>កូម័រ</trName></name>
       <name><languageId>kn</languageId><trName>ಕೊಮೋರೊ</trName></name>
       <name><languageId>ko</languageId><trName>코모로</trName></name>
+      <name><languageId>kok</languageId><trName>कोमोरो</trName></name>
       <name><languageId>ks</languageId><trName>کومورو</trName></name>
       <name><languageId>ky</languageId><trName>Коморо</trName></name>
       <name><languageId>lb</languageId><trName>Komoren</trName></name>
@@ -10685,6 +10755,7 @@
       <name><languageId>km</languageId><trName>កូណាគ្រី</trName></name>
       <name><languageId>kn</languageId><trName>ಕೊನಾಕ್ರಿ</trName></name>
       <name><languageId>ko</languageId><trName>코나크리</trName></name>
+      <name><languageId>kok</languageId><trName>कोनाक्रा</trName></name>
       <name><languageId>ks</languageId><trName>کوناکری</trName></name>
       <name><languageId>ky</languageId><trName>Конакри</trName></name>
       <name><languageId>lo</languageId><trName>ໂຄນາຄຣີ</trName></name>
@@ -10797,6 +10868,7 @@
       <name><languageId>km</languageId><trName>កូប៉ិនហាក</trName></name>
       <name><languageId>kn</languageId><trName>ಕೋಪೆನ್‌ಹೇಗನ್</trName></name>
       <name><languageId>ko</languageId><trName>코펜하겐</trName></name>
+      <name><languageId>kok</languageId><trName>कोपनहेगन</trName></name>
       <name><languageId>ks</languageId><trName>کوپَنہیگَن</trName></name>
       <name><languageId>ksh</languageId><trName>Kopenharen</trName></name>
       <name><languageId>ky</languageId><trName>Копенгаген</trName></name>
@@ -11013,6 +11085,7 @@
       <name><languageId>jv</languageId><trName>Kosta Rika</trName></name>
       <name><languageId>ka</languageId><trName>კოსტა-რიკა</trName></name>
       <name><languageId>kab</languageId><trName>Kusta Rika</trName></name>
+      <name><languageId>kea</languageId><trName>Kosta Rika</trName></name>
       <name><languageId>kk</languageId><trName>Коста-Рика</trName></name>
       <name><languageId>km</languageId><trName>កូស្តារីកា</trName></name>
       <name><languageId>kn</languageId><trName>ಕೋಸ್ಟಾ ರಿಕಾ</trName></name>
@@ -11451,6 +11524,7 @@
       <name><languageId>km</languageId><trName>ខូរៀ</trName></name>
       <name><languageId>kn</languageId><trName>ಕರೀ</trName></name>
       <name><languageId>ko</languageId><trName>퀴리</trName></name>
+      <name><languageId>kok</languageId><trName>क्युरी</trName></name>
       <name><languageId>ks</languageId><trName>کیوٗری</trName></name>
       <name><languageId>ky</languageId><trName>Керри</trName></name>
       <name><languageId>lo</languageId><trName>ກູຣີ</trName></name>
@@ -11558,6 +11632,7 @@
       <name><languageId>km</languageId><trName>ដាកា</trName></name>
       <name><languageId>kn</languageId><trName>ಡಾಕರ್</trName></name>
       <name><languageId>ko</languageId><trName>다카르</trName></name>
+      <name><languageId>kok</languageId><trName>डकार</trName></name>
       <name><languageId>ks</languageId><trName>دَکار</trName></name>
       <name><languageId>ky</languageId><trName>Дакар</trName></name>
       <name><languageId>lo</languageId><trName>ດາກາ</trName></name>
@@ -11667,6 +11742,7 @@
       <name><languageId>km</languageId><trName>ដាម៉ាស</trName></name>
       <name><languageId>kn</languageId><trName>ಡಮಾಸ್ಕಸ್</trName></name>
       <name><languageId>ko</languageId><trName>다마스쿠스</trName></name>
+      <name><languageId>kok</languageId><trName>दमस्कस</trName></name>
       <name><languageId>ks</languageId><trName>دَمَسکَس</trName></name>
       <name><languageId>ksh</languageId><trName>Damaskus</trName></name>
       <name><languageId>ky</languageId><trName>Дамаск</trName></name>
@@ -11886,6 +11962,7 @@
       <name><languageId>km</languageId><trName>ដាអ៊ីសាឡាំ</trName></name>
       <name><languageId>kn</languageId><trName>ಡಾರ್ ಎಸ್ ಸಲಾಮ್</trName></name>
       <name><languageId>ko</languageId><trName>다르에스살람</trName></name>
+      <name><languageId>kok</languageId><trName>दार इ सलाम</trName></name>
       <name><languageId>ks</languageId><trName>دارُالسلام</trName></name>
       <name><languageId>ky</languageId><trName>Дар эс Салаам</trName></name>
       <name><languageId>lb</languageId><trName>Dar es Salaam</trName></name>
@@ -11994,6 +12071,7 @@
       <name><languageId>km</languageId><trName>ដាវីន</trName></name>
       <name><languageId>kn</languageId><trName>ಡಾರ್ವಿನ್</trName></name>
       <name><languageId>ko</languageId><trName>다윈</trName></name>
+      <name><languageId>kok</languageId><trName>डार्विन</trName></name>
       <name><languageId>ks</languageId><trName>ڈاروِن</trName></name>
       <name><languageId>ky</languageId><trName>Дарвин</trName></name>
       <name><languageId>lo</languageId><trName>ດາຣວິນ</trName></name>
@@ -12099,6 +12177,7 @@
       <name><languageId>km</languageId><trName>ដាវីស</trName></name>
       <name><languageId>kn</languageId><trName>ಡೇವೀಸ್</trName></name>
       <name><languageId>ko</languageId><trName>데이비스</trName></name>
+      <name><languageId>kok</languageId><trName>डेव्हीस</trName></name>
       <name><languageId>ks</languageId><trName>ڈیوِس</trName></name>
       <name><languageId>ky</languageId><trName>Дэвис</trName></name>
       <name><languageId>lo</languageId><trName>ດາວີສ</trName></name>
@@ -12633,6 +12712,7 @@
       <name><languageId>km</languageId><trName>ដាក្កា</trName></name>
       <name><languageId>kn</languageId><trName>ಢಾಕಾ</trName></name>
       <name><languageId>ko</languageId><trName>다카</trName></name>
+      <name><languageId>kok</languageId><trName>ढाका</trName></name>
       <name><languageId>ks</languageId><trName>ڈھاکا</trName></name>
       <name><languageId>ky</languageId><trName>Дакка</trName></name>
       <name><languageId>lo</languageId><trName>ດາຫ໌ກາ</trName></name>
@@ -12737,6 +12817,7 @@
       <name><languageId>km</languageId><trName>ដេលី</trName></name>
       <name><languageId>kn</languageId><trName>ದಿಲಿ</trName></name>
       <name><languageId>ko</languageId><trName>딜리</trName></name>
+      <name><languageId>kok</languageId><trName>दिली</trName></name>
       <name><languageId>ks</languageId><trName>دِلی</trName></name>
       <name><languageId>ky</languageId><trName>Дили</trName></name>
       <name><languageId>lo</languageId><trName>ດີລີ</trName></name>
@@ -12847,6 +12928,7 @@
       <name><languageId>km</languageId><trName>ជីប៊ូទី</trName></name>
       <name><languageId>kn</languageId><trName>ಜಿಬೂಟಿ</trName></name>
       <name><languageId>ko</languageId><trName>지부티</trName></name>
+      <name><languageId>kok</languageId><trName>जिबूती</trName></name>
       <name><languageId>ks</languageId><trName>ڑِزِبوٹی</trName></name>
       <name><languageId>ky</languageId><trName>Жибути</trName></name>
       <name><languageId>lb</languageId><trName>Dschibuti</trName></name>
@@ -13064,6 +13146,7 @@
       <name><languageId>km</languageId><trName>ឌូអ៊ូឡា</trName></name>
       <name><languageId>kn</languageId><trName>ದೌಲಾ</trName></name>
       <name><languageId>ko</languageId><trName>두알라</trName></name>
+      <name><languageId>kok</languageId><trName>डौआला</trName></name>
       <name><languageId>ks</languageId><trName>دوعالا</trName></name>
       <name><languageId>ky</languageId><trName>Дуала</trName></name>
       <name><languageId>lo</languageId><trName>ດູອາລາ</trName></name>
@@ -13168,6 +13251,7 @@
       <name><languageId>km</languageId><trName>ឌុយបៃ</trName></name>
       <name><languageId>kn</languageId><trName>ದುಬೈ</trName></name>
       <name><languageId>ko</languageId><trName>두바이</trName></name>
+      <name><languageId>kok</languageId><trName>दुबय</trName></name>
       <name><languageId>ks</languageId><trName>دُبَے</trName></name>
       <name><languageId>ky</languageId><trName>Дубай</trName></name>
       <name><languageId>lo</languageId><trName>ດູໄບ</trName></name>
@@ -13277,6 +13361,7 @@
       <name><languageId>km</languageId><trName>ឌុយប្លាំង</trName></name>
       <name><languageId>kn</languageId><trName>ಡುಬ್ಲಿನ್</trName></name>
       <name><languageId>ko</languageId><trName>더블린</trName></name>
+      <name><languageId>kok</languageId><trName>डब्लिन</trName></name>
       <name><languageId>ks</languageId><trName>ڈَبلِن</trName></name>
       <name><languageId>ky</languageId><trName>Дублин</trName></name>
       <name><languageId>lo</languageId><trName>ດັບບລິນ</trName></name>
@@ -13385,6 +13470,7 @@
       <name><languageId>km</languageId><trName>ឌុយម៉ុងដឺអ៊ុយវីល</trName></name>
       <name><languageId>kn</languageId><trName>ಡುಮಂಟ್ ಡಿ ಉರ್ವಿಲೆ</trName></name>
       <name><languageId>ko</languageId><trName>뒤몽 뒤르빌</trName></name>
+      <name><languageId>kok</languageId><trName>द्युमाँ दूरवीय</trName></name>
       <name><languageId>ks</languageId><trName>ڈُمونٹ ڈ اَروِل</trName></name>
       <name><languageId>ksh</languageId><trName>Dumont-d’Urville-Schtazjohn</trName></name>
       <name><languageId>ky</languageId><trName>Дюмон д-Урвил</trName></name>
@@ -13502,6 +13588,7 @@
       <name><languageId>km</languageId><trName>ឌូស្ហាន់បេ</trName></name>
       <name><languageId>kn</languageId><trName>ದುಶಾಂಬೆ</trName></name>
       <name><languageId>ko</languageId><trName>두샨베</trName></name>
+      <name><languageId>kok</languageId><trName>दुशान्बे</trName></name>
       <name><languageId>ks</languageId><trName>دُشانبیے</trName></name>
       <name><languageId>ksh</languageId><trName>Duschanbe</trName></name>
       <name><languageId>ky</languageId><trName>Душанбе</trName></name>
@@ -13917,6 +14004,7 @@
       <name><languageId>km</languageId><trName>អ៊ីហ្វាតេ</trName></name>
       <name><languageId>kn</languageId><trName>ಇಫೇಟ್</trName></name>
       <name><languageId>ko</languageId><trName>에파테</trName></name>
+      <name><languageId>kok</languageId><trName>इफेट</trName></name>
       <name><languageId>ks</languageId><trName>ایفاتیے</trName></name>
       <name><languageId>ky</languageId><trName>Эфат</trName></name>
       <name><languageId>lo</languageId><trName>ເອຟາເຕ</trName></name>
@@ -14131,6 +14219,7 @@
       <name><languageId>km</languageId><trName>អែល​អ៊ុយញៀន</trName></name>
       <name><languageId>kn</languageId><trName>ಎಲ್ ಔನ್</trName></name>
       <name><languageId>ko</languageId><trName>엘아이운</trName></name>
+      <name><languageId>kok</languageId><trName>अल आयुन</trName></name>
       <name><languageId>ky</languageId><trName>Эл Айун</trName></name>
       <name><languageId>lb</languageId><trName>El Aaiún</trName></name>
       <name><languageId>lo</languageId><trName>ເອວ ອາຢູນ</trName></name>
@@ -14351,6 +14440,7 @@
       <name><languageId>km</languageId><trName>អ៊ីនដឺប៊ូរី</trName></name>
       <name><languageId>kn</languageId><trName>ಎಂಡರ್ಬರಿ</trName></name>
       <name><languageId>ko</languageId><trName>엔더베리</trName></name>
+      <name><languageId>kok</languageId><trName>इंडरबरी</trName></name>
       <name><languageId>ks</languageId><trName>اؠنڑربیری</trName></name>
       <name><languageId>ky</languageId><trName>Эндербери</trName></name>
       <name><languageId>lo</languageId><trName>ເອັນເດີເບີລີ</trName></name>
@@ -14456,6 +14546,7 @@
       <name><languageId>km</languageId><trName>អ៊ុយក្លា</trName></name>
       <name><languageId>kn</languageId><trName>ಯುಕ್ಲಾ</trName></name>
       <name><languageId>ko</languageId><trName>유클라</trName></name>
+      <name><languageId>kok</languageId><trName>उक्ला</trName></name>
       <name><languageId>ks</languageId><trName>یوٗکلا</trName></name>
       <name><languageId>ky</languageId><trName>Юкла</trName></name>
       <name><languageId>lo</languageId><trName>ຍູລາ</trName></name>
@@ -14660,6 +14751,7 @@
       <name><languageId>km</languageId><trName>ហ្វាកៅហ្វូ</trName></name>
       <name><languageId>kn</languageId><trName>ಫಕೋಫೋ</trName></name>
       <name><languageId>ko</languageId><trName>파카오푸</trName></name>
+      <name><languageId>kok</languageId><trName>फाकाओफो</trName></name>
       <name><languageId>ks</languageId><trName>فَکَوفو</trName></name>
       <name><languageId>ky</languageId><trName>Факаофо</trName></name>
       <name><languageId>lo</languageId><trName>ຟາກາວໂຟ</trName></name>
@@ -14772,6 +14864,7 @@
       <name><languageId>km</languageId><trName>ហ្វារ៉ូ</trName></name>
       <name><languageId>kn</languageId><trName>ಫ್ಯಾರೊ</trName></name>
       <name><languageId>ko</languageId><trName>페로 제도</trName></name>
+      <name><languageId>kok</languageId><trName>फैरो</trName></name>
       <name><languageId>ks</languageId><trName>فؠرو</trName></name>
       <name><languageId>ksh</languageId><trName>Färör</trName></name>
       <name><languageId>ky</languageId><trName>Фарер</trName></name>
@@ -14883,6 +14976,7 @@
       <name><languageId>km</languageId><trName>ហ្វីជី</trName></name>
       <name><languageId>kn</languageId><trName>ಫಿಜಿ</trName></name>
       <name><languageId>ko</languageId><trName>피지</trName></name>
+      <name><languageId>kok</languageId><trName>फिजी</trName></name>
       <name><languageId>ks</languageId><trName>فِجی</trName></name>
       <name><languageId>ky</languageId><trName>Фижи</trName></name>
       <name><languageId>lb</languageId><trName>Fidschi</trName></name>
@@ -15096,6 +15190,7 @@
       <name><languageId>km</languageId><trName>ហ្វ្រីថោន</trName></name>
       <name><languageId>kn</languageId><trName>ಫ್ರೀಟೌನ್</trName></name>
       <name><languageId>ko</languageId><trName>프리타운</trName></name>
+      <name><languageId>kok</languageId><trName>फ्रिटावन</trName></name>
       <name><languageId>ks</languageId><trName>فری ٹاوُن</trName></name>
       <name><languageId>ky</languageId><trName>Фритаун</trName></name>
       <name><languageId>lo</languageId><trName>ຟຣີທາວ</trName></name>
@@ -15201,6 +15296,7 @@
       <name><languageId>km</languageId><trName>ហ៊្វូណាហ៊្វូទី</trName></name>
       <name><languageId>kn</languageId><trName>ಫುನಾಫುಟಿ</trName></name>
       <name><languageId>ko</languageId><trName>푸나푸티</trName></name>
+      <name><languageId>kok</languageId><trName>फुनाफुटी</trName></name>
       <name><languageId>ks</languageId><trName>فُنافوٗتی</trName></name>
       <name><languageId>ky</languageId><trName>Фунафути</trName></name>
       <name><languageId>lo</languageId><trName>ຟູນະຟູຕິ</trName></name>
@@ -15403,6 +15499,7 @@
       <name><languageId>km</languageId><trName>ហ្គាបូរ៉ូន</trName></name>
       <name><languageId>kn</languageId><trName>ಗ್ಯಾಬರೋನೆ</trName></name>
       <name><languageId>ko</languageId><trName>가보로네</trName></name>
+      <name><languageId>kok</languageId><trName>गाबोरोन</trName></name>
       <name><languageId>ks</languageId><trName>گؠبورون</trName></name>
       <name><languageId>ky</languageId><trName>Габороне</trName></name>
       <name><languageId>lo</languageId><trName>ກາບໍໂຣນ</trName></name>
@@ -15619,6 +15716,7 @@
       <name><languageId>km</languageId><trName>ហ្គាំបៀ</trName></name>
       <name><languageId>kn</languageId><trName>ಗ್ಯಾಂಬಿಯರ್</trName></name>
       <name><languageId>ko</languageId><trName>감비어</trName></name>
+      <name><languageId>kok</languageId><trName>गाम्बियर</trName></name>
       <name><languageId>ks</languageId><trName>گیمبِیَر</trName></name>
       <name><languageId>ky</languageId><trName>Гамбие</trName></name>
       <name><languageId>lo</languageId><trName>ແກມເບຍ</trName></name>
@@ -15726,6 +15824,7 @@
       <name><languageId>km</languageId><trName>កាសា</trName></name>
       <name><languageId>kn</languageId><trName>ಗಾಜಾ</trName></name>
       <name><languageId>ko</languageId><trName>가자</trName></name>
+      <name><languageId>kok</languageId><trName>गाझा</trName></name>
       <name><languageId>ks</languageId><trName>غازا</trName></name>
       <name><languageId>ksh</languageId><trName>Jaasa</trName></name>
       <name><languageId>ky</languageId><trName>Газа</trName></name>
@@ -15834,6 +15933,7 @@
       <name><languageId>km</languageId><trName>ហ្ស៊ីប្រាល់តា</trName></name>
       <name><languageId>kn</languageId><trName>ಜಿಬ್ರಾಲ್ಟರ್</trName></name>
       <name><languageId>ko</languageId><trName>지브롤터</trName></name>
+      <name><languageId>kok</languageId><trName>जिब्राल्टर</trName></name>
       <name><languageId>ks</languageId><trName>گِبرالٹَر</trName></name>
       <name><languageId>ksh</languageId><trName>Jibraltaa</trName></name>
       <name><languageId>ky</languageId><trName>Гибралтар</trName></name>
@@ -16479,6 +16579,7 @@
       <name><languageId>km</languageId><trName>ហ្គាដាល់ខាណាល់</trName></name>
       <name><languageId>kn</languageId><trName>ಗ್ವಾಡಲ್ಕೆನಾಲ್</trName></name>
       <name><languageId>ko</languageId><trName>과달카날</trName></name>
+      <name><languageId>kok</languageId><trName>ग्वादालकॅनाल</trName></name>
       <name><languageId>ks</languageId><trName>گُوادَلچَنَل</trName></name>
       <name><languageId>ky</languageId><trName>Гуадалканал</trName></name>
       <name><languageId>lo</languageId><trName>ກົວດັລຄະແນລ</trName></name>
@@ -16695,6 +16796,7 @@
       <name><languageId>km</languageId><trName>ហ្គាំ</trName></name>
       <name><languageId>kn</languageId><trName>ಗ್ವಾಮ್</trName></name>
       <name><languageId>ko</languageId><trName>괌</trName></name>
+      <name><languageId>kok</languageId><trName>गुआम</trName></name>
       <name><languageId>ks</languageId><trName>گوام</trName></name>
       <name><languageId>ksh</languageId><trName>Juam</trName></name>
       <name><languageId>ky</languageId><trName>Гуам</trName></name>
@@ -17017,6 +17119,7 @@
       <name><languageId>km</languageId><trName>ហ្គេនស៊ី</trName></name>
       <name><languageId>kn</languageId><trName>ಗ್ಯುರ್ನ್‍ಸೆ</trName></name>
       <name><languageId>ko</languageId><trName>건지</trName></name>
+      <name><languageId>kok</languageId><trName>गर्नसी</trName></name>
       <name><languageId>ksh</languageId><trName>Jöönsei</trName></name>
       <name><languageId>ky</languageId><trName>Гернси</trName></name>
       <name><languageId>lo</languageId><trName>ເກີນຊີ</trName></name>
@@ -17341,6 +17444,7 @@
       <name><languageId>km</languageId><trName>ហារ៉ារ៉េ</trName></name>
       <name><languageId>kn</languageId><trName>ಹರಾರೆ</trName></name>
       <name><languageId>ko</languageId><trName>하라레</trName></name>
+      <name><languageId>kok</languageId><trName>हरारे</trName></name>
       <name><languageId>ks</languageId><trName>ہَراریے</trName></name>
       <name><languageId>ky</languageId><trName>Хараре</trName></name>
       <name><languageId>lo</languageId><trName>ຮາຣາເຣ</trName></name>
@@ -17717,6 +17821,7 @@
       <name><languageId>km</languageId><trName>ហេបរុន</trName></name>
       <name><languageId>kn</languageId><trName>ಹೆಬ್ರಾನ್</trName></name>
       <name><languageId>ko</languageId><trName>헤브론</trName></name>
+      <name><languageId>kok</languageId><trName>हेब्रॉन</trName></name>
       <name><languageId>ky</languageId><trName>Хеброн</trName></name>
       <name><languageId>lo</languageId><trName>ເຮບຣອນ</trName></name>
       <name><languageId>lt</languageId><trName>Hebronas</trName></name>
@@ -17825,6 +17930,7 @@
       <name><languageId>km</languageId><trName>ហែលស៊ិងគី</trName></name>
       <name><languageId>kn</languageId><trName>ಹೆಲ್ಸಿಂಕಿ</trName></name>
       <name><languageId>ko</languageId><trName>헬싱키</trName></name>
+      <name><languageId>kok</languageId><trName>हेलसिंकी</trName></name>
       <name><languageId>ks</languageId><trName>حؠلسِنکی</trName></name>
       <name><languageId>ky</languageId><trName>Хельсинки</trName></name>
       <name><languageId>lo</languageId><trName>ເຮວຊິນກິ</trName></name>
@@ -18039,6 +18145,7 @@
       <name><languageId>km</languageId><trName>ហូជីមីញ</trName></name>
       <name><languageId>kn</languageId><trName>ಹೊ ಚಿ ಮಿನ್ ಸಿಟಿ</trName></name>
       <name><languageId>ko</languageId><trName>사이공</trName></name>
+      <name><languageId>kok</languageId><trName>हो ची मिन्ह</trName></name>
       <name><languageId>ks</languageId><trName>سیگَن</trName></name>
       <name><languageId>ksh</languageId><trName>Sigong (Ho-Tschi-Minh-Schtadt)</trName></name>
       <name><languageId>ky</languageId><trName>Хо Ши Мин</trName></name>
@@ -18149,6 +18256,7 @@
       <name><languageId>km</languageId><trName>ហូបាត</trName></name>
       <name><languageId>kn</languageId><trName>ಹೋಬಾರ್ಟ್‌</trName></name>
       <name><languageId>ko</languageId><trName>호바트</trName></name>
+      <name><languageId>kok</languageId><trName>होबार्ट</trName></name>
       <name><languageId>ks</languageId><trName>حۄبٲٹ</trName></name>
       <name><languageId>ky</languageId><trName>Хобарт</trName></name>
       <name><languageId>lo</languageId><trName>ໂຮບາດ</trName></name>
@@ -18260,6 +18368,7 @@
       <name><languageId>km</languageId><trName>ហុងកុង</trName></name>
       <name><languageId>kn</languageId><trName>ಹಾಂಗ್ ಕಾಂಗ್</trName></name>
       <name><languageId>ko</languageId><trName>홍콩</trName></name>
+      <name><languageId>kok</languageId><trName>हाँग काँग</trName></name>
       <name><languageId>ks</languageId><trName>حانگ کانگ</trName></name>
       <name><languageId>ksh</languageId><trName>Hongkong</trName></name>
       <name><languageId>ky</languageId><trName>Гонконг</trName></name>
@@ -18472,6 +18581,7 @@
       <name><languageId>km</languageId><trName>ហូវ</trName></name>
       <name><languageId>kn</languageId><trName>ಹೋವ್ಡ್</trName></name>
       <name><languageId>ko</languageId><trName>호브드</trName></name>
+      <name><languageId>kok</languageId><trName>होव्हड</trName></name>
       <name><languageId>ks</languageId><trName>حووڑ</trName></name>
       <name><languageId>ky</languageId><trName>Ховд</trName></name>
       <name><languageId>lo</languageId><trName>ຮອບ</trName></name>
@@ -19059,6 +19169,7 @@
       <name><languageId>km</languageId><trName>អៀរគុតស្កិ៍</trName></name>
       <name><languageId>kn</languageId><trName>ಇರಕುಟ್ಸ್ಕ್</trName></name>
       <name><languageId>ko</languageId><trName>이르쿠츠크</trName></name>
+      <name><languageId>kok</languageId><trName>इर्कुटस्क</trName></name>
       <name><languageId>ks</languageId><trName>اِرکُسک</trName></name>
       <name><languageId>ky</languageId><trName>Иркутск</trName></name>
       <name><languageId>lo</languageId><trName>ອີຄຸສຄ໌</trName></name>
@@ -19166,6 +19277,7 @@
       <name><languageId>km</languageId><trName>អែលអុហ្វម៉ែន</trName></name>
       <name><languageId>kn</languageId><trName>ಐಲ್ ಆಫ್ ಮ್ಯಾನ್</trName></name>
       <name><languageId>ko</languageId><trName>맨섬</trName></name>
+      <name><languageId>kok</languageId><trName>इसले ऑफ मॅन</trName></name>
       <name><languageId>ksh</languageId><trName>Ensel Män</trName></name>
       <name><languageId>ky</languageId><trName>Мэн аралы</trName></name>
       <name><languageId>lo</languageId><trName>ເກາະແມນ</trName></name>
@@ -19274,6 +19386,7 @@
       <name><languageId>km</languageId><trName>អ៊ីស្តង់ប៊ុល</trName></name>
       <name><languageId>kn</languageId><trName>ಇಸ್ತಾನ್‌ಬುಲ್</trName></name>
       <name><languageId>ko</languageId><trName>이스탄불</trName></name>
+      <name><languageId>kok</languageId><trName>इस्तंबूल</trName></name>
       <name><languageId>ks</languageId><trName>اِستانبُل</trName></name>
       <name><languageId>ksh</languageId><trName>Istambul</trName></name>
       <name><languageId>ky</languageId><trName>Стамбул</trName></name>
@@ -19383,6 +19496,7 @@
       <name><languageId>km</languageId><trName>ហ្សាការតា</trName></name>
       <name><languageId>kn</languageId><trName>ಜಕಾರ್ತಾ</trName></name>
       <name><languageId>ko</languageId><trName>자카르타</trName></name>
+      <name><languageId>kok</languageId><trName>जकार्ता</trName></name>
       <name><languageId>ks</languageId><trName>جکارتا</trName></name>
       <name><languageId>ky</languageId><trName>Жакарта</trName></name>
       <name><languageId>lo</languageId><trName>ຈາກາຕາ</trName></name>
@@ -19605,6 +19719,7 @@
       <name><languageId>km</languageId><trName>ចាយ៉ាភូរ៉ា</trName></name>
       <name><languageId>kn</languageId><trName>ಜಯಪುರ</trName></name>
       <name><languageId>ko</languageId><trName>자야푸라</trName></name>
+      <name><languageId>kok</languageId><trName>जायापुरा</trName></name>
       <name><languageId>ks</languageId><trName>جَیاپوٗرا</trName></name>
       <name><languageId>ky</languageId><trName>Жайапура</trName></name>
       <name><languageId>lb</languageId><trName>Port Numbay</trName></name>
@@ -19712,6 +19827,7 @@
       <name><languageId>km</languageId><trName>ជេស៊ី</trName></name>
       <name><languageId>kn</languageId><trName>ಜೆರ್ಸಿ</trName></name>
       <name><languageId>ko</languageId><trName>저지</trName></name>
+      <name><languageId>kok</languageId><trName>जर्सी</trName></name>
       <name><languageId>ksh</languageId><trName>Jöösei</trName></name>
       <name><languageId>ky</languageId><trName>Жерси</trName></name>
       <name><languageId>lo</languageId><trName>ເຈີຊີ</trName></name>
@@ -19820,6 +19936,7 @@
       <name><languageId>km</languageId><trName>ហ្ស៊េរុយសាឡិម</trName></name>
       <name><languageId>kn</languageId><trName>ಜೆರುಸಲೆಮ್</trName></name>
       <name><languageId>ko</languageId><trName>예루살렘</trName></name>
+      <name><languageId>kok</languageId><trName>जेरुसालेम</trName></name>
       <name><languageId>ks</languageId><trName>یؠروٗسَلَم</trName></name>
       <name><languageId>ky</languageId><trName>Иерусалим</trName></name>
       <name><languageId>lo</languageId><trName>ເຢຣູຊາເລມ</trName></name>
@@ -19925,6 +20042,7 @@
       <name><languageId>km</languageId><trName>ជូហានណេប៊ឺហ្គ</trName></name>
       <name><languageId>kn</languageId><trName>ಜೋಹಾನ್ಸ್‌ಬರ್ಗ್</trName></name>
       <name><languageId>ko</languageId><trName>요하네스버그</trName></name>
+      <name><languageId>kok</languageId><trName>जोहान्सबर्ग</trName></name>
       <name><languageId>ks</languageId><trName>جانسبٔرگ</trName></name>
       <name><languageId>ky</languageId><trName>Йоханнесбург</trName></name>
       <name><languageId>lo</languageId><trName>ໂຈຮັນເນດສເບີກ</trName></name>
@@ -20030,6 +20148,7 @@
       <name><languageId>km</languageId><trName>ចនស្តុន</trName></name>
       <name><languageId>kn</languageId><trName>ಜಾನ್‌ಸ್ಟನ್</trName></name>
       <name><languageId>ko</languageId><trName>존스톤</trName></name>
+      <name><languageId>kok</languageId><trName>जॉन्स्टन</trName></name>
       <name><languageId>ks</languageId><trName>جانسٹَن</trName></name>
       <name><languageId>ky</languageId><trName>Жонстон</trName></name>
       <name><languageId>lo</languageId><trName>ຈອນສະໂຕນ</trName></name>
@@ -20050,6 +20169,7 @@
       <name><languageId>pl</languageId><trName>Johnston</trName></name>
       <name><languageId>ps</languageId><trName>جانستون</trName></name>
       <name><languageId>pt</languageId><trName>Johnston</trName></name>
+      <name><languageId>qu</languageId><trName>Johnston</trName></name>
       <name><languageId>ro</languageId><trName>Johnston</trName></name>
       <name><languageId>ru</languageId><trName>Джонстон</trName></name>
       <name><languageId>sd</languageId><trName>جانسٹن</trName></name>
@@ -20132,6 +20252,7 @@
       <name><languageId>km</languageId><trName>ជូបា</trName></name>
       <name><languageId>kn</languageId><trName>ಜುಬಾ</trName></name>
       <name><languageId>ko</languageId><trName>주바</trName></name>
+      <name><languageId>kok</languageId><trName>जुबा</trName></name>
       <name><languageId>ky</languageId><trName>Жуба</trName></name>
       <name><languageId>lo</languageId><trName>ຈູບາ</trName></name>
       <name><languageId>lt</languageId><trName>Džuba</trName></name>
@@ -20449,6 +20570,7 @@
       <name><languageId>km</languageId><trName>កាប៊ុល</trName></name>
       <name><languageId>kn</languageId><trName>ಕಾಬೂಲ್</trName></name>
       <name><languageId>ko</languageId><trName>카불</trName></name>
+      <name><languageId>kok</languageId><trName>काबुल</trName></name>
       <name><languageId>ks</languageId><trName>قابُل</trName></name>
       <name><languageId>ky</languageId><trName>Кабул</trName></name>
       <name><languageId>lo</languageId><trName>ຄາບູ</trName></name>
@@ -20558,6 +20680,7 @@
       <name><languageId>km</languageId><trName>កាលីនីងហ្រ្គាដ</trName></name>
       <name><languageId>kn</languageId><trName>ಕಲಿನಿನ್‌ಗ್ರಾಡ್</trName></name>
       <name><languageId>ko</languageId><trName>칼리닌그라드</trName></name>
+      <name><languageId>kok</languageId><trName>कालिनिनग्राड</trName></name>
       <name><languageId>ks</languageId><trName>کَلِناِنگرَد</trName></name>
       <name><languageId>ksh</languageId><trName>Kalinninjraad</trName></name>
       <name><languageId>ky</languageId><trName>Калининград</trName></name>
@@ -20624,6 +20747,7 @@
       <name><languageId>be</languageId><trName>Камчатка</trName></name>
       <name><languageId>bg</languageId><trName>Камчатка</trName></name>
       <name><languageId>bn</languageId><trName>কামচাটকা</trName></name>
+      <name><languageId>br</languageId><trName>Kamtchatka</trName></name>
       <name><languageId>brx</languageId><trName>कामचटका</trName></name>
       <name><languageId>bs</languageId><trName>Kamčatka</trName></name>
       <name><languageId>ca</languageId><trName>Kamtxatka</trName></name>
@@ -20671,6 +20795,7 @@
       <name><languageId>km</languageId><trName>កាំឆាតកា</trName></name>
       <name><languageId>kn</languageId><trName>ಕಂಚಟ್ಕ್</trName></name>
       <name><languageId>ko</languageId><trName>캄차카</trName></name>
+      <name><languageId>kok</languageId><trName>कामचाट्का</trName></name>
       <name><languageId>ks</languageId><trName>کَمچھٹکا</trName></name>
       <name><languageId>ksh</languageId><trName>Kamschattka</trName></name>
       <name><languageId>ky</languageId><trName>Камчатка</trName></name>
@@ -20782,6 +20907,7 @@
       <name><languageId>km</languageId><trName>កំប៉ាឡា</trName></name>
       <name><languageId>kn</languageId><trName>ಕಂಪಾಲಾ</trName></name>
       <name><languageId>ko</languageId><trName>캄팔라</trName></name>
+      <name><languageId>kok</languageId><trName>काम्पाला</trName></name>
       <name><languageId>ks</languageId><trName>کَمپالا</trName></name>
       <name><languageId>ky</languageId><trName>Кампала</trName></name>
       <name><languageId>lo</languageId><trName>ຄຳປາລາ</trName></name>
@@ -20888,6 +21014,7 @@
       <name><languageId>km</languageId><trName>ការ៉ាជី</trName></name>
       <name><languageId>kn</languageId><trName>ಕರಾಚಿ</trName></name>
       <name><languageId>ko</languageId><trName>카라치</trName></name>
+      <name><languageId>kok</languageId><trName>कराची</trName></name>
       <name><languageId>ks</languageId><trName>کَراچی</trName></name>
       <name><languageId>ky</languageId><trName>Карачи</trName></name>
       <name><languageId>lo</languageId><trName>ກາຣາຈີ</trName></name>
@@ -21086,6 +21213,7 @@
       <name><languageId>km</languageId><trName>កាត់ម៉ាន់ឌូ</trName></name>
       <name><languageId>kn</languageId><trName>ಕಠ್ಮಂಡು</trName></name>
       <name><languageId>ko</languageId><trName>카트만두</trName></name>
+      <name><languageId>kok</languageId><trName>काठमांडू</trName></name>
       <name><languageId>ks</languageId><trName>کاٹھمَنڈوٗ</trName></name>
       <name><languageId>ky</languageId><trName>Катманду</trName></name>
       <name><languageId>lb</languageId><trName>Kathmandu</trName></name>
@@ -21272,6 +21400,7 @@
       <name><languageId>km</languageId><trName>ឃឺហ្គុយឡែន</trName></name>
       <name><languageId>kn</languageId><trName>ಕೆರ್ಗ್ಯುಲೆನ್</trName></name>
       <name><languageId>ko</languageId><trName>케르켈렌</trName></name>
+      <name><languageId>kok</languageId><trName>केरगुलेन</trName></name>
       <name><languageId>ks</languageId><trName>کیرگولِن</trName></name>
       <name><languageId>ky</languageId><trName>Кергелен</trName></name>
       <name><languageId>lo</languageId><trName>ແກເກີເລນ</trName></name>
@@ -21379,6 +21508,7 @@
       <name><languageId>km</languageId><trName>ខាន់ឌីហ្គា</trName></name>
       <name><languageId>kn</languageId><trName>ಖಂಡ್ಯಾಗಾ</trName></name>
       <name><languageId>ko</languageId><trName>한디가</trName></name>
+      <name><languageId>kok</languageId><trName>खा़ंडिगा</trName></name>
       <name><languageId>ky</languageId><trName>Кандыга</trName></name>
       <name><languageId>lo</languageId><trName>ແຄນດີກາ</trName></name>
       <name><languageId>lt</languageId><trName>Chandyga</trName></name>
@@ -21489,6 +21619,7 @@
       <name><languageId>km</languageId><trName>ខាទុំ</trName></name>
       <name><languageId>kn</languageId><trName>ಖರ್ಟೋಮ್</trName></name>
       <name><languageId>ko</languageId><trName>카르툼</trName></name>
+      <name><languageId>kok</languageId><trName>खार्टोम</trName></name>
       <name><languageId>ks</languageId><trName>کھارتوم</trName></name>
       <name><languageId>ky</languageId><trName>Картум</trName></name>
       <name><languageId>lb</languageId><trName>Khartum</trName></name>
@@ -21603,6 +21734,7 @@
       <name><languageId>km</languageId><trName>កៀវ</trName></name>
       <name><languageId>kn</languageId><trName>ಕಿವ್</trName></name>
       <name><languageId>ko</languageId><trName>키예프</trName></name>
+      <name><languageId>kok</languageId><trName>कीव</trName></name>
       <name><languageId>ks</languageId><trName>کیٖو</trName></name>
       <name><languageId>ky</languageId><trName>Киев</trName></name>
       <name><languageId>lb</languageId><trName>Kiew</trName></name>
@@ -21710,6 +21842,7 @@
       <name><languageId>km</languageId><trName>គីហ្គាលី</trName></name>
       <name><languageId>kn</languageId><trName>ಕಿಗಾಲಿ</trName></name>
       <name><languageId>ko</languageId><trName>키갈리</trName></name>
+      <name><languageId>kok</languageId><trName>किगाली</trName></name>
       <name><languageId>ks</languageId><trName>کِگالی</trName></name>
       <name><languageId>ky</languageId><trName>Кигали</trName></name>
       <name><languageId>lo</languageId><trName>ຄີກາລີ</trName></name>
@@ -21816,6 +21949,7 @@
       <name><languageId>km</languageId><trName>គីនស្ហាសា</trName></name>
       <name><languageId>kn</languageId><trName>ಕಿನ್ಷಾಸಾ</trName></name>
       <name><languageId>ko</languageId><trName>킨샤사</trName></name>
+      <name><languageId>kok</languageId><trName>किनशासा</trName></name>
       <name><languageId>ks</languageId><trName>کِنشاسا</trName></name>
       <name><languageId>ky</languageId><trName>Киншаса</trName></name>
       <name><languageId>lo</languageId><trName>ກິນຊາຊາ</trName></name>
@@ -21921,6 +22055,7 @@
       <name><languageId>km</languageId><trName>គិរីទីម៉ាទិ</trName></name>
       <name><languageId>kn</languageId><trName>ಕಿರಿತಿಮತಿ</trName></name>
       <name><languageId>ko</languageId><trName>키리티마티</trName></name>
+      <name><languageId>kok</languageId><trName>किरितिमाती</trName></name>
       <name><languageId>ks</languageId><trName>کِرِتِماتی</trName></name>
       <name><languageId>ky</languageId><trName>Киритимати</trName></name>
       <name><languageId>lo</languageId><trName>ຄີຣິທີມາຕີ</trName></name>
@@ -22143,6 +22278,7 @@
       <name><languageId>km</languageId><trName>កុលកាតា</trName></name>
       <name><languageId>kn</languageId><trName>ಕೊಲ್ಕತ್ತಾ</trName></name>
       <name><languageId>ko</languageId><trName>콜카타</trName></name>
+      <name><languageId>kok</languageId><trName>कोलकाता</trName></name>
       <name><languageId>ky</languageId><trName>Калькутта</trName></name>
       <name><languageId>lb</languageId><trName>Kalkutta</trName></name>
       <name><languageId>lo</languageId><trName>ໂຄກາຕາ</trName></name>
@@ -22247,6 +22383,7 @@
       <name><languageId>km</languageId><trName>កូស្រែ</trName></name>
       <name><languageId>kn</languageId><trName>ಕೋಸ್ರೆ</trName></name>
       <name><languageId>ko</languageId><trName>코스레</trName></name>
+      <name><languageId>kok</languageId><trName>कोसरे</trName></name>
       <name><languageId>ks</languageId><trName>کوسراے</trName></name>
       <name><languageId>ky</languageId><trName>Козрае</trName></name>
       <name><languageId>lo</languageId><trName>ຄໍສແຣ</trName></name>
@@ -22463,6 +22600,7 @@
       <name><languageId>km</languageId><trName>ក្រាសនុយ៉ាក</trName></name>
       <name><languageId>kn</languageId><trName>ಕ್ರಾಸ್ನೊಯಾರ್ಸ್ಕ್</trName></name>
       <name><languageId>ko</languageId><trName>크라스노야르스크</trName></name>
+      <name><languageId>kok</languageId><trName>क्रास्नोयार्स्क</trName></name>
       <name><languageId>ks</languageId><trName>کرنسنویارسک</trName></name>
       <name><languageId>ksh</languageId><trName>Krasnojarsk</trName></name>
       <name><languageId>ky</languageId><trName>Красноярск</trName></name>
@@ -22574,6 +22712,7 @@
       <name><languageId>km</languageId><trName>កូឡាឡាំពួរ</trName></name>
       <name><languageId>kn</languageId><trName>ಕೌಲಾ ಲಂಪುರ</trName></name>
       <name><languageId>ko</languageId><trName>쿠알라룸푸르</trName></name>
+      <name><languageId>kok</languageId><trName>कुआलालम्पूर</trName></name>
       <name><languageId>ks</languageId><trName>کولالَمپوٗر</trName></name>
       <name><languageId>ky</languageId><trName>Куала Лумпур</trName></name>
       <name><languageId>lo</languageId><trName>ກົວລາລຳເປີ</trName></name>
@@ -22678,6 +22817,7 @@
       <name><languageId>km</languageId><trName>ឃឺតចីង</trName></name>
       <name><languageId>kn</languageId><trName>ಕುಚಿಂಗ್</trName></name>
       <name><languageId>ko</languageId><trName>쿠칭</trName></name>
+      <name><languageId>kok</languageId><trName>कुचींग</trName></name>
       <name><languageId>ks</languageId><trName>کُچِنگ</trName></name>
       <name><languageId>ky</languageId><trName>Кучиң</trName></name>
       <name><languageId>lo</languageId><trName>ກູຊີງ</trName></name>
@@ -22784,6 +22924,7 @@
       <name><languageId>km</languageId><trName>កូវ៉ែត</trName></name>
       <name><languageId>kn</languageId><trName>ಕುವೈತ್</trName></name>
       <name><languageId>ko</languageId><trName>쿠웨이트</trName></name>
+      <name><languageId>kok</languageId><trName>कुवेत</trName></name>
       <name><languageId>ks</languageId><trName>کُویت</trName></name>
       <name><languageId>ky</languageId><trName>Кувейт</trName></name>
       <name><languageId>lo</languageId><trName>ຄູເວດ</trName></name>
@@ -22888,6 +23029,7 @@
       <name><languageId>km</languageId><trName>ក្វាហ្សាលៀន</trName></name>
       <name><languageId>kn</languageId><trName>ಕ್ವಾಜಲೇನ್</trName></name>
       <name><languageId>ko</languageId><trName>콰잘렌</trName></name>
+      <name><languageId>kok</languageId><trName>क्वाजलेन</trName></name>
       <name><languageId>ks</languageId><trName>کُوجلین</trName></name>
       <name><languageId>ky</languageId><trName>Куажалейн</trName></name>
       <name><languageId>lo</languageId><trName>ຄວາຈາເລນ</trName></name>
@@ -23208,6 +23350,7 @@
       <name><languageId>km</languageId><trName>ឡាហ្គូស</trName></name>
       <name><languageId>kn</languageId><trName>ಲಾಗೋಸ್</trName></name>
       <name><languageId>ko</languageId><trName>라고스</trName></name>
+      <name><languageId>kok</languageId><trName>लागोस</trName></name>
       <name><languageId>ks</languageId><trName>لیگوس</trName></name>
       <name><languageId>ksh</languageId><trName>Laajos</trName></name>
       <name><languageId>ky</languageId><trName>Лагос</trName></name>
@@ -23316,6 +23459,7 @@
       <name><languageId>km</languageId><trName>លីប្រីវីល</trName></name>
       <name><languageId>kn</languageId><trName>ಲಿಬ್ರೆವೀಲ್</trName></name>
       <name><languageId>ko</languageId><trName>리브르빌</trName></name>
+      <name><languageId>kok</languageId><trName>लिब्रेविले</trName></name>
       <name><languageId>ks</languageId><trName>لِبَروِل</trName></name>
       <name><languageId>ky</languageId><trName>Либревилл</trName></name>
       <name><languageId>lo</languageId><trName>ລິເບຼີວິວ</trName></name>
@@ -23528,6 +23672,7 @@
       <name><languageId>km</languageId><trName>លីនឌីម៉ែន</trName></name>
       <name><languageId>kn</languageId><trName>ಲಿಂಡಿಮಾನ್</trName></name>
       <name><languageId>ko</languageId><trName>린데만</trName></name>
+      <name><languageId>kok</languageId><trName>लिडेमॅन</trName></name>
       <name><languageId>ks</languageId><trName>لِنڑیمان</trName></name>
       <name><languageId>ky</languageId><trName>Линдеман</trName></name>
       <name><languageId>lo</languageId><trName>ລິນດີແມນ</trName></name>
@@ -23639,6 +23784,7 @@
       <name><languageId>km</languageId><trName>លីសបោន</trName></name>
       <name><languageId>kn</languageId><trName>ಲಿಸ್ಬನ್</trName></name>
       <name><languageId>ko</languageId><trName>리스본</trName></name>
+      <name><languageId>kok</languageId><trName>लिस्बन</trName></name>
       <name><languageId>ks</languageId><trName>لِسبَن</trName></name>
       <name><languageId>ksh</languageId><trName>Lissabon</trName></name>
       <name><languageId>ky</languageId><trName>Лиссабон</trName></name>
@@ -23748,6 +23894,7 @@
       <name><languageId>km</languageId><trName>ជូបហ្សាណា</trName></name>
       <name><languageId>kn</languageId><trName>ಲ್ಯೂಬ್ಲ್ಯಾನಾ</trName></name>
       <name><languageId>ko</languageId><trName>류블랴나</trName></name>
+      <name><languageId>kok</languageId><trName>जुब्लजाना</trName></name>
       <name><languageId>ky</languageId><trName>Любляна</trName></name>
       <name><languageId>lo</languageId><trName>ລູບລີຍານາ</trName></name>
       <name><languageId>lt</languageId><trName>Liubliana</trName></name>
@@ -23858,6 +24005,7 @@
       <name><languageId>km</languageId><trName>ឡូម៉េ</trName></name>
       <name><languageId>kn</languageId><trName>ಲೋಮ್</trName></name>
       <name><languageId>ko</languageId><trName>로메</trName></name>
+      <name><languageId>kok</languageId><trName>लोम</trName></name>
       <name><languageId>ks</languageId><trName>لوم</trName></name>
       <name><languageId>ky</languageId><trName>Ломе</trName></name>
       <name><languageId>lo</languageId><trName>ໂລເມ</trName></name>
@@ -23967,6 +24115,7 @@
       <name><languageId>km</languageId><trName>ឡុងដ៍</trName></name>
       <name><languageId>kn</languageId><trName>ಲಂಡನ್</trName></name>
       <name><languageId>ko</languageId><trName>런던</trName></name>
+      <name><languageId>kok</languageId><trName>लंडन</trName></name>
       <name><languageId>ks</languageId><trName>لَندَن</trName></name>
       <name><languageId>ky</languageId><trName>Лондон</trName></name>
       <name><languageId>lo</languageId><trName>ລອນດອນ</trName></name>
@@ -24073,6 +24222,7 @@
       <name><languageId>km</languageId><trName>ឡុង​យ៉ា​ប៊ីយេន</trName></name>
       <name><languageId>kn</languageId><trName>ಲಾಂಗ್ಯೀರ್ಬೆನ್</trName></name>
       <name><languageId>ko</languageId><trName>롱이어비엔</trName></name>
+      <name><languageId>kok</languageId><trName>लोंगयेअरब्येन</trName></name>
       <name><languageId>ky</languageId><trName>Лонгйербиен</trName></name>
       <name><languageId>lo</languageId><trName>ລອງເຢຍບຽນ</trName></name>
       <name><languageId>lt</languageId><trName>Longjyrbienas</trName></name>
@@ -24177,6 +24327,7 @@
       <name><languageId>km</languageId><trName>ឡតហូវ៉េ</trName></name>
       <name><languageId>kn</languageId><trName>ಲಾರ್ಡ್ ಹೋವ್</trName></name>
       <name><languageId>ko</languageId><trName>로드 하우</trName></name>
+      <name><languageId>kok</languageId><trName>लॉर्ड होवे</trName></name>
       <name><languageId>ks</languageId><trName>لعاڑ ہووے</trName></name>
       <name><languageId>ky</languageId><trName>Лорд Хау</trName></name>
       <name><languageId>lo</languageId><trName>ໂລດໂຮວີ</trName></name>
@@ -24605,6 +24756,7 @@
       <name><languageId>km</languageId><trName>លូអង់ដា</trName></name>
       <name><languageId>kn</languageId><trName>ಲುವಾಂಡಾ</trName></name>
       <name><languageId>ko</languageId><trName>루안다</trName></name>
+      <name><languageId>kok</languageId><trName>लुआंडा</trName></name>
       <name><languageId>ks</languageId><trName>لُعؠنڑا</trName></name>
       <name><languageId>ky</languageId><trName>Луанда</trName></name>
       <name><languageId>lo</languageId><trName>ລວນດາ</trName></name>
@@ -24711,6 +24863,7 @@
       <name><languageId>km</languageId><trName>លូប៊ុមបាស៊ី</trName></name>
       <name><languageId>kn</languageId><trName>ಲುಬುಂಬಾಶಿ</trName></name>
       <name><languageId>ko</languageId><trName>루붐바시</trName></name>
+      <name><languageId>kok</languageId><trName>लुबुमबाशी</trName></name>
       <name><languageId>ks</languageId><trName>لُبُمباشی</trName></name>
       <name><languageId>ky</languageId><trName>Лубумбаши</trName></name>
       <name><languageId>lo</languageId><trName>ລູບຳບາຊິ</trName></name>
@@ -24817,6 +24970,7 @@
       <name><languageId>km</languageId><trName>លូសាកា</trName></name>
       <name><languageId>kn</languageId><trName>ಲುಸಾಕಾ</trName></name>
       <name><languageId>ko</languageId><trName>루사카</trName></name>
+      <name><languageId>kok</languageId><trName>लुसाका</trName></name>
       <name><languageId>ks</languageId><trName>لُساکا</trName></name>
       <name><languageId>ky</languageId><trName>Лусака</trName></name>
       <name><languageId>lo</languageId><trName>ລູຊາກາ</trName></name>
@@ -24930,6 +25084,7 @@
       <name><languageId>km</languageId><trName>លុចសំបួ</trName></name>
       <name><languageId>kn</languageId><trName>ಲಕ್ಸೆಂಬರ್ಗ್</trName></name>
       <name><languageId>ko</languageId><trName>룩셈부르크</trName></name>
+      <name><languageId>kok</languageId><trName>लक्सेमबर्ग</trName></name>
       <name><languageId>ks</languageId><trName>لَکزٕمبٔرگ</trName></name>
       <name><languageId>ksh</languageId><trName>Luxembursch</trName></name>
       <name><languageId>ky</languageId><trName>Люксембург</trName></name>
@@ -25041,6 +25196,7 @@
       <name><languageId>km</languageId><trName>ម៉ាកាវ</trName></name>
       <name><languageId>kn</languageId><trName>ಮಕಾವು</trName></name>
       <name><languageId>ko</languageId><trName>마카오</trName></name>
+      <name><languageId>kok</languageId><trName>मकाव</trName></name>
       <name><languageId>ks</languageId><trName>مقاؤں</trName></name>
       <name><languageId>ky</languageId><trName>Макау</trName></name>
       <name><languageId>lb</languageId><trName>Macau</trName></name>
@@ -25255,6 +25411,7 @@
       <name><languageId>km</languageId><trName>ម៉ាកខ្វារី</trName></name>
       <name><languageId>kn</languageId><trName>ಮ್ಯಾಕ್ವೆರಿ</trName></name>
       <name><languageId>ko</languageId><trName>맥쿼리</trName></name>
+      <name><languageId>kok</languageId><trName>मॅक्वेरी</trName></name>
       <name><languageId>ky</languageId><trName>Маккуори</trName></name>
       <name><languageId>lo</languageId><trName>ແມັກຄົວຣີ</trName></name>
       <name><languageId>lt</languageId><trName>Makvoris</trName></name>
@@ -25361,6 +25518,7 @@
       <name><languageId>km</languageId><trName>ម៉ាដៀរ៉ា</trName></name>
       <name><languageId>kn</languageId><trName>ಮೆಡಿರಾ</trName></name>
       <name><languageId>ko</languageId><trName>마데이라</trName></name>
+      <name><languageId>kok</languageId><trName>मदिरा</trName></name>
       <name><languageId>ks</languageId><trName>مَڈیٖرا</trName></name>
       <name><languageId>ky</languageId><trName>Мадейра</trName></name>
       <name><languageId>lo</languageId><trName>ມາເດຣາ</trName></name>
@@ -25469,6 +25627,7 @@
       <name><languageId>km</languageId><trName>ម៉ាឌ្រីដ</trName></name>
       <name><languageId>kn</languageId><trName>ಮ್ಯಾಡ್ರಿಡ್</trName></name>
       <name><languageId>ko</languageId><trName>마드리드</trName></name>
+      <name><languageId>kok</languageId><trName>माद्रीद</trName></name>
       <name><languageId>ks</languageId><trName>میڑرِڑ</trName></name>
       <name><languageId>ky</languageId><trName>Мадрид</trName></name>
       <name><languageId>lo</languageId><trName>ມາດຣິດ</trName></name>
@@ -25575,6 +25734,7 @@
       <name><languageId>km</languageId><trName>ម៉ាហ្គាដាន</trName></name>
       <name><languageId>kn</languageId><trName>ಮಗದನ್‌</trName></name>
       <name><languageId>ko</languageId><trName>마가단</trName></name>
+      <name><languageId>kok</languageId><trName>मगादान</trName></name>
       <name><languageId>ks</languageId><trName>مَگادَن</trName></name>
       <name><languageId>ky</languageId><trName>Магадан</trName></name>
       <name><languageId>lo</languageId><trName>ມາກາແດນ</trName></name>
@@ -25681,6 +25841,7 @@
       <name><languageId>km</languageId><trName>ម៉ាហេ</trName></name>
       <name><languageId>kn</languageId><trName>ಮಾಹೆ</trName></name>
       <name><languageId>ko</languageId><trName>마헤</trName></name>
+      <name><languageId>kok</languageId><trName>माहे</trName></name>
       <name><languageId>ks</languageId><trName>ماہیے</trName></name>
       <name><languageId>ky</languageId><trName>Маэ</trName></name>
       <name><languageId>lo</languageId><trName>ມາເຮ</trName></name>
@@ -25787,6 +25948,7 @@
       <name><languageId>km</languageId><trName>ម៉ាហ្សូរ៉ូ</trName></name>
       <name><languageId>kn</languageId><trName>ಮಜುರೊ</trName></name>
       <name><languageId>ko</languageId><trName>마주로</trName></name>
+      <name><languageId>kok</languageId><trName>माजुरो</trName></name>
       <name><languageId>ks</languageId><trName>مَجوٗرو</trName></name>
       <name><languageId>ky</languageId><trName>Мажуро</trName></name>
       <name><languageId>lo</languageId><trName>ມາຈູໂຣ</trName></name>
@@ -25892,6 +26054,7 @@
       <name><languageId>km</languageId><trName>ម៉ាកាសសារ</trName></name>
       <name><languageId>kn</languageId><trName>ಮೆಕಾಸ್ಸರ್</trName></name>
       <name><languageId>ko</languageId><trName>마카사르</trName></name>
+      <name><languageId>kok</languageId><trName>मकास्सार</trName></name>
       <name><languageId>ks</languageId><trName>مَکَسَر</trName></name>
       <name><languageId>ky</languageId><trName>Макассар</trName></name>
       <name><languageId>lo</languageId><trName>ມາກາສຊາ</trName></name>
@@ -26000,6 +26163,7 @@
       <name><languageId>km</languageId><trName>ម៉ាឡាបូ</trName></name>
       <name><languageId>kn</languageId><trName>ಮಲಾಬೋ</trName></name>
       <name><languageId>ko</languageId><trName>말라보</trName></name>
+      <name><languageId>kok</languageId><trName>मलाबो</trName></name>
       <name><languageId>ks</languageId><trName>مالابو</trName></name>
       <name><languageId>ky</languageId><trName>Малабо</trName></name>
       <name><languageId>lo</languageId><trName>ມາລາໂບ</trName></name>
@@ -26112,6 +26276,7 @@
       <name><languageId>km</languageId><trName>ម៉ាល់ឌីវ</trName></name>
       <name><languageId>kn</languageId><trName>ಮಾಲ್ಡೀವ್ಸ್</trName></name>
       <name><languageId>ko</languageId><trName>몰디브</trName></name>
+      <name><languageId>kok</languageId><trName>मालदीव</trName></name>
       <name><languageId>ks</languageId><trName>مالدیٖوز</trName></name>
       <name><languageId>ksh</languageId><trName>Malldive</trName></name>
       <name><languageId>ky</languageId><trName>Мальдив аралдары</trName></name>
@@ -26223,6 +26388,7 @@
       <name><languageId>km</languageId><trName>ម៉ាល់ត៍</trName></name>
       <name><languageId>kn</languageId><trName>ಮಾಲ್ಟಾ</trName></name>
       <name><languageId>ko</languageId><trName>몰타</trName></name>
+      <name><languageId>kok</languageId><trName>माल्टा</trName></name>
       <name><languageId>ks</languageId><trName>مالٹا</trName></name>
       <name><languageId>ky</languageId><trName>Мальта</trName></name>
       <name><languageId>lo</languageId><trName>ມອລຕາ</trName></name>
@@ -26544,6 +26710,7 @@
       <name><languageId>km</languageId><trName>ម៉ានីល</trName></name>
       <name><languageId>kn</languageId><trName>ಮನಿಲಾ</trName></name>
       <name><languageId>ko</languageId><trName>마닐라</trName></name>
+      <name><languageId>kok</languageId><trName>मनिला</trName></name>
       <name><languageId>ks</languageId><trName>مَنیٖلا</trName></name>
       <name><languageId>ky</languageId><trName>Манила</trName></name>
       <name><languageId>lo</languageId><trName>ມານີລາ</trName></name>
@@ -26650,6 +26817,7 @@
       <name><languageId>km</languageId><trName>ម៉ាពុយតូ</trName></name>
       <name><languageId>kn</languageId><trName>ಮ್ಯಾಪುಟೊ</trName></name>
       <name><languageId>ko</languageId><trName>마푸토</trName></name>
+      <name><languageId>kok</languageId><trName>मापुटो</trName></name>
       <name><languageId>ks</languageId><trName>مَپوٗٹو</trName></name>
       <name><languageId>ky</languageId><trName>Мапуто</trName></name>
       <name><languageId>lo</languageId><trName>ມາປູໂຕ</trName></name>
@@ -26868,6 +27036,7 @@
       <name><languageId>km</languageId><trName>ម៉ារៀហាំ</trName></name>
       <name><languageId>kn</languageId><trName>ಮರಿಹಮ್ನ್</trName></name>
       <name><languageId>ko</languageId><trName>마리에함</trName></name>
+      <name><languageId>kok</languageId><trName>मॅरीहाम्न</trName></name>
       <name><languageId>ky</languageId><trName>Мариехамн</trName></name>
       <name><languageId>lo</languageId><trName>ມາຣີແຮມນ໌</trName></name>
       <name><languageId>lt</languageId><trName>Marianhamina</trName></name>
@@ -27078,6 +27247,7 @@
       <name><languageId>km</languageId><trName>ម៉ាហ្គីសាស</trName></name>
       <name><languageId>kn</languageId><trName>ಮಾರ್ಕ್ಯೂಸಸ್</trName></name>
       <name><languageId>ko</languageId><trName>마퀘사스</trName></name>
+      <name><languageId>kok</languageId><trName>मार्किसस</trName></name>
       <name><languageId>ks</languageId><trName>مارکیسَس</trName></name>
       <name><languageId>ky</languageId><trName>Маркезас</trName></name>
       <name><languageId>lo</languageId><trName>ມາຄິວຊາສ</trName></name>
@@ -27293,6 +27463,7 @@
       <name><languageId>km</languageId><trName>ម៉ាសេរុយ</trName></name>
       <name><languageId>kn</languageId><trName>ಮಸೇರು</trName></name>
       <name><languageId>ko</languageId><trName>마세루</trName></name>
+      <name><languageId>kok</languageId><trName>मासेरु</trName></name>
       <name><languageId>ks</languageId><trName>مَسیروٗ</trName></name>
       <name><languageId>ky</languageId><trName>Масеру</trName></name>
       <name><languageId>lo</languageId><trName>ມາເຊຣູ</trName></name>
@@ -27505,6 +27676,7 @@
       <name><languageId>km</languageId><trName>ម៉ូរីស</trName></name>
       <name><languageId>kn</languageId><trName>ಮಾರಿಷಸ್</trName></name>
       <name><languageId>ko</languageId><trName>모리셔스</trName></name>
+      <name><languageId>kok</languageId><trName>मॉरिशस</trName></name>
       <name><languageId>ks</languageId><trName>مورِشیس</trName></name>
       <name><languageId>ky</languageId><trName>Маврикий</trName></name>
       <name><languageId>lo</languageId><trName>ເມົາຣິທຽສ</trName></name>
@@ -27611,6 +27783,7 @@
       <name><languageId>km</languageId><trName>ម៉ៅសាន់</trName></name>
       <name><languageId>kn</languageId><trName>ಮಾವ್ಸನ್</trName></name>
       <name><languageId>ko</languageId><trName>모슨</trName></name>
+      <name><languageId>kok</languageId><trName>मॉसन</trName></name>
       <name><languageId>ks</languageId><trName>ماسَن</trName></name>
       <name><languageId>ky</languageId><trName>Моусон</trName></name>
       <name><languageId>lo</languageId><trName>ເມົາຊັນ</trName></name>
@@ -27718,6 +27891,7 @@
       <name><languageId>km</languageId><trName>ម៉ាយុត</trName></name>
       <name><languageId>kn</languageId><trName>ಮಯೊಟ್ಟೆ</trName></name>
       <name><languageId>ko</languageId><trName>메요트</trName></name>
+      <name><languageId>kok</languageId><trName>मेयोट</trName></name>
       <name><languageId>ks</languageId><trName>میوٹ</trName></name>
       <name><languageId>ky</languageId><trName>Майотт</trName></name>
       <name><languageId>lo</languageId><trName>ມາຢັອດເຕ</trName></name>
@@ -27933,6 +28107,7 @@
       <name><languageId>km</languageId><trName>បាបាន</trName></name>
       <name><languageId>kn</languageId><trName>ಅಂಬಬಾನೆ</trName></name>
       <name><languageId>ko</languageId><trName>음바바네</trName></name>
+      <name><languageId>kok</languageId><trName>एमबाबेन</trName></name>
       <name><languageId>ks</languageId><trName>مابین</trName></name>
       <name><languageId>ky</languageId><trName>Мбабане</trName></name>
       <name><languageId>lo</languageId><trName>ອຳບາບາເນ</trName></name>
@@ -28037,6 +28212,7 @@
       <name><languageId>km</languageId><trName>ម៉ាក់មុយដូ</trName></name>
       <name><languageId>kn</languageId><trName>ಮ್ಯಾಕ್‍ಮುರ್ಡೊ</trName></name>
       <name><languageId>ko</languageId><trName>맥머도</trName></name>
+      <name><languageId>kok</languageId><trName>मॅकमुर्दो</trName></name>
       <name><languageId>ks</languageId><trName>مؠک مٲڑو</trName></name>
       <name><languageId>ky</languageId><trName>МакМёрдо</trName></name>
       <name><languageId>lo</languageId><trName>ແມັກມົວໂດ</trName></name>
@@ -28144,6 +28320,7 @@
       <name><languageId>km</languageId><trName>ម៉ែលប៊ើន</trName></name>
       <name><languageId>kn</languageId><trName>ಮೆಲ್ಬರ್ನ್</trName></name>
       <name><languageId>ko</languageId><trName>멜버른</trName></name>
+      <name><languageId>kok</languageId><trName>मेलबर्न</trName></name>
       <name><languageId>ks</languageId><trName>مٮ۪لبعارن</trName></name>
       <name><languageId>ky</languageId><trName>Мелбурн</trName></name>
       <name><languageId>lo</languageId><trName>ເມວເບິຣນ</trName></name>
@@ -28793,6 +28970,7 @@
       <name><languageId>km</languageId><trName>មីតវ៉េ</trName></name>
       <name><languageId>kn</languageId><trName>ಮಿಡ್‌ವೇ</trName></name>
       <name><languageId>ko</languageId><trName>미드웨이</trName></name>
+      <name><languageId>kok</languageId><trName>मिडवे</trName></name>
       <name><languageId>ks</languageId><trName>مِڈویے</trName></name>
       <name><languageId>ky</languageId><trName>Мидуэй</trName></name>
       <name><languageId>lo</languageId><trName>ມິດເວ</trName></name>
@@ -28901,6 +29079,7 @@
       <name><languageId>km</languageId><trName>មីនស្កិ៍</trName></name>
       <name><languageId>kn</languageId><trName>ಮಿನ್‌ಸ್ಕ್</trName></name>
       <name><languageId>ko</languageId><trName>민스크</trName></name>
+      <name><languageId>kok</languageId><trName>मिंस्क</trName></name>
       <name><languageId>ks</languageId><trName>مِنسک</trName></name>
       <name><languageId>ky</languageId><trName>Минск</trName></name>
       <name><languageId>lo</languageId><trName>ມິນສກ໌</trName></name>
@@ -29120,6 +29299,7 @@
       <name><languageId>km</languageId><trName>ម៉ូហ្គាឌីស្យូ</trName></name>
       <name><languageId>kn</languageId><trName>ಮೊಗಾದಿಶು</trName></name>
       <name><languageId>ko</languageId><trName>모가디슈</trName></name>
+      <name><languageId>kok</languageId><trName>मोगादिशू</trName></name>
       <name><languageId>ks</languageId><trName>موگادِشوٗ</trName></name>
       <name><languageId>ky</languageId><trName>Могадишу</trName></name>
       <name><languageId>lb</languageId><trName>Mogadischu</trName></name>
@@ -29232,6 +29412,7 @@
       <name><languageId>km</languageId><trName>ម៉ូណាកូ</trName></name>
       <name><languageId>kn</languageId><trName>ಮೊನಾಕೊ</trName></name>
       <name><languageId>ko</languageId><trName>모나코</trName></name>
+      <name><languageId>kok</languageId><trName>मोनॅको</trName></name>
       <name><languageId>ks</languageId><trName>موناکو</trName></name>
       <name><languageId>ky</languageId><trName>Монако</trName></name>
       <name><languageId>lo</languageId><trName>ໂມນາໂຄ</trName></name>
@@ -29445,6 +29626,7 @@
       <name><languageId>km</languageId><trName>ម៉ុងរ៉ូវីយ៉ា</trName></name>
       <name><languageId>kn</languageId><trName>ಮೊನ್ರೋವಿಯಾ</trName></name>
       <name><languageId>ko</languageId><trName>몬로비아</trName></name>
+      <name><languageId>kok</languageId><trName>मोनरोविया</trName></name>
       <name><languageId>ks</languageId><trName>مونرووِیا</trName></name>
       <name><languageId>ky</languageId><trName>Монровиа</trName></name>
       <name><languageId>lo</languageId><trName>ມອນໂຣເວຍ</trName></name>
@@ -30079,6 +30261,7 @@
       <name><languageId>km</languageId><trName>មូស្គូ</trName></name>
       <name><languageId>kn</languageId><trName>ಮಾಸ್ಕೋ</trName></name>
       <name><languageId>ko</languageId><trName>모스크바</trName></name>
+      <name><languageId>kok</languageId><trName>मॉस्को</trName></name>
       <name><languageId>ks</languageId><trName>ماسکو</trName></name>
       <name><languageId>ksh</languageId><trName>Moskau</trName></name>
       <name><languageId>ky</languageId><trName>Москва</trName></name>
@@ -30276,6 +30459,7 @@
       <name><languageId>km</languageId><trName>ម៉ាស្កាត</trName></name>
       <name><languageId>kn</languageId><trName>ಮಸ್ಕಟ್</trName></name>
       <name><languageId>ko</languageId><trName>무스카트</trName></name>
+      <name><languageId>kok</languageId><trName>मस्कट</trName></name>
       <name><languageId>ks</languageId><trName>مَسکَت</trName></name>
       <name><languageId>ky</languageId><trName>Мускат</trName></name>
       <name><languageId>lb</languageId><trName>Muskat</trName></name>
@@ -30385,6 +30569,7 @@
       <name><languageId>km</languageId><trName>ណៃរ៉ូប៊ី</trName></name>
       <name><languageId>kn</languageId><trName>ನೈರೋಬಿ</trName></name>
       <name><languageId>ko</languageId><trName>나이로비</trName></name>
+      <name><languageId>kok</languageId><trName>नायरोबी</trName></name>
       <name><languageId>ks</languageId><trName>نیروبی</trName></name>
       <name><languageId>ky</languageId><trName>Найроби</trName></name>
       <name><languageId>lo</languageId><trName>ໄນໂຣບີ</trName></name>
@@ -30601,6 +30786,7 @@
       <name><languageId>km</languageId><trName>ណូរូ</trName></name>
       <name><languageId>kn</languageId><trName>ನೌರು</trName></name>
       <name><languageId>ko</languageId><trName>나우루</trName></name>
+      <name><languageId>kok</languageId><trName>नावरू</trName></name>
       <name><languageId>ks</languageId><trName>ناوروٗ</trName></name>
       <name><languageId>ky</languageId><trName>Науру</trName></name>
       <name><languageId>lo</languageId><trName>ນາອູຣູ</trName></name>
@@ -30708,6 +30894,7 @@
       <name><languageId>km</languageId><trName>ដ្យាមេណា</trName></name>
       <name><languageId>kn</languageId><trName>ಡ್ಜಮೇನಾ</trName></name>
       <name><languageId>ko</languageId><trName>엔자메나</trName></name>
+      <name><languageId>kok</languageId><trName>एनजामेना</trName></name>
       <name><languageId>ks</languageId><trName>جَمیٖنا</trName></name>
       <name><languageId>ky</languageId><trName>Нжамена</trName></name>
       <name><languageId>lo</languageId><trName>ເອນຈາເມນ່າ</trName></name>
@@ -30798,6 +30985,7 @@
       <name><languageId>gd</languageId><trName>New Salem, North Dakota</trName></name>
       <name><languageId>gl</languageId><trName>New Salem</trName></name>
       <name><languageId>gu</languageId><trName>નવું સેલમ</trName></name>
+      <name><languageId>ha</languageId><trName>New Salem, Arewacin Dakota</trName></name>
       <name><languageId>he</languageId><trName>ניו סיילם</trName></name>
       <name><languageId>hi</languageId><trName>न्यू सालेम</trName></name>
       <name><languageId>hr</languageId><trName>New Salem</trName></name>
@@ -31036,6 +31224,7 @@
       <name><languageId>km</languageId><trName>នីញ៉ាម៉េ</trName></name>
       <name><languageId>kn</languageId><trName>ನಿಯಾಮೆ</trName></name>
       <name><languageId>ko</languageId><trName>니아메</trName></name>
+      <name><languageId>kok</languageId><trName>नियामी</trName></name>
       <name><languageId>ks</languageId><trName>نَیمیے</trName></name>
       <name><languageId>ky</languageId><trName>Нйаме</trName></name>
       <name><languageId>lo</languageId><trName>ນີອາເມ</trName></name>
@@ -31144,6 +31333,7 @@
       <name><languageId>km</languageId><trName>នីកូស៊ី</trName></name>
       <name><languageId>kn</languageId><trName>ನಿಕೋಸಿಯಾ</trName></name>
       <name><languageId>ko</languageId><trName>니코시아</trName></name>
+      <name><languageId>kok</languageId><trName>निकोसिया</trName></name>
       <name><languageId>ks</languageId><trName>نِکوسِیا</trName></name>
       <name><languageId>ksh</languageId><trName>Nikosija</trName></name>
       <name><languageId>ky</languageId><trName>Никосия</trName></name>
@@ -31360,6 +31550,7 @@
       <name><languageId>km</languageId><trName>នីវ៉េ</trName></name>
       <name><languageId>kn</languageId><trName>ನಿಯು</trName></name>
       <name><languageId>ko</languageId><trName>니우에</trName></name>
+      <name><languageId>kok</languageId><trName>नीयू</trName></name>
       <name><languageId>ks</languageId><trName>نِو</trName></name>
       <name><languageId>ky</languageId><trName>Ниуэ</trName></name>
       <name><languageId>lo</languageId><trName>ນີອູເອ</trName></name>
@@ -31573,6 +31764,7 @@
       <name><languageId>km</languageId><trName>ណ័រហ្វុក</trName></name>
       <name><languageId>kn</languageId><trName>ನಾರ್ಫೋಕ್</trName></name>
       <name><languageId>ko</languageId><trName>노퍽</trName></name>
+      <name><languageId>kok</languageId><trName>नॉरफोक</trName></name>
       <name><languageId>ks</languageId><trName>نورفوک</trName></name>
       <name><languageId>ky</languageId><trName>Норфолк</trName></name>
       <name><languageId>lo</languageId><trName>ນໍຟອລ໌ກ</trName></name>
@@ -31864,6 +32056,7 @@
       <name><languageId>km</languageId><trName>ណួកសុត</trName></name>
       <name><languageId>kn</languageId><trName>ನೌಕ್‌ಚೋಟ್ಟ್</trName></name>
       <name><languageId>ko</languageId><trName>누악쇼트</trName></name>
+      <name><languageId>kok</languageId><trName>नवाकसुत</trName></name>
       <name><languageId>ks</languageId><trName>نوواکچھوت</trName></name>
       <name><languageId>ky</languageId><trName>Нуакшот</trName></name>
       <name><languageId>lo</languageId><trName>ນູແອກຊອດ</trName></name>
@@ -31971,6 +32164,7 @@
       <name><languageId>km</languageId><trName>ណូមៀ</trName></name>
       <name><languageId>kn</languageId><trName>ನ್ಯೂಮಿಯಾ</trName></name>
       <name><languageId>ko</languageId><trName>누메아</trName></name>
+      <name><languageId>kok</languageId><trName>नूमेआ</trName></name>
       <name><languageId>ks</languageId><trName>نومیی</trName></name>
       <name><languageId>ky</languageId><trName>Нумеа</trName></name>
       <name><languageId>lo</languageId><trName>ນູເມອາ</trName></name>
@@ -32080,6 +32274,7 @@
       <name><languageId>km</languageId><trName>ណូវ៉ូឃូសណេតស្កិ៍</trName></name>
       <name><languageId>kn</languageId><trName>ನೋವೋಕುಜೆ</trName></name>
       <name><languageId>ko</languageId><trName>노보쿠즈네츠크</trName></name>
+      <name><languageId>kok</languageId><trName>नोवोकुझनेत्स्क</trName></name>
       <name><languageId>ky</languageId><trName>Новокузнецк</trName></name>
       <name><languageId>lo</languageId><trName>ໂນໂວຄຸສເນັດ</trName></name>
       <name><languageId>lt</languageId><trName>Novokuzneckas</trName></name>
@@ -32189,6 +32384,7 @@
       <name><languageId>km</languageId><trName>ណូវ៉ូស៊ីប៊ឺក</trName></name>
       <name><languageId>kn</languageId><trName>ನೊವೋಸಿಬಿಸ್ಕ್</trName></name>
       <name><languageId>ko</languageId><trName>노보시비르스크</trName></name>
+      <name><languageId>kok</languageId><trName>नोवोसिबिर्स्क</trName></name>
       <name><languageId>ks</languageId><trName>نوووسِبِرسک</trName></name>
       <name><languageId>ky</languageId><trName>Новосибирск</trName></name>
       <name><languageId>lb</languageId><trName>Nowosibirsk</trName></name>
@@ -32403,6 +32599,7 @@
       <name><languageId>km</languageId><trName>អូមស្កិ៍</trName></name>
       <name><languageId>kn</languageId><trName>ಒಮ್ಸ್ಕ್</trName></name>
       <name><languageId>ko</languageId><trName>옴스크</trName></name>
+      <name><languageId>kok</languageId><trName>ओम्स्क</trName></name>
       <name><languageId>ks</languageId><trName>اومسک</trName></name>
       <name><languageId>ky</languageId><trName>Омск</trName></name>
       <name><languageId>lo</languageId><trName>ອອມສຄ໌</trName></name>
@@ -32509,6 +32706,7 @@
       <name><languageId>km</languageId><trName>អូរ៉ាល់</trName></name>
       <name><languageId>kn</languageId><trName>ಒರಲ್</trName></name>
       <name><languageId>ko</languageId><trName>오랄</trName></name>
+      <name><languageId>kok</languageId><trName>ओरल</trName></name>
       <name><languageId>ks</languageId><trName>اورَل</trName></name>
       <name><languageId>ky</languageId><trName>Орал</trName></name>
       <name><languageId>lo</languageId><trName>ອໍຣໍ</trName></name>
@@ -32616,6 +32814,7 @@
       <name><languageId>km</languageId><trName>អូស្លូ</trName></name>
       <name><languageId>kn</languageId><trName>ಓಸ್ಲೋ</trName></name>
       <name><languageId>ko</languageId><trName>오슬로</trName></name>
+      <name><languageId>kok</languageId><trName>ओस्लो</trName></name>
       <name><languageId>ks</languageId><trName>اوسلو</trName></name>
       <name><languageId>ky</languageId><trName>Осло</trName></name>
       <name><languageId>lo</languageId><trName>ອອສໂລ</trName></name>
@@ -32725,6 +32924,7 @@
       <name><languageId>km</languageId><trName>អៅហ្គាឌូហ្គូ</trName></name>
       <name><languageId>kn</languageId><trName>ಔಗಾಡೋಗು</trName></name>
       <name><languageId>ko</languageId><trName>와가두구</trName></name>
+      <name><languageId>kok</languageId><trName>ओगादौगो</trName></name>
       <name><languageId>ks</languageId><trName>اوآگدوگو</trName></name>
       <name><languageId>ky</languageId><trName>Уагадугу</trName></name>
       <name><languageId>lb</languageId><trName>Wagadugu</trName></name>
@@ -32913,6 +33113,7 @@
       <name><languageId>km</languageId><trName>ប៉ាហ្គោ ប៉ាហ្គោ</trName></name>
       <name><languageId>kn</languageId><trName>ಪಾಗೊ ಪಾಗೊ</trName></name>
       <name><languageId>ko</languageId><trName>파고파고</trName></name>
+      <name><languageId>kok</languageId><trName>पागो पागो</trName></name>
       <name><languageId>ks</languageId><trName>پیگو پیگو</trName></name>
       <name><languageId>ky</languageId><trName>Паго Паго</trName></name>
       <name><languageId>lo</languageId><trName>ປາໂກປາໂກ</trName></name>
@@ -33020,6 +33221,7 @@
       <name><languageId>km</languageId><trName>ប៉ាឡៅ</trName></name>
       <name><languageId>kn</languageId><trName>ಪಾಲಾವ್</trName></name>
       <name><languageId>ko</languageId><trName>팔라우</trName></name>
+      <name><languageId>kok</languageId><trName>पलाऊ</trName></name>
       <name><languageId>ks</languageId><trName>پَلاو</trName></name>
       <name><languageId>ky</languageId><trName>Палау</trName></name>
       <name><languageId>lo</languageId><trName>ປາເລົາ</trName></name>
@@ -33126,6 +33328,7 @@
       <name><languageId>km</languageId><trName>ផាល់ម័រ</trName></name>
       <name><languageId>kn</languageId><trName>ಪಾಲ್ಮರ್</trName></name>
       <name><languageId>ko</languageId><trName>파머</trName></name>
+      <name><languageId>kok</languageId><trName>पाल्मेर</trName></name>
       <name><languageId>ks</languageId><trName>پامَر</trName></name>
       <name><languageId>ky</languageId><trName>Палмер</trName></name>
       <name><languageId>lo</languageId><trName>ພາມເມີ</trName></name>
@@ -33559,6 +33762,7 @@
       <name><languageId>km</languageId><trName>ប៉ារីស</trName></name>
       <name><languageId>kn</languageId><trName>ಪ್ಯಾರಿಸ್</trName></name>
       <name><languageId>ko</languageId><trName>파리</trName></name>
+      <name><languageId>kok</languageId><trName>पॅरिस</trName></name>
       <name><languageId>ks</languageId><trName>پیرِس</trName></name>
       <name><languageId>ky</languageId><trName>Париж</trName></name>
       <name><languageId>lo</languageId><trName>ປາຣີສ</trName></name>
@@ -33664,6 +33868,7 @@
       <name><languageId>km</languageId><trName>ភឺធ</trName></name>
       <name><languageId>kn</languageId><trName>ಪರ್ಥ್</trName></name>
       <name><languageId>ko</languageId><trName>퍼스</trName></name>
+      <name><languageId>kok</languageId><trName>पर्थ</trName></name>
       <name><languageId>ks</languageId><trName>پٔرتھ</trName></name>
       <name><languageId>ky</languageId><trName>Перт</trName></name>
       <name><languageId>lo</languageId><trName>ເພີດ</trName></name>
@@ -33884,6 +34089,7 @@
       <name><languageId>km</languageId><trName>ភ្នំពេញ</trName></name>
       <name><languageId>kn</languageId><trName>ನೋಮ್ ಪೆನ್</trName></name>
       <name><languageId>ko</languageId><trName>프놈펜</trName></name>
+      <name><languageId>kok</languageId><trName>फ्नोम पेन्ह</trName></name>
       <name><languageId>ks</languageId><trName>نوم پؠنہہ</trName></name>
       <name><languageId>ksh</languageId><trName>Pnom Penh</trName></name>
       <name><languageId>ky</languageId><trName>Пномпень</trName></name>
@@ -34097,6 +34303,7 @@
       <name><languageId>km</languageId><trName>ភីតខៃរ៉ិន</trName></name>
       <name><languageId>kn</languageId><trName>ಪಿಟ್‌ಕೈರ್ನ್</trName></name>
       <name><languageId>ko</languageId><trName>핏케언</trName></name>
+      <name><languageId>kok</languageId><trName>पिटकॅरन</trName></name>
       <name><languageId>ks</languageId><trName>پِٹکیرَن</trName></name>
       <name><languageId>ksh</languageId><trName>Pitkern</trName></name>
       <name><languageId>ky</languageId><trName>Питкэрн</trName></name>
@@ -34204,6 +34411,7 @@
       <name><languageId>km</languageId><trName>ប៉ូដហ្គោរីកា</trName></name>
       <name><languageId>kn</languageId><trName>ಪೊಡ್ಗೊರಿಕ</trName></name>
       <name><languageId>ko</languageId><trName>포드고리차</trName></name>
+      <name><languageId>kok</languageId><trName>पॉडगोरिका</trName></name>
       <name><languageId>ky</languageId><trName>Подгорица</trName></name>
       <name><languageId>lo</languageId><trName>ພອດກໍຣີກາ</trName></name>
       <name><languageId>lt</languageId><trName>Podgorica</trName></name>
@@ -34311,6 +34519,7 @@
       <name><languageId>km</languageId><trName>ផុនប៉ី</trName></name>
       <name><languageId>kn</languageId><trName>ಪೋನ್‌ಪೆ</trName></name>
       <name><languageId>ko</languageId><trName>포나페</trName></name>
+      <name><languageId>kok</languageId><trName>पोह्नपेई</trName></name>
       <name><languageId>ks</languageId><trName>پوناپے</trName></name>
       <name><languageId>ky</languageId><trName>Понпей</trName></name>
       <name><languageId>lb</languageId><trName>Pohnpei</trName></name>
@@ -34418,6 +34627,7 @@
       <name><languageId>km</languageId><trName>ប៉ុនទីអាណាក់</trName></name>
       <name><languageId>kn</languageId><trName>ಪೊಂಟಿಯಾನಕ್</trName></name>
       <name><languageId>ko</languageId><trName>폰티아나크</trName></name>
+      <name><languageId>kok</languageId><trName>पोण्टीअनाक</trName></name>
       <name><languageId>ks</languageId><trName>پونتِعانک</trName></name>
       <name><languageId>ky</languageId><trName>Понтианак</trName></name>
       <name><languageId>lo</languageId><trName>ພອນເທຍນັກ</trName></name>
@@ -34630,6 +34840,7 @@
       <name><languageId>km</languageId><trName>ព័រម៉ូរេសប៊ី</trName></name>
       <name><languageId>kn</languageId><trName>ಪೋರ್ಟ್ ಮೋರಿಸ್‌ಬೈ</trName></name>
       <name><languageId>ko</languageId><trName>포트모르즈비</trName></name>
+      <name><languageId>kok</languageId><trName>पोर्ट मॉरेस्बी</trName></name>
       <name><languageId>ks</languageId><trName>پوٹ مورسبی</trName></name>
       <name><languageId>ky</languageId><trName>Порт Моэрсби</trName></name>
       <name><languageId>lo</languageId><trName>ພອດ ມໍເຣສບີ</trName></name>
@@ -34850,6 +35061,7 @@
       <name><languageId>km</languageId><trName>ព័រតូណូវ៉ូ</trName></name>
       <name><languageId>kn</languageId><trName>ಪೋರ್ಟೋ-ನೋವೋ</trName></name>
       <name><languageId>ko</languageId><trName>포르토노보</trName></name>
+      <name><languageId>kok</languageId><trName>पोर्टो-नोवो</trName></name>
       <name><languageId>ks</languageId><trName>پوٹو نووو</trName></name>
       <name><languageId>ky</languageId><trName>Порто-Ново</trName></name>
       <name><languageId>lo</languageId><trName>ປໍໂຕ-ໂນໂວ</trName></name>
@@ -35068,6 +35280,7 @@
       <name><languageId>km</languageId><trName>ប្រាក</trName></name>
       <name><languageId>kn</languageId><trName>ಪ್ರಾಗ್ವೆ</trName></name>
       <name><languageId>ko</languageId><trName>프라하</trName></name>
+      <name><languageId>kok</languageId><trName>प्राग</trName></name>
       <name><languageId>ksh</languageId><trName>Prag</trName></name>
       <name><languageId>ky</languageId><trName>Прага</trName></name>
       <name><languageId>lb</languageId><trName>Prag</trName></name>
@@ -35285,6 +35498,7 @@
       <name><languageId>km</languageId><trName>ព្យុងយ៉ាង</trName></name>
       <name><languageId>kn</languageId><trName>ಪ್ಯೊಂಗ್‍ಯಾಂಗ್</trName></name>
       <name><languageId>ko</languageId><trName>평양</trName></name>
+      <name><languageId>kok</languageId><trName>प्योंगयांग</trName></name>
       <name><languageId>ks</languageId><trName>پیونگیانگ</trName></name>
       <name><languageId>ky</languageId><trName>Пхеньян</trName></name>
       <name><languageId>lb</languageId><trName>Pjöngjang</trName></name>
@@ -35394,6 +35608,7 @@
       <name><languageId>km</languageId><trName>កាតា</trName></name>
       <name><languageId>kn</languageId><trName>ಖತಾರ್</trName></name>
       <name><languageId>ko</languageId><trName>카타르</trName></name>
+      <name><languageId>kok</languageId><trName>कतार</trName></name>
       <name><languageId>ks</languageId><trName>قَتَر</trName></name>
       <name><languageId>ky</languageId><trName>Катар</trName></name>
       <name><languageId>lb</languageId><trName>Katar</trName></name>
@@ -35501,6 +35716,7 @@
       <name><languageId>km</languageId><trName>គីហ្ស៊ីឡូដា</trName></name>
       <name><languageId>kn</languageId><trName>ಕಿಜೈಲೋರ್ದ</trName></name>
       <name><languageId>ko</languageId><trName>키질로르다</trName></name>
+      <name><languageId>kok</languageId><trName>क्य्ज्यलॉरडा</trName></name>
       <name><languageId>ks</languageId><trName>قؠزؠلوڑا</trName></name>
       <name><languageId>ksh</languageId><trName>Qysylorda</trName></name>
       <name><languageId>ky</languageId><trName>Кызылорда</trName></name>
@@ -35715,6 +35931,7 @@
       <name><languageId>km</languageId><trName>រ៉ង់ហ្គូន</trName></name>
       <name><languageId>kn</languageId><trName>ಯಾಂಗೊನ್</trName></name>
       <name><languageId>ko</languageId><trName>랑군</trName></name>
+      <name><languageId>kok</languageId><trName>यानगॉन</trName></name>
       <name><languageId>ks</languageId><trName>رنگوٗن</trName></name>
       <name><languageId>ksh</languageId><trName>Ranjun</trName></name>
       <name><languageId>ky</languageId><trName>Рангун</trName></name>
@@ -35929,6 +36146,7 @@
       <name><languageId>km</languageId><trName>រ៉ារ៉ូតុងហ្គា</trName></name>
       <name><languageId>kn</languageId><trName>ರರೋಟೋಂಗಾ</trName></name>
       <name><languageId>ko</languageId><trName>라로통가</trName></name>
+      <name><languageId>kok</languageId><trName>रारोटोंगा</trName></name>
       <name><languageId>ks</languageId><trName>راروٹونگا</trName></name>
       <name><languageId>ky</languageId><trName>Раготонга</trName></name>
       <name><languageId>lo</languageId><trName>ຣາໂຣຕອງກາ</trName></name>
@@ -36360,6 +36578,7 @@
       <name><languageId>km</languageId><trName>រេអ៊ុយ៉ុង</trName></name>
       <name><languageId>kn</languageId><trName>ರೀಯೂನಿಯನ್</trName></name>
       <name><languageId>ko</languageId><trName>레위니옹</trName></name>
+      <name><languageId>kok</languageId><trName>रियुनियन</trName></name>
       <name><languageId>ks</languageId><trName>رِیوٗنیَن</trName></name>
       <name><languageId>ky</languageId><trName>Реюнион</trName></name>
       <name><languageId>lb</languageId><trName>Réunion</trName></name>
@@ -36473,6 +36692,7 @@
       <name><languageId>km</languageId><trName>រ៉ៃក្យាវិក</trName></name>
       <name><languageId>kn</languageId><trName>ರೈಕ್ಜಾವಿಕ್</trName></name>
       <name><languageId>ko</languageId><trName>레이캬비크</trName></name>
+      <name><languageId>kok</languageId><trName>रिक्जेविक</trName></name>
       <name><languageId>ks</languageId><trName>رؠکیاوِک</trName></name>
       <name><languageId>ky</languageId><trName>Рейкьявик</trName></name>
       <name><languageId>lo</languageId><trName>ເຣກຢາວິກ</trName></name>
@@ -36582,6 +36802,7 @@
       <name><languageId>km</languageId><trName>រីហ្គា</trName></name>
       <name><languageId>kn</languageId><trName>ರಿಗಾ</trName></name>
       <name><languageId>ko</languageId><trName>리가</trName></name>
+      <name><languageId>kok</languageId><trName>रीगा</trName></name>
       <name><languageId>ks</languageId><trName>رِگا</trName></name>
       <name><languageId>ksh</languageId><trName>Riija</trName></name>
       <name><languageId>ky</languageId><trName>Рига</trName></name>
@@ -36906,6 +37127,7 @@
       <name><languageId>km</languageId><trName>រីយ៉ាដ</trName></name>
       <name><languageId>kn</languageId><trName>ರಿಯಾದ್</trName></name>
       <name><languageId>ko</languageId><trName>리야드</trName></name>
+      <name><languageId>kok</languageId><trName>रियाध</trName></name>
       <name><languageId>ks</languageId><trName>رِیاد</trName></name>
       <name><languageId>ksh</languageId><trName>Rijad</trName></name>
       <name><languageId>ky</languageId><trName>Рийад</trName></name>
@@ -37019,6 +37241,7 @@
       <name><languageId>km</languageId><trName>រ៉ូម</trName></name>
       <name><languageId>kn</languageId><trName>ರೋಮ್</trName></name>
       <name><languageId>ko</languageId><trName>로마</trName></name>
+      <name><languageId>kok</languageId><trName>रोम</trName></name>
       <name><languageId>ks</languageId><trName>روم</trName></name>
       <name><languageId>ksh</languageId><trName>Rom</trName></name>
       <name><languageId>ky</languageId><trName>Рим</trName></name>
@@ -37128,6 +37351,7 @@
       <name><languageId>km</languageId><trName>រ៉ូធីរ៉ា</trName></name>
       <name><languageId>kn</languageId><trName>ರೊಥೇರಾ</trName></name>
       <name><languageId>ko</languageId><trName>로데라</trName></name>
+      <name><languageId>kok</languageId><trName>रोथेरा</trName></name>
       <name><languageId>ks</languageId><trName>روتھیرا</trName></name>
       <name><languageId>ky</languageId><trName>Ротера</trName></name>
       <name><languageId>lo</languageId><trName>ໂຣເທຣາ</trName></name>
@@ -37234,6 +37458,7 @@
       <name><languageId>km</languageId><trName>សៃប៉ាន</trName></name>
       <name><languageId>kn</languageId><trName>ಸೈಪನ್</trName></name>
       <name><languageId>ko</languageId><trName>사이판</trName></name>
+      <name><languageId>kok</languageId><trName>सायपान</trName></name>
       <name><languageId>ks</languageId><trName>سَیپان</trName></name>
       <name><languageId>ky</languageId><trName>Сайпан</trName></name>
       <name><languageId>lo</languageId><trName>ໄຊປານ</trName></name>
@@ -37345,6 +37570,7 @@
       <name><languageId>km</languageId><trName>សាខាលីន</trName></name>
       <name><languageId>kn</languageId><trName>ಸಖಾಲಿನ್</trName></name>
       <name><languageId>ko</languageId><trName>사할린</trName></name>
+      <name><languageId>kok</languageId><trName>सखलिन</trName></name>
       <name><languageId>ks</languageId><trName>سَکھالِن</trName></name>
       <name><languageId>ky</languageId><trName>Сахалин</trName></name>
       <name><languageId>lb</languageId><trName>Sachalin</trName></name>
@@ -37559,6 +37785,7 @@
       <name><languageId>km</languageId><trName>សាម៉ារ៉ា</trName></name>
       <name><languageId>kn</languageId><trName>ಸಮರ</trName></name>
       <name><languageId>ko</languageId><trName>사마라</trName></name>
+      <name><languageId>kok</languageId><trName>समारा</trName></name>
       <name><languageId>ks</languageId><trName>سَمارا</trName></name>
       <name><languageId>ky</languageId><trName>Самара</trName></name>
       <name><languageId>lo</languageId><trName>ຊາມາຣາ</trName></name>
@@ -37664,6 +37891,7 @@
       <name><languageId>km</languageId><trName>សាម៉ាកាន់</trName></name>
       <name><languageId>kn</languageId><trName>ಸಮರಖಂಡ</trName></name>
       <name><languageId>ko</languageId><trName>사마르칸트</trName></name>
+      <name><languageId>kok</languageId><trName>समरकंद</trName></name>
       <name><languageId>ks</languageId><trName>سَمَرکَند</trName></name>
       <name><languageId>ky</languageId><trName>Самарканд</trName></name>
       <name><languageId>lo</languageId><trName>ຊາມາແຄນ</trName></name>
@@ -37984,6 +38212,7 @@
       <name><languageId>km</languageId><trName>សាំងម៉ារ៉ាំង</trName></name>
       <name><languageId>kn</languageId><trName>ಸ್ಯಾನ್ ಮರೀನೊ</trName></name>
       <name><languageId>ko</languageId><trName>산마리노</trName></name>
+      <name><languageId>kok</languageId><trName>सॅन मारीनो</trName></name>
       <name><languageId>ky</languageId><trName>Сан Марино</trName></name>
       <name><languageId>lo</languageId><trName>ຊານມາຣີໂນ</trName></name>
       <name><languageId>lt</languageId><trName>San Marinas</trName></name>
@@ -38617,6 +38846,7 @@
       <name><languageId>km</languageId><trName>សៅតូម៉េ</trName></name>
       <name><languageId>kn</languageId><trName>ಸಾವ್ ಟೊಮಿ</trName></name>
       <name><languageId>ko</languageId><trName>상투메</trName></name>
+      <name><languageId>kok</languageId><trName>साओ टोम</trName></name>
       <name><languageId>ks</languageId><trName>ساو ٹوم</trName></name>
       <name><languageId>ky</languageId><trName>Сао Томе</trName></name>
       <name><languageId>lb</languageId><trName>São Tomé</trName></name>
@@ -38726,6 +38956,7 @@
       <name><languageId>km</languageId><trName>សារ៉ាយ៉េវ៉ូ</trName></name>
       <name><languageId>kn</languageId><trName>ಸರಜೆವೊ</trName></name>
       <name><languageId>ko</languageId><trName>사라예보</trName></name>
+      <name><languageId>kok</languageId><trName>साराजिवो</trName></name>
       <name><languageId>ky</languageId><trName>Сараево</trName></name>
       <name><languageId>lo</languageId><trName>ຊາຣາເຢໂວ</trName></name>
       <name><languageId>lt</languageId><trName>Sarajevas</trName></name>
@@ -38943,6 +39174,7 @@
       <name><languageId>km</languageId><trName>សេអ៊ូល</trName></name>
       <name><languageId>kn</languageId><trName>ಸಿಯೋಲ್</trName></name>
       <name><languageId>ko</languageId><trName>서울</trName></name>
+      <name><languageId>kok</languageId><trName>सोल</trName></name>
       <name><languageId>ks</languageId><trName>سول</trName></name>
       <name><languageId>ky</languageId><trName>Сеул</trName></name>
       <name><languageId>lo</languageId><trName>ໂຊລ໌</trName></name>
@@ -39049,6 +39281,7 @@
       <name><languageId>km</languageId><trName>សៀងហៃ</trName></name>
       <name><languageId>kn</languageId><trName>ಶಾಂಘೈ</trName></name>
       <name><languageId>ko</languageId><trName>상하이</trName></name>
+      <name><languageId>kok</languageId><trName>शांघाय</trName></name>
       <name><languageId>ksh</languageId><trName>Schanghai</trName></name>
       <name><languageId>ky</languageId><trName>Шанхай</trName></name>
       <name><languageId>lo</languageId><trName>ຊ່ຽງໄຮ້</trName></name>
@@ -39235,6 +39468,7 @@
       <name><languageId>km</languageId><trName>ស៊ីមហ្វើរ៉ុប៉ូល</trName></name>
       <name><languageId>kn</languageId><trName>ಸಿಮ್ಫೆರೋಪೋಲ್</trName></name>
       <name><languageId>ko</languageId><trName>심페로폴</trName></name>
+      <name><languageId>kok</languageId><trName>सिमफरोपोल</trName></name>
       <name><languageId>ks</languageId><trName>سِمفیروپول</trName></name>
       <name><languageId>ky</languageId><trName>Симферополь</trName></name>
       <name><languageId>lo</languageId><trName>ຊີມເຟໂລໂປ</trName></name>
@@ -39344,6 +39578,7 @@
       <name><languageId>km</languageId><trName>សិង្ហបូរី</trName></name>
       <name><languageId>kn</languageId><trName>ಸಿಂಗಾಪೂರ್</trName></name>
       <name><languageId>ko</languageId><trName>싱가포르</trName></name>
+      <name><languageId>kok</languageId><trName>सिंगापूर</trName></name>
       <name><languageId>ks</languageId><trName>سِنگاپور</trName></name>
       <name><languageId>ksh</languageId><trName>Singjapuur</trName></name>
       <name><languageId>ky</languageId><trName>Сингапур</trName></name>
@@ -39557,6 +39792,7 @@
       <name><languageId>km</languageId><trName>ស្កុបជេ</trName></name>
       <name><languageId>kn</languageId><trName>ಸ್ಕಾಪಿಯಾ</trName></name>
       <name><languageId>ko</languageId><trName>스코페</trName></name>
+      <name><languageId>kok</languageId><trName>स्कोप्जे</trName></name>
       <name><languageId>ky</languageId><trName>Скопйе</trName></name>
       <name><languageId>lo</languageId><trName>ສະໂກເປຍ</trName></name>
       <name><languageId>lt</languageId><trName>Skopjė</trName></name>
@@ -39664,6 +39900,7 @@
       <name><languageId>km</languageId><trName>សូហ៊្វីយ៉ា</trName></name>
       <name><languageId>kn</languageId><trName>ಸೋಫಿಯಾ</trName></name>
       <name><languageId>ko</languageId><trName>소피아</trName></name>
+      <name><languageId>kok</languageId><trName>सोफिया</trName></name>
       <name><languageId>ks</languageId><trName>سوفِیا</trName></name>
       <name><languageId>ky</languageId><trName>София</trName></name>
       <name><languageId>lo</languageId><trName>ໂຊເຟຍ</trName></name>
@@ -39775,6 +40012,7 @@
       <name><languageId>km</languageId><trName>ហ្សកហ្ស៊ី​ខាង​ត្បូង</trName></name>
       <name><languageId>kn</languageId><trName>ದಕ್ಷಿಣ ಜಾರ್ಜಿಯಾ</trName></name>
       <name><languageId>ko</languageId><trName>사우스조지아</trName></name>
+      <name><languageId>kok</languageId><trName>दक्षिण जॉर्जिया</trName></name>
       <name><languageId>ks</languageId><trName>ساوتھ جورجِیا</trName></name>
       <name><languageId>ky</languageId><trName>Түштүк Жоржия</trName></name>
       <name><languageId>lb</languageId><trName>Südgeorgien</trName></name>
@@ -40083,6 +40321,7 @@
       <name><languageId>km</languageId><trName>សាំងហេឡេណា</trName></name>
       <name><languageId>kn</languageId><trName>ಸೇಂಟ್ ಹೆಲೆನಾ</trName></name>
       <name><languageId>ko</languageId><trName>세인트 헬레나</trName></name>
+      <name><languageId>kok</languageId><trName>सें. हेलेना</trName></name>
       <name><languageId>ks</languageId><trName>سینٹ ہیلِنا</trName></name>
       <name><languageId>ksh</languageId><trName>Zint Helena</trName></name>
       <name><languageId>ky</languageId><trName>Сент Елена</trName></name>
@@ -40763,6 +41002,7 @@
       <name><languageId>km</languageId><trName>ស្តង់លី</trName></name>
       <name><languageId>kn</languageId><trName>ಸ್ಟ್ಯಾನ್ಲಿ</trName></name>
       <name><languageId>ko</languageId><trName>스탠리</trName></name>
+      <name><languageId>kok</languageId><trName>स्टेन्ले</trName></name>
       <name><languageId>ks</languageId><trName>سٹینلی</trName></name>
       <name><languageId>ky</languageId><trName>Стэнли</trName></name>
       <name><languageId>lo</languageId><trName>ສະແຕນເລ</trName></name>
@@ -40873,6 +41113,7 @@
       <name><languageId>km</languageId><trName>ស្តុកខុល</trName></name>
       <name><languageId>kn</languageId><trName>ಸ್ಟಾಕ್‍ಹೋಮ್</trName></name>
       <name><languageId>ko</languageId><trName>스톡홀름</trName></name>
+      <name><languageId>kok</languageId><trName>स्टॉकहोम</trName></name>
       <name><languageId>ks</languageId><trName>سٹاک ہولم</trName></name>
       <name><languageId>ky</languageId><trName>Стокгольм</trName></name>
       <name><languageId>lo</languageId><trName>ສະຕອກໂຮມ</trName></name>
@@ -41085,6 +41326,7 @@
       <name><languageId>km</languageId><trName>ស៊ីតនី</trName></name>
       <name><languageId>kn</languageId><trName>ಸಿಡ್ನಿ</trName></name>
       <name><languageId>ko</languageId><trName>시드니</trName></name>
+      <name><languageId>kok</languageId><trName>सिडनी</trName></name>
       <name><languageId>ks</languageId><trName>سِڑنی</trName></name>
       <name><languageId>ky</languageId><trName>Сидней</trName></name>
       <name><languageId>lo</languageId><trName>ຊິດນີ</trName></name>
@@ -41191,6 +41433,7 @@
       <name><languageId>km</languageId><trName>ស៊ីយ៉ូវ៉ា</trName></name>
       <name><languageId>kn</languageId><trName>ಸ್ಯೋವಾ</trName></name>
       <name><languageId>ko</languageId><trName>쇼와</trName></name>
+      <name><languageId>kok</languageId><trName>स्योवा</trName></name>
       <name><languageId>ks</languageId><trName>سیووا</trName></name>
       <name><languageId>ksh</languageId><trName>Schoowa-Schtazjohn op dä Ensel Onjul</trName></name>
       <name><languageId>ky</languageId><trName>Саоа</trName></name>
@@ -41299,6 +41542,7 @@
       <name><languageId>km</languageId><trName>តាហីទី</trName></name>
       <name><languageId>kn</languageId><trName>ತಹಿತಿ</trName></name>
       <name><languageId>ko</languageId><trName>타히티</trName></name>
+      <name><languageId>kok</languageId><trName>ताहिती</trName></name>
       <name><languageId>ks</languageId><trName>تَہِتی</trName></name>
       <name><languageId>ky</languageId><trName>Таити</trName></name>
       <name><languageId>lo</languageId><trName>ທາຮີຕິ</trName></name>
@@ -41407,6 +41651,7 @@
       <name><languageId>km</languageId><trName>តៃប៉ិ</trName></name>
       <name><languageId>kn</languageId><trName>ತೈಪೆ</trName></name>
       <name><languageId>ko</languageId><trName>타이베이</trName></name>
+      <name><languageId>kok</languageId><trName>तैपेई</trName></name>
       <name><languageId>ks</languageId><trName>تَیپیے</trName></name>
       <name><languageId>ky</languageId><trName>Тайпей</trName></name>
       <name><languageId>lb</languageId><trName>Taipeh</trName></name>
@@ -41515,6 +41760,7 @@
       <name><languageId>km</languageId><trName>តាលិន</trName></name>
       <name><languageId>kn</languageId><trName>ಟ್ಯಾಲಿನ್</trName></name>
       <name><languageId>ko</languageId><trName>탈린</trName></name>
+      <name><languageId>kok</languageId><trName>टॅलिन</trName></name>
       <name><languageId>ks</languageId><trName>ٹؠلِن</trName></name>
       <name><languageId>ky</languageId><trName>Таллин</trName></name>
       <name><languageId>lo</languageId><trName>ທາລລິນນ໌</trName></name>
@@ -41620,6 +41866,7 @@
       <name><languageId>km</languageId><trName>តារ៉ាវ៉ា</trName></name>
       <name><languageId>kn</languageId><trName>ತರಾವಾ</trName></name>
       <name><languageId>ko</languageId><trName>타라와</trName></name>
+      <name><languageId>kok</languageId><trName>तारवा</trName></name>
       <name><languageId>ks</languageId><trName>ٹَراوا</trName></name>
       <name><languageId>ky</languageId><trName>Тарава</trName></name>
       <name><languageId>lo</languageId><trName>ຕາຣາວາ</trName></name>
@@ -41730,6 +41977,7 @@
       <name><languageId>km</languageId><trName>តាស្កិន</trName></name>
       <name><languageId>kn</languageId><trName>ತಾಶ್ಕೆಂಟ್</trName></name>
       <name><languageId>ko</languageId><trName>타슈켄트</trName></name>
+      <name><languageId>kok</languageId><trName>ताश्कंद</trName></name>
       <name><languageId>ks</languageId><trName>تاشکینٹ</trName></name>
       <name><languageId>ksh</languageId><trName>Taschkent</trName></name>
       <name><languageId>ky</languageId><trName>Ташкент</trName></name>
@@ -41841,6 +42089,7 @@
       <name><languageId>km</languageId><trName>ប៊ីលីស៊ី</trName></name>
       <name><languageId>kn</languageId><trName>ತಿಬಿಲಿಸಿ</trName></name>
       <name><languageId>ko</languageId><trName>트빌리시</trName></name>
+      <name><languageId>kok</languageId><trName>तुबलीसी</trName></name>
       <name><languageId>ks</languageId><trName>بِلِسی</trName></name>
       <name><languageId>ksh</languageId><trName>Tiblis</trName></name>
       <name><languageId>ky</languageId><trName>Тбилиси</trName></name>
@@ -42061,6 +42310,7 @@
       <name><languageId>km</languageId><trName>តេហេរ៉ង់</trName></name>
       <name><languageId>kn</languageId><trName>ತೆಹ್ರಾನ್</trName></name>
       <name><languageId>ko</languageId><trName>테헤란</trName></name>
+      <name><languageId>kok</languageId><trName>तेहरान</trName></name>
       <name><languageId>ks</languageId><trName>تؠہران</trName></name>
       <name><languageId>ky</languageId><trName>Тегеран</trName></name>
       <name><languageId>lb</languageId><trName>Teheran</trName></name>
@@ -42282,6 +42532,7 @@
       <name><languageId>km</languageId><trName>ធីមភូ</trName></name>
       <name><languageId>kn</languageId><trName>ಥಿಂಪು</trName></name>
       <name><languageId>ko</languageId><trName>팀부</trName></name>
+      <name><languageId>kok</languageId><trName>थिम्फू</trName></name>
       <name><languageId>ks</languageId><trName>تھِمپوٗ</trName></name>
       <name><languageId>ky</languageId><trName>Тимпу</trName></name>
       <name><languageId>lo</languageId><trName>ທິມພູ</trName></name>
@@ -42718,6 +42969,7 @@
       <name><languageId>km</languageId><trName>ទីរ៉ាណេ</trName></name>
       <name><languageId>kn</languageId><trName>ಟಿರಾನೆ</trName></name>
       <name><languageId>ko</languageId><trName>티라나</trName></name>
+      <name><languageId>kok</languageId><trName>तिराना</trName></name>
       <name><languageId>ks</languageId><trName>ٹِرین</trName></name>
       <name><languageId>ksh</languageId><trName>Tiraana</trName></name>
       <name><languageId>ky</languageId><trName>Тирана</trName></name>
@@ -42832,6 +43084,7 @@
       <name><languageId>km</languageId><trName>តូក្យូ</trName></name>
       <name><languageId>kn</languageId><trName>ಟೋಕಿಯೊ</trName></name>
       <name><languageId>ko</languageId><trName>도쿄</trName></name>
+      <name><languageId>kok</languageId><trName>तोक्यो</trName></name>
       <name><languageId>ks</languageId><trName>ٹوکیو</trName></name>
       <name><languageId>ky</languageId><trName>Токио</trName></name>
       <name><languageId>lb</languageId><trName>Tokio</trName></name>
@@ -42940,6 +43193,7 @@
       <name><languageId>km</languageId><trName>តុងហ្គាតាពូ</trName></name>
       <name><languageId>kn</languageId><trName>ಟೊಂಗಾಟಾಪು</trName></name>
       <name><languageId>ko</languageId><trName>통가타푸</trName></name>
+      <name><languageId>kok</languageId><trName>टोंगाटापू</trName></name>
       <name><languageId>ks</languageId><trName>تونگاتَپوٗ</trName></name>
       <name><languageId>ky</languageId><trName>Тонгатапу</trName></name>
       <name><languageId>lo</languageId><trName>ຕອງກາຕາປູ</trName></name>
@@ -43264,6 +43518,7 @@
       <name><languageId>km</languageId><trName>ទ្រីប៉ូលី</trName></name>
       <name><languageId>kn</languageId><trName>ಟ್ರೈಪೋಲಿ</trName></name>
       <name><languageId>ko</languageId><trName>트리폴리</trName></name>
+      <name><languageId>kok</languageId><trName>त्रिपोली</trName></name>
       <name><languageId>ks</languageId><trName>ترپولی</trName></name>
       <name><languageId>ky</languageId><trName>Триполи</trName></name>
       <name><languageId>lb</languageId><trName>Tripoli</trName></name>
@@ -43479,6 +43734,7 @@
       <name><languageId>km</languageId><trName>ទុយនីស</trName></name>
       <name><languageId>kn</languageId><trName>ಟುನೀಸ್</trName></name>
       <name><languageId>ko</languageId><trName>튀니스</trName></name>
+      <name><languageId>kok</languageId><trName>टुनिस</trName></name>
       <name><languageId>ks</languageId><trName>ٹوٗنِس</trName></name>
       <name><languageId>ky</languageId><trName>Тунис</trName></name>
       <name><languageId>lo</languageId><trName>ຕູນິສ</trName></name>
@@ -43773,6 +44029,7 @@
       <name><languageId>km</languageId><trName>អ៊ូឡង់បាទ័រ</trName></name>
       <name><languageId>kn</languageId><trName>ಉಲಾನ್‍ಬಾತರ್</trName></name>
       <name><languageId>ko</languageId><trName>울란바토르</trName></name>
+      <name><languageId>kok</languageId><trName>उलानबतार</trName></name>
       <name><languageId>ks</languageId><trName>اُلانباٹَر</trName></name>
       <name><languageId>ksh</languageId><trName>Ulan Bator</trName></name>
       <name><languageId>ky</languageId><trName>Улан-Батор</trName></name>
@@ -43881,6 +44138,7 @@
       <name><languageId>km</languageId><trName>អ៊ូរាំហ្គី</trName></name>
       <name><languageId>kn</languageId><trName>ಉರುಮ್‍ಕಿ</trName></name>
       <name><languageId>ko</languageId><trName>우루무치</trName></name>
+      <name><languageId>kok</languageId><trName>उरुम्की</trName></name>
       <name><languageId>ks</languageId><trName>اُرَمچی</trName></name>
       <name><languageId>ksh</languageId><trName>Urrumptschi</trName></name>
       <name><languageId>ky</languageId><trName>Үрүмчү</trName></name>
@@ -44095,6 +44353,7 @@
       <name><languageId>km</languageId><trName>អូស្តណេរ៉ា</trName></name>
       <name><languageId>kn</languageId><trName>ಉಸ್ತ್-ನೆರಾ</trName></name>
       <name><languageId>ko</languageId><trName>우스티네라</trName></name>
+      <name><languageId>kok</languageId><trName>उस्त नेरा</trName></name>
       <name><languageId>ky</languageId><trName>Усть-Нера</trName></name>
       <name><languageId>lo</languageId><trName>ອຸສ ເນຣາ</trName></name>
       <name><languageId>lt</languageId><trName>Ust Nera</trName></name>
@@ -44205,6 +44464,7 @@
       <name><languageId>km</languageId><trName>អ៊ុយហ្គោរ៉ូដ</trName></name>
       <name><languageId>kn</languageId><trName>ಉಜ್‌ಗೊರೊದ್</trName></name>
       <name><languageId>ko</languageId><trName>우주고로트</trName></name>
+      <name><languageId>kok</languageId><trName>उझगोरोड</trName></name>
       <name><languageId>ks</languageId><trName>اُزگورود</trName></name>
       <name><languageId>ksh</languageId><trName>Uschjorod</trName></name>
       <name><languageId>ky</languageId><trName>Ужгород</trName></name>
@@ -44317,6 +44577,7 @@
       <name><languageId>km</languageId><trName>វ៉ាឌូស</trName></name>
       <name><languageId>kn</languageId><trName>ವಡೂಜ್</trName></name>
       <name><languageId>ko</languageId><trName>파두츠</trName></name>
+      <name><languageId>kok</languageId><trName>वडुज</trName></name>
       <name><languageId>ks</languageId><trName>وادُز</trName></name>
       <name><languageId>ky</languageId><trName>Фадуц</trName></name>
       <name><languageId>lo</languageId><trName>ວາດາຊ</trName></name>
@@ -44533,6 +44794,7 @@
       <name><languageId>km</languageId><trName>វ៉ាទីកង់</trName></name>
       <name><languageId>kn</languageId><trName>ವ್ಯಾಟಿಕನ್</trName></name>
       <name><languageId>ko</languageId><trName>바티칸</trName></name>
+      <name><languageId>kok</languageId><trName>वॅटिकन</trName></name>
       <name><languageId>ksh</languageId><trName>der Vatikahn</trName></name>
       <name><languageId>ky</languageId><trName>Ватикан</trName></name>
       <name><languageId>lb</languageId><trName>Vatikan</trName></name>
@@ -44728,6 +44990,7 @@
       <name><languageId>km</languageId><trName>វីយែន</trName></name>
       <name><languageId>kn</languageId><trName>ವಿಯೆನ್ನಾ</trName></name>
       <name><languageId>ko</languageId><trName>비엔나</trName></name>
+      <name><languageId>kok</languageId><trName>वियेना</trName></name>
       <name><languageId>ks</languageId><trName>وِیَننا</trName></name>
       <name><languageId>ksh</languageId><trName>Wien</trName></name>
       <name><languageId>ky</languageId><trName>Вена</trName></name>
@@ -44837,6 +45100,7 @@
       <name><languageId>km</languageId><trName>វៀងចន្ទន៍</trName></name>
       <name><languageId>kn</languageId><trName>ವಿಯೆಂಟಿಯಾನ್</trName></name>
       <name><languageId>ko</languageId><trName>비엔티안</trName></name>
+      <name><languageId>kok</languageId><trName>व्हिएन्टियन</trName></name>
       <name><languageId>ks</languageId><trName>وِیَنتِیین</trName></name>
       <name><languageId>ky</languageId><trName>Виентиан</trName></name>
       <name><languageId>lo</languageId><trName>ວຽງຈັນ</trName></name>
@@ -44947,6 +45211,7 @@
       <name><languageId>km</languageId><trName>វីលនីញូស</trName></name>
       <name><languageId>kn</languageId><trName>ವಿಲ್ನಿಯಸ್</trName></name>
       <name><languageId>ko</languageId><trName>빌니우스</trName></name>
+      <name><languageId>kok</languageId><trName>विल्नियस</trName></name>
       <name><languageId>ks</languageId><trName>وِلِنِیَس</trName></name>
       <name><languageId>ky</languageId><trName>Вильнюс</trName></name>
       <name><languageId>lb</languageId><trName>Wilna</trName></name>
@@ -45172,6 +45437,7 @@
       <name><languageId>km</languageId><trName>វ៉្លាដីវ៉ូស្តុក</trName></name>
       <name><languageId>kn</languageId><trName>ವ್ಲಾದಿವೊಸ್ಟಾಕ್‌</trName></name>
       <name><languageId>ko</languageId><trName>블라디보스토크</trName></name>
+      <name><languageId>kok</languageId><trName>व्लादिवोस्तोक</trName></name>
       <name><languageId>ks</languageId><trName>لادِووستوک</trName></name>
       <name><languageId>ksh</languageId><trName>Wladiwostok</trName></name>
       <name><languageId>ky</languageId><trName>Владивосток</trName></name>
@@ -45285,6 +45551,7 @@
       <name><languageId>km</languageId><trName>វ៉ុលហ្គោហ្គ្រាដ</trName></name>
       <name><languageId>kn</languageId><trName>ವೊಲ್ಗೊಗ್ರಾಡ್</trName></name>
       <name><languageId>ko</languageId><trName>볼고그라트</trName></name>
+      <name><languageId>kok</languageId><trName>व्होल्गोग्राड</trName></name>
       <name><languageId>ks</languageId><trName>وولگوگرَد</trName></name>
       <name><languageId>ksh</languageId><trName>Woljojrad</trName></name>
       <name><languageId>ky</languageId><trName>Волгоград</trName></name>
@@ -45397,6 +45664,7 @@
       <name><languageId>km</languageId><trName>វ៉ូស្តុក</trName></name>
       <name><languageId>kn</languageId><trName>ವೋಸ್ಟೋಕ್</trName></name>
       <name><languageId>ko</languageId><trName>보스토크</trName></name>
+      <name><languageId>kok</languageId><trName>वोस्तोक</trName></name>
       <name><languageId>ks</languageId><trName>ووستوک</trName></name>
       <name><languageId>ksh</languageId><trName>Wostok</trName></name>
       <name><languageId>ky</languageId><trName>Восток</trName></name>
@@ -45505,6 +45773,7 @@
       <name><languageId>km</languageId><trName>វ៉ាគី</trName></name>
       <name><languageId>kn</languageId><trName>ವೇಕ್</trName></name>
       <name><languageId>ko</languageId><trName>웨이크</trName></name>
+      <name><languageId>kok</languageId><trName>वैक</trName></name>
       <name><languageId>ks</languageId><trName>ویک</trName></name>
       <name><languageId>ky</languageId><trName>Уейк</trName></name>
       <name><languageId>lo</languageId><trName>ເວກ</trName></name>
@@ -45611,6 +45880,7 @@
       <name><languageId>km</languageId><trName>វ៉ាលីស</trName></name>
       <name><languageId>kn</languageId><trName>ವ್ಯಾಲಿಸ್</trName></name>
       <name><languageId>ko</languageId><trName>월리스</trName></name>
+      <name><languageId>kok</languageId><trName>वालिस</trName></name>
       <name><languageId>ks</languageId><trName>ویلِس</trName></name>
       <name><languageId>ky</languageId><trName>Уолис</trName></name>
       <name><languageId>lo</languageId><trName>ວາລິດ</trName></name>
@@ -45723,6 +45993,7 @@
       <name><languageId>km</languageId><trName>វ៉ាសូវី</trName></name>
       <name><languageId>kn</languageId><trName>ವಾರ್ಸಾ</trName></name>
       <name><languageId>ko</languageId><trName>바르샤바</trName></name>
+      <name><languageId>kok</languageId><trName>वारसॉ</trName></name>
       <name><languageId>ks</languageId><trName>وارسا</trName></name>
       <name><languageId>ksh</languageId><trName>Warschau</trName></name>
       <name><languageId>ky</languageId><trName>Варшава</trName></name>
@@ -46053,6 +46324,7 @@
       <name><languageId>km</languageId><trName>វីនដុក</trName></name>
       <name><languageId>kn</languageId><trName>ವಿಂಡ್ಹೋಕ್</trName></name>
       <name><languageId>ko</languageId><trName>빈트후크</trName></name>
+      <name><languageId>kok</languageId><trName>विंडहोक</trName></name>
       <name><languageId>ks</languageId><trName>وِنڈہوک</trName></name>
       <name><languageId>ksh</languageId><trName>Windhuk</trName></name>
       <name><languageId>ky</languageId><trName>Уиндхук</trName></name>
@@ -46383,6 +46655,7 @@
       <name><languageId>km</languageId><trName>យ៉ាគុតស្កិ៍</trName></name>
       <name><languageId>kn</languageId><trName>ಯಕುಟ್ಸ್ಕ್</trName></name>
       <name><languageId>ko</languageId><trName>야쿠츠크</trName></name>
+      <name><languageId>kok</languageId><trName>यकुत्स्क</trName></name>
       <name><languageId>ks</languageId><trName>یکوسک</trName></name>
       <name><languageId>ksh</languageId><trName>Jakutsk</trName></name>
       <name><languageId>ky</languageId><trName>Якутск</trName></name>
@@ -46500,6 +46773,7 @@
       <name><languageId>km</languageId><trName>យ៉េកាធឺរិនប៊ើក</trName></name>
       <name><languageId>kn</languageId><trName>ಎಕ್ಯಾಟೆರಿನ್ಬರ್ಗ್</trName></name>
       <name><languageId>ko</languageId><trName>예카테린부르크</trName></name>
+      <name><languageId>kok</languageId><trName>येकातेरिनबर्ग</trName></name>
       <name><languageId>ks</languageId><trName>یَکاتِرِنبٔرگ</trName></name>
       <name><languageId>ksh</languageId><trName>Jekaterinburg</trName></name>
       <name><languageId>ky</languageId><trName>Екатеринбург</trName></name>
@@ -46722,6 +46996,7 @@
       <name><languageId>km</languageId><trName>យ៉េរ៉េវ៉ាន់</trName></name>
       <name><languageId>kn</languageId><trName>ಯೆರಿವಾನ್</trName></name>
       <name><languageId>ko</languageId><trName>예레반</trName></name>
+      <name><languageId>kok</languageId><trName>येरेवान</trName></name>
       <name><languageId>ks</languageId><trName>یےریوَن</trName></name>
       <name><languageId>ksh</languageId><trName>Eriwan</trName></name>
       <name><languageId>ky</languageId><trName>Ереван</trName></name>
@@ -46832,6 +47107,7 @@
       <name><languageId>km</languageId><trName>សាគ្រែប</trName></name>
       <name><languageId>kn</languageId><trName>ಜಾಗ್ರೆಬ್‌</trName></name>
       <name><languageId>ko</languageId><trName>자그레브</trName></name>
+      <name><languageId>kok</languageId><trName>झाग्रेब</trName></name>
       <name><languageId>ksh</languageId><trName>Sagreb</trName></name>
       <name><languageId>ky</languageId><trName>Загреб</trName></name>
       <name><languageId>lo</languageId><trName>ຊາເກຣບ</trName></name>
@@ -46943,6 +47219,7 @@
       <name><languageId>km</languageId><trName>ហ្សាប៉ូរ៉ូហ្ស៊ីយ៉េ</trName></name>
       <name><languageId>kn</languageId><trName>ಜಾಪರೀಝಿಯಾ</trName></name>
       <name><languageId>ko</languageId><trName>자포로지예</trName></name>
+      <name><languageId>kok</languageId><trName>झापोरोझे</trName></name>
       <name><languageId>ks</languageId><trName>زَپوروزَے</trName></name>
       <name><languageId>ksh</languageId><trName>Saporischschja</trName></name>
       <name><languageId>ky</languageId><trName>Запорожье</trName></name>
@@ -47058,6 +47335,7 @@
       <name><languageId>km</languageId><trName>ហ៊្សូរីច</trName></name>
       <name><languageId>kn</languageId><trName>ಜ್ಯೂರಿಕ್</trName></name>
       <name><languageId>ko</languageId><trName>취리히</trName></name>
+      <name><languageId>kok</languageId><trName>झुरिच</trName></name>
       <name><languageId>ks</languageId><trName>زیوٗرِک</trName></name>
       <name><languageId>ksh</languageId><trName>Züresch</trName></name>
       <name><languageId>ky</languageId><trName>Цюрих</trName></name>
