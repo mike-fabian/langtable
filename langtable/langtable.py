@@ -35,6 +35,62 @@
 # All global functions and global variables whose name starts with an
 # “_” are internal and should not be used by a user of langtable.py.
 #
+# Many of the above public functions have named parameters like
+#
+#    languageId
+#    scriptId
+#    territoryId
+#
+# and
+#
+#    languageIdQuery
+#    scriptIdQuery
+#    territoryIdQuery
+#
+# languageId and languageIdQuery may contain a full locale name,
+# specifying the script and the territory as well.
+#
+# For example:
+#
+#     language_name(languageId="sr_Latn_RS")
+#
+# behaves the same as
+#
+#     language_name(languageId="sr", scriptId="Latn", territoryId="RS")
+#
+# If languageId contains a script or a territory, the values found there
+# are preferred over those given as extra parameters. For example:
+#
+#     language_name(languageId="sr_Latn_RS", scriptId="Cyrl", territoryId="ME")
+#
+# behaves the same as
+#
+#     language_name(languageId="sr", scriptId="Latn", territoryId="RS")
+#
+# scriptId="Cyrl" and territoryId="ME" are overridden by the values found
+# in languageId.
+#
+# It is also possible to put a full locale name in the spelling used by glibc
+# into languageId. For example:
+#
+#     language_name(languageId="sr_RS.utf8@latin")
+#
+# or
+#
+#     language_name(languageId="sr_RS.UTF-8@latin")
+#
+# also behave the same as:
+#
+#     language_name(languageId="sr_Latn_RS")
+#
+# which is the same as:
+#
+#     language_name(languageId="sr", scriptId="Latn", territoryId="RS")
+#
+# langtable always parses languageId, cuts out the encoding and translates
+# script names in glibc spelling like "latin" to the official
+# ISO 15924 script codes, see: https://en.wikipedia.org/wiki/ISO_15924
+#
 ######################################################################
 
 import os
