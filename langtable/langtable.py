@@ -1039,7 +1039,7 @@ def _parse_and_split_languageId(languageId=None, scriptId=None, territoryId=None
             logging.info("languageId contains invalid locale id=%s" %languageId)
     # if the language is Chinese and only the territory is given
     # but not the script, add the default script for the territory:
-    if languageId == 'zh' and territoryId and not scriptId:
+    if languageId in ('zh', 'cmn') and territoryId and not scriptId:
         if territoryId in ['CN', 'SG']:
             scriptId = 'Hans'
         elif territoryId in ['HK', 'MO', 'TW']:

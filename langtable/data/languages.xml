@@ -6644,13 +6644,13 @@
     <iso639-2-t>None</iso639-2-t>
     <iso639-2-b>None</iso639-2-b>
     <names>
-      <name><languageId>cmn</languageId><trName>官话</trName></name>
-      <name><languageId>cmn_Hans</languageId><trName>官话</trName></name>
-      <name><languageId>cmn_Hant</languageId><trName>官話</trName></name>
+      <name><languageId>cmn</languageId><trName>汉语官话</trName></name>
+      <name><languageId>cmn_Hans</languageId><trName>汉语官话</trName></name>
+      <name><languageId>cmn_Hant</languageId><trName>漢語官話</trName></name>
       <name><languageId>en</languageId><trName>Mandarin Chinese</trName></name>
-      <name><languageId>zh</languageId><trName>官话</trName></name>
-      <name><languageId>zh_Hans</languageId><trName>官话</trName></name>
-      <name><languageId>zh_Hant</languageId><trName>官話</trName></name>
+      <name><languageId>zh</languageId><trName>汉语官话</trName></name>
+      <name><languageId>zh_Hans</languageId><trName>汉语官话</trName></name>
+      <name><languageId>zh_Hant</languageId><trName>漢語官話</trName></name>
     </names>
     <scripts>
       <script><scriptId>Hant</scriptId><rank>1000</rank></script>
