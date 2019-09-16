@@ -1491,7 +1491,7 @@ def dummy():
     >>> print(language_name(languageId="fy_DE.utf8")) # doctest: +NORMALIZE_WHITESPACE
     Frysk (Dútslân)
     >>> print(language_name(languageId="fy_NL.utf8")) # doctest: +NORMALIZE_WHITESPACE
-    Frysk (Nederlân)
+    West-Frysk (Nederlân)
     >>> print(language_name(languageId="ga_IE.utf8")) # doctest: +NORMALIZE_WHITESPACE
     Gaeilge (Éire)
     >>> print(language_name(languageId="gd_GB.utf8")) # doctest: +NORMALIZE_WHITESPACE
