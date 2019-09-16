@@ -30718,7 +30718,8 @@
     <iso639-2-t>None</iso639-2-t>
     <iso639-2-b>None</iso639-2-b>
     <names>
-      <name><languageId>nhn</languageId><trName>Tlaxcala–Puebla Nahuatl</trName></name>
+      <name><languageId>en</languageId><trName>Tlaxcala-Puebla Nahuatl</trName></name>
+      <name><languageId>nhn</languageId><trName>Tlahco nāhuatlahtōlli</trName></name>
     </names>
     <scripts>
       <script><scriptId>Latn</scriptId><rank>1000</rank></script>

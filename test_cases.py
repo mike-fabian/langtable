@@ -1643,7 +1643,7 @@ def dummy():
     >>> print(language_name(languageId="ne_NP.utf8")) # doctest: +NORMALIZE_WHITESPACE
     नेपाली (नेपाल)
     >>> print(language_name(languageId="nhn_MX.utf8")) # doctest: +NORMALIZE_WHITESPACE
-    Tlaxcala–Puebla Nahuatl (Mexico)
+    Tlahco nāhuatlahtōlli (Mexico)
     >>> print(language_name(languageId="niu_NU.utf8")) # doctest: +NORMALIZE_WHITESPACE
     ko e vagahau Niuē (Niue)
     >>> print(language_name(languageId="niu_NZ.utf8")) # doctest: +NORMALIZE_WHITESPACE
