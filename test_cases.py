@@ -1713,7 +1713,7 @@ def dummy():
     >>> print(language_name(languageId="se_NO.utf8")) # doctest: +NORMALIZE_WHITESPACE
     davvisámegiella (Norga)
     >>> print(language_name(languageId="sgs_LT.utf8")) # doctest: +NORMALIZE_WHITESPACE
-    Žemaitiu kalba (Lithuania)
+    Žemaitėškā (Lietova)
     >>> print(language_name(languageId="shn_MM.utf8")) # doctest: +NORMALIZE_WHITESPACE
     လိၵ်ႈတႆး (Myanmar (Burma))
     >>> print(language_name(languageId="shs_CA.utf8")) # doctest: +NORMALIZE_WHITESPACE
