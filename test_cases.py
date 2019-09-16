@@ -1813,7 +1813,7 @@ def dummy():
     >>> print(language_name(languageId="uz_UZ.utf8")) # doctest: +NORMALIZE_WHITESPACE
     o‘zbek (Oʻzbekiston)
     >>> print(language_name(languageId="uz_UZ.utf8@cyrillic")) # doctest: +NORMALIZE_WHITESPACE
-    Ўзбек (Ўзбекистон)
+    Ўзбекча (Ўзбекистон)
     >>> print(language_name(languageId="ve_ZA.utf8")) # doctest: +NORMALIZE_WHITESPACE
     Tshivenḓa (South Africa)
     >>> print(language_name(languageId="vi_VN.utf8")) # doctest: +NORMALIZE_WHITESPACE
