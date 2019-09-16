@@ -1747,7 +1747,7 @@ def dummy():
     >>> print(language_name(languageId="sr_RS.utf8@latin")) # doctest: +NORMALIZE_WHITESPACE
     srpski (Latinica) (Srbija)
     >>> print(language_name(languageId="ss_ZA.utf8")) # doctest: +NORMALIZE_WHITESPACE
-    Siswati (South Africa)
+    siSwati (South Africa)
     >>> print(language_name(languageId="st_ZA.utf8")) # doctest: +NORMALIZE_WHITESPACE
     Sesotho (South Africa)
     >>> print(language_name(languageId="sv_FI.utf8")) # doctest: +NORMALIZE_WHITESPACE
