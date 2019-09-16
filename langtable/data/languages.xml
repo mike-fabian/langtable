@@ -40733,7 +40733,7 @@
       <name><languageId>en</languageId><trName>Serbian (Cyrillic)</trName></name>
       <name><languageId>sr</languageId><trName>српски (Ћирилица)</trName></name>
       <name><languageId>sr_Cyrl</languageId><trName>српски (Ћирилица)</trName></name>
-      <name><languageId>sr_Latn</languageId><trName>Srpski (Ćirilica)</trName></name>
+      <name><languageId>sr_Latn</languageId><trName>srpski (Ćirilica)</trName></name>
     </names>
     <scripts>
       <script><scriptId>Cyrl</scriptId><rank>1000</rank></script>
@@ -40769,7 +40769,7 @@
       <name><languageId>en</languageId><trName>Serbian (Latin)</trName></name>
       <name><languageId>sr</languageId><trName>Српски (Латиница)</trName></name>
       <name><languageId>sr_Cyrl</languageId><trName>Српски (Латиница)</trName></name>
-      <name><languageId>sr_Latn</languageId><trName>Srpski (Latinica)</trName></name>
+      <name><languageId>sr_Latn</languageId><trName>srpski (Latinica)</trName></name>
     </names>
     <scripts>
       <script><scriptId>Latn</scriptId><rank>1000</rank></script>

@@ -1087,13 +1087,13 @@ def dummy():
         српски (Ћирилица)
 
     >>> print(language_name(languageId="sr", scriptId="Latn")) # doctest: +NORMALIZE_WHITESPACE
-        Srpski (Latinica)
+        srpski (Latinica)
 
     >>> print(language_name(languageId="sr", scriptId="Cyrl", territoryId="RS")) # doctest: +NORMALIZE_WHITESPACE
         српски (Ћирилица) (Србија)
 
     >>> print(language_name(languageId="sr", scriptId="Latn", territoryId="RS")) # doctest: +NORMALIZE_WHITESPACE
-        Srpski (Latinica) (Srbija)
+        srpski (Latinica) (Srbija)
 
     >>> print(language_name(languageId="sr", languageIdQuery="en")) # doctest: +NORMALIZE_WHITESPACE
         Serbian
@@ -1217,10 +1217,10 @@ def dummy():
 
     ######################################################################
     >>> print(language_name(languageId="sr_RS.UTF-8@latin")) # doctest: +NORMALIZE_WHITESPACE
-    Srpski (Latinica) (Srbija)
+    srpski (Latinica) (Srbija)
 
     >>> print(language_name(languageId="sr_RS.utf8@latin")) # doctest: +NORMALIZE_WHITESPACE
-    Srpski (Latinica) (Srbija)
+    srpski (Latinica) (Srbija)
 
     >>> print(language_name(languageId="aa_DJ.utf8")) # doctest: +NORMALIZE_WHITESPACE
     Qafar (Yabuuti)
@@ -1745,7 +1745,7 @@ def dummy():
     >>> print(language_name(languageId="sr_RS.utf8")) # doctest: +NORMALIZE_WHITESPACE
     српски (Србија)
     >>> print(language_name(languageId="sr_RS.utf8@latin")) # doctest: +NORMALIZE_WHITESPACE
-    Srpski (Latinica) (Srbija)
+    srpski (Latinica) (Srbija)
     >>> print(language_name(languageId="ss_ZA.utf8")) # doctest: +NORMALIZE_WHITESPACE
     Siswati (South Africa)
     >>> print(language_name(languageId="st_ZA.utf8")) # doctest: +NORMALIZE_WHITESPACE

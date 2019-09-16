@@ -1141,7 +1141,7 @@ def language_name(languageId = None, scriptId = None, territoryId = None, langua
     And in Latin script the endonym is:
 
     >>> print(language_name(languageId="sr", scriptId="Latn"))
-    Srpski (Latinica)
+    srpski (Latinica)
 
     And “Serbian” translated to English is:
 
