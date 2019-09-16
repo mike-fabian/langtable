@@ -994,10 +994,10 @@ def dummy():
         मैथिली (नेपाल)
 
     >>> print(language_name(languageId="zh")) # doctest: +NORMALIZE_WHITESPACE
-        普通话
+        中文
 
     >>> print(language_name(languageId="zh", languageIdQuery="de")) # doctest: +NORMALIZE_WHITESPACE
-        Chinesisch (Mandarin)
+        Chinesisch
 
     >>> print(language_name(languageId="zh", scriptId="Hant", languageIdQuery="de")) # doctest: +NORMALIZE_WHITESPACE
         Chinesisch (traditionell)
@@ -1833,7 +1833,7 @@ def dummy():
     >>> print(language_name(languageId="yo_NG.utf8")) # doctest: +NORMALIZE_WHITESPACE
     Èdè Yorùbá (Orilẹ̀-èdè Nàìjíríà)
     >>> print(language_name(languageId="yue_HK.utf8")) # doctest: +NORMALIZE_WHITESPACE
-    中文 (粵語) (中華人民共和國香港特別行政區)
+    粵語 (中華人民共和國香港特別行政區)
     >>> print(language_name(languageId="yuw_PG.utf8")) # doctest: +NORMALIZE_WHITESPACE
     Uruwa (Papua New Guinea)
     >>> print(language_name(languageId="zh_CN.utf8")) # doctest: +NORMALIZE_WHITESPACE
