@@ -1289,7 +1289,7 @@ def dummy():
     >>> print(language_name(languageId="az_AZ.utf8")) # doctest: +NORMALIZE_WHITESPACE
     azərbaycan (Azərbaycan)
     >>> print(language_name(languageId="az_IR.utf8")) # doctest: +NORMALIZE_WHITESPACE
-    azərbaycan (İran)
+    تۆرکجه (İran)
     >>> print(language_name(languageId="be_BY.utf8")) # doctest: +NORMALIZE_WHITESPACE
     беларуская (Беларусь)
     >>> print(language_name(languageId="be_BY.utf8@latin")) # doctest: +NORMALIZE_WHITESPACE
