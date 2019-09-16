@@ -1595,7 +1595,7 @@ def dummy():
     >>> print(language_name(languageId="lv_LV.utf8")) # doctest: +NORMALIZE_WHITESPACE
     latviešu (Latvija)
     >>> print(language_name(languageId="lzh_TW.utf8")) # doctest: +NORMALIZE_WHITESPACE
-    文言 (Taiwan)
+    漢語文言 (Taiwan)
     >>> print(language_name(languageId="mag_IN.utf8")) # doctest: +NORMALIZE_WHITESPACE
     मगही (India)
     >>> print(language_name(languageId="mai_IN.utf8")) # doctest: +NORMALIZE_WHITESPACE
