@@ -1765,7 +1765,7 @@ def dummy():
     >>> print(language_name(languageId="ta_LK.utf8")) # doctest: +NORMALIZE_WHITESPACE
     தமிழ் (இலங்கை)
     >>> print(language_name(languageId="tcy_IN.utf8")) # doctest: +NORMALIZE_WHITESPACE
-    ತುಳು ಭಾಷೆ (India)
+    ತುಳು (ಭಾರತ)
     >>> print(language_name(languageId="te_IN.utf8")) # doctest: +NORMALIZE_WHITESPACE
     తెలుగు (భారతదేశం)
     >>> print(language_name(languageId="tg_TJ.utf8")) # doctest: +NORMALIZE_WHITESPACE
