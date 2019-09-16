@@ -1161,10 +1161,10 @@ def dummy():
         ਪੰਜਾਬੀ
 
     >>> print(language_name(languageId="pa", territoryId="PK")) # doctest: +NORMALIZE_WHITESPACE
-        پنجاب (پکستان)
+        پنجابی (پکستان)
 
     >>> print(language_name(languageId="pa", scriptId="Arab", territoryId="PK")) # doctest: +NORMALIZE_WHITESPACE
-        پنجاب (پکستان)
+        پنجابی (پکستان)
 
     >>> print(language_name(languageId="pa", territoryId="IN")) # doctest: +NORMALIZE_WHITESPACE
         ਪੰਜਾਬੀ (ਭਾਰਤ)
@@ -1173,7 +1173,7 @@ def dummy():
         ਪੰਜਾਬੀ (ਭਾਰਤ)
 
     >>> print(language_name(languageId="pa", scriptId="Arab")) # doctest: +NORMALIZE_WHITESPACE
-        پنجاب
+        پنجابی
 
     >>> print(language_name(languageId="pa", scriptId="Guru")) # doctest: +NORMALIZE_WHITESPACE
         ਪੰਜਾਬੀ
@@ -1673,7 +1673,7 @@ def dummy():
     >>> print(language_name(languageId="pa_IN.utf8")) # doctest: +NORMALIZE_WHITESPACE
     ਪੰਜਾਬੀ (ਭਾਰਤ)
     >>> print(language_name(languageId="pa_PK.utf8")) # doctest: +NORMALIZE_WHITESPACE
-    پنجاب (پکستان)
+    پنجابی (پکستان)
     >>> print(language_name(languageId="pap_AW.utf8")) # doctest: +NORMALIZE_WHITESPACE
     Papiamento (Aruba)
     >>> print(language_name(languageId="pap_CW.utf8")) # doctest: +NORMALIZE_WHITESPACE
