@@ -2001,16 +2001,16 @@ def dummy():
     >>> languageId("Portugiesisch (Brasilien)")  # doctest: +NORMALIZE_WHITESPACE
         'pt_BR'
 
-    >>> languageId("Shuswap language")  # doctest: +NORMALIZE_WHITESPACE
+    >>> languageId("Shuswap")  # doctest: +NORMALIZE_WHITESPACE
         'shs'
 
-    >>> languageId("Shuswap Language")  # doctest: +NORMALIZE_WHITESPACE
+    >>> languageId("Shuswap")  # doctest: +NORMALIZE_WHITESPACE
         'shs'
 
-    >>> languageId("shuswap language")  # doctest: +NORMALIZE_WHITESPACE
+    >>> languageId("shuswap")  # doctest: +NORMALIZE_WHITESPACE
         'shs'
 
-    >>> languageId("sHuSwAp laNguAge")  # doctest: +NORMALIZE_WHITESPACE
+    >>> languageId("sHuSwAp")  # doctest: +NORMALIZE_WHITESPACE
         'shs'
 
     >>> languageId("Czech (Czech Republic)")  # doctest: +NORMALIZE_WHITESPACE
