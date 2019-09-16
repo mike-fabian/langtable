@@ -36830,8 +36830,8 @@
       <name><languageId>zu</languageId><trName>isi-Santali</trName></name>
     </names>
     <scripts>
-      <script><scriptId>Deva</scriptId><rank>700</rank></script>
-      <script><scriptId>Olck</scriptId><rank>200</rank></script>
+      <script><scriptId>Olck</scriptId><rank>700</rank></script>
+      <script><scriptId>Deva</scriptId><rank>200</rank></script>
       <script><scriptId>Latn</scriptId><rank>50</rank></script>
       <script><scriptId>Orya</scriptId><rank>30</rank></script>
       <script><scriptId>Beng</scriptId><rank>20</rank></script>
