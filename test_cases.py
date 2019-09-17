@@ -1233,7 +1233,7 @@ def dummy():
     >>> print(language_name(languageId="af_ZA.utf8")) # doctest: +NORMALIZE_WHITESPACE
     Afrikaans (Suid-Afrika)
     >>> print(language_name(languageId="agr_PE.utf8")) # doctest: +NORMALIZE_WHITESPACE
-    Awajún (Peru)
+    Awajún (Perú)
     >>> print(language_name(languageId="ak_GH.utf8")) # doctest: +NORMALIZE_WHITESPACE
     Akan (Gaana)
     >>> print(language_name(languageId="am_ET.utf8")) # doctest: +NORMALIZE_WHITESPACE
