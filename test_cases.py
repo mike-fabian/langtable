@@ -1797,7 +1797,7 @@ def dummy():
     >>> print(language_name(languageId="ts_ZA.utf8")) # doctest: +NORMALIZE_WHITESPACE
     Xitsonga (Afrika Dzonga)
     >>> print(language_name(languageId="tt_RU.utf8")) # doctest: +NORMALIZE_WHITESPACE
-    татар (Россия)
+    татар (Русия)
     >>> print(language_name(languageId="tt_RU.utf8@iqtelif")) # doctest: +NORMALIZE_WHITESPACE
     tatar tele (Urıs Patşahlıq)
     >>> print(language_name(languageId="ug_CN.utf8")) # doctest: +NORMALIZE_WHITESPACE
