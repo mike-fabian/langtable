@@ -1613,7 +1613,7 @@ def dummy():
     >>> print(language_name(languageId="miq_NI.utf8")) # doctest: +NORMALIZE_WHITESPACE
     Mískitu (Nicaragua)
     >>> print(language_name(languageId="mjw_IN.utf8")) # doctest: +NORMALIZE_WHITESPACE
-    Karbi (India)
+    Karbi (Bhorot)
     >>> print(language_name(languageId="mk_MK.utf8")) # doctest: +NORMALIZE_WHITESPACE
     македонски (Северна Македонија)
     >>> print(language_name(languageId="ml_IN.utf8")) # doctest: +NORMALIZE_WHITESPACE
