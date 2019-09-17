@@ -1285,7 +1285,7 @@ def dummy():
     >>> print(language_name(languageId="ast_ES.utf8")) # doctest: +NORMALIZE_WHITESPACE
     asturianu (España)
     >>> print(language_name(languageId="ayc_PE.utf8")) # doctest: +NORMALIZE_WHITESPACE
-    Aymar aru (Peru)
+    Aymar aru (Piruw)
     >>> print(language_name(languageId="az_AZ.utf8")) # doctest: +NORMALIZE_WHITESPACE
     azərbaycan (Azərbaycan)
     >>> print(language_name(languageId="az_IR.utf8")) # doctest: +NORMALIZE_WHITESPACE
