@@ -1133,7 +1133,7 @@ def dummy():
         беларуская (Беларусь)
 
     >>> print(language_name(languageId="be", scriptId="Latn", territoryId="BY")) # doctest: +NORMALIZE_WHITESPACE
-        biełaruskaja (Bielaruś)
+        biełaruskaja (Biełaruś)
 
     >>> print(language_name(languageId="be", languageIdQuery="en")) # doctest: +NORMALIZE_WHITESPACE
         Belarusian
@@ -1293,7 +1293,7 @@ def dummy():
     >>> print(language_name(languageId="be_BY.utf8")) # doctest: +NORMALIZE_WHITESPACE
     беларуская (Беларусь)
     >>> print(language_name(languageId="be_BY.utf8@latin")) # doctest: +NORMALIZE_WHITESPACE
-    biełaruskaja (Bielaruś)
+    biełaruskaja (Biełaruś)
     >>> print(language_name(languageId="bem_ZM.utf8")) # doctest: +NORMALIZE_WHITESPACE
     Ichibemba (Zambia)
     >>> print(language_name(languageId="ber_DZ.utf8")) # doctest: +NORMALIZE_WHITESPACE
