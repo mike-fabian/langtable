@@ -1539,7 +1539,7 @@ def dummy():
     >>> print(language_name(languageId="ig_NG.utf8")) # doctest: +NORMALIZE_WHITESPACE
     Asụsụ Igbo (Naịjịrịa)
     >>> print(language_name(languageId="ik_CA.utf8")) # doctest: +NORMALIZE_WHITESPACE
-    Iñupiatun (Canada)
+    Iñupiatun (Kanada)
     >>> print(language_name(languageId="is_IS.utf8")) # doctest: +NORMALIZE_WHITESPACE
     íslenska (Ísland)
     >>> print(language_name(languageId="it_CH.utf8")) # doctest: +NORMALIZE_WHITESPACE
