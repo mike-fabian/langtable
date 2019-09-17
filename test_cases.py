@@ -1373,7 +1373,7 @@ def dummy():
     >>> print(language_name(languageId="dsb_DE.utf8")) # doctest: +NORMALIZE_WHITESPACE
     dolnoserbšćina (Nimska)
     >>> print(language_name(languageId="dv_MV.utf8")) # doctest: +NORMALIZE_WHITESPACE
-    ދިވެހި (Maldives)
+    ދިވެހި (ދިވެހިރާއްޖެ)
     >>> print(language_name(languageId="dz_BT.utf8")) # doctest: +NORMALIZE_WHITESPACE
     རྫོང་ཁ (འབྲུག)
     >>> print(language_name(languageId="el_CY.utf8")) # doctest: +NORMALIZE_WHITESPACE
