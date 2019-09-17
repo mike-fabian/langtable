@@ -1347,7 +1347,7 @@ def dummy():
     >>> print(language_name(languageId="cs_CZ.utf8")) # doctest: +NORMALIZE_WHITESPACE
     čeština (Česko)
     >>> print(language_name(languageId="csb_PL.utf8")) # doctest: +NORMALIZE_WHITESPACE
-    kaszëbsczi jãzëk (Poland)
+    kaszëbsczi jãzëk (Pòlskô)
     >>> print(language_name(languageId="cv_RU.utf8")) # doctest: +NORMALIZE_WHITESPACE
     Чӑвашла (Russia)
     >>> print(language_name(languageId="cy_GB.utf8")) # doctest: +NORMALIZE_WHITESPACE
@@ -1759,7 +1759,7 @@ def dummy():
     >>> print(language_name(languageId="sw_TZ.utf8")) # doctest: +NORMALIZE_WHITESPACE
     Kiswahili (Tanzania)
     >>> print(language_name(languageId="szl_PL.utf8")) # doctest: +NORMALIZE_WHITESPACE
-    ślōnskŏ gŏdka (Poland)
+    ślōnskŏ gŏdka (Polska)
     >>> print(language_name(languageId="ta_IN.utf8")) # doctest: +NORMALIZE_WHITESPACE
     தமிழ் (இந்தியா)
     >>> print(language_name(languageId="ta_LK.utf8")) # doctest: +NORMALIZE_WHITESPACE
