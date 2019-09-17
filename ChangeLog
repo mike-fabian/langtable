@@ -1,3 +1,53 @@
+2019-09-17  Mike FABIAN  <mfabian@redhat.com>
+
+	* Three changed translations into sr_Latn from CLDR
+	* Add translations of PL in csb and szl (from native speakers)
+	* Add tools/compare_with_glib_source.py script to compare stuff with glibc
+	* Add translation of DZ in ber
+	* Add translation for MA in ber, ber_Tfng, ber_MA
+	* Add translation of MX in nah and nhn
+	* Add translation of NP in the
+	* Add translation for PH in tl
+	* Fix translation of IN in te
+	* Add translation of MM in shn
+	* Add translation of IN in sat
+	* Add translation of IR in az_Arab, az_IR
+	* Add translation for NU in niu
+	* Add translation of PE in ayc (from glibc)
+	* Add translation of PE in agr (from glibc)
+	* Fix translation of RU into tt
+	* Fix translation of ZA in xh
+	* Add translation of IN in mni (from glibc)
+	* Add translation of CA in iu (from glibc)
+	* Add translation of ET in sid (from glibc)
+	* Add translations of ER and ET in gez (from glibc)
+	* Add translation of ZA in nr, nso, ss, st, tn, ts, ve (from glibc)
+	* Add translation of MV in dv (from glibc)
+	* Add translation of CA in ik (from glibc)
+	* Add translation of IN in mjw (from glibc)
+	* Add translations of TW in cmn, hak, nan, nan_Latn (from glibc)
+	* Fix translation of BY in be_Latn to agree with glibc
+	* Add translation of NP in bho
+	* Add translation of IN in bhb, bho, doi, hif, hne, ks_Deva, mag, raj, sa, sd_Deva
+	* Use "Crimean Tatar" instead of "Crimean Turkish" as English translation for crh
+	* Use Shuswap instead of "Shuswap langauge" as the English translation of shs
+	* Correct capitalization of endonym for ss
+	* Fix translations of sr_Latn and sr_Cyrl into sr_Latn
+	* Use standard translations of zh and yue from cldr, not the alt='menu' variant
+	* Fix endonym of uz_Cyrl to agree with glibc and cldr
+	* Change endonym for tcy to agree with glibc (cldr does not have tcy)
+	* Change endonym for sid to agree with glibc (cldr does not have sid)
+	* Change endonym for sgs to agree with glibc (cldr does not have sgs)
+	* Give Olck higher priority than Deva for sat
+	* Change endonym for lzh to agree with glibc
+	* Change endonym for csb to agree with glibc
+	* Change endonym for cmn_Hans from 官话 to 汉语官话 and for cmn_Hant from 官話 to 漢語官話
+	* Add endonym for ber_MA
+	* Add endonym for az_Arab, az_IR (from az_IR in glibc)
+	* Add endonym for fy_NL
+	* Fix endonym for nhn and add English name for nhn
+	* Fix endonym for pa_Arab (agrees with CLDR now)
+
 2019-09-04  Mike FABIAN  <mfabian@redhat.com>
 
 	* Version 0.0.46 released
