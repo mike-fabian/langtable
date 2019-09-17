@@ -1307,7 +1307,7 @@ def dummy():
     >>> print(language_name(languageId="bho_IN.utf8")) # doctest: +NORMALIZE_WHITESPACE
     भोजपुरी (भारत)
     >>> print(language_name(languageId="bho_NP.utf8")) # doctest: +NORMALIZE_WHITESPACE
-    भोजपुरी (Nepal)
+    भोजपुरी (नेपाल)
     >>> print(language_name(languageId="bi_VU.utf8")) # doctest: +NORMALIZE_WHITESPACE
     Bislama (Vanuatu)
     >>> print(language_name(languageId="bn_BD.utf8")) # doctest: +NORMALIZE_WHITESPACE
