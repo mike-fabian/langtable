@@ -1341,7 +1341,7 @@ def dummy():
     >>> print(language_name(languageId="chr_US.utf8")) # doctest: +NORMALIZE_WHITESPACE
     ᏣᎳᎩ (ᏌᏊ ᎢᏳᎾᎵᏍᏔᏅ ᏍᎦᏚᎩ)
     >>> print(language_name(languageId="cmn_TW.utf8")) # doctest: +NORMALIZE_WHITESPACE
-    漢語官話 (Taiwan)
+    漢語官話 (中華民國)
     >>> print(language_name(languageId="crh_UA.utf8")) # doctest: +NORMALIZE_WHITESPACE
     qırımtatar tili (Ukraine)
     >>> print(language_name(languageId="cs_CZ.utf8")) # doctest: +NORMALIZE_WHITESPACE
@@ -1513,7 +1513,7 @@ def dummy():
     >>> print(language_name(languageId="ha_NG.utf8")) # doctest: +NORMALIZE_WHITESPACE
     Hausa (Najeriya)
     >>> print(language_name(languageId="hak_TW.utf8")) # doctest: +NORMALIZE_WHITESPACE
-    客家話 (Taiwan)
+    客家話 (中華民國)
     >>> print(language_name(languageId="he_IL.utf8")) # doctest: +NORMALIZE_WHITESPACE
     עברית (ישראל)
     >>> print(language_name(languageId="hi_IN.utf8")) # doctest: +NORMALIZE_WHITESPACE
@@ -1631,9 +1631,9 @@ def dummy():
     >>> print(language_name(languageId="my_MM.utf8")) # doctest: +NORMALIZE_WHITESPACE
     မြန်မာ (မြန်မာ)
     >>> print(language_name(languageId="nan_TW.utf8")) # doctest: +NORMALIZE_WHITESPACE
-    閩南語 (Taiwan)
+    閩南語 (中華民國)
     >>> print(language_name(languageId="nan_TW.utf8@latin")) # doctest: +NORMALIZE_WHITESPACE
-    Bân-lâm-gú (Taiwan)
+    Bân-lâm-gú (Tâi-oân)
     >>> print(language_name(languageId="nb_NO.utf8")) # doctest: +NORMALIZE_WHITESPACE
     norsk bokmål (Norge)
     >>> print(language_name(languageId="nds_DE.utf8")) # doctest: +NORMALIZE_WHITESPACE
