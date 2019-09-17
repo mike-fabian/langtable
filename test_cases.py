@@ -1547,7 +1547,7 @@ def dummy():
     >>> print(language_name(languageId="it_IT.utf8")) # doctest: +NORMALIZE_WHITESPACE
     italiano (Italia)
     >>> print(language_name(languageId="iu_CA.utf8")) # doctest: +NORMALIZE_WHITESPACE
-    ᐃᓄᒃᑎᑐᑦ (Canada)
+    ᐃᓄᒃᑎᑐᑦ (ᑲᓇᑕ)
     >>> print(language_name(languageId="ja_JP.utf8")) # doctest: +NORMALIZE_WHITESPACE
     日本語 (日本)
     >>> print(language_name(languageId="ka_GE.utf8")) # doctest: +NORMALIZE_WHITESPACE
