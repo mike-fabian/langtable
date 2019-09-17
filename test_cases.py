@@ -1773,7 +1773,7 @@ def dummy():
     >>> print(language_name(languageId="th_TH.utf8")) # doctest: +NORMALIZE_WHITESPACE
     ไทย (ไทย)
     >>> print(language_name(languageId="the_NP.utf8")) # doctest: +NORMALIZE_WHITESPACE
-    थारु (Nepal)
+    थारु (नेपाल)
     >>> print(language_name(languageId="ti_ER.utf8")) # doctest: +NORMALIZE_WHITESPACE
     ትግርኛ (ኤርትራ)
     >>> print(language_name(languageId="ti_ET.utf8")) # doctest: +NORMALIZE_WHITESPACE
