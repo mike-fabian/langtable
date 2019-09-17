@@ -1497,13 +1497,13 @@ def dummy():
     >>> print(language_name(languageId="gd_GB.utf8")) # doctest: +NORMALIZE_WHITESPACE
     Gàidhlig (An Rìoghachd Aonaichte)
     >>> print(language_name(languageId="gez_ER.utf8")) # doctest: +NORMALIZE_WHITESPACE
-    ግዕዝ (Eritrea)
+    ግዕዝ (ኤርትራ)
     >>> print(language_name(languageId="gez_ER.utf8@abegede")) # doctest: +NORMALIZE_WHITESPACE
-    ግዕዝ (Eritrea)
+    ግዕዝ (ኤርትራ)
     >>> print(language_name(languageId="gez_ET.utf8")) # doctest: +NORMALIZE_WHITESPACE
-    ግዕዝ (Ethiopia)
+    ግዕዝ (ኢትዮጵያ)
     >>> print(language_name(languageId="gez_ET.utf8@abegede")) # doctest: +NORMALIZE_WHITESPACE
-    ግዕዝ (Ethiopia)
+    ግዕዝ (ኢትዮጵያ)
     >>> print(language_name(languageId="gl_ES.utf8")) # doctest: +NORMALIZE_WHITESPACE
     galego (España)
     >>> print(language_name(languageId="gu_IN.utf8")) # doctest: +NORMALIZE_WHITESPACE
