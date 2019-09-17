@@ -1657,9 +1657,9 @@ def dummy():
     >>> print(language_name(languageId="nn_NO.utf8")) # doctest: +NORMALIZE_WHITESPACE
     nynorsk (Noreg)
     >>> print(language_name(languageId="nr_ZA.utf8")) # doctest: +NORMALIZE_WHITESPACE
-    isiNdebele (South Africa)
+    isiNdebele (iSewula Afrika)
     >>> print(language_name(languageId="nso_ZA.utf8")) # doctest: +NORMALIZE_WHITESPACE
-    Sesotho sa Leboa (South Africa)
+    Sesotho sa Leboa (Afrika Borwa)
     >>> print(language_name(languageId="oc_FR.utf8")) # doctest: +NORMALIZE_WHITESPACE
     occitan (França)
     >>> print(language_name(languageId="om_ET.utf8")) # doctest: +NORMALIZE_WHITESPACE
@@ -1747,9 +1747,9 @@ def dummy():
     >>> print(language_name(languageId="sr_RS.utf8@latin")) # doctest: +NORMALIZE_WHITESPACE
     srpski (Latinica) (Srbija)
     >>> print(language_name(languageId="ss_ZA.utf8")) # doctest: +NORMALIZE_WHITESPACE
-    siSwati (South Africa)
+    siSwati (iNingizimu Afrika)
     >>> print(language_name(languageId="st_ZA.utf8")) # doctest: +NORMALIZE_WHITESPACE
-    Sesotho (South Africa)
+    Sesotho (Afrika Borwa)
     >>> print(language_name(languageId="sv_FI.utf8")) # doctest: +NORMALIZE_WHITESPACE
     svenska (Finland)
     >>> print(language_name(languageId="sv_SE.utf8")) # doctest: +NORMALIZE_WHITESPACE
@@ -1785,7 +1785,7 @@ def dummy():
     >>> print(language_name(languageId="tl_PH.utf8")) # doctest: +NORMALIZE_WHITESPACE
     Tagalog (Philippines)
     >>> print(language_name(languageId="tn_ZA.utf8")) # doctest: +NORMALIZE_WHITESPACE
-    Setswana (South Africa)
+    Setswana (Aforika Borwa)
     >>> print(language_name(languageId="to_TO.utf8")) # doctest: +NORMALIZE_WHITESPACE
     lea fakatonga (Tonga)
     >>> print(language_name(languageId="tpi_PG.utf8")) # doctest: +NORMALIZE_WHITESPACE
@@ -1795,7 +1795,7 @@ def dummy():
     >>> print(language_name(languageId="tr_TR.utf8")) # doctest: +NORMALIZE_WHITESPACE
     Türkçe (Türkiye)
     >>> print(language_name(languageId="ts_ZA.utf8")) # doctest: +NORMALIZE_WHITESPACE
-    Xitsonga (South Africa)
+    Xitsonga (Afrika Dzonga)
     >>> print(language_name(languageId="tt_RU.utf8")) # doctest: +NORMALIZE_WHITESPACE
     татар (Россия)
     >>> print(language_name(languageId="tt_RU.utf8@iqtelif")) # doctest: +NORMALIZE_WHITESPACE
@@ -1815,7 +1815,7 @@ def dummy():
     >>> print(language_name(languageId="uz_UZ.utf8@cyrillic")) # doctest: +NORMALIZE_WHITESPACE
     Ўзбекча (Ўзбекистон)
     >>> print(language_name(languageId="ve_ZA.utf8")) # doctest: +NORMALIZE_WHITESPACE
-    Tshivenḓa (South Africa)
+    Tshivenḓa (Afurika  Tshipembe)
     >>> print(language_name(languageId="vi_VN.utf8")) # doctest: +NORMALIZE_WHITESPACE
     Tiếng Việt (Việt Nam)
     >>> print(language_name(languageId="wa_BE.utf8")) # doctest: +NORMALIZE_WHITESPACE
