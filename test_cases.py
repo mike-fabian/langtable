@@ -1645,7 +1645,7 @@ def dummy():
     >>> print(language_name(languageId="nhn_MX.utf8")) # doctest: +NORMALIZE_WHITESPACE
     Tlahco nāhuatlahtōlli (Mexico)
     >>> print(language_name(languageId="niu_NU.utf8")) # doctest: +NORMALIZE_WHITESPACE
-    ko e vagahau Niuē (Niue)
+    ko e vagahau Niuē (Niuē)
     >>> print(language_name(languageId="niu_NZ.utf8")) # doctest: +NORMALIZE_WHITESPACE
     ko e vagahau Niuē (New Zealand)
     >>> print(language_name(languageId="nl_AW.utf8")) # doctest: +NORMALIZE_WHITESPACE
