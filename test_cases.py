@@ -1783,7 +1783,7 @@ def dummy():
     >>> print(language_name(languageId="tk_TM.utf8")) # doctest: +NORMALIZE_WHITESPACE
     türkmen dili (Türkmenistan)
     >>> print(language_name(languageId="tl_PH.utf8")) # doctest: +NORMALIZE_WHITESPACE
-    Tagalog (Philippines)
+    Tagalog (Pilipinas)
     >>> print(language_name(languageId="tn_ZA.utf8")) # doctest: +NORMALIZE_WHITESPACE
     Setswana (Aforika Borwa)
     >>> print(language_name(languageId="to_TO.utf8")) # doctest: +NORMALIZE_WHITESPACE
