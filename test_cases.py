@@ -1721,7 +1721,7 @@ def dummy():
     >>> print(language_name(languageId="si_LK.utf8")) # doctest: +NORMALIZE_WHITESPACE
     සිංහල (ශ්‍රී ලංකාව)
     >>> print(language_name(languageId="sid_ET.utf8")) # doctest: +NORMALIZE_WHITESPACE
-    Sidaamu Afo (Ethiopia)
+    Sidaamu Afo (Itiyoophiya)
     >>> print(language_name(languageId="sk_SK.utf8")) # doctest: +NORMALIZE_WHITESPACE
     slovenčina (Slovensko)
     >>> print(language_name(languageId="sl_SI.utf8")) # doctest: +NORMALIZE_WHITESPACE
