@@ -1827,7 +1827,7 @@ def dummy():
     >>> print(language_name(languageId="wo_SN.utf8")) # doctest: +NORMALIZE_WHITESPACE
     Wolof (Senegaal)
     >>> print(language_name(languageId="xh_ZA.utf8")) # doctest: +NORMALIZE_WHITESPACE
-    isiXhosa (eMzantsi Afrika)
+    isiXhosa (uMzantsi Afrika)
     >>> print(language_name(languageId="yi_US.utf8")) # doctest: +NORMALIZE_WHITESPACE
     ייִדיש (פֿאַראייניגטע שטאַטן)
     >>> print(language_name(languageId="yo_NG.utf8")) # doctest: +NORMALIZE_WHITESPACE
