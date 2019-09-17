@@ -22662,6 +22662,8 @@
       <name><languageId>be</languageId><trName>Індыя</trName></name>
       <name><languageId>bez</languageId><trName>Huindia</trName></name>
       <name><languageId>bg</languageId><trName>Индия</trName></name>
+      <name><languageId>bhb</languageId><trName>भारत</trName></name>
+      <name><languageId>bho</languageId><trName>भारत</trName></name>
       <name><languageId>bm</languageId><trName>Ɛndujamana</trName></name>
       <name><languageId>bn</languageId><trName>ভারত</trName></name>
       <name><languageId>bo</languageId><trName>རྒྱ་གར་</trName></name>
@@ -22682,6 +22684,7 @@
       <name><languageId>dav</languageId><trName>India</trName></name>
       <name><languageId>de</languageId><trName>Indien</trName></name>
       <name><languageId>dje</languageId><trName>Indu laboo</trName></name>
+      <name><languageId>doi</languageId><trName>भारत</trName></name>
       <name><languageId>dsb</languageId><trName>Indiska</trName></name>
       <name><languageId>dyo</languageId><trName>End</trName></name>
       <name><languageId>dz</languageId><trName>རྒྱ་གར</trName></name>
@@ -22712,6 +22715,8 @@
       <name><languageId>haw</languageId><trName>ʻĪnia</trName></name>
       <name><languageId>he</languageId><trName>הודו</trName></name>
       <name><languageId>hi</languageId><trName>भारत</trName></name>
+      <name><languageId>hif</languageId><trName>भारत</trName></name>
+      <name><languageId>hne</languageId><trName>भारत</trName></name>
       <name><languageId>hr</languageId><trName>Indija</trName></name>
       <name><languageId>hsb</languageId><trName>Indiska</trName></name>
       <name><languageId>hu</languageId><trName>India</trName></name>
@@ -22741,7 +22746,7 @@
       <name><languageId>ko</languageId><trName>인도</trName></name>
       <name><languageId>kok</languageId><trName>भारत</trName></name>
       <name><languageId>ks</languageId><trName>ہِندوستان</trName></name>
-      <name><languageId>ks_Deva</languageId><trName>India</trName></name>
+      <name><languageId>ks_Deva</languageId><trName>भारत</trName></name>
       <name><languageId>ksb</languageId><trName>India</trName></name>
       <name><languageId>ksf</languageId><trName>indí</trName></name>
       <name><languageId>ksh</languageId><trName>Indije</trName></name>
@@ -22759,6 +22764,7 @@
       <name><languageId>luo</languageId><trName>India</trName></name>
       <name><languageId>luy</languageId><trName>India</trName></name>
       <name><languageId>lv</languageId><trName>Indija</trName></name>
+      <name><languageId>mag</languageId><trName>भारत</trName></name>
       <name><languageId>mai</languageId><trName>भारत</trName></name>
       <name><languageId>mas</languageId><trName>India</trName></name>
       <name><languageId>mer</languageId><trName>India</trName></name>
@@ -22793,16 +22799,18 @@
       <name><languageId>ps</languageId><trName>هند</trName></name>
       <name><languageId>pt</languageId><trName>Índia</trName></name>
       <name><languageId>qu</languageId><trName>India</trName></name>
+      <name><languageId>raj</languageId><trName>भारत</trName></name>
       <name><languageId>rm</languageId><trName>India</trName></name>
       <name><languageId>rn</languageId><trName>Ubuhindi</trName></name>
       <name><languageId>ro</languageId><trName>India</trName></name>
       <name><languageId>rof</languageId><trName>India</trName></name>
       <name><languageId>ru</languageId><trName>Индия</trName></name>
       <name><languageId>rwk</languageId><trName>India</trName></name>
+      <name><languageId>sa</languageId><trName>भारतम्</trName></name>
       <name><languageId>saq</languageId><trName>India</trName></name>
       <name><languageId>sbp</languageId><trName>Indiya</trName></name>
       <name><languageId>sd</languageId><trName>انڊيا</trName></name>
-      <name><languageId>sd_Deva</languageId><trName>India</trName></name>
+      <name><languageId>sd_Deva</languageId><trName>भारत</trName></name>
       <name><languageId>se</languageId><trName>India</trName></name>
       <name><languageId>seh</languageId><trName>Índia</trName></name>
       <name><languageId>ses</languageId><trName>Indu laboo</trName></name>

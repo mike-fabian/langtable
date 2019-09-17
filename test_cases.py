@@ -1303,9 +1303,9 @@ def dummy():
     >>> print(language_name(languageId="bg_BG.utf8")) # doctest: +NORMALIZE_WHITESPACE
     български (България)
     >>> print(language_name(languageId="bhb_IN.utf8")) # doctest: +NORMALIZE_WHITESPACE
-    भीली (India)
+    भीली (भारत)
     >>> print(language_name(languageId="bho_IN.utf8")) # doctest: +NORMALIZE_WHITESPACE
-    भोजपुरी (India)
+    भोजपुरी (भारत)
     >>> print(language_name(languageId="bho_NP.utf8")) # doctest: +NORMALIZE_WHITESPACE
     भोजपुरी (Nepal)
     >>> print(language_name(languageId="bi_VU.utf8")) # doctest: +NORMALIZE_WHITESPACE
@@ -1369,7 +1369,7 @@ def dummy():
     >>> print(language_name(languageId="de_LU.utf8")) # doctest: +NORMALIZE_WHITESPACE
     Deutsch (Luxemburg)
     >>> print(language_name(languageId="doi_IN.utf8")) # doctest: +NORMALIZE_WHITESPACE
-    डोगरी (India)
+    डोगरी (भारत)
     >>> print(language_name(languageId="dsb_DE.utf8")) # doctest: +NORMALIZE_WHITESPACE
     dolnoserbšćina (Nimska)
     >>> print(language_name(languageId="dv_MV.utf8")) # doctest: +NORMALIZE_WHITESPACE
@@ -1521,7 +1521,7 @@ def dummy():
     >>> print(language_name(languageId="hif_FJ.utf8")) # doctest: +NORMALIZE_WHITESPACE
     हिन्दी (Fiji)
     >>> print(language_name(languageId="hne_IN.utf8")) # doctest: +NORMALIZE_WHITESPACE
-    छत्तीसगढ़ी (India)
+    छत्तीसगढ़ी (भारत)
     >>> print(language_name(languageId="hr_HR.utf8")) # doctest: +NORMALIZE_WHITESPACE
     hrvatski (Hrvatska)
     >>> print(language_name(languageId="hsb_DE.utf8")) # doctest: +NORMALIZE_WHITESPACE
@@ -1569,7 +1569,7 @@ def dummy():
     >>> print(language_name(languageId="ks_IN.utf8")) # doctest: +NORMALIZE_WHITESPACE
     کٲشُر (ہِندوستان)
     >>> print(language_name(languageId="ks_IN.utf8@devanagari")) # doctest: +NORMALIZE_WHITESPACE
-    कॉशुर (India)
+    कॉशुर (भारत)
     >>> print(language_name(languageId="ku_TR.utf8")) # doctest: +NORMALIZE_WHITESPACE
     kurdî (Tirkiye)
     >>> print(language_name(languageId="kw_GB.utf8")) # doctest: +NORMALIZE_WHITESPACE
@@ -1597,7 +1597,7 @@ def dummy():
     >>> print(language_name(languageId="lzh_TW.utf8")) # doctest: +NORMALIZE_WHITESPACE
     漢語文言 (Taiwan)
     >>> print(language_name(languageId="mag_IN.utf8")) # doctest: +NORMALIZE_WHITESPACE
-    मगही (India)
+    मगही (भारत)
     >>> print(language_name(languageId="mai_IN.utf8")) # doctest: +NORMALIZE_WHITESPACE
     मैथिली (भारत)
     >>> print(language_name(languageId="mai_NP.utf8")) # doctest: +NORMALIZE_WHITESPACE
@@ -1689,7 +1689,7 @@ def dummy():
     >>> print(language_name(languageId="quz_PE.utf8")) # doctest: +NORMALIZE_WHITESPACE
     Qusqu runasimi (Peru)
     >>> print(language_name(languageId="raj_IN.utf8")) # doctest: +NORMALIZE_WHITESPACE
-    राजस्थानी (India)
+    राजस्थानी (भारत)
     >>> print(language_name(languageId="ro_RO.utf8")) # doctest: +NORMALIZE_WHITESPACE
     română (România)
     >>> print(language_name(languageId="ru_RU.utf8")) # doctest: +NORMALIZE_WHITESPACE
@@ -1699,7 +1699,7 @@ def dummy():
     >>> print(language_name(languageId="rw_RW.utf8")) # doctest: +NORMALIZE_WHITESPACE
     Kinyarwanda (U Rwanda)
     >>> print(language_name(languageId="sa_IN.utf8")) # doctest: +NORMALIZE_WHITESPACE
-    संस्कृतम् (India)
+    संस्कृतम् (भारतम्)
     >>> print(language_name(languageId="sah_RU.utf8")) # doctest: +NORMALIZE_WHITESPACE
     саха тыла (Арассыыйа)
     >>> print(language_name(languageId="sat_IN.utf8")) # doctest: +NORMALIZE_WHITESPACE
@@ -1709,7 +1709,7 @@ def dummy():
     >>> print(language_name(languageId="sd_IN.utf8")) # doctest: +NORMALIZE_WHITESPACE
      سنڌي (انڊيا)
     >>> print(language_name(languageId="sd_IN.utf8@devanagari")) # doctest: +NORMALIZE_WHITESPACE
-    सिन्धी (India)
+    सिन्धी (भारत)
     >>> print(language_name(languageId="se_NO.utf8")) # doctest: +NORMALIZE_WHITESPACE
     davvisámegiella (Norga)
     >>> print(language_name(languageId="sgs_LT.utf8")) # doctest: +NORMALIZE_WHITESPACE
