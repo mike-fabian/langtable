@@ -1715,7 +1715,7 @@ def dummy():
     >>> print(language_name(languageId="sgs_LT.utf8")) # doctest: +NORMALIZE_WHITESPACE
     Žemaitėškā (Lietova)
     >>> print(language_name(languageId="shn_MM.utf8")) # doctest: +NORMALIZE_WHITESPACE
-    လိၵ်ႈတႆး (Myanmar (Burma))
+    လိၵ်ႈတႆး (မိူင်းမၢၼ်ႈ)
     >>> print(language_name(languageId="shs_CA.utf8")) # doctest: +NORMALIZE_WHITESPACE
     Secwepemctsín (Canada)
     >>> print(language_name(languageId="si_LK.utf8")) # doctest: +NORMALIZE_WHITESPACE
