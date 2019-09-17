@@ -1703,7 +1703,7 @@ def dummy():
     >>> print(language_name(languageId="sah_RU.utf8")) # doctest: +NORMALIZE_WHITESPACE
     саха тыла (Арассыыйа)
     >>> print(language_name(languageId="sat_IN.utf8")) # doctest: +NORMALIZE_WHITESPACE
-    ᱥᱟᱱᱛᱟᱲᱤ (India)
+    ᱥᱟᱱᱛᱟᱲᱤ (ᱥᱤᱧᱚᱛ)
     >>> print(language_name(languageId="sc_IT.utf8")) # doctest: +NORMALIZE_WHITESPACE
     sardu (Itàlia)
     >>> print(language_name(languageId="sd_IN.utf8")) # doctest: +NORMALIZE_WHITESPACE
