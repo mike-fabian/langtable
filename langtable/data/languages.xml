@@ -28239,7 +28239,7 @@
       <name><languageId>mo</languageId><trName>лимба молдовеняскэ</trName></name>
     </names>
     <scripts>
-      <script><scriptId>Cyrl</scriptId><rank>9000</rank></script>
+      <script><scriptId>Cyrl</scriptId><rank>900</rank></script>
       <script><scriptId>Latn</scriptId><rank>100</rank></script>
     </scripts>
     <locales>
