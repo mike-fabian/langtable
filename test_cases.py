@@ -1622,6 +1622,8 @@ def dummy():
     монгол (Монгол)
     >>> print(language_name(languageId="mni_IN.utf8")) # doctest: +NORMALIZE_WHITESPACE
     মৈতৈলোন্ (ভারত)
+    >>> print(language_name(languageId="mnw_MM.utf8")) # doctest: +NORMALIZE_WHITESPACE
+    မန် (ဗၟာ)
     >>> print(language_name(languageId="mr_IN.utf8")) # doctest: +NORMALIZE_WHITESPACE
     मराठी (भारत)
     >>> print(language_name(languageId="ms_MY.utf8")) # doctest: +NORMALIZE_WHITESPACE

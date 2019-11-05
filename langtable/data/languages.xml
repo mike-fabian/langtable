@@ -28199,6 +28199,36 @@
     </timezones>
   </language>
   <language>
+    <languageId>mnw</languageId>
+    <iso639-1>None</iso639-1>
+    <iso639-2-t>None</iso639-2-t>
+    <iso639-2-b>None</iso639-2-b>
+    <names>
+      <name><languageId>de</languageId><trName>Mon</trName></name>
+      <name><languageId>en</languageId><trName>Mon</trName></name>
+      <name><languageId>mnw</languageId><trName>မန်</trName></name>
+    </names>
+    <scripts>
+      <script><scriptId>Mymr</scriptId><rank>1000</rank></script>
+    </scripts>
+    <locales>
+    </locales>
+    <territories>
+      <territory><territoryId>MM</territoryId><rank>1000</rank></territory>
+    </territories>
+    <keyboards>
+      <keyboard><keyboardId>us</keyboardId><rank>1000</rank></keyboard>
+    </keyboards>
+    <inputmethods>
+    </inputmethods>
+    <consolefonts>
+      <consolefont><consolefontId>eurlatgr</consolefontId><rank>1000</rank></consolefont>
+    </consolefonts>
+    <timezones>
+      <timezone><timezoneId>Asia/Rangoon</timezoneId><rank>1000</rank></timezone>
+    </timezones>
+  </language>
+  <language>
     <languageId>mo</languageId>
     <iso639-1>mo</iso639-1>
     <iso639-2-t>mol</iso639-2-t>
