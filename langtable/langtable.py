@@ -18,6 +18,7 @@
 ######################################################################
 # Public API:
 #
+#     parse_locale()
 #     list_locales()
 #     list_keyboards()
 #     list_consolefonts()
@@ -97,9 +98,14 @@ import os
 import re
 import logging
 import gzip
+import collections
 
 import xml.parsers.expat
 from xml.sax.handler import ContentHandler
+
+Locale = collections.namedtuple(
+    'Locale',
+    ['language', 'script', 'territory', 'variant', 'encoding'])
 
 _INFO = {'data_files_read': []}
 
@@ -965,7 +971,139 @@ def _make_ranked_list_concise(ranked_list, cut_off_factor=1000):
             break
     return ranked_list
 
-def _parse_and_split_languageId(languageId=None, scriptId=None, territoryId=None):
+def parse_locale(localeId):
+    '''
+    Parses a locale name in glibc or CLDR format and returns
+    language, script, territory and encoding
+
+    :param localeId: The name of the locale
+    :type localeId: string
+    :return: The parts of the locale: language, script, territory, variant, encoding
+    :rtype: A namedtuple of strings
+            Locale(language=string,
+                   script=string,
+                   territory=string,
+                   variant=string,
+                   encoding=string)
+
+    It replaces glibc names for scripts like “latin”
+    with the iso-15924 script names like “Latn”.
+    I.e. these inputs all give the same result:
+
+        “sr_latin_RS”
+        “sr_Latn_RS”
+        “sr_RS@latin”
+        “sr_RS@Latn”
+
+    Examples:
+
+    >>> parse_locale('de_DE')
+    Locale(language='de', script='', territory='DE', variant='', encoding='')
+
+    >>> parse_locale('de_DE.UTF-8')
+    Locale(language='de', script='', territory='DE', variant='', encoding='UTF-8')
+
+    >>> parse_locale('de_DE.utf8')
+    Locale(language='de', script='', territory='DE', variant='', encoding='utf8')
+
+    >>> parse_locale('de_DE@euro')
+    Locale(language='de', script='', territory='DE', variant='', encoding='')
+
+    >>> parse_locale('de_DE.ISO-8859-15')
+    Locale(language='de', script='', territory='DE', variant='', encoding='ISO-8859-15')
+
+    >>> parse_locale('de_DE.ISO-8859-15@euro')
+    Locale(language='de', script='', territory='DE', variant='', encoding='ISO-8859-15')
+
+    >>> parse_locale('de_DE.iso885915@euro')
+    Locale(language='de', script='', territory='DE', variant='', encoding='iso885915')
+
+    >>> parse_locale('zh_Hant_TW')
+    Locale(language='zh', script='Hant', territory='TW', variant='', encoding='')
+
+    >>> parse_locale('zh_TW')
+    Locale(language='zh', script='', territory='TW', variant='', encoding='')
+
+    >>> parse_locale('es_419')
+    Locale(language='es', script='', territory='419', variant='', encoding='')
+
+    >>> parse_locale('sr_latin_RS')
+    Locale(language='sr', script='Latn', territory='RS', variant='', encoding='')
+
+    >>> parse_locale('sr_Latn_RS')
+    Locale(language='sr', script='Latn', territory='RS', variant='', encoding='')
+
+    >>> parse_locale('sr_RS@latin')
+    Locale(language='sr', script='Latn', territory='RS', variant='', encoding='')
+
+    >>> parse_locale('sr_RS@Latn')
+    Locale(language='sr', script='Latn', territory='RS', variant='', encoding='')
+
+    >>> parse_locale('sr_RS.UTF-8@latin')
+    Locale(language='sr', script='Latn', territory='RS', variant='', encoding='UTF-8')
+
+    >>> parse_locale('ca_ES')
+    Locale(language='ca', script='', territory='ES', variant='', encoding='')
+
+    >>> parse_locale('ca_ES.UTF-8')
+    Locale(language='ca', script='', territory='ES', variant='', encoding='UTF-8')
+
+    >>> parse_locale('ca_ES_VALENCIA')
+    Locale(language='ca', script='', territory='ES', variant='VALENCIA', encoding='')
+
+    >>> parse_locale('ca_Latn_ES_VALENCIA')
+    Locale(language='ca', script='Latn', territory='ES', variant='VALENCIA', encoding='')
+
+    >>> parse_locale('ca_ES.UTF-8@valencia')
+    Locale(language='ca', script='', territory='ES', variant='VALENCIA', encoding='UTF-8')
+
+    >>> parse_locale('ca_ES@valencia')
+    Locale(language='ca', script='', territory='ES', variant='VALENCIA', encoding='')
+    '''
+    language = ''
+    script = ''
+    territory = ''
+    variant = ''
+    encoding = ''
+    if localeId:
+        dot_index = localeId.find('.')
+        at_index = localeId.find('@')
+        if dot_index >= 0 and at_index > dot_index:
+            encoding  = localeId[dot_index + 1:at_index]
+            localeId = localeId[:dot_index] + localeId[at_index:]
+        elif dot_index >= 0:
+            encoding = localeId[dot_index + 1:]
+            localeId = localeId[:dot_index]
+    if localeId:
+        valencia_index = localeId.lower().find('@valencia')
+        if valencia_index < 0:
+            valencia_index = localeId.upper().find('_VALENCIA')
+        if valencia_index >= 0:
+            variant = 'VALENCIA'
+            localeId = localeId[:valencia_index]
+    if localeId:
+        for key in _glibc_script_ids:
+            if (localeId.endswith('@' + key)
+                or localeId.endswith('@' + _glibc_script_ids[key])):
+                script = _glibc_script_ids[key]
+            localeId = localeId.replace(key, _glibc_script_ids[key])
+    if localeId:
+        match = _cldr_locale_pattern.match(localeId)
+        if match:
+            language = match.group('language')
+            if match.group('script'):
+                script = match.group('script')
+            if match.group('territory'):
+                territory = match.group('territory')
+        else:
+            logging.info("localeId contains invalid locale id=%s" %localeId)
+    return Locale(language=language,
+                  script=script,
+                  territory=territory,
+                  variant=variant,
+                  encoding=encoding)
+
+def _parse_and_split_languageId(languageId='', scriptId='', territoryId=''):
     '''
     Parses languageId and if it contains a valid ICU locale id,
     returns the values for language, script, and territory found
@@ -980,71 +1118,111 @@ def _parse_and_split_languageId(languageId=None, scriptId=None, territoryId=None
     Examples:
 
     >>> _parse_and_split_languageId(languageId='de_DE')
-    ('de', None, 'DE')
+    Locale(language='de', script='', territory='DE', variant='', encoding='')
+
+    >>> _parse_and_split_languageId(languageId='de_DE.UTF-8')
+    Locale(language='de', script='', territory='DE', variant='', encoding='UTF-8')
+
+    >>> _parse_and_split_languageId(languageId='de_DE.utf8')
+    Locale(language='de', script='', territory='DE', variant='', encoding='utf8')
+
+    >>> _parse_and_split_languageId(languageId='de_DE@euro')
+    Locale(language='de', script='', territory='DE', variant='', encoding='')
+
+    >>> _parse_and_split_languageId(languageId='de_DE.ISO-8859-15')
+    Locale(language='de', script='', territory='DE', variant='', encoding='ISO-8859-15')
+
+    >>> _parse_and_split_languageId(languageId='de_DE.ISO-8859-15@euro')
+    Locale(language='de', script='', territory='DE', variant='', encoding='ISO-8859-15')
+
+    >>> _parse_and_split_languageId(languageId='de_DE.iso885915@euro')
+    Locale(language='de', script='', territory='DE', variant='', encoding='iso885915')
 
     >>> _parse_and_split_languageId(languageId='zh_Hant_TW')
-    ('zh', 'Hant', 'TW')
+    Locale(language='zh', script='Hant', territory='TW', variant='', encoding='')
+
+    >>> _parse_and_split_languageId(languageId='zh_TW')
+    Locale(language='zh', script='Hant', territory='TW', variant='', encoding='')
+
+    >>> _parse_and_split_languageId(languageId='zh_Hans_CN')
+    Locale(language='zh', script='Hans', territory='CN', variant='', encoding='')
+
+    >>> _parse_and_split_languageId(languageId='zh_CN')
+    Locale(language='zh', script='Hans', territory='CN', variant='', encoding='')
 
     >>> _parse_and_split_languageId(languageId='es_419')
-    ('es', None, '419')
+    Locale(language='es', script='', territory='419', variant='', encoding='')
 
     >>> _parse_and_split_languageId(languageId='sr_latin_RS')
-    ('sr', 'Latn', 'RS')
+    Locale(language='sr', script='Latn', territory='RS', variant='', encoding='')
 
     >>> _parse_and_split_languageId(languageId='sr_Latn_RS')
-    ('sr', 'Latn', 'RS')
+    Locale(language='sr', script='Latn', territory='RS', variant='', encoding='')
 
     >>> _parse_and_split_languageId(languageId='ca_ES')
-    ('ca', None, 'ES')
+    Locale(language='ca', script='', territory='ES', variant='', encoding='')
 
     >>> _parse_and_split_languageId(languageId='ca_ES.UTF-8')
-    ('ca', None, 'ES')
+    Locale(language='ca', script='', territory='ES', variant='', encoding='UTF-8')
 
     >>> _parse_and_split_languageId(languageId='ca_ES_VALENCIA')
-    ('ca_ES_VALENCIA', None, None)
+    Locale(language='ca_ES_VALENCIA', script='', territory='ES', variant='VALENCIA', encoding='')
+
+    >>> _parse_and_split_languageId(languageId='ca_Latn_ES_VALENCIA')
+    Locale(language='ca_ES_VALENCIA', script='Latn', territory='ES', variant='VALENCIA', encoding='')
+
+    >>> _parse_and_split_languageId(languageId='ca_Latn_ES_valencia')
+    Locale(language='ca_ES_VALENCIA', script='Latn', territory='ES', variant='VALENCIA', encoding='')
 
     >>> _parse_and_split_languageId(languageId='ca_ES.UTF-8@valencia')
-    ('ca_ES_VALENCIA', None, None)
+    Locale(language='ca_ES_VALENCIA', script='', territory='ES', variant='VALENCIA', encoding='UTF-8')
 
     >>> _parse_and_split_languageId(languageId='ca_ES@valencia')
-    ('ca_ES_VALENCIA', None, None)
+    Locale(language='ca_ES_VALENCIA', script='', territory='ES', variant='VALENCIA', encoding='')
+
+    >>> _parse_and_split_languageId(languageId='ca_Latn_ES@valencia')
+    Locale(language='ca_ES_VALENCIA', script='Latn', territory='ES', variant='VALENCIA', encoding='')
+
+    >>> _parse_and_split_languageId(languageId='ca_Latn_ES@VALENCIA')
+    Locale(language='ca_ES_VALENCIA', script='Latn', territory='ES', variant='VALENCIA', encoding='')
     '''
-    if languageId and languageId.lower().find('valencia') >= 0:
-        languageId = 'ca_ES_VALENCIA'
-        scriptId = None
-        territoryId = None
-    if languageId:
-        dot_index = languageId.find('.')
-        at_index = languageId.find('@')
-        if dot_index >= 0 and at_index > dot_index:
-            languageId = languageId[:dot_index] + languageId[at_index:]
-        elif dot_index >= 0:
-            languageId = languageId[:dot_index]
-    for key in _glibc_script_ids:
-        if scriptId:
-            scriptId = scriptId.replace(key, _glibc_script_ids[key])
-        if languageId:
-            if languageId.endswith('@'+key):
-                scriptId = _glibc_script_ids[key]
-            languageId = languageId.replace(key, _glibc_script_ids[key])
-    if (languageId):
-        match = _cldr_locale_pattern.match(languageId)
-        if match:
-            languageId = match.group('language')
-            if match.group('script'):
-                scriptId = match.group('script')
-            if match.group('territory'):
-                territoryId = match.group('territory')
-        else:
-            logging.info("languageId contains invalid locale id=%s" %languageId)
+    locale = parse_locale(languageId)
+    if locale.variant == 'VALENCIA':
+        locale = Locale(language='ca_ES_VALENCIA',
+                        script=locale.script,
+                        territory=locale.territory,
+                        variant=locale.variant,
+                        encoding=locale.encoding)
+    if not locale.script and scriptId:
+        if scriptId in _glibc_script_ids:
+            scriptId = _glibc_script_ids[scriptId]
+        locale = Locale(language=locale.language,
+                        script=scriptId,
+                        territory=locale.territory,
+                        variant=locale.variant,
+                        encoding=locale.encoding)
+    if not locale.territory and territoryId:
+        locale = Locale(language=locale.language,
+                        script=locale.script,
+                        territory=territoryId,
+                        variant=locale.variant,
+                        encoding=locale.encoding)
     # if the language is Chinese and only the territory is given
     # but not the script, add the default script for the territory:
-    if languageId in ('zh', 'cmn') and territoryId and not scriptId:
-        if territoryId in ['CN', 'SG']:
-            scriptId = 'Hans'
-        elif territoryId in ['HK', 'MO', 'TW']:
-            scriptId = 'Hant'
-    return (languageId, scriptId, territoryId)
+    if locale.language in ('zh', 'cmn') and locale.territory and not locale.script:
+        if locale.territory in ['CN', 'SG']:
+            locale = Locale(language=locale.language,
+                            script='Hans',
+                            territory=locale.territory,
+                            variant=locale.variant,
+                            encoding=locale.encoding)
+        elif locale.territory in ['HK', 'MO', 'TW']:
+            locale = Locale(language=locale.language,
+                            script='Hant',
+                            territory=locale.territory,
+                            variant=locale.variant,
+                            encoding=locale.encoding)
+    return locale
 
 def territory_name(territoryId = None, languageIdQuery = None, scriptIdQuery = None, territoryIdQuery = None, fallback=True):
     u'''Query translations of territory names
@@ -1079,10 +1257,12 @@ def territory_name(territoryId = None, languageIdQuery = None, scriptIdQuery = N
     >>> print(territory_name(territoryId="CH", languageIdQuery="ja"))
     スイス
     '''
-    languageIdQuery, scriptIdQuery, territoryIdQuery = _parse_and_split_languageId(
-        languageId=languageIdQuery,
-        scriptId=scriptIdQuery,
-        territoryId=territoryIdQuery)
+    locale = _parse_and_split_languageId(languageId=languageIdQuery,
+                                         scriptId=scriptIdQuery,
+                                         territoryId=territoryIdQuery)
+    languageIdQuery = locale.language
+    scriptIdQuery = locale.script
+    territoryIdQuery = locale.territory
     if territoryId in _territories_db:
         if languageIdQuery and scriptIdQuery and territoryIdQuery:
             icuLocaleIdQuery = languageIdQuery+'_'+scriptIdQuery+'_'+territoryIdQuery
@@ -1161,15 +1341,40 @@ def language_name(languageId = None, scriptId = None, territoryId = None, langua
 
     >>> print(language_name(languageId="es_419", languageIdQuery="en"))
     Spanish (Latin America)
+
+    >>> print(language_name(languageId="ca_ES"))
+    català (Espanya)
+
+    >>> print(language_name(languageId="ca_ES.UTF-8"))
+    català (Espanya)
+
+    >>> print(language_name(languageId="ca_ES@valencia"))
+    valencià (Espanya)
+
+    >>> print(language_name(languageId="ca_ES.utf8@valencia"))
+    valencià (Espanya)
+
+    >>> print(language_name(languageId="ca_ES.utf8@valencia"))
+    valencià (Espanya)
+
+    >>> print(language_name(languageId="ca_ES.utf8@valencia", languageIdQuery='de'))
+    Valencianisch (Spanien)
+
+    >>> print(language_name(languageId="ca_ES.utf8@valencia", languageIdQuery='en'))
+    Valencian (Spain)
     '''
-    languageId, scriptId, territoryId = _parse_and_split_languageId(
-        languageId=languageId,
-        scriptId=scriptId,
-        territoryId=territoryId)
-    languageIdQuery, scriptIdQuery, territoryIdQuery = _parse_and_split_languageId(
-        languageId=languageIdQuery,
-        scriptId=scriptIdQuery,
-        territoryId=territoryIdQuery)
+    locale = _parse_and_split_languageId(languageId=languageId,
+                                         scriptId=scriptId,
+                                         territoryId=territoryId)
+    languageId = locale.language
+    scriptId = locale.script
+    territoryId = locale.territory
+    localeQuery = _parse_and_split_languageId(languageId=languageIdQuery,
+                                              scriptId=scriptIdQuery,
+                                              territoryId=territoryIdQuery)
+    languageIdQuery = localeQuery.language
+    scriptIdQuery = localeQuery.script
+    territoryIdQuery = localeQuery.territory
     if not languageIdQuery:
         # get the endonym
         languageIdQuery = languageId
@@ -1248,16 +1453,19 @@ def language_name(languageId = None, scriptId = None, territoryId = None, langua
                 icuLocaleIdQuery = languageIdQuery
                 if icuLocaleIdQuery in _languages_db[icuLocaleId].names:
                     return _languages_db[icuLocaleId].names[icuLocaleIdQuery]
-        lname = language_name(languageId=languageId,
-                              languageIdQuery=languageIdQuery,
-                              scriptIdQuery=scriptIdQuery,
-                              territoryIdQuery=territoryIdQuery)
-        cname = territory_name(territoryId=territoryId,
-                             languageIdQuery=languageIdQuery,
-                             scriptIdQuery=scriptIdQuery,
-                             territoryIdQuery=territoryIdQuery)
-        if lname and cname:
-            return lname + ' ('+cname+')'
+        if not locale.variant:
+            # Don’t do this if locale variant is not empty (e.g. ca_ES_VALENCIA)
+            # because then this will run into endless recursion:
+            lname = language_name(languageId=languageId,
+                                  languageIdQuery=languageIdQuery,
+                                  scriptIdQuery=scriptIdQuery,
+                                  territoryIdQuery=territoryIdQuery)
+            cname = territory_name(territoryId=territoryId,
+                                 languageIdQuery=languageIdQuery,
+                                 scriptIdQuery=scriptIdQuery,
+                                 territoryIdQuery=territoryIdQuery)
+            if lname and cname:
+                return lname + ' ('+cname+')'
     if languageId:
         icuLocaleId = languageId
         if icuLocaleId in _languages_db:
@@ -1346,10 +1554,12 @@ def timezone_name(timezoneId = None, languageIdQuery = None, scriptIdQuery = Non
     >>> print(timezone_name(timezoneId='Pacific/Pago_Pago', languageIdQuery='xxx'))
     Pacific/Pago_Pago
     '''
-    languageIdQuery, scriptIdQuery, territoryIdQuery = _parse_and_split_languageId(
-        languageId=languageIdQuery,
-        scriptId=scriptIdQuery,
-        territoryId=territoryIdQuery)
+    locale = _parse_and_split_languageId(languageId=languageIdQuery,
+                                         scriptId=scriptIdQuery,
+                                         territoryId=territoryIdQuery)
+    languageIdQuery = locale.language
+    scriptIdQuery = locale.script
+    territoryIdQuery = locale.territory
     if languageIdQuery and scriptIdQuery and territoryIdQuery:
         name = _timezone_name(
             timezoneId=timezoneId,
@@ -1510,10 +1720,12 @@ def list_locales(concise=True, show_weights=False, languageId = None, scriptId =
     '''
     ranked_locales = {}
     skipTerritory = False
-    languageId, scriptId, territoryId = _parse_and_split_languageId(
-        languageId=languageId,
-        scriptId=scriptId,
-        territoryId=territoryId)
+    locale = _parse_and_split_languageId(languageId=languageId,
+                                         scriptId=scriptId,
+                                         territoryId=territoryId)
+    languageId = locale.language
+    scriptId = locale.script
+    territoryId = locale.territory
     if languageId and scriptId and territoryId and languageId+'_'+scriptId+'_'+territoryId in _languages_db:
         languageId = languageId+'_'+scriptId+'_'+territoryId
         skipTerritory = True
@@ -1608,10 +1820,12 @@ def list_scripts(concise=True, show_weights=False, languageId = None, scriptId =
     '''
     ranked_scripts = {}
     skipTerritory = False
-    languageId, scriptId, territoryId = _parse_and_split_languageId(
-        languageId=languageId,
-        scriptId=scriptId,
-        territoryId=territoryId)
+    locale = _parse_and_split_languageId(languageId=languageId,
+                                         scriptId=scriptId,
+                                         territoryId=territoryId)
+    languageId = locale.language
+    scriptId = locale.script
+    territoryId = locale.territory
     if scriptId:
         # scriptId is already given in the input, just return it:
         return [scriptId]
@@ -1679,10 +1893,12 @@ def list_inputmethods(concise=True, show_weights=False, languageId = None, scrip
     '''
     ranked_inputmethods = {}
     skipTerritory = False
-    languageId, scriptId, territoryId = _parse_and_split_languageId(
-        languageId=languageId,
-        scriptId=scriptId,
-        territoryId=territoryId)
+    locale = _parse_and_split_languageId(languageId=languageId,
+                                         scriptId=scriptId,
+                                         territoryId=territoryId)
+    languageId = locale.language
+    scriptId = locale.script
+    territoryId = locale.territory
     if languageId and scriptId and territoryId and languageId+'_'+scriptId+'_'+territoryId in _languages_db:
         languageId = languageId+'_'+scriptId+'_'+territoryId
         skipTerritory = True
@@ -1755,10 +1971,12 @@ def list_keyboards(concise=True, show_weights=False, languageId = None, scriptId
     '''
     ranked_keyboards = {}
     skipTerritory = False
-    languageId, scriptId, territoryId = _parse_and_split_languageId(
-        languageId=languageId,
-        scriptId=scriptId,
-        territoryId=territoryId)
+    locale = _parse_and_split_languageId(languageId=languageId,
+                                         scriptId=scriptId,
+                                         territoryId=territoryId)
+    languageId = locale.language
+    scriptId = locale.script
+    territoryId = locale.territory
     if languageId and scriptId and territoryId and languageId+'_'+scriptId+'_'+territoryId in _languages_db:
         languageId = languageId+'_'+scriptId+'_'+territoryId
         skipTerritory = True
@@ -1852,10 +2070,12 @@ def list_consolefonts(concise=True, show_weights=False, languageId = None, scrip
     '''
     ranked_consolefonts = {}
     skipTerritory = False
-    languageId, scriptId, territoryId = _parse_and_split_languageId(
-        languageId=languageId,
-        scriptId=scriptId,
-        territoryId=territoryId)
+    locale = _parse_and_split_languageId(languageId=languageId,
+                                         scriptId=scriptId,
+                                         territoryId=territoryId)
+    languageId = locale.language
+    scriptId = locale.script
+    territoryId = locale.territory
     if languageId and scriptId and territoryId and languageId+'_'+scriptId+'_'+territoryId in _languages_db:
         languageId = languageId+'_'+scriptId+'_'+territoryId
         skipTerritory = True
@@ -1931,10 +2151,12 @@ def list_timezones(concise=True, show_weights=False, languageId = None, scriptId
     '''
     ranked_timezones = {}
     skipTerritory = False
-    languageId, scriptId, territoryId = _parse_and_split_languageId(
-        languageId=languageId,
-        scriptId=scriptId,
-        territoryId=territoryId)
+    locale = _parse_and_split_languageId(languageId=languageId,
+                                         scriptId=scriptId,
+                                         territoryId=territoryId)
+    languageId = locale.language
+    scriptId = locale.script
+    territoryId = locale.territory
     if languageId and scriptId and territoryId and languageId+'_'+scriptId+'_'+territoryId in _languages_db:
         languageId = languageId+'_'+scriptId+'_'+territoryId
         skipTerritory = True
