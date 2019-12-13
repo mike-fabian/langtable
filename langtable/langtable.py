@@ -2006,8 +2006,12 @@ def info():
     Print some info about langtable
     '''
     import pkg_resources  # part of setuptools
+    project_name = pkg_resources.require("langtable")[0].project_name
     version = pkg_resources.require("langtable")[0].version
+    module_path = pkg_resources.require("langtable")[0].module_path
+    print('Project name: = %s' %project_name)
     print('Version: = %s' %version)
+    print('Module path: = %s' %module_path)
     print('Loaded from: %s' %os.path.realpath(__file__))
     print('Data files read: %s' %_INFO['data_files_read'])
 
