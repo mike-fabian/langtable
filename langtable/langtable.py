@@ -1363,6 +1363,9 @@ def language_name(languageId = None, scriptId = None, territoryId = None, langua
     >>> print(language_name(languageId="ca_ES.utf8@valencia", languageIdQuery='en'))
     Valencian (Spain)
     '''
+    if not languageId:
+        return ''
+    icuLocaleId = ''
     locale = _parse_and_split_languageId(languageId=languageId,
                                          scriptId=scriptId,
                                          territoryId=territoryId)
@@ -1466,25 +1469,24 @@ def language_name(languageId = None, scriptId = None, territoryId = None, langua
                                  territoryIdQuery=territoryIdQuery)
             if lname and cname:
                 return lname + ' ('+cname+')'
-    if languageId:
-        icuLocaleId = languageId
-        if icuLocaleId in _languages_db:
-            if languageIdQuery and  scriptIdQuery and territoryIdQuery:
-                icuLocaleIdQuery = languageIdQuery+'_'+scriptIdQuery+'_'+territoryIdQuery
-                if icuLocaleIdQuery in _languages_db[icuLocaleId].names:
-                    return _languages_db[icuLocaleId].names[icuLocaleIdQuery]
-            if languageIdQuery and  scriptIdQuery:
-                icuLocaleIdQuery = languageIdQuery+'_'+scriptIdQuery
-                if icuLocaleIdQuery in _languages_db[icuLocaleId].names:
-                    return _languages_db[icuLocaleId].names[icuLocaleIdQuery]
-            if  languageIdQuery and  territoryIdQuery:
-                icuLocaleIdQuery = languageIdQuery+'_'+territoryIdQuery
-                if icuLocaleIdQuery in _languages_db[icuLocaleId].names:
-                    return _languages_db[icuLocaleId].names[icuLocaleIdQuery]
-            if languageIdQuery:
-                icuLocaleIdQuery = languageIdQuery
-                if icuLocaleIdQuery in _languages_db[icuLocaleId].names:
-                    return _languages_db[icuLocaleId].names[icuLocaleIdQuery]
+    icuLocaleId = languageId
+    if icuLocaleId in _languages_db:
+        if languageIdQuery and  scriptIdQuery and territoryIdQuery:
+            icuLocaleIdQuery = languageIdQuery+'_'+scriptIdQuery+'_'+territoryIdQuery
+            if icuLocaleIdQuery in _languages_db[icuLocaleId].names:
+                return _languages_db[icuLocaleId].names[icuLocaleIdQuery]
+        if languageIdQuery and  scriptIdQuery:
+            icuLocaleIdQuery = languageIdQuery+'_'+scriptIdQuery
+            if icuLocaleIdQuery in _languages_db[icuLocaleId].names:
+                return _languages_db[icuLocaleId].names[icuLocaleIdQuery]
+        if  languageIdQuery and  territoryIdQuery:
+            icuLocaleIdQuery = languageIdQuery+'_'+territoryIdQuery
+            if icuLocaleIdQuery in _languages_db[icuLocaleId].names:
+                return _languages_db[icuLocaleId].names[icuLocaleIdQuery]
+        if languageIdQuery:
+            icuLocaleIdQuery = languageIdQuery
+            if icuLocaleIdQuery in _languages_db[icuLocaleId].names:
+                return _languages_db[icuLocaleId].names[icuLocaleIdQuery]
     if (fallback
         and icuLocaleId
         and icuLocaleId in _languages_db
