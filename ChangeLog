@@ -1,3 +1,9 @@
+2019-12-20  Mike FABIAN  <mfabian@redhat.com>
+
+	* Make parse_locale() return something reasonable for
+	C, POSIX, en_US_POSIX, and C.UTF-8
+	* Fix exception in language_name() when called with languageId=''
+
 2019-12-12  Mike FABIAN  <mfabian@redhat.com>
 
 	* Add new public function parse_locale()
