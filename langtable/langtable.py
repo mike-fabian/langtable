@@ -1059,6 +1059,18 @@ def parse_locale(localeId):
 
     >>> parse_locale('ca_ES@valencia')
     Locale(language='ca', script='', territory='ES', variant='VALENCIA', encoding='')
+
+    >>> parse_locale('en_US_POSIX')
+    Locale(language='en', script='', territory='US', variant='POSIX', encoding='')
+
+    >>> parse_locale('POSIX')
+    Locale(language='en', script='', territory='US', variant='POSIX', encoding='')
+
+    >>> parse_locale('C')
+    Locale(language='en', script='', territory='US', variant='POSIX', encoding='')
+
+    >>> parse_locale('C.UTF-8')
+    Locale(language='en', script='', territory='US', variant='POSIX', encoding='UTF-8')
     '''
     language = ''
     script = ''
@@ -1081,6 +1093,12 @@ def parse_locale(localeId):
         if valencia_index >= 0:
             variant = 'VALENCIA'
             localeId = localeId[:valencia_index]
+    if localeId:
+        if localeId in ('C', 'POSIX', 'en_US_POSIX'):
+            language = 'en'
+            territory = 'US'
+            variant = 'POSIX'
+            localeId = ''
     if localeId:
         for key in _glibc_script_ids:
             if (localeId.endswith('@' + key)
@@ -1187,6 +1205,12 @@ def _parse_and_split_languageId(languageId='', scriptId='', territoryId=''):
     Locale(language='ca_ES_VALENCIA', script='Latn', territory='ES', variant='VALENCIA', encoding='')
     '''
     locale = parse_locale(languageId)
+    if locale.variant == 'POSIX': # ignore the posix variant
+        locale = Locale(language=locale.language,
+                        script=locale.script,
+                        territory=locale.territory,
+                        variant='',
+                        encoding=locale.encoding)
     if locale.variant == 'VALENCIA':
         locale = Locale(language='ca_ES_VALENCIA',
                         script=locale.script,
