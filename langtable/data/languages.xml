@@ -6620,6 +6620,7 @@
       <script><scriptId>Arab</scriptId><rank>1000</rank></script>
     </scripts>
     <locales>
+      <locale><localeId>ckb_IQ.UTF-8</localeId><rank>1000</rank></locale>
     </locales>
     <territories>
       <territory><territoryId>IQ</territoryId><rank>900</rank></territory>
