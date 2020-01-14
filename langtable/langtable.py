@@ -974,7 +974,7 @@ def _make_ranked_list_concise(ranked_list, cut_off_factor=1000):
 def parse_locale(localeId):
     '''
     Parses a locale name in glibc or CLDR format and returns
-    language, script, territory and encoding
+    language, script, territory, variant, and encoding
 
     :param localeId: The name of the locale
     :type localeId: string
@@ -1007,16 +1007,22 @@ def parse_locale(localeId):
     Locale(language='de', script='', territory='DE', variant='', encoding='utf8')
 
     >>> parse_locale('de_DE@euro')
-    Locale(language='de', script='', territory='DE', variant='', encoding='')
+    Locale(language='de', script='', territory='DE', variant='EURO', encoding='')
 
     >>> parse_locale('de_DE.ISO-8859-15')
     Locale(language='de', script='', territory='DE', variant='', encoding='ISO-8859-15')
 
     >>> parse_locale('de_DE.ISO-8859-15@euro')
-    Locale(language='de', script='', territory='DE', variant='', encoding='ISO-8859-15')
+    Locale(language='de', script='', territory='DE', variant='EURO', encoding='ISO-8859-15')
 
     >>> parse_locale('de_DE.iso885915@euro')
-    Locale(language='de', script='', territory='DE', variant='', encoding='iso885915')
+    Locale(language='de', script='', territory='DE', variant='EURO', encoding='iso885915')
+
+    >>> parse_locale('gez_ER.UTF-8@abegede')
+    Locale(language='gez', script='', territory='ER', variant='ABEGEDE', encoding='UTF-8')
+
+    >>> parse_locale('ar_ER.UTF-8@saaho')
+    Locale(language='ar', script='', territory='ER', variant='SAAHO', encoding='UTF-8')
 
     >>> parse_locale('zh_Hant_TW')
     Locale(language='zh', script='Hant', territory='TW', variant='', encoding='')
@@ -1101,10 +1107,19 @@ def parse_locale(localeId):
             localeId = ''
     if localeId:
         for key in _glibc_script_ids:
-            if (localeId.endswith('@' + key)
-                or localeId.endswith('@' + _glibc_script_ids[key])):
-                script = _glibc_script_ids[key]
             localeId = localeId.replace(key, _glibc_script_ids[key])
+            if localeId.endswith('@' + _glibc_script_ids[key]):
+                script = _glibc_script_ids[key]
+                localeId = localeId.replace('@' + _glibc_script_ids[key], '')
+    if localeId:
+        at_index = localeId.find('@')
+        if at_index >= 0:
+            # If there is still an @ followed by something, it is not
+            # a known script, otherwise it would have been parsed as a
+            # script in the previous section. In that case it is a
+            # variant of the locale.
+            variant = localeId[at_index + 1:].upper()
+            localeId = localeId[:at_index]
     if localeId:
         match = _cldr_locale_pattern.match(localeId)
         if match:
@@ -1145,16 +1160,22 @@ def _parse_and_split_languageId(languageId='', scriptId='', territoryId=''):
     Locale(language='de', script='', territory='DE', variant='', encoding='utf8')
 
     >>> _parse_and_split_languageId(languageId='de_DE@euro')
-    Locale(language='de', script='', territory='DE', variant='', encoding='')
+    Locale(language='de', script='', territory='DE', variant='EURO', encoding='')
 
     >>> _parse_and_split_languageId(languageId='de_DE.ISO-8859-15')
     Locale(language='de', script='', territory='DE', variant='', encoding='ISO-8859-15')
 
     >>> _parse_and_split_languageId(languageId='de_DE.ISO-8859-15@euro')
-    Locale(language='de', script='', territory='DE', variant='', encoding='ISO-8859-15')
+    Locale(language='de', script='', territory='DE', variant='EURO', encoding='ISO-8859-15')
 
     >>> _parse_and_split_languageId(languageId='de_DE.iso885915@euro')
-    Locale(language='de', script='', territory='DE', variant='', encoding='iso885915')
+    Locale(language='de', script='', territory='DE', variant='EURO', encoding='iso885915')
+
+    >>> _parse_and_split_languageId(languageId='gez_ER.UTF-8@abegede')
+    Locale(language='gez', script='', territory='ER', variant='ABEGEDE', encoding='UTF-8')
+
+    >>> _parse_and_split_languageId(languageId='ar_ER.UTF-8@saaho')
+    Locale(language='ar', script='', territory='ER', variant='SAAHO', encoding='UTF-8')
 
     >>> _parse_and_split_languageId(languageId='zh_Hant_TW')
     Locale(language='zh', script='Hant', territory='TW', variant='', encoding='')
@@ -1480,8 +1501,8 @@ def language_name(languageId = None, scriptId = None, territoryId = None, langua
                 icuLocaleIdQuery = languageIdQuery
                 if icuLocaleIdQuery in _languages_db[icuLocaleId].names:
                     return _languages_db[icuLocaleId].names[icuLocaleIdQuery]
-        if not locale.variant:
-            # Don’t do this if locale variant is not empty (e.g. ca_ES_VALENCIA)
+        if not locale.variant in ('VALENCIA',):
+            # Don’t do this if locale variant is VALENCIA
             # because then this will run into endless recursion:
             lname = language_name(languageId=languageId,
                                   languageIdQuery=languageIdQuery,
