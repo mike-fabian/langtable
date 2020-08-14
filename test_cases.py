@@ -16,6 +16,7 @@ def dummy():
     >>> from langtable import _test_cldr_locale_pattern
     >>> from langtable import supports_ascii
     >>> from langtable import languageId
+    >>> from langtable import list_common_keyboards
 
     ######################################################################
     # Start of tests to reproduce the results from mangleLocale(inLocale) in anaconda, see:
@@ -2071,6 +2072,24 @@ def dummy():
 
     >>> print(langtable.timezone_name(timezoneId='Pacific/Pago_Pago', languageIdQuery='ast'))  # doctest: +NORMALIZE_WHITESPACE
         Océanu Pacíficu/Pago Pago
+    >>> print(list_common_keyboards())  # doctest: +NORMALIZE_WHITESPACE
+        ['af(ps)', 'al', 'am', 'ara', 'az', 'ba', 'be(oss)', 'bg', 'br', 'bt', 'by', 'ca(eng)', 'ca(ike)', 'ch', 'cn', 'cn(ug)', 'cz', 'de(nodeadkeys)', 'dk', 'ee', 'es', 'es(ast)', 'es(cat)', 'et', 'fi', 'fo', 'fr(bre)', 'fr(oss)', 'gb', 'ge', 'gr', 'hr', 'hu', 'ie(CloGaelach)', 'il', 'in(eng)', 'ir', 'is', 'it', 'jp', 'ke', 'kg', 'kh', 'kr', 'kz', 'la', 'latam', 'lt', 'lv', 'ma(tifinagh)', 'mk', 'mm', 'mn', 'mt', 'mv', 'ng(hausa)', 'ng(igbo)', 'ng(yoruba)', 'no', 'np', 'ph', 'pk', 'pl', 'ro', 'rs', 'rs(latin)', 'ru', 'ru(bak)', 'ru(chm)', 'ru(cv)', 'ru(kom)', 'ru(os_winkeys)', 'ru(sah)', 'ru(tt)', 'ru(udm)', 'ru(xal)', 'se', 'si', 'sk', 'sn', 'syc', 'th', 'tj', 'tm', 'tr', 'tr(crh)', 'tr(ku)', 'tw', 'ua', 'us', 'us(altgr-intl)', 'us(euro)', 'us(intl)', 'uz', 'vn', 'za']
+    >>> print(list_common_keyboards(languageId='fr'))  # doctest: +NORMALIZE_WHITESPACE
+        ['fr(oss)']
+    >>> print(list_common_keyboards(territoryId='CA'))   # doctest: +NORMALIZE_WHITESPACE
+        ['ca(eng)']
+    >>> print(list_common_keyboards(territoryId='FR'))   # doctest: +NORMALIZE_WHITESPACE
+        ['fr(oss)']
+    >>> print(list_common_keyboards(languageId='fr', territoryId='CA'))   # doctest: +NORMALIZE_WHITESPACE
+        ['ca']
+    >>> print(list_common_keyboards(languageId='de', territoryId='FR'))   # doctest: +NORMALIZE_WHITESPACE
+        ['fr(oss)']
+    >>> print(list_common_keyboards(languageId='sr', scriptId='Latn'))   # doctest: +NORMALIZE_WHITESPACE
+        ['rs(latin)']
+    >>> print(list_common_keyboards(languageId='zh', scriptId='Hans'))   # doctest: +NORMALIZE_WHITESPACE
+        ['cn']
+    >>> print(list_common_keyboards(languageId='zh', scriptId='Hans', territoryId='TW'))   # doctest: +NORMALIZE_WHITESPACE
+        ['tw']
     '''
 
 if __name__ == "__main__":

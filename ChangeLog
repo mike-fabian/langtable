@@ -1,3 +1,7 @@
+2020-08-17 Sundeep ANAND <suanand@redhat.com>
+
+	* add list_common_keyboards() to public api
+
 2020-01-14  Mike FABIAN  <mfabian@redhat.com>
 
 	* Parse stuff in glibc locale names after @ which is not a script as a variant

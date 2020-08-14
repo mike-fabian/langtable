@@ -50,11 +50,19 @@ import langtable
 
 Functions in the public API:
 
+     parse_locale()
      list_locales()
      list_keyboards()
+     list_common_keyboards()
      list_consolefonts()
+     list_inputmethods()
+     list_timezones()
+     list_scripts()
      language_name()
      territory_name()
+     timezone_name()
+     languageId()
+     territoryId()
      supports_ascii()
 
 Some examples to show the usage are found in the documentation

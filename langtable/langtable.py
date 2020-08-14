@@ -21,6 +21,7 @@
 #     parse_locale()
 #     list_locales()
 #     list_keyboards()
+#     list_common_keyboards()
 #     list_consolefonts()
 #     list_inputmethods()
 #     list_timezones()
@@ -111,6 +112,10 @@ _INFO = {'data_files_read': []}
 
 # will be replaced by “make install”:
 _DATADIR = '/usr/share/langtable'
+
+# Rank threshold to qualify a
+# keyboard layout as prevalent
+_KEYBOARD_LAYOUT_RANK_THRESHOLD = 500
 
 # For the ICU/CLDR locale pattern see: http://userguide.icu-project.org/locale
 # (We ignore the variant code here)
@@ -2059,6 +2064,66 @@ def list_keyboards(concise=True, show_weights=False, languageId = None, scriptId
         return ranked_list
     else:
         return _ranked_list_to_list(ranked_list)
+
+def list_common_keyboards(languageId = None, scriptId = None, territoryId = None):
+    '''Returns highest ranked keyboard layout(s)
+
+    :param languageId: identifier for the language
+    :type languageId: string
+    :param scriptId: identifier for the script
+    :type scriptId: string
+    :param territoryId: identifier for the territory
+    :type territoryId: string
+    :return: list of keyboard layouts
+    :rtype: list of str(s)
+
+    **Examples:**
+
+    >>> list_common_keyboards()
+    ['af(ps)', 'al', 'am', 'ara', 'az', 'ba', 'be(oss)', 'bg', 'br', 'bt', 'by', 'ca(eng)', 'ca(ike)', 'ch', 'cn', 'cn(ug)', 'cz', 'de(nodeadkeys)', 'dk', 'ee', 'es', 'es(ast)', 'es(cat)', 'et', 'fi', 'fo', 'fr(bre)', 'fr(oss)', 'gb', 'ge', 'gr', 'hr', 'hu', 'ie(CloGaelach)', 'il', 'in(eng)', 'ir', 'is', 'it', 'jp', 'ke', 'kg', 'kh', 'kr', 'kz', 'la', 'latam', 'lt', 'lv', 'ma(tifinagh)', 'mk', 'mm', 'mn', 'mt', 'mv', 'ng(hausa)', 'ng(igbo)', 'ng(yoruba)', 'no', 'np', 'ph', 'pk', 'pl', 'ro', 'rs', 'rs(latin)', 'ru', 'ru(bak)', 'ru(chm)', 'ru(cv)', 'ru(kom)', 'ru(os_winkeys)', 'ru(sah)', 'ru(tt)', 'ru(udm)', 'ru(xal)', 'se', 'si', 'sk', 'sn', 'syc', 'th', 'tj', 'tm', 'tr', 'tr(crh)', 'tr(ku)', 'tw', 'ua', 'us', 'us(altgr-intl)', 'us(euro)', 'us(intl)', 'uz', 'vn', 'za']
+    >>> list_common_keyboards(languageId='fr')
+    ['fr(oss)']
+    >>> list_common_keyboards(territoryId='CA')
+    ['ca(eng)']
+    >>> list_common_keyboards(territoryId='FR')
+    ['fr(oss)']
+    >>> list_common_keyboards(languageId='fr', territoryId='CA')
+    ['ca']
+    >>> list_common_keyboards(languageId='de', territoryId='FR')
+    ['fr(oss)']
+    >>> list_common_keyboards(languageId='sr', scriptId='Latn')
+    ['rs(latin)']
+    >>> list_common_keyboards(languageId='zh', scriptId='Hans')
+    ['cn']
+    >>> list_common_keyboards(languageId='zh', scriptId='Hans', territoryId='TW')
+    ['tw']
+    '''
+    high_ranked_keyboards = list()
+    if not languageId and not scriptId and not territoryId:
+        for _, language in _languages_db.items():
+            keyboard_layouts = language.keyboards
+            selected_layouts = [layout for layout, rank in keyboard_layouts.items()
+                                if rank >= _KEYBOARD_LAYOUT_RANK_THRESHOLD]
+            if selected_layouts:
+                high_ranked_keyboards.extend(selected_layouts)
+        high_ranked_keyboards = list(set(high_ranked_keyboards))
+
+    kwargs = dict()
+    locale = _parse_and_split_languageId(
+        languageId=languageId, scriptId=scriptId, territoryId=territoryId
+    )
+    if locale.language:
+        kwargs.update(dict(languageId=locale.language))
+    if locale.script:
+        kwargs.update(dict(scriptId=locale.script))
+    if locale.territory:
+        kwargs.update(dict(territoryId=locale.territory))
+    common_layouts = list_keyboards(**kwargs)
+    if common_layouts:
+        # Picking up first layout from the list
+        high_ranked_keyboards.append(common_layouts[0])
+
+    return sorted(high_ranked_keyboards)
 
 def list_consolefonts(concise=True, show_weights=False, languageId = None, scriptId = None, territoryId = None):
     u'''List likely Linux Console fonts
