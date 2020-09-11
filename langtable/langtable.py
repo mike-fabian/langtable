@@ -976,6 +976,41 @@ def _make_ranked_list_concise(ranked_list, cut_off_factor=1000):
             break
     return ranked_list
 
+def _capitalize_name(text, languageId='', scriptId='', territoryId='', languageIdQuery='', scriptIdQuery='', territoryIdQuery=''):
+    '''
+    Title cases the first letter of “text”
+
+    But make exceptions for certain languages where always upper casing the first
+    letter does not make sense even for standalone strings.
+
+    :param text: The text which may need its first letter uppercased to be
+                 used standalone
+    :type text: string
+    :param languageId: identifier for the language
+    :type languageId: string
+    :param scriptId: identifier for the script
+    :type scriptId: string
+    :param territoryId: identifier for the territory
+    :type territoryId: string
+    :param languageIdQuery: identifier for the language used in the result
+    :type languageIdQuery: string
+    :param scriptIdQuery: identifier for the script used in the result
+    :type scriptIdQuery: string
+    :param territoryIdQuery: identifier for the territory used in the result
+    :type territoryIdQuery: string
+    :rtype: string
+    '''
+    if not text or text[0].istitle():
+        return text
+    if not languageIdQuery:
+        languageIdQuery = languageId
+    if not languageIdQuery:
+        languageIdQuery = 'en'
+    for lang in ('ka', 'nr', 'ss', 'xh', 'yo', 'zu'):
+        if re.match(r'^%s' % lang, languageIdQuery):
+            return text
+    return text[0].capitalize() + text[1:]
+
 def parse_locale(localeId):
     '''
     Parses a locale name in glibc or CLDR format and returns
@@ -1307,6 +1342,33 @@ def territory_name(territoryId = None, languageIdQuery = None, scriptIdQuery = N
     >>> print(territory_name(territoryId="CH", languageIdQuery="ja"))
     スイス
     '''
+    return _capitalize_name(
+        _territory_name(territoryId=territoryId,
+                         languageIdQuery=languageIdQuery,
+                         scriptIdQuery=scriptIdQuery,
+                         territoryIdQuery=territoryIdQuery,
+                         fallback=fallback),
+        territoryId=territoryId,
+        languageIdQuery=languageIdQuery,
+        scriptIdQuery=scriptIdQuery,
+        territoryIdQuery=territoryIdQuery)
+
+def _territory_name(territoryId = None, languageIdQuery = None, scriptIdQuery = None, territoryIdQuery = None, fallback=True):
+    u'''Internal function to query translations of territory names
+
+    :param territoryId: identifier for the territory
+    :type territoryId: string
+    :param languageIdQuery: identifier for the language used in the result
+    :type languageIdQuery: string
+    :param scriptIdQuery: identifier for the script used in the result
+    :type scriptIdQuery: string
+    :param territoryIdQuery: identifier for the territory used in the result
+    :type territoryIdQuery: string
+    :param fallback: Whether a fallback to English should be returned if the
+                     name cannot be found in the requested language.
+    :type fallback: Boolean
+    :rtype: string
+    '''
     locale = _parse_and_split_languageId(languageId=languageIdQuery,
                                          scriptId=scriptIdQuery,
                                          territoryId=territoryIdQuery)
@@ -1357,7 +1419,7 @@ def language_name(languageId = None, scriptId = None, territoryId = None, langua
     **Examples:**
 
     >>> print(language_name(languageId="sr"))
-    српски
+    Српски
 
     I.e. the endonym for “Serbian” in the default Cyrillic script is
     “српски”.
@@ -1366,12 +1428,12 @@ def language_name(languageId = None, scriptId = None, territoryId = None, langua
     script is added for clarity:
 
     >>> print(language_name(languageId="sr", scriptId="Cyrl"))
-    српски (Ћирилица)
+    Српски (Ћирилица)
 
     And in Latin script the endonym is:
 
     >>> print(language_name(languageId="sr", scriptId="Latn"))
-    srpski (Latinica)
+    Srpski (Latinica)
 
     And “Serbian” translated to English is:
 
@@ -1393,25 +1455,60 @@ def language_name(languageId = None, scriptId = None, territoryId = None, langua
     Spanish (Latin America)
 
     >>> print(language_name(languageId="ca_ES"))
-    català (Espanya)
+    Català (Espanya)
 
     >>> print(language_name(languageId="ca_ES.UTF-8"))
-    català (Espanya)
+    Català (Espanya)
 
     >>> print(language_name(languageId="ca_ES@valencia"))
-    valencià (Espanya)
+    Valencià (Espanya)
 
     >>> print(language_name(languageId="ca_ES.utf8@valencia"))
-    valencià (Espanya)
+    Valencià (Espanya)
 
     >>> print(language_name(languageId="ca_ES.utf8@valencia"))
-    valencià (Espanya)
+    Valencià (Espanya)
 
     >>> print(language_name(languageId="ca_ES.utf8@valencia", languageIdQuery='de'))
     Valencianisch (Spanien)
 
     >>> print(language_name(languageId="ca_ES.utf8@valencia", languageIdQuery='en'))
     Valencian (Spain)
+    '''
+    return _capitalize_name(
+        _language_name(languageId=languageId,
+                        scriptId=scriptId,
+                        territoryId=territoryId,
+                        languageIdQuery=languageIdQuery,
+                        scriptIdQuery=scriptIdQuery,
+                        territoryIdQuery=territoryIdQuery,
+                        fallback=fallback),
+        languageId=languageId,
+        scriptId=scriptId,
+        territoryId=territoryId,
+        languageIdQuery=languageIdQuery,
+        scriptIdQuery=scriptIdQuery,
+        territoryIdQuery=territoryIdQuery)
+
+def _language_name(languageId = None, scriptId = None, territoryId = None, languageIdQuery = None, scriptIdQuery = None, territoryIdQuery = None, fallback=True):
+    u'''Internal function to query translations of language names
+
+    :param languageId: identifier for the language
+    :type languageId: string
+    :param scriptId: identifier for the script
+    :type scriptId: string
+    :param territoryId: identifier for the territory
+    :type territoryId: string
+    :param languageIdQuery: identifier for the language used in the result
+    :type languageIdQuery: string
+    :param scriptIdQuery: identifier for the script used in the result
+    :type scriptIdQuery: string
+    :param territoryIdQuery: identifier for the territory used in the result
+    :type territoryIdQuery: string
+    :param fallback: Whether a fallback to English should be returned if the
+                     name cannot be found in the requested language.
+    :type fallback: Boolean
+    :rtype: string
     '''
     if not languageId:
         return ''
