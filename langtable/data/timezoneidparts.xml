@@ -271,6 +271,7 @@
       <name><languageId>jv</languageId><trName>Adak</trName></name>
       <name><languageId>ka</languageId><trName>ადაკი</trName></name>
       <name><languageId>kab</languageId><trName>Adak</trName></name>
+      <name><languageId>kea</languageId><trName>Adaki</trName></name>
       <name><languageId>kk</languageId><trName>Адак</trName></name>
       <name><languageId>km</languageId><trName>អាដាក</trName></name>
       <name><languageId>kn</languageId><trName>ಅಡಕ್‌‌</trName></name>
@@ -321,6 +322,7 @@
       <name><languageId>ur</languageId><trName>اداک</trName></name>
       <name><languageId>uz</languageId><trName>Adak oroli</trName></name>
       <name><languageId>vi</languageId><trName>Adak</trName></name>
+      <name><languageId>yo</languageId><trName>ìlú Adákì</trName></name>
       <name><languageId>yue</languageId><trName>艾達克</trName></name>
       <name><languageId>zh</languageId><trName>埃达克</trName></name>
       <name><languageId>zh_Hant</languageId><trName>艾達克</trName></name>
@@ -1534,6 +1536,7 @@
       <name><languageId>jv</languageId><trName>Anchorage</trName></name>
       <name><languageId>ka</languageId><trName>ენქორაჯი</trName></name>
       <name><languageId>kab</languageId><trName>Ankṛaj</trName></name>
+      <name><languageId>kea</languageId><trName>Ankoraji</trName></name>
       <name><languageId>kk</languageId><trName>Анкоридж</trName></name>
       <name><languageId>km</languageId><trName>អង់ចូរ៉ាក</trName></name>
       <name><languageId>kn</languageId><trName>ಆಂಕರೋಜ್</trName></name>
@@ -1585,6 +1588,7 @@
       <name><languageId>ur</languageId><trName>اینکریج</trName></name>
       <name><languageId>uz</languageId><trName>Ankorij</trName></name>
       <name><languageId>vi</languageId><trName>Anchorage</trName></name>
+      <name><languageId>yo</languageId><trName>ìlú Ankọ́réèjì</trName></name>
       <name><languageId>yue</languageId><trName>安克拉治</trName></name>
       <name><languageId>zh</languageId><trName>安克雷奇</trName></name>
       <name><languageId>zh_Hant</languageId><trName>安克拉治</trName></name>
@@ -1751,6 +1755,7 @@
       <name><languageId>jv</languageId><trName>Anguilla</trName></name>
       <name><languageId>ka</languageId><trName>ანგილია</trName></name>
       <name><languageId>kab</languageId><trName>Angila</trName></name>
+      <name><languageId>kea</languageId><trName>Angila</trName></name>
       <name><languageId>kk</languageId><trName>Ангилья</trName></name>
       <name><languageId>km</languageId><trName>អង់ហ្គីឡា</trName></name>
       <name><languageId>kn</languageId><trName>ಆಂಗ್ವಿಲ್ಲಾ</trName></name>
@@ -1803,6 +1808,7 @@
       <name><languageId>ur</languageId><trName>انگویلا</trName></name>
       <name><languageId>uz</languageId><trName>Angilya</trName></name>
       <name><languageId>vi</languageId><trName>Anguilla</trName></name>
+      <name><languageId>yo</languageId><trName>ìlú Angúílà</trName></name>
       <name><languageId>yue</languageId><trName>安吉拉</trName></name>
       <name><languageId>zh</languageId><trName>安圭拉</trName></name>
       <name><languageId>zh_Hant</languageId><trName>安奎拉</trName></name>
@@ -2123,6 +2129,7 @@
       <name><languageId>ur</languageId><trName>انٹیگوا</trName></name>
       <name><languageId>uz</languageId><trName>Antigua</trName></name>
       <name><languageId>vi</languageId><trName>Antigua</trName></name>
+      <name><languageId>yo</languageId><trName>ìlú Antígùà</trName></name>
       <name><languageId>yue</languageId><trName>安地卡</trName></name>
       <name><languageId>zh</languageId><trName>安提瓜</trName></name>
       <name><languageId>zh_Hant</languageId><trName>安地卡</trName></name>
@@ -2930,6 +2937,7 @@
       <name><languageId>ur</languageId><trName>اروبا</trName></name>
       <name><languageId>uz</languageId><trName>Aruba</trName></name>
       <name><languageId>vi</languageId><trName>Aruba</trName></name>
+      <name><languageId>yo</languageId><trName>ìlú Arúbá</trName></name>
       <name><languageId>yue</languageId><trName>阿路巴</trName></name>
       <name><languageId>zh</languageId><trName>阿鲁巴</trName></name>
       <name><languageId>zh_Hant</languageId><trName>荷屬阿魯巴</trName></name>
@@ -3596,6 +3604,7 @@
       <name><languageId>ur</languageId><trName>اٹیکوکن</trName></name>
       <name><languageId>uz</languageId><trName>Koral-Xarbor</trName></name>
       <name><languageId>vi</languageId><trName>Atikokan</trName></name>
+      <name><languageId>yo</languageId><trName>ìlú àtikọkàn</trName></name>
       <name><languageId>yue</languageId><trName>阿蒂科肯</trName></name>
       <name><languageId>zh</languageId><trName>阿蒂科肯</trName></name>
       <name><languageId>zh_Hant</languageId><trName>阿蒂科肯</trName></name>
@@ -4288,6 +4297,7 @@
       <name><languageId>jv</languageId><trName>Bahia Banderas</trName></name>
       <name><languageId>ka</languageId><trName>ბაჰია ბანდერასი</trName></name>
       <name><languageId>kab</languageId><trName>Bhya Bandiṛas</trName></name>
+      <name><languageId>kea</languageId><trName>Baía di Banderas</trName></name>
       <name><languageId>kk</languageId><trName>Баия-де-Бандерас</trName></name>
       <name><languageId>km</languageId><trName>បាហៀបង់ដេរ៉ាស</trName></name>
       <name><languageId>kn</languageId><trName>ಬಾಹಿಯಾ ಬಂಡೇರಾಸ್</trName></name>
@@ -4337,6 +4347,7 @@
       <name><languageId>ur</languageId><trName>بہیا بندراز</trName></name>
       <name><languageId>uz</languageId><trName>Bahiya-Banderas</trName></name>
       <name><languageId>vi</languageId><trName>Bahia Banderas</trName></name>
+      <name><languageId>yo</languageId><trName>ìlú Báhì Bándẹ́rásì</trName></name>
       <name><languageId>yue</languageId><trName>巴伊亞班德拉斯</trName></name>
       <name><languageId>zh</languageId><trName>巴伊亚班德拉斯</trName></name>
       <name><languageId>zh_Hant</languageId><trName>巴伊亞班德拉斯</trName></name>
@@ -5043,6 +5054,7 @@
       <name><languageId>jv</languageId><trName>Barbados</trName></name>
       <name><languageId>ka</languageId><trName>ბარბადოსი</trName></name>
       <name><languageId>kab</languageId><trName>Baṛbadus</trName></name>
+      <name><languageId>kea</languageId><trName>Barbadus</trName></name>
       <name><languageId>kk</languageId><trName>Барбадос</trName></name>
       <name><languageId>km</languageId><trName>បាបាដុស</trName></name>
       <name><languageId>kn</languageId><trName>ಬಾರ್ಬಡೋಸ್</trName></name>
@@ -5093,6 +5105,7 @@
       <name><languageId>ur</languageId><trName>بارباڈوس</trName></name>
       <name><languageId>uz</languageId><trName>Barbados</trName></name>
       <name><languageId>vi</languageId><trName>Barbados</trName></name>
+      <name><languageId>yo</languageId><trName>ìlú Bábádọ́ọ̀sì</trName></name>
       <name><languageId>yue</languageId><trName>巴貝多</trName></name>
       <name><languageId>zh</languageId><trName>巴巴多斯</trName></name>
       <name><languageId>zh_Hant</languageId><trName>巴貝多</trName></name>
@@ -5481,6 +5494,7 @@
       <name><languageId>jv</languageId><trName>Belise</trName></name>
       <name><languageId>ka</languageId><trName>ბელიზი</trName></name>
       <name><languageId>kab</languageId><trName>Biliz</trName></name>
+      <name><languageId>kea</languageId><trName>Belizi</trName></name>
       <name><languageId>kk</languageId><trName>Белиз</trName></name>
       <name><languageId>km</languageId><trName>បេលី</trName></name>
       <name><languageId>kn</languageId><trName>ಬೆಲೀಜ್</trName></name>
@@ -5532,6 +5546,7 @@
       <name><languageId>ur</languageId><trName>بیلائز</trName></name>
       <name><languageId>uz</languageId><trName>Beliz</trName></name>
       <name><languageId>vi</languageId><trName>Belize</trName></name>
+      <name><languageId>yo</languageId><trName>ìlú Bẹ̀líìsì</trName></name>
       <name><languageId>yue</languageId><trName>貝里斯</trName></name>
       <name><languageId>zh</languageId><trName>伯利兹</trName></name>
       <name><languageId>zh_Hant</languageId><trName>貝里斯</trName></name>
@@ -5756,6 +5771,7 @@
       <name><languageId>ur</languageId><trName>برمودا</trName></name>
       <name><languageId>uz</languageId><trName>Bermuda orollari</trName></name>
       <name><languageId>vi</languageId><trName>Bermuda</trName></name>
+      <name><languageId>yo</languageId><trName>ìlú Bẹ̀múdà</trName></name>
       <name><languageId>yue</languageId><trName>百慕達</trName></name>
       <name><languageId>zh</languageId><trName>百慕大</trName></name>
       <name><languageId>zh_Hant</languageId><trName>百慕達</trName></name>
@@ -5815,6 +5831,7 @@
       <name><languageId>jv</languageId><trName>Beulah [Dakota Lor]</trName></name>
       <name><languageId>ka</languageId><trName>ბიულა</trName></name>
       <name><languageId>kab</languageId><trName>Beulah, North Dakota</trName></name>
+      <name><languageId>kea</languageId><trName>Beulah, Dakota di Norti</trName></name>
       <name><languageId>kk</languageId><trName>Бьюла</trName></name>
       <name><languageId>km</languageId><trName>ប៊ឺឡា</trName></name>
       <name><languageId>kn</languageId><trName>ಬೆವುಲಾ</trName></name>
@@ -5866,6 +5883,7 @@
       <name><languageId>ur</languageId><trName>بیولاہ</trName></name>
       <name><languageId>uz</languageId><trName>Beulah</trName></name>
       <name><languageId>vi</languageId><trName>Beulah</trName></name>
+      <name><languageId>yo</languageId><trName>ìlú Beulà ní North Dakota</trName></name>
       <name><languageId>yue</languageId><trName>北達科他州布由拉</trName></name>
       <name><languageId>zh</languageId><trName>比尤拉</trName></name>
       <name><languageId>zh_Hant</languageId><trName>布由拉</trName></name>
@@ -6196,6 +6214,7 @@
       <name><languageId>ur</languageId><trName>بلانک سبلون</trName></name>
       <name><languageId>uz</languageId><trName>Blank-Sablon</trName></name>
       <name><languageId>vi</languageId><trName>Blanc-Sablon</trName></name>
+      <name><languageId>yo</languageId><trName>ìlú Blank Sabulọ́ọ̀nì</trName></name>
       <name><languageId>yue</languageId><trName>白朗薩布隆</trName></name>
       <name><languageId>zh</languageId><trName>布兰克萨布隆</trName></name>
       <name><languageId>zh_Hant</languageId><trName>白朗薩布隆</trName></name>
@@ -6573,6 +6592,7 @@
       <name><languageId>jv</languageId><trName>Boise</trName></name>
       <name><languageId>ka</languageId><trName>ბუასი</trName></name>
       <name><languageId>kab</languageId><trName>Bwaẓ</trName></name>
+      <name><languageId>kea</languageId><trName>Boiz</trName></name>
       <name><languageId>kk</languageId><trName>Бойсе</trName></name>
       <name><languageId>km</languageId><trName>ប៊ូស៊ី</trName></name>
       <name><languageId>kn</languageId><trName>ಬ್ವಾಸಿ</trName></name>
@@ -6623,6 +6643,7 @@
       <name><languageId>ur</languageId><trName>بوائس</trName></name>
       <name><languageId>uz</languageId><trName>Boyse</trName></name>
       <name><languageId>vi</languageId><trName>Boise</trName></name>
+      <name><languageId>yo</languageId><trName>ìlú Bọ́isè</trName></name>
       <name><languageId>yue</languageId><trName>波夕</trName></name>
       <name><languageId>zh</languageId><trName>博伊西</trName></name>
       <name><languageId>zh_Hant</languageId><trName>波夕</trName></name>
@@ -8040,6 +8061,7 @@
       <name><languageId>ur</languageId><trName>کیمبرج کی کھاڑی</trName></name>
       <name><languageId>uz</languageId><trName>Kembrij-Bey</trName></name>
       <name><languageId>vi</languageId><trName>Cambridge Bay</trName></name>
+      <name><languageId>yo</languageId><trName>ìlú òkun kambíríìjì</trName></name>
       <name><languageId>yue</languageId><trName>劍橋灣</trName></name>
       <name><languageId>zh</languageId><trName>剑桥湾</trName></name>
       <name><languageId>zh_Hant</languageId><trName>劍橋灣</trName></name>
@@ -8371,6 +8393,7 @@
       <name><languageId>ur</languageId><trName>کنکیون</trName></name>
       <name><languageId>uz</languageId><trName>Kankun</trName></name>
       <name><languageId>vi</languageId><trName>Cancun</trName></name>
+      <name><languageId>yo</languageId><trName>ìlú Kancun</trName></name>
       <name><languageId>yue</languageId><trName>坎昆</trName></name>
       <name><languageId>zh</languageId><trName>坎昆</trName></name>
       <name><languageId>zh_Hant</languageId><trName>坎昆</trName></name>
@@ -9079,6 +9102,7 @@
       <name><languageId>jv</languageId><trName>Caiman</trName></name>
       <name><languageId>ka</languageId><trName>კაიმანი</trName></name>
       <name><languageId>kab</languageId><trName>Kayman</trName></name>
+      <name><languageId>kea</languageId><trName>Kaiman</trName></name>
       <name><languageId>kk</languageId><trName>Кайман аралдары</trName></name>
       <name><languageId>km</languageId><trName>កៃមែន</trName></name>
       <name><languageId>kn</languageId><trName>ಕೇಮನ್</trName></name>
@@ -9132,6 +9156,7 @@
       <name><languageId>uz</languageId><trName>Kayman orollari</trName></name>
       <name><languageId>vi</languageId><trName>Cayman</trName></name>
       <name><languageId>wae</languageId><trName>Kaimaninsla</trName></name>
+      <name><languageId>yo</languageId><trName>ilú Kayman</trName></name>
       <name><languageId>yue</languageId><trName>開曼群島</trName></name>
       <name><languageId>zh</languageId><trName>开曼</trName></name>
       <name><languageId>zh_Hant</languageId><trName>開曼群島</trName></name>
@@ -9728,6 +9753,7 @@
       <name><languageId>ur</languageId><trName>شکاگو</trName></name>
       <name><languageId>uz</languageId><trName>Chikago</trName></name>
       <name><languageId>vi</languageId><trName>Chicago</trName></name>
+      <name><languageId>yo</languageId><trName>ìlú Chicago</trName></name>
       <name><languageId>yue</languageId><trName>芝加哥</trName></name>
       <name><languageId>zh</languageId><trName>芝加哥</trName></name>
       <name><languageId>zh_Hant</languageId><trName>芝加哥</trName></name>
@@ -9835,6 +9861,7 @@
       <name><languageId>ur</languageId><trName>چیہوآہوآ</trName></name>
       <name><languageId>uz</languageId><trName>Chihuahua</trName></name>
       <name><languageId>vi</languageId><trName>Chihuahua</trName></name>
+      <name><languageId>yo</languageId><trName>ìlú Ṣihuahua</trName></name>
       <name><languageId>yue</languageId><trName>奇華華</trName></name>
       <name><languageId>zh</languageId><trName>奇瓦瓦</trName></name>
       <name><languageId>zh_Hant</languageId><trName>奇華華</trName></name>
@@ -11138,6 +11165,7 @@
       <name><languageId>ur</languageId><trName>کوسٹا ریکا</trName></name>
       <name><languageId>uz</languageId><trName>Kosta-Rika</trName></name>
       <name><languageId>vi</languageId><trName>Costa Rica</trName></name>
+      <name><languageId>yo</languageId><trName>ìlú Kosta Ríkà</trName></name>
       <name><languageId>yue</languageId><trName>哥斯大黎加</trName></name>
       <name><languageId>zh</languageId><trName>哥斯达黎加</trName></name>
       <name><languageId>zh_Hant</languageId><trName>哥斯大黎加</trName></name>
@@ -11194,6 +11222,7 @@
       <name><languageId>jv</languageId><trName>Creston</trName></name>
       <name><languageId>ka</languageId><trName>კრესტონი</trName></name>
       <name><languageId>kab</languageId><trName>Kristun</trName></name>
+      <name><languageId>kea</languageId><trName>Kréston</trName></name>
       <name><languageId>kk</languageId><trName>Крестон</trName></name>
       <name><languageId>km</languageId><trName>ក្រេស្តុន</trName></name>
       <name><languageId>kn</languageId><trName>ಕ್ರೆಸ್ಟನ್</trName></name>
@@ -11243,6 +11272,7 @@
       <name><languageId>ur</languageId><trName>کریسٹون</trName></name>
       <name><languageId>uz</languageId><trName>Kreston</trName></name>
       <name><languageId>vi</languageId><trName>Creston</trName></name>
+      <name><languageId>yo</languageId><trName>ìlú Kírẹstọ́ọ̀nù</trName></name>
       <name><languageId>yue</languageId><trName>克雷斯頓</trName></name>
       <name><languageId>zh</languageId><trName>克雷斯顿</trName></name>
       <name><languageId>zh_Hant</languageId><trName>克雷斯頓</trName></name>
@@ -11411,6 +11441,7 @@
       <name><languageId>jv</languageId><trName>Curacao</trName></name>
       <name><languageId>ka</languageId><trName>კიურასაო</trName></name>
       <name><languageId>kab</languageId><trName>Kuračaw</trName></name>
+      <name><languageId>kea</languageId><trName>Kurasau</trName></name>
       <name><languageId>kk</languageId><trName>Кюрасао</trName></name>
       <name><languageId>km</languageId><trName>កូរ៉ាកៅ</trName></name>
       <name><languageId>kn</languageId><trName>ಕುರಾಕಾವ್</trName></name>
@@ -11465,6 +11496,7 @@
       <name><languageId>ur</languageId><trName>کیوراکاؤ</trName></name>
       <name><languageId>uz</languageId><trName>Kyurasao</trName></name>
       <name><languageId>vi</languageId><trName>Curaçao</trName></name>
+      <name><languageId>yo</languageId><trName>ìlú Kuraṣao</trName></name>
       <name><languageId>yue</languageId><trName>庫拉索</trName></name>
       <name><languageId>zh</languageId><trName>库拉索</trName></name>
       <name><languageId>zh_Hant</languageId><trName>庫拉索</trName></name>
@@ -11899,6 +11931,7 @@
       <name><languageId>ur</languageId><trName>ڈنمارک شاون</trName></name>
       <name><languageId>uz</languageId><trName>Denmarksxavn</trName></name>
       <name><languageId>vi</languageId><trName>Danmarkshavn</trName></name>
+      <name><languageId>yo</languageId><trName>ìlú Banmarkshan</trName></name>
       <name><languageId>yue</languageId><trName>丹馬沙文</trName></name>
       <name><languageId>zh</languageId><trName>丹马沙文</trName></name>
       <name><languageId>zh_Hant</languageId><trName>丹馬沙文</trName></name>
@@ -12331,6 +12364,7 @@
       <name><languageId>ur</languageId><trName>ڈاؤسن</trName></name>
       <name><languageId>uz</languageId><trName>Douson</trName></name>
       <name><languageId>vi</languageId><trName>Dawson</trName></name>
+      <name><languageId>yo</languageId><trName>ìlú Dawson</trName></name>
       <name><languageId>yue</languageId><trName>道森</trName></name>
       <name><languageId>zh</languageId><trName>道森</trName></name>
       <name><languageId>zh_Hant</languageId><trName>道森</trName></name>
@@ -12438,6 +12472,7 @@
       <name><languageId>ur</languageId><trName>ڈاؤسن کریک</trName></name>
       <name><languageId>uz</languageId><trName>Douson-Krik</trName></name>
       <name><languageId>vi</languageId><trName>Dawson Creek</trName></name>
+      <name><languageId>yo</languageId><trName>ìlú Dawson Creek</trName></name>
       <name><languageId>yue</languageId><trName>道森克里克</trName></name>
       <name><languageId>zh</languageId><trName>道森克里克</trName></name>
       <name><languageId>zh_Hant</languageId><trName>道森克里克</trName></name>
@@ -12546,6 +12581,7 @@
       <name><languageId>ur</languageId><trName>ڈینور</trName></name>
       <name><languageId>uz</languageId><trName>Denver</trName></name>
       <name><languageId>vi</languageId><trName>Denver</trName></name>
+      <name><languageId>yo</languageId><trName>ìlú Denver</trName></name>
       <name><languageId>yue</languageId><trName>丹佛</trName></name>
       <name><languageId>zh</languageId><trName>丹佛</trName></name>
       <name><languageId>zh_Hant</languageId><trName>丹佛</trName></name>
@@ -12652,6 +12688,7 @@
       <name><languageId>ur</languageId><trName>ڈیٹرائٹ</trName></name>
       <name><languageId>uz</languageId><trName>Detroyt</trName></name>
       <name><languageId>vi</languageId><trName>Detroit</trName></name>
+      <name><languageId>yo</languageId><trName>ìlú Detroit</trName></name>
       <name><languageId>yue</languageId><trName>底特律</trName></name>
       <name><languageId>zh</languageId><trName>底特律</trName></name>
       <name><languageId>zh_Hant</languageId><trName>底特律</trName></name>
@@ -13036,6 +13073,7 @@
       <name><languageId>jv</languageId><trName>Dominika</trName></name>
       <name><languageId>ka</languageId><trName>დომინიკა</trName></name>
       <name><languageId>kab</languageId><trName>Duminik</trName></name>
+      <name><languageId>kea</languageId><trName>Dominika</trName></name>
       <name><languageId>kk</languageId><trName>Доминика</trName></name>
       <name><languageId>km</languageId><trName>ដូមីនីក</trName></name>
       <name><languageId>kn</languageId><trName>ಡೊಮಿನಿಕಾ</trName></name>
@@ -13086,6 +13124,7 @@
       <name><languageId>ur</languageId><trName>ڈومنیکا</trName></name>
       <name><languageId>uz</languageId><trName>Dominika</trName></name>
       <name><languageId>vi</languageId><trName>Dominica</trName></name>
+      <name><languageId>yo</languageId><trName>ìlú Dominika</trName></name>
       <name><languageId>yue</languageId><trName>多明尼加</trName></name>
       <name><languageId>zh</languageId><trName>多米尼加</trName></name>
       <name><languageId>zh_Hant</languageId><trName>多米尼克</trName></name>
@@ -13944,6 +13983,7 @@
       <name><languageId>ur</languageId><trName>ایڈمونٹن</trName></name>
       <name><languageId>uz</languageId><trName>Edmonton</trName></name>
       <name><languageId>vi</languageId><trName>Edmonton</trName></name>
+      <name><languageId>yo</languageId><trName>ìlú Edmonton</trName></name>
       <name><languageId>yue</languageId><trName>艾德蒙吞</trName></name>
       <name><languageId>zh</languageId><trName>埃德蒙顿</trName></name>
       <name><languageId>zh_Hant</languageId><trName>艾德蒙吞</trName></name>
@@ -14380,6 +14420,7 @@
       <name><languageId>ur</languageId><trName>ال سلواڈور</trName></name>
       <name><languageId>uz</languageId><trName>Salvador</trName></name>
       <name><languageId>vi</languageId><trName>El Salvador</trName></name>
+      <name><languageId>yo</languageId><trName>ìlú El Savador</trName></name>
       <name><languageId>yue</languageId><trName>薩爾瓦多</trName></name>
       <name><languageId>zh</languageId><trName>萨尔瓦多</trName></name>
       <name><languageId>zh_Hant</languageId><trName>薩爾瓦多</trName></name>
@@ -16086,6 +16127,7 @@
       <name><languageId>ur</languageId><trName>گلیس کی کھاڑی</trName></name>
       <name><languageId>uz</languageId><trName>Gleys-Bey</trName></name>
       <name><languageId>vi</languageId><trName>Glace Bay</trName></name>
+      <name><languageId>yo</languageId><trName>ìlú omi Glace</trName></name>
       <name><languageId>yue</languageId><trName>格雷斯貝</trName></name>
       <name><languageId>zh</languageId><trName>格莱斯贝</trName></name>
       <name><languageId>zh_Hant</languageId><trName>格雷斯貝</trName></name>
@@ -16198,6 +16240,7 @@
       <name><languageId>ur</languageId><trName>نوک</trName></name>
       <name><languageId>uz</languageId><trName>Gotxob</trName></name>
       <name><languageId>vi</languageId><trName>Nuuk</trName></name>
+      <name><languageId>yo</languageId><trName>ìlú Nuuk</trName></name>
       <name><languageId>yue</languageId><trName>努克</trName></name>
       <name><languageId>zh</languageId><trName>努克</trName></name>
       <name><languageId>zh_Hant</languageId><trName>努克</trName></name>
@@ -16305,6 +16348,7 @@
       <name><languageId>ur</languageId><trName>گوس کی کھاڑی</trName></name>
       <name><languageId>uz</languageId><trName>Gus-Bey</trName></name>
       <name><languageId>vi</languageId><trName>Goose Bay</trName></name>
+      <name><languageId>yo</languageId><trName>ìlú omi Goosù</trName></name>
       <name><languageId>yue</languageId><trName>鵝灣</trName></name>
       <name><languageId>zh</languageId><trName>古斯湾</trName></name>
       <name><languageId>zh_Hant</languageId><trName>鵝灣</trName></name>
@@ -16412,6 +16456,7 @@
       <name><languageId>ur</languageId><trName>عظیم ترک</trName></name>
       <name><languageId>uz</languageId><trName>Grand Turk</trName></name>
       <name><languageId>vi</languageId><trName>Grand Turk</trName></name>
+      <name><languageId>yo</languageId><trName>ìlú Grand Turk</trName></name>
       <name><languageId>yue</languageId><trName>大特克島</trName></name>
       <name><languageId>zh</languageId><trName>大特克</trName></name>
       <name><languageId>zh_Hant</languageId><trName>大特克島</trName></name>
@@ -16469,6 +16514,7 @@
       <name><languageId>jv</languageId><trName>Grenada</trName></name>
       <name><languageId>ka</languageId><trName>გრენადა</trName></name>
       <name><languageId>kab</languageId><trName>Grenada</trName></name>
+      <name><languageId>kea</languageId><trName>Granada</trName></name>
       <name><languageId>kk</languageId><trName>Гренада</trName></name>
       <name><languageId>km</languageId><trName>ហ្គ្រើណាដ</trName></name>
       <name><languageId>kn</languageId><trName>ಗ್ರೆನಾಡ</trName></name>
@@ -16519,6 +16565,7 @@
       <name><languageId>ur</languageId><trName>غرناطہ</trName></name>
       <name><languageId>uz</languageId><trName>Grenada</trName></name>
       <name><languageId>vi</languageId><trName>Grenada</trName></name>
+      <name><languageId>yo</languageId><trName>ìlú Grenada</trName></name>
       <name><languageId>yue</languageId><trName>格瑞納達</trName></name>
       <name><languageId>zh</languageId><trName>格林纳达</trName></name>
       <name><languageId>zh_Hant</languageId><trName>格瑞納達</trName></name>
@@ -16684,6 +16731,7 @@
       <name><languageId>jv</languageId><trName>Guadeloupe</trName></name>
       <name><languageId>ka</languageId><trName>გვადელუპა</trName></name>
       <name><languageId>kab</languageId><trName>Guadeloupe</trName></name>
+      <name><languageId>kea</languageId><trName>Guadalupi</trName></name>
       <name><languageId>kk</languageId><trName>Гваделупа</trName></name>
       <name><languageId>km</languageId><trName>ហ្គោដេលូប៉េ</trName></name>
       <name><languageId>kn</languageId><trName>ಗ್ವಾಡೆಲೋಪ್</trName></name>
@@ -16735,6 +16783,7 @@
       <name><languageId>ur</languageId><trName>گواڈیلوپ</trName></name>
       <name><languageId>uz</languageId><trName>Gvadelupa</trName></name>
       <name><languageId>vi</languageId><trName>Guadeloupe</trName></name>
+      <name><languageId>yo</languageId><trName>ìlú Guadeloupe</trName></name>
       <name><languageId>yue</languageId><trName>瓜地洛普</trName></name>
       <name><languageId>zh</languageId><trName>瓜德罗普</trName></name>
       <name><languageId>zh_Hant</languageId><trName>瓜地洛普</trName></name>
@@ -16902,6 +16951,7 @@
       <name><languageId>jv</languageId><trName>Guatemala</trName></name>
       <name><languageId>ka</languageId><trName>გვატემალა</trName></name>
       <name><languageId>kab</languageId><trName>Guatemala</trName></name>
+      <name><languageId>kea</languageId><trName>Guatimala</trName></name>
       <name><languageId>kk</languageId><trName>Гватемала</trName></name>
       <name><languageId>km</languageId><trName>ក្វាតេម៉ាឡា</trName></name>
       <name><languageId>kn</languageId><trName>ಗ್ವಾಟೆಮಾಲಾ</trName></name>
@@ -16952,6 +17002,7 @@
       <name><languageId>ur</languageId><trName>گواٹے مالا</trName></name>
       <name><languageId>uz</languageId><trName>Gvatemala</trName></name>
       <name><languageId>vi</languageId><trName>Guatemala</trName></name>
+      <name><languageId>yo</languageId><trName>ìlú Guatemala</trName></name>
       <name><languageId>yue</languageId><trName>瓜地馬拉</trName></name>
       <name><languageId>zh</languageId><trName>危地马拉</trName></name>
       <name><languageId>zh_Hant</languageId><trName>瓜地馬拉</trName></name>
@@ -17382,6 +17433,7 @@
       <name><languageId>ur</languageId><trName>ہیلیفیکس</trName></name>
       <name><languageId>uz</languageId><trName>Galifaks</trName></name>
       <name><languageId>vi</languageId><trName>Halifax</trName></name>
+      <name><languageId>yo</languageId><trName>ìlú Halifásì</trName></name>
       <name><languageId>yue</languageId><trName>哈里法克斯</trName></name>
       <name><languageId>zh</languageId><trName>哈利法克斯</trName></name>
       <name><languageId>zh_Hant</languageId><trName>哈里法克斯</trName></name>
@@ -17633,6 +17685,7 @@
       <name><languageId>jv</languageId><trName>Havana</trName></name>
       <name><languageId>ka</languageId><trName>ჰავანა</trName></name>
       <name><languageId>kab</languageId><trName>Havana</trName></name>
+      <name><languageId>kea</languageId><trName>Avana</trName></name>
       <name><languageId>kk</languageId><trName>Гавана</trName></name>
       <name><languageId>km</languageId><trName>ឡាហាវ៉ាន</trName></name>
       <name><languageId>kn</languageId><trName>ಹವಾನಾ</trName></name>
@@ -17685,6 +17738,7 @@
       <name><languageId>uz</languageId><trName>Gavana</trName></name>
       <name><languageId>vi</languageId><trName>Havana</trName></name>
       <name><languageId>wae</languageId><trName>Hawanna</trName></name>
+      <name><languageId>yo</languageId><trName>ìlú Havana</trName></name>
       <name><languageId>yue</languageId><trName>哈瓦那</trName></name>
       <name><languageId>zh</languageId><trName>哈瓦那</trName></name>
       <name><languageId>zh_Hant</languageId><trName>哈瓦那</trName></name>
@@ -18082,6 +18136,7 @@
       <name><languageId>ur</languageId><trName>ہرموسیلو</trName></name>
       <name><languageId>uz</languageId><trName>Ermosillo</trName></name>
       <name><languageId>vi</languageId><trName>Hermosillo</trName></name>
+      <name><languageId>yo</languageId><trName>ìlú Hermosilo</trName></name>
       <name><languageId>yue</languageId><trName>埃莫西約</trName></name>
       <name><languageId>zh</languageId><trName>埃莫西约</trName></name>
       <name><languageId>zh_Hant</languageId><trName>埃莫西約</trName></name>
@@ -18890,6 +18945,7 @@
       <name><languageId>ur</languageId><trName>انڈیاناپولس</trName></name>
       <name><languageId>uz</languageId><trName>Indianapolis</trName></name>
       <name><languageId>vi</languageId><trName>Indianapolis</trName></name>
+      <name><languageId>yo</languageId><trName>ìlú Indianapolis</trName></name>
       <name><languageId>yue</languageId><trName>印第安那波里斯</trName></name>
       <name><languageId>zh</languageId><trName>印第安纳波利斯</trName></name>
       <name><languageId>zh_Hant</languageId><trName>印第安那波里斯</trName></name>
@@ -18999,6 +19055,7 @@
       <name><languageId>ur</languageId><trName>انووِک</trName></name>
       <name><languageId>uz</languageId><trName>Inuvik</trName></name>
       <name><languageId>vi</languageId><trName>Inuvik</trName></name>
+      <name><languageId>yo</languageId><trName>ìlú Inuvik</trName></name>
       <name><languageId>yue</languageId><trName>伊奴維克</trName></name>
       <name><languageId>zh</languageId><trName>伊努维克</trName></name>
       <name><languageId>zh_Hant</languageId><trName>伊奴維克</trName></name>
@@ -19106,6 +19163,7 @@
       <name><languageId>ur</languageId><trName>ایکالوئٹ</trName></name>
       <name><languageId>uz</languageId><trName>Ikaluit</trName></name>
       <name><languageId>vi</languageId><trName>Iqaluit</trName></name>
+      <name><languageId>yo</languageId><trName>ìlú Iqaluit</trName></name>
       <name><languageId>yue</languageId><trName>伊魁特</trName></name>
       <name><languageId>zh</languageId><trName>伊魁特</trName></name>
       <name><languageId>zh_Hant</languageId><trName>伊魁特</trName></name>
@@ -19603,6 +19661,7 @@
       <name><languageId>jv</languageId><trName>Jamaica</trName></name>
       <name><languageId>ka</languageId><trName>იამაიკა</trName></name>
       <name><languageId>kab</languageId><trName>Jamaica</trName></name>
+      <name><languageId>kea</languageId><trName>Jamaika</trName></name>
       <name><languageId>kk</languageId><trName>Ямайка</trName></name>
       <name><languageId>km</languageId><trName>ហ្សាម៉ាអ៊ីក</trName></name>
       <name><languageId>kn</languageId><trName>ಜಮೈಕಾ</trName></name>
@@ -19656,6 +19715,7 @@
       <name><languageId>uz</languageId><trName>Yamayka</trName></name>
       <name><languageId>vi</languageId><trName>Jamaica</trName></name>
       <name><languageId>wae</languageId><trName>Jamaika</trName></name>
+      <name><languageId>yo</languageId><trName>ìlú Jamaikà</trName></name>
       <name><languageId>yue</languageId><trName>牙買加</trName></name>
       <name><languageId>zh</languageId><trName>牙买加</trName></name>
       <name><languageId>zh_Hant</languageId><trName>牙買加</trName></name>
@@ -20164,6 +20224,7 @@
       <name><languageId>nb</languageId><trName>Johnston</trName></name>
       <name><languageId>ne</languageId><trName>जोन्सटन</trName></name>
       <name><languageId>nl</languageId><trName>Johnston</trName></name>
+      <name><languageId>nn</languageId><trName>Johnston</trName></name>
       <name><languageId>or</languageId><trName>ଜନଷ୍ଟନ୍</trName></name>
       <name><languageId>pa</languageId><trName>ਜੋਨਸਟਨ</trName></name>
       <name><languageId>pl</languageId><trName>Johnston</trName></name>
@@ -20185,6 +20246,7 @@
       <name><languageId>ta</languageId><trName>ஜோன்ஸ்டன்</trName></name>
       <name><languageId>te</languageId><trName>జాన్సటన్</trName></name>
       <name><languageId>th</languageId><trName>จอห์นสตัน</trName></name>
+      <name><languageId>ti</languageId><trName>Johnston</trName></name>
       <name><languageId>tk</languageId><trName>Jonston</trName></name>
       <name><languageId>to</languageId><trName>Sionesitoni</trName></name>
       <name><languageId>tr</languageId><trName>Johnston</trName></name>
@@ -20509,6 +20571,7 @@
       <name><languageId>ur</languageId><trName>جونیئو</trName></name>
       <name><languageId>uz</languageId><trName>Juno</trName></name>
       <name><languageId>vi</languageId><trName>Juneau</trName></name>
+      <name><languageId>yo</languageId><trName>ìlú Junu</trName></name>
       <name><languageId>yue</languageId><trName>朱諾</trName></name>
       <name><languageId>zh</languageId><trName>朱诺</trName></name>
       <name><languageId>zh_Hant</languageId><trName>朱諾</trName></name>
@@ -22214,6 +22277,7 @@
       <name><languageId>ur</languageId><trName>کنوکس</trName></name>
       <name><languageId>uz</languageId><trName>Knox</trName></name>
       <name><languageId>vi</languageId><trName>Knox</trName></name>
+      <name><languageId>yo</languageId><trName>ìlú nọ́sì</trName></name>
       <name><languageId>yue</languageId><trName>印第安那州諾克斯</trName></name>
       <name><languageId>zh</languageId><trName>诺克斯</trName></name>
       <name><languageId>zh_Hant</languageId><trName>諾克斯</trName></name>
@@ -22535,6 +22599,7 @@
       <name><languageId>ur</languageId><trName>کرالینڈیجک</trName></name>
       <name><languageId>uz</languageId><trName>Kralendeyk</trName></name>
       <name><languageId>vi</languageId><trName>Kralendijk</trName></name>
+      <name><languageId>yo</languageId><trName>ìlú Kíralẹ́ndáikì</trName></name>
       <name><languageId>yue</languageId><trName>克拉倫代克</trName></name>
       <name><languageId>zh</languageId><trName>克拉伦代克</trName></name>
       <name><languageId>zh_Hant</languageId><trName>克拉倫代克</trName></name>
@@ -24480,6 +24545,7 @@
       <name><languageId>ur</languageId><trName>لاس اینجلس</trName></name>
       <name><languageId>uz</languageId><trName>Los-Anjeles</trName></name>
       <name><languageId>vi</languageId><trName>Los Angeles</trName></name>
+      <name><languageId>yo</languageId><trName>ìlú Los Angeles</trName></name>
       <name><languageId>yue</languageId><trName>洛杉磯</trName></name>
       <name><languageId>zh</languageId><trName>洛杉矶</trName></name>
       <name><languageId>zh_Hant</languageId><trName>洛杉磯</trName></name>
@@ -24586,6 +24652,7 @@
       <name><languageId>ur</languageId><trName>لوئس ویلے</trName></name>
       <name><languageId>uz</languageId><trName>Luisvill</trName></name>
       <name><languageId>vi</languageId><trName>Louisville</trName></name>
+      <name><languageId>yo</languageId><trName>ìlú Lúífíìlì</trName></name>
       <name><languageId>yue</languageId><trName>路易斯維爾</trName></name>
       <name><languageId>zh</languageId><trName>路易斯维尔</trName></name>
       <name><languageId>zh_Hant</languageId><trName>路易斯維爾</trName></name>
@@ -24695,6 +24762,7 @@
       <name><languageId>ur</languageId><trName>لوور پرنسس کوارٹر</trName></name>
       <name><languageId>uz</languageId><trName>Louer-Prinses-Kuorter</trName></name>
       <name><languageId>vi</languageId><trName>Lower Prince’s Quarter</trName></name>
+      <name><languageId>yo</languageId><trName>ìlú Lower Prince’s Quarter</trName></name>
       <name><languageId>yue</languageId><trName>下太子區</trName></name>
       <name><languageId>zh</languageId><trName>下太子区</trName></name>
       <name><languageId>zh_Hant</languageId><trName>下太子區</trName></name>
@@ -25231,6 +25299,7 @@
       <name><languageId>sq</languageId><trName>Makao</trName></name>
       <name><languageId>sr</languageId><trName>Макао</trName></name>
       <name><languageId>sr_Latn</languageId><trName>Makao</trName></name>
+      <name><languageId>su</languageId><trName>Makau</trName></name>
       <name><languageId>sv</languageId><trName>Macao</trName></name>
       <name><languageId>sw</languageId><trName>Macau</trName></name>
       <name><languageId>ta</languageId><trName>மகாவு</trName></name>
@@ -26492,6 +26561,7 @@
       <name><languageId>jv</languageId><trName>Managua</trName></name>
       <name><languageId>ka</languageId><trName>მანაგუა</trName></name>
       <name><languageId>kab</languageId><trName>Managua</trName></name>
+      <name><languageId>kea</languageId><trName>Manágua</trName></name>
       <name><languageId>kk</languageId><trName>Манагуа</trName></name>
       <name><languageId>km</languageId><trName>ម៉ាណាហ្គា</trName></name>
       <name><languageId>kn</languageId><trName>ಮನಾಗುವಾ</trName></name>
@@ -26542,6 +26612,7 @@
       <name><languageId>ur</languageId><trName>مناگوآ</trName></name>
       <name><languageId>uz</languageId><trName>Managua</trName></name>
       <name><languageId>vi</languageId><trName>Managua</trName></name>
+      <name><languageId>yo</languageId><trName>ìlú Managua</trName></name>
       <name><languageId>yue</languageId><trName>馬拿瓜</trName></name>
       <name><languageId>zh</languageId><trName>马那瓜</trName></name>
       <name><languageId>zh_Hant</languageId><trName>馬拿瓜</trName></name>
@@ -26975,6 +27046,7 @@
       <name><languageId>ur</languageId><trName>مرینگو</trName></name>
       <name><languageId>uz</languageId><trName>Marengo</trName></name>
       <name><languageId>vi</languageId><trName>Marengo</trName></name>
+      <name><languageId>yo</languageId><trName>ìlú Marẹ́ngo</trName></name>
       <name><languageId>yue</languageId><trName>印第安那州馬倫哥</trName></name>
       <name><languageId>zh</languageId><trName>马伦戈</trName></name>
       <name><languageId>zh_Hant</languageId><trName>馬倫哥</trName></name>
@@ -27186,6 +27258,7 @@
       <name><languageId>ur</languageId><trName>میریگوٹ</trName></name>
       <name><languageId>uz</languageId><trName>Marigo</trName></name>
       <name><languageId>vi</languageId><trName>Marigot</trName></name>
+      <name><languageId>yo</languageId><trName>ìlú Marigọ́ọ̀tì</trName></name>
       <name><languageId>yue</languageId><trName>馬里戈特</trName></name>
       <name><languageId>zh</languageId><trName>马里戈特</trName></name>
       <name><languageId>zh_Hant</languageId><trName>馬里戈特</trName></name>
@@ -27351,6 +27424,7 @@
       <name><languageId>jv</languageId><trName>Martinik</trName></name>
       <name><languageId>ka</languageId><trName>მარტინიკი</trName></name>
       <name><languageId>kab</languageId><trName>Martinique</trName></name>
+      <name><languageId>kea</languageId><trName>Martinika</trName></name>
       <name><languageId>kk</languageId><trName>Мартиника</trName></name>
       <name><languageId>km</languageId><trName>ម៉ាទីនីក</trName></name>
       <name><languageId>kn</languageId><trName>ಮಾರ್ಟಿನಿಕ್</trName></name>
@@ -27401,6 +27475,7 @@
       <name><languageId>ur</languageId><trName>مارٹینک</trName></name>
       <name><languageId>uz</languageId><trName>Martinika</trName></name>
       <name><languageId>vi</languageId><trName>Martinique</trName></name>
+      <name><languageId>yo</languageId><trName>ìlú Mátíníkì</trName></name>
       <name><languageId>yue</languageId><trName>馬丁尼克</trName></name>
       <name><languageId>zh</languageId><trName>马提尼克</trName></name>
       <name><languageId>zh_Hant</languageId><trName>馬丁尼克</trName></name>
@@ -27614,6 +27689,7 @@
       <name><languageId>ur</languageId><trName>میٹاموروس</trName></name>
       <name><languageId>uz</languageId><trName>Matamoros</trName></name>
       <name><languageId>vi</languageId><trName>Matamoros</trName></name>
+      <name><languageId>yo</languageId><trName>ìlú Matamorosì</trName></name>
       <name><languageId>yue</languageId><trName>馬塔莫羅斯</trName></name>
       <name><languageId>zh</languageId><trName>马塔莫罗斯</trName></name>
       <name><languageId>zh_Hant</languageId><trName>馬塔莫羅斯</trName></name>
@@ -28046,6 +28122,7 @@
       <name><languageId>ur</languageId><trName>میزٹلان</trName></name>
       <name><languageId>uz</languageId><trName>Masatlan</trName></name>
       <name><languageId>vi</languageId><trName>Mazatlan</trName></name>
+      <name><languageId>yo</languageId><trName>ìlú Masatiani</trName></name>
       <name><languageId>yue</languageId><trName>馬薩特蘭</trName></name>
       <name><languageId>zh</languageId><trName>马萨特兰</trName></name>
       <name><languageId>zh_Hant</languageId><trName>馬薩特蘭</trName></name>
@@ -28577,6 +28654,7 @@
       <name><languageId>ur</languageId><trName>مینومینی</trName></name>
       <name><languageId>uz</languageId><trName>Menomini</trName></name>
       <name><languageId>vi</languageId><trName>Menominee</trName></name>
+      <name><languageId>yo</languageId><trName>ìlú Menominì</trName></name>
       <name><languageId>yue</languageId><trName>美諾米尼</trName></name>
       <name><languageId>zh</languageId><trName>梅诺米尼</trName></name>
       <name><languageId>zh_Hans_SG</languageId><trName>梅诺米尼</trName></name>
@@ -28636,6 +28714,7 @@
       <name><languageId>jv</languageId><trName>Merida</trName></name>
       <name><languageId>ka</languageId><trName>მერიდა</trName></name>
       <name><languageId>kab</languageId><trName>Merida</trName></name>
+      <name><languageId>kea</languageId><trName>Mérida</trName></name>
       <name><languageId>kk</languageId><trName>Мерида</trName></name>
       <name><languageId>km</languageId><trName>ម៉េរីដា</trName></name>
       <name><languageId>kn</languageId><trName>ಮೆರಿದಾ</trName></name>
@@ -28688,6 +28767,7 @@
       <name><languageId>ur</languageId><trName>میریڈا</trName></name>
       <name><languageId>uz</languageId><trName>Merida</trName></name>
       <name><languageId>vi</languageId><trName>Merida</trName></name>
+      <name><languageId>yo</languageId><trName>ìlú Merida</trName></name>
       <name><languageId>yue</languageId><trName>梅里達</trName></name>
       <name><languageId>zh</languageId><trName>梅里达</trName></name>
       <name><languageId>zh_Hant</languageId><trName>梅里達</trName></name>
@@ -28792,6 +28872,7 @@
       <name><languageId>ur</languageId><trName>میٹلا کاٹلا</trName></name>
       <name><languageId>uz</languageId><trName>Metlakatla</trName></name>
       <name><languageId>vi</languageId><trName>Metlakatla</trName></name>
+      <name><languageId>yo</languageId><trName>ìlú Metilakatila</trName></name>
       <name><languageId>yue</languageId><trName>梅特拉卡特拉</trName></name>
       <name><languageId>zh</languageId><trName>梅特拉卡特拉</trName></name>
       <name><languageId>zh_Hant</languageId><trName>梅特拉卡特拉</trName></name>
@@ -28854,6 +28935,7 @@
       <name><languageId>jv</languageId><trName>Kutho Meksiko</trName></name>
       <name><languageId>ka</languageId><trName>მეხიკო</trName></name>
       <name><languageId>kab</languageId><trName>Mexico City</trName></name>
+      <name><languageId>kea</languageId><trName>Sidadi di Méxiku</trName></name>
       <name><languageId>kk</languageId><trName>Мехико</trName></name>
       <name><languageId>km</languageId><trName>ទីក្រុងម៉ិចស៊ីកូ</trName></name>
       <name><languageId>kn</languageId><trName>ಮೆಕ್ಸಿಕೋ ನಗರ</trName></name>
@@ -28908,6 +28990,7 @@
       <name><languageId>ur</languageId><trName>میکسیکو سٹی</trName></name>
       <name><languageId>uz</languageId><trName>Mexiko</trName></name>
       <name><languageId>vi</languageId><trName>Mexico City</trName></name>
+      <name><languageId>yo</languageId><trName>ìlú Mẹ́síkò</trName></name>
       <name><languageId>yue</languageId><trName>墨西哥市</trName></name>
       <name><languageId>zh</languageId><trName>墨西哥城</trName></name>
       <name><languageId>zh_Hant</languageId><trName>墨西哥市</trName></name>
@@ -29183,6 +29266,7 @@
       <name><languageId>jv</languageId><trName>Miquelon</trName></name>
       <name><languageId>ka</languageId><trName>მიკელონი</trName></name>
       <name><languageId>kab</languageId><trName>Miquelon</trName></name>
+      <name><languageId>kea</languageId><trName>Mikelon</trName></name>
       <name><languageId>kk</languageId><trName>Микелон</trName></name>
       <name><languageId>km</languageId><trName>មីហ្គីឡុង</trName></name>
       <name><languageId>kn</languageId><trName>ಮಿಕೆಲಾನ್</trName></name>
@@ -29234,6 +29318,7 @@
       <name><languageId>ur</languageId><trName>میکلیئون</trName></name>
       <name><languageId>uz</languageId><trName>Mikelon</trName></name>
       <name><languageId>vi</languageId><trName>Miquelon</trName></name>
+      <name><languageId>yo</languageId><trName>ìlú Mikulọ́nì</trName></name>
       <name><languageId>yue</languageId><trName>密啟崙</trName></name>
       <name><languageId>zh</languageId><trName>密克隆</trName></name>
       <name><languageId>zh_Hant</languageId><trName>密啟崙</trName></name>
@@ -29565,6 +29650,7 @@
       <name><languageId>ur</languageId><trName>مونکٹن</trName></name>
       <name><languageId>uz</languageId><trName>Monkton</trName></name>
       <name><languageId>vi</languageId><trName>Moncton</trName></name>
+      <name><languageId>yo</languageId><trName>ìlú Montoni</trName></name>
       <name><languageId>yue</languageId><trName>蒙克頓</trName></name>
       <name><languageId>zh</languageId><trName>蒙克顿</trName></name>
       <name><languageId>zh_Hant</languageId><trName>蒙克頓</trName></name>
@@ -29779,6 +29865,7 @@
       <name><languageId>ur</languageId><trName>مونٹیری</trName></name>
       <name><languageId>uz</languageId><trName>Monterrey</trName></name>
       <name><languageId>vi</languageId><trName>Monterrey</trName></name>
+      <name><languageId>yo</languageId><trName>ìlú Monteri</trName></name>
       <name><languageId>yue</languageId><trName>蒙特瑞</trName></name>
       <name><languageId>zh</languageId><trName>蒙特雷</trName></name>
       <name><languageId>zh_Hant</languageId><trName>蒙特瑞</trName></name>
@@ -30001,6 +30088,7 @@
       <name><languageId>ur</languageId><trName>مونٹیسیلو</trName></name>
       <name><languageId>uz</languageId><trName>Monticello</trName></name>
       <name><languageId>vi</languageId><trName>Monticello</trName></name>
+      <name><languageId>yo</languageId><trName>ìlú Montisẹ́lò</trName></name>
       <name><languageId>yue</languageId><trName>肯塔基州蒙地卻羅</trName></name>
       <name><languageId>zh</languageId><trName>蒙蒂塞洛</trName></name>
       <name><languageId>zh_Hant</languageId><trName>蒙地卻羅</trName></name>
@@ -30192,6 +30280,7 @@
       <name><languageId>uz</languageId><trName>Montserrat</trName></name>
       <name><languageId>vi</languageId><trName>Montserrat</trName></name>
       <name><languageId>wae</languageId><trName>Monserat</trName></name>
+      <name><languageId>yo</languageId><trName>ìlú Monseratì</trName></name>
       <name><languageId>yue</languageId><trName>蒙哲臘</trName></name>
       <name><languageId>zh</languageId><trName>蒙特塞拉特</trName></name>
       <name><languageId>zh_Hant</languageId><trName>蒙哲臘</trName></name>
@@ -30724,6 +30813,7 @@
       <name><languageId>ur</languageId><trName>نساؤ</trName></name>
       <name><languageId>uz</languageId><trName>Nassau</trName></name>
       <name><languageId>vi</languageId><trName>Nassau</trName></name>
+      <name><languageId>yo</languageId><trName>ìlú Nasaò</trName></name>
       <name><languageId>yue</languageId><trName>拿索</trName></name>
       <name><languageId>zh</languageId><trName>拿骚</trName></name>
       <name><languageId>zh_Hant</languageId><trName>拿索</trName></name>
@@ -31000,6 +31090,7 @@
       <name><languageId>jv</languageId><trName>Salem Anyar [Dakota Lor]</trName></name>
       <name><languageId>ka</languageId><trName>ნიუ სალემი</trName></name>
       <name><languageId>kab</languageId><trName>New Salem, North Dakota</trName></name>
+      <name><languageId>kea</languageId><trName>New Salem, Dakota di Norti</trName></name>
       <name><languageId>kk</languageId><trName>Нью Салем</trName></name>
       <name><languageId>km</languageId><trName>ញូ​សាឡឹម</trName></name>
       <name><languageId>kn</languageId><trName>ನ್ಯೂ ಸಲೇಂ</trName></name>
@@ -31054,6 +31145,7 @@
       <name><languageId>ur</languageId><trName>نیو سلیم</trName></name>
       <name><languageId>uz</languageId><trName>New Salem</trName></name>
       <name><languageId>vi</languageId><trName>New Salem</trName></name>
+      <name><languageId>yo</languageId><trName>ìlú New Salem ni North Dakota</trName></name>
       <name><languageId>yue</languageId><trName>北達科他州紐沙倫</trName></name>
       <name><languageId>zh</languageId><trName>新塞勒姆</trName></name>
       <name><languageId>zh_Hant</languageId><trName>紐沙倫</trName></name>
@@ -31113,6 +31205,7 @@
       <name><languageId>jv</languageId><trName>New York</trName></name>
       <name><languageId>ka</languageId><trName>ნიუ-იორკი</trName></name>
       <name><languageId>kab</languageId><trName>New York</trName></name>
+      <name><languageId>kea</languageId><trName>Nova Iorki</trName></name>
       <name><languageId>kk</languageId><trName>Нью-Йорк</trName></name>
       <name><languageId>km</languageId><trName>ញូវយ៉ក</trName></name>
       <name><languageId>kn</languageId><trName>ನ್ಯೂಯಾರ್ಕ್</trName></name>
@@ -31163,6 +31256,7 @@
       <name><languageId>ur</languageId><trName>نیو یارک</trName></name>
       <name><languageId>uz</languageId><trName>Nyu-York</trName></name>
       <name><languageId>vi</languageId><trName>New York</trName></name>
+      <name><languageId>yo</languageId><trName>ìlú New York</trName></name>
       <name><languageId>yue</languageId><trName>紐約</trName></name>
       <name><languageId>zh</languageId><trName>纽约</trName></name>
       <name><languageId>zh_Hant</languageId><trName>紐約</trName></name>
@@ -31489,6 +31583,7 @@
       <name><languageId>ur</languageId><trName>نپیگون</trName></name>
       <name><languageId>uz</languageId><trName>Nipigon</trName></name>
       <name><languageId>vi</languageId><trName>Nipigon</trName></name>
+      <name><languageId>yo</languageId><trName>ìlú Nipigoni</trName></name>
       <name><languageId>yue</languageId><trName>尼皮岡</trName></name>
       <name><languageId>zh</languageId><trName>尼皮贡</trName></name>
       <name><languageId>zh_Hant</languageId><trName>尼皮岡</trName></name>
@@ -31704,6 +31799,7 @@
       <name><languageId>ur</languageId><trName>نوم</trName></name>
       <name><languageId>uz</languageId><trName>Nom</trName></name>
       <name><languageId>vi</languageId><trName>Nome</trName></name>
+      <name><languageId>yo</languageId><trName>ìlú Nomi</trName></name>
       <name><languageId>yue</languageId><trName>諾姆</trName></name>
       <name><languageId>zh</languageId><trName>诺姆</trName></name>
       <name><languageId>zh_Hant</languageId><trName>諾姆</trName></name>
@@ -32538,6 +32634,7 @@
       <name><languageId>ur</languageId><trName>اوجیناگا</trName></name>
       <name><languageId>uz</languageId><trName>Oxinaga</trName></name>
       <name><languageId>vi</languageId><trName>Ojinaga</trName></name>
+      <name><languageId>yo</languageId><trName>ìlú Ojinaga</trName></name>
       <name><languageId>yue</languageId><trName>奧希納加</trName></name>
       <name><languageId>zh</languageId><trName>奥希纳加</trName></name>
       <name><languageId>zh_Hant</languageId><trName>奧希納加</trName></name>
@@ -33433,6 +33530,7 @@
       <name><languageId>jv</languageId><trName>Panama</trName></name>
       <name><languageId>ka</languageId><trName>პანამა</trName></name>
       <name><languageId>kab</languageId><trName>Panama</trName></name>
+      <name><languageId>kea</languageId><trName>Panamá</trName></name>
       <name><languageId>kk</languageId><trName>Панама</trName></name>
       <name><languageId>km</languageId><trName>ប៉ាណាម៉ា</trName></name>
       <name><languageId>kn</languageId><trName>ಪನಾಮಾ</trName></name>
@@ -33483,6 +33581,7 @@
       <name><languageId>ur</languageId><trName>پنامہ</trName></name>
       <name><languageId>uz</languageId><trName>Panama</trName></name>
       <name><languageId>vi</languageId><trName>Panama</trName></name>
+      <name><languageId>yo</languageId><trName>ìlú Panama</trName></name>
       <name><languageId>yue</languageId><trName>巴拿馬</trName></name>
       <name><languageId>zh</languageId><trName>巴拿马</trName></name>
       <name><languageId>zh_Hant</languageId><trName>巴拿馬</trName></name>
@@ -33590,6 +33689,7 @@
       <name><languageId>ur</languageId><trName>پینگنِرٹنگ</trName></name>
       <name><languageId>uz</languageId><trName>Pangnirtang</trName></name>
       <name><languageId>vi</languageId><trName>Pangnirtung</trName></name>
+      <name><languageId>yo</languageId><trName>ìlú Panituni</trName></name>
       <name><languageId>yue</languageId><trName>潘尼爾東</trName></name>
       <name><languageId>zh</languageId><trName>旁涅唐</trName></name>
       <name><languageId>zh_Hans_SG</languageId><trName>旁尼唐</trName></name>
@@ -34027,6 +34127,7 @@
       <name><languageId>ur</languageId><trName>پیٹرزبرگ</trName></name>
       <name><languageId>uz</languageId><trName>Petersburg</trName></name>
       <name><languageId>vi</languageId><trName>Petersburg</trName></name>
+      <name><languageId>yo</languageId><trName>ìlú Petersburg</trName></name>
       <name><languageId>yue</languageId><trName>印第安那州彼得堡</trName></name>
       <name><languageId>zh</languageId><trName>彼得斯堡</trName></name>
       <name><languageId>zh_Hant</languageId><trName>彼得堡</trName></name>
@@ -34242,6 +34343,7 @@
       <name><languageId>ur</languageId><trName>فینکس</trName></name>
       <name><languageId>uz</languageId><trName>Feniks</trName></name>
       <name><languageId>vi</languageId><trName>Phoenix</trName></name>
+      <name><languageId>yo</languageId><trName>ìlú Fínísì</trName></name>
       <name><languageId>yue</languageId><trName>鳳凰城</trName></name>
       <name><languageId>zh</languageId><trName>凤凰城</trName></name>
       <name><languageId>zh_Hant</languageId><trName>鳳凰城</trName></name>
@@ -34780,6 +34882,7 @@
       <name><languageId>ur</languageId><trName>پورٹ او پرنس</trName></name>
       <name><languageId>uz</languageId><trName>Port-o-Prens</trName></name>
       <name><languageId>vi</languageId><trName>Port-au-Prince</trName></name>
+      <name><languageId>yo</languageId><trName>ìlú Port-au-Prince</trName></name>
       <name><languageId>yue</languageId><trName>太子港</trName></name>
       <name><languageId>zh</languageId><trName>太子港</trName></name>
       <name><languageId>zh_Hant</languageId><trName>太子港</trName></name>
@@ -34947,6 +35050,7 @@
       <name><languageId>jv</languageId><trName>Palabuhan Spanyol</trName></name>
       <name><languageId>ka</languageId><trName>პორტ-ოვ-სპეინი</trName></name>
       <name><languageId>kab</languageId><trName>Port of Spain</trName></name>
+      <name><languageId>kea</languageId><trName>Portu di Spanha</trName></name>
       <name><languageId>kk</languageId><trName>Порт-оф-Спейн</trName></name>
       <name><languageId>km</languageId><trName>ព័រអេស្ប៉ាញ</trName></name>
       <name><languageId>kn</languageId><trName>ಪೋರ್ಟ್ ಆಫ್ ಸ್ಪೇನ್</trName></name>
@@ -34999,6 +35103,7 @@
       <name><languageId>ur</languageId><trName>پورٹ آف اسپین</trName></name>
       <name><languageId>uz</languageId><trName>Port-of-Speyn</trName></name>
       <name><languageId>vi</languageId><trName>Port of Spain</trName></name>
+      <name><languageId>yo</languageId><trName>ìlú etí omi Sípéènì</trName></name>
       <name><languageId>yue</languageId><trName>西班牙港</trName></name>
       <name><languageId>zh</languageId><trName>西班牙港</trName></name>
       <name><languageId>zh_Hant</languageId><trName>西班牙港</trName></name>
@@ -35385,6 +35490,7 @@
       <name><languageId>jv</languageId><trName>Puerto Riko</trName></name>
       <name><languageId>ka</languageId><trName>პუერტო-რიკო</trName></name>
       <name><languageId>kab</languageId><trName>Puerto Rico</trName></name>
+      <name><languageId>kea</languageId><trName>Portu Riku</trName></name>
       <name><languageId>kk</languageId><trName>Пуэрто-Рико</trName></name>
       <name><languageId>km</languageId><trName>ព័រតូរីកូ</trName></name>
       <name><languageId>kn</languageId><trName>ಪ್ಯುರ್ಟೋ ರಿಕೊ</trName></name>
@@ -35435,6 +35541,7 @@
       <name><languageId>ur</languageId><trName>پیورٹو ریکو</trName></name>
       <name><languageId>uz</languageId><trName>Puerto-Riko</trName></name>
       <name><languageId>vi</languageId><trName>Puerto Rico</trName></name>
+      <name><languageId>yo</languageId><trName>ìlú Puerto Riko</trName></name>
       <name><languageId>yue</languageId><trName>波多黎各</trName></name>
       <name><languageId>zh</languageId><trName>波多黎各</trName></name>
       <name><languageId>zh_Hant</languageId><trName>波多黎各</trName></name>
@@ -35870,6 +35977,7 @@
       <name><languageId>ur</languageId><trName>رینی ریور</trName></name>
       <name><languageId>uz</languageId><trName>Reyni-River</trName></name>
       <name><languageId>vi</languageId><trName>Rainy River</trName></name>
+      <name><languageId>yo</languageId><trName>ìlú Raini Rifà</trName></name>
       <name><languageId>yue</languageId><trName>雨河鎮</trName></name>
       <name><languageId>zh</languageId><trName>雷尼河</trName></name>
       <name><languageId>zh_Hant</languageId><trName>雨河鎮</trName></name>
@@ -36085,6 +36193,7 @@
       <name><languageId>ur</languageId><trName>رینکن انلیٹ</trName></name>
       <name><languageId>uz</languageId><trName>Rankin-Inlet</trName></name>
       <name><languageId>vi</languageId><trName>Rankin Inlet</trName></name>
+      <name><languageId>yo</languageId><trName>ìlú Rankin Inlet</trName></name>
       <name><languageId>yue</languageId><trName>蘭今灣</trName></name>
       <name><languageId>zh</languageId><trName>兰今湾</trName></name>
       <name><languageId>zh_Hant</languageId><trName>蘭今灣</trName></name>
@@ -36407,6 +36516,7 @@
       <name><languageId>ur</languageId><trName>ریجینا</trName></name>
       <name><languageId>uz</languageId><trName>Rejayna</trName></name>
       <name><languageId>vi</languageId><trName>Regina</trName></name>
+      <name><languageId>yo</languageId><trName>ìlú Regina</trName></name>
       <name><languageId>yue</languageId><trName>里賈納</trName></name>
       <name><languageId>zh</languageId><trName>里贾纳</trName></name>
       <name><languageId>zh_Hant</languageId><trName>里賈納</trName></name>
@@ -36514,6 +36624,7 @@
       <name><languageId>ur</languageId><trName>ریزولیوٹ</trName></name>
       <name><languageId>uz</languageId><trName>Rezolyut</trName></name>
       <name><languageId>vi</languageId><trName>Resolute</trName></name>
+      <name><languageId>yo</languageId><trName>ìlú Resolútì</trName></name>
       <name><languageId>yue</languageId><trName>羅斯魯特</trName></name>
       <name><languageId>zh</languageId><trName>雷索卢特</trName></name>
       <name><languageId>zh_Hant</languageId><trName>羅斯魯特</trName></name>
@@ -38616,6 +38727,7 @@
       <name><languageId>jv</languageId><trName>Santo Domingo</trName></name>
       <name><languageId>ka</languageId><trName>სანტო-დომინგო</trName></name>
       <name><languageId>kab</languageId><trName>Santo Domingo</trName></name>
+      <name><languageId>kea</languageId><trName>Santu Dumingu</trName></name>
       <name><languageId>kk</languageId><trName>Санто-Доминго</trName></name>
       <name><languageId>km</languageId><trName>សាន់ដូម៉ាំង</trName></name>
       <name><languageId>kn</languageId><trName>ಸ್ಯಾಂಟೋ ಡೊಮಿಂಗೊ</trName></name>
@@ -38666,6 +38778,7 @@
       <name><languageId>ur</languageId><trName>سانتو ڈومنگو</trName></name>
       <name><languageId>uz</languageId><trName>Santo-Domingo</trName></name>
       <name><languageId>vi</languageId><trName>Santo Domingo</trName></name>
+      <name><languageId>yo</languageId><trName>ìlú Santo Domigo</trName></name>
       <name><languageId>yue</languageId><trName>聖多明哥</trName></name>
       <name><languageId>zh</languageId><trName>圣多明各</trName></name>
       <name><languageId>zh_Hans_SG</languageId><trName>圣多明戈</trName></name>
@@ -39113,6 +39226,7 @@
       <name><languageId>ur</languageId><trName>اسکورز بائی سنڈ</trName></name>
       <name><languageId>uz</languageId><trName>Ittokkortoormiut</trName></name>
       <name><languageId>vi</languageId><trName>Ittoqqortoormiit</trName></name>
+      <name><languageId>yo</languageId><trName>ìlú Itokotomiti</trName></name>
       <name><languageId>yue</languageId><trName>伊托科爾托米特</trName></name>
       <name><languageId>zh</languageId><trName>斯科列斯比桑德</trName></name>
       <name><languageId>zh_Hans_SG</languageId><trName>斯考斯伯松德</trName></name>
@@ -39732,6 +39846,7 @@
       <name><languageId>ur</languageId><trName>سیٹکا</trName></name>
       <name><languageId>uz</languageId><trName>Sitka</trName></name>
       <name><languageId>vi</languageId><trName>Sitka</trName></name>
+      <name><languageId>yo</languageId><trName>ìlú Sika</trName></name>
       <name><languageId>yue</languageId><trName>錫特卡</trName></name>
       <name><languageId>zh</languageId><trName>锡特卡</trName></name>
       <name><languageId>zh_Hant</languageId><trName>錫特卡</trName></name>
@@ -40202,6 +40317,7 @@
       <name><languageId>jv</languageId><trName>Santa Barthelemy</trName></name>
       <name><languageId>ka</languageId><trName>სენ-ბართელემი</trName></name>
       <name><languageId>kab</languageId><trName>St. Barthelemy</trName></name>
+      <name><languageId>kea</languageId><trName>San Bartolomeu</trName></name>
       <name><languageId>kk</languageId><trName>Сен-Бартелеми</trName></name>
       <name><languageId>km</languageId><trName>សាំង​បាធីលីម៉ី</trName></name>
       <name><languageId>kn</languageId><trName>ಸೇಂಟ್ ಬಾರ್ತೆಲೆಮಿ</trName></name>
@@ -40255,6 +40371,7 @@
       <name><languageId>ur</languageId><trName>سینٹ برتھیلمی</trName></name>
       <name><languageId>uz</languageId><trName>Sen-Bartelemi</trName></name>
       <name><languageId>vi</languageId><trName>St. Barthélemy</trName></name>
+      <name><languageId>yo</languageId><trName>ìlú Batilemì</trName></name>
       <name><languageId>yue</languageId><trName>聖巴托洛繆島</trName></name>
       <name><languageId>zh</languageId><trName>圣巴泰勒米岛</trName></name>
       <name><languageId>zh_Hans_SG</languageId><trName>圣巴太累米</trName></name>
@@ -40484,6 +40601,7 @@
       <name><languageId>ur</languageId><trName>سینٹ جانز</trName></name>
       <name><languageId>uz</languageId><trName>Sent-Jons</trName></name>
       <name><languageId>vi</languageId><trName>St. John’s</trName></name>
+      <name><languageId>yo</languageId><trName>ìlú St Jọ́ọ̀nù</trName></name>
       <name><languageId>yue</languageId><trName>聖約翰</trName></name>
       <name><languageId>zh</languageId><trName>圣约翰斯</trName></name>
       <name><languageId>zh_Hans_SG</languageId><trName>圣约翰</trName></name>
@@ -40547,6 +40665,7 @@
       <name><languageId>jv</languageId><trName>Santa Kitts</trName></name>
       <name><languageId>ka</languageId><trName>სენტ-კიტსი</trName></name>
       <name><languageId>kab</languageId><trName>St. Kitts</trName></name>
+      <name><languageId>kea</languageId><trName>San Kristovan</trName></name>
       <name><languageId>kk</languageId><trName>Сент-Китс</trName></name>
       <name><languageId>km</languageId><trName>សាំង​ឃីត</trName></name>
       <name><languageId>kn</languageId><trName>ಸೇಂಟ್ ಕಿಟ್ಸ್</trName></name>
@@ -40600,6 +40719,7 @@
       <name><languageId>ur</languageId><trName>سینٹ کٹس</trName></name>
       <name><languageId>uz</languageId><trName>Sent-Kits</trName></name>
       <name><languageId>vi</languageId><trName>St. Kitts</trName></name>
+      <name><languageId>yo</languageId><trName>ìlú St kitisì</trName></name>
       <name><languageId>yue</languageId><trName>聖基茨</trName></name>
       <name><languageId>zh</languageId><trName>圣基茨</trName></name>
       <name><languageId>zh_Hant</languageId><trName>聖基茨</trName></name>
@@ -40661,6 +40781,7 @@
       <name><languageId>jv</languageId><trName>Santa Lucia</trName></name>
       <name><languageId>ka</languageId><trName>სენტ-ლუსია</trName></name>
       <name><languageId>kab</languageId><trName>St. Lucia</trName></name>
+      <name><languageId>kea</languageId><trName>Santa Lúsia</trName></name>
       <name><languageId>kk</languageId><trName>Сент-Люсия</trName></name>
       <name><languageId>km</languageId><trName>សាំង​លូសៀ</trName></name>
       <name><languageId>kn</languageId><trName>ಸೇಂಟ್ ಲೂಸಿಯಾ</trName></name>
@@ -40714,6 +40835,7 @@
       <name><languageId>ur</languageId><trName>سینٹ لوسیا</trName></name>
       <name><languageId>uz</languageId><trName>Sent-Lyusiya</trName></name>
       <name><languageId>vi</languageId><trName>St. Lucia</trName></name>
+      <name><languageId>yo</languageId><trName>ìlú St Lusia</trName></name>
       <name><languageId>yue</languageId><trName>聖露西亞</trName></name>
       <name><languageId>zh</languageId><trName>圣卢西亚</trName></name>
       <name><languageId>zh_Hant</languageId><trName>聖露西亞</trName></name>
@@ -40828,6 +40950,7 @@
       <name><languageId>ur</languageId><trName>سینٹ تھامس</trName></name>
       <name><languageId>uz</languageId><trName>Sent-Tomas</trName></name>
       <name><languageId>vi</languageId><trName>St. Thomas</trName></name>
+      <name><languageId>yo</languageId><trName>ìlú St Tọ́màsì</trName></name>
       <name><languageId>yue</languageId><trName>聖托馬斯</trName></name>
       <name><languageId>zh</languageId><trName>圣托马斯</trName></name>
       <name><languageId>zh_Hant</languageId><trName>聖托馬斯</trName></name>
@@ -40889,6 +41012,7 @@
       <name><languageId>jv</languageId><trName>Santa Vincent</trName></name>
       <name><languageId>ka</languageId><trName>სენ-ვინსენტი</trName></name>
       <name><languageId>kab</languageId><trName>St. Vincent</trName></name>
+      <name><languageId>kea</languageId><trName>San Bisenti</trName></name>
       <name><languageId>kk</languageId><trName>Сент-Винсент</trName></name>
       <name><languageId>km</languageId><trName>សាំង​វីនសេន</trName></name>
       <name><languageId>kn</languageId><trName>ಸೇಂಟ್ ವಿನ್ಸೆಂಟ್</trName></name>
@@ -40942,6 +41066,7 @@
       <name><languageId>ur</languageId><trName>سینٹ ونسنٹ</trName></name>
       <name><languageId>uz</languageId><trName>Sent-Vinsent</trName></name>
       <name><languageId>vi</languageId><trName>St. Vincent</trName></name>
+      <name><languageId>yo</languageId><trName>ìlú Finsentì</trName></name>
       <name><languageId>yue</languageId><trName>聖文森</trName></name>
       <name><languageId>zh</languageId><trName>圣文森特</trName></name>
       <name><languageId>zh_Hant</languageId><trName>聖文森</trName></name>
@@ -41266,6 +41391,7 @@
       <name><languageId>ur</languageId><trName>سوِفٹ کرنٹ</trName></name>
       <name><languageId>uz</languageId><trName>Svift-Karrent</trName></name>
       <name><languageId>vi</languageId><trName>Swift Current</trName></name>
+      <name><languageId>yo</languageId><trName>ìlú Súfítù Kọ̀rentì</trName></name>
       <name><languageId>yue</languageId><trName>斯威夫特卡倫特</trName></name>
       <name><languageId>zh</languageId><trName>斯威夫特卡伦特</trName></name>
       <name><languageId>zh_Hant</languageId><trName>斯威夫特卡倫特</trName></name>
@@ -42244,6 +42370,7 @@
       <name><languageId>ur</languageId><trName>ٹیگوسیگالپے</trName></name>
       <name><languageId>uz</languageId><trName>Tegusigalpa</trName></name>
       <name><languageId>vi</languageId><trName>Tegucigalpa</trName></name>
+      <name><languageId>yo</languageId><trName>ìlú Tegusigapà</trName></name>
       <name><languageId>yue</languageId><trName>德古斯加巴</trName></name>
       <name><languageId>zh</languageId><trName>特古西加尔巴</trName></name>
       <name><languageId>zh_Hant</languageId><trName>德古斯加巴</trName></name>
@@ -42470,6 +42597,7 @@
       <name><languageId>ur</languageId><trName>ٹیل سٹی</trName></name>
       <name><languageId>uz</languageId><trName>Tell City</trName></name>
       <name><languageId>vi</languageId><trName>Tell City</trName></name>
+      <name><languageId>yo</languageId><trName>ìlú Tell City</trName></name>
       <name><languageId>yue</languageId><trName>印第安那州泰爾城</trName></name>
       <name><languageId>zh</languageId><trName>特尔城</trName></name>
       <name><languageId>zh_Hant</languageId><trName>泰爾城</trName></name>
@@ -42686,6 +42814,7 @@
       <name><languageId>ur</languageId><trName>تھولو</trName></name>
       <name><languageId>uz</languageId><trName>Tule</trName></name>
       <name><languageId>vi</languageId><trName>Thule</trName></name>
+      <name><languageId>yo</languageId><trName>ìlú Tulè</trName></name>
       <name><languageId>yue</languageId><trName>杜里</trName></name>
       <name><languageId>zh</languageId><trName>图勒</trName></name>
       <name><languageId>zh_Hant</languageId><trName>杜里</trName></name>
@@ -42794,6 +42923,7 @@
       <name><languageId>ur</languageId><trName>تھنڈر بے</trName></name>
       <name><languageId>uz</languageId><trName>Tander-Bey</trName></name>
       <name><languageId>vi</languageId><trName>Thunder Bay</trName></name>
+      <name><languageId>yo</languageId><trName>ìlú Omi Thunder</trName></name>
       <name><languageId>yue</languageId><trName>珊德灣</trName></name>
       <name><languageId>zh</languageId><trName>桑德贝</trName></name>
       <name><languageId>zh_Hant</languageId><trName>珊德灣</trName></name>
@@ -42902,6 +43032,7 @@
       <name><languageId>ur</languageId><trName>تیجوآنا</trName></name>
       <name><languageId>uz</languageId><trName>Tixuana</trName></name>
       <name><languageId>vi</languageId><trName>Tijuana</trName></name>
+      <name><languageId>yo</languageId><trName>ìlú Tíjúana</trName></name>
       <name><languageId>yue</languageId><trName>提華納</trName></name>
       <name><languageId>zh</languageId><trName>蒂华纳</trName></name>
       <name><languageId>zh_Hant</languageId><trName>提華納</trName></name>
@@ -43298,6 +43429,7 @@
       <name><languageId>jv</languageId><trName>Toronto</trName></name>
       <name><languageId>ka</languageId><trName>ტორონტო</trName></name>
       <name><languageId>kab</languageId><trName>Toronto</trName></name>
+      <name><languageId>kea</languageId><trName>Torontu</trName></name>
       <name><languageId>kk</languageId><trName>Торонто</trName></name>
       <name><languageId>km</languageId><trName>តូរ៉ុនតូ</trName></name>
       <name><languageId>kn</languageId><trName>ಟೊರೊಂಟೋ</trName></name>
@@ -43348,6 +43480,7 @@
       <name><languageId>ur</languageId><trName>ٹورنٹو</trName></name>
       <name><languageId>uz</languageId><trName>Toronto</trName></name>
       <name><languageId>vi</languageId><trName>Toronto</trName></name>
+      <name><languageId>yo</languageId><trName>ìlú Toronto</trName></name>
       <name><languageId>yue</languageId><trName>多倫多</trName></name>
       <name><languageId>zh</languageId><trName>多伦多</trName></name>
       <name><languageId>zh_Hant</languageId><trName>多倫多</trName></name>
@@ -43455,6 +43588,7 @@
       <name><languageId>ur</languageId><trName>ٹورٹولا</trName></name>
       <name><languageId>uz</languageId><trName>Tortola</trName></name>
       <name><languageId>vi</languageId><trName>Tortola</trName></name>
+      <name><languageId>yo</languageId><trName>ìlú Totola</trName></name>
       <name><languageId>yue</languageId><trName>托爾托拉</trName></name>
       <name><languageId>zh</languageId><trName>托尔托拉</trName></name>
       <name><languageId>zh_Hant</languageId><trName>托爾托拉</trName></name>
@@ -44681,6 +44815,7 @@
       <name><languageId>jv</languageId><trName>Vancouver</trName></name>
       <name><languageId>ka</languageId><trName>ვანკუვერი</trName></name>
       <name><languageId>kab</languageId><trName>Vancouver</trName></name>
+      <name><languageId>kea</languageId><trName>Vankuver</trName></name>
       <name><languageId>kk</languageId><trName>Ванкувер</trName></name>
       <name><languageId>km</languageId><trName>វ៉ាន់កូវើ</trName></name>
       <name><languageId>kn</languageId><trName>ವ್ಯಾಂಕೊವರ್‌</trName></name>
@@ -44731,6 +44866,7 @@
       <name><languageId>ur</languageId><trName>وینکوور</trName></name>
       <name><languageId>uz</languageId><trName>Vankuver</trName></name>
       <name><languageId>vi</languageId><trName>Vancouver</trName></name>
+      <name><languageId>yo</languageId><trName>ìlú Vankuva</trName></name>
       <name><languageId>yue</languageId><trName>溫哥華</trName></name>
       <name><languageId>zh</languageId><trName>温哥华</trName></name>
       <name><languageId>zh_Hant</languageId><trName>溫哥華</trName></name>
@@ -45371,6 +45507,7 @@
       <name><languageId>ur</languageId><trName>ونسینیز</trName></name>
       <name><languageId>uz</languageId><trName>Vincennes</trName></name>
       <name><languageId>vi</languageId><trName>Vincennes</trName></name>
+      <name><languageId>yo</languageId><trName>ìlú Vincennes ní Indiana</trName></name>
       <name><languageId>yue</languageId><trName>印第安那州溫森斯</trName></name>
       <name><languageId>zh</languageId><trName>温森斯</trName></name>
       <name><languageId>zh_Hant</languageId><trName>溫森斯</trName></name>
@@ -46149,6 +46286,7 @@
       <name><languageId>ur</languageId><trName>وہائٹ ہارس</trName></name>
       <name><languageId>uz</languageId><trName>Uaytxors</trName></name>
       <name><languageId>vi</languageId><trName>Whitehorse</trName></name>
+      <name><languageId>yo</languageId><trName>ìlú Whitehosì</trName></name>
       <name><languageId>yue</languageId><trName>懷特霍斯</trName></name>
       <name><languageId>zh</languageId><trName>怀特霍斯</trName></name>
       <name><languageId>zh_Hant</languageId><trName>懷特霍斯</trName></name>
@@ -46262,6 +46400,7 @@
       <name><languageId>ur</languageId><trName>وینامیک</trName></name>
       <name><languageId>uz</languageId><trName>Winamac</trName></name>
       <name><languageId>vi</languageId><trName>Winamac</trName></name>
+      <name><languageId>yo</languageId><trName>ìlú Winamak ní Indiana</trName></name>
       <name><languageId>yue</languageId><trName>印第安那州威納馬克</trName></name>
       <name><languageId>zh</languageId><trName>威纳马克</trName></name>
       <name><languageId>zh_Hant</languageId><trName>威納麥克</trName></name>
@@ -46430,6 +46569,7 @@
       <name><languageId>jv</languageId><trName>Winnipeg</trName></name>
       <name><languageId>ka</languageId><trName>უინიპეგი</trName></name>
       <name><languageId>kab</languageId><trName>Winnipeg</trName></name>
+      <name><languageId>kea</languageId><trName>Uínipeg</trName></name>
       <name><languageId>kk</languageId><trName>Виннипег</trName></name>
       <name><languageId>km</languageId><trName>វីនីភិក</trName></name>
       <name><languageId>kn</languageId><trName>ವಿನ್ನಿಪೆಗ್</trName></name>
@@ -46480,6 +46620,7 @@
       <name><languageId>ur</languageId><trName>ونّیپیگ</trName></name>
       <name><languageId>uz</languageId><trName>Vinnipeg</trName></name>
       <name><languageId>vi</languageId><trName>Winnipeg</trName></name>
+      <name><languageId>yo</languageId><trName>ìlú Winipegì</trName></name>
       <name><languageId>yue</languageId><trName>溫尼伯</trName></name>
       <name><languageId>zh</languageId><trName>温尼伯</trName></name>
       <name><languageId>zh_Hant</languageId><trName>溫尼伯</trName></name>
@@ -46588,6 +46729,7 @@
       <name><languageId>ur</languageId><trName>یکوٹیٹ</trName></name>
       <name><languageId>uz</languageId><trName>Yakutat</trName></name>
       <name><languageId>vi</languageId><trName>Yakutat</trName></name>
+      <name><languageId>yo</languageId><trName>ìlú Yakuta</trName></name>
       <name><languageId>yue</languageId><trName>雅庫塔</trName></name>
       <name><languageId>zh</languageId><trName>亚库塔特</trName></name>
       <name><languageId>zh_Hant</languageId><trName>雅庫塔</trName></name>
@@ -46931,6 +47073,7 @@
       <name><languageId>ur</languageId><trName>ایلو نائف</trName></name>
       <name><languageId>uz</languageId><trName>Yellounayf</trName></name>
       <name><languageId>vi</languageId><trName>Yellowknife</trName></name>
+      <name><languageId>yo</languageId><trName>ìlú Yelonáfù</trName></name>
       <name><languageId>yue</languageId><trName>耶洛奈夫</trName></name>
       <name><languageId>zh</languageId><trName>耶洛奈夫</trName></name>
       <name><languageId>zh_Hant</languageId><trName>耶洛奈夫</trName></name>
