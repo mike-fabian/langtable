@@ -1001,7 +1001,7 @@ def dummy():
         Chinesisch
 
     >>> print(language_name(languageId="zh", scriptId="Hant", languageIdQuery="de")) # doctest: +NORMALIZE_WHITESPACE
-        Chinesisch (traditionell)
+        Mandarin (traditionell)
 
     >>> print(language_name(languageId="zh", scriptId="Hans", languageIdQuery="de")) # doctest: +NORMALIZE_WHITESPACE
         Mandarin (Vereinfacht)
@@ -1538,7 +1538,7 @@ def dummy():
     >>> print(language_name(languageId="id_ID.utf8")) # doctest: +NORMALIZE_WHITESPACE
     Indonesia (Indonesia)
     >>> print(language_name(languageId="ig_NG.utf8")) # doctest: +NORMALIZE_WHITESPACE
-    Asụsụ Igbo (Naịjịrịa)
+    Igbo (Naịjịrịa)
     >>> print(language_name(languageId="ik_CA.utf8")) # doctest: +NORMALIZE_WHITESPACE
     Iñupiatun (Kanada)
     >>> print(language_name(languageId="is_IS.utf8")) # doctest: +NORMALIZE_WHITESPACE
@@ -1610,7 +1610,7 @@ def dummy():
     >>> print(language_name(languageId="mhr_RU.utf8")) # doctest: +NORMALIZE_WHITESPACE
     Марий йылме (Russia)
     >>> print(language_name(languageId="mi_NZ.utf8")) # doctest: +NORMALIZE_WHITESPACE
-    Māori (Aotearoa)
+    Te reo Māori (Aotearoa)
     >>> print(language_name(languageId="miq_NI.utf8")) # doctest: +NORMALIZE_WHITESPACE
     Mískitu (Nicaragua)
     >>> print(language_name(languageId="mjw_IN.utf8")) # doctest: +NORMALIZE_WHITESPACE
@@ -1622,7 +1622,7 @@ def dummy():
     >>> print(language_name(languageId="mn_MN.utf8")) # doctest: +NORMALIZE_WHITESPACE
     Монгол (Монгол)
     >>> print(language_name(languageId="mni_IN.utf8")) # doctest: +NORMALIZE_WHITESPACE
-    মৈতৈলোন্ (ভারত)
+    মৈতৈলোন্ (ইন্দিয়া)
     >>> print(language_name(languageId="mnw_MM.utf8")) # doctest: +NORMALIZE_WHITESPACE
     မန် (ဗၟာ)
     >>> print(language_name(languageId="mr_IN.utf8")) # doctest: +NORMALIZE_WHITESPACE
@@ -1658,7 +1658,7 @@ def dummy():
     >>> print(language_name(languageId="nl_NL.utf8")) # doctest: +NORMALIZE_WHITESPACE
     Nederlands (Nederland)
     >>> print(language_name(languageId="nn_NO.utf8")) # doctest: +NORMALIZE_WHITESPACE
-    Nynorsk (Noreg)
+    Norsk nynorsk (Noreg)
     >>> print(language_name(languageId="nr_ZA.utf8")) # doctest: +NORMALIZE_WHITESPACE
     isiNdebele (iSewula Afrika)
     >>> print(language_name(languageId="nso_ZA.utf8")) # doctest: +NORMALIZE_WHITESPACE
@@ -1702,15 +1702,15 @@ def dummy():
     >>> print(language_name(languageId="rw_RW.utf8")) # doctest: +NORMALIZE_WHITESPACE
     Kinyarwanda (U Rwanda)
     >>> print(language_name(languageId="sa_IN.utf8")) # doctest: +NORMALIZE_WHITESPACE
-    संस्कृतम् (भारतम्)
+    संस्कृत भाषा (भारतः)
     >>> print(language_name(languageId="sah_RU.utf8")) # doctest: +NORMALIZE_WHITESPACE
     Саха тыла (Арассыыйа)
     >>> print(language_name(languageId="sat_IN.utf8")) # doctest: +NORMALIZE_WHITESPACE
-    ᱥᱟᱱᱛᱟᱲᱤ (ᱥᱤᱧᱚᱛ)
+    ᱥᱟᱱᱛᱟᱲᱤ (ᱤᱱᱰᱤᱭᱟ)
     >>> print(language_name(languageId="sc_IT.utf8")) # doctest: +NORMALIZE_WHITESPACE
     Sardu (Itàlia)
     >>> print(language_name(languageId="sd_IN.utf8")) # doctest: +NORMALIZE_WHITESPACE
-     سنڌي (انڊيا)
+    سنڌي (ڀارت)
     >>> print(language_name(languageId="sd_IN.utf8@devanagari")) # doctest: +NORMALIZE_WHITESPACE
     सिन्धी (भारत)
     >>> print(language_name(languageId="se_NO.utf8")) # doctest: +NORMALIZE_WHITESPACE
@@ -1778,9 +1778,9 @@ def dummy():
     >>> print(language_name(languageId="the_NP.utf8")) # doctest: +NORMALIZE_WHITESPACE
     थारु (नेपाल)
     >>> print(language_name(languageId="ti_ER.utf8")) # doctest: +NORMALIZE_WHITESPACE
-    ትግርኛ (ኤርትራ)
+    ትግር (ኤርትራ)
     >>> print(language_name(languageId="ti_ET.utf8")) # doctest: +NORMALIZE_WHITESPACE
-     ትግርኛ (ኢትዮጵያ)
+    ትግር (ኢትዮጵያ)
     >>> print(language_name(languageId="tig_ER.utf8")) # doctest: +NORMALIZE_WHITESPACE
     ትግረ (ኤርትራ)
     >>> print(language_name(languageId="tk_TM.utf8")) # doctest: +NORMALIZE_WHITESPACE
@@ -1800,7 +1800,7 @@ def dummy():
     >>> print(language_name(languageId="ts_ZA.utf8")) # doctest: +NORMALIZE_WHITESPACE
     Xitsonga (Afrika Dzonga)
     >>> print(language_name(languageId="tt_RU.utf8")) # doctest: +NORMALIZE_WHITESPACE
-    Татар (Русия)
+    Татар (Россия)
     >>> print(language_name(languageId="tt_RU.utf8@iqtelif")) # doctest: +NORMALIZE_WHITESPACE
     Tatar tele (Urıs Patşahlıq)
     >>> print(language_name(languageId="ug_CN.utf8")) # doctest: +NORMALIZE_WHITESPACE
@@ -1830,11 +1830,11 @@ def dummy():
     >>> print(language_name(languageId="wo_SN.utf8")) # doctest: +NORMALIZE_WHITESPACE
     Wolof (Senegaal)
     >>> print(language_name(languageId="xh_ZA.utf8")) # doctest: +NORMALIZE_WHITESPACE
-    isiXhosa (uMzantsi Afrika)
+    isiXhosa (eMzantsi Afrika)
     >>> print(language_name(languageId="yi_US.utf8")) # doctest: +NORMALIZE_WHITESPACE
     ייִדיש (פֿאַראייניגטע שטאַטן)
     >>> print(language_name(languageId="yo_NG.utf8")) # doctest: +NORMALIZE_WHITESPACE
-    Èdè Yorùbá (Orilẹ̀-èdè Nàìjíríà)
+    Èdè Yorùbá (Nàìjíríà)
     >>> print(language_name(languageId="yue_HK.utf8")) # doctest: +NORMALIZE_WHITESPACE
     粵語 (中華人民共和國香港特別行政區)
     >>> print(language_name(languageId="yuw_PG.utf8")) # doctest: +NORMALIZE_WHITESPACE
