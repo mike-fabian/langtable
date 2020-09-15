@@ -1,3 +1,10 @@
+2020-09-15  Mike FABIAN  <mfabian@redhat.com>
+
+	* Capitalize the return values of language_name() and territory_name()
+	(See: https://github.com/rhinstaller/anaconda/pull/2837).
+	* Add more translations from CLDR
+	* Get translation changes from CLDR
+
 2020-08-17 Sundeep ANAND <suanand@redhat.com>
 
 	* add list_common_keyboards() to public api
