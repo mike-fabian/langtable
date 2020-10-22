@@ -16,6 +16,7 @@ def dummy():
     >>> from langtable import _test_cldr_locale_pattern
     >>> from langtable import supports_ascii
     >>> from langtable import languageId
+    >>> from langtable import list_common_languages
     >>> from langtable import list_common_keyboards
 
     ######################################################################
@@ -2096,7 +2097,10 @@ def dummy():
         ['cn']
     >>> print(list_common_keyboards(languageId='zh', scriptId='Hans', territoryId='TW'))   # doctest: +NORMALIZE_WHITESPACE
         ['tw']
+    >>> print(list_common_languages())   # doctest: +NORMALIZE_WHITESPACE
+        ['ar', 'en', 'fr', 'de', 'ja', 'zh', 'ru', 'es']
     '''
+
 
 if __name__ == "__main__":
     import doctest

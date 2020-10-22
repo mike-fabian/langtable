@@ -21,6 +21,7 @@
 #     parse_locale()
 #     list_locales()
 #     list_keyboards()
+#     list_common_languages()
 #     list_common_keyboards()
 #     list_consolefonts()
 #     list_inputmethods()
@@ -1910,6 +1911,35 @@ def list_locales(concise=True, show_weights=False, languageId = None, scriptId =
         return ranked_list
     else:
         return _ranked_list_to_list(ranked_list)
+
+def list_common_languages():
+    '''List common languages
+
+    derived from GNOME/gnome-control-center
+        panels/common/cc-common-language.c
+        cc_common_language_get_initial_languages
+
+    which is based on number of speakers.
+
+    **Examples:**
+
+    >>> list_common_languages()
+    ['ar', 'en', 'fr', 'de', 'ja', 'zh', 'ru', 'es']
+
+    '''
+
+    common_locales = list()
+    common_locales.append("ar_EG.UTF-8")
+    common_locales.append("en_US.UTF-8")
+    common_locales.append("fr_FR.UTF-8")
+    common_locales.append("de_DE.UTF-8")
+    common_locales.append("ja_JP.UTF-8")
+    common_locales.append("zh_CN.UTF-8")
+    common_locales.append("ru_RU.UTF-8")
+    common_locales.append("es_ES.UTF-8")
+
+    languages = map(parse_locale, common_locales)
+    return [lang.language for lang in languages]
 
 def list_scripts(concise=True, show_weights=False, languageId = None, scriptId = None, territoryId = None):
     '''List scripts used for a language and/or in a territory

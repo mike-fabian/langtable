@@ -53,6 +53,7 @@ Functions in the public API:
      parse_locale()
      list_locales()
      list_keyboards()
+     list_common_languages()
      list_common_keyboards()
      list_consolefonts()
      list_inputmethods()
