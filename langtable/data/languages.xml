@@ -47470,6 +47470,7 @@
       <keyboard><keyboardId>de(deadacute)</keyboardId><rank>100</rank></keyboard>
     </keyboards>
     <inputmethods>
+      <inputmethod><inputmethodId>ibus/m17n:vi:telex</inputmethodId><rank>1000</rank></inputmethod>
     </inputmethods>
     <consolefonts>
       <consolefont><consolefontId>eurlatgr</consolefontId><rank>1000</rank></consolefont>
