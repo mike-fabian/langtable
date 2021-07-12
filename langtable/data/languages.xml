@@ -1801,7 +1801,7 @@
       <keyboard><keyboardId>in(eng)</keyboardId><rank>1000</rank></keyboard>
     </keyboards>
     <inputmethods>
-      <inputmethod><inputmethodId>ibus/m17n:as:phonetic</inputmethodId><rank>1000</rank></inputmethod>
+      <inputmethod><inputmethodId>ibus/m17n:as:inscript2</inputmethodId><rank>1000</rank></inputmethod>
     </inputmethods>
     <consolefonts>
       <consolefont><consolefontId>eurlatgr</consolefontId><rank>1000</rank></consolefont>
@@ -4576,7 +4576,7 @@
       <keyboard><keyboardId>in(eng)</keyboardId><rank>950</rank></keyboard>
     </keyboards>
     <inputmethods>
-      <inputmethod><inputmethodId>ibus/m17n:bn:inscript</inputmethodId><rank>1000</rank></inputmethod>
+      <inputmethod><inputmethodId>ibus/m17n:bn:inscript2</inputmethodId><rank>1000</rank></inputmethod>
     </inputmethods>
     <consolefonts>
       <consolefont><consolefontId>eurlatgr</consolefontId><rank>1000</rank></consolefont>
@@ -5050,6 +5050,7 @@
       <keyboard><keyboardId>in(eng)</keyboardId><rank>1000</rank></keyboard>
     </keyboards>
     <inputmethods>
+      <inputmethod><inputmethodId>ibus/m17n:brx:inscript2-deva</inputmethodId><rank>1000</rank></inputmethod>
     </inputmethods>
     <consolefonts>
       <consolefont><consolefontId>eurlatgr</consolefontId><rank>1000</rank></consolefont>
@@ -8722,6 +8723,7 @@
       <keyboard><keyboardId>in(eng)</keyboardId><rank>1000</rank></keyboard>
     </keyboards>
     <inputmethods>
+      <inputmethod><inputmethodId>ibus/m17n:doi:inscript2-deva</inputmethodId><rank>1000</rank></inputmethod>
     </inputmethods>
     <consolefonts>
       <consolefont><consolefontId>eurlatgr</consolefontId><rank>1000</rank></consolefont>
@@ -14292,7 +14294,7 @@
       <keyboard><keyboardId>in(eng)</keyboardId><rank>1000</rank></keyboard>
     </keyboards>
     <inputmethods>
-      <inputmethod><inputmethodId>ibus/m17n:gu:inscript</inputmethodId><rank>1000</rank></inputmethod>
+      <inputmethod><inputmethodId>ibus/m17n:gu:inscript2</inputmethodId><rank>1000</rank></inputmethod>
     </inputmethods>
     <consolefonts>
       <consolefont><consolefontId>eurlatgr</consolefontId><rank>1000</rank></consolefont>
@@ -15455,7 +15457,7 @@
       <keyboard><keyboardId>in(eng)</keyboardId><rank>1000</rank></keyboard>
     </keyboards>
     <inputmethods>
-      <inputmethod><inputmethodId>ibus/m17n:hi:inscript</inputmethodId><rank>1000</rank></inputmethod>
+      <inputmethod><inputmethodId>ibus/m17n:hi:inscript2</inputmethodId><rank>1000</rank></inputmethod>
     </inputmethods>
     <consolefonts>
       <consolefont><consolefontId>eurlatgr</consolefontId><rank>1000</rank></consolefont>
@@ -15519,7 +15521,7 @@
       <keyboard><keyboardId>in(eng)</keyboardId><rank>1000</rank></keyboard>
     </keyboards>
     <inputmethods>
-      <inputmethod><inputmethodId>ibus/m17n:hi:inscript</inputmethodId><rank>1000</rank></inputmethod>
+      <inputmethod><inputmethodId>ibus/m17n:hi:inscript2</inputmethodId><rank>1000</rank></inputmethod>
     </inputmethods>
     <consolefonts>
       <consolefont><consolefontId>eurlatgr</consolefontId><rank>1000</rank></consolefont>
@@ -21811,7 +21813,7 @@
       <keyboard><keyboardId>in(eng)</keyboardId><rank>1000</rank></keyboard>
     </keyboards>
     <inputmethods>
-      <inputmethod><inputmethodId>ibus/m17n:kn:kgp</inputmethodId><rank>1000</rank></inputmethod>
+      <inputmethod><inputmethodId>ibus/m17n:kn:inscript2</inputmethodId><rank>1000</rank></inputmethod>
     </inputmethods>
     <consolefonts>
       <consolefont><consolefontId>eurlatgr</consolefontId><rank>1000</rank></consolefont>
@@ -22194,6 +22196,7 @@
       <keyboard><keyboardId>in(eng)</keyboardId><rank>1000</rank></keyboard>
     </keyboards>
     <inputmethods>
+      <inputmethod><inputmethodId>ibus/m17n:kok:inscript2-deva</inputmethodId><rank>900</rank></inputmethod>
     </inputmethods>
     <consolefonts>
       <consolefont><consolefontId>eurlatgr</consolefontId><rank>1000</rank></consolefont>
@@ -22501,6 +22504,8 @@
       <keyboard><keyboardId>in(eng)</keyboardId><rank>1000</rank></keyboard>
     </keyboards>
     <inputmethods>
+      <inputmethod><inputmethodId>ibus/m17n:ks:inscript2-deva</inputmethodId><rank>900</rank></inputmethod>
+      <inputmethod><inputmethodId>ibus/m17n:ks:kbd</inputmethodId><rank>100</rank></inputmethod>
     </inputmethods>
     <consolefonts>
       <consolefont><consolefontId>latarcyrheb-sun16</consolefontId><rank>1000</rank></consolefont>
@@ -22535,6 +22540,7 @@
       <keyboard><keyboardId>in(eng)</keyboardId><rank>1000</rank></keyboard>
     </keyboards>
     <inputmethods>
+      <inputmethod><inputmethodId>ibus/m17n:ks:kbd</inputmethodId><rank>1000</rank></inputmethod>
     </inputmethods>
     <consolefonts>
       <consolefont><consolefontId>latarcyrheb-sun16</consolefontId><rank>1000</rank></consolefont>
@@ -22568,6 +22574,7 @@
       <keyboard><keyboardId>in(eng)</keyboardId><rank>1000</rank></keyboard>
     </keyboards>
     <inputmethods>
+      <inputmethod><inputmethodId>ibus/m17n:ks:inscript2-deva</inputmethodId><rank>1000</rank></inputmethod>
     </inputmethods>
     <consolefonts>
       <consolefont><consolefontId>latarcyrheb-sun16</consolefontId><rank>1000</rank></consolefont>
@@ -26549,7 +26556,7 @@
       <keyboard><keyboardId>in(eng)</keyboardId><rank>1000</rank></keyboard>
     </keyboards>
     <inputmethods>
-      <inputmethod><inputmethodId>ibus/m17n:mai:inscript</inputmethodId><rank>1000</rank></inputmethod>
+      <inputmethod><inputmethodId>ibus/m17n:mai:inscript2</inputmethodId><rank>1000</rank></inputmethod>
     </inputmethods>
     <consolefonts>
       <consolefont><consolefontId>eurlatgr</consolefontId><rank>1000</rank></consolefont>
@@ -28141,7 +28148,7 @@
       <keyboard><keyboardId>in(eng)</keyboardId><rank>1000</rank></keyboard>
     </keyboards>
     <inputmethods>
-      <inputmethod><inputmethodId>ibus/m17n:ml:inscript</inputmethodId><rank>1000</rank></inputmethod>
+      <inputmethod><inputmethodId>ibus/m17n:ml:inscript2</inputmethodId><rank>1000</rank></inputmethod>
     </inputmethods>
     <consolefonts>
       <consolefont><consolefontId>eurlatgr</consolefontId><rank>1000</rank></consolefont>
@@ -28453,6 +28460,7 @@
       <keyboard><keyboardId>in(eng)</keyboardId><rank>1000</rank></keyboard>
     </keyboards>
     <inputmethods>
+      <inputmethod><inputmethodId>ibus/m17n:mni:inscript2-beng</inputmethodId><rank>1000</rank></inputmethod>
     </inputmethods>
     <consolefonts>
       <consolefont><consolefontId>eurlatgr</consolefontId><rank>1000</rank></consolefont>
@@ -28812,7 +28820,7 @@
       <keyboard><keyboardId>in(eng)</keyboardId><rank>1000</rank></keyboard>
     </keyboards>
     <inputmethods>
-      <inputmethod><inputmethodId>ibus/m17n:mr:inscript</inputmethodId><rank>1000</rank></inputmethod>
+      <inputmethod><inputmethodId>ibus/m17n:mr:inscript2</inputmethodId><rank>1000</rank></inputmethod>
     </inputmethods>
     <consolefonts>
       <consolefont><consolefontId>eurlatgr</consolefontId><rank>1000</rank></consolefont>
@@ -30748,6 +30756,7 @@
       <keyboard><keyboardId>np</keyboardId><rank>1000</rank></keyboard>
     </keyboards>
     <inputmethods>
+      <inputmethod><inputmethodId>ibus/m17n:ne:inscript2-deva</inputmethodId><rank>900</rank></inputmethod>
     </inputmethods>
     <consolefonts>
       <consolefont><consolefontId>eurlatgr</consolefontId><rank>1000</rank></consolefont>
@@ -33480,7 +33489,7 @@
       <keyboard><keyboardId>in(eng)</keyboardId><rank>1000</rank></keyboard>
     </keyboards>
     <inputmethods>
-      <inputmethod><inputmethodId>ibus/m17n:or:inscript</inputmethodId><rank>1000</rank></inputmethod>
+      <inputmethod><inputmethodId>ibus/m17n:or:inscript2</inputmethodId><rank>1000</rank></inputmethod>
     </inputmethods>
     <consolefonts>
       <consolefont><consolefontId>eurlatgr</consolefontId><rank>1000</rank></consolefont>
@@ -34061,7 +34070,7 @@
       <keyboard><keyboardId>in(eng)</keyboardId><rank>1000</rank></keyboard>
     </keyboards>
     <inputmethods>
-      <inputmethod><inputmethodId>ibus/m17n:pa:inscript</inputmethodId><rank>1000</rank></inputmethod>
+      <inputmethod><inputmethodId>ibus/m17n:pa:inscript2-guru</inputmethodId><rank>1000</rank></inputmethod>
     </inputmethods>
     <consolefonts>
       <consolefont><consolefontId>latarcyrheb-sun16</consolefontId><rank>1000</rank></consolefont>
@@ -36789,6 +36798,7 @@
       <keyboard><keyboardId>in(eng)</keyboardId><rank>1000</rank></keyboard>
     </keyboards>
     <inputmethods>
+      <inputmethod><inputmethodId>ibus/m17n:sa:inscript2</inputmethodId><rank>900</rank></inputmethod>
     </inputmethods>
     <consolefonts>
       <consolefont><consolefontId>eurlatgr</consolefontId><rank>1000</rank></consolefont>
@@ -37221,6 +37231,7 @@
       <keyboard><keyboardId>in(eng)</keyboardId><rank>1000</rank></keyboard>
     </keyboards>
     <inputmethods>
+      <inputmethod><inputmethodId>ibus/m17n:sat:inscript2-deva</inputmethodId><rank>900</rank></inputmethod>
     </inputmethods>
     <consolefonts>
       <consolefont><consolefontId>eurlatgr</consolefontId><rank>1000</rank></consolefont>
@@ -37805,7 +37816,7 @@
       <keyboard><keyboardId>in(eng)</keyboardId><rank>1000</rank></keyboard>
     </keyboards>
     <inputmethods>
-      <inputmethod><inputmethodId>ibus/m17n:sd:inscript</inputmethodId><rank>1000</rank></inputmethod>
+      <inputmethod><inputmethodId>ibus/m17n:sd:inscript2-deva</inputmethodId><rank>1000</rank></inputmethod>
     </inputmethods>
     <consolefonts>
       <consolefont><consolefontId>latarcyrheb-sun16</consolefontId><rank>1000</rank></consolefont>
@@ -37841,7 +37852,7 @@
       <keyboard><keyboardId>in(eng)</keyboardId><rank>1000</rank></keyboard>
     </keyboards>
     <inputmethods>
-      <inputmethod><inputmethodId>ibus/m17n:sd:inscript</inputmethodId><rank>0</rank></inputmethod>
+      <inputmethod><inputmethodId>ibus/m17n:sd:inscript2-deva</inputmethodId><rank>0</rank></inputmethod>
     </inputmethods>
     <consolefonts>
       <consolefont><consolefontId>latarcyrheb-sun16</consolefontId><rank>1000</rank></consolefont>
@@ -37876,7 +37887,7 @@
       <keyboard><keyboardId>in(eng)</keyboardId><rank>1000</rank></keyboard>
     </keyboards>
     <inputmethods>
-      <inputmethod><inputmethodId>ibus/m17n:sd:inscript</inputmethodId><rank>1000</rank></inputmethod>
+      <inputmethod><inputmethodId>ibus/m17n:sd:inscript2-deva</inputmethodId><rank>1000</rank></inputmethod>
     </inputmethods>
     <consolefonts>
       <consolefont><consolefontId>latarcyrheb-sun16</consolefontId><rank>1000</rank></consolefont>
@@ -42570,7 +42581,7 @@
       <keyboard><keyboardId>in(eng)</keyboardId><rank>1000</rank></keyboard>
     </keyboards>
     <inputmethods>
-      <inputmethod><inputmethodId>ibus/m17n:ta:tamil99</inputmethodId><rank>1000</rank></inputmethod>
+      <inputmethod><inputmethodId>ibus/m17n:ta:inscript2</inputmethodId><rank>1000</rank></inputmethod>
     </inputmethods>
     <consolefonts>
       <consolefont><consolefontId>eurlatgr</consolefontId><rank>1000</rank></consolefont>
@@ -42796,7 +42807,7 @@
       <keyboard><keyboardId>in(eng)</keyboardId><rank>1000</rank></keyboard>
     </keyboards>
     <inputmethods>
-      <inputmethod><inputmethodId>ibus/m17n:te:inscript</inputmethodId><rank>1000</rank></inputmethod>
+      <inputmethod><inputmethodId>ibus/m17n:te:inscript2</inputmethodId><rank>1000</rank></inputmethod>
     </inputmethods>
     <consolefonts>
       <consolefont><consolefontId>eurlatgr</consolefontId><rank>1000</rank></consolefont>

@@ -476,73 +476,73 @@ def dummy():
         ['ibus/libpinyin']
 
     >>> list_inputmethods(languageId="as", territoryId="IN") # doctest: +NORMALIZE_WHITESPACE
-        ['ibus/m17n:as:phonetic']
+        ['ibus/m17n:as:inscript2']
 
     >>> list_inputmethods(languageId="as", territoryId="BD") # doctest: +NORMALIZE_WHITESPACE
-        ['ibus/m17n:as:phonetic']
+        ['ibus/m17n:as:inscript2']
 
     >>> list_inputmethods(languageId="bn") # doctest: +NORMALIZE_WHITESPACE
-        ['ibus/m17n:bn:inscript']
+        ['ibus/m17n:bn:inscript2']
 
     >>> list_inputmethods(languageId="gu") # doctest: +NORMALIZE_WHITESPACE
-        ['ibus/m17n:gu:inscript']
+        ['ibus/m17n:gu:inscript2']
 
     >>> list_inputmethods(languageId="hi") # doctest: +NORMALIZE_WHITESPACE
-        ['ibus/m17n:hi:inscript']
+        ['ibus/m17n:hi:inscript2']
 
     >>> list_inputmethods(languageId="kn") # doctest: +NORMALIZE_WHITESPACE
-        ['ibus/m17n:kn:kgp']
+        ['ibus/m17n:kn:inscript2']
 
     >>> list_inputmethods(languageId="mai") # doctest: +NORMALIZE_WHITESPACE
-        ['ibus/m17n:mai:inscript']
+        ['ibus/m17n:mai:inscript2']
 
     >>> list_inputmethods(languageId="ml") # doctest: +NORMALIZE_WHITESPACE
-        ['ibus/m17n:ml:inscript']
+        ['ibus/m17n:ml:inscript2']
 
     >>> list_inputmethods(languageId="mr") # doctest: +NORMALIZE_WHITESPACE
-        ['ibus/m17n:mr:inscript']
+        ['ibus/m17n:mr:inscript2']
 
     >>> list_inputmethods(languageId="or") # doctest: +NORMALIZE_WHITESPACE
-        ['ibus/m17n:or:inscript']
+        ['ibus/m17n:or:inscript2']
 
     >>> list_inputmethods(languageId="pa") # doctest: +NORMALIZE_WHITESPACE
-        ['ibus/m17n:pa:inscript']
+        ['ibus/m17n:pa:inscript2-guru']
 
     >>> list_inputmethods(languageId="ta") # doctest: +NORMALIZE_WHITESPACE
-        ['ibus/m17n:ta:tamil99']
+        ['ibus/m17n:ta:inscript2']
 
     >>> list_inputmethods(languageId="te") # doctest: +NORMALIZE_WHITESPACE
-        ['ibus/m17n:te:inscript']
+        ['ibus/m17n:te:inscript2']
 
     >>> list_inputmethods(languageId="ur") # doctest: +NORMALIZE_WHITESPACE
         ['ibus/m17n:ur:phonetic']
 
     >>> list_inputmethods(languageId="sd") # doctest: +NORMALIZE_WHITESPACE
-        ['ibus/m17n:sd:inscript']
+        ['ibus/m17n:sd:inscript2-deva']
 
     >>> list_inputmethods(languageId="sd", scriptId="Deva") # doctest: +NORMALIZE_WHITESPACE
-        ['ibus/m17n:sd:inscript']
+        ['ibus/m17n:sd:inscript2-deva']
 
     >>> list_inputmethods(languageId="sd", scriptId="Arab") # doctest: +NORMALIZE_WHITESPACE
         []
 
     >>> list_inputmethods(languageId="sd", scriptId="Deva", territoryId="IN") # doctest: +NORMALIZE_WHITESPACE
-        ['ibus/m17n:sd:inscript']
+        ['ibus/m17n:sd:inscript2-deva']
 
     >>> list_inputmethods(languageId="sd", scriptId="Arab", territoryId="PK") # doctest: +NORMALIZE_WHITESPACE
         []
 
     >>> list_inputmethods(languageId="sd", scriptId="Deva", territoryId="PK") # doctest: +NORMALIZE_WHITESPACE
-        ['ibus/m17n:sd:inscript']
+        ['ibus/m17n:sd:inscript2-deva']
 
     >>> list_inputmethods(languageId="sd", scriptId="Arab", territoryId="IN") # doctest: +NORMALIZE_WHITESPACE
         []
 
     >>> list_inputmethods(languageId="sd", territoryId="PK") # doctest: +NORMALIZE_WHITESPACE
-        ['ibus/m17n:sd:inscript']
+        ['ibus/m17n:sd:inscript2-deva']
 
     >>> list_inputmethods(languageId="sd", territoryId="IN") # doctest: +NORMALIZE_WHITESPACE
-        ['ibus/m17n:sd:inscript']
+        ['ibus/m17n:sd:inscript2-deva']
 
     >>> list_consolefonts(languageId="de", territoryId="DE") # doctest: +NORMALIZE_WHITESPACE
         ['eurlatgr']

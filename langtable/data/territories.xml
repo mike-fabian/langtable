@@ -23059,20 +23059,28 @@
       <keyboard><keyboardId>in(eng)</keyboardId><rank>950</rank></keyboard>
     </keyboards>
     <inputmethods>
-      <inputmethod><inputmethodId>ibus/m17n:hi:inscript</inputmethodId><rank>400</rank></inputmethod>
-      <inputmethod><inputmethodId>ibus/m17n:bn:inscript</inputmethodId><rank>150</rank></inputmethod>
-      <inputmethod><inputmethodId>ibus/m17n:te:inscript</inputmethodId><rank>140</rank></inputmethod>
-      <inputmethod><inputmethodId>ibus/m17n:mr:inscript</inputmethodId><rank>130</rank></inputmethod>
-      <inputmethod><inputmethodId>ibus/m17n:ta:tamil99</inputmethodId><rank>120</rank></inputmethod>
+      <inputmethod><inputmethodId>ibus/m17n:hi:inscript2</inputmethodId><rank>400</rank></inputmethod>
+      <inputmethod><inputmethodId>ibus/m17n:bn:inscript2</inputmethodId><rank>150</rank></inputmethod>
+      <inputmethod><inputmethodId>ibus/m17n:te:inscript2</inputmethodId><rank>140</rank></inputmethod>
+      <inputmethod><inputmethodId>ibus/m17n:mr:inscript2</inputmethodId><rank>130</rank></inputmethod>
+      <inputmethod><inputmethodId>ibus/m17n:ta:inscript2</inputmethodId><rank>120</rank></inputmethod>
       <inputmethod><inputmethodId>ibus/m17n:ur:phonetic</inputmethodId><rank>110</rank></inputmethod>
-      <inputmethod><inputmethodId>ibus/m17n:gu:inscript</inputmethodId><rank>100</rank></inputmethod>
-      <inputmethod><inputmethodId>ibus/m17n:kn:kgp</inputmethodId><rank>90</rank></inputmethod>
-      <inputmethod><inputmethodId>ibus/m17n:ml:inscript</inputmethodId><rank>85</rank></inputmethod>
-      <inputmethod><inputmethodId>ibus/m17n:or:inscript</inputmethodId><rank>80</rank></inputmethod>
-      <inputmethod><inputmethodId>ibus/m17n:pa:inscript</inputmethodId><rank>75</rank></inputmethod>
-      <inputmethod><inputmethodId>ibus/m17n:as:phonetic</inputmethodId><rank>70</rank></inputmethod>
-      <inputmethod><inputmethodId>ibus/m17n:mai:inscript</inputmethodId><rank>65</rank></inputmethod>
-      <inputmethod><inputmethodId>ibus/m17n:sd:inscript</inputmethodId><rank>40</rank></inputmethod>
+      <inputmethod><inputmethodId>ibus/m17n:gu:inscript2</inputmethodId><rank>100</rank></inputmethod>
+      <inputmethod><inputmethodId>ibus/m17n:kn:inscript2</inputmethodId><rank>90</rank></inputmethod>
+      <inputmethod><inputmethodId>ibus/m17n:ml:inscript2</inputmethodId><rank>85</rank></inputmethod>
+      <inputmethod><inputmethodId>ibus/m17n:or:inscript2</inputmethodId><rank>80</rank></inputmethod>
+      <inputmethod><inputmethodId>ibus/m17n:pa:inscript2-guru</inputmethodId><rank>75</rank></inputmethod>
+      <inputmethod><inputmethodId>ibus/m17n:as:inscript2</inputmethodId><rank>70</rank></inputmethod>
+      <inputmethod><inputmethodId>ibus/m17n:mai:inscript2</inputmethodId><rank>65</rank></inputmethod>
+      <inputmethod><inputmethodId>ibus/m17n:sat:inscript2-deva</inputmethodId><rank>60</rank></inputmethod>
+      <inputmethod><inputmethodId>ibus/m17n:ks:inscript2-deva</inputmethodId><rank>55</rank></inputmethod>
+      <inputmethod><inputmethodId>ibus/m17n:kok:inscript2-deva</inputmethodId><rank>45</rank></inputmethod>
+      <inputmethod><inputmethodId>ibus/m17n:sd:inscript2-deva</inputmethodId><rank>40</rank></inputmethod>
+      <inputmethod><inputmethodId>ibus/m17n:doi:inscript2-deva</inputmethodId><rank>30</rank></inputmethod>
+      <inputmethod><inputmethodId>ibus/m17n:mni:inscript2-beng</inputmethodId><rank>25</rank></inputmethod>
+      <inputmethod><inputmethodId>ibus/m17n:brx:inscript2-deva</inputmethodId><rank>20</rank></inputmethod>
+      <inputmethod><inputmethodId>ibus/m17n:ne:inscript2-deva</inputmethodId><rank>1</rank></inputmethod>
+      <inputmethod><inputmethodId>ibus/m17n:sa:inscript2</inputmethodId><rank>0</rank></inputmethod>
     </inputmethods>
     <consolefonts>
       <consolefont><consolefontId>eurlatgr</consolefontId><rank>1000</rank></consolefont>
@@ -38503,7 +38511,6 @@
       <keyboard><keyboardId>us</keyboardId><rank>1000</rank></keyboard>
     </keyboards>
     <inputmethods>
-      <inputmethod><inputmethodId>ibus/m17n:sd:inscript</inputmethodId><rank>0</rank></inputmethod>
     </inputmethods>
     <consolefonts>
       <consolefont><consolefontId>latarcyrheb-sun16</consolefontId><rank>1000</rank></consolefont>
