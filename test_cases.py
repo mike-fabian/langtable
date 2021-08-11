@@ -1779,9 +1779,9 @@ def dummy():
     >>> print(language_name(languageId="the_NP.utf8")) # doctest: +NORMALIZE_WHITESPACE
     थारु (नेपाल)
     >>> print(language_name(languageId="ti_ER.utf8")) # doctest: +NORMALIZE_WHITESPACE
-    ትግር (ኤርትራ)
+    ትግርኛ (ኤርትራ)
     >>> print(language_name(languageId="ti_ET.utf8")) # doctest: +NORMALIZE_WHITESPACE
-    ትግር (ኢትዮጵያ)
+    ትግርኛ (ኢትዮጵያ)
     >>> print(language_name(languageId="tig_ER.utf8")) # doctest: +NORMALIZE_WHITESPACE
     ትግረ (ኤርትራ)
     >>> print(language_name(languageId="tk_TM.utf8")) # doctest: +NORMALIZE_WHITESPACE
