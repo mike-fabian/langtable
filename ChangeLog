@@ -1,3 +1,11 @@
+2021-08-11  Mike FABIAN  <mfabian@redhat.com>
+
+	* Get translation changes from CLDR
+	* Add more translations from CLDR
+	* Make inscript2 instead of inscript input methods the default
+	(See: https://fedoraproject.org/wiki/Changes/Enhanced_Inscript_as_default_Indic_IM)
+	* Make ibus/m17n:vi:telex the default input method for Vietnames
+
 2020-10-29  Sundeep ANAND <suanand@redhat.com>
 
 	* add list_common_languages derived from gnome-control-center
