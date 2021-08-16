@@ -1389,7 +1389,15 @@ def _territory_name(territoryId = None, languageIdQuery = None, scriptIdQuery = 
             icuLocaleIdQuery = languageIdQuery+'_'+territoryIdQuery
             if icuLocaleIdQuery in _territories_db[territoryId].names:
                 return _territories_db[territoryId].names[icuLocaleIdQuery]
-        if languageIdQuery:
+        fallback_changes_main_script = False
+        if scriptIdQuery:
+            old_main_script = list_scripts(
+                languageId=languageIdQuery+'_'+scriptIdQuery)[:1]
+            new_main_script = list_scripts(
+                languageId=languageIdQuery)[:1]
+            if old_main_script != new_main_script:
+                fallback_changes_main_script = True
+        if languageIdQuery and not fallback_changes_main_script:
             icuLocaleIdQuery = languageIdQuery
             if icuLocaleIdQuery in _territories_db[territoryId].names:
                 return _territories_db[territoryId].names[icuLocaleIdQuery]
@@ -1627,11 +1635,19 @@ def _language_name(languageId = None, scriptId = None, territoryId = None, langu
             icuLocaleIdQuery = languageIdQuery+'_'+scriptIdQuery
             if icuLocaleIdQuery in _languages_db[icuLocaleId].names:
                 return _languages_db[icuLocaleId].names[icuLocaleIdQuery]
-        if  languageIdQuery and  territoryIdQuery:
+        if languageIdQuery and territoryIdQuery:
             icuLocaleIdQuery = languageIdQuery+'_'+territoryIdQuery
             if icuLocaleIdQuery in _languages_db[icuLocaleId].names:
                 return _languages_db[icuLocaleId].names[icuLocaleIdQuery]
-        if languageIdQuery:
+        fallback_changes_main_script = False
+        if scriptIdQuery:
+            old_main_script = list_scripts(
+                languageId=languageIdQuery+'_'+scriptIdQuery)[:1]
+            new_main_script = list_scripts(
+                languageId=languageIdQuery)[:1]
+            if old_main_script != new_main_script:
+                fallback_changes_main_script = True
+        if languageIdQuery and not fallback_changes_main_script:
             icuLocaleIdQuery = languageIdQuery
             if icuLocaleIdQuery in _languages_db[icuLocaleId].names:
                 return _languages_db[icuLocaleId].names[icuLocaleIdQuery]

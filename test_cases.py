@@ -965,6 +965,24 @@ def dummy():
     >>> print(language_name(languageId="de", scriptId="Latn", territoryId="DE")) # doctest: +NORMALIZE_WHITESPACE
         Deutsch (Deutschland)
 
+    # https://github.com/mike-fabian/langtable/issues/13 Translations
+    # for “de” and “DE” translation are not available in “ks_Deva”, it
+    # should not fall back to translations in “ks“ because that would
+    # change the script to Arab. for “sd_Deva”, translations for “de” and
+    # “DE” are available and thus the fallback doesn’t happen.
+    >>> print(language_name(languageId="de", scriptId="Latn", territoryId="DE", languageIdQuery='ks')) # doctest: +NORMALIZE_WHITESPACE
+    جٔرمَن (جرمٔنی)
+    >>> print(language_name(languageId="de", scriptId="Latn", territoryId="DE", languageIdQuery='ks_Arab')) # doctest: +NORMALIZE_WHITESPACE
+    جٔرمَن (جرمٔنی)
+    >>> print(language_name(languageId="de", scriptId="Latn", territoryId="DE", languageIdQuery='ks_Deva')) # doctest: +NORMALIZE_WHITESPACE
+    German (Germany)
+    >>> print(language_name(languageId="de", scriptId="Latn", territoryId="DE", languageIdQuery='sd')) # doctest: +NORMALIZE_WHITESPACE
+    جرمن (جرمني)
+    >>> print(language_name(languageId="de", scriptId="Latn", territoryId="DE", languageIdQuery='sd_Arab')) # doctest: +NORMALIZE_WHITESPACE
+    جرمن (جرمني)
+    >>> print(language_name(languageId="de", scriptId="Latn", territoryId="DE", languageIdQuery='sd_Deva')) # doctest: +NORMALIZE_WHITESPACE
+    जर्मन (जर्मनी)
+
     >>> print(language_name(languageId="pt")) # doctest: +NORMALIZE_WHITESPACE
         Português
 
