@@ -8,7 +8,7 @@ setuptools.setup(
     # within the egg directory easily:
     zip_safe=False,
     name='langtable',
-    version='0.0.55',
+    version='0.0.56',
     packages=setuptools.find_packages(),
     description='guess reasonable defaults for locale, keyboard, territory, ...',
     long_description=codecs.open('README', encoding='UTF-8').read(),

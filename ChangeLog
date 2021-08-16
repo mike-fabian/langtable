@@ -1,3 +1,10 @@
+2021-08-16  Mike FABIAN  <mfabian@redhat.com>
+
+	* Fallback to translations in “xx” from “xx_Zzzz”
+	only if “Zzzz” is the main script of “xx”
+	(Resolves: https://github.com/mike-fabian/langtable/issues/13)
+	* Get translation changes for mt from CLDR
+
 2021-08-11  Mike FABIAN  <mfabian@redhat.com>
 
 	* Get translation changes from CLDR
