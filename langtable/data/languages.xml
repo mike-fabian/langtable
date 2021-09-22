@@ -12138,7 +12138,8 @@
     </territories>
     <keyboards>
       <keyboard><keyboardId>fi</keyboardId><rank>900</rank></keyboard>
-      <keyboard><keyboardId>fi(classic)</keyboardId><rank>100</rank></keyboard>
+      <keyboard><keyboardId>fi(classic)</keyboardId><rank>70</rank></keyboard>
+      <keyboard><keyboardId>fi(nodeadkeys)</keyboardId><rank>30</rank></keyboard>
     </keyboards>
     <inputmethods>
     </inputmethods>
