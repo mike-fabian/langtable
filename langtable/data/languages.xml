@@ -38461,10 +38461,13 @@
       <locale><localeId>se_NO.UTF-8</localeId><rank>1000</rank></locale>
     </locales>
     <territories>
-      <territory><territoryId>NO</territoryId><rank>1000</rank></territory>
+      <territory><territoryId>NO</territoryId><rank>900</rank></territory>
+      <territory><territoryId>SE</territoryId><rank>50</rank></territory>
+      <territory><territoryId>FI</territoryId><rank>50</rank></territory>
     </territories>
     <keyboards>
-      <keyboard><keyboardId>no</keyboardId><rank>1000</rank></keyboard>
+      <keyboard><keyboardId>no</keyboardId><rank>900</rank></keyboard>
+      <keyboard><keyboardId>fi</keyboardId><rank>100</rank></keyboard>
     </keyboards>
     <inputmethods>
     </inputmethods>
@@ -40843,7 +40846,8 @@
     </locales>
     <territories>
       <territory><territoryId>FI</territoryId><rank>900</rank></territory>
-      <territory><territoryId>RU</territoryId><rank>100</rank></territory>
+      <territory><territoryId>RU</territoryId><rank>90</rank></territory>
+      <territory><territoryId>NO</territoryId><rank>10</rank></territory>
     </territories>
     <keyboards>
       <keyboard><keyboardId>fi</keyboardId><rank>1000</rank></keyboard>
