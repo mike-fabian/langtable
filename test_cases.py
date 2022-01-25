@@ -1341,7 +1341,7 @@ def dummy():
     >>> print(language_name(languageId="br_FR.utf8")) # doctest: +NORMALIZE_WHITESPACE
     Brezhoneg (Frañs)
     >>> print(language_name(languageId="brx_IN.utf8")) # doctest: +NORMALIZE_WHITESPACE
-    बड़ो (भारत)
+    बर’ (भारत)
     >>> print(language_name(languageId="bs_BA.utf8")) # doctest: +NORMALIZE_WHITESPACE
     Bosanski (Bosna i Hercegovina)
     >>> print(language_name(languageId="byn_ER.utf8")) # doctest: +NORMALIZE_WHITESPACE
