@@ -1,3 +1,11 @@
+2022-01-25  Mike FABIAN  <mfabian@redhat.com>
+
+	* Get translation changes from CLDR
+	* Add more translations from CLDR
+	* Replace “ibus/cangjie” with “ibus/table:cangjie5”
+	* Updates for Sami languages (from Marko Myllynen)
+	* Updates for Finnish keyboard layouts (from Marko Myllynen)
+
 2021-08-16  Mike FABIAN  <mfabian@redhat.com>
 
 	* Fallback to translations in “xx” from “xx_Zzzz”
