@@ -109,6 +109,8 @@
       <name><languageId>ru</languageId><trName>весь мир</trName></name>
       <name><languageId>sa</languageId><trName>लोक</trName></name>
       <name><languageId>sah</languageId><trName>Аан дойду</trName></name>
+      <name><languageId>sat</languageId><trName>ᱡᱮᱜᱮᱛ</trName></name>
+      <name><languageId>sc</languageId><trName>Mundu</trName></name>
       <name><languageId>sd</languageId><trName>دنيا</trName></name>
       <name><languageId>se</languageId><trName>máilbmi</trName></name>
       <name><languageId>si</languageId><trName>ලෝකය</trName></name>
@@ -263,6 +265,8 @@
       <name><languageId>ru</languageId><trName>Африка</trName></name>
       <name><languageId>sa</languageId><trName>कालद्वीप</trName></name>
       <name><languageId>sah</languageId><trName>Аапырыка</trName></name>
+      <name><languageId>sat</languageId><trName>ᱟᱯᱷᱨᱤᱠᱟ</trName></name>
+      <name><languageId>sc</languageId><trName>Àfrica</trName></name>
       <name><languageId>sd</languageId><trName>آفريڪا</trName></name>
       <name><languageId>se</languageId><trName>Afrihkká</trName></name>
       <name><languageId>si</languageId><trName>අප්‍රිකාව</trName></name>
@@ -415,6 +419,8 @@
       <name><languageId>ro</languageId><trName>Americi</trName></name>
       <name><languageId>ru</languageId><trName>Америка</trName></name>
       <name><languageId>sa</languageId><trName>अमेरिकाखण्ड</trName></name>
+      <name><languageId>sat</languageId><trName>ᱟᱹᱢᱮᱨᱤᱠᱟᱱᱥ</trName></name>
+      <name><languageId>sc</languageId><trName>Amèricas</trName></name>
       <name><languageId>sd</languageId><trName>آمريڪا</trName></name>
       <name><languageId>se</languageId><trName>Amerihkká</trName></name>
       <name><languageId>si</languageId><trName>ඇමරිකාව</trName></name>
@@ -569,6 +575,8 @@
       <name><languageId>ro</languageId><trName>Asia</trName></name>
       <name><languageId>ru</languageId><trName>Азия</trName></name>
       <name><languageId>sa</languageId><trName>जम्बुद्विप</trName></name>
+      <name><languageId>sat</languageId><trName>ᱮᱥᱤᱭᱟ</trName></name>
+      <name><languageId>sc</languageId><trName>Àsia</trName></name>
       <name><languageId>sd</languageId><trName>ايشيا</trName></name>
       <name><languageId>se</languageId><trName>Ásia</trName></name>
       <name><languageId>si</languageId><trName>ආසියාව</trName></name>
@@ -722,6 +730,8 @@
       <name><languageId>ro</languageId><trName>Europa</trName></name>
       <name><languageId>ru</languageId><trName>Европа</trName></name>
       <name><languageId>sa</languageId><trName>यूरोपखण्ड</trName></name>
+      <name><languageId>sat</languageId><trName>ᱭᱩᱨᱚᱯ</trName></name>
+      <name><languageId>sc</languageId><trName>Europa</trName></name>
       <name><languageId>sd</languageId><trName>يورپ</trName></name>
       <name><languageId>se</languageId><trName>Eurohpá</trName></name>
       <name><languageId>si</languageId><trName>යුරෝපය</trName></name>
@@ -868,6 +878,8 @@
       <name><languageId>rm</languageId><trName>America Latina</trName></name>
       <name><languageId>ro</languageId><trName>America Latină</trName></name>
       <name><languageId>ru</languageId><trName>Латинская Америка</trName></name>
+      <name><languageId>sat</languageId><trName>ᱞᱟᱴᱤᱱ ᱟᱢᱮᱨᱤᱠᱟ</trName></name>
+      <name><languageId>sc</languageId><trName>Amèrica latina</trName></name>
       <name><languageId>sd</languageId><trName>لاطيني آمريڪا</trName></name>
       <name><languageId>se</languageId><trName>lulli-Amerihkká</trName></name>
       <name><languageId>si</languageId><trName>ලතින් ඇමෙරිකාව</trName></name>
@@ -1138,7 +1150,9 @@
       <name><languageId>ru</languageId><trName>Андорра</trName></name>
       <name><languageId>rwk</languageId><trName>Andora</trName></name>
       <name><languageId>saq</languageId><trName>Andora</trName></name>
+      <name><languageId>sat</languageId><trName>ᱟᱱᱰᱚᱨᱟ</trName></name>
       <name><languageId>sbp</languageId><trName>Andola</trName></name>
+      <name><languageId>sc</languageId><trName>Andorra</trName></name>
       <name><languageId>sd</languageId><trName>اندورا</trName></name>
       <name><languageId>se</languageId><trName>Andorra</trName></name>
       <name><languageId>seh</languageId><trName>Andorra</trName></name>
@@ -1352,7 +1366,9 @@
       <name><languageId>ru</languageId><trName>ОАЭ</trName></name>
       <name><languageId>rwk</languageId><trName>Falme za Kiarabu</trName></name>
       <name><languageId>saq</languageId><trName>Falme za Kiarabu</trName></name>
+      <name><languageId>sat</languageId><trName>ᱡᱩᱢᱤᱫ ᱟᱨᱟᱹᱵ ᱮᱢᱤᱨᱮᱴᱥ</trName></name>
       <name><languageId>sbp</languageId><trName>Wutwa wa shiyalabu</trName></name>
+      <name><languageId>sc</languageId><trName>Emirados Àrabos Unidos</trName></name>
       <name><languageId>sd</languageId><trName>متحده عرب امارات</trName></name>
       <name><languageId>se</languageId><trName>Ovttastuvvan Arábaemiráhtat</trName></name>
       <name><languageId>seh</languageId><trName>Emirados Árabes Unidos</trName></name>
@@ -1568,7 +1584,9 @@
       <name><languageId>ru</languageId><trName>Афганистан</trName></name>
       <name><languageId>rwk</languageId><trName>Afuganistani</trName></name>
       <name><languageId>saq</languageId><trName>Afuganistani</trName></name>
+      <name><languageId>sat</languageId><trName>ᱟᱯᱷᱜᱟᱱᱤᱥᱛᱟᱱ</trName></name>
       <name><languageId>sbp</languageId><trName>Afuganisitani</trName></name>
+      <name><languageId>sc</languageId><trName>Afghànistan</trName></name>
       <name><languageId>sd</languageId><trName>افغانستان</trName></name>
       <name><languageId>se</languageId><trName>Afghanistan</trName></name>
       <name><languageId>seh</languageId><trName>Afeganistão</trName></name>
@@ -1782,7 +1800,9 @@
       <name><languageId>ru</languageId><trName>Антигуа и Барбуда</trName></name>
       <name><languageId>rwk</languageId><trName>Antigua na Barbuda</trName></name>
       <name><languageId>saq</languageId><trName>Antigua na Barbuda</trName></name>
+      <name><languageId>sat</languageId><trName>ᱟᱱᱴᱤᱜᱩᱣᱟ ᱟᱨ ᱵᱟᱹᱨᱢᱩᱱᱰᱟ</trName></name>
       <name><languageId>sbp</languageId><trName>Anitiguya ni Balubuda</trName></name>
+      <name><languageId>sc</languageId><trName>Antigua e Barbuda</trName></name>
       <name><languageId>sd</languageId><trName>انٽيگا ۽ باربوڊا</trName></name>
       <name><languageId>se</languageId><trName>Antigua ja Barbuda</trName></name>
       <name><languageId>seh</languageId><trName>Antígua e Barbuda</trName></name>
@@ -1995,7 +2015,9 @@
       <name><languageId>ru</languageId><trName>Ангилья</trName></name>
       <name><languageId>rwk</languageId><trName>Anguilla</trName></name>
       <name><languageId>saq</languageId><trName>Anguilla</trName></name>
+      <name><languageId>sat</languageId><trName>ᱟᱹᱱᱜᱩᱭᱞᱟ</trName></name>
       <name><languageId>sbp</languageId><trName>Anguilla</trName></name>
+      <name><languageId>sc</languageId><trName>Anguilla</trName></name>
       <name><languageId>sd</languageId><trName>انگويلا</trName></name>
       <name><languageId>se</languageId><trName>Anguilla</trName></name>
       <name><languageId>seh</languageId><trName>Anguilla</trName></name>
@@ -2208,7 +2230,9 @@
       <name><languageId>ru</languageId><trName>Албания</trName></name>
       <name><languageId>rwk</languageId><trName>Albania</trName></name>
       <name><languageId>saq</languageId><trName>Albania</trName></name>
+      <name><languageId>sat</languageId><trName>ᱟᱞᱵᱟᱱᱤᱭᱟ</trName></name>
       <name><languageId>sbp</languageId><trName>Alubaniya</trName></name>
+      <name><languageId>sc</languageId><trName>Albania</trName></name>
       <name><languageId>sd</languageId><trName>البانيا</trName></name>
       <name><languageId>se</languageId><trName>Albánia</trName></name>
       <name><languageId>seh</languageId><trName>Albânia</trName></name>
@@ -2424,7 +2448,9 @@
       <name><languageId>ru</languageId><trName>Армения</trName></name>
       <name><languageId>rwk</languageId><trName>Armenia</trName></name>
       <name><languageId>saq</languageId><trName>Armenia</trName></name>
+      <name><languageId>sat</languageId><trName>ᱟᱨᱢᱮᱱᱤᱭᱟ</trName></name>
       <name><languageId>sbp</languageId><trName>Alimeniya</trName></name>
+      <name><languageId>sc</languageId><trName>Armènia</trName></name>
       <name><languageId>sd</languageId><trName>ارمینیا</trName></name>
       <name><languageId>se</languageId><trName>Armenia</trName></name>
       <name><languageId>seh</languageId><trName>Armênia</trName></name>
@@ -2761,7 +2787,9 @@
       <name><languageId>ru</languageId><trName>Ангола</trName></name>
       <name><languageId>rwk</languageId><trName>Angola</trName></name>
       <name><languageId>saq</languageId><trName>Angola</trName></name>
+      <name><languageId>sat</languageId><trName>ᱟᱹᱱᱜᱚᱞᱟ</trName></name>
       <name><languageId>sbp</languageId><trName>Angola</trName></name>
+      <name><languageId>sc</languageId><trName>Angola</trName></name>
       <name><languageId>sd</languageId><trName>انگولا</trName></name>
       <name><languageId>se</languageId><trName>Angola</trName></name>
       <name><languageId>seh</languageId><trName>Angola</trName></name>
@@ -2933,6 +2961,8 @@
       <name><languageId>rm</languageId><trName>Antarctica</trName></name>
       <name><languageId>ro</languageId><trName>Antarctica</trName></name>
       <name><languageId>ru</languageId><trName>Антарктида</trName></name>
+      <name><languageId>sat</languageId><trName>ᱟᱱᱴᱟᱨᱠᱴᱤᱠᱟ</trName></name>
+      <name><languageId>sc</languageId><trName>Antàrticu</trName></name>
       <name><languageId>sd</languageId><trName>انٽارڪٽيڪا</trName></name>
       <name><languageId>se</languageId><trName>Antárktis</trName></name>
       <name><languageId>si</languageId><trName>ඇන්ටාක්ටිකාව</trName></name>
@@ -3129,7 +3159,9 @@
       <name><languageId>ru</languageId><trName>Аргентина</trName></name>
       <name><languageId>rwk</languageId><trName>Ajentina</trName></name>
       <name><languageId>saq</languageId><trName>Ajentina</trName></name>
+      <name><languageId>sat</languageId><trName>ᱟᱨᱡᱮᱱᱴᱤᱱᱟ</trName></name>
       <name><languageId>sbp</languageId><trName>Ajentina</trName></name>
+      <name><languageId>sc</languageId><trName>Argentina</trName></name>
       <name><languageId>sd</languageId><trName>ارجنٽينا</trName></name>
       <name><languageId>se</languageId><trName>Argentina</trName></name>
       <name><languageId>seh</languageId><trName>Argentina</trName></name>
@@ -3352,7 +3384,9 @@
       <name><languageId>ru</languageId><trName>Американское Самоа</trName></name>
       <name><languageId>rwk</languageId><trName>Samoa ya Marekani</trName></name>
       <name><languageId>saq</languageId><trName>Samoa ya Marekani</trName></name>
+      <name><languageId>sat</languageId><trName>ᱟᱢᱮᱨᱤᱠᱟᱹᱱ ᱥᱟᱢᱚᱣᱟ</trName></name>
       <name><languageId>sbp</languageId><trName>Samoya ya Malekani</trName></name>
+      <name><languageId>sc</languageId><trName>Samoa americanas</trName></name>
       <name><languageId>sd</languageId><trName>آمريڪي ساموا</trName></name>
       <name><languageId>se</languageId><trName>Amerihká Samoa</trName></name>
       <name><languageId>seh</languageId><trName>Samoa Americana</trName></name>
@@ -3567,7 +3601,9 @@
       <name><languageId>ru</languageId><trName>Австрия</trName></name>
       <name><languageId>rwk</languageId><trName>Austria</trName></name>
       <name><languageId>saq</languageId><trName>Austria</trName></name>
+      <name><languageId>sat</languageId><trName>ᱟᱥᱴᱨᱮᱞᱤᱭᱟ</trName></name>
       <name><languageId>sbp</languageId><trName>Awusitiliya</trName></name>
+      <name><languageId>sc</languageId><trName>Àustria</trName></name>
       <name><languageId>sd</languageId><trName>آسٽريا</trName></name>
       <name><languageId>se</languageId><trName>Nuortariika</trName></name>
       <name><languageId>seh</languageId><trName>Áustria</trName></name>
@@ -3786,7 +3822,9 @@
       <name><languageId>ru</languageId><trName>Австралия</trName></name>
       <name><languageId>rwk</languageId><trName>Australia</trName></name>
       <name><languageId>saq</languageId><trName>Australia</trName></name>
+      <name><languageId>sat</languageId><trName>ᱚᱥᱴᱨᱮᱞᱤᱭᱟ</trName></name>
       <name><languageId>sbp</languageId><trName>Awusitilaliya</trName></name>
+      <name><languageId>sc</languageId><trName>Austràlia</trName></name>
       <name><languageId>sd</languageId><trName>آسٽريليا</trName></name>
       <name><languageId>se</languageId><trName>Austrália</trName></name>
       <name><languageId>seh</languageId><trName>Austrália</trName></name>
@@ -4013,7 +4051,9 @@
       <name><languageId>ru</languageId><trName>Аруба</trName></name>
       <name><languageId>rwk</languageId><trName>Aruba</trName></name>
       <name><languageId>saq</languageId><trName>Aruba</trName></name>
+      <name><languageId>sat</languageId><trName>ᱟᱹᱨᱩᱵᱟ</trName></name>
       <name><languageId>sbp</languageId><trName>Aluba</trName></name>
+      <name><languageId>sc</languageId><trName>Aruba</trName></name>
       <name><languageId>sd</languageId><trName>عروبا</trName></name>
       <name><languageId>se</languageId><trName>Aruba</trName></name>
       <name><languageId>seh</languageId><trName>Aruba</trName></name>
@@ -4187,6 +4227,8 @@
       <name><languageId>rm</languageId><trName>Inslas Aland</trName></name>
       <name><languageId>ro</languageId><trName>Insulele Åland</trName></name>
       <name><languageId>ru</languageId><trName>Аландские о-ва</trName></name>
+      <name><languageId>sat</languageId><trName>ᱮᱞᱮᱸᱰ ᱫᱣᱤᱯᱫᱳᱞ</trName></name>
+      <name><languageId>sc</languageId><trName>Ìsulas Åland</trName></name>
       <name><languageId>sd</languageId><trName>الند ٻيٽ</trName></name>
       <name><languageId>se</languageId><trName>Ålánda</trName></name>
       <name><languageId>si</languageId><trName>ඕලන්ඩ් දූපත්</trName></name>
@@ -4385,7 +4427,9 @@
       <name><languageId>ru</languageId><trName>Азербайджан</trName></name>
       <name><languageId>rwk</languageId><trName>Azabajani</trName></name>
       <name><languageId>saq</languageId><trName>Azabajani</trName></name>
+      <name><languageId>sat</languageId><trName>ᱟᱹᱡᱟᱹᱨᱵᱮᱭᱡᱟᱱ</trName></name>
       <name><languageId>sbp</languageId><trName>Asabajani</trName></name>
+      <name><languageId>sc</languageId><trName>Azerbaigiàn</trName></name>
       <name><languageId>sd</languageId><trName>آذربائيجان</trName></name>
       <name><languageId>se</languageId><trName>Aserbaižan</trName></name>
       <name><languageId>seh</languageId><trName>Azerbaijão</trName></name>
@@ -4604,7 +4648,9 @@
       <name><languageId>ru</languageId><trName>Босния и Герцеговина</trName></name>
       <name><languageId>rwk</languageId><trName>Bosnia na Hezegovina</trName></name>
       <name><languageId>saq</languageId><trName>Bosnia na Hezegovina</trName></name>
+      <name><languageId>sat</languageId><trName>ᱵᱚᱥᱱᱤᱭᱟ ᱟᱨ ᱦᱟᱹᱨᱡᱮᱜᱚᱣᱤᱭᱟ</trName></name>
       <name><languageId>sbp</languageId><trName>Bosiniya ni Hesegovina</trName></name>
+      <name><languageId>sc</languageId><trName>Bòsnia e Erzegòvina</trName></name>
       <name><languageId>sd</languageId><trName>بوسنيا ۽ ھرزيگوينا</trName></name>
       <name><languageId>se</languageId><trName>Bosnia-Hercegovina</trName></name>
       <name><languageId>seh</languageId><trName>Bósnia-Herzegovina</trName></name>
@@ -4824,7 +4870,9 @@
       <name><languageId>ru</languageId><trName>Барбадос</trName></name>
       <name><languageId>rwk</languageId><trName>Babadosi</trName></name>
       <name><languageId>saq</languageId><trName>Babadosi</trName></name>
+      <name><languageId>sat</languageId><trName>ᱵᱟᱨᱵᱟᱰᱚᱥ</trName></name>
       <name><languageId>sbp</languageId><trName>Babadosi</trName></name>
+      <name><languageId>sc</languageId><trName>Barbados</trName></name>
       <name><languageId>sd</languageId><trName>باربڊوس</trName></name>
       <name><languageId>se</languageId><trName>Barbados</trName></name>
       <name><languageId>seh</languageId><trName>Barbados</trName></name>
@@ -5036,7 +5084,9 @@
       <name><languageId>ru</languageId><trName>Бангладеш</trName></name>
       <name><languageId>rwk</languageId><trName>Bangladeshi</trName></name>
       <name><languageId>saq</languageId><trName>Bangladeshi</trName></name>
+      <name><languageId>sat</languageId><trName>ᱵᱟᱝᱞᱟᱫᱮᱥ</trName></name>
       <name><languageId>sbp</languageId><trName>Bangiladeshi</trName></name>
+      <name><languageId>sc</languageId><trName>Bangladèsh</trName></name>
       <name><languageId>sd</languageId><trName>بنگلاديش</trName></name>
       <name><languageId>se</languageId><trName>Bangladesh</trName></name>
       <name><languageId>seh</languageId><trName>Bangladesh</trName></name>
@@ -5252,7 +5302,9 @@
       <name><languageId>ru</languageId><trName>Бельгия</trName></name>
       <name><languageId>rwk</languageId><trName>Ubelgiji</trName></name>
       <name><languageId>saq</languageId><trName>Ubelgiji</trName></name>
+      <name><languageId>sat</languageId><trName>ᱵᱮᱞᱡᱤᱭᱟᱹᱢ</trName></name>
       <name><languageId>sbp</languageId><trName>Ubeligiji</trName></name>
+      <name><languageId>sc</languageId><trName>Bèlgiu</trName></name>
       <name><languageId>sd</languageId><trName>بيلجيم</trName></name>
       <name><languageId>se</languageId><trName>Belgia</trName></name>
       <name><languageId>seh</languageId><trName>Bélgica</trName></name>
@@ -5478,7 +5530,9 @@
       <name><languageId>ru</languageId><trName>Буркина-Фасо</trName></name>
       <name><languageId>rwk</languageId><trName>Bukinafaso</trName></name>
       <name><languageId>saq</languageId><trName>Bukinafaso</trName></name>
+      <name><languageId>sat</languageId><trName>ᱵᱩᱨᱠᱤᱱᱟ ᱯᱷᱟᱥᱚ</trName></name>
       <name><languageId>sbp</languageId><trName>Bukinafaso</trName></name>
+      <name><languageId>sc</languageId><trName>Burkina Faso</trName></name>
       <name><languageId>sd</languageId><trName>برڪينا فاسو</trName></name>
       <name><languageId>se</languageId><trName>Burkina Faso</trName></name>
       <name><languageId>seh</languageId><trName>Burquina Faso</trName></name>
@@ -5694,7 +5748,9 @@
       <name><languageId>ru</languageId><trName>Болгария</trName></name>
       <name><languageId>rwk</languageId><trName>Bulgaria</trName></name>
       <name><languageId>saq</languageId><trName>Bulgaria</trName></name>
+      <name><languageId>sat</languageId><trName>ᱵᱩᱞᱜᱟᱨᱤᱭᱟ</trName></name>
       <name><languageId>sbp</languageId><trName>Buligaliya</trName></name>
+      <name><languageId>sc</languageId><trName>Bulgaria</trName></name>
       <name><languageId>sd</languageId><trName>بلغاريا</trName></name>
       <name><languageId>se</languageId><trName>Bulgária</trName></name>
       <name><languageId>seh</languageId><trName>Bulgária</trName></name>
@@ -5910,7 +5966,9 @@
       <name><languageId>ru</languageId><trName>Бахрейн</trName></name>
       <name><languageId>rwk</languageId><trName>Bahareni</trName></name>
       <name><languageId>saq</languageId><trName>Bahareni</trName></name>
+      <name><languageId>sat</languageId><trName>ᱵᱟᱦᱨᱮᱱ</trName></name>
       <name><languageId>sbp</languageId><trName>Bahaleni</trName></name>
+      <name><languageId>sc</languageId><trName>Bahrein</trName></name>
       <name><languageId>sd</languageId><trName>بحرين</trName></name>
       <name><languageId>se</languageId><trName>Bahrain</trName></name>
       <name><languageId>seh</languageId><trName>Bahrain</trName></name>
@@ -6126,7 +6184,9 @@
       <name><languageId>ru</languageId><trName>Бурунди</trName></name>
       <name><languageId>rwk</languageId><trName>Burundi</trName></name>
       <name><languageId>saq</languageId><trName>Burundi</trName></name>
+      <name><languageId>sat</languageId><trName>ᱵᱩᱨᱩᱱᱰᱤ</trName></name>
       <name><languageId>sbp</languageId><trName>Bulundi</trName></name>
+      <name><languageId>sc</languageId><trName>Burundi</trName></name>
       <name><languageId>sd</languageId><trName>برونڊي</trName></name>
       <name><languageId>se</languageId><trName>Burundi</trName></name>
       <name><languageId>seh</languageId><trName>Burundi</trName></name>
@@ -6342,7 +6402,9 @@
       <name><languageId>ru</languageId><trName>Бенин</trName></name>
       <name><languageId>rwk</languageId><trName>Benini</trName></name>
       <name><languageId>saq</languageId><trName>Benini</trName></name>
+      <name><languageId>sat</languageId><trName>ᱵᱮᱱᱤᱱ</trName></name>
       <name><languageId>sbp</languageId><trName>Benini</trName></name>
+      <name><languageId>sc</languageId><trName>Benin</trName></name>
       <name><languageId>sd</languageId><trName>بينن</trName></name>
       <name><languageId>se</languageId><trName>Benin</trName></name>
       <name><languageId>seh</languageId><trName>Benin</trName></name>
@@ -6513,6 +6575,8 @@
       <name><languageId>rm</languageId><trName>Son Barthélemy</trName></name>
       <name><languageId>ro</languageId><trName>Saint-Barthélemy</trName></name>
       <name><languageId>ru</languageId><trName>Сен-Бартелеми</trName></name>
+      <name><languageId>sat</languageId><trName>ᱮᱥ ᱴᱤ ᱵᱟᱨᱛᱷᱮᱞᱮᱢᱤ</trName></name>
+      <name><languageId>sc</languageId><trName>Santu Bartolomeu</trName></name>
       <name><languageId>sd</languageId><trName>سینٽ برٿلیمی</trName></name>
       <name><languageId>se</languageId><trName>Saint Barthélemy</trName></name>
       <name><languageId>si</languageId><trName>ශාන්ත බර්තලෙමි</trName></name>
@@ -6711,7 +6775,9 @@
       <name><languageId>ru</languageId><trName>Бермудские о-ва</trName></name>
       <name><languageId>rwk</languageId><trName>Bermuda</trName></name>
       <name><languageId>saq</languageId><trName>Bermuda</trName></name>
+      <name><languageId>sat</languageId><trName>ᱵᱟᱹᱨᱢᱩᱱᱰᱟ</trName></name>
       <name><languageId>sbp</languageId><trName>Belimuda</trName></name>
+      <name><languageId>sc</languageId><trName>Bermudas</trName></name>
       <name><languageId>sd</languageId><trName>برمودا</trName></name>
       <name><languageId>se</languageId><trName>Bermuda</trName></name>
       <name><languageId>seh</languageId><trName>Bermudas</trName></name>
@@ -6922,7 +6988,9 @@
       <name><languageId>ru</languageId><trName>Бруней-Даруссалам</trName></name>
       <name><languageId>rwk</languageId><trName>Brunei</trName></name>
       <name><languageId>saq</languageId><trName>Brunei</trName></name>
+      <name><languageId>sat</languageId><trName>ᱵᱽᱨᱩᱱᱮᱭ</trName></name>
       <name><languageId>sbp</languageId><trName>Buluneyi</trName></name>
+      <name><languageId>sc</languageId><trName>Brunei</trName></name>
       <name><languageId>sd</languageId><trName>برونائي</trName></name>
       <name><languageId>se</languageId><trName>Brunei</trName></name>
       <name><languageId>seh</languageId><trName>Brunei</trName></name>
@@ -7136,7 +7204,9 @@
       <name><languageId>ru</languageId><trName>Боливия</trName></name>
       <name><languageId>rwk</languageId><trName>Bolivia</trName></name>
       <name><languageId>saq</languageId><trName>Bolivia</trName></name>
+      <name><languageId>sat</languageId><trName>ᱵᱚᱞᱤᱣᱤᱭᱟ</trName></name>
       <name><languageId>sbp</languageId><trName>Boliviya</trName></name>
+      <name><languageId>sc</languageId><trName>Bolìvia</trName></name>
       <name><languageId>sd</languageId><trName>بوليويا</trName></name>
       <name><languageId>se</languageId><trName>Bolivia</trName></name>
       <name><languageId>seh</languageId><trName>Bolívia</trName></name>
@@ -7301,6 +7371,8 @@
       <name><languageId>rm</languageId><trName>Antillas Ollandaisas</trName></name>
       <name><languageId>ro</languageId><trName>Insulele Caraibe Olandeze</trName></name>
       <name><languageId>ru</languageId><trName>Бонэйр, Синт-Эстатиус и Саба</trName></name>
+      <name><languageId>sat</languageId><trName>ᱠᱟᱹᱨᱮᱱᱤᱭᱟᱹᱱ ᱱᱮᱫᱚᱨᱞᱮᱸᱰ</trName></name>
+      <name><languageId>sc</languageId><trName>Caràibes olandesas</trName></name>
       <name><languageId>sd</languageId><trName>ڪيريبين نيدرلينڊ</trName></name>
       <name><languageId>se</languageId><trName>Vuolleeatnamat Karibe</trName></name>
       <name><languageId>si</languageId><trName>කැරිබියානු නෙදර්ලන්තය</trName></name>
@@ -7512,6 +7584,7 @@
       <name><languageId>saq</languageId><trName>Brazili</trName></name>
       <name><languageId>sat</languageId><trName>ᱵᱨᱟᱡᱤᱞ</trName></name>
       <name><languageId>sbp</languageId><trName>Bulasili</trName></name>
+      <name><languageId>sc</languageId><trName>Brasile</trName></name>
       <name><languageId>sd</languageId><trName>برازيل</trName></name>
       <name><languageId>sd_Deva</languageId><trName>ब्राज़ील</trName></name>
       <name><languageId>se</languageId><trName>Brasil</trName></name>
@@ -7745,7 +7818,9 @@
       <name><languageId>ru</languageId><trName>Багамы</trName></name>
       <name><languageId>rwk</languageId><trName>Bahama</trName></name>
       <name><languageId>saq</languageId><trName>Bahama</trName></name>
+      <name><languageId>sat</languageId><trName>ᱵᱟᱦᱟᱢᱟᱥ</trName></name>
       <name><languageId>sbp</languageId><trName>Bahama</trName></name>
+      <name><languageId>sc</languageId><trName>Bahamas</trName></name>
       <name><languageId>sd</languageId><trName>باهاماس</trName></name>
       <name><languageId>se</languageId><trName>Bahamas</trName></name>
       <name><languageId>seh</languageId><trName>Bahamas</trName></name>
@@ -7957,7 +8032,9 @@
       <name><languageId>ru</languageId><trName>Бутан</trName></name>
       <name><languageId>rwk</languageId><trName>Butani</trName></name>
       <name><languageId>saq</languageId><trName>Butani</trName></name>
+      <name><languageId>sat</languageId><trName>ᱵᱷᱩᱴᱟᱱ</trName></name>
       <name><languageId>sbp</languageId><trName>Butani</trName></name>
+      <name><languageId>sc</languageId><trName>Bhutàn</trName></name>
       <name><languageId>sd</languageId><trName>ڀوٽان</trName></name>
       <name><languageId>se</languageId><trName>Bhutan</trName></name>
       <name><languageId>seh</languageId><trName>Butão</trName></name>
@@ -8173,7 +8250,9 @@
       <name><languageId>ru</languageId><trName>Ботсвана</trName></name>
       <name><languageId>rwk</languageId><trName>Botswana</trName></name>
       <name><languageId>saq</languageId><trName>Botswana</trName></name>
+      <name><languageId>sat</languageId><trName>ᱵᱚᱴᱥᱣᱟᱱᱟ</trName></name>
       <name><languageId>sbp</languageId><trName>Botiswana</trName></name>
+      <name><languageId>sc</languageId><trName>Botswana</trName></name>
       <name><languageId>sd</languageId><trName>بوٽسوانا</trName></name>
       <name><languageId>se</languageId><trName>Botswana</trName></name>
       <name><languageId>seh</languageId><trName>Botsuana</trName></name>
@@ -8395,7 +8474,9 @@
       <name><languageId>ru</languageId><trName>Беларусь</trName></name>
       <name><languageId>rwk</languageId><trName>Belarusi</trName></name>
       <name><languageId>saq</languageId><trName>Belarusi</trName></name>
+      <name><languageId>sat</languageId><trName>ᱵᱮᱞᱟᱨᱩᱥ</trName></name>
       <name><languageId>sbp</languageId><trName>Belalusi</trName></name>
+      <name><languageId>sc</languageId><trName>Bielorùssia</trName></name>
       <name><languageId>sd</languageId><trName>بیلارس</trName></name>
       <name><languageId>se</languageId><trName>Vilges-Ruošša</trName></name>
       <name><languageId>seh</languageId><trName>Belarus</trName></name>
@@ -8615,7 +8696,9 @@
       <name><languageId>ru</languageId><trName>Белиз</trName></name>
       <name><languageId>rwk</languageId><trName>Belize</trName></name>
       <name><languageId>saq</languageId><trName>Belize</trName></name>
+      <name><languageId>sat</languageId><trName>ᱵᱮᱞᱤᱡᱽ</trName></name>
       <name><languageId>sbp</languageId><trName>Belise</trName></name>
+      <name><languageId>sc</languageId><trName>Belize</trName></name>
       <name><languageId>sd</languageId><trName>بيليز</trName></name>
       <name><languageId>se</languageId><trName>Belize</trName></name>
       <name><languageId>seh</languageId><trName>Belize</trName></name>
@@ -8836,7 +8919,9 @@
       <name><languageId>rwk</languageId><trName>Kanada</trName></name>
       <name><languageId>sah</languageId><trName>Канаада</trName></name>
       <name><languageId>saq</languageId><trName>Kanada</trName></name>
+      <name><languageId>sat</languageId><trName>ᱠᱟᱱᱟᱰᱟ</trName></name>
       <name><languageId>sbp</languageId><trName>Kanada</trName></name>
+      <name><languageId>sc</languageId><trName>Cànada</trName></name>
       <name><languageId>sd</languageId><trName>ڪينيڊا</trName></name>
       <name><languageId>se</languageId><trName>Kanáda</trName></name>
       <name><languageId>seh</languageId><trName>Canadá</trName></name>
@@ -9042,6 +9127,8 @@
       <name><languageId>rm</languageId><trName>Inslas Cocos</trName></name>
       <name><languageId>ro</languageId><trName>Insulele Cocos (Keeling)</trName></name>
       <name><languageId>ru</languageId><trName>Кокосовые о-ва</trName></name>
+      <name><languageId>sat</languageId><trName>ᱠᱚᱠᱚᱥ (ᱠᱤᱞᱤᱝ) ᱟᱭᱞᱮᱸᱰ</trName></name>
+      <name><languageId>sc</languageId><trName>Ìsulas Cocos (Keeling)</trName></name>
       <name><languageId>sd</languageId><trName>ڪوڪوس ٻيٽ</trName></name>
       <name><languageId>se</languageId><trName>Cocos-sullot</trName></name>
       <name><languageId>si</languageId><trName>කොකෝස් දූපත්</trName></name>
@@ -9240,7 +9327,9 @@
       <name><languageId>ru</languageId><trName>Конго - Киншаса</trName></name>
       <name><languageId>rwk</languageId><trName>Jamhuri ya Kidemokrasia ya Kongo</trName></name>
       <name><languageId>saq</languageId><trName>Jamhuri ya Kidemokrasia ya Kongo</trName></name>
+      <name><languageId>sat</languageId><trName>ᱠᱚᱝᱜᱚ ᱼ ᱠᱤᱱᱥᱟᱥᱟ</trName></name>
       <name><languageId>sbp</languageId><trName>Jamuhuli ya Kidemokilasiya ya Kongo</trName></name>
+      <name><languageId>sc</languageId><trName>Congo - Kinshasa</trName></name>
       <name><languageId>sd</languageId><trName>ڪانگو -ڪنشاسا</trName></name>
       <name><languageId>se</languageId><trName>Kongo-Kinshasa</trName></name>
       <name><languageId>seh</languageId><trName>Congo-Kinshasa</trName></name>
@@ -9455,7 +9544,9 @@
       <name><languageId>ru</languageId><trName>Центрально-Африканская Республика</trName></name>
       <name><languageId>rwk</languageId><trName>Jamhuri ya Afrika ya Kati</trName></name>
       <name><languageId>saq</languageId><trName>Jamhuri ya Afrika ya Kati</trName></name>
+      <name><languageId>sat</languageId><trName>ᱛᱟᱞᱟ ᱟᱯᱷᱨᱤᱠᱟ ᱟᱹᱯᱱᱟᱹᱛ</trName></name>
       <name><languageId>sbp</languageId><trName>Jamuhuli ya Afilika ya Pakhati</trName></name>
+      <name><languageId>sc</languageId><trName>Repùblica Tzentrafricana</trName></name>
       <name><languageId>sd</languageId><trName>وچ آفريقي جمهوريه</trName></name>
       <name><languageId>se</languageId><trName>Gaska-Afrihká dásseváldi</trName></name>
       <name><languageId>seh</languageId><trName>República Centro-Africana</trName></name>
@@ -9669,7 +9760,9 @@
       <name><languageId>ru</languageId><trName>Конго - Браззавиль</trName></name>
       <name><languageId>rwk</languageId><trName>Kongo</trName></name>
       <name><languageId>saq</languageId><trName>Kongo</trName></name>
+      <name><languageId>sat</languageId><trName>ᱠᱚᱝᱜᱚ ᱼ ᱵᱽᱨᱟᱡᱟᱣᱤᱞ</trName></name>
       <name><languageId>sbp</languageId><trName>Kongo</trName></name>
+      <name><languageId>sc</languageId><trName>Congo - Bratzaville</trName></name>
       <name><languageId>sd</languageId><trName>ڪانگو - برازاویل</trName></name>
       <name><languageId>se</languageId><trName>Kongo-Brazzaville</trName></name>
       <name><languageId>seh</languageId><trName>Congo</trName></name>
@@ -9884,7 +9977,9 @@
       <name><languageId>ru</languageId><trName>Швейцария</trName></name>
       <name><languageId>rwk</languageId><trName>Uswisi</trName></name>
       <name><languageId>saq</languageId><trName>Uswisi</trName></name>
+      <name><languageId>sat</languageId><trName>ᱥᱮᱤᱡᱟᱹᱨᱞᱮᱸᱰ</trName></name>
       <name><languageId>sbp</languageId><trName>Uswisi</trName></name>
+      <name><languageId>sc</languageId><trName>Isvìtzera</trName></name>
       <name><languageId>sd</languageId><trName>سوئزرلينڊ</trName></name>
       <name><languageId>se</languageId><trName>Šveica</trName></name>
       <name><languageId>seh</languageId><trName>Suíça</trName></name>
@@ -10109,7 +10204,9 @@
       <name><languageId>ru</languageId><trName>Кот-д’Ивуар</trName></name>
       <name><languageId>rwk</languageId><trName>Kodivaa</trName></name>
       <name><languageId>saq</languageId><trName>Kodivaa</trName></name>
+      <name><languageId>sat</languageId><trName>ᱠᱚᱛᱮ ᱫᱤᱣᱚᱭᱮᱨ</trName></name>
       <name><languageId>sbp</languageId><trName>Kodivaya</trName></name>
+      <name><languageId>sc</languageId><trName>Costa de Avòriu</trName></name>
       <name><languageId>sd</languageId><trName>ڪوٽ ڊي وار</trName></name>
       <name><languageId>se</languageId><trName>Elfenbenariddu</trName></name>
       <name><languageId>seh</languageId><trName>Costa do Marfim</trName></name>
@@ -10320,7 +10417,9 @@
       <name><languageId>ru</languageId><trName>Острова Кука</trName></name>
       <name><languageId>rwk</languageId><trName>Visiwa vya Cook</trName></name>
       <name><languageId>saq</languageId><trName>Visiwa vya Cook</trName></name>
+      <name><languageId>sat</languageId><trName>ᱠᱩᱠ ᱟᱭᱞᱮᱸᱰ</trName></name>
       <name><languageId>sbp</languageId><trName>Figunguli fya Kooki</trName></name>
+      <name><languageId>sc</languageId><trName>Ìsulas Cook</trName></name>
       <name><languageId>sd</languageId><trName>ڪوڪ ٻيٽ</trName></name>
       <name><languageId>se</languageId><trName>Cook-sullot</trName></name>
       <name><languageId>seh</languageId><trName>Ilhas Cook</trName></name>
@@ -10537,7 +10636,9 @@
       <name><languageId>rwk</languageId><trName>Chile</trName></name>
       <name><languageId>sah</languageId><trName>Чиили</trName></name>
       <name><languageId>saq</languageId><trName>Chile</trName></name>
+      <name><languageId>sat</languageId><trName>ᱪᱟᱭᱤᱞ</trName></name>
       <name><languageId>sbp</languageId><trName>Shile</trName></name>
+      <name><languageId>sc</languageId><trName>Tzile</trName></name>
       <name><languageId>sd</languageId><trName>چلي</trName></name>
       <name><languageId>se</languageId><trName>Čiile</trName></name>
       <name><languageId>seh</languageId><trName>Chile</trName></name>
@@ -10758,7 +10859,9 @@
       <name><languageId>ru</languageId><trName>Камерун</trName></name>
       <name><languageId>rwk</languageId><trName>Kameruni</trName></name>
       <name><languageId>saq</languageId><trName>Kameruni</trName></name>
+      <name><languageId>sat</languageId><trName>ᱠᱟᱢᱮᱨᱩᱱ</trName></name>
       <name><languageId>sbp</languageId><trName>Kameruni</trName></name>
+      <name><languageId>sc</languageId><trName>Camerùn</trName></name>
       <name><languageId>sd</languageId><trName>ڪيمرون</trName></name>
       <name><languageId>se</languageId><trName>Kamerun</trName></name>
       <name><languageId>seh</languageId><trName>República dos Camarões</trName></name>
@@ -10991,6 +11094,7 @@
       <name><languageId>saq</languageId><trName>China</trName></name>
       <name><languageId>sat</languageId><trName>ᱪᱤᱱ</trName></name>
       <name><languageId>sbp</languageId><trName>Shina</trName></name>
+      <name><languageId>sc</languageId><trName>Tzina</trName></name>
       <name><languageId>sd</languageId><trName>چين</trName></name>
       <name><languageId>sd_Deva</languageId><trName>चीन</trName></name>
       <name><languageId>se</languageId><trName>Kiinná</trName></name>
@@ -11218,7 +11322,9 @@
       <name><languageId>ru</languageId><trName>Колумбия</trName></name>
       <name><languageId>rwk</languageId><trName>Kolombia</trName></name>
       <name><languageId>saq</languageId><trName>Kolombia</trName></name>
+      <name><languageId>sat</languageId><trName>ᱠᱚᱞᱚᱢᱵᱤᱭᱟ</trName></name>
       <name><languageId>sbp</languageId><trName>Kolombiya</trName></name>
+      <name><languageId>sc</languageId><trName>Colòmbia</trName></name>
       <name><languageId>sd</languageId><trName>ڪولمبيا</trName></name>
       <name><languageId>se</languageId><trName>Kolombia</trName></name>
       <name><languageId>seh</languageId><trName>Colômbia</trName></name>
@@ -11434,7 +11540,9 @@
       <name><languageId>ru</languageId><trName>Коста-Рика</trName></name>
       <name><languageId>rwk</languageId><trName>Kostarika</trName></name>
       <name><languageId>saq</languageId><trName>Kostarika</trName></name>
+      <name><languageId>sat</languageId><trName>ᱠᱚᱥᱴᱟ ᱨᱤᱠᱟ</trName></name>
       <name><languageId>sbp</languageId><trName>Kositalika</trName></name>
+      <name><languageId>sc</languageId><trName>Costa Rica</trName></name>
       <name><languageId>sd</languageId><trName>ڪوسٽا ريڪا</trName></name>
       <name><languageId>se</languageId><trName>Costa Rica</trName></name>
       <name><languageId>seh</languageId><trName>Costa Rica</trName></name>
@@ -11651,7 +11759,9 @@
       <name><languageId>rwk</languageId><trName>Kuba</trName></name>
       <name><languageId>sah</languageId><trName>Кууба</trName></name>
       <name><languageId>saq</languageId><trName>Kuba</trName></name>
+      <name><languageId>sat</languageId><trName>ᱠᱭᱩᱵᱟ</trName></name>
       <name><languageId>sbp</languageId><trName>Kuba</trName></name>
+      <name><languageId>sc</languageId><trName>Cuba</trName></name>
       <name><languageId>sd</languageId><trName>ڪيوبا</trName></name>
       <name><languageId>se</languageId><trName>Kuba</trName></name>
       <name><languageId>seh</languageId><trName>Cuba</trName></name>
@@ -11863,7 +11973,9 @@
       <name><languageId>ru</languageId><trName>Кабо-Верде</trName></name>
       <name><languageId>rwk</languageId><trName>Kepuvede</trName></name>
       <name><languageId>saq</languageId><trName>Kepuvede</trName></name>
+      <name><languageId>sat</languageId><trName>ᱠᱮᱯ ᱣᱟᱹᱨᱰᱮ</trName></name>
       <name><languageId>sbp</languageId><trName>Kepuvede</trName></name>
+      <name><languageId>sc</languageId><trName>Cabu birde</trName></name>
       <name><languageId>sd</languageId><trName>ڪيپ وردي</trName></name>
       <name><languageId>se</languageId><trName>Kap Verde</trName></name>
       <name><languageId>seh</languageId><trName>Cabo Verde</trName></name>
@@ -12027,6 +12139,8 @@
       <name><languageId>rm</languageId><trName>Curaçao</trName></name>
       <name><languageId>ro</languageId><trName>Curaçao</trName></name>
       <name><languageId>ru</languageId><trName>Кюрасао</trName></name>
+      <name><languageId>sat</languageId><trName>ᱠᱩᱨᱟᱠᱟᱣ</trName></name>
+      <name><languageId>sc</languageId><trName>Curaçao</trName></name>
       <name><languageId>sd</languageId><trName>ڪيوراسائو</trName></name>
       <name><languageId>se</languageId><trName>Curaçao</trName></name>
       <name><languageId>si</languageId><trName>කුරකාවෝ</trName></name>
@@ -12185,6 +12299,8 @@
       <name><languageId>rm</languageId><trName>Insla da Nadal</trName></name>
       <name><languageId>ro</languageId><trName>Insula Christmas</trName></name>
       <name><languageId>ru</languageId><trName>о-в Рождества</trName></name>
+      <name><languageId>sat</languageId><trName>ᱠᱨᱤᱥᱢᱟᱹᱥ ᱟᱭᱞᱮᱸᱰ</trName></name>
+      <name><languageId>sc</languageId><trName>Ìsula de sa Natividade</trName></name>
       <name><languageId>sd</languageId><trName>ڪرسمس ٻيٽ</trName></name>
       <name><languageId>se</languageId><trName>Juovllat-sullot</trName></name>
       <name><languageId>si</languageId><trName>ක්‍රිස්මස් දූපත</trName></name>
@@ -12383,7 +12499,9 @@
       <name><languageId>ru</languageId><trName>Кипр</trName></name>
       <name><languageId>rwk</languageId><trName>Kuprosi</trName></name>
       <name><languageId>saq</languageId><trName>Kuprosi</trName></name>
+      <name><languageId>sat</languageId><trName>ᱥᱟᱭᱯᱨᱟᱹᱥ</trName></name>
       <name><languageId>sbp</languageId><trName>Kupilosi</trName></name>
+      <name><languageId>sc</languageId><trName>Tzipru</trName></name>
       <name><languageId>sd</languageId><trName>سائپرس</trName></name>
       <name><languageId>se</languageId><trName>Kypros</trName></name>
       <name><languageId>seh</languageId><trName>Chipre</trName></name>
@@ -12601,7 +12719,9 @@
       <name><languageId>ru</languageId><trName>Чехия</trName></name>
       <name><languageId>rwk</languageId><trName>Jamhuri ya Cheki</trName></name>
       <name><languageId>saq</languageId><trName>Jamhuri ya Cheki</trName></name>
+      <name><languageId>sat</languageId><trName>ᱪᱮᱠᱤᱭᱟ</trName></name>
       <name><languageId>sbp</languageId><trName>Jamuhuli ya Sheki</trName></name>
+      <name><languageId>sc</languageId><trName>Tzèchia</trName></name>
       <name><languageId>sd</languageId><trName>چيڪيا</trName></name>
       <name><languageId>se</languageId><trName>Čeahkka</trName></name>
       <name><languageId>seh</languageId><trName>República Tcheca</trName></name>
@@ -12833,6 +12953,7 @@
       <name><languageId>saq</languageId><trName>Ujerumani</trName></name>
       <name><languageId>sat</languageId><trName>ᱡᱟᱨᱢᱟᱱᱤ</trName></name>
       <name><languageId>sbp</languageId><trName>Wujelumani</trName></name>
+      <name><languageId>sc</languageId><trName>Germània</trName></name>
       <name><languageId>sd</languageId><trName>جرمني</trName></name>
       <name><languageId>sd_Deva</languageId><trName>जर्मनी</trName></name>
       <name><languageId>se</languageId><trName>Duiska</trName></name>
@@ -13010,6 +13131,8 @@
       <name><languageId>rm</languageId><trName>Diego Garcia</trName></name>
       <name><languageId>ro</languageId><trName>Diego Garcia</trName></name>
       <name><languageId>ru</languageId><trName>Диего-Гарсия</trName></name>
+      <name><languageId>sat</languageId><trName>ᱰᱤᱭᱮᱜᱚ ᱜᱟᱨᱥᱤᱭᱟ</trName></name>
+      <name><languageId>sc</languageId><trName>Diego Garcia</trName></name>
       <name><languageId>sd</languageId><trName>ڊئيگو گارسيا</trName></name>
       <name><languageId>se</languageId><trName>Diego Garcia</trName></name>
       <name><languageId>si</languageId><trName>දියාගෝ ගාර්සියා</trName></name>
@@ -13206,7 +13329,9 @@
       <name><languageId>ru</languageId><trName>Джибути</trName></name>
       <name><languageId>rwk</languageId><trName>Jibuti</trName></name>
       <name><languageId>saq</languageId><trName>Jibuti</trName></name>
+      <name><languageId>sat</languageId><trName>ᱡᱤᱵᱩᱛᱤ</trName></name>
       <name><languageId>sbp</languageId><trName>Jibuti</trName></name>
+      <name><languageId>sc</languageId><trName>Gibuti</trName></name>
       <name><languageId>sd</languageId><trName>ڊجبيوتي</trName></name>
       <name><languageId>se</languageId><trName>Djibouti</trName></name>
       <name><languageId>seh</languageId><trName>Djibuti</trName></name>
@@ -13432,7 +13557,9 @@
       <name><languageId>ru</languageId><trName>Дания</trName></name>
       <name><languageId>rwk</languageId><trName>Denmaki</trName></name>
       <name><languageId>saq</languageId><trName>Denmaki</trName></name>
+      <name><languageId>sat</languageId><trName>ᱰᱮᱱᱢᱟᱨᱠ</trName></name>
       <name><languageId>sbp</languageId><trName>Denimaki</trName></name>
+      <name><languageId>sc</languageId><trName>Danimarca</trName></name>
       <name><languageId>sd</languageId><trName>ڊينمارڪ</trName></name>
       <name><languageId>se</languageId><trName>Dánmárku</trName></name>
       <name><languageId>seh</languageId><trName>Dinamarca</trName></name>
@@ -13649,7 +13776,9 @@
       <name><languageId>ru</languageId><trName>Доминика</trName></name>
       <name><languageId>rwk</languageId><trName>Dominika</trName></name>
       <name><languageId>saq</languageId><trName>Dominika</trName></name>
+      <name><languageId>sat</languageId><trName>ᱰᱚᱢᱤᱱᱤᱠᱟ</trName></name>
       <name><languageId>sbp</languageId><trName>Dominika</trName></name>
+      <name><languageId>sc</languageId><trName>Dominica</trName></name>
       <name><languageId>sd</languageId><trName>ڊومينيڪا</trName></name>
       <name><languageId>se</languageId><trName>Dominica</trName></name>
       <name><languageId>seh</languageId><trName>Dominica</trName></name>
@@ -13860,7 +13989,9 @@
       <name><languageId>ru</languageId><trName>Доминиканская Республика</trName></name>
       <name><languageId>rwk</languageId><trName>Jamhuri ya Dominika</trName></name>
       <name><languageId>saq</languageId><trName>Jamhuri ya Dominika</trName></name>
+      <name><languageId>sat</languageId><trName>ᱰᱚᱢᱤᱱᱤᱠᱟᱱ ᱨᱤᱯᱚᱵᱞᱤᱠ</trName></name>
       <name><languageId>sbp</languageId><trName>Jamuhuli ya Dominika</trName></name>
+      <name><languageId>sc</languageId><trName>Repùblica Dominicana</trName></name>
       <name><languageId>sd</languageId><trName>ڊومينيڪن جمهوريه</trName></name>
       <name><languageId>se</languageId><trName>Dominikána dásseváldi</trName></name>
       <name><languageId>seh</languageId><trName>República Dominicana</trName></name>
@@ -14080,7 +14211,9 @@
       <name><languageId>ru</languageId><trName>Алжир</trName></name>
       <name><languageId>rwk</languageId><trName>Aljeria</trName></name>
       <name><languageId>saq</languageId><trName>Aljeria</trName></name>
+      <name><languageId>sat</languageId><trName>ᱟᱞᱡᱮᱨᱤᱭᱟ</trName></name>
       <name><languageId>sbp</languageId><trName>Alijeliya</trName></name>
+      <name><languageId>sc</languageId><trName>Algeria</trName></name>
       <name><languageId>sd</languageId><trName>الجيريا</trName></name>
       <name><languageId>se</languageId><trName>Algeria</trName></name>
       <name><languageId>seh</languageId><trName>Argélia</trName></name>
@@ -14250,6 +14383,8 @@
       <name><languageId>rm</languageId><trName>Ceuta e Melilla</trName></name>
       <name><languageId>ro</languageId><trName>Ceuta și Melilla</trName></name>
       <name><languageId>ru</languageId><trName>Сеута и Мелилья</trName></name>
+      <name><languageId>sat</languageId><trName>ᱥᱮᱣᱴᱟ ᱟᱨ ᱢᱮᱞᱤᱞᱟ</trName></name>
+      <name><languageId>sc</languageId><trName>Ceuta e Melilla</trName></name>
       <name><languageId>sd</languageId><trName>سیوٽا ۽ میلیلا</trName></name>
       <name><languageId>se</languageId><trName>Ceuta ja Melilla</trName></name>
       <name><languageId>si</languageId><trName>සෙයුටා සහ මෙලිල්ලා</trName></name>
@@ -14446,7 +14581,9 @@
       <name><languageId>ru</languageId><trName>Эквадор</trName></name>
       <name><languageId>rwk</languageId><trName>Ekwado</trName></name>
       <name><languageId>saq</languageId><trName>Ekwado</trName></name>
+      <name><languageId>sat</languageId><trName>ᱤᱠᱣᱟᱰᱚᱨ</trName></name>
       <name><languageId>sbp</languageId><trName>Ekwado</trName></name>
+      <name><languageId>sc</languageId><trName>Ècuador</trName></name>
       <name><languageId>sd</languageId><trName>ايڪواڊور</trName></name>
       <name><languageId>se</languageId><trName>Ecuador</trName></name>
       <name><languageId>seh</languageId><trName>Equador</trName></name>
@@ -14665,7 +14802,9 @@
       <name><languageId>rwk</languageId><trName>Estonia</trName></name>
       <name><languageId>sah</languageId><trName>Эстония</trName></name>
       <name><languageId>saq</languageId><trName>Estonia</trName></name>
+      <name><languageId>sat</languageId><trName>ᱮᱥᱴᱚᱱᱤᱭᱟ</trName></name>
       <name><languageId>sbp</languageId><trName>Esitoniya</trName></name>
+      <name><languageId>sc</languageId><trName>Estònia</trName></name>
       <name><languageId>sd</languageId><trName>ايسٽونيا</trName></name>
       <name><languageId>se</languageId><trName>Estlánda</trName></name>
       <name><languageId>seh</languageId><trName>Estônia</trName></name>
@@ -14882,7 +15021,9 @@
       <name><languageId>ru</languageId><trName>Египет</trName></name>
       <name><languageId>rwk</languageId><trName>Misri</trName></name>
       <name><languageId>saq</languageId><trName>Misri</trName></name>
+      <name><languageId>sat</languageId><trName>ᱤᱡᱤᱯᱴ</trName></name>
       <name><languageId>sbp</languageId><trName>Misili</trName></name>
+      <name><languageId>sc</languageId><trName>Egitu</trName></name>
       <name><languageId>sd</languageId><trName>مصر</trName></name>
       <name><languageId>se</languageId><trName>Egypta</trName></name>
       <name><languageId>seh</languageId><trName>Egito</trName></name>
@@ -15055,6 +15196,8 @@
       <name><languageId>rm</languageId><trName>Sahara Occidentala</trName></name>
       <name><languageId>ro</languageId><trName>Sahara Occidentală</trName></name>
       <name><languageId>ru</languageId><trName>Западная Сахара</trName></name>
+      <name><languageId>sat</languageId><trName>ᱯᱟᱪᱮ ᱥᱟᱦᱟᱨᱟ</trName></name>
+      <name><languageId>sc</languageId><trName>Sahara otzidentale</trName></name>
       <name><languageId>sd</languageId><trName>اولهه صحارا</trName></name>
       <name><languageId>se</languageId><trName>Oarje-Sahára</trName></name>
       <name><languageId>si</languageId><trName>බටහිර සහරාව</trName></name>
@@ -15252,7 +15395,9 @@
       <name><languageId>ru</languageId><trName>Эритрея</trName></name>
       <name><languageId>rwk</languageId><trName>Eritrea</trName></name>
       <name><languageId>saq</languageId><trName>Eritrea</trName></name>
+      <name><languageId>sat</languageId><trName>ᱤᱨᱤᱴᱨᱤᱭᱟ</trName></name>
       <name><languageId>sbp</languageId><trName>Elitileya</trName></name>
+      <name><languageId>sc</languageId><trName>Eritrea</trName></name>
       <name><languageId>sd</languageId><trName>ايريٽيريا</trName></name>
       <name><languageId>se</languageId><trName>Eritrea</trName></name>
       <name><languageId>seh</languageId><trName>Eritréia</trName></name>
@@ -15486,7 +15631,9 @@
       <name><languageId>ru</languageId><trName>Испания</trName></name>
       <name><languageId>rwk</languageId><trName>Hispania</trName></name>
       <name><languageId>saq</languageId><trName>Hispania</trName></name>
+      <name><languageId>sat</languageId><trName>ᱥᱯᱮᱱ</trName></name>
       <name><languageId>sbp</languageId><trName>Hisipaniya</trName></name>
+      <name><languageId>sc</languageId><trName>Ispagna</trName></name>
       <name><languageId>sd</languageId><trName>اسپين</trName></name>
       <name><languageId>se</languageId><trName>Spánia</trName></name>
       <name><languageId>seh</languageId><trName>Espanha</trName></name>
@@ -15718,7 +15865,9 @@
       <name><languageId>ru</languageId><trName>Эфиопия</trName></name>
       <name><languageId>rwk</languageId><trName>Uhabeshi</trName></name>
       <name><languageId>saq</languageId><trName>Uhabeshi</trName></name>
+      <name><languageId>sat</languageId><trName>ᱤᱛᱷᱤᱭᱚᱯᱤᱭᱟ</trName></name>
       <name><languageId>sbp</languageId><trName>Uhabeshi</trName></name>
+      <name><languageId>sc</languageId><trName>Etiòpia</trName></name>
       <name><languageId>sd</languageId><trName>ايٿوپيا</trName></name>
       <name><languageId>se</languageId><trName>Etiopia</trName></name>
       <name><languageId>seh</languageId><trName>Etiópia</trName></name>
@@ -15954,7 +16103,9 @@
       <name><languageId>rwk</languageId><trName>Ufini</trName></name>
       <name><languageId>sah</languageId><trName>Финляндия</trName></name>
       <name><languageId>saq</languageId><trName>Ufini</trName></name>
+      <name><languageId>sat</languageId><trName>ᱯᱷᱤᱱᱞᱮᱸᱰ</trName></name>
       <name><languageId>sbp</languageId><trName>Wufini</trName></name>
+      <name><languageId>sc</languageId><trName>Finlàndia</trName></name>
       <name><languageId>sd</languageId><trName>فن لينڊ</trName></name>
       <name><languageId>se</languageId><trName>Suopma</trName></name>
       <name><languageId>seh</languageId><trName>Finlândia</trName></name>
@@ -16174,7 +16325,9 @@
       <name><languageId>ru</languageId><trName>Фиджи</trName></name>
       <name><languageId>rwk</languageId><trName>Fiji</trName></name>
       <name><languageId>saq</languageId><trName>Fiji</trName></name>
+      <name><languageId>sat</languageId><trName>ᱯᱷᱤᱡᱤ</trName></name>
       <name><languageId>sbp</languageId><trName>Fiji</trName></name>
+      <name><languageId>sc</languageId><trName>Fiji</trName></name>
       <name><languageId>sd</languageId><trName>فجي</trName></name>
       <name><languageId>se</languageId><trName>Fijisullot</trName></name>
       <name><languageId>seh</languageId><trName>Fiji</trName></name>
@@ -16387,7 +16540,9 @@
       <name><languageId>ru</languageId><trName>Фолклендские о-ва</trName></name>
       <name><languageId>rwk</languageId><trName>Visiwa vya Falkland</trName></name>
       <name><languageId>saq</languageId><trName>Visiwa vya Falkland</trName></name>
+      <name><languageId>sat</languageId><trName>ᱯᱷᱟᱞᱠᱞᱮᱸᱰ ᱟᱭᱞᱮᱸᱰ</trName></name>
       <name><languageId>sbp</languageId><trName>Figunguli fya Fokolendi</trName></name>
+      <name><languageId>sc</languageId><trName>Ìsulas Falkland</trName></name>
       <name><languageId>sd</languageId><trName>فاڪ لينڊ ٻيٽ</trName></name>
       <name><languageId>se</languageId><trName>Falklandsullot</trName></name>
       <name><languageId>seh</languageId><trName>Ilhas Malvinas</trName></name>
@@ -16594,7 +16749,9 @@
       <name><languageId>ru</languageId><trName>Федеративные Штаты Микронезии</trName></name>
       <name><languageId>rwk</languageId><trName>Mikronesia</trName></name>
       <name><languageId>saq</languageId><trName>Mikronesia</trName></name>
+      <name><languageId>sat</languageId><trName>ᱢᱟᱭᱠᱨᱚᱱᱮᱥᱤᱭᱟ</trName></name>
       <name><languageId>sbp</languageId><trName>Mikilonesiya</trName></name>
+      <name><languageId>sc</languageId><trName>Micronèsia</trName></name>
       <name><languageId>sd</languageId><trName>مائڪرونيشيا</trName></name>
       <name><languageId>se</languageId><trName>Mikronesia</trName></name>
       <name><languageId>seh</languageId><trName>Micronésia</trName></name>
@@ -16763,6 +16920,8 @@
       <name><languageId>rm</languageId><trName>Inslas Feroe</trName></name>
       <name><languageId>ro</languageId><trName>Insulele Feroe</trName></name>
       <name><languageId>ru</languageId><trName>Фарерские о-ва</trName></name>
+      <name><languageId>sat</languageId><trName>ᱯᱷᱮᱨᱚ ᱫᱣᱤᱯᱫᱳᱞ</trName></name>
+      <name><languageId>sc</languageId><trName>Ìsulas Føroyar</trName></name>
       <name><languageId>sd</languageId><trName>فارو ٻيٽ</trName></name>
       <name><languageId>se</languageId><trName>Fearsullot</trName></name>
       <name><languageId>si</languageId><trName>ෆැරෝ දූපත්</trName></name>
@@ -16981,6 +17140,7 @@
       <name><languageId>saq</languageId><trName>Ufaransa</trName></name>
       <name><languageId>sat</languageId><trName>ᱯᱷᱨᱟᱱᱥ</trName></name>
       <name><languageId>sbp</languageId><trName>Wufalansa</trName></name>
+      <name><languageId>sc</languageId><trName>Frantza</trName></name>
       <name><languageId>sd</languageId><trName>فرانس</trName></name>
       <name><languageId>sd_Deva</languageId><trName>फ़्रांस</trName></name>
       <name><languageId>se</languageId><trName>Frankriika</trName></name>
@@ -17207,7 +17367,9 @@
       <name><languageId>ru</languageId><trName>Габон</trName></name>
       <name><languageId>rwk</languageId><trName>Gaboni</trName></name>
       <name><languageId>saq</languageId><trName>Gaboni</trName></name>
+      <name><languageId>sat</languageId><trName>ᱜᱟᱵᱚᱱ</trName></name>
       <name><languageId>sbp</languageId><trName>Gaboni</trName></name>
+      <name><languageId>sc</languageId><trName>Gabòn</trName></name>
       <name><languageId>sd</languageId><trName>گبون</trName></name>
       <name><languageId>se</languageId><trName>Gabon</trName></name>
       <name><languageId>seh</languageId><trName>Gabão</trName></name>
@@ -17435,6 +17597,7 @@
       <name><languageId>saq</languageId><trName>Uingereza</trName></name>
       <name><languageId>sat</languageId><trName>ᱭᱩᱱᱤᱭᱴᱮᱰ ᱠᱤᱝᱰᱚᱢ</trName></name>
       <name><languageId>sbp</languageId><trName>Uwingelesa</trName></name>
+      <name><languageId>sc</languageId><trName>Regnu Unidu</trName></name>
       <name><languageId>sd</languageId><trName>برطانيہ</trName></name>
       <name><languageId>sd_Deva</languageId><trName>बरतानी</trName></name>
       <name><languageId>se</languageId><trName>Stuorra-Británnia</trName></name>
@@ -17661,7 +17824,9 @@
       <name><languageId>ru</languageId><trName>Гренада</trName></name>
       <name><languageId>rwk</languageId><trName>Grenada</trName></name>
       <name><languageId>saq</languageId><trName>Grenada</trName></name>
+      <name><languageId>sat</languageId><trName>ᱜᱽᱨᱮᱱᱟᱰᱟ</trName></name>
       <name><languageId>sbp</languageId><trName>Gilenada</trName></name>
+      <name><languageId>sc</languageId><trName>Grenada</trName></name>
       <name><languageId>sd</languageId><trName>گرينڊا</trName></name>
       <name><languageId>se</languageId><trName>Grenada</trName></name>
       <name><languageId>seh</languageId><trName>Granada</trName></name>
@@ -17875,7 +18040,9 @@
       <name><languageId>ru</languageId><trName>Грузия</trName></name>
       <name><languageId>rwk</languageId><trName>Jojia</trName></name>
       <name><languageId>saq</languageId><trName>Jojia</trName></name>
+      <name><languageId>sat</languageId><trName>ᱡᱭᱚᱨᱡᱤᱭᱟ</trName></name>
       <name><languageId>sbp</languageId><trName>Jojiya</trName></name>
+      <name><languageId>sc</languageId><trName>Geòrgia</trName></name>
       <name><languageId>sd</languageId><trName>جارجيا</trName></name>
       <name><languageId>se</languageId><trName>Georgia</trName></name>
       <name><languageId>seh</languageId><trName>Geórgia</trName></name>
@@ -18090,7 +18257,9 @@
       <name><languageId>ru</languageId><trName>Французская Гвиана</trName></name>
       <name><languageId>rwk</languageId><trName>Gwiyana ya Ufaransa</trName></name>
       <name><languageId>saq</languageId><trName>Gwiyana ya Ufaransa</trName></name>
+      <name><languageId>sat</languageId><trName>ᱯᱷᱨᱮᱧᱪ ᱜᱩᱭᱟᱱᱟ</trName></name>
       <name><languageId>sbp</languageId><trName>Gwiyana ya Wufalansa</trName></name>
+      <name><languageId>sc</languageId><trName>Guiana frantzesa</trName></name>
       <name><languageId>sd</languageId><trName>فرانسيسي گيانا</trName></name>
       <name><languageId>se</languageId><trName>Frankriikka Guayana</trName></name>
       <name><languageId>seh</languageId><trName>Guiana Francesa</trName></name>
@@ -18257,6 +18426,8 @@
       <name><languageId>rm</languageId><trName>Guernsey</trName></name>
       <name><languageId>ro</languageId><trName>Guernsey</trName></name>
       <name><languageId>ru</languageId><trName>Гернси</trName></name>
+      <name><languageId>sat</languageId><trName>ᱜᱣᱮᱨᱱᱮᱥᱭ</trName></name>
+      <name><languageId>sc</languageId><trName>Guernsey</trName></name>
       <name><languageId>sd</languageId><trName>گورنسي</trName></name>
       <name><languageId>se</languageId><trName>Guernsey</trName></name>
       <name><languageId>si</languageId><trName>ගර්න්සිය</trName></name>
@@ -18456,7 +18627,9 @@
       <name><languageId>ru</languageId><trName>Гана</trName></name>
       <name><languageId>rwk</languageId><trName>Ghana</trName></name>
       <name><languageId>saq</languageId><trName>Ghana</trName></name>
+      <name><languageId>sat</languageId><trName>ᱜᱷᱟᱱᱟ</trName></name>
       <name><languageId>sbp</languageId><trName>Khana</trName></name>
+      <name><languageId>sc</languageId><trName>Ghana</trName></name>
       <name><languageId>sd</languageId><trName>گهانا</trName></name>
       <name><languageId>se</languageId><trName>Ghana</trName></name>
       <name><languageId>seh</languageId><trName>Gana</trName></name>
@@ -18672,7 +18845,9 @@
       <name><languageId>ru</languageId><trName>Гибралтар</trName></name>
       <name><languageId>rwk</languageId><trName>Jibralta</trName></name>
       <name><languageId>saq</languageId><trName>Jibralta</trName></name>
+      <name><languageId>sat</languageId><trName>ᱜᱤᱵᱽᱨᱟᱞᱴᱟᱹᱨ</trName></name>
       <name><languageId>sbp</languageId><trName>Jibulalita</trName></name>
+      <name><languageId>sc</languageId><trName>Gibilterra</trName></name>
       <name><languageId>sd</languageId><trName>جبرالٽر</trName></name>
       <name><languageId>se</languageId><trName>Gibraltar</trName></name>
       <name><languageId>seh</languageId><trName>Gibraltar</trName></name>
@@ -18883,7 +19058,9 @@
       <name><languageId>ru</languageId><trName>Гренландия</trName></name>
       <name><languageId>rwk</languageId><trName>Grinlandi</trName></name>
       <name><languageId>saq</languageId><trName>Grinlandi</trName></name>
+      <name><languageId>sat</languageId><trName>ᱜᱽᱨᱤᱱᱞᱮᱸᱰ</trName></name>
       <name><languageId>sbp</languageId><trName>Gilinilandi</trName></name>
+      <name><languageId>sc</languageId><trName>Groenlàndia</trName></name>
       <name><languageId>sd</languageId><trName>گرين لينڊ</trName></name>
       <name><languageId>se</languageId><trName>Kalaallit Nunaat</trName></name>
       <name><languageId>seh</languageId><trName>Groênlandia</trName></name>
@@ -19100,7 +19277,9 @@
       <name><languageId>ru</languageId><trName>Гамбия</trName></name>
       <name><languageId>rwk</languageId><trName>Gambia</trName></name>
       <name><languageId>saq</languageId><trName>Gambia</trName></name>
+      <name><languageId>sat</languageId><trName>ᱜᱟᱢᱵᱤᱭᱟ</trName></name>
       <name><languageId>sbp</languageId><trName>Gambiya</trName></name>
+      <name><languageId>sc</languageId><trName>Gàmbia</trName></name>
       <name><languageId>sd</languageId><trName>گيمبيا</trName></name>
       <name><languageId>se</languageId><trName>Gámbia</trName></name>
       <name><languageId>seh</languageId><trName>Gâmbia</trName></name>
@@ -19313,7 +19492,9 @@
       <name><languageId>ru</languageId><trName>Гвинея</trName></name>
       <name><languageId>rwk</languageId><trName>Gine</trName></name>
       <name><languageId>saq</languageId><trName>Gine</trName></name>
+      <name><languageId>sat</languageId><trName>ᱜᱩᱭᱱᱤᱭᱟ</trName></name>
       <name><languageId>sbp</languageId><trName>Gine</trName></name>
+      <name><languageId>sc</languageId><trName>Guinea</trName></name>
       <name><languageId>sd</languageId><trName>گني</trName></name>
       <name><languageId>se</languageId><trName>Guinea</trName></name>
       <name><languageId>seh</languageId><trName>Guiné</trName></name>
@@ -19525,7 +19706,9 @@
       <name><languageId>ru</languageId><trName>Гваделупа</trName></name>
       <name><languageId>rwk</languageId><trName>Gwadelupe</trName></name>
       <name><languageId>saq</languageId><trName>Gwadelupe</trName></name>
+      <name><languageId>sat</languageId><trName>ᱜᱩᱟᱰᱮᱞᱚᱣᱯ</trName></name>
       <name><languageId>sbp</languageId><trName>Gwadelupe</trName></name>
+      <name><languageId>sc</languageId><trName>Guadalupa</trName></name>
       <name><languageId>sd</languageId><trName>گواڊیلوپ</trName></name>
       <name><languageId>se</languageId><trName>Guadeloupe</trName></name>
       <name><languageId>seh</languageId><trName>Guadalupe</trName></name>
@@ -19733,7 +19916,9 @@
       <name><languageId>ru</languageId><trName>Экваториальная Гвинея</trName></name>
       <name><languageId>rwk</languageId><trName>Ginekweta</trName></name>
       <name><languageId>saq</languageId><trName>Ginekweta</trName></name>
+      <name><languageId>sat</languageId><trName>ᱤᱠᱣᱤᱴᱚᱨᱤᱭᱟᱹᱞ ᱜᱤᱱᱤ</trName></name>
       <name><languageId>sbp</languageId><trName>Ginekweta</trName></name>
+      <name><languageId>sc</languageId><trName>Guinea Ecuadoriale</trName></name>
       <name><languageId>sd</languageId><trName>ايڪوٽوريل گائينا</trName></name>
       <name><languageId>se</languageId><trName>Ekvatoriála Guinea</trName></name>
       <name><languageId>seh</languageId><trName>Guiné Equatorial</trName></name>
@@ -19949,7 +20134,9 @@
       <name><languageId>ru</languageId><trName>Греция</trName></name>
       <name><languageId>rwk</languageId><trName>Ugiriki</trName></name>
       <name><languageId>saq</languageId><trName>Ugiriki</trName></name>
+      <name><languageId>sat</languageId><trName>ᱜᱽᱨᱤᱥ</trName></name>
       <name><languageId>sbp</languageId><trName>Wugiliki</trName></name>
+      <name><languageId>sc</languageId><trName>Grètzia</trName></name>
       <name><languageId>sd</languageId><trName>يونان</trName></name>
       <name><languageId>se</languageId><trName>Greika</trName></name>
       <name><languageId>seh</languageId><trName>Grécia</trName></name>
@@ -20168,7 +20355,9 @@
       <name><languageId>ru</languageId><trName>Гватемала</trName></name>
       <name><languageId>rwk</languageId><trName>Gwatemala</trName></name>
       <name><languageId>saq</languageId><trName>Gwatemala</trName></name>
+      <name><languageId>sat</languageId><trName>ᱜᱩᱣᱟᱴᱮᱢᱟᱞᱟ</trName></name>
       <name><languageId>sbp</languageId><trName>Gwatemala</trName></name>
+      <name><languageId>sc</languageId><trName>Guatemala</trName></name>
       <name><languageId>sd</languageId><trName>گوئٽي مالا</trName></name>
       <name><languageId>se</languageId><trName>Guatemala</trName></name>
       <name><languageId>seh</languageId><trName>Guatemala</trName></name>
@@ -20381,7 +20570,9 @@
       <name><languageId>ru</languageId><trName>Гуам</trName></name>
       <name><languageId>rwk</languageId><trName>Gwam</trName></name>
       <name><languageId>saq</languageId><trName>Gwam</trName></name>
+      <name><languageId>sat</languageId><trName>ᱜᱩᱣᱟᱢ</trName></name>
       <name><languageId>sbp</languageId><trName>Gwamu</trName></name>
+      <name><languageId>sc</languageId><trName>Guàm</trName></name>
       <name><languageId>sd</languageId><trName>گوام</trName></name>
       <name><languageId>se</languageId><trName>Guam</trName></name>
       <name><languageId>seh</languageId><trName>Guam</trName></name>
@@ -20594,7 +20785,9 @@
       <name><languageId>ru</languageId><trName>Гвинея-Бисау</trName></name>
       <name><languageId>rwk</languageId><trName>Ginebisau</trName></name>
       <name><languageId>saq</languageId><trName>Ginebisau</trName></name>
+      <name><languageId>sat</languageId><trName>ᱜᱩᱭᱱᱤᱭᱟᱼᱵᱤᱥᱟᱣ</trName></name>
       <name><languageId>sbp</languageId><trName>Ginebisawu</trName></name>
+      <name><languageId>sc</languageId><trName>Guinea-Bissau</trName></name>
       <name><languageId>sd</languageId><trName>گني بسائو</trName></name>
       <name><languageId>se</languageId><trName>Guinea-Bissau</trName></name>
       <name><languageId>seh</languageId><trName>Guiné Bissau</trName></name>
@@ -20807,7 +21000,9 @@
       <name><languageId>ru</languageId><trName>Гайана</trName></name>
       <name><languageId>rwk</languageId><trName>Guyana</trName></name>
       <name><languageId>saq</languageId><trName>Guyana</trName></name>
+      <name><languageId>sat</languageId><trName>ᱜᱩᱭᱟᱱᱟ</trName></name>
       <name><languageId>sbp</languageId><trName>Guyana</trName></name>
+      <name><languageId>sc</languageId><trName>Guyana</trName></name>
       <name><languageId>sd</languageId><trName>گيانا</trName></name>
       <name><languageId>se</languageId><trName>Guyana</trName></name>
       <name><languageId>seh</languageId><trName>Guiana</trName></name>
@@ -20979,6 +21174,8 @@
       <name><languageId>rm</languageId><trName>Regiun d’administraziun speziala da Hongkong, China</trName></name>
       <name><languageId>ro</languageId><trName>R.A.S. Hong Kong, China</trName></name>
       <name><languageId>ru</languageId><trName>Гонконг (САР)</trName></name>
+      <name><languageId>sat</languageId><trName>ᱦᱚᱝ ᱠᱚᱝ ᱥᱟᱨ ᱪᱟᱭᱱᱟ</trName></name>
+      <name><languageId>sc</languageId><trName>RAS tzinesa de Hong Kong</trName></name>
       <name><languageId>sd</languageId><trName>هانگ ڪانگ SAR</trName></name>
       <name><languageId>se</languageId><trName>Hongkong</trName></name>
       <name><languageId>si</languageId><trName>හොංකොං විශේෂ පරිපාලන කලාපය චීනය</trName></name>
@@ -21185,7 +21382,9 @@
       <name><languageId>ru</languageId><trName>Гондурас</trName></name>
       <name><languageId>rwk</languageId><trName>Hondurasi</trName></name>
       <name><languageId>saq</languageId><trName>Hondurasi</trName></name>
+      <name><languageId>sat</languageId><trName>ᱦᱚᱱᱰᱩᱨᱟᱥ</trName></name>
       <name><languageId>sbp</languageId><trName>Hondulasi</trName></name>
+      <name><languageId>sc</languageId><trName>Honduras</trName></name>
       <name><languageId>sd</languageId><trName>هنڊورس</trName></name>
       <name><languageId>se</languageId><trName>Honduras</trName></name>
       <name><languageId>seh</languageId><trName>Honduras</trName></name>
@@ -21402,7 +21601,9 @@
       <name><languageId>ru</languageId><trName>Хорватия</trName></name>
       <name><languageId>rwk</languageId><trName>Korasia</trName></name>
       <name><languageId>saq</languageId><trName>Korasia</trName></name>
+      <name><languageId>sat</languageId><trName>ᱠᱨᱚᱮᱥᱤᱭᱟ</trName></name>
       <name><languageId>sbp</languageId><trName>Kolasiya</trName></name>
+      <name><languageId>sc</languageId><trName>Croàtzia</trName></name>
       <name><languageId>sd</languageId><trName>ڪروئيشيا</trName></name>
       <name><languageId>se</languageId><trName>Kroátia</trName></name>
       <name><languageId>seh</languageId><trName>Croácia</trName></name>
@@ -21621,7 +21822,9 @@
       <name><languageId>ru</languageId><trName>Гаити</trName></name>
       <name><languageId>rwk</languageId><trName>Haiti</trName></name>
       <name><languageId>saq</languageId><trName>Haiti</trName></name>
+      <name><languageId>sat</languageId><trName>ᱦᱟᱭᱴᱤ</trName></name>
       <name><languageId>sbp</languageId><trName>Hayiti</trName></name>
+      <name><languageId>sc</languageId><trName>Haiti</trName></name>
       <name><languageId>sd</languageId><trName>هيٽي</trName></name>
       <name><languageId>se</languageId><trName>Haiti</trName></name>
       <name><languageId>seh</languageId><trName>Haiti</trName></name>
@@ -21840,7 +22043,9 @@
       <name><languageId>ru</languageId><trName>Венгрия</trName></name>
       <name><languageId>rwk</languageId><trName>Hungaria</trName></name>
       <name><languageId>saq</languageId><trName>Hungaria</trName></name>
+      <name><languageId>sat</languageId><trName>ᱦᱟᱹᱝᱜᱟᱨᱤ</trName></name>
       <name><languageId>sbp</languageId><trName>Hungaliya</trName></name>
+      <name><languageId>sc</languageId><trName>Ungheria</trName></name>
       <name><languageId>sd</languageId><trName>هنگري</trName></name>
       <name><languageId>se</languageId><trName>Ungár</trName></name>
       <name><languageId>seh</languageId><trName>Hungria</trName></name>
@@ -22009,6 +22214,8 @@
       <name><languageId>rm</languageId><trName>Inslas Canarias</trName></name>
       <name><languageId>ro</languageId><trName>Insulele Canare</trName></name>
       <name><languageId>ru</languageId><trName>Канарские о-ва</trName></name>
+      <name><languageId>sat</languageId><trName>ᱠᱟᱱᱟᱨᱭ ᱟᱭᱞᱮᱸᱰᱥ</trName></name>
+      <name><languageId>sc</languageId><trName>Ìsulas Canàrias</trName></name>
       <name><languageId>sd</languageId><trName>ڪينري ٻيٽ</trName></name>
       <name><languageId>se</languageId><trName>Kanáriasullot</trName></name>
       <name><languageId>si</languageId><trName>කැනරි සූපත්</trName></name>
@@ -22206,7 +22413,9 @@
       <name><languageId>ru</languageId><trName>Индонезия</trName></name>
       <name><languageId>rwk</languageId><trName>Indonesia</trName></name>
       <name><languageId>saq</languageId><trName>Indonesia</trName></name>
+      <name><languageId>sat</languageId><trName>ᱤᱱᱰᱚᱱᱮᱥᱤᱭᱟ</trName></name>
       <name><languageId>sbp</languageId><trName>Indonesiya</trName></name>
+      <name><languageId>sc</languageId><trName>Indonèsia</trName></name>
       <name><languageId>sd</languageId><trName>انڊونيشيا</trName></name>
       <name><languageId>se</languageId><trName>Indonesia</trName></name>
       <name><languageId>seh</languageId><trName>Indonésia</trName></name>
@@ -22424,7 +22633,9 @@
       <name><languageId>rwk</languageId><trName>Ayalandi</trName></name>
       <name><languageId>sah</languageId><trName>Ирландия</trName></name>
       <name><languageId>saq</languageId><trName>Ayalandi</trName></name>
+      <name><languageId>sat</languageId><trName>ᱟᱭᱟᱹᱨᱞᱮᱸᱰ</trName></name>
       <name><languageId>sbp</languageId><trName>Ayalandi</trName></name>
+      <name><languageId>sc</languageId><trName>Irlanda</trName></name>
       <name><languageId>sd</languageId><trName>آئرلينڊ</trName></name>
       <name><languageId>se</languageId><trName>Irlánda</trName></name>
       <name><languageId>seh</languageId><trName>Irlanda</trName></name>
@@ -22645,7 +22856,9 @@
       <name><languageId>ru</languageId><trName>Израиль</trName></name>
       <name><languageId>rwk</languageId><trName>Israeli</trName></name>
       <name><languageId>saq</languageId><trName>Israeli</trName></name>
+      <name><languageId>sat</languageId><trName>ᱤᱥᱨᱟᱭᱮᱞ</trName></name>
       <name><languageId>sbp</languageId><trName>Isilaeli</trName></name>
+      <name><languageId>sc</languageId><trName>Israele</trName></name>
       <name><languageId>sd</languageId><trName>اسرائيل</trName></name>
       <name><languageId>se</languageId><trName>Israel</trName></name>
       <name><languageId>seh</languageId><trName>Israel</trName></name>
@@ -22823,6 +23036,8 @@
       <name><languageId>ro</languageId><trName>Insula Man</trName></name>
       <name><languageId>ru</languageId><trName>о-в Мэн</trName></name>
       <name><languageId>sah</languageId><trName>Мэн арыы</trName></name>
+      <name><languageId>sat</languageId><trName>ᱟᱭᱞ ᱚᱯᱷ ᱢᱮᱱ</trName></name>
+      <name><languageId>sc</languageId><trName>Ìsula de Man</trName></name>
       <name><languageId>sd</languageId><trName>انسانن جو ٻيٽ</trName></name>
       <name><languageId>se</languageId><trName>Mann-sullot</trName></name>
       <name><languageId>si</languageId><trName>අයිල් ඔෆ් මෑන්</trName></name>
@@ -23047,6 +23262,7 @@
       <name><languageId>saq</languageId><trName>India</trName></name>
       <name><languageId>sat</languageId><trName>ᱤᱱᱰᱤᱭᱟ</trName></name>
       <name><languageId>sbp</languageId><trName>Indiya</trName></name>
+      <name><languageId>sc</languageId><trName>Ìndia</trName></name>
       <name><languageId>sd</languageId><trName>ڀارت</trName></name>
       <name><languageId>sd_Deva</languageId><trName>भारत</trName></name>
       <name><languageId>se</languageId><trName>India</trName></name>
@@ -23368,7 +23584,9 @@
       <name><languageId>ru</languageId><trName>Британская территория в Индийском океане</trName></name>
       <name><languageId>rwk</languageId><trName>Eneo la Uingereza katika Bahari Hindi</trName></name>
       <name><languageId>saq</languageId><trName>Eneo la Uingereza katika Bahari Hindi</trName></name>
+      <name><languageId>sat</languageId><trName>ᱵᱽᱨᱤᱴᱤᱥ ᱵᱷᱟᱨᱚᱛ ᱢᱟᱦᱟᱥᱟᱜᱚᱨ ᱡᱟᱭᱜᱟ</trName></name>
       <name><languageId>sbp</languageId><trName>Uluvala lwa Uwingelesa ku Bahali ya Hindi</trName></name>
+      <name><languageId>sc</languageId><trName>Territòriu Britànnicu de s’Otzèanu Indianu</trName></name>
       <name><languageId>sd</languageId><trName>برطانوي هندي سمنڊ خطو</trName></name>
       <name><languageId>seh</languageId><trName>Território Britânico do Oceano Índico</trName></name>
       <name><languageId>ses</languageId><trName>Britiši Indu teekoo laama</trName></name>
@@ -23579,7 +23797,9 @@
       <name><languageId>ru</languageId><trName>Ирак</trName></name>
       <name><languageId>rwk</languageId><trName>Iraki</trName></name>
       <name><languageId>saq</languageId><trName>Iraki</trName></name>
+      <name><languageId>sat</languageId><trName>ᱤᱨᱟᱠ</trName></name>
       <name><languageId>sbp</languageId><trName>Ilaki</trName></name>
+      <name><languageId>sc</languageId><trName>Iraq</trName></name>
       <name><languageId>sd</languageId><trName>عراق</trName></name>
       <name><languageId>se</languageId><trName>Irak</trName></name>
       <name><languageId>seh</languageId><trName>Iraque</trName></name>
@@ -23794,7 +24014,9 @@
       <name><languageId>ru</languageId><trName>Иран</trName></name>
       <name><languageId>rwk</languageId><trName>Uajemi</trName></name>
       <name><languageId>saq</languageId><trName>Uajemi</trName></name>
+      <name><languageId>sat</languageId><trName>ᱤᱨᱟᱱ</trName></name>
       <name><languageId>sbp</languageId><trName>Uwajemi</trName></name>
+      <name><languageId>sc</languageId><trName>Iràn</trName></name>
       <name><languageId>sd</languageId><trName>ايران</trName></name>
       <name><languageId>se</languageId><trName>Iran</trName></name>
       <name><languageId>seh</languageId><trName>Irã</trName></name>
@@ -24012,7 +24234,9 @@
       <name><languageId>rwk</languageId><trName>Aislandi</trName></name>
       <name><languageId>sah</languageId><trName>Исландия</trName></name>
       <name><languageId>saq</languageId><trName>Aislandi</trName></name>
+      <name><languageId>sat</languageId><trName>ᱟᱭᱥᱞᱮᱸᱰ</trName></name>
       <name><languageId>sbp</languageId><trName>Ayisilendi</trName></name>
+      <name><languageId>sc</languageId><trName>Islanda</trName></name>
       <name><languageId>sd</languageId><trName>آئس لينڊ</trName></name>
       <name><languageId>se</languageId><trName>Islánda</trName></name>
       <name><languageId>seh</languageId><trName>Islândia</trName></name>
@@ -24430,6 +24654,8 @@
       <name><languageId>rm</languageId><trName>Jersey</trName></name>
       <name><languageId>ro</languageId><trName>Jersey</trName></name>
       <name><languageId>ru</languageId><trName>Джерси</trName></name>
+      <name><languageId>sat</languageId><trName>ᱡᱟᱹᱨᱥᱤ</trName></name>
+      <name><languageId>sc</languageId><trName>Jersey</trName></name>
       <name><languageId>sd</languageId><trName>جرسي</trName></name>
       <name><languageId>se</languageId><trName>Jersey</trName></name>
       <name><languageId>si</languageId><trName>ජර්සි</trName></name>
@@ -24630,7 +24856,9 @@
       <name><languageId>rwk</languageId><trName>Jamaika</trName></name>
       <name><languageId>sah</languageId><trName>Дьамаайка</trName></name>
       <name><languageId>saq</languageId><trName>Jamaika</trName></name>
+      <name><languageId>sat</languageId><trName>ᱡᱟᱢᱟᱭᱠᱟ</trName></name>
       <name><languageId>sbp</languageId><trName>Jamaika</trName></name>
+      <name><languageId>sc</languageId><trName>Giamàica</trName></name>
       <name><languageId>sd</languageId><trName>جميڪا</trName></name>
       <name><languageId>se</languageId><trName>Jamaica</trName></name>
       <name><languageId>seh</languageId><trName>Jamaica</trName></name>
@@ -24840,7 +25068,9 @@
       <name><languageId>ru</languageId><trName>Иордания</trName></name>
       <name><languageId>rwk</languageId><trName>Yordani</trName></name>
       <name><languageId>saq</languageId><trName>Yordani</trName></name>
+      <name><languageId>sat</languageId><trName>ᱡᱚᱨᱰᱟᱱ</trName></name>
       <name><languageId>sbp</languageId><trName>Yolodani</trName></name>
+      <name><languageId>sc</languageId><trName>Giordània</trName></name>
       <name><languageId>sd</languageId><trName>اردن</trName></name>
       <name><languageId>se</languageId><trName>Jordánia</trName></name>
       <name><languageId>seh</languageId><trName>Jordânia</trName></name>
@@ -25071,6 +25301,7 @@
       <name><languageId>saq</languageId><trName>Japani</trName></name>
       <name><languageId>sat</languageId><trName>ᱡᱟᱯᱟᱱ</trName></name>
       <name><languageId>sbp</languageId><trName>Japani</trName></name>
+      <name><languageId>sc</languageId><trName>Giapone</trName></name>
       <name><languageId>sd</languageId><trName>جاپان</trName></name>
       <name><languageId>sd_Deva</languageId><trName>जापान</trName></name>
       <name><languageId>se</languageId><trName>Japána</trName></name>
@@ -25295,7 +25526,9 @@
       <name><languageId>ru</languageId><trName>Кения</trName></name>
       <name><languageId>rwk</languageId><trName>Kenya</trName></name>
       <name><languageId>saq</languageId><trName>Kenya</trName></name>
+      <name><languageId>sat</languageId><trName>ᱠᱮᱱᱭᱟ</trName></name>
       <name><languageId>sbp</languageId><trName>Kenya</trName></name>
+      <name><languageId>sc</languageId><trName>Kènya</trName></name>
       <name><languageId>sd</languageId><trName>ڪينيا</trName></name>
       <name><languageId>se</languageId><trName>Kenia</trName></name>
       <name><languageId>seh</languageId><trName>Quênia</trName></name>
@@ -25515,7 +25748,9 @@
       <name><languageId>ru</languageId><trName>Киргизия</trName></name>
       <name><languageId>rwk</languageId><trName>Kirigizistani</trName></name>
       <name><languageId>saq</languageId><trName>Kirigizistani</trName></name>
+      <name><languageId>sat</languageId><trName>ᱠᱤᱨᱜᱤᱥᱛᱟᱱ</trName></name>
       <name><languageId>sbp</languageId><trName>Kiligisisitani</trName></name>
+      <name><languageId>sc</languageId><trName>Kirghìzistan</trName></name>
       <name><languageId>sd</languageId><trName>ڪرغستان</trName></name>
       <name><languageId>se</languageId><trName>Kirgisistan</trName></name>
       <name><languageId>seh</languageId><trName>Quirguistão</trName></name>
@@ -25731,7 +25966,9 @@
       <name><languageId>ru</languageId><trName>Камбоджа</trName></name>
       <name><languageId>rwk</languageId><trName>Kambodia</trName></name>
       <name><languageId>saq</languageId><trName>Kambodia</trName></name>
+      <name><languageId>sat</languageId><trName>ᱠᱟᱹᱢᱵᱚᱰᱤᱭᱟ</trName></name>
       <name><languageId>sbp</languageId><trName>Kambodiya</trName></name>
+      <name><languageId>sc</languageId><trName>Cambòdia</trName></name>
       <name><languageId>sd</languageId><trName>ڪمبوڊيا</trName></name>
       <name><languageId>se</languageId><trName>Kambodža</trName></name>
       <name><languageId>seh</languageId><trName>Camboja</trName></name>
@@ -25944,7 +26181,9 @@
       <name><languageId>ru</languageId><trName>Кирибати</trName></name>
       <name><languageId>rwk</languageId><trName>Kiribati</trName></name>
       <name><languageId>saq</languageId><trName>Kiribati</trName></name>
+      <name><languageId>sat</languageId><trName>ᱠᱤᱨᱤᱵᱚᱛᱤ</trName></name>
       <name><languageId>sbp</languageId><trName>Kilibati</trName></name>
+      <name><languageId>sc</languageId><trName>Kiribati</trName></name>
       <name><languageId>sd</languageId><trName>ڪرباتي</trName></name>
       <name><languageId>se</languageId><trName>Kiribati</trName></name>
       <name><languageId>seh</languageId><trName>Quiribati</trName></name>
@@ -26157,7 +26396,9 @@
       <name><languageId>ru</languageId><trName>Коморы</trName></name>
       <name><languageId>rwk</languageId><trName>Komoro</trName></name>
       <name><languageId>saq</languageId><trName>Komoro</trName></name>
+      <name><languageId>sat</languageId><trName>ᱠᱚᱢᱚᱨᱚᱥ</trName></name>
       <name><languageId>sbp</languageId><trName>Komolo</trName></name>
+      <name><languageId>sc</languageId><trName>Comoras</trName></name>
       <name><languageId>sd</languageId><trName>ڪوموروس</trName></name>
       <name><languageId>se</languageId><trName>Komoros</trName></name>
       <name><languageId>seh</languageId><trName>Comores</trName></name>
@@ -26371,7 +26612,9 @@
       <name><languageId>ru</languageId><trName>Сент-Китс и Невис</trName></name>
       <name><languageId>rwk</languageId><trName>Santakitzi na Nevis</trName></name>
       <name><languageId>saq</languageId><trName>Santakitzi na Nevis</trName></name>
+      <name><languageId>sat</languageId><trName>ᱮᱥ ᱴᱤ ᱠᱤᱴᱥ ᱟᱨ ᱱᱮᱣᱤᱥ</trName></name>
       <name><languageId>sbp</languageId><trName>Santakitisi ni Nevisi</trName></name>
+      <name><languageId>sc</languageId><trName>Santu Cristolu e Nevis</trName></name>
       <name><languageId>sd</languageId><trName>سينٽ ڪٽس و نيوس</trName></name>
       <name><languageId>se</languageId><trName>Saint Kitts ja Nevis</trName></name>
       <name><languageId>seh</languageId><trName>São Cristovão e Nevis</trName></name>
@@ -26580,7 +26823,9 @@
       <name><languageId>ru</languageId><trName>КНДР</trName></name>
       <name><languageId>rwk</languageId><trName>Korea Kaskazini</trName></name>
       <name><languageId>saq</languageId><trName>Korea Kaskazini</trName></name>
+      <name><languageId>sat</languageId><trName>ᱮᱛᱚᱢ ᱠᱚᱨᱤᱭᱟ</trName></name>
       <name><languageId>sbp</languageId><trName>Koleya ya luvala lwa Kunyamande</trName></name>
+      <name><languageId>sc</languageId><trName>Corea de su Nord</trName></name>
       <name><languageId>sd</languageId><trName>اتر ڪوريا</trName></name>
       <name><languageId>se</languageId><trName>Davvi-Korea</trName></name>
       <name><languageId>seh</languageId><trName>Coréia do Norte</trName></name>
@@ -26792,7 +27037,9 @@
       <name><languageId>ru</languageId><trName>Республика Корея</trName></name>
       <name><languageId>rwk</languageId><trName>Korea Kusini</trName></name>
       <name><languageId>saq</languageId><trName>Korea Kusini</trName></name>
+      <name><languageId>sat</languageId><trName>ᱠᱚᱧᱮ ᱠᱚᱨᱤᱭᱟ</trName></name>
       <name><languageId>sbp</languageId><trName>Koleya ya Kusini</trName></name>
+      <name><languageId>sc</languageId><trName>Corea de su Sud</trName></name>
       <name><languageId>sd</languageId><trName>ڏکڻ ڪوريا</trName></name>
       <name><languageId>se</languageId><trName>Mátta-Korea</trName></name>
       <name><languageId>seh</languageId><trName>Coréia do Sul</trName></name>
@@ -27005,7 +27252,9 @@
       <name><languageId>ru</languageId><trName>Кувейт</trName></name>
       <name><languageId>rwk</languageId><trName>Kuwaiti</trName></name>
       <name><languageId>saq</languageId><trName>Kuwaiti</trName></name>
+      <name><languageId>sat</languageId><trName>ᱠᱩᱣᱟᱹᱭᱛ</trName></name>
       <name><languageId>sbp</languageId><trName>Kuwaiti</trName></name>
+      <name><languageId>sc</languageId><trName>Kuwait</trName></name>
       <name><languageId>sd</languageId><trName>ڪويت</trName></name>
       <name><languageId>se</languageId><trName>Kuwait</trName></name>
       <name><languageId>seh</languageId><trName>Kuwait</trName></name>
@@ -27218,7 +27467,9 @@
       <name><languageId>ru</languageId><trName>Острова Кайман</trName></name>
       <name><languageId>rwk</languageId><trName>Visiwa vya Kayman</trName></name>
       <name><languageId>saq</languageId><trName>Visiwa vya Kayman</trName></name>
+      <name><languageId>sat</languageId><trName>ᱠᱮᱢᱮᱱ ᱟᱭᱞᱮᱸᱰᱥ</trName></name>
       <name><languageId>sbp</languageId><trName>Figunguli ifya Kayimayi</trName></name>
+      <name><languageId>sc</languageId><trName>Ìsulas Cayman</trName></name>
       <name><languageId>sd</languageId><trName>ڪي مين ٻيٽ</trName></name>
       <name><languageId>se</languageId><trName>Cayman-sullot</trName></name>
       <name><languageId>seh</languageId><trName>Ilhas Caiman</trName></name>
@@ -27429,7 +27680,9 @@
       <name><languageId>ru</languageId><trName>Казахстан</trName></name>
       <name><languageId>rwk</languageId><trName>Kazakistani</trName></name>
       <name><languageId>saq</languageId><trName>Kazakistani</trName></name>
+      <name><languageId>sat</languageId><trName>ᱠᱟᱡᱟᱠᱷᱟᱥᱛᱷᱟᱱ</trName></name>
       <name><languageId>sbp</languageId><trName>Kasakisitani</trName></name>
+      <name><languageId>sc</languageId><trName>Kazàkistan</trName></name>
       <name><languageId>sd</languageId><trName>قازقستان</trName></name>
       <name><languageId>se</languageId><trName>Kasakstan</trName></name>
       <name><languageId>seh</languageId><trName>Casaquistão</trName></name>
@@ -27640,7 +27893,9 @@
       <name><languageId>ru</languageId><trName>Лаос</trName></name>
       <name><languageId>rwk</languageId><trName>Laosi</trName></name>
       <name><languageId>saq</languageId><trName>Laosi</trName></name>
+      <name><languageId>sat</languageId><trName>ᱞᱟᱣᱚᱥ</trName></name>
       <name><languageId>sbp</languageId><trName>Layosi</trName></name>
+      <name><languageId>sc</languageId><trName>Laos</trName></name>
       <name><languageId>sd</languageId><trName>لائوس</trName></name>
       <name><languageId>se</languageId><trName>Laos</trName></name>
       <name><languageId>seh</languageId><trName>Laos</trName></name>
@@ -27854,7 +28109,9 @@
       <name><languageId>ru</languageId><trName>Ливан</trName></name>
       <name><languageId>rwk</languageId><trName>Lebanoni</trName></name>
       <name><languageId>saq</languageId><trName>Lebanoni</trName></name>
+      <name><languageId>sat</languageId><trName>ᱞᱮᱵᱟᱱᱟᱱ</trName></name>
       <name><languageId>sbp</languageId><trName>Lebanoni</trName></name>
+      <name><languageId>sc</languageId><trName>Lèbanu</trName></name>
       <name><languageId>sd</languageId><trName>لبنان</trName></name>
       <name><languageId>se</languageId><trName>Libanon</trName></name>
       <name><languageId>seh</languageId><trName>Líbano</trName></name>
@@ -28069,7 +28326,9 @@
       <name><languageId>ru</languageId><trName>Сент-Люсия</trName></name>
       <name><languageId>rwk</languageId><trName>Santalusia</trName></name>
       <name><languageId>saq</languageId><trName>Santalusia</trName></name>
+      <name><languageId>sat</languageId><trName>ᱮᱥ ᱴᱤ ᱞᱩᱥᱤᱭᱟ</trName></name>
       <name><languageId>sbp</languageId><trName>Santalusiya</trName></name>
+      <name><languageId>sc</languageId><trName>Santa Lughia</trName></name>
       <name><languageId>sd</languageId><trName>سينٽ لوسيا</trName></name>
       <name><languageId>se</languageId><trName>Saint Lucia</trName></name>
       <name><languageId>seh</languageId><trName>Santa Lúcia</trName></name>
@@ -28280,7 +28539,9 @@
       <name><languageId>ru</languageId><trName>Лихтенштейн</trName></name>
       <name><languageId>rwk</languageId><trName>Lishenteni</trName></name>
       <name><languageId>saq</languageId><trName>Lishenteni</trName></name>
+      <name><languageId>sat</languageId><trName>ᱞᱤᱪᱮᱥᱴᱤᱱ</trName></name>
       <name><languageId>sbp</languageId><trName>Lisheniteni</trName></name>
+      <name><languageId>sc</languageId><trName>Liechtenstein</trName></name>
       <name><languageId>sd</languageId><trName>لچي ٽينسٽين</trName></name>
       <name><languageId>se</languageId><trName>Liechtenstein</trName></name>
       <name><languageId>seh</languageId><trName>Liechtenstein</trName></name>
@@ -28493,7 +28754,9 @@
       <name><languageId>ru</languageId><trName>Шри-Ланка</trName></name>
       <name><languageId>rwk</languageId><trName>Sirilanka</trName></name>
       <name><languageId>saq</languageId><trName>Sirilanka</trName></name>
+      <name><languageId>sat</languageId><trName>ᱥᱨᱤ ᱞᱚᱝᱟ</trName></name>
       <name><languageId>sbp</languageId><trName>Sililanka</trName></name>
+      <name><languageId>sc</languageId><trName>Sri Lanka</trName></name>
       <name><languageId>sd</languageId><trName>سري لنڪا</trName></name>
       <name><languageId>se</languageId><trName>Sri Lanka</trName></name>
       <name><languageId>seh</languageId><trName>Sri Lanka</trName></name>
@@ -28709,7 +28972,9 @@
       <name><languageId>ru</languageId><trName>Либерия</trName></name>
       <name><languageId>rwk</languageId><trName>Liberia</trName></name>
       <name><languageId>saq</languageId><trName>Liberia</trName></name>
+      <name><languageId>sat</languageId><trName>ᱞᱟᱭᱵᱮᱨᱤᱭᱟ</trName></name>
       <name><languageId>sbp</languageId><trName>Libeliya</trName></name>
+      <name><languageId>sc</languageId><trName>Libèria</trName></name>
       <name><languageId>sd</languageId><trName>لائبیریا</trName></name>
       <name><languageId>se</languageId><trName>Liberia</trName></name>
       <name><languageId>seh</languageId><trName>Libéria</trName></name>
@@ -28921,7 +29186,9 @@
       <name><languageId>ru</languageId><trName>Лесото</trName></name>
       <name><languageId>rwk</languageId><trName>Lesoto</trName></name>
       <name><languageId>saq</languageId><trName>Lesoto</trName></name>
+      <name><languageId>sat</languageId><trName>ᱞᱮᱥᱚᱛᱷᱚ</trName></name>
       <name><languageId>sbp</languageId><trName>Lesoto</trName></name>
+      <name><languageId>sc</languageId><trName>Lesotho</trName></name>
       <name><languageId>sd</languageId><trName>ليسوٿو</trName></name>
       <name><languageId>se</languageId><trName>Lesotho</trName></name>
       <name><languageId>seh</languageId><trName>Lesoto</trName></name>
@@ -29136,7 +29403,9 @@
       <name><languageId>rwk</languageId><trName>Litwania</trName></name>
       <name><languageId>sah</languageId><trName>Литва</trName></name>
       <name><languageId>saq</languageId><trName>Litwania</trName></name>
+      <name><languageId>sat</languageId><trName>ᱞᱤᱛᱷᱩᱣᱟᱱᱤᱭᱟ</trName></name>
       <name><languageId>sbp</languageId><trName>Litwaniya</trName></name>
+      <name><languageId>sc</languageId><trName>Lituània</trName></name>
       <name><languageId>sd</languageId><trName>لٿونيا</trName></name>
       <name><languageId>se</languageId><trName>Lietuva</trName></name>
       <name><languageId>seh</languageId><trName>Lituânia</trName></name>
@@ -29354,7 +29623,9 @@
       <name><languageId>ru</languageId><trName>Люксембург</trName></name>
       <name><languageId>rwk</languageId><trName>Lasembagi</trName></name>
       <name><languageId>saq</languageId><trName>Lasembagi</trName></name>
+      <name><languageId>sat</languageId><trName>ᱞᱤᱠᱡᱟᱹᱢᱵᱟᱹᱨᱜᱽ</trName></name>
       <name><languageId>sbp</languageId><trName>Lasembagi</trName></name>
+      <name><languageId>sc</languageId><trName>Lussemburgu</trName></name>
       <name><languageId>sd</languageId><trName>لگزمبرگ</trName></name>
       <name><languageId>se</languageId><trName>Luxembourg</trName></name>
       <name><languageId>seh</languageId><trName>Luxemburgo</trName></name>
@@ -29577,7 +29848,9 @@
       <name><languageId>rwk</languageId><trName>Lativia</trName></name>
       <name><languageId>sah</languageId><trName>Латвия</trName></name>
       <name><languageId>saq</languageId><trName>Lativia</trName></name>
+      <name><languageId>sat</languageId><trName>ᱞᱟᱛᱣᱤᱭᱟ</trName></name>
       <name><languageId>sbp</languageId><trName>Lativiya</trName></name>
+      <name><languageId>sc</languageId><trName>Letònia</trName></name>
       <name><languageId>sd</languageId><trName>لاتويا</trName></name>
       <name><languageId>se</languageId><trName>Látvia</trName></name>
       <name><languageId>seh</languageId><trName>Letônia</trName></name>
@@ -29795,7 +30068,9 @@
       <name><languageId>rwk</languageId><trName>Libya</trName></name>
       <name><languageId>sah</languageId><trName>Лиибийэ</trName></name>
       <name><languageId>saq</languageId><trName>Libya</trName></name>
+      <name><languageId>sat</languageId><trName>ᱞᱤᱵᱭᱟ</trName></name>
       <name><languageId>sbp</languageId><trName>Libiya</trName></name>
+      <name><languageId>sc</languageId><trName>Lìbia</trName></name>
       <name><languageId>sd</languageId><trName>لبيا</trName></name>
       <name><languageId>se</languageId><trName>Libya</trName></name>
       <name><languageId>seh</languageId><trName>Líbia</trName></name>
@@ -30013,7 +30288,9 @@
       <name><languageId>ru</languageId><trName>Марокко</trName></name>
       <name><languageId>rwk</languageId><trName>Moroko</trName></name>
       <name><languageId>saq</languageId><trName>Moroko</trName></name>
+      <name><languageId>sat</languageId><trName>ᱢᱚᱨᱚᱠᱚ</trName></name>
       <name><languageId>sbp</languageId><trName>Moloko</trName></name>
+      <name><languageId>sc</languageId><trName>Marocu</trName></name>
       <name><languageId>sd</languageId><trName>مراڪش</trName></name>
       <name><languageId>se</languageId><trName>Marokko</trName></name>
       <name><languageId>seh</languageId><trName>Marrocos</trName></name>
@@ -30229,7 +30506,9 @@
       <name><languageId>ru</languageId><trName>Монако</trName></name>
       <name><languageId>rwk</languageId><trName>Monako</trName></name>
       <name><languageId>saq</languageId><trName>Monako</trName></name>
+      <name><languageId>sat</languageId><trName>ᱢᱚᱱᱟᱠᱚ</trName></name>
       <name><languageId>sbp</languageId><trName>Monako</trName></name>
+      <name><languageId>sc</languageId><trName>Mònacu</trName></name>
       <name><languageId>sd</languageId><trName>موناڪو</trName></name>
       <name><languageId>se</languageId><trName>Monaco</trName></name>
       <name><languageId>seh</languageId><trName>Mônaco</trName></name>
@@ -30438,7 +30717,9 @@
       <name><languageId>ru</languageId><trName>Молдова</trName></name>
       <name><languageId>rwk</languageId><trName>Moldova</trName></name>
       <name><languageId>saq</languageId><trName>Moldova</trName></name>
+      <name><languageId>sat</languageId><trName>ᱢᱚᱞᱰᱚᱣᱟ</trName></name>
       <name><languageId>sbp</languageId><trName>Molidova</trName></name>
+      <name><languageId>sc</languageId><trName>Moldàvia</trName></name>
       <name><languageId>sd</languageId><trName>مالدووا</trName></name>
       <name><languageId>se</languageId><trName>Moldávia</trName></name>
       <name><languageId>seh</languageId><trName>Moldávia</trName></name>
@@ -30609,6 +30890,8 @@
       <name><languageId>rm</languageId><trName>Montenegro</trName></name>
       <name><languageId>ro</languageId><trName>Muntenegru</trName></name>
       <name><languageId>ru</languageId><trName>Черногория</trName></name>
+      <name><languageId>sat</languageId><trName>ᱢᱚᱱᱴᱮᱱᱜᱽᱨᱚ</trName></name>
+      <name><languageId>sc</languageId><trName>Montenegro</trName></name>
       <name><languageId>sd</languageId><trName>مونٽي نيگرو</trName></name>
       <name><languageId>se</languageId><trName>Montenegro</trName></name>
       <name><languageId>si</languageId><trName>මොන්ටෙනීග්‍රෝ</trName></name>
@@ -30770,6 +31053,8 @@
       <name><languageId>rm</languageId><trName>Saint Martin</trName></name>
       <name><languageId>ro</languageId><trName>Sfântul Martin</trName></name>
       <name><languageId>ru</languageId><trName>Сен-Мартен</trName></name>
+      <name><languageId>sat</languageId><trName>ᱮᱥ ᱴᱤ ᱢᱟᱨᱴᱤᱱ</trName></name>
+      <name><languageId>sc</languageId><trName>Santu Martine</trName></name>
       <name><languageId>sd</languageId><trName>سينٽ مارٽن</trName></name>
       <name><languageId>se</languageId><trName>Frankriikka Saint Martin</trName></name>
       <name><languageId>si</languageId><trName>ශාන්ත මාර්ටින්</trName></name>
@@ -30968,7 +31253,9 @@
       <name><languageId>ru</languageId><trName>Мадагаскар</trName></name>
       <name><languageId>rwk</languageId><trName>Bukini</trName></name>
       <name><languageId>saq</languageId><trName>Bukini</trName></name>
+      <name><languageId>sat</languageId><trName>ᱢᱟᱰᱟᱜᱟᱥᱠᱚᱨ</trName></name>
       <name><languageId>sbp</languageId><trName>Bukini</trName></name>
+      <name><languageId>sc</languageId><trName>Madagascàr</trName></name>
       <name><languageId>sd</languageId><trName>مدگاسڪر</trName></name>
       <name><languageId>se</languageId><trName>Madagaskar</trName></name>
       <name><languageId>seh</languageId><trName>Madagascar</trName></name>
@@ -31178,7 +31465,9 @@
       <name><languageId>ru</languageId><trName>Маршалловы Острова</trName></name>
       <name><languageId>rwk</languageId><trName>Visiwa vya Marshal</trName></name>
       <name><languageId>saq</languageId><trName>Visiwa vya Marshal</trName></name>
+      <name><languageId>sat</languageId><trName>ᱢᱟᱨᱥᱟᱞ ᱟᱭᱞᱮᱸᱰ</trName></name>
       <name><languageId>sbp</languageId><trName>Figunguli ifya Malishali</trName></name>
+      <name><languageId>sc</languageId><trName>Ìsulas Marshall</trName></name>
       <name><languageId>sd</languageId><trName>مارشل ٻيٽ</trName></name>
       <name><languageId>se</languageId><trName>Marshallsullot</trName></name>
       <name><languageId>seh</languageId><trName>Ilhas Marshall</trName></name>
@@ -31393,7 +31682,9 @@
       <name><languageId>rw</languageId><trName>Masedoniya y’Amajyaruguru</trName></name>
       <name><languageId>rwk</languageId><trName>Masedonia</trName></name>
       <name><languageId>saq</languageId><trName>Masedonia</trName></name>
+      <name><languageId>sat</languageId><trName>ᱮᱛᱚᱢ ᱢᱟᱥᱮᱰᱚᱱᱤᱭᱟ</trName></name>
       <name><languageId>sbp</languageId><trName>Masedoniya</trName></name>
+      <name><languageId>sc</languageId><trName>Matzedònia de su Nord</trName></name>
       <name><languageId>sd</languageId><trName>اتر مقدونيا</trName></name>
       <name><languageId>se</languageId><trName>Makedonia</trName></name>
       <name><languageId>seh</languageId><trName>Macedônia</trName></name>
@@ -31614,7 +31905,9 @@
       <name><languageId>ru</languageId><trName>Мали</trName></name>
       <name><languageId>rwk</languageId><trName>Mali</trName></name>
       <name><languageId>saq</languageId><trName>Mali</trName></name>
+      <name><languageId>sat</languageId><trName>ᱢᱟᱞᱤ</trName></name>
       <name><languageId>sbp</languageId><trName>Mali</trName></name>
+      <name><languageId>sc</languageId><trName>Mali</trName></name>
       <name><languageId>sd</languageId><trName>مالي</trName></name>
       <name><languageId>se</languageId><trName>Mali</trName></name>
       <name><languageId>seh</languageId><trName>Mali</trName></name>
@@ -31828,7 +32121,9 @@
       <name><languageId>ru</languageId><trName>Мьянма (Бирма)</trName></name>
       <name><languageId>rwk</languageId><trName>Myama</trName></name>
       <name><languageId>saq</languageId><trName>Myama</trName></name>
+      <name><languageId>sat</languageId><trName>ᱢᱭᱟᱱᱢᱟᱨ (ᱵᱟᱹᱨᱢᱟ)</trName></name>
       <name><languageId>sbp</languageId><trName>Muyama</trName></name>
+      <name><languageId>sc</languageId><trName>Myanmàr (Birmània)</trName></name>
       <name><languageId>sd</languageId><trName>ميانمار (برما)</trName></name>
       <name><languageId>se</languageId><trName>Burma</trName></name>
       <name><languageId>seh</languageId><trName>Mianmar</trName></name>
@@ -32041,7 +32336,9 @@
       <name><languageId>ru</languageId><trName>Монголия</trName></name>
       <name><languageId>rwk</languageId><trName>Mongolia</trName></name>
       <name><languageId>saq</languageId><trName>Mongolia</trName></name>
+      <name><languageId>sat</languageId><trName>ᱢᱚᱝᱜᱚᱞᱤᱭᱟ</trName></name>
       <name><languageId>sbp</languageId><trName>Mongoliya</trName></name>
+      <name><languageId>sc</languageId><trName>Mongòlia</trName></name>
       <name><languageId>sd</languageId><trName>منگوليا</trName></name>
       <name><languageId>se</languageId><trName>Mongolia</trName></name>
       <name><languageId>seh</languageId><trName>Mongólia</trName></name>
@@ -32219,6 +32516,8 @@
       <name><languageId>rm</languageId><trName>Regiun d’administraziun speziala Macao, China</trName></name>
       <name><languageId>ro</languageId><trName>R.A.S. Macao, China</trName></name>
       <name><languageId>ru</languageId><trName>Макао (САР)</trName></name>
+      <name><languageId>sat</languageId><trName>ᱢᱟᱠᱟᱣ ᱥᱟᱨ ᱪᱟᱭᱱᱟ</trName></name>
+      <name><languageId>sc</languageId><trName>RAS tzinesa de Macao</trName></name>
       <name><languageId>sd</languageId><trName>مڪائو SAR چين</trName></name>
       <name><languageId>se</languageId><trName>Makáo</trName></name>
       <name><languageId>si</languageId><trName>මැකාවු විශේෂ පරිපාලන කලාපය චීනය</trName></name>
@@ -32418,7 +32717,9 @@
       <name><languageId>ru</languageId><trName>Северные Марианские о-ва</trName></name>
       <name><languageId>rwk</languageId><trName>Visiwa vya Mariana vya Kaskazini</trName></name>
       <name><languageId>saq</languageId><trName>Visiwa vya Mariana vya Kaskazini</trName></name>
+      <name><languageId>sat</languageId><trName>ᱮᱛᱚᱢ ᱢᱟᱨᱤᱭᱟᱱᱟ ᱟᱭᱞᱮᱸᱰ</trName></name>
       <name><languageId>sbp</languageId><trName>Figunguli fya Maliyana ifya luvala lwa Kunyamande</trName></name>
+      <name><languageId>sc</languageId><trName>Ìsulas Mariannas setentrionales</trName></name>
       <name><languageId>sd</languageId><trName>اتريان ماريانا ٻيٽ</trName></name>
       <name><languageId>se</languageId><trName>Davvi-Mariánat</trName></name>
       <name><languageId>seh</languageId><trName>Ilhas Marianas do Norte</trName></name>
@@ -32625,7 +32926,9 @@
       <name><languageId>ru</languageId><trName>Мартиника</trName></name>
       <name><languageId>rwk</languageId><trName>Martiniki</trName></name>
       <name><languageId>saq</languageId><trName>Martiniki</trName></name>
+      <name><languageId>sat</languageId><trName>ᱢᱟᱨᱴᱤᱱᱠᱤᱣ</trName></name>
       <name><languageId>sbp</languageId><trName>Malitiniki</trName></name>
+      <name><languageId>sc</languageId><trName>Martinica</trName></name>
       <name><languageId>sd</languageId><trName>مارتينڪ</trName></name>
       <name><languageId>se</languageId><trName>Martinique</trName></name>
       <name><languageId>seh</languageId><trName>Martinica</trName></name>
@@ -32835,7 +33138,9 @@
       <name><languageId>ru</languageId><trName>Мавритания</trName></name>
       <name><languageId>rwk</languageId><trName>Moritania</trName></name>
       <name><languageId>saq</languageId><trName>Moritania</trName></name>
+      <name><languageId>sat</languageId><trName>ᱢᱟᱣᱨᱤᱴᱟᱱᱤᱭᱟ</trName></name>
       <name><languageId>sbp</languageId><trName>Molitaniya</trName></name>
+      <name><languageId>sc</languageId><trName>Mauritània</trName></name>
       <name><languageId>sd</languageId><trName>موريتانيا</trName></name>
       <name><languageId>se</languageId><trName>Mauretánia</trName></name>
       <name><languageId>seh</languageId><trName>Mauritânia</trName></name>
@@ -33042,7 +33347,9 @@
       <name><languageId>ru</languageId><trName>Монтсеррат</trName></name>
       <name><languageId>rwk</languageId><trName>Montserrati</trName></name>
       <name><languageId>saq</languageId><trName>Montserrati</trName></name>
+      <name><languageId>sat</languageId><trName>ᱢᱚᱱᱴᱥᱮᱨᱟᱴ</trName></name>
       <name><languageId>sbp</languageId><trName>Monitiselati</trName></name>
+      <name><languageId>sc</languageId><trName>Montserrat</trName></name>
       <name><languageId>sd</languageId><trName>مونٽسراٽ</trName></name>
       <name><languageId>se</languageId><trName>Montserrat</trName></name>
       <name><languageId>seh</languageId><trName>Montserrat</trName></name>
@@ -33254,7 +33561,9 @@
       <name><languageId>ru</languageId><trName>Мальта</trName></name>
       <name><languageId>rwk</languageId><trName>Malta</trName></name>
       <name><languageId>saq</languageId><trName>Malta</trName></name>
+      <name><languageId>sat</languageId><trName>ᱢᱟᱞᱴᱟ</trName></name>
       <name><languageId>sbp</languageId><trName>Malita</trName></name>
+      <name><languageId>sc</languageId><trName>Malta</trName></name>
       <name><languageId>sd</languageId><trName>مالٽا</trName></name>
       <name><languageId>se</languageId><trName>Málta</trName></name>
       <name><languageId>seh</languageId><trName>Malta</trName></name>
@@ -33469,7 +33778,9 @@
       <name><languageId>ru</languageId><trName>Маврикий</trName></name>
       <name><languageId>rwk</languageId><trName>Morisi</trName></name>
       <name><languageId>saq</languageId><trName>Morisi</trName></name>
+      <name><languageId>sat</languageId><trName>ᱢᱚᱨᱤᱥᱟᱹᱥ</trName></name>
       <name><languageId>sbp</languageId><trName>Molisi</trName></name>
+      <name><languageId>sc</languageId><trName>Maurìtzius</trName></name>
       <name><languageId>sd</languageId><trName>موريشس</trName></name>
       <name><languageId>se</languageId><trName>Mauritius</trName></name>
       <name><languageId>seh</languageId><trName>Maurício</trName></name>
@@ -33683,7 +33994,9 @@
       <name><languageId>ru</languageId><trName>Мальдивы</trName></name>
       <name><languageId>rwk</languageId><trName>Modivu</trName></name>
       <name><languageId>saq</languageId><trName>Modivu</trName></name>
+      <name><languageId>sat</languageId><trName>ᱢᱟᱞᱰᱤᱵᱷᱥ</trName></name>
       <name><languageId>sbp</languageId><trName>Modivu</trName></name>
+      <name><languageId>sc</languageId><trName>Maldivas</trName></name>
       <name><languageId>sd</languageId><trName>مالديپ</trName></name>
       <name><languageId>se</languageId><trName>Malediivvat</trName></name>
       <name><languageId>seh</languageId><trName>Maldivas</trName></name>
@@ -33897,7 +34210,9 @@
       <name><languageId>ru</languageId><trName>Малави</trName></name>
       <name><languageId>rwk</languageId><trName>Malawi</trName></name>
       <name><languageId>saq</languageId><trName>Malawi</trName></name>
+      <name><languageId>sat</languageId><trName>ᱢᱟᱹᱞᱟᱣᱤ</trName></name>
       <name><languageId>sbp</languageId><trName>Malawi</trName></name>
+      <name><languageId>sc</languageId><trName>Malawi</trName></name>
       <name><languageId>sd</languageId><trName>مالاوي</trName></name>
       <name><languageId>se</languageId><trName>Malawi</trName></name>
       <name><languageId>seh</languageId><trName>Malawi</trName></name>
@@ -34118,7 +34433,9 @@
       <name><languageId>rwk</languageId><trName>Meksiko</trName></name>
       <name><languageId>sah</languageId><trName>Миэксикэ</trName></name>
       <name><languageId>saq</languageId><trName>Meksiko</trName></name>
+      <name><languageId>sat</languageId><trName>ᱢᱮᱠᱥᱤᱠᱚ</trName></name>
       <name><languageId>sbp</languageId><trName>Mekisiko</trName></name>
+      <name><languageId>sc</languageId><trName>Mèssicu</trName></name>
       <name><languageId>sd</languageId><trName>ميڪسيڪو</trName></name>
       <name><languageId>se</languageId><trName>Meksiko</trName></name>
       <name><languageId>seh</languageId><trName>México</trName></name>
@@ -34346,7 +34663,9 @@
       <name><languageId>ru</languageId><trName>Малайзия</trName></name>
       <name><languageId>rwk</languageId><trName>Malesia</trName></name>
       <name><languageId>saq</languageId><trName>Malesia</trName></name>
+      <name><languageId>sat</languageId><trName>ᱢᱟᱹᱞᱮᱥᱤᱭᱟ</trName></name>
       <name><languageId>sbp</languageId><trName>Malesiya</trName></name>
+      <name><languageId>sc</languageId><trName>Malèsia</trName></name>
       <name><languageId>sd</languageId><trName>ملائيشيا</trName></name>
       <name><languageId>se</languageId><trName>Malesia</trName></name>
       <name><languageId>seh</languageId><trName>Malásia</trName></name>
@@ -34563,7 +34882,9 @@
       <name><languageId>ru</languageId><trName>Мозамбик</trName></name>
       <name><languageId>rwk</languageId><trName>Msumbiji</trName></name>
       <name><languageId>saq</languageId><trName>Msumbiji</trName></name>
+      <name><languageId>sat</languageId><trName>ᱢᱚᱡᱟᱢᱵᱤᱠ</trName></name>
       <name><languageId>sbp</languageId><trName>Musumbiji</trName></name>
+      <name><languageId>sc</languageId><trName>Mozambicu</trName></name>
       <name><languageId>sd</languageId><trName>موزمبیق</trName></name>
       <name><languageId>se</languageId><trName>Mosambik</trName></name>
       <name><languageId>seh</languageId><trName>Moçambique</trName></name>
@@ -34776,7 +35097,9 @@
       <name><languageId>ru</languageId><trName>Намибия</trName></name>
       <name><languageId>rwk</languageId><trName>Namibia</trName></name>
       <name><languageId>saq</languageId><trName>Namibia</trName></name>
+      <name><languageId>sat</languageId><trName>ᱱᱟᱢᱤᱵᱤᱭᱟ</trName></name>
       <name><languageId>sbp</languageId><trName>Namibiya</trName></name>
+      <name><languageId>sc</languageId><trName>Namìbia</trName></name>
       <name><languageId>sd</languageId><trName>نيميبيا</trName></name>
       <name><languageId>se</languageId><trName>Namibia</trName></name>
       <name><languageId>seh</languageId><trName>Namíbia</trName></name>
@@ -34986,7 +35309,9 @@
       <name><languageId>ru</languageId><trName>Новая Каледония</trName></name>
       <name><languageId>rwk</languageId><trName>Nyukaledonia</trName></name>
       <name><languageId>saq</languageId><trName>Nyukaledonia</trName></name>
+      <name><languageId>sat</languageId><trName>ᱱᱟᱶᱟ ᱠᱟᱞᱮᱰᱚᱱᱤᱭᱟ</trName></name>
       <name><languageId>sbp</languageId><trName>Nyukaledoniya</trName></name>
+      <name><languageId>sc</languageId><trName>Caledònia Noa</trName></name>
       <name><languageId>sd</languageId><trName>نیو ڪالیڊونیا</trName></name>
       <name><languageId>se</languageId><trName>Ođđa-Kaledonia</trName></name>
       <name><languageId>seh</languageId><trName>Nova Caledônia</trName></name>
@@ -35197,7 +35522,9 @@
       <name><languageId>ru</languageId><trName>Нигер</trName></name>
       <name><languageId>rwk</languageId><trName>Nijeri</trName></name>
       <name><languageId>saq</languageId><trName>Nijeri</trName></name>
+      <name><languageId>sat</languageId><trName>ᱱᱟᱭᱡᱟᱹᱨ</trName></name>
       <name><languageId>sbp</languageId><trName>Nijeli</trName></name>
+      <name><languageId>sc</languageId><trName>Niger</trName></name>
       <name><languageId>sd</languageId><trName>نائيجر</trName></name>
       <name><languageId>se</languageId><trName>Niger</trName></name>
       <name><languageId>seh</languageId><trName>Níger</trName></name>
@@ -35409,7 +35736,9 @@
       <name><languageId>ru</languageId><trName>о-в Норфолк</trName></name>
       <name><languageId>rwk</languageId><trName>Kisiwa cha Norfok</trName></name>
       <name><languageId>saq</languageId><trName>Kisiwa cha Norfok</trName></name>
+      <name><languageId>sat</languageId><trName>ᱱᱚᱨᱯᱷᱚᱞᱠ ᱟᱭᱞᱮᱸᱰ</trName></name>
       <name><languageId>sbp</languageId><trName>Shigunguli sha Nolifoki</trName></name>
+      <name><languageId>sc</languageId><trName>Ìsula Norfolk</trName></name>
       <name><languageId>sd</languageId><trName>نورفوڪ ٻيٽ</trName></name>
       <name><languageId>se</languageId><trName>Norfolksullot</trName></name>
       <name><languageId>seh</languageId><trName>Ilhas Norfolk</trName></name>
@@ -35621,7 +35950,9 @@
       <name><languageId>ru</languageId><trName>Нигерия</trName></name>
       <name><languageId>rwk</languageId><trName>Nijeria</trName></name>
       <name><languageId>saq</languageId><trName>Nijeria</trName></name>
+      <name><languageId>sat</languageId><trName>ᱱᱟᱭᱡᱮᱨᱤᱭᱟ</trName></name>
       <name><languageId>sbp</languageId><trName>Nijeliya</trName></name>
+      <name><languageId>sc</languageId><trName>Nigèria</trName></name>
       <name><languageId>sd</languageId><trName>نائيجيريا</trName></name>
       <name><languageId>se</languageId><trName>Nigeria</trName></name>
       <name><languageId>seh</languageId><trName>Nigéria</trName></name>
@@ -35846,7 +36177,9 @@
       <name><languageId>ru</languageId><trName>Никарагуа</trName></name>
       <name><languageId>rwk</languageId><trName>Nikaragwa</trName></name>
       <name><languageId>saq</languageId><trName>Nikaragwa</trName></name>
+      <name><languageId>sat</languageId><trName>ᱱᱤᱠᱟᱨᱟᱜᱩᱣᱟ</trName></name>
       <name><languageId>sbp</languageId><trName>Nikalagwa</trName></name>
+      <name><languageId>sc</languageId><trName>Nicaràgua</trName></name>
       <name><languageId>sd</languageId><trName>نڪراگوا</trName></name>
       <name><languageId>se</languageId><trName>Nicaragua</trName></name>
       <name><languageId>seh</languageId><trName>Nicarágua</trName></name>
@@ -36062,7 +36395,9 @@
       <name><languageId>ru</languageId><trName>Нидерланды</trName></name>
       <name><languageId>rwk</languageId><trName>Uholanzi</trName></name>
       <name><languageId>saq</languageId><trName>Uholanzi</trName></name>
+      <name><languageId>sat</languageId><trName>ᱱᱮᱫᱚᱨᱞᱮᱸᱰ</trName></name>
       <name><languageId>sbp</languageId><trName>Wuholansi</trName></name>
+      <name><languageId>sc</languageId><trName>Paisos Bassos</trName></name>
       <name><languageId>sd</languageId><trName>نيدرلينڊ</trName></name>
       <name><languageId>se</languageId><trName>Vuolleeatnamat</trName></name>
       <name><languageId>seh</languageId><trName>Holanda</trName></name>
@@ -36288,7 +36623,9 @@
       <name><languageId>rwk</languageId><trName>Norwe</trName></name>
       <name><languageId>sah</languageId><trName>Норвегия</trName></name>
       <name><languageId>saq</languageId><trName>Norwe</trName></name>
+      <name><languageId>sat</languageId><trName>ᱱᱚᱨᱣᱮ</trName></name>
       <name><languageId>sbp</languageId><trName>Nolwe</trName></name>
+      <name><languageId>sc</languageId><trName>Norvègia</trName></name>
       <name><languageId>sd</languageId><trName>ناروي</trName></name>
       <name><languageId>se</languageId><trName>Norga</trName></name>
       <name><languageId>seh</languageId><trName>Noruega</trName></name>
@@ -36509,7 +36846,9 @@
       <name><languageId>ru</languageId><trName>Непал</trName></name>
       <name><languageId>rwk</languageId><trName>Nepali</trName></name>
       <name><languageId>saq</languageId><trName>Nepali</trName></name>
+      <name><languageId>sat</languageId><trName>ᱱᱮᱯᱟᱞ</trName></name>
       <name><languageId>sbp</languageId><trName>Nepali</trName></name>
+      <name><languageId>sc</languageId><trName>Nèpal</trName></name>
       <name><languageId>sd</languageId><trName>نيپال</trName></name>
       <name><languageId>se</languageId><trName>Nepal</trName></name>
       <name><languageId>seh</languageId><trName>Nepal</trName></name>
@@ -36729,7 +37068,9 @@
       <name><languageId>ru</languageId><trName>Науру</trName></name>
       <name><languageId>rwk</languageId><trName>Nauru</trName></name>
       <name><languageId>saq</languageId><trName>Nauru</trName></name>
+      <name><languageId>sat</languageId><trName>ᱱᱟᱶᱨᱩ</trName></name>
       <name><languageId>sbp</languageId><trName>Nawulu</trName></name>
+      <name><languageId>sc</languageId><trName>Nauru</trName></name>
       <name><languageId>sd</languageId><trName>نائورو</trName></name>
       <name><languageId>se</languageId><trName>Nauru</trName></name>
       <name><languageId>seh</languageId><trName>Nauru</trName></name>
@@ -36941,7 +37282,9 @@
       <name><languageId>ru</languageId><trName>Ниуэ</trName></name>
       <name><languageId>rwk</languageId><trName>Niue</trName></name>
       <name><languageId>saq</languageId><trName>Niue</trName></name>
+      <name><languageId>sat</languageId><trName>ᱱᱟᱭᱩ</trName></name>
       <name><languageId>sbp</languageId><trName>Niwue</trName></name>
+      <name><languageId>sc</languageId><trName>Niue</trName></name>
       <name><languageId>sd</languageId><trName>نووي</trName></name>
       <name><languageId>se</languageId><trName>Niue</trName></name>
       <name><languageId>seh</languageId><trName>Niue</trName></name>
@@ -37154,7 +37497,9 @@
       <name><languageId>ru</languageId><trName>Новая Зеландия</trName></name>
       <name><languageId>rwk</languageId><trName>Nyuzilandi</trName></name>
       <name><languageId>saq</languageId><trName>Nyuzilandi</trName></name>
+      <name><languageId>sat</languageId><trName>ᱱᱤᱭᱩ ᱡᱤᱞᱮᱸᱰ</trName></name>
       <name><languageId>sbp</languageId><trName>Nyusilendi</trName></name>
+      <name><languageId>sc</languageId><trName>Zelanda Noa</trName></name>
       <name><languageId>sd</languageId><trName>نيو زيلينڊ</trName></name>
       <name><languageId>se</languageId><trName>Ođđa-Selánda</trName></name>
       <name><languageId>seh</languageId><trName>Nova Zelândia</trName></name>
@@ -37373,7 +37718,9 @@
       <name><languageId>ru</languageId><trName>Оман</trName></name>
       <name><languageId>rwk</languageId><trName>Omani</trName></name>
       <name><languageId>saq</languageId><trName>Omani</trName></name>
+      <name><languageId>sat</languageId><trName>ᱳᱢᱟᱱ</trName></name>
       <name><languageId>sbp</languageId><trName>Omani</trName></name>
+      <name><languageId>sc</languageId><trName>Omàn</trName></name>
       <name><languageId>sd</languageId><trName>عمان</trName></name>
       <name><languageId>se</languageId><trName>Oman</trName></name>
       <name><languageId>seh</languageId><trName>Omã</trName></name>
@@ -37586,7 +37933,9 @@
       <name><languageId>ru</languageId><trName>Панама</trName></name>
       <name><languageId>rwk</languageId><trName>Panama</trName></name>
       <name><languageId>saq</languageId><trName>Panama</trName></name>
+      <name><languageId>sat</languageId><trName>ᱯᱟᱱᱟᱢᱟ</trName></name>
       <name><languageId>sbp</languageId><trName>Panama</trName></name>
+      <name><languageId>sc</languageId><trName>Pànama</trName></name>
       <name><languageId>sd</languageId><trName>پناما</trName></name>
       <name><languageId>se</languageId><trName>Panama</trName></name>
       <name><languageId>seh</languageId><trName>Panamá</trName></name>
@@ -37803,7 +38152,9 @@
       <name><languageId>ru</languageId><trName>Перу</trName></name>
       <name><languageId>rwk</languageId><trName>Peru</trName></name>
       <name><languageId>saq</languageId><trName>Peru</trName></name>
+      <name><languageId>sat</languageId><trName>ᱯᱮᱨᱩ</trName></name>
       <name><languageId>sbp</languageId><trName>Pelu</trName></name>
+      <name><languageId>sc</languageId><trName>Perù</trName></name>
       <name><languageId>sd</languageId><trName>پيرو</trName></name>
       <name><languageId>se</languageId><trName>Peru</trName></name>
       <name><languageId>seh</languageId><trName>Peru</trName></name>
@@ -38019,7 +38370,9 @@
       <name><languageId>ru</languageId><trName>Французская Полинезия</trName></name>
       <name><languageId>rwk</languageId><trName>Polinesia ya Ufaransa</trName></name>
       <name><languageId>saq</languageId><trName>Polinesia ya Ufaransa</trName></name>
+      <name><languageId>sat</languageId><trName>ᱯᱷᱨᱮᱧᱪ ᱯᱚᱞᱤᱱᱮᱥᱤᱭᱟ</trName></name>
       <name><languageId>sbp</languageId><trName>Polinesiya ya Wufalansa</trName></name>
+      <name><languageId>sc</languageId><trName>Polinèsia frantzesa</trName></name>
       <name><languageId>sd</languageId><trName>فرانسيسي پولينيشيا</trName></name>
       <name><languageId>se</languageId><trName>Frankriikka Polynesia</trName></name>
       <name><languageId>seh</languageId><trName>Polinésia Francesa</trName></name>
@@ -38231,7 +38584,9 @@
       <name><languageId>ru</languageId><trName>Папуа — Новая Гвинея</trName></name>
       <name><languageId>rwk</languageId><trName>Papua</trName></name>
       <name><languageId>saq</languageId><trName>Papua</trName></name>
+      <name><languageId>sat</languageId><trName>ᱯᱟᱹᱯᱩᱣᱟ ᱱᱟᱶᱟ ᱡᱤᱱᱤᱭᱟ</trName></name>
       <name><languageId>sbp</languageId><trName>Papuwa</trName></name>
+      <name><languageId>sc</languageId><trName>Pàpua Guinea Noa</trName></name>
       <name><languageId>sd</languageId><trName>پاپوا نیو گني</trName></name>
       <name><languageId>se</languageId><trName>Papua-Ođđa-Guinea</trName></name>
       <name><languageId>seh</languageId><trName>Papua-Nova Guiné</trName></name>
@@ -38450,7 +38805,9 @@
       <name><languageId>ru</languageId><trName>Филиппины</trName></name>
       <name><languageId>rwk</languageId><trName>Filipino</trName></name>
       <name><languageId>saq</languageId><trName>Filipino</trName></name>
+      <name><languageId>sat</languageId><trName>ᱯᱷᱤᱞᱤᱯᱤᱱᱥ</trName></name>
       <name><languageId>sbp</languageId><trName>Filipino</trName></name>
+      <name><languageId>sc</languageId><trName>Filipinas</trName></name>
       <name><languageId>sd</languageId><trName>فلپائن</trName></name>
       <name><languageId>se</languageId><trName>Filippiinnat</trName></name>
       <name><languageId>seh</languageId><trName>Filipinas</trName></name>
@@ -38672,7 +39029,9 @@
       <name><languageId>ru</languageId><trName>Пакистан</trName></name>
       <name><languageId>rwk</languageId><trName>Pakistani</trName></name>
       <name><languageId>saq</languageId><trName>Pakistani</trName></name>
+      <name><languageId>sat</languageId><trName>ᱯᱟᱠᱮᱥᱛᱟᱱ</trName></name>
       <name><languageId>sbp</languageId><trName>Pakisitani</trName></name>
+      <name><languageId>sc</languageId><trName>Pàkistan</trName></name>
       <name><languageId>sd</languageId><trName>پاڪستان</trName></name>
       <name><languageId>se</languageId><trName>Pakistan</trName></name>
       <name><languageId>seh</languageId><trName>Paquistão</trName></name>
@@ -38889,7 +39248,9 @@
       <name><languageId>ru</languageId><trName>Польша</trName></name>
       <name><languageId>rwk</languageId><trName>Polandi</trName></name>
       <name><languageId>saq</languageId><trName>Polandi</trName></name>
+      <name><languageId>sat</languageId><trName>ᱯᱚᱞᱮᱸᱰ</trName></name>
       <name><languageId>sbp</languageId><trName>Polandi</trName></name>
+      <name><languageId>sc</languageId><trName>Polònia</trName></name>
       <name><languageId>sd</languageId><trName>پولينڊ</trName></name>
       <name><languageId>se</languageId><trName>Polen</trName></name>
       <name><languageId>seh</languageId><trName>Polônia</trName></name>
@@ -39107,7 +39468,9 @@
       <name><languageId>ru</languageId><trName>Сен-Пьер и Микелон</trName></name>
       <name><languageId>rwk</languageId><trName>Santapieri na Mikeloni</trName></name>
       <name><languageId>saq</languageId><trName>Santapieri na Mikeloni</trName></name>
+      <name><languageId>sat</languageId><trName>ᱮᱥ ᱴᱤ ᱯᱟᱭᱨᱮ ᱟᱨ ᱢᱤᱠᱣᱮᱞᱮᱱ</trName></name>
       <name><languageId>sbp</languageId><trName>Santapieli ni Mikeloni</trName></name>
+      <name><languageId>sc</languageId><trName>Santu Predu e Miquelon</trName></name>
       <name><languageId>sd</languageId><trName>سینٽ پیئر و میڪوئیلون</trName></name>
       <name><languageId>se</languageId><trName>Saint Pierre ja Miquelon</trName></name>
       <name><languageId>seh</languageId><trName>Saint Pierre e Miquelon</trName></name>
@@ -39314,7 +39677,9 @@
       <name><languageId>ru</languageId><trName>о-ва Питкэрн</trName></name>
       <name><languageId>rwk</languageId><trName>Pitkairni</trName></name>
       <name><languageId>saq</languageId><trName>Pitkairni</trName></name>
+      <name><languageId>sat</languageId><trName>ᱯᱤᱴᱠᱮᱨᱱ ᱟᱭᱞᱮᱸᱰ</trName></name>
       <name><languageId>sbp</languageId><trName>Pitikailini</trName></name>
+      <name><languageId>sc</languageId><trName>Ìsulas Pìtcairn</trName></name>
       <name><languageId>sd</languageId><trName>پٽڪئرن ٻيٽ</trName></name>
       <name><languageId>se</languageId><trName>Pitcairn</trName></name>
       <name><languageId>seh</languageId><trName>Pitcairn</trName></name>
@@ -39526,7 +39891,9 @@
       <name><languageId>ru</languageId><trName>Пуэрто-Рико</trName></name>
       <name><languageId>rwk</languageId><trName>Pwetoriko</trName></name>
       <name><languageId>saq</languageId><trName>Pwetoriko</trName></name>
+      <name><languageId>sat</languageId><trName>ᱯᱩᱣᱮᱨᱴᱚ ᱨᱤᱠᱚ</trName></name>
       <name><languageId>sbp</languageId><trName>Pwetoliko</trName></name>
+      <name><languageId>sc</languageId><trName>Puerto Rico</trName></name>
       <name><languageId>sd</languageId><trName>پيوئرٽو ريڪو</trName></name>
       <name><languageId>se</languageId><trName>Puerto Rico</trName></name>
       <name><languageId>seh</languageId><trName>Porto Rico</trName></name>
@@ -39735,7 +40102,9 @@
       <name><languageId>ru</languageId><trName>Палестинские территории</trName></name>
       <name><languageId>rwk</languageId><trName>Ukingo wa Magharibi na Ukanda wa Gaza wa Palestina</trName></name>
       <name><languageId>saq</languageId><trName>Ukingo wa Magharibi na Ukanda wa Gaza wa Palestina</trName></name>
+      <name><languageId>sat</languageId><trName>ᱯᱟᱞᱮᱥᱴᱤᱱᱤᱭᱟᱹᱱ ᱡᱟᱭᱜᱟ</trName></name>
       <name><languageId>sbp</languageId><trName>Munjema gwa Kusikha nu Luvala lwa Gasa lwa Palesit</trName></name>
+      <name><languageId>sc</languageId><trName>Territòrios palestinesos</trName></name>
       <name><languageId>sd</languageId><trName>فلسطيني علائقا</trName></name>
       <name><languageId>se</languageId><trName>Palestina</trName></name>
       <name><languageId>seh</languageId><trName>Território da Palestina</trName></name>
@@ -39940,7 +40309,9 @@
       <name><languageId>ru</languageId><trName>Португалия</trName></name>
       <name><languageId>rwk</languageId><trName>Ureno</trName></name>
       <name><languageId>saq</languageId><trName>Ureno</trName></name>
+      <name><languageId>sat</languageId><trName>ᱯᱚᱨᱛᱩᱜᱟᱞ</trName></name>
       <name><languageId>sbp</languageId><trName>Wuleno</trName></name>
+      <name><languageId>sc</languageId><trName>Portogallu</trName></name>
       <name><languageId>sd</languageId><trName>پرتگال</trName></name>
       <name><languageId>se</languageId><trName>Portugála</trName></name>
       <name><languageId>seh</languageId><trName>Portugal</trName></name>
@@ -40155,7 +40526,9 @@
       <name><languageId>ru</languageId><trName>Палау</trName></name>
       <name><languageId>rwk</languageId><trName>Palau</trName></name>
       <name><languageId>saq</languageId><trName>Palau</trName></name>
+      <name><languageId>sat</languageId><trName>ᱯᱟᱞᱟᱣ</trName></name>
       <name><languageId>sbp</languageId><trName>Palawu</trName></name>
+      <name><languageId>sc</languageId><trName>Palau</trName></name>
       <name><languageId>sd</languageId><trName>پلائو</trName></name>
       <name><languageId>se</languageId><trName>Palau</trName></name>
       <name><languageId>seh</languageId><trName>Palau</trName></name>
@@ -40367,7 +40740,9 @@
       <name><languageId>ru</languageId><trName>Парагвай</trName></name>
       <name><languageId>rwk</languageId><trName>Paragwai</trName></name>
       <name><languageId>saq</languageId><trName>Paragwai</trName></name>
+      <name><languageId>sat</languageId><trName>ᱯᱟᱨᱟᱜᱩᱣᱮ</trName></name>
       <name><languageId>sbp</languageId><trName>Palagwayi</trName></name>
+      <name><languageId>sc</languageId><trName>Paraguày</trName></name>
       <name><languageId>sd</languageId><trName>پيراگوءِ</trName></name>
       <name><languageId>se</languageId><trName>Paraguay</trName></name>
       <name><languageId>seh</languageId><trName>Paraguai</trName></name>
@@ -40579,7 +40954,9 @@
       <name><languageId>ru</languageId><trName>Катар</trName></name>
       <name><languageId>rwk</languageId><trName>Katari</trName></name>
       <name><languageId>saq</languageId><trName>Katari</trName></name>
+      <name><languageId>sat</languageId><trName>ᱠᱚᱛᱚᱨ</trName></name>
       <name><languageId>sbp</languageId><trName>Katali</trName></name>
+      <name><languageId>sc</languageId><trName>Catar</trName></name>
       <name><languageId>sd</languageId><trName>قطر</trName></name>
       <name><languageId>se</languageId><trName>Qatar</trName></name>
       <name><languageId>seh</languageId><trName>Catar</trName></name>
@@ -40792,7 +41169,9 @@
       <name><languageId>ru</languageId><trName>Реюньон</trName></name>
       <name><languageId>rwk</languageId><trName>Riyunioni</trName></name>
       <name><languageId>saq</languageId><trName>Riyunioni</trName></name>
+      <name><languageId>sat</languageId><trName>ᱨᱤᱭᱩᱱᱤᱭᱟᱹᱱ</trName></name>
       <name><languageId>sbp</languageId><trName>Liyunioni</trName></name>
+      <name><languageId>sc</languageId><trName>Riunione</trName></name>
       <name><languageId>sd</languageId><trName>ري يونين</trName></name>
       <name><languageId>se</languageId><trName>Réunion</trName></name>
       <name><languageId>seh</languageId><trName>Reunião</trName></name>
@@ -41004,7 +41383,9 @@
       <name><languageId>ru</languageId><trName>Румыния</trName></name>
       <name><languageId>rwk</languageId><trName>Romania</trName></name>
       <name><languageId>saq</languageId><trName>Romania</trName></name>
+      <name><languageId>sat</languageId><trName>ᱨᱚᱢᱟᱱᱤᱭᱟ</trName></name>
       <name><languageId>sbp</languageId><trName>Lomaniya</trName></name>
+      <name><languageId>sc</languageId><trName>Romania</trName></name>
       <name><languageId>sd</languageId><trName>رومانيا</trName></name>
       <name><languageId>se</languageId><trName>Románia</trName></name>
       <name><languageId>seh</languageId><trName>Romênia</trName></name>
@@ -41179,6 +41560,8 @@
       <name><languageId>rm</languageId><trName>Serbia</trName></name>
       <name><languageId>ro</languageId><trName>Serbia</trName></name>
       <name><languageId>ru</languageId><trName>Сербия</trName></name>
+      <name><languageId>sat</languageId><trName>ᱥᱟᱹᱨᱵᱤᱭᱟ</trName></name>
+      <name><languageId>sc</languageId><trName>Sèrbia</trName></name>
       <name><languageId>sd</languageId><trName>سربيا</trName></name>
       <name><languageId>se</languageId><trName>Serbia</trName></name>
       <name><languageId>si</languageId><trName>සර්බියාව</trName></name>
@@ -41399,6 +41782,7 @@
       <name><languageId>saq</languageId><trName>Urusi</trName></name>
       <name><languageId>sat</languageId><trName>ᱨᱩᱥ</trName></name>
       <name><languageId>sbp</languageId><trName>Wulusi</trName></name>
+      <name><languageId>sc</languageId><trName>Rùssia</trName></name>
       <name><languageId>sd</languageId><trName>روس</trName></name>
       <name><languageId>sd_Deva</languageId><trName>रशिया</trName></name>
       <name><languageId>se</languageId><trName>Ruošša</trName></name>
@@ -41651,7 +42035,9 @@
       <name><languageId>rw</languageId><trName>U Rwanda</trName></name>
       <name><languageId>rwk</languageId><trName>Rwanda</trName></name>
       <name><languageId>saq</languageId><trName>Rwanda</trName></name>
+      <name><languageId>sat</languageId><trName>ᱨᱟᱹᱣᱟᱹᱱᱰᱟ</trName></name>
       <name><languageId>sbp</languageId><trName>Lwanda</trName></name>
+      <name><languageId>sc</languageId><trName>Ruanda</trName></name>
       <name><languageId>sd</languageId><trName>روانڊا</trName></name>
       <name><languageId>se</languageId><trName>Rwanda</trName></name>
       <name><languageId>seh</languageId><trName>Ruanda</trName></name>
@@ -41867,7 +42253,9 @@
       <name><languageId>ru</languageId><trName>Саудовская Аравия</trName></name>
       <name><languageId>rwk</languageId><trName>Saudi</trName></name>
       <name><languageId>saq</languageId><trName>Saudi</trName></name>
+      <name><languageId>sat</languageId><trName>ᱥᱟᱹᱣᱫᱤ ᱚᱨᱚᱵ</trName></name>
       <name><languageId>sbp</languageId><trName>Sawudi</trName></name>
+      <name><languageId>sc</languageId><trName>Aràbia Saudita</trName></name>
       <name><languageId>sd</languageId><trName>سعودي عرب</trName></name>
       <name><languageId>se</languageId><trName>Saudi-Arábia</trName></name>
       <name><languageId>seh</languageId><trName>Arábia Saudita</trName></name>
@@ -42079,7 +42467,9 @@
       <name><languageId>ru</languageId><trName>Соломоновы Острова</trName></name>
       <name><languageId>rwk</languageId><trName>Visiwa vya Solomon</trName></name>
       <name><languageId>saq</languageId><trName>Visiwa vya Solomon</trName></name>
+      <name><languageId>sat</languageId><trName>ᱥᱚᱞᱚᱢᱚᱱ ᱟᱭᱞᱮᱸᱰ</trName></name>
       <name><languageId>sbp</languageId><trName>Figunguli fya Solomoni</trName></name>
+      <name><languageId>sc</languageId><trName>Ìsulas Salomone</trName></name>
       <name><languageId>sd</languageId><trName>سولومون ٻيٽَ</trName></name>
       <name><languageId>se</languageId><trName>Salomon-sullot</trName></name>
       <name><languageId>seh</languageId><trName>Ilhas Salomão</trName></name>
@@ -42290,7 +42680,9 @@
       <name><languageId>ru</languageId><trName>Сейшельские Острова</trName></name>
       <name><languageId>rwk</languageId><trName>Shelisheli</trName></name>
       <name><languageId>saq</languageId><trName>Shelisheli</trName></name>
+      <name><languageId>sat</languageId><trName>ᱥᱮᱥᱮᱞᱥ</trName></name>
       <name><languageId>sbp</languageId><trName>Shelisheli</trName></name>
+      <name><languageId>sc</languageId><trName>Seychelles</trName></name>
       <name><languageId>sd</languageId><trName>شي شلز</trName></name>
       <name><languageId>se</languageId><trName>Seychellsullot</trName></name>
       <name><languageId>seh</languageId><trName>Seychelles</trName></name>
@@ -42509,7 +42901,9 @@
       <name><languageId>rwk</languageId><trName>Sudani</trName></name>
       <name><languageId>sah</languageId><trName>Судаан</trName></name>
       <name><languageId>saq</languageId><trName>Sudani</trName></name>
+      <name><languageId>sat</languageId><trName>ᱥᱩᱫᱟᱱ</trName></name>
       <name><languageId>sbp</languageId><trName>Sudani</trName></name>
+      <name><languageId>sc</languageId><trName>Sudàn</trName></name>
       <name><languageId>sd</languageId><trName>سوڊان</trName></name>
       <name><languageId>se</languageId><trName>Davvisudan</trName></name>
       <name><languageId>seh</languageId><trName>Sudão</trName></name>
@@ -42726,7 +43120,9 @@
       <name><languageId>rwk</languageId><trName>Uswidi</trName></name>
       <name><languageId>sah</languageId><trName>Швеция</trName></name>
       <name><languageId>saq</languageId><trName>Uswidi</trName></name>
+      <name><languageId>sat</languageId><trName>ᱥᱣᱤᱰᱮᱱ</trName></name>
       <name><languageId>sbp</languageId><trName>Uswidi</trName></name>
+      <name><languageId>sc</languageId><trName>Isvètzia</trName></name>
       <name><languageId>sd</languageId><trName>سوئيڊن</trName></name>
       <name><languageId>se</languageId><trName>Ruoŧŧa</trName></name>
       <name><languageId>seh</languageId><trName>Suécia</trName></name>
@@ -42942,7 +43338,9 @@
       <name><languageId>ru</languageId><trName>Сингапур</trName></name>
       <name><languageId>rwk</languageId><trName>Singapoo</trName></name>
       <name><languageId>saq</languageId><trName>Singapoo</trName></name>
+      <name><languageId>sat</languageId><trName>ᱥᱤᱝᱜᱟᱯᱩᱨ</trName></name>
       <name><languageId>sbp</languageId><trName>Singapoo</trName></name>
+      <name><languageId>sc</languageId><trName>Singapore</trName></name>
       <name><languageId>sd</languageId><trName>سنگاپور</trName></name>
       <name><languageId>se</languageId><trName>Singapore</trName></name>
       <name><languageId>seh</languageId><trName>Cingapura</trName></name>
@@ -43160,7 +43558,9 @@
       <name><languageId>ru</languageId><trName>о-в Св. Елены</trName></name>
       <name><languageId>rwk</languageId><trName>Santahelena</trName></name>
       <name><languageId>saq</languageId><trName>Santahelena</trName></name>
+      <name><languageId>sat</languageId><trName>ᱮᱥ ᱴᱤ ᱦᱮᱞᱮᱱᱟ</trName></name>
       <name><languageId>sbp</languageId><trName>Santahelena</trName></name>
+      <name><languageId>sc</languageId><trName>Santa Elene</trName></name>
       <name><languageId>sd</languageId><trName>سينٽ ھيلينا</trName></name>
       <name><languageId>se</languageId><trName>Saint Helena</trName></name>
       <name><languageId>seh</languageId><trName>Santa Helena</trName></name>
@@ -43372,7 +43772,9 @@
       <name><languageId>ru</languageId><trName>Словения</trName></name>
       <name><languageId>rwk</languageId><trName>Slovenia</trName></name>
       <name><languageId>saq</languageId><trName>Slovenia</trName></name>
+      <name><languageId>sat</languageId><trName>ᱥᱞᱚᱣᱮᱱᱤᱭᱟ</trName></name>
       <name><languageId>sbp</languageId><trName>Siloveniya</trName></name>
+      <name><languageId>sc</languageId><trName>Islovènia</trName></name>
       <name><languageId>sd</languageId><trName>سلوینیا</trName></name>
       <name><languageId>se</languageId><trName>Slovenia</trName></name>
       <name><languageId>seh</languageId><trName>Eslovênia</trName></name>
@@ -43545,6 +43947,8 @@
       <name><languageId>rm</languageId><trName>Svalbard e Jan Mayen</trName></name>
       <name><languageId>ro</languageId><trName>Svalbard și Jan Mayen</trName></name>
       <name><languageId>ru</languageId><trName>Шпицберген и Ян-Майен</trName></name>
+      <name><languageId>sat</languageId><trName>ᱥᱣᱟᱞᱵᱟᱰ ᱟᱨ ᱡᱟᱱ ᱢᱟᱭᱮᱱ</trName></name>
+      <name><languageId>sc</languageId><trName>Svalbard e Jan Mayen</trName></name>
       <name><languageId>sd</languageId><trName>سوالبارڊ ۽ جان ماین</trName></name>
       <name><languageId>se</languageId><trName>Svalbárda ja Jan Mayen</trName></name>
       <name><languageId>si</languageId><trName>ස්වෙල්බර්ඩ් සහ ජේන් මයේන්</trName></name>
@@ -43745,7 +44149,9 @@
       <name><languageId>ru</languageId><trName>Словакия</trName></name>
       <name><languageId>rwk</languageId><trName>Slovakia</trName></name>
       <name><languageId>saq</languageId><trName>Slovakia</trName></name>
+      <name><languageId>sat</languageId><trName>ᱥᱞᱚᱣᱮᱠᱤᱭᱟ</trName></name>
       <name><languageId>sbp</languageId><trName>Silovakiya</trName></name>
+      <name><languageId>sc</languageId><trName>Islovàchia</trName></name>
       <name><languageId>sd</languageId><trName>سلوواڪيا</trName></name>
       <name><languageId>se</languageId><trName>Slovákia</trName></name>
       <name><languageId>seh</languageId><trName>Eslováquia</trName></name>
@@ -43960,7 +44366,9 @@
       <name><languageId>ru</languageId><trName>Сьерра-Леоне</trName></name>
       <name><languageId>rwk</languageId><trName>Siera Leoni</trName></name>
       <name><languageId>saq</languageId><trName>Siera Leoni</trName></name>
+      <name><languageId>sat</languageId><trName>ᱥᱟᱭᱨᱟ ᱞᱮᱭᱚᱱᱤ</trName></name>
       <name><languageId>sbp</languageId><trName>Siela Liyoni</trName></name>
+      <name><languageId>sc</languageId><trName>Sierra Leone</trName></name>
       <name><languageId>sd</languageId><trName>سيرا ليون</trName></name>
       <name><languageId>se</languageId><trName>Sierra Leone</trName></name>
       <name><languageId>seh</languageId><trName>Serra Leoa</trName></name>
@@ -44172,7 +44580,9 @@
       <name><languageId>ru</languageId><trName>Сан-Марино</trName></name>
       <name><languageId>rwk</languageId><trName>Samarino</trName></name>
       <name><languageId>saq</languageId><trName>Samarino</trName></name>
+      <name><languageId>sat</languageId><trName>ᱥᱟᱱ ᱢᱟᱨᱤᱱᱚ</trName></name>
       <name><languageId>sbp</languageId><trName>Samalino</trName></name>
+      <name><languageId>sc</languageId><trName>Santu Marinu</trName></name>
       <name><languageId>sd</languageId><trName>سین مرینو</trName></name>
       <name><languageId>se</languageId><trName>San Marino</trName></name>
       <name><languageId>seh</languageId><trName>San Marino</trName></name>
@@ -44385,7 +44795,9 @@
       <name><languageId>ru</languageId><trName>Сенегал</trName></name>
       <name><languageId>rwk</languageId><trName>Senegali</trName></name>
       <name><languageId>saq</languageId><trName>Senegali</trName></name>
+      <name><languageId>sat</languageId><trName>ᱥᱮᱱᱮᱜᱚᱞ</trName></name>
       <name><languageId>sbp</languageId><trName>Senegali</trName></name>
+      <name><languageId>sc</languageId><trName>Senegal</trName></name>
       <name><languageId>sd</languageId><trName>سينيگال</trName></name>
       <name><languageId>se</languageId><trName>Senegal</trName></name>
       <name><languageId>seh</languageId><trName>Senegal</trName></name>
@@ -44607,7 +45019,9 @@
       <name><languageId>ru</languageId><trName>Сомали</trName></name>
       <name><languageId>rwk</languageId><trName>Somalia</trName></name>
       <name><languageId>saq</languageId><trName>Somalia</trName></name>
+      <name><languageId>sat</languageId><trName>ᱥᱚᱢᱟᱞᱤᱭᱟ</trName></name>
       <name><languageId>sbp</languageId><trName>Somaliya</trName></name>
+      <name><languageId>sc</languageId><trName>Somàlia</trName></name>
       <name><languageId>sd</languageId><trName>سوماليا</trName></name>
       <name><languageId>se</languageId><trName>Somália</trName></name>
       <name><languageId>seh</languageId><trName>Somália</trName></name>
@@ -44826,7 +45240,9 @@
       <name><languageId>ru</languageId><trName>Суринам</trName></name>
       <name><languageId>rwk</languageId><trName>Surinamu</trName></name>
       <name><languageId>saq</languageId><trName>Surinamu</trName></name>
+      <name><languageId>sat</languageId><trName>ᱥᱩᱨᱤᱱᱟᱢ</trName></name>
       <name><languageId>sbp</languageId><trName>Sulinamu</trName></name>
+      <name><languageId>sc</languageId><trName>Suriname</trName></name>
       <name><languageId>sd</languageId><trName>سورينام</trName></name>
       <name><languageId>se</languageId><trName>Surinam</trName></name>
       <name><languageId>seh</languageId><trName>Suriname</trName></name>
@@ -44991,6 +45407,8 @@
       <name><languageId>rm</languageId><trName>Sudan dal Sid</trName></name>
       <name><languageId>ro</languageId><trName>Sudanul de Sud</trName></name>
       <name><languageId>ru</languageId><trName>Южный Судан</trName></name>
+      <name><languageId>sat</languageId><trName>ᱠᱚᱧᱮ ᱥᱩᱫᱟᱱ</trName></name>
+      <name><languageId>sc</languageId><trName>Sudan de su Sud</trName></name>
       <name><languageId>sd</languageId><trName>ڏکڻ سوڊان</trName></name>
       <name><languageId>se</languageId><trName>Máttasudan</trName></name>
       <name><languageId>sg</languageId><trName>Sudäan-Mbongo</trName></name>
@@ -45192,7 +45610,9 @@
       <name><languageId>ru</languageId><trName>Сан-Томе и Принсипи</trName></name>
       <name><languageId>rwk</languageId><trName>Sao Tome na Principe</trName></name>
       <name><languageId>saq</languageId><trName>Sao Tome na Principe</trName></name>
+      <name><languageId>sat</languageId><trName>ᱥᱟᱣ ᱴᱚᱢ ᱟᱨ ᱯᱨᱤᱱᱥᱤᱯᱮ</trName></name>
       <name><languageId>sbp</languageId><trName>Sayo Tome ni Pilinikipe</trName></name>
+      <name><languageId>sc</languageId><trName>São Tomé e Príncipe</trName></name>
       <name><languageId>sd</languageId><trName>سائو ٽوم ۽ پرنسپیي</trName></name>
       <name><languageId>se</languageId><trName>São Tomé ja Príncipe</trName></name>
       <name><languageId>seh</languageId><trName>São Tomé e Príncipe</trName></name>
@@ -45408,7 +45828,9 @@
       <name><languageId>ru</languageId><trName>Сальвадор</trName></name>
       <name><languageId>rwk</languageId><trName>Elsavado</trName></name>
       <name><languageId>saq</languageId><trName>Elsavado</trName></name>
+      <name><languageId>sat</languageId><trName>ᱮᱞ ᱥᱟᱞᱣᱟᱰᱚᱨ</trName></name>
       <name><languageId>sbp</languageId><trName>Elisavado</trName></name>
+      <name><languageId>sc</languageId><trName>El Salvador</trName></name>
       <name><languageId>sd</languageId><trName>ال سلواڊور</trName></name>
       <name><languageId>se</languageId><trName>El Salvador</trName></name>
       <name><languageId>seh</languageId><trName>El Salvador</trName></name>
@@ -45570,6 +45992,8 @@
       <name><languageId>rm</languageId><trName>Sint Maarten</trName></name>
       <name><languageId>ro</languageId><trName>Sint-Maarten</trName></name>
       <name><languageId>ru</languageId><trName>Синт-Мартен</trName></name>
+      <name><languageId>sat</languageId><trName>ᱥᱤᱱᱴ ᱢᱟᱨᱴᱮᱱ</trName></name>
+      <name><languageId>sc</languageId><trName>Sint Maarten</trName></name>
       <name><languageId>sd</languageId><trName>سنٽ مارٽن</trName></name>
       <name><languageId>se</languageId><trName>Vuolleeatnamat Saint Martin</trName></name>
       <name><languageId>si</languageId><trName>ශාන්ත මාර්ටෙන්</trName></name>
@@ -45766,7 +46190,9 @@
       <name><languageId>ru</languageId><trName>Сирия</trName></name>
       <name><languageId>rwk</languageId><trName>Siria</trName></name>
       <name><languageId>saq</languageId><trName>Siria</trName></name>
+      <name><languageId>sat</languageId><trName>ᱥᱤᱨᱤᱭᱟ</trName></name>
       <name><languageId>sbp</languageId><trName>Siliya</trName></name>
+      <name><languageId>sc</languageId><trName>Sìria</trName></name>
       <name><languageId>sd</languageId><trName>شام</trName></name>
       <name><languageId>se</languageId><trName>Syria</trName></name>
       <name><languageId>seh</languageId><trName>Síria</trName></name>
@@ -45980,7 +46406,9 @@
       <name><languageId>ru</languageId><trName>Эсватини</trName></name>
       <name><languageId>rwk</languageId><trName>Uswazi</trName></name>
       <name><languageId>saq</languageId><trName>Uswazi</trName></name>
+      <name><languageId>sat</languageId><trName>ᱮᱥᱣᱟᱴᱤᱱᱟ</trName></name>
       <name><languageId>sbp</languageId><trName>Uswasi</trName></name>
+      <name><languageId>sc</languageId><trName>Eswatini</trName></name>
       <name><languageId>sd</languageId><trName>ايسواٽني</trName></name>
       <name><languageId>se</languageId><trName>Svazieana</trName></name>
       <name><languageId>seh</languageId><trName>Suazilândia</trName></name>
@@ -46188,7 +46616,9 @@
       <name><languageId>ru</languageId><trName>о-ва Тёркс и Кайкос</trName></name>
       <name><languageId>rwk</languageId><trName>Visiwa vya Turki na Kaiko</trName></name>
       <name><languageId>saq</languageId><trName>Visiwa vya Turki na Kaiko</trName></name>
+      <name><languageId>sat</languageId><trName>ᱛᱩᱨᱠᱥ ᱟᱨ ᱠᱟᱭᱠᱚᱥ ᱟᱭᱞᱮᱸᱰ</trName></name>
       <name><languageId>sbp</languageId><trName>Figunguli fya Tuliki ni Kaiko</trName></name>
+      <name><languageId>sc</languageId><trName>Ìsulas Turks e Caicos</trName></name>
       <name><languageId>sd</languageId><trName>ترڪ ۽ ڪيڪوس ٻيٽ</trName></name>
       <name><languageId>se</languageId><trName>Turks ja Caicos-sullot</trName></name>
       <name><languageId>seh</languageId><trName>Ilhas Turks e Caicos</trName></name>
@@ -46401,7 +46831,9 @@
       <name><languageId>ru</languageId><trName>Чад</trName></name>
       <name><languageId>rwk</languageId><trName>Chadi</trName></name>
       <name><languageId>saq</languageId><trName>Chadi</trName></name>
+      <name><languageId>sat</languageId><trName>ᱪᱟᱰ</trName></name>
       <name><languageId>sbp</languageId><trName>Shadi</trName></name>
+      <name><languageId>sc</languageId><trName>Chad</trName></name>
       <name><languageId>sd</languageId><trName>چاڊ</trName></name>
       <name><languageId>se</languageId><trName>Tčad</trName></name>
       <name><languageId>seh</languageId><trName>Chade</trName></name>
@@ -46616,7 +47048,9 @@
       <name><languageId>ru</languageId><trName>Того</trName></name>
       <name><languageId>rwk</languageId><trName>Togo</trName></name>
       <name><languageId>saq</languageId><trName>Togo</trName></name>
+      <name><languageId>sat</languageId><trName>ᱴᱚᱜᱚ</trName></name>
       <name><languageId>sbp</languageId><trName>Togo</trName></name>
+      <name><languageId>sc</languageId><trName>Togo</trName></name>
       <name><languageId>sd</languageId><trName>ٽوگو</trName></name>
       <name><languageId>se</languageId><trName>Togo</trName></name>
       <name><languageId>seh</languageId><trName>Togo</trName></name>
@@ -46830,7 +47264,9 @@
       <name><languageId>ru</languageId><trName>Таиланд</trName></name>
       <name><languageId>rwk</languageId><trName>Tailandi</trName></name>
       <name><languageId>saq</languageId><trName>Tailandi</trName></name>
+      <name><languageId>sat</languageId><trName>ᱛᱷᱟᱭᱞᱮᱸᱰ</trName></name>
       <name><languageId>sbp</languageId><trName>Tailandi</trName></name>
+      <name><languageId>sc</languageId><trName>Tailàndia</trName></name>
       <name><languageId>sd</languageId><trName>ٿائيليند</trName></name>
       <name><languageId>se</languageId><trName>Thaieana</trName></name>
       <name><languageId>seh</languageId><trName>Tailândia</trName></name>
@@ -47046,7 +47482,9 @@
       <name><languageId>ru</languageId><trName>Таджикистан</trName></name>
       <name><languageId>rwk</languageId><trName>Tajikistani</trName></name>
       <name><languageId>saq</languageId><trName>Tajikistani</trName></name>
+      <name><languageId>sat</languageId><trName>ᱛᱟᱡᱤᱠᱤᱥᱛᱟᱱ</trName></name>
       <name><languageId>sbp</languageId><trName>Tajikisitani</trName></name>
+      <name><languageId>sc</languageId><trName>Tagìkistan</trName></name>
       <name><languageId>sd</languageId><trName>تاجڪستان</trName></name>
       <name><languageId>se</languageId><trName>Tažikistan</trName></name>
       <name><languageId>seh</languageId><trName>Tadjiquistão</trName></name>
@@ -47259,7 +47697,9 @@
       <name><languageId>ru</languageId><trName>Токелау</trName></name>
       <name><languageId>rwk</languageId><trName>Tokelau</trName></name>
       <name><languageId>saq</languageId><trName>Tokelau</trName></name>
+      <name><languageId>sat</languageId><trName>ᱴᱚᱠᱮᱞᱟᱣ</trName></name>
       <name><languageId>sbp</languageId><trName>Tokelawu</trName></name>
+      <name><languageId>sc</languageId><trName>Tokelau</trName></name>
       <name><languageId>sd</languageId><trName>ٽوڪلائو</trName></name>
       <name><languageId>se</languageId><trName>Tokelau</trName></name>
       <name><languageId>seh</languageId><trName>Tokelau</trName></name>
@@ -47468,7 +47908,9 @@
       <name><languageId>ru</languageId><trName>Восточный Тимор</trName></name>
       <name><languageId>rwk</languageId><trName>Timori ya Mashariki</trName></name>
       <name><languageId>saq</languageId><trName>Timori ya Mashariki</trName></name>
+      <name><languageId>sat</languageId><trName>ᱴᱤᱢᱚᱨᱼᱞᱮᱥᱴᱮ</trName></name>
       <name><languageId>sbp</languageId><trName>Timoli ya kunena</trName></name>
+      <name><languageId>sc</languageId><trName>Timor-Est</trName></name>
       <name><languageId>sd</languageId><trName>تيمور ليستي</trName></name>
       <name><languageId>se</languageId><trName>Nuorta-Timor</trName></name>
       <name><languageId>seh</languageId><trName>Timor Leste</trName></name>
@@ -47679,7 +48121,9 @@
       <name><languageId>ru</languageId><trName>Туркменистан</trName></name>
       <name><languageId>rwk</languageId><trName>Turukimenistani</trName></name>
       <name><languageId>saq</languageId><trName>Turukimenistani</trName></name>
+      <name><languageId>sat</languageId><trName>ᱛᱩᱨᱠᱢᱮᱱᱤᱥᱛᱟᱱ</trName></name>
       <name><languageId>sbp</languageId><trName>Tulukimenisitani</trName></name>
+      <name><languageId>sc</languageId><trName>Turkmènistan</trName></name>
       <name><languageId>sd</languageId><trName>ترڪمانستان</trName></name>
       <name><languageId>se</languageId><trName>Turkmenistan</trName></name>
       <name><languageId>seh</languageId><trName>Turcomenistão</trName></name>
@@ -47894,7 +48338,9 @@
       <name><languageId>ru</languageId><trName>Тунис</trName></name>
       <name><languageId>rwk</languageId><trName>Tunisia</trName></name>
       <name><languageId>saq</languageId><trName>Tunisia</trName></name>
+      <name><languageId>sat</languageId><trName>ᱴᱩᱱᱤᱥᱤᱭᱟ</trName></name>
       <name><languageId>sbp</languageId><trName>Tunisiya</trName></name>
+      <name><languageId>sc</languageId><trName>Tunisia</trName></name>
       <name><languageId>sd</languageId><trName>تيونيسيا</trName></name>
       <name><languageId>se</languageId><trName>Tunisia</trName></name>
       <name><languageId>seh</languageId><trName>Tunísia</trName></name>
@@ -48108,7 +48554,9 @@
       <name><languageId>rw</languageId><trName>Tonga</trName></name>
       <name><languageId>rwk</languageId><trName>Tonga</trName></name>
       <name><languageId>saq</languageId><trName>Tonga</trName></name>
+      <name><languageId>sat</languageId><trName>ᱴᱚᱝᱜᱟ</trName></name>
       <name><languageId>sbp</languageId><trName>Tonga</trName></name>
+      <name><languageId>sc</languageId><trName>Tonga</trName></name>
       <name><languageId>sd</languageId><trName>ٽونگا</trName></name>
       <name><languageId>se</languageId><trName>Tonga</trName></name>
       <name><languageId>seh</languageId><trName>Tonga</trName></name>
@@ -48323,7 +48771,9 @@
       <name><languageId>ru</languageId><trName>Турция</trName></name>
       <name><languageId>rwk</languageId><trName>Uturuki</trName></name>
       <name><languageId>saq</languageId><trName>Uturuki</trName></name>
+      <name><languageId>sat</languageId><trName>ᱛᱟᱹᱨᱠᱤ</trName></name>
       <name><languageId>sbp</languageId><trName>Utuluki</trName></name>
+      <name><languageId>sc</languageId><trName>Turchia</trName></name>
       <name><languageId>sd</languageId><trName>ترڪي</trName></name>
       <name><languageId>se</languageId><trName>Durka</trName></name>
       <name><languageId>seh</languageId><trName>Turquia</trName></name>
@@ -48540,7 +48990,9 @@
       <name><languageId>ru</languageId><trName>Тринидад и Тобаго</trName></name>
       <name><languageId>rwk</languageId><trName>Trinidad na Tobago</trName></name>
       <name><languageId>saq</languageId><trName>Trinidad na Tobago</trName></name>
+      <name><languageId>sat</languageId><trName>ᱴᱨᱤᱱᱤᱰᱟᱰ ᱟᱨ ᱴᱚᱵᱟᱜᱚ</trName></name>
       <name><languageId>sbp</languageId><trName>Tilinidadi ni Tobago</trName></name>
+      <name><languageId>sc</languageId><trName>Trinidad e Tobago</trName></name>
       <name><languageId>sd</languageId><trName>ٽريني ڊيڊ ۽ ٽوباگو ٻيٽ</trName></name>
       <name><languageId>se</languageId><trName>Trinidad ja Tobago</trName></name>
       <name><languageId>seh</languageId><trName>Trinidad e Tobago</trName></name>
@@ -48751,7 +49203,9 @@
       <name><languageId>ru</languageId><trName>Тувалу</trName></name>
       <name><languageId>rwk</languageId><trName>Tuvalu</trName></name>
       <name><languageId>saq</languageId><trName>Tuvalu</trName></name>
+      <name><languageId>sat</languageId><trName>ᱴᱩᱣᱟᱞᱩ</trName></name>
       <name><languageId>sbp</languageId><trName>Tuvalu</trName></name>
+      <name><languageId>sc</languageId><trName>Tuvalu</trName></name>
       <name><languageId>sd</languageId><trName>توالو</trName></name>
       <name><languageId>se</languageId><trName>Tuvalu</trName></name>
       <name><languageId>seh</languageId><trName>Tuvalu</trName></name>
@@ -48966,7 +49420,9 @@
       <name><languageId>ru</languageId><trName>Тайвань</trName></name>
       <name><languageId>rwk</languageId><trName>Taiwani</trName></name>
       <name><languageId>saq</languageId><trName>Taiwani</trName></name>
+      <name><languageId>sat</languageId><trName>ᱛᱟᱭᱣᱟᱱ</trName></name>
       <name><languageId>sbp</languageId><trName>Taiwani</trName></name>
+      <name><languageId>sc</languageId><trName>Taiwàn</trName></name>
       <name><languageId>sd</languageId><trName>تائیوان</trName></name>
       <name><languageId>se</languageId><trName>Taiwan</trName></name>
       <name><languageId>seh</languageId><trName>Taiwan</trName></name>
@@ -49191,7 +49647,9 @@
       <name><languageId>ru</languageId><trName>Танзания</trName></name>
       <name><languageId>rwk</languageId><trName>Tanzania</trName></name>
       <name><languageId>saq</languageId><trName>Tanzania</trName></name>
+      <name><languageId>sat</languageId><trName>ᱛᱟᱹᱱᱡᱟᱱᱤᱭᱟ</trName></name>
       <name><languageId>sbp</languageId><trName>Tansaniya</trName></name>
+      <name><languageId>sc</languageId><trName>Tanzània</trName></name>
       <name><languageId>sd</languageId><trName>تنزانيا</trName></name>
       <name><languageId>se</languageId><trName>Tanzánia</trName></name>
       <name><languageId>ses</languageId><trName>Tanzaani</trName></name>
@@ -49405,7 +49863,9 @@
       <name><languageId>ru</languageId><trName>Украина</trName></name>
       <name><languageId>rwk</languageId><trName>Ukraini</trName></name>
       <name><languageId>saq</languageId><trName>Ukraini</trName></name>
+      <name><languageId>sat</languageId><trName>ᱭᱩᱠᱨᱮᱱ</trName></name>
       <name><languageId>sbp</languageId><trName>Yukileini</trName></name>
+      <name><languageId>sc</languageId><trName>Ucraina</trName></name>
       <name><languageId>sd</languageId><trName>يوڪرين</trName></name>
       <name><languageId>se</languageId><trName>Ukraina</trName></name>
       <name><languageId>seh</languageId><trName>Ucrânia</trName></name>
@@ -49627,7 +50087,9 @@
       <name><languageId>ru</languageId><trName>Уганда</trName></name>
       <name><languageId>rwk</languageId><trName>Uganda</trName></name>
       <name><languageId>saq</languageId><trName>Uganda</trName></name>
+      <name><languageId>sat</languageId><trName>ᱩᱜᱟᱱᱰᱟ</trName></name>
       <name><languageId>sbp</languageId><trName>Uganda</trName></name>
+      <name><languageId>sc</languageId><trName>Uganda</trName></name>
       <name><languageId>sd</languageId><trName>يوگنڊا</trName></name>
       <name><languageId>se</languageId><trName>Uganda</trName></name>
       <name><languageId>seh</languageId><trName>Uganda</trName></name>
@@ -49798,6 +50260,8 @@
       <name><languageId>rm</languageId><trName>Inslas Pitschnas Perifericas dals Stadis Unids da l’America</trName></name>
       <name><languageId>ro</languageId><trName>Insulele Îndepărtate ale S.U.A.</trName></name>
       <name><languageId>ru</languageId><trName>Внешние малые о-ва (США)</trName></name>
+      <name><languageId>sat</languageId><trName>ᱭᱩ ᱮᱥ ᱵᱟᱷᱨᱮ ᱟᱭᱞᱮᱸᱰ</trName></name>
+      <name><languageId>sc</languageId><trName>Ìsulas perifèricas de sos Istados Unidos</trName></name>
       <name><languageId>sd</languageId><trName>آمريڪي خارجي ٻيٽ</trName></name>
       <name><languageId>si</languageId><trName>එක්සත් ජනපද ඈත දූපත්</trName></name>
       <name><languageId>sk</languageId><trName>Menšie odľahlé ostrovy USA</trName></name>
@@ -50012,6 +50476,7 @@
       <name><languageId>saq</languageId><trName>Marekani</trName></name>
       <name><languageId>sat</languageId><trName>ᱭᱩᱱᱟᱭᱴᱮᱰ ᱮᱥᱴᱮᱴ</trName></name>
       <name><languageId>sbp</languageId><trName>Malekani</trName></name>
+      <name><languageId>sc</languageId><trName>Istados Unidos</trName></name>
       <name><languageId>sd</languageId><trName>آمريڪا جون گڏيل رياستون</trName></name>
       <name><languageId>sd_Deva</languageId><trName>अमेरिका</trName></name>
       <name><languageId>se</languageId><trName>Amerihká ovttastuvvan stáhtat</trName></name>
@@ -50265,7 +50730,9 @@
       <name><languageId>ru</languageId><trName>Уругвай</trName></name>
       <name><languageId>rwk</languageId><trName>Urugwai</trName></name>
       <name><languageId>saq</languageId><trName>Urugwai</trName></name>
+      <name><languageId>sat</languageId><trName>ᱩᱨᱩᱜᱩᱣᱮ</trName></name>
       <name><languageId>sbp</languageId><trName>Ulugwayi</trName></name>
+      <name><languageId>sc</languageId><trName>Uruguày</trName></name>
       <name><languageId>sd</languageId><trName>يوروگوءِ</trName></name>
       <name><languageId>se</languageId><trName>Uruguay</trName></name>
       <name><languageId>seh</languageId><trName>Uruguai</trName></name>
@@ -50477,7 +50944,9 @@
       <name><languageId>ru</languageId><trName>Узбекистан</trName></name>
       <name><languageId>rwk</languageId><trName>Uzibekistani</trName></name>
       <name><languageId>saq</languageId><trName>Uzibekistani</trName></name>
+      <name><languageId>sat</languageId><trName>ᱩᱡᱽᱵᱮᱠᱤᱥᱛᱟᱱ</trName></name>
       <name><languageId>sbp</languageId><trName>Usibekisitani</trName></name>
+      <name><languageId>sc</languageId><trName>Uzbèkistan</trName></name>
       <name><languageId>sd</languageId><trName>ازبڪستان</trName></name>
       <name><languageId>se</languageId><trName>Usbekistan</trName></name>
       <name><languageId>seh</languageId><trName>Uzbequistão</trName></name>
@@ -50695,7 +51164,9 @@
       <name><languageId>ru</languageId><trName>Ватикан</trName></name>
       <name><languageId>rwk</languageId><trName>Vatikani</trName></name>
       <name><languageId>saq</languageId><trName>Vatikani</trName></name>
+      <name><languageId>sat</languageId><trName>ᱣᱟᱴᱤᱠᱟᱱ ᱥᱚᱦᱚᱨ</trName></name>
       <name><languageId>sbp</languageId><trName>Vatikani</trName></name>
+      <name><languageId>sc</languageId><trName>Tzitade de su Vaticanu</trName></name>
       <name><languageId>sd</languageId><trName>ويٽڪين سٽي</trName></name>
       <name><languageId>se</languageId><trName>Vatikána</trName></name>
       <name><languageId>seh</languageId><trName>Vaticano</trName></name>
@@ -50907,7 +51378,9 @@
       <name><languageId>ru</languageId><trName>Сент-Винсент и Гренадины</trName></name>
       <name><languageId>rwk</languageId><trName>Santavisenti na Grenadini</trName></name>
       <name><languageId>saq</languageId><trName>Santavisenti na Grenadini</trName></name>
+      <name><languageId>sat</languageId><trName>ᱮᱥ ᱴᱤ ᱵᱷᱤᱱᱥᱮᱴ ᱟᱨ ᱜᱽᱨᱮᱱᱟᱰᱤᱱᱥ</trName></name>
       <name><languageId>sbp</languageId><trName>Santavisenti na Gilenadini</trName></name>
+      <name><languageId>sc</languageId><trName>Santu Vissente e sas Grenadinas</trName></name>
       <name><languageId>sd</languageId><trName>سینٽ ونسنت ۽ گریناڊینز</trName></name>
       <name><languageId>se</languageId><trName>Saint Vincent ja Grenadine</trName></name>
       <name><languageId>seh</languageId><trName>São Vicente e Granadinas</trName></name>
@@ -51121,7 +51594,9 @@
       <name><languageId>ru</languageId><trName>Венесуэла</trName></name>
       <name><languageId>rwk</languageId><trName>Venezuela</trName></name>
       <name><languageId>saq</languageId><trName>Venezuela</trName></name>
+      <name><languageId>sat</languageId><trName>ᱣᱮᱱᱮᱡᱣᱮᱞᱟ</trName></name>
       <name><languageId>sbp</languageId><trName>Venesuela</trName></name>
+      <name><languageId>sc</languageId><trName>Venetzuela</trName></name>
       <name><languageId>sd</languageId><trName>وينزويلا</trName></name>
       <name><languageId>se</languageId><trName>Venezuela</trName></name>
       <name><languageId>seh</languageId><trName>Venezuela</trName></name>
@@ -51332,7 +51807,9 @@
       <name><languageId>ru</languageId><trName>Виргинские о-ва (Великобритания)</trName></name>
       <name><languageId>rwk</languageId><trName>Visiwa vya Virgin vya Uingereza</trName></name>
       <name><languageId>saq</languageId><trName>Visiwa vya Virgin vya Uingereza</trName></name>
+      <name><languageId>sat</languageId><trName>ᱵᱽᱨᱤᱴᱤᱥ ᱣᱟᱹᱨᱡᱤᱱ ᱟᱭᱞᱮᱸᱰ</trName></name>
       <name><languageId>sbp</languageId><trName>Figunguli ifya Viliginiya ifya Uwingelesa</trName></name>
+      <name><languageId>sc</languageId><trName>Ìsulas Vèrgines Britànnicas</trName></name>
       <name><languageId>sd</languageId><trName>برطانوي ورجن ٻيٽ</trName></name>
       <name><languageId>se</languageId><trName>Brittania Virgin-sullot</trName></name>
       <name><languageId>seh</languageId><trName>Ilhas Virgens Britânicas</trName></name>
@@ -51538,7 +52015,9 @@
       <name><languageId>ru</languageId><trName>Виргинские о-ва (США)</trName></name>
       <name><languageId>rwk</languageId><trName>Visiwa vya Virgin vya Marekani</trName></name>
       <name><languageId>saq</languageId><trName>Visiwa vya Virgin vya Marekani</trName></name>
+      <name><languageId>sat</languageId><trName>ᱭᱩ ᱮᱥ ᱣᱟᱹᱨᱡᱤᱱ ᱟᱭᱞᱮᱸᱰ</trName></name>
       <name><languageId>sbp</languageId><trName>Figunguli fya Viliginiya ifya Malekani</trName></name>
+      <name><languageId>sc</languageId><trName>Ìsulas Vèrgines de sos Istados Unidos</trName></name>
       <name><languageId>sd</languageId><trName>آمريڪي ورجن ٻيٽ</trName></name>
       <name><languageId>se</languageId><trName>AOS Virgin-sullot</trName></name>
       <name><languageId>seh</languageId><trName>Ilhas Virgens dos EUA</trName></name>
@@ -51748,7 +52227,9 @@
       <name><languageId>ru</languageId><trName>Вьетнам</trName></name>
       <name><languageId>rwk</languageId><trName>Vietinamu</trName></name>
       <name><languageId>saq</languageId><trName>Vietinamu</trName></name>
+      <name><languageId>sat</languageId><trName>ᱣᱤᱭᱮᱛᱱᱟᱢ</trName></name>
       <name><languageId>sbp</languageId><trName>Vietinamu</trName></name>
+      <name><languageId>sc</languageId><trName>Vietnam</trName></name>
       <name><languageId>sd</languageId><trName>ويتنام</trName></name>
       <name><languageId>se</languageId><trName>Vietnam</trName></name>
       <name><languageId>seh</languageId><trName>Vietnã</trName></name>
@@ -51961,7 +52442,9 @@
       <name><languageId>ru</languageId><trName>Вануату</trName></name>
       <name><languageId>rwk</languageId><trName>Vanuatu</trName></name>
       <name><languageId>saq</languageId><trName>Vanuatu</trName></name>
+      <name><languageId>sat</languageId><trName>ᱵᱷᱟᱱᱩᱟᱴᱩ</trName></name>
       <name><languageId>sbp</languageId><trName>Vanuatu</trName></name>
+      <name><languageId>sc</languageId><trName>Vanuatu</trName></name>
       <name><languageId>sd</languageId><trName>وينيٽيو</trName></name>
       <name><languageId>se</languageId><trName>Vanuatu</trName></name>
       <name><languageId>seh</languageId><trName>Vanuatu</trName></name>
@@ -52174,7 +52657,9 @@
       <name><languageId>ru</languageId><trName>Уоллис и Футуна</trName></name>
       <name><languageId>rwk</languageId><trName>Walis na Futuna</trName></name>
       <name><languageId>saq</languageId><trName>Walis na Futuna</trName></name>
+      <name><languageId>sat</languageId><trName>ᱣᱟᱞᱤᱥ ᱟᱨ ᱯᱷᱩᱴᱩᱱᱟ</trName></name>
       <name><languageId>sbp</languageId><trName>Walisi ni Futuna</trName></name>
+      <name><languageId>sc</languageId><trName>Wallis e Futuna</trName></name>
       <name><languageId>sd</languageId><trName>والس ۽ فتونا</trName></name>
       <name><languageId>se</languageId><trName>Wallis ja Futuna</trName></name>
       <name><languageId>seh</languageId><trName>Wallis e Futuna</trName></name>
@@ -52383,7 +52868,9 @@
       <name><languageId>ru</languageId><trName>Самоа</trName></name>
       <name><languageId>rwk</languageId><trName>Samoa</trName></name>
       <name><languageId>saq</languageId><trName>Samoa</trName></name>
+      <name><languageId>sat</languageId><trName>ᱥᱟᱢᱚᱣᱟ</trName></name>
       <name><languageId>sbp</languageId><trName>Samoya</trName></name>
+      <name><languageId>sc</languageId><trName>Samoa</trName></name>
       <name><languageId>sd</languageId><trName>ساموا</trName></name>
       <name><languageId>se</languageId><trName>Samoa</trName></name>
       <name><languageId>seh</languageId><trName>Samoa</trName></name>
@@ -52547,6 +53034,8 @@
       <name><languageId>rm</languageId><trName>Cosovo</trName></name>
       <name><languageId>ro</languageId><trName>Kosovo</trName></name>
       <name><languageId>ru</languageId><trName>Косово</trName></name>
+      <name><languageId>sat</languageId><trName>ᱠᱚᱥᱚᱣᱚ</trName></name>
+      <name><languageId>sc</languageId><trName>Kòssovo</trName></name>
       <name><languageId>sd</languageId><trName>ڪوسووو</trName></name>
       <name><languageId>se</languageId><trName>Kosovo</trName></name>
       <name><languageId>si</languageId><trName>කොසෝවෝ</trName></name>
@@ -52748,7 +53237,9 @@
       <name><languageId>ru</languageId><trName>Йемен</trName></name>
       <name><languageId>rwk</languageId><trName>Yemeni</trName></name>
       <name><languageId>saq</languageId><trName>Yemeni</trName></name>
+      <name><languageId>sat</languageId><trName>ᱭᱮᱢᱮᱱ</trName></name>
       <name><languageId>sbp</languageId><trName>Yemeni</trName></name>
+      <name><languageId>sc</languageId><trName>Yemen</trName></name>
       <name><languageId>sd</languageId><trName>يمن</trName></name>
       <name><languageId>se</languageId><trName>Jemen</trName></name>
       <name><languageId>seh</languageId><trName>Iêmen</trName></name>
@@ -52961,7 +53452,9 @@
       <name><languageId>ru</languageId><trName>Майотта</trName></name>
       <name><languageId>rwk</languageId><trName>Mayotte</trName></name>
       <name><languageId>saq</languageId><trName>Mayotte</trName></name>
+      <name><languageId>sat</languageId><trName>ᱢᱟᱭᱚᱴᱮ</trName></name>
       <name><languageId>sbp</languageId><trName>Mayote</trName></name>
+      <name><languageId>sc</languageId><trName>Mayotte</trName></name>
       <name><languageId>sd</languageId><trName>مياتي</trName></name>
       <name><languageId>se</languageId><trName>Mayotte</trName></name>
       <name><languageId>seh</languageId><trName>Mayotte</trName></name>
@@ -53206,7 +53699,9 @@
       <name><languageId>ru</languageId><trName>Южно-Африканская Республика</trName></name>
       <name><languageId>rwk</languageId><trName>Afrika Kusini</trName></name>
       <name><languageId>saq</languageId><trName>Afrika Kusini</trName></name>
+      <name><languageId>sat</languageId><trName>ᱠᱚᱧᱮ ᱟᱯᱷᱨᱤᱠᱟ</trName></name>
       <name><languageId>sbp</languageId><trName>Afilika Kusini</trName></name>
+      <name><languageId>sc</languageId><trName>Sudàfrica</trName></name>
       <name><languageId>sd</languageId><trName>ڏکڻ آفريقا</trName></name>
       <name><languageId>se</languageId><trName>Mátta-Afrihká</trName></name>
       <name><languageId>seh</languageId><trName>África do Sul</trName></name>
@@ -53451,7 +53946,9 @@
       <name><languageId>ru</languageId><trName>Замбия</trName></name>
       <name><languageId>rwk</languageId><trName>Zambia</trName></name>
       <name><languageId>saq</languageId><trName>Zambia</trName></name>
+      <name><languageId>sat</languageId><trName>ᱡᱟᱢᱵᱤᱭᱟ</trName></name>
       <name><languageId>sbp</languageId><trName>Sambiya</trName></name>
+      <name><languageId>sc</languageId><trName>Zàmbia</trName></name>
       <name><languageId>sd</languageId><trName>زيمبيا</trName></name>
       <name><languageId>se</languageId><trName>Zambia</trName></name>
       <name><languageId>seh</languageId><trName>Zâmbia</trName></name>
@@ -53669,7 +54166,9 @@
       <name><languageId>ru</languageId><trName>Зимбабве</trName></name>
       <name><languageId>rwk</languageId><trName>Zimbabwe</trName></name>
       <name><languageId>saq</languageId><trName>Zimbabwe</trName></name>
+      <name><languageId>sat</languageId><trName>ᱡᱤᱢᱵᱟᱣᱮ</trName></name>
       <name><languageId>sbp</languageId><trName>Simbabwe</trName></name>
+      <name><languageId>sc</languageId><trName>Zimbabwe</trName></name>
       <name><languageId>sd</languageId><trName>زمبابوي</trName></name>
       <name><languageId>se</languageId><trName>Zimbabwe</trName></name>
       <name><languageId>seh</languageId><trName>Zimbábue</trName></name>
