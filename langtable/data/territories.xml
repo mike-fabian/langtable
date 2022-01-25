@@ -21033,7 +21033,7 @@
       <keyboard><keyboardId>cn</keyboardId><rank>1000</rank></keyboard>
     </keyboards>
     <inputmethods>
-      <inputmethod><inputmethodId>ibus/cangjie</inputmethodId><rank>1000</rank></inputmethod>
+      <inputmethod><inputmethodId>ibus/table:cangjie5</inputmethodId><rank>1000</rank></inputmethod>
     </inputmethods>
     <consolefonts>
       <consolefont><consolefontId>eurlatgr</consolefontId><rank>1000</rank></consolefont>
@@ -32271,7 +32271,7 @@
       <keyboard><keyboardId>cn</keyboardId><rank>1000</rank></keyboard>
     </keyboards>
     <inputmethods>
-      <inputmethod><inputmethodId>ibus/cangjie</inputmethodId><rank>1000</rank></inputmethod>
+      <inputmethod><inputmethodId>ibus/table:cangjie5</inputmethodId><rank>1000</rank></inputmethod>
     </inputmethods>
     <consolefonts>
       <consolefont><consolefontId>eurlatgr</consolefontId><rank>1000</rank></consolefont>

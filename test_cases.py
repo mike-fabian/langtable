@@ -455,7 +455,7 @@ def dummy():
         ['ibus/hangul']
 
     >>> list_inputmethods(languageId="zh") # doctest: +NORMALIZE_WHITESPACE
-        ['ibus/libpinyin', 'ibus/libzhuyin', 'ibus/chewing', 'ibus/cangjie']
+        ['ibus/libpinyin', 'ibus/libzhuyin', 'ibus/chewing', 'ibus/table:cangjie5']
 
     >>> list_inputmethods(languageId="zh", territoryId="CN") # doctest: +NORMALIZE_WHITESPACE
         ['ibus/libpinyin']
@@ -464,10 +464,10 @@ def dummy():
         ['ibus/libpinyin']
 
     >>> list_inputmethods(languageId="zh", territoryId="HK") # doctest: +NORMALIZE_WHITESPACE
-        ['ibus/cangjie']
+        ['ibus/table:cangjie5']
 
     >>> list_inputmethods(languageId="zh", territoryId="MO") # doctest: +NORMALIZE_WHITESPACE
-        ['ibus/cangjie']
+        ['ibus/table:cangjie5']
 
     >>> list_inputmethods(languageId="zh", territoryId="TW") # doctest: +NORMALIZE_WHITESPACE
         ['ibus/libzhuyin', 'ibus/chewing']
