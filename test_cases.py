@@ -1250,6 +1250,8 @@ def dummy():
     Qafar (Eretria)
     >>> print(language_name(languageId="aa_ET.utf8")) # doctest: +NORMALIZE_WHITESPACE
     Qafar (Otobbia)
+    >>> print(language_name(languageId="ab_GE.utf8")) # doctest: +NORMALIZE_WHITESPACE
+    Аԥсшәа (Қырҭтәыла)
     >>> print(language_name(languageId="af_ZA.utf8")) # doctest: +NORMALIZE_WHITESPACE
     Afrikaans (Suid-Afrika)
     >>> print(language_name(languageId="agr_PE.utf8")) # doctest: +NORMALIZE_WHITESPACE

@@ -17899,6 +17899,7 @@
   <territory>
     <territoryId>GE</territoryId>
     <names>
+      <name><languageId>ab</languageId><trName>Қырҭтәыла</trName></name>
       <name><languageId>af</languageId><trName>Georgië</trName></name>
       <name><languageId>agq</languageId><trName>Dzɔɔdzìa</trName></name>
       <name><languageId>ak</languageId><trName>Gyɔgyea</trName></name>
@@ -18097,16 +18098,20 @@
       <name><languageId>zu</languageId><trName>i-Georgia</trName></name>
     </names>
     <scripts>
-      <script><scriptId>Geor</scriptId><rank>1000</rank></script>
+      <script><scriptId>Geor</scriptId><rank>900</rank></script>
+      <script><scriptId>Cyrl</scriptId><rank>100</rank></script>
     </scripts>
     <locales>
-      <locale><localeId>ka_GE.UTF-8</localeId><rank>1000</rank></locale>
+      <locale><localeId>ka_GE.UTF-8</localeId><rank>900</rank></locale>
+      <locale><localeId>ab_GE.UTF-8</localeId><rank>100</rank></locale>
     </locales>
     <languages>
-      <language><languageId>ka</languageId><rank>1000</rank></language>
+      <language><languageId>ka</languageId><rank>900</rank></language>
+      <language><languageId>ab</languageId><rank>100</rank></language>
     </languages>
     <keyboards>
-      <keyboard><keyboardId>ge</keyboardId><rank>1000</rank></keyboard>
+      <keyboard><keyboardId>ge</keyboardId><rank>900</rank></keyboard>
+      <keyboard><keyboardId>ru</keyboardId><rank>100</rank></keyboard>
     </keyboards>
     <inputmethods>
     </inputmethods>

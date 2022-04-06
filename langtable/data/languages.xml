@@ -159,7 +159,7 @@
     <iso639-2-t>abk</iso639-2-t>
     <iso639-2-b>abk</iso639-2-b>
     <names>
-      <name><languageId>ab</languageId><trName>аҧсуа бызшәа</trName></name>
+      <name><languageId>ab</languageId><trName>Аԥсшәа</trName></name>
       <name><languageId>af</languageId><trName>Abkasies</trName></name>
       <name><languageId>am</languageId><trName>አብሐዚኛ</trName></name>
       <name><languageId>ar</languageId><trName>الأبخازية</trName></name>
@@ -288,6 +288,7 @@
       <script><scriptId>Cyrl</scriptId><rank>1000</rank></script>
     </scripts>
     <locales>
+      <locale><localeId>ab_GE.UTF-8</localeId><rank>1000</rank></locale>
     </locales>
     <territories>
       <territory><territoryId>GE</territoryId><rank>1000</rank></territory>
