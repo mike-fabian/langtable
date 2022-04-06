@@ -704,10 +704,10 @@ def dummy():
 
     >>> _test_language_territory(show_weights=False, languageId="ar", territoryId="MA") # doctest: +NORMALIZE_WHITESPACE
         ar: ['ar_EG.UTF-8', 'ar_SD.UTF-8', 'ar_DZ.UTF-8', 'ar_MA.UTF-8', 'ar_IQ.UTF-8', 'ar_SA.UTF-8', 'ar_YE.UTF-8', 'ar_SY.UTF-8', 'ar_TN.UTF-8', 'ar_LY.UTF-8', 'ar_JO.UTF-8', 'ar_AE.UTF-8', 'ar_LB.UTF-8', 'ar_KW.UTF-8', 'ar_OM.UTF-8', 'ar_QA.UTF-8', 'ar_BH.UTF-8', 'ar_IN.UTF-8', 'ar_SS.UTF-8']
-        MA: ['ar_MA.UTF-8', 'ber_MA.UTF-8']
+        MA: ['ar_MA.UTF-8', 'ber_MA.UTF-8', 'rif_MA.UTF-8']
          +: ['ar_MA.UTF-8']
         ar: ['ara', 'ara(azerty)', 'iq', 'ma', 'sy']
-        MA: ['ma']
+        MA: ['ma', 'ma(tifinagh)', 'us']
          +: ['ma']
 
     >>> _test_language_territory(show_weights=False, languageId="ar", territoryId="SY") # doctest: +NORMALIZE_WHITESPACE
@@ -1320,6 +1320,8 @@ def dummy():
     Tamaziɣt (Lezzayer)
     >>> print(language_name(languageId="ber_MA.utf8")) # doctest: +NORMALIZE_WHITESPACE
     ⵜⴰⵎⴰⵣⵉⵖⵜ (ⵜⴰⴳⵍⴷⵉⵜ ⵏ ⵍⵎⵖⵔⵉⴱ)
+    >>> print(language_name(languageId="rif_MA.utf8")) # doctest: +NORMALIZE_WHITESPACE
+    Tarifit (Lmerruk)
     >>> print(language_name(languageId="bg_BG.utf8")) # doctest: +NORMALIZE_WHITESPACE
     Български (България)
     >>> print(language_name(languageId="bhb_IN.utf8")) # doctest: +NORMALIZE_WHITESPACE

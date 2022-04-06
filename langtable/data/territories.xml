@@ -30281,6 +30281,7 @@
       <name><languageId>ps</languageId><trName>مراکش</trName></name>
       <name><languageId>pt</languageId><trName>Marrocos</trName></name>
       <name><languageId>qu</languageId><trName>Marruecos</trName></name>
+      <name><languageId>rif</languageId><trName>Lmerruk</trName></name>
       <name><languageId>rm</languageId><trName>Maroc</trName></name>
       <name><languageId>rn</languageId><trName>Maroke</trName></name>
       <name><languageId>ro</languageId><trName>Maroc</trName></name>
@@ -30347,14 +30348,18 @@
     </scripts>
     <locales>
       <locale><localeId>ar_MA.UTF-8</localeId><rank>900</rank></locale>
-      <locale><localeId>ber_MA.UTF-8</localeId><rank>100</rank></locale>
+      <locale><localeId>ber_MA.UTF-8</localeId><rank>90</rank></locale>
+      <locale><localeId>rif_MA.UTF-8</localeId><rank>10</rank></locale>
     </locales>
     <languages>
       <language><languageId>ar</languageId><rank>900</rank></language>
-      <language><languageId>ber</languageId><rank>100</rank></language>
+      <language><languageId>ber</languageId><rank>90</rank></language>
+      <language><languageId>rif</languageId><rank>90</rank></language>
     </languages>
     <keyboards>
-      <keyboard><keyboardId>ma</keyboardId><rank>1000</rank></keyboard>
+      <keyboard><keyboardId>ma</keyboardId><rank>900</rank></keyboard>
+      <keyboard><keyboardId>ma(tifinagh)</keyboardId><rank>90</rank></keyboard>
+      <keyboard><keyboardId>us</keyboardId><rank>10</rank></keyboard>
     </keyboards>
     <inputmethods>
     </inputmethods>
