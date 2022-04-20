@@ -37,7 +37,7 @@
     </territories>
   </keyboard>
   <keyboard>
-    <keyboardId>af(olpc-ps)</keyboardId>
+    <keyboardId>af(ps-olpc)</keyboardId>
     <description>Pashto (Afghanistan, OLPC)</description>
     <ascii>False</ascii>
     <languages>
@@ -1303,7 +1303,7 @@
   </keyboard>
   <keyboard>
     <keyboardId>in(tam)</keyboardId>
-    <description>Tamil</description>
+    <description>Tamil (InScript)</description>
     <ascii>False</ascii>
     <languages>
       <language><languageId>ta</languageId><rank>1000</rank></language>
@@ -1314,8 +1314,8 @@
     </territories>
   </keyboard>
   <keyboard>
-    <keyboardId>in(tam_TAB)</keyboardId>
-    <description>Tamil (TAB typewriter)	</description>
+    <keyboardId>in(tam_tamilnet_TAB)</keyboardId>
+    <description>Tamil (TamilNet '99, TAB encoding)</description>
     <ascii>False</ascii>
     <languages>
       <language><languageId>ta</languageId><rank>1000</rank></language>
@@ -1326,8 +1326,8 @@
     </territories>
   </keyboard>
   <keyboard>
-    <keyboardId>in(tam_TSCII)</keyboardId>
-    <description>Tamil (TSCII typewriter)</description>
+    <keyboardId>in(tam_tamilnet_TSCII)</keyboardId>
+    <description>Tamil (TamilNet '99, TSCII encoding)</description>
     <ascii>False</ascii>
     <languages>
       <language><languageId>ta</languageId><rank>0</rank></language>
@@ -1337,8 +1337,8 @@
     </territories>
   </keyboard>
   <keyboard>
-    <keyboardId>in(tam_keyboard_with_numerals)</keyboardId>
-    <description>Tamil</description>
+    <keyboardId>in(tam_tamilnet_with_tam_nums)</keyboardId>
+    <description>Tamil (TamilNet '99 with Tamil numerals)</description>
     <ascii>False</ascii>
     <languages>
       <language><languageId>ta</languageId><rank>0</rank></language>
@@ -1348,8 +1348,8 @@
     </territories>
   </keyboard>
   <keyboard>
-    <keyboardId>in(tam_unicode)</keyboardId>
-    <description>Tamil (Unicode)</description>
+    <keyboardId>in(tam_tamilnet)</keyboardId>
+    <description>Tamil (TamilNet '99)</description>
     <ascii>False</ascii>
     <languages>
       <language><languageId>ta</languageId><rank>0</rank></language>
@@ -2423,7 +2423,7 @@
     </territories>
   </keyboard>
   <keyboard>
-    <keyboardId>se(ru)</keyboardId>
+    <keyboardId>se(rus)</keyboardId>
     <description>Russian (Sweden, phonetic)</description>
     <ascii>False</ascii>
     <languages>
