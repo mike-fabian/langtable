@@ -7520,6 +7520,7 @@
       <name><languageId>ko</languageId><trName>브라질</trName></name>
       <name><languageId>kok</languageId><trName>ब्राझील</trName></name>
       <name><languageId>ks</languageId><trName>برازِل</trName></name>
+      <name><languageId>ks_Deva</languageId><trName>ब्राज़ील</trName></name>
       <name><languageId>ksb</languageId><trName>Blazili</trName></name>
       <name><languageId>ksf</languageId><trName>brɛsíl</trName></name>
       <name><languageId>ksh</languageId><trName>Brasilije</trName></name>
@@ -11028,6 +11029,7 @@
       <name><languageId>ko</languageId><trName>중국</trName></name>
       <name><languageId>kok</languageId><trName>चीन</trName></name>
       <name><languageId>ks</languageId><trName>چیٖن</trName></name>
+      <name><languageId>ks_Deva</languageId><trName>चीन</trName></name>
       <name><languageId>ksb</languageId><trName>China</trName></name>
       <name><languageId>ksf</languageId><trName>cín</trName></name>
       <name><languageId>ksh</languageId><trName>Schiina</trName></name>
@@ -12890,6 +12892,7 @@
       <name><languageId>ko</languageId><trName>독일</trName></name>
       <name><languageId>kok</languageId><trName>जर्मनी</trName></name>
       <name><languageId>ks</languageId><trName>جرمٔنی</trName></name>
+      <name><languageId>ks_Deva</languageId><trName>जर्मन</trName></name>
       <name><languageId>ksb</languageId><trName>Ujeumani</trName></name>
       <name><languageId>ksf</languageId><trName>djɛrman</trName></name>
       <name><languageId>ksh</languageId><trName>Doütschland</trName></name>
@@ -17076,6 +17079,7 @@
       <name><languageId>ko</languageId><trName>프랑스</trName></name>
       <name><languageId>kok</languageId><trName>फ्रान्स</trName></name>
       <name><languageId>ks</languageId><trName>فرانس</trName></name>
+      <name><languageId>ks_Deva</languageId><trName>फ्रांस</trName></name>
       <name><languageId>ksb</languageId><trName>Ufalansa</trName></name>
       <name><languageId>ksf</languageId><trName>pɛrɛsǝ́</trName></name>
       <name><languageId>ksh</languageId><trName>Frankrisch</trName></name>
@@ -17534,6 +17538,7 @@
       <name><languageId>ko</languageId><trName>영국</trName></name>
       <name><languageId>kok</languageId><trName>युनायटेड किंगडम</trName></name>
       <name><languageId>ks</languageId><trName>یُنایٹِڑ کِنگڈَم</trName></name>
+      <name><languageId>ks_Deva</languageId><trName>मुतहीद बादशाहत</trName></name>
       <name><languageId>ksb</languageId><trName>Uingeeza</trName></name>
       <name><languageId>ksf</languageId><trName>kǝlɔŋ kǝ kǝtáatáaŋzǝn</trName></name>
       <name><languageId>ksh</languageId><trName>Jruußbrettannije</trName></name>
@@ -24410,6 +24415,7 @@
       <name><languageId>ko</languageId><trName>이탈리아</trName></name>
       <name><languageId>kok</languageId><trName>इटली</trName></name>
       <name><languageId>ks</languageId><trName>اِٹلی</trName></name>
+      <name><languageId>ks_Deva</languageId><trName>इटली</trName></name>
       <name><languageId>ksb</languageId><trName>Italia</trName></name>
       <name><languageId>ksf</languageId><trName>italí</trName></name>
       <name><languageId>ksh</languageId><trName>Itaalije</trName></name>
@@ -25242,6 +25248,7 @@
       <name><languageId>ko</languageId><trName>일본</trName></name>
       <name><languageId>kok</languageId><trName>जपान</trName></name>
       <name><languageId>ks</languageId><trName>جاپان</trName></name>
+      <name><languageId>ks_Deva</languageId><trName>जापान</trName></name>
       <name><languageId>ksb</languageId><trName>Japani</trName></name>
       <name><languageId>ksf</languageId><trName>japɔ́ŋ</trName></name>
       <name><languageId>ksh</languageId><trName>Japan</trName></name>
@@ -41729,6 +41736,7 @@
       <name><languageId>ko</languageId><trName>러시아</trName></name>
       <name><languageId>kok</languageId><trName>रूस</trName></name>
       <name><languageId>ks</languageId><trName>روٗس</trName></name>
+      <name><languageId>ks_Deva</languageId><trName>रूस</trName></name>
       <name><languageId>ksb</languageId><trName>Ulusi</trName></name>
       <name><languageId>ksf</languageId><trName>risí</trName></name>
       <name><languageId>ksh</languageId><trName>Rußland</trName></name>
@@ -50421,6 +50429,7 @@
       <name><languageId>ko</languageId><trName>미국</trName></name>
       <name><languageId>kok</languageId><trName>युनायटेड स्टेट्स</trName></name>
       <name><languageId>ks</languageId><trName>یوٗنایٹِڑ سِٹیٹِس</trName></name>
+      <name><languageId>ks_Deva</languageId><trName>मूतहीद रियासत</trName></name>
       <name><languageId>ksb</languageId><trName>Malekani</trName></name>
       <name><languageId>ksf</languageId><trName>amɛrika</trName></name>
       <name><languageId>ksh</languageId><trName>de vereineschte Schtaate vun Ammärrika</trName></name>

@@ -8429,6 +8429,7 @@
       <name><languageId>ko</languageId><trName>독일어</trName></name>
       <name><languageId>kok</languageId><trName>जर्मन</trName></name>
       <name><languageId>ks</languageId><trName>جٔرمَن</trName></name>
+      <name><languageId>ks_Deva</languageId><trName>जर्मन</trName></name>
       <name><languageId>ksb</languageId><trName>Kijeumani</trName></name>
       <name><languageId>ksf</languageId><trName>ridjɛrman</trName></name>
       <name><languageId>ksh</languageId><trName>Deutsch</trName></name>
@@ -10278,6 +10279,7 @@
       <name><languageId>ko</languageId><trName>영어</trName></name>
       <name><languageId>kok</languageId><trName>इंग्लीश</trName></name>
       <name><languageId>ks</languageId><trName>اَنگیٖزۍ</trName></name>
+      <name><languageId>ks_Deva</languageId><trName>अंगरिज़ी</trName></name>
       <name><languageId>ksb</languageId><trName>Kiingeeza</trName></name>
       <name><languageId>ksf</languageId><trName>riingɛrís</trName></name>
       <name><languageId>ksh</languageId><trName>Änglesch</trName></name>
@@ -10789,6 +10791,7 @@
       <name><languageId>ko</languageId><trName>스페인어</trName></name>
       <name><languageId>kok</languageId><trName>स्पॅनीश</trName></name>
       <name><languageId>ks</languageId><trName>ہسپانوی</trName></name>
+      <name><languageId>ks_Deva</languageId><trName>हसपानवी</trName></name>
       <name><languageId>ksb</languageId><trName>Kihispania</trName></name>
       <name><languageId>ksf</languageId><trName>rikpanyá</trName></name>
       <name><languageId>ksh</languageId><trName>Schpahnesch</trName></name>
@@ -12796,6 +12799,7 @@
       <name><languageId>ko</languageId><trName>프랑스어</trName></name>
       <name><languageId>kok</languageId><trName>फ्रेंच</trName></name>
       <name><languageId>ks</languageId><trName>فرانسیسی</trName></name>
+      <name><languageId>ks_Deva</languageId><trName>फ्रांसीसी</trName></name>
       <name><languageId>ksb</languageId><trName>Kifalansa</trName></name>
       <name><languageId>ksf</languageId><trName>ripɛrɛsǝ́</trName></name>
       <name><languageId>ksh</languageId><trName>Franzühsesch</trName></name>
@@ -18597,6 +18601,7 @@
       <name><languageId>ko</languageId><trName>이탈리아어</trName></name>
       <name><languageId>kok</languageId><trName>इटालियन</trName></name>
       <name><languageId>ks</languageId><trName>اِطالوی</trName></name>
+      <name><languageId>ks_Deva</languageId><trName>इतालवी</trName></name>
       <name><languageId>ksb</languageId><trName>Kiitaliano</trName></name>
       <name><languageId>ksf</languageId><trName>riitalyɛ́n</trName></name>
       <name><languageId>ksh</languageId><trName>Etalljähnesch</trName></name>
@@ -19037,6 +19042,7 @@
       <name><languageId>ko</languageId><trName>일본어</trName></name>
       <name><languageId>kok</languageId><trName>जपानी</trName></name>
       <name><languageId>ks</languageId><trName>جاپٲنۍ</trName></name>
+      <name><languageId>ks_Deva</languageId><trName>जापानी</trName></name>
       <name><languageId>ksb</languageId><trName>Kijapani</trName></name>
       <name><languageId>ksf</languageId><trName>rijapɔ́ŋ</trName></name>
       <name><languageId>ksh</languageId><trName>Japahnesch</trName></name>
@@ -35411,6 +35417,7 @@
       <name><languageId>ko</languageId><trName>포르투갈어</trName></name>
       <name><languageId>kok</languageId><trName>पोर्तुगीज</trName></name>
       <name><languageId>ks</languageId><trName>پُرتَگیٖز</trName></name>
+      <name><languageId>ks_Deva</languageId><trName>पुरतउगाली</trName></name>
       <name><languageId>ksb</languageId><trName>Kileno</trName></name>
       <name><languageId>ksf</languageId><trName>ripɔrtugɛ́</trName></name>
       <name><languageId>ksh</languageId><trName>Pochtojesesch</trName></name>
@@ -35910,9 +35917,29 @@
     <iso639-2-t>None</iso639-2-t>
     <iso639-2-b>None</iso639-2-b>
     <names>
+      <name><languageId>ast</languageId><trName>rifianu</trName></name>
+      <name><languageId>cs</languageId><trName>rífština</trName></name>
       <name><languageId>de</languageId><trName>Tarifit</trName></name>
       <name><languageId>en</languageId><trName>Tarifit</trName></name>
+      <name><languageId>et</languageId><trName>riifi</trName></name>
+      <name><languageId>fi</languageId><trName>tarifit</trName></name>
+      <name><languageId>fr</languageId><trName>rifain</trName></name>
+      <name><languageId>hy</languageId><trName>ռիֆերեն</trName></name>
+      <name><languageId>it</languageId><trName>tarifit</trName></name>
+      <name><languageId>ja</languageId><trName>リーフ語</trName></name>
+      <name><languageId>lb</languageId><trName>Tarifit</trName></name>
+      <name><languageId>lt</languageId><trName>rifų</trName></name>
+      <name><languageId>mk</languageId><trName>рифски</trName></name>
+      <name><languageId>nl</languageId><trName>Riffijns</trName></name>
+      <name><languageId>no</languageId><trName>riff</trName></name>
+      <name><languageId>pl</languageId><trName>tarifit</trName></name>
       <name><languageId>rif</languageId><trName>Tarifit</trName></name>
+      <name><languageId>sv</languageId><trName>riffianska</trName></name>
+      <name><languageId>th</languageId><trName>ริฟฟิอัน</trName></name>
+      <name><languageId>to</languageId><trName>lea fakalifi</trName></name>
+      <name><languageId>tr</languageId><trName>Rif Berbericesi</trName></name>
+      <name><languageId>yue</languageId><trName>里菲亞諾文</trName></name>
+      <name><languageId>zh_Hant</languageId><trName>里菲亞諾文</trName></name>
     </names>
     <scripts>
       <script><scriptId>Latn</scriptId><rank>1000</rank></script>
@@ -36720,6 +36747,7 @@
       <name><languageId>ko</languageId><trName>러시아어</trName></name>
       <name><languageId>kok</languageId><trName>रशियन</trName></name>
       <name><languageId>ks</languageId><trName>روٗسی</trName></name>
+      <name><languageId>ks_Deva</languageId><trName>रूसी</trName></name>
       <name><languageId>ksb</languageId><trName>Kilusi</trName></name>
       <name><languageId>ksf</languageId><trName>rirís</trName></name>
       <name><languageId>ksh</languageId><trName>Rußßesch</trName></name>
@@ -50750,6 +50778,7 @@
       <name><languageId>ko</languageId><trName>중국어</trName></name>
       <name><languageId>kok</languageId><trName>चिनी</trName></name>
       <name><languageId>ks</languageId><trName>چیٖنی ﴿ترجمع اِشارٕ: خاص طور، مینڈارن چیٖنی۔﴾</trName></name>
+      <name><languageId>ks_Deva</languageId><trName>चीनी (तरजुम इशार: खास तोर, मैन्डरिन चीनी।)</trName></name>
       <name><languageId>ksb</languageId><trName>Kichina</trName></name>
       <name><languageId>ksf</languageId><trName>ricinɔá</trName></name>
       <name><languageId>ksh</languageId><trName>Schinehsesch (Mandarin)</trName></name>
@@ -50986,6 +51015,7 @@
       <name><languageId>ko</languageId><trName>중국어(만다린, 간체)</trName></name>
       <name><languageId>kok</languageId><trName>सोंपी मंडारीन चिनी</trName></name>
       <name><languageId>ks</languageId><trName>سَہل مینڈارن چیٖنی</trName></name>
+      <name><languageId>ks_Deva</languageId><trName>आसान मैन्डरिन चीनी</trName></name>
       <name><languageId>ksh</languageId><trName>Schinehsesch (eijfache Schreff)</trName></name>
       <name><languageId>ku</languageId><trName>çîniya mandarînî ya sadekirî</trName></name>
       <name><languageId>kw</languageId><trName>Chinek sempelhes</trName></name>
@@ -51229,6 +51259,7 @@
       <name><languageId>ko</languageId><trName>중국어(만다린, 번체)</trName></name>
       <name><languageId>kok</languageId><trName>पारंपारीक मंडारीन चिनी</trName></name>
       <name><languageId>ks</languageId><trName>رِوٲجی مینڈارن چیٖنی</trName></name>
+      <name><languageId>ks_Deva</languageId><trName>रिवायाती मैन्डरिन चीनी</trName></name>
       <name><languageId>ksh</languageId><trName>Schinehsesch (tradizjonälle Schreff)</trName></name>
       <name><languageId>ku</languageId><trName>çîniya mandarînî ya kevneşopî</trName></name>
       <name><languageId>kw</languageId><trName>Chinek hengovek</trName></name>
