@@ -712,7 +712,7 @@ def dummy():
 
     >>> _test_language_territory(show_weights=False, languageId="ar", territoryId="SY") # doctest: +NORMALIZE_WHITESPACE
         ar: ['ar_EG.UTF-8', 'ar_SD.UTF-8', 'ar_DZ.UTF-8', 'ar_MA.UTF-8', 'ar_IQ.UTF-8', 'ar_SA.UTF-8', 'ar_YE.UTF-8', 'ar_SY.UTF-8', 'ar_TN.UTF-8', 'ar_LY.UTF-8', 'ar_JO.UTF-8', 'ar_AE.UTF-8', 'ar_LB.UTF-8', 'ar_KW.UTF-8', 'ar_OM.UTF-8', 'ar_QA.UTF-8', 'ar_BH.UTF-8', 'ar_IN.UTF-8', 'ar_SS.UTF-8']
-        SY: ['ar_SY.UTF-8']
+        SY: ['ar_SY.UTF-8', 'syr.UTF-8']
          +: ['ar_SY.UTF-8']
         ar: ['ara', 'ara(azerty)', 'iq', 'ma', 'sy']
         SY: ['sy']
@@ -1796,6 +1796,8 @@ def dummy():
     Kiswahili (Kenya)
     >>> print(language_name(languageId="sw_TZ.utf8")) # doctest: +NORMALIZE_WHITESPACE
     Kiswahili (Tanzania)
+    >>> print(language_name(languageId="syr.utf8")) # doctest: +NORMALIZE_WHITESPACE
+    ܠܫܢܐ ܣܘܪܝܝܐ
     >>> print(language_name(languageId="szl_PL.utf8")) # doctest: +NORMALIZE_WHITESPACE
     Ślōnskŏ gŏdka (Polska)
     >>> print(language_name(languageId="ta_IN.utf8")) # doctest: +NORMALIZE_WHITESPACE

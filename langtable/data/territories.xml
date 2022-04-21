@@ -46263,13 +46263,16 @@
       <name><languageId>zu</languageId><trName>i-Syria</trName></name>
     </names>
     <scripts>
-      <script><scriptId>Arab</scriptId><rank>1000</rank></script>
+      <script><scriptId>Arab</scriptId><rank>990</rank></script>
+      <script><scriptId>Syrc</scriptId><rank>10</rank></script>
     </scripts>
     <locales>
-      <locale><localeId>ar_SY.UTF-8</localeId><rank>1000</rank></locale>
+      <locale><localeId>ar_SY.UTF-8</localeId><rank>990</rank></locale>
+      <locale><localeId>syr.UTF-8</localeId><rank>10</rank></locale>
     </locales>
     <languages>
-      <language><languageId>ar</languageId><rank>1000</rank></language>
+      <language><languageId>ar</languageId><rank>990</rank></language>
+      <language><languageId>syr</languageId><rank>10</rank></language>
     </languages>
     <keyboards>
       <keyboard><keyboardId>sy</keyboardId><rank>1000</rank></keyboard>

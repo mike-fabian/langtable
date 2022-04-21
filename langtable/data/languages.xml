@@ -43007,9 +43007,13 @@
       <script><scriptId>Syrc</scriptId><rank>1000</rank></script>
     </scripts>
     <locales>
+      <locale><localeId>syr.UTF-8</localeId><rank>1000</rank></locale>
     </locales>
     <territories>
-      <territory><territoryId>SY</territoryId><rank>1000</rank></territory>
+      <territory><territoryId>SY</territoryId><rank>900</rank></territory>
+      <territory><territoryId>IR</territoryId><rank>90</rank></territory>
+      <territory><territoryId>IQ</territoryId><rank>9</rank></territory>
+      <territory><territoryId>TR</territoryId><rank>1</rank></territory>
     </territories>
     <keyboards>
       <keyboard><keyboardId>us</keyboardId><rank>1000</rank></keyboard>
