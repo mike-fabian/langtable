@@ -1,3 +1,12 @@
+2022-04-21  Mike FABIAN  <mfabian@redhat.com>
+
+	* Add syr locale
+	* Get translation changes from CLDR
+	* Add more translations from CLDR
+	* Fix names for keyboard layouts which have changed
+	* Add ab_GE locale
+	* Add rif language
+
 2022-01-25  Mike FABIAN  <mfabian@redhat.com>
 
 	* Get translation changes from CLDR
