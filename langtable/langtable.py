@@ -1127,7 +1127,7 @@ def parse_locale(localeId):
     if localeId:
         dot_index = localeId.find('.')
         at_index = localeId.find('@')
-        if dot_index >= 0 and at_index > dot_index:
+        if 0 <= dot_index < at_index:
             encoding  = localeId[dot_index + 1:at_index]
             localeId = localeId[:dot_index] + localeId[at_index:]
         elif dot_index >= 0:
@@ -1147,11 +1147,11 @@ def parse_locale(localeId):
             variant = 'POSIX'
             localeId = ''
     if localeId:
-        for key in _glibc_script_ids:
-            localeId = localeId.replace(key, _glibc_script_ids[key])
-            if localeId.endswith('@' + _glibc_script_ids[key]):
-                script = _glibc_script_ids[key]
-                localeId = localeId.replace('@' + _glibc_script_ids[key], '')
+        for key, script_id_iso in _glibc_script_ids.items():
+            localeId = localeId.replace(key, script_id_iso)
+            if localeId.endswith('@' + script_id_iso):
+                script = script_id_iso
+                localeId = localeId.replace('@' + script_id_iso, '')
     if localeId:
         at_index = localeId.find('@')
         if at_index >= 0:
