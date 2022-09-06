@@ -1372,7 +1372,7 @@
   </language>
   <language>
     <languageId>ar</languageId>
-    <iso639-1>ara</iso639-1>
+    <iso639-1>ar</iso639-1>
     <iso639-2-t>ara</iso639-2-t>
     <iso639-2-b>ara</iso639-2-b>
     <names>
@@ -1639,6 +1639,7 @@
       <keyboard><keyboardId>sy</keyboardId><rank>8</rank></keyboard>
     </keyboards>
     <inputmethods>
+      <inputmethod><inputmethodId>ibus/m17n:ar:kbd</inputmethodId><rank>1000</rank></inputmethod>
     </inputmethods>
     <consolefonts>
       <consolefont><consolefontId>latarcyrheb-sun16</consolefontId><rank>1000</rank></consolefont>

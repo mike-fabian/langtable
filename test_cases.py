@@ -439,6 +439,9 @@ def dummy():
     >>> list_keyboards(languageId="sr_Cyrl_RS", scriptId="Latn", territoryId="BE") # doctest: +NORMALIZE_WHITESPACE
         ['rs']
 
+    >>> list_inputmethods(languageId="ar") # doctest: +NORMALIZE_WHITESPACE
+        ['ibus/m17n:ar:kbd']
+
     >>> list_inputmethods(languageId="ja") # doctest: +NORMALIZE_WHITESPACE
         ['ibus/kkc', 'ibus/anthy']
 
