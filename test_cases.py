@@ -1388,7 +1388,7 @@ def dummy():
     >>> print(language_name(languageId="csb_PL.utf8")) # doctest: +NORMALIZE_WHITESPACE
     Kaszëbsczi jãzëk (Pòlskô)
     >>> print(language_name(languageId="cv_RU.utf8")) # doctest: +NORMALIZE_WHITESPACE
-    Чӑвашла (Раҫҫей)
+    Чӑваш (Раҫҫей)
     >>> print(language_name(languageId="cy_GB.utf8")) # doctest: +NORMALIZE_WHITESPACE
     Cymraeg (Y Deyrnas Unedig)
     >>> print(language_name(languageId="da_DK.utf8")) # doctest: +NORMALIZE_WHITESPACE
@@ -1550,7 +1550,7 @@ def dummy():
     >>> print(language_name(languageId="gv_GB.utf8")) # doctest: +NORMALIZE_WHITESPACE
     Gaelg (Rywvaneth Unys)
     >>> print(language_name(languageId="ha_NG.utf8")) # doctest: +NORMALIZE_WHITESPACE
-    Hausa (Najeriya)
+    Hausa (Nijeriya)
     >>> print(language_name(languageId="hak_TW.utf8")) # doctest: +NORMALIZE_WHITESPACE
     客家話 (中華民國)
     >>> print(language_name(languageId="he_IL.utf8")) # doctest: +NORMALIZE_WHITESPACE
@@ -1608,7 +1608,7 @@ def dummy():
     >>> print(language_name(languageId="ks_IN.utf8")) # doctest: +NORMALIZE_WHITESPACE
     کٲشُر (ہِندوستان)
     >>> print(language_name(languageId="ks_IN.utf8@devanagari")) # doctest: +NORMALIZE_WHITESPACE
-    कॉशुर (भारत)
+    कॉशुर (हिंदोस्तान)
     >>> print(language_name(languageId="ku_TR.utf8")) # doctest: +NORMALIZE_WHITESPACE
     Kurdî (Tirkiye)
     >>> print(language_name(languageId="kw_GB.utf8")) # doctest: +NORMALIZE_WHITESPACE
@@ -1648,7 +1648,7 @@ def dummy():
     >>> print(language_name(languageId="mhr_RU.utf8")) # doctest: +NORMALIZE_WHITESPACE
     Марий йылме (Russia)
     >>> print(language_name(languageId="mi_NZ.utf8")) # doctest: +NORMALIZE_WHITESPACE
-    Te reo Māori (Aotearoa)
+    Māori (Aotearoa)
     >>> print(language_name(languageId="miq_NI.utf8")) # doctest: +NORMALIZE_WHITESPACE
     Mískitu (Nicaragua)
     >>> print(language_name(languageId="mjw_IN.utf8")) # doctest: +NORMALIZE_WHITESPACE
@@ -1870,7 +1870,7 @@ def dummy():
     >>> print(language_name(languageId="wo_SN.utf8")) # doctest: +NORMALIZE_WHITESPACE
     Wolof (Senegaal)
     >>> print(language_name(languageId="xh_ZA.utf8")) # doctest: +NORMALIZE_WHITESPACE
-    isiXhosa (eMzantsi Afrika)
+    IsiXhosa (EMzantsi Afrika)
     >>> print(language_name(languageId="yi_US.utf8")) # doctest: +NORMALIZE_WHITESPACE
     ייִדיש (פֿאַראייניגטע שטאַטן)
     >>> print(language_name(languageId="yo_NG.utf8")) # doctest: +NORMALIZE_WHITESPACE
