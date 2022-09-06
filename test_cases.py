@@ -1388,7 +1388,7 @@ def dummy():
     >>> print(language_name(languageId="csb_PL.utf8")) # doctest: +NORMALIZE_WHITESPACE
     Kaszëbsczi jãzëk (Pòlskô)
     >>> print(language_name(languageId="cv_RU.utf8")) # doctest: +NORMALIZE_WHITESPACE
-    Чӑвашла (Russia)
+    Чӑвашла (Раҫҫей)
     >>> print(language_name(languageId="cy_GB.utf8")) # doctest: +NORMALIZE_WHITESPACE
     Cymraeg (Y Deyrnas Unedig)
     >>> print(language_name(languageId="da_DK.utf8")) # doctest: +NORMALIZE_WHITESPACE
