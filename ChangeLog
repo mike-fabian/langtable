@@ -1,3 +1,9 @@
+2022-09-06  Mike FABIAN  <mfabian@redhat.com>
+
+	* Add ibus/m17n:ar:kbd as input method for Arabic and fix iso639-1 code for Arabic
+	* Get translation changes from CLDR
+	* Add more translations from CLDR
+
 2022-04-21  Mike FABIAN  <mfabian@redhat.com>
 
 	* Add syr locale
