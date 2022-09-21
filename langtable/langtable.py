@@ -22,6 +22,7 @@
 #     list_locales()
 #     list_keyboards()
 #     list_common_languages()
+#     list_common_locales()
 #     list_common_keyboards()
 #     list_consolefonts()
 #     list_inputmethods()
@@ -117,6 +118,10 @@ _DATADIR = '/usr/share/langtable'
 # Rank threshold to qualify a
 # keyboard layout as prevalent
 _KEYBOARD_LAYOUT_RANK_THRESHOLD = 500
+
+# Rank threshold to qualify a
+# locale as prevalent
+_LOCALE_RANK_THRESHOLD = 500
 
 # For the ICU/CLDR locale pattern see: http://userguide.icu-project.org/locale
 # (We ignore the variant code here)
@@ -2210,7 +2215,7 @@ def list_keyboards(concise=True, show_weights=False, languageId = None, scriptId
 
 def list_common_keyboards(languageId = None, scriptId = None, territoryId = None):
     '''Returns highest ranked keyboard layout(s)
-
+2
     :param languageId: identifier for the language
     :type languageId: string
     :param scriptId: identifier for the script
@@ -2267,6 +2272,81 @@ def list_common_keyboards(languageId = None, scriptId = None, territoryId = None
         high_ranked_keyboards.append(common_layouts[0])
 
     return sorted(high_ranked_keyboards)
+
+def list_common_locales(languageId = None, scriptId = None, territoryId = None):
+    '''Returns highest ranked locales
+
+    :param languageId: identifier for the language
+    :type languageId: string
+    :param scriptId: identifier for the script
+    :type scriptId: string
+    :param territoryId: identifier for the territory
+    :type territoryId: string
+    :return: list of locales
+    :rtype: list of strings
+
+    **Examples:**
+
+    >>> list_common_locales()
+    ['ar_EG.UTF-8', 'en_US.UTF-8', 'en_GB.UTF-8', 'fr_FR.UTF-8', 'de_DE.UTF-8', 'ja_JP.UTF-8', 'zh_CN.UTF-8', 'ru_RU.UTF-8', 'es_ES.UTF-8']
+
+    >>> list_common_locales(languageId='fr')
+    ['fr_FR.UTF-8']
+
+    >>> list_common_locales(territoryId='CA')
+    ['en_CA.UTF-8']
+
+    >>> list_common_locales(territoryId='FR')
+    ['fr_FR.UTF-8']
+
+    >>> list_common_locales(languageId='fr', territoryId='CA')
+    ['fr_CA.UTF-8']
+
+    >>> list_common_locales(languageId='de', territoryId='FR')
+    ['de_DE.UTF-8']
+
+    >>> list_common_locales(languageId='sr', scriptId='Latn')
+    ['sr_RS.UTF-8@latin']
+
+    >>> list_common_locales(languageId='sr', scriptId='Cyrl')
+    ['sr_RS.UTF-8']
+
+    >>> list_common_locales(languageId='zh', scriptId='Hans')
+    ['zh_CN.UTF-8']
+
+    >>> list_common_locales(languageId='zh', scriptId='Hant')
+    ['zh_TW.UTF-8']
+
+    >>> list_common_locales(languageId='zh', territoryId='TW')
+    ['zh_TW.UTF-8']
+    '''
+    high_ranked_locales = list()
+    if not languageId and not scriptId and not territoryId:
+        for language in list_common_languages():
+            locales = _languages_db[language].locales
+            selected_locales = [locale for locale, rank
+                                in sorted(locales.items(),
+                                          key=lambda x: (-x[1]))
+                                if rank >= _LOCALE_RANK_THRESHOLD]
+            if selected_locales:
+                high_ranked_locales.extend(selected_locales)
+        return high_ranked_locales
+
+    kwargs = dict()
+    locale = _parse_and_split_languageId(
+        languageId=languageId, scriptId=scriptId, territoryId=territoryId
+    )
+    if locale.language:
+        kwargs.update(dict(languageId=locale.language))
+    if locale.script:
+        kwargs.update(dict(scriptId=locale.script))
+    if locale.territory:
+        kwargs.update(dict(territoryId=locale.territory))
+    common_locales = list_locales(**kwargs)
+    if common_locales:
+        # Picking up first locale from the list
+        high_ranked_locales.append(common_locales[0])
+    return high_ranked_locales
 
 def list_consolefonts(concise=True, show_weights=False, languageId = None, scriptId = None, territoryId = None):
     u'''List likely Linux Console fonts

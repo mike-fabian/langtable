@@ -1651,7 +1651,7 @@
       <script><scriptId>Syrc</scriptId><rank>10</rank></script>
     </scripts>
     <locales>
-      <locale><localeId>ar_EG.UTF-8</localeId><rank>300</rank></locale>
+      <locale><localeId>ar_EG.UTF-8</localeId><rank>600</rank></locale>
       <locale><localeId>ar_SD.UTF-8</localeId><rank>170</rank></locale>
       <locale><localeId>ar_DZ.UTF-8</localeId><rank>150</rank></locale>
       <locale><localeId>ar_MA.UTF-8</localeId><rank>140</rank></locale>
@@ -11297,50 +11297,50 @@
     </scripts>
     <locales>
       <locale><localeId>es_ES.UTF-8</localeId><rank>1000</rank></locale>
-      <locale><localeId>es_AR.UTF-8</localeId><rank>900</rank></locale>
-      <locale><localeId>es_BO.UTF-8</localeId><rank>900</rank></locale>
-      <locale><localeId>es_CL.UTF-8</localeId><rank>900</rank></locale>
-      <locale><localeId>es_CO.UTF-8</localeId><rank>900</rank></locale>
-      <locale><localeId>es_CR.UTF-8</localeId><rank>900</rank></locale>
-      <locale><localeId>es_CU.UTF-8</localeId><rank>900</rank></locale>
-      <locale><localeId>es_DO.UTF-8</localeId><rank>900</rank></locale>
-      <locale><localeId>es_EC.UTF-8</localeId><rank>900</rank></locale>
-      <locale><localeId>es_GT.UTF-8</localeId><rank>900</rank></locale>
-      <locale><localeId>es_HN.UTF-8</localeId><rank>900</rank></locale>
-      <locale><localeId>es_MX.UTF-8</localeId><rank>900</rank></locale>
-      <locale><localeId>es_NI.UTF-8</localeId><rank>900</rank></locale>
-      <locale><localeId>es_PA.UTF-8</localeId><rank>900</rank></locale>
-      <locale><localeId>es_PE.UTF-8</localeId><rank>900</rank></locale>
-      <locale><localeId>es_PR.UTF-8</localeId><rank>900</rank></locale>
-      <locale><localeId>es_PY.UTF-8</localeId><rank>900</rank></locale>
-      <locale><localeId>es_SV.UTF-8</localeId><rank>900</rank></locale>
-      <locale><localeId>es_US.UTF-8</localeId><rank>900</rank></locale>
-      <locale><localeId>es_UY.UTF-8</localeId><rank>900</rank></locale>
-      <locale><localeId>es_VE.UTF-8</localeId><rank>900</rank></locale>
+      <locale><localeId>es_AR.UTF-8</localeId><rank>400</rank></locale>
+      <locale><localeId>es_BO.UTF-8</localeId><rank>400</rank></locale>
+      <locale><localeId>es_CL.UTF-8</localeId><rank>400</rank></locale>
+      <locale><localeId>es_CO.UTF-8</localeId><rank>400</rank></locale>
+      <locale><localeId>es_CR.UTF-8</localeId><rank>400</rank></locale>
+      <locale><localeId>es_CU.UTF-8</localeId><rank>400</rank></locale>
+      <locale><localeId>es_DO.UTF-8</localeId><rank>400</rank></locale>
+      <locale><localeId>es_EC.UTF-8</localeId><rank>400</rank></locale>
+      <locale><localeId>es_GT.UTF-8</localeId><rank>400</rank></locale>
+      <locale><localeId>es_HN.UTF-8</localeId><rank>400</rank></locale>
+      <locale><localeId>es_MX.UTF-8</localeId><rank>400</rank></locale>
+      <locale><localeId>es_NI.UTF-8</localeId><rank>400</rank></locale>
+      <locale><localeId>es_PA.UTF-8</localeId><rank>400</rank></locale>
+      <locale><localeId>es_PE.UTF-8</localeId><rank>400</rank></locale>
+      <locale><localeId>es_PR.UTF-8</localeId><rank>400</rank></locale>
+      <locale><localeId>es_PY.UTF-8</localeId><rank>400</rank></locale>
+      <locale><localeId>es_SV.UTF-8</localeId><rank>400</rank></locale>
+      <locale><localeId>es_US.UTF-8</localeId><rank>400</rank></locale>
+      <locale><localeId>es_UY.UTF-8</localeId><rank>400</rank></locale>
+      <locale><localeId>es_VE.UTF-8</localeId><rank>400</rank></locale>
     </locales>
     <territories>
       <territory><territoryId>ES</territoryId><rank>1000</rank></territory>
-      <territory><territoryId>419</territoryId><rank>900</rank></territory>
-      <territory><territoryId>AR</territoryId><rank>900</rank></territory>
-      <territory><territoryId>BO</territoryId><rank>900</rank></territory>
-      <territory><territoryId>CL</territoryId><rank>900</rank></territory>
-      <territory><territoryId>CO</territoryId><rank>900</rank></territory>
-      <territory><territoryId>CR</territoryId><rank>900</rank></territory>
-      <territory><territoryId>CU</territoryId><rank>900</rank></territory>
-      <territory><territoryId>DO</territoryId><rank>900</rank></territory>
-      <territory><territoryId>EC</territoryId><rank>900</rank></territory>
-      <territory><territoryId>GT</territoryId><rank>900</rank></territory>
-      <territory><territoryId>HN</territoryId><rank>900</rank></territory>
-      <territory><territoryId>MX</territoryId><rank>900</rank></territory>
-      <territory><territoryId>NI</territoryId><rank>900</rank></territory>
-      <territory><territoryId>PA</territoryId><rank>900</rank></territory>
-      <territory><territoryId>PE</territoryId><rank>900</rank></territory>
-      <territory><territoryId>PR</territoryId><rank>900</rank></territory>
-      <territory><territoryId>PY</territoryId><rank>900</rank></territory>
-      <territory><territoryId>SV</territoryId><rank>900</rank></territory>
-      <territory><territoryId>US</territoryId><rank>900</rank></territory>
-      <territory><territoryId>UY</territoryId><rank>900</rank></territory>
-      <territory><territoryId>VE</territoryId><rank>900</rank></territory>
+      <territory><territoryId>419</territoryId><rank>400</rank></territory>
+      <territory><territoryId>AR</territoryId><rank>400</rank></territory>
+      <territory><territoryId>BO</territoryId><rank>400</rank></territory>
+      <territory><territoryId>CL</territoryId><rank>400</rank></territory>
+      <territory><territoryId>CO</territoryId><rank>400</rank></territory>
+      <territory><territoryId>CR</territoryId><rank>400</rank></territory>
+      <territory><territoryId>CU</territoryId><rank>400</rank></territory>
+      <territory><territoryId>DO</territoryId><rank>400</rank></territory>
+      <territory><territoryId>EC</territoryId><rank>400</rank></territory>
+      <territory><territoryId>GT</territoryId><rank>400</rank></territory>
+      <territory><territoryId>HN</territoryId><rank>400</rank></territory>
+      <territory><territoryId>MX</territoryId><rank>400</rank></territory>
+      <territory><territoryId>NI</territoryId><rank>400</rank></territory>
+      <territory><territoryId>PA</territoryId><rank>400</rank></territory>
+      <territory><territoryId>PE</territoryId><rank>400</rank></territory>
+      <territory><territoryId>PR</territoryId><rank>400</rank></territory>
+      <territory><territoryId>PY</territoryId><rank>400</rank></territory>
+      <territory><territoryId>SV</territoryId><rank>400</rank></territory>
+      <territory><territoryId>US</territoryId><rank>400</rank></territory>
+      <territory><territoryId>UY</territoryId><rank>400</rank></territory>
+      <territory><territoryId>VE</territoryId><rank>400</rank></territory>
     </territories>
     <keyboards>
       <keyboard><keyboardId>es</keyboardId><rank>501</rank></keyboard>
