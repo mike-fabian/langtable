@@ -24033,6 +24033,7 @@
     </languages>
     <keyboards>
       <keyboard><keyboardId>in(eng)</keyboardId><rank>950</rank></keyboard>
+      <keyboard><keyboardId>ara</keyboardId><rank>10</rank></keyboard>
     </keyboards>
     <inputmethods>
       <inputmethod><inputmethodId>ibus/m17n:hi:inscript2</inputmethodId><rank>400</rank></inputmethod>
