@@ -1,3 +1,10 @@
+2022-09-21  Mike FABIAN  <mfabian@redhat.com>
+
+	* Add list_common_locales() function
+	(Resolves: https://github.com/mike-fabian/langtable/issues/15)
+	* For ar_IN locale, langtable should give the 'ara' keyboard layout as the first choice
+	(Resolves: Resolves: https://github.com/mike-fabian/langtable/issues/14)
+
 2022-09-06  Mike FABIAN  <mfabian@redhat.com>
 
 	* Add ibus/m17n:ar:kbd as input method for Arabic and fix iso639-1 code for Arabic
