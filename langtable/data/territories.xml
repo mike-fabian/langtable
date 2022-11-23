@@ -24482,7 +24482,8 @@
       <script><scriptId>Arab</scriptId><rank>1000</rank></script>
     </scripts>
     <locales>
-      <locale><localeId>ar_IQ.UTF-8</localeId><rank>1000</rank></locale>
+      <locale><localeId>ar_IQ.UTF-8</localeId><rank>990</rank></locale>
+      <locale><localeId>ckb_IQ.UTF-8</localeId><rank>10</rank></locale>
     </locales>
     <languages>
       <language><languageId>ar</languageId><rank>1000</rank></language>
@@ -33010,6 +33011,7 @@
     <locales>
       <locale><localeId>my_MM.UTF-8</localeId><rank>990</rank></locale>
       <locale><localeId>shn_MM.UTF-8</localeId><rank>10</rank></locale>
+      <locale><localeId>mnw_MM.UTF-8</localeId><rank>1</rank></locale>
     </locales>
     <languages>
       <language><languageId>my</languageId><rank>990</rank></language>

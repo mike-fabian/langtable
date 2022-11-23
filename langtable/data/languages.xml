@@ -29893,6 +29893,7 @@
       <script><scriptId>Mymr</scriptId><rank>1000</rank></script>
     </scripts>
     <locales>
+      <locale><localeId>mnw_MM.UTF-8</localeId><rank>1000</rank></locale>
     </locales>
     <territories>
       <territory><territoryId>MM</territoryId><rank>1000</rank></territory>
