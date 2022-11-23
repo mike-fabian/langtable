@@ -1352,6 +1352,10 @@ def dummy():
     भोजपुरी (नेपाल)
     >>> print(language_name(languageId="bi_VU.utf8")) # doctest: +NORMALIZE_WHITESPACE
     Bislama (Vanuatu)
+
+    # I cannot find the correct endonym for Bihari
+    >>> print(language_name(languageId="bih_IN.utf8")) # doctest: +NORMALIZE_WHITESPACE
+    Bihari (India)
     >>> print(language_name(languageId="bn_BD.utf8")) # doctest: +NORMALIZE_WHITESPACE
     বাংলা (বাংলাদেশ)
     >>> print(language_name(languageId="bn_IN.utf8")) # doctest: +NORMALIZE_WHITESPACE

@@ -4283,6 +4283,37 @@
     </timezones>
   </language>
   <language>
+    <languageId>bih</languageId>
+    <iso639-1>bh</iso639-1>
+    <iso639-2-t>bih</iso639-2-t>
+    <iso639-2-b>bih</iso639-2-b>
+    <names>
+      <name><languageId>bih</languageId><trName>Bihari</trName></name>
+      <name><languageId>de</languageId><trName>Bihari</trName></name>
+      <name><languageId>en</languageId><trName>Bihari</trName></name>
+      <name><languageId>mr</languageId><trName>बिहारी भाषा</trName></name>
+    </names>
+    <scripts>
+      <script><scriptId>Deva</scriptId><rank>1000</rank></script>
+    </scripts>
+    <locales>
+    </locales>
+    <territories>
+      <territory><territoryId>IN</territoryId><rank>1000</rank></territory>
+    </territories>
+    <keyboards>
+      <keyboard><keyboardId>in(eng)</keyboardId><rank>1000</rank></keyboard>
+    </keyboards>
+    <inputmethods>
+    </inputmethods>
+    <consolefonts>
+      <consolefont><consolefontId>eurlatgr</consolefontId><rank>1000</rank></consolefont>
+    </consolefonts>
+    <timezones>
+      <timezone><timezoneId>Asia/Kolkata</timezoneId><rank>1000</rank></timezone>
+    </timezones>
+  </language>
+  <language>
     <languageId>bin</languageId>
     <iso639-1>None</iso639-1>
     <iso639-2-t>bin</iso639-2-t>
