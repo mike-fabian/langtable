@@ -1,3 +1,10 @@
+2022-11-24  Mike FABIAN  <mfabian@redhat.com>
+
+	* Add mnw_MM.UTF-8 and ckb_IQ.UTF-8
+	* Do not run test cases using Python2 anymore
+	* Add bih
+	* Add more translations from CLDR
+
 2022-09-21  Mike FABIAN  <mfabian@redhat.com>
 
 	* Add list_common_locales() function
