@@ -1341,7 +1341,7 @@ def dummy():
     >>> print(language_name(languageId="ber_MA.utf8")) # doctest: +NORMALIZE_WHITESPACE
     ⵜⴰⵎⴰⵣⵉⵖⵜ (ⵜⴰⴳⵍⴷⵉⵜ ⵏ ⵍⵎⵖⵔⵉⴱ)
     >>> print(language_name(languageId="rif_MA.utf8")) # doctest: +NORMALIZE_WHITESPACE
-    Tarifit (Lmerruk)
+    Tarifit (Lmuɣrib)
     >>> print(language_name(languageId="bg_BG.utf8")) # doctest: +NORMALIZE_WHITESPACE
     Български (България)
     >>> print(language_name(languageId="bhb_IN.utf8")) # doctest: +NORMALIZE_WHITESPACE
