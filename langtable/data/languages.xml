@@ -2588,7 +2588,8 @@
       <name><languageId>en</languageId><trName>Southern Aymara</trName></name>
     </names>
     <scripts>
-      <script><scriptId>Latn</scriptId><rank>1000</rank></script>
+      <script><scriptId>Latn</scriptId><rank>999</rank></script>
+      <script><scriptId>Hang</scriptId><rank>1</rank></script>
     </scripts>
     <locales>
       <locale><localeId>ayc_PE.UTF-8</localeId><rank>1000</rank></locale>
