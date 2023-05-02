@@ -1952,6 +1952,19 @@
     </territories>
   </keyboard>
   <keyboard>
+    <keyboardId>no</keyboardId>
+    <description>Norwegian</description>
+    <ascii>True</ascii>
+    <languages>
+      <language><languageId>nb</languageId><rank>900</rank></language>
+      <language><languageId>nn</languageId><rank>90</rank></language>
+      <language><languageId>no</languageId><rank>10</rank></language>
+    </languages>
+    <territories>
+      <territory><territoryId>NO</territoryId><rank>1000</rank></territory>
+    </territories>
+  </keyboard>
+  <keyboard>
     <keyboardId>np</keyboardId>
     <description>Nepali</description>
     <ascii>False</ascii>
