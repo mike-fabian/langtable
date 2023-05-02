@@ -11000,12 +11000,14 @@
       <name><languageId>or</languageId><trName>ଇଂରାଜୀ</trName></name>
       <name><languageId>os</languageId><trName>англисаг</trName></name>
       <name><languageId>pa</languageId><trName>ਅੰਗਰੇਜ਼ੀ</trName></name>
+      <name><languageId>pap</languageId><trName>ingles</trName></name>
       <name><languageId>pl</languageId><trName>angielski</trName></name>
       <name><languageId>prg</languageId><trName>ēngliskan</trName></name>
       <name><languageId>ps</languageId><trName>انګليسي</trName></name>
       <name><languageId>pt</languageId><trName>inglês</trName></name>
       <name><languageId>qu</languageId><trName>Ingles Simi</trName></name>
       <name><languageId>raj</languageId><trName>अंग्रेजी</trName></name>
+      <name><languageId>rif</languageId><trName>taglinzit</trName></name>
       <name><languageId>rm</languageId><trName>englais</trName></name>
       <name><languageId>rn</languageId><trName>Icongereza</trName></name>
       <name><languageId>ro</languageId><trName>engleză</trName></name>
@@ -53443,6 +53445,7 @@
       <name><languageId>zh_Hans</languageId><trName>粤语</trName></name>
       <name><languageId>zh_Hant</languageId><trName>粵語</trName></name>
       <name><languageId>zh_Hant_HK</languageId><trName>廣東話</trName></name>
+      <name><languageId>zh_Hant_MO</languageId><trName>粵語</trName></name>
       <name><languageId>zu</languageId><trName>isi-Cantonese</trName></name>
     </names>
     <scripts>
@@ -54183,6 +54186,7 @@
       <name><languageId>ti</languageId><trName>ቀሊል ማንዳሪን ቻይንኛ</trName></name>
       <name><languageId>tk</languageId><trName>ýönekeýleşdirilen hytaý diliniň mandarin şiwesi</trName></name>
       <name><languageId>to</languageId><trName>lea fakasiaina-mānitali-fakafaingofua</trName></name>
+      <name><languageId>tpi</languageId><trName>Isipela Sainis</trName></name>
       <name><languageId>tr</languageId><trName>Basitleştirilmiş Çince (Mandarin)</trName></name>
       <name><languageId>tt</languageId><trName>гадиләштерелгән мандарин кытайчасы</trName></name>
       <name><languageId>ug</languageId><trName>ئاددىي خەنچە</trName></name>
@@ -54429,6 +54433,7 @@
       <name><languageId>su</languageId><trName>Tiongkok Mandarin Tradisional</trName></name>
       <name><languageId>sv</languageId><trName>traditionell kinesiska</trName></name>
       <name><languageId>sw</languageId><trName>Kichina (cha jadi)</trName></name>
+      <name><languageId>syr</languageId><trName>ܨܝܢܐܝܬ</trName></name>
       <name><languageId>szl</languageId><trName>tradycyjny chiński mandaryński</trName></name>
       <name><languageId>ta</languageId><trName>பாரம்பரிய சீன மாண்டரின்</trName></name>
       <name><languageId>te</languageId><trName>సాంప్రదాయక మాండరిన్ చైనీస్</trName></name>
@@ -54437,6 +54442,7 @@
       <name><languageId>ti</languageId><trName>ባህላዊ ማንዳሪን ቻይንኛ</trName></name>
       <name><languageId>tk</languageId><trName>adaty hytaý diliniň mandarin şiwesi</trName></name>
       <name><languageId>to</languageId><trName>lea fakasiaina-mānitali-tukufakaholo</trName></name>
+      <name><languageId>tpi</languageId><trName>Tredisinol Sainis</trName></name>
       <name><languageId>tr</languageId><trName>Geleneksel Çince (Mandarin)</trName></name>
       <name><languageId>tt</languageId><trName>традицион мандарин кытайчасы</trName></name>
       <name><languageId>ug</languageId><trName>مۇرەككەپ خەنچە</trName></name>
