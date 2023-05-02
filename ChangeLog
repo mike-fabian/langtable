@@ -1,3 +1,10 @@
+2023-05-02  Mike FABIAN  <mfabian@redhat.com>
+
+	* Add more translations from CLDR
+	* Get translation changes from CLDR
+	* Add Norwegian keyboard layout to keyboards.xml
+	* Add Hang script to Southern Aymara
+
 2022-11-24  Mike FABIAN  <mfabian@redhat.com>
 
 	* Add mnw_MM.UTF-8 and ckb_IQ.UTF-8
