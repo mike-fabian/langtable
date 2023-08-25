@@ -2080,7 +2080,7 @@ def list_inputmethods(concise=True, show_weights=False, languageId = None, scrip
     List the suitable input methods for the language “Japanese”:
 
     >>> list_inputmethods(languageId="ja")
-    ['ibus/kkc', 'ibus/anthy']
+    ['ibus/anthy', 'ibus/kkc']
 
     So this returns a list of input methods for Japanese. These lists are
     sorted in order of decreasing likelyhood, i.e. the most common
@@ -2089,7 +2089,7 @@ def list_inputmethods(concise=True, show_weights=False, languageId = None, scrip
     One can also list the possible input methods for the territory “Japan”:
 
     >>> list_inputmethods(territoryId="JP")
-    ['ibus/kkc', 'ibus/anthy']
+    ['ibus/anthy', 'ibus/kkc']
     '''
     ranked_inputmethods = {}
     skipTerritory = False

@@ -20359,8 +20359,8 @@
       <keyboard><keyboardId>jp</keyboardId><rank>1000</rank></keyboard>
     </keyboards>
     <inputmethods>
-      <inputmethod><inputmethodId>ibus/kkc</inputmethodId><rank>900</rank></inputmethod>
-      <inputmethod><inputmethodId>ibus/anthy</inputmethodId><rank>100</rank></inputmethod>
+      <inputmethod><inputmethodId>ibus/anthy</inputmethodId><rank>900</rank></inputmethod>
+      <inputmethod><inputmethodId>ibus/kkc</inputmethodId><rank>100</rank></inputmethod>
     </inputmethods>
     <consolefonts>
       <consolefont><consolefontId>eurlatgr</consolefontId><rank>1000</rank></consolefont>
