@@ -446,16 +446,16 @@ def dummy():
         ['ibus/m17n:ar:kbd']
 
     >>> list_inputmethods(languageId="ja") # doctest: +NORMALIZE_WHITESPACE
-        ['ibus/kkc', 'ibus/anthy']
+        ['ibus/anthy', 'ibus/kkc']
 
     >>> list_inputmethods(languageId="ja", territoryId="JP") # doctest: +NORMALIZE_WHITESPACE
-        ['ibus/kkc', 'ibus/anthy']
+        ['ibus/anthy', 'ibus/kkc']
 
     >>> list_inputmethods(languageId="ja", territoryId="DE") # doctest: +NORMALIZE_WHITESPACE
-        ['ibus/kkc', 'ibus/anthy']
+        ['ibus/anthy', 'ibus/kkc']
 
     >>> list_inputmethods(languageId="de", territoryId="JP") # doctest: +NORMALIZE_WHITESPACE
-        ['ibus/kkc', 'ibus/anthy']
+        ['ibus/anthy', 'ibus/kkc']
 
     >>> list_inputmethods(languageId="ko") # doctest: +NORMALIZE_WHITESPACE
         ['ibus/hangul']
@@ -1617,7 +1617,7 @@ def dummy():
     >>> print(language_name(languageId="ks_IN.utf8@devanagari")) # doctest: +NORMALIZE_WHITESPACE
     कॉशुर (हिंदोस्तान)
     >>> print(language_name(languageId="ku_TR.utf8")) # doctest: +NORMALIZE_WHITESPACE
-    Kurdî (Tirkiye)
+    Kurdî (kurmancî) (Tirkiye)
     >>> print(language_name(languageId="kw_GB.utf8")) # doctest: +NORMALIZE_WHITESPACE
     Kernewek (Rywvaneth Unys)
     >>> print(language_name(languageId="ky_KG.utf8")) # doctest: +NORMALIZE_WHITESPACE
