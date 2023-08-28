@@ -25,7 +25,7 @@ check: test
 
 .PHONY: dist
 dist: gzip
-	DISTUTILS_DEBUG=$(DEBUG) python3 ./setup.py sdist bdist_egg bdist_wheel
+	DISTUTILS_DEBUG=$(DEBUG) python3 ./setup.py sdist bdist_wheel
 
 .PHONY: install
 install: dist
@@ -36,12 +36,12 @@ install: dist
 # check it here: https://test.pypi.org/manage/project/langtable/releases/
 .PHONY: twine-upload-test
 twine-upload-test: dist
-	python3 -m twine upload --repository-url https://test.pypi.org/legacy/ dist/*
+	python3 -m twine upload --verbose --repository testpypi dist/*
 
 # check it here: https://pypi.org/manage/project/langtable/releases/
 .PHONY: twine-upload
 twine-upload: dist
-	python3 -m twine upload dist/*
+	python3 -m twine upload --verbose dist/*
 
 .PHONY: pip-install-test
 pip-install-test:
