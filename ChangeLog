@@ -1,3 +1,12 @@
+2023-08-28  Mike FABIAN  <mfabian@redhat.com>
+
+	* Add more translations from CLDR
+	* Get translation changes from CLDR
+	* Japanese: prefer anthy over kkc
+	(Thanks to adam Williamson: https://github.com/mike-fabian/langtable/pull/17)
+	* Use skipTerritory also in list_keyboards(), list_consolefonts(), and list_timezones()
+	(Resolves: https://github.com/mike-fabian/langtable/issues/18)
+
 2023-05-02  Mike FABIAN  <mfabian@redhat.com>
 
 	* Add more translations from CLDR
