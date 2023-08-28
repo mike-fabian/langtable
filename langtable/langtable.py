@@ -2196,7 +2196,7 @@ def list_keyboards(concise=True, show_weights=False, languageId = None, scriptId
                     ranked_keyboards[keyboard] *= extra_bonus
                 ranked_keyboards[keyboard] *= language_bonus
     territory_bonus = 1
-    if territoryId in _territories_db:
+    if territoryId in _territories_db and not skipTerritory:
         for keyboard in _territories_db[territoryId].keyboards:
             if _territories_db[territoryId].keyboards[keyboard] != 0:
                 if keyboard not in ranked_keyboards:
@@ -2430,7 +2430,7 @@ def list_consolefonts(concise=True, show_weights=False, languageId = None, scrip
                     ranked_consolefonts[consolefont] *= extra_bonus
                 ranked_consolefonts[consolefont] *= language_bonus
     territory_bonus = 1
-    if territoryId in _territories_db:
+    if territoryId in _territories_db and not skipTerritory:
         for consolefont in _territories_db[territoryId].consolefonts:
             if _territories_db[territoryId].consolefonts[consolefont] != 0:
                 if consolefont not in ranked_consolefonts:
@@ -2511,7 +2511,7 @@ def list_timezones(concise=True, show_weights=False, languageId = None, scriptId
                     ranked_timezones[timezone] *= extra_bonus
                 ranked_timezones[timezone] *= language_bonus
     territory_bonus = 100
-    if territoryId in _territories_db:
+    if territoryId in _territories_db and not skipTerritory:
         for timezone in _territories_db[territoryId].timezones:
             if _territories_db[territoryId].timezones[timezone] != 0:
                 if timezone not in ranked_timezones:
