@@ -38,7 +38,7 @@ echo "----------------------------------------------------------------------"
 echo "Locales which are in langtable but missing in glibc:"
 MISSING_LOCALES_IN_GLIBC=
 MISSING_LOCALES_IN_GLIBC_COUNT=0
-for i in $(grep "<localeId>.*</localeId>" *.xml | perl -pe 's/.*<localeId>(([a-z]{2,3}_|eo).*)<\/localeId>.*/\1/g')
+for i in $(grep "<localeId>.*</localeId>" *.xml | perl -pe 's/.*<localeId>(([a-z]{2,3}_|eo|syr).*)<\/localeId>.*/\1/g')
 do
     LC_ALL=$i locale charmap 2>&1 | grep -q UTF-8
     if [ $? -eq 1 ]; then
