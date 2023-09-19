@@ -2565,7 +2565,7 @@ def list_all_territories() -> List[str]:
     '''
     List all territory ids langtable knows something about
     '''
-    return list(_territories_db.keys())
+    return sorted(_territories_db.keys())
 
 def list_all_timezones() -> List[str]:
     '''
