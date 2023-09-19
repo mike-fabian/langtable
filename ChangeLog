@@ -1,3 +1,8 @@
+2023-09-19  Mike FABIAN  <mfabian@redhat.com>
+
+	* Add new public functions list_all_{languages,locales,keyboards,territories,timezones,scripts,input_methods,console_fonts}
+	(See also the discussion at: https://gitlab.gnome.org/GNOME/gnome-desktop/-/merge_requests/159)
+
 2023-08-28  Mike FABIAN  <mfabian@redhat.com>
 
 	* Add more translations from CLDR
