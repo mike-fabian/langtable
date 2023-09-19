@@ -10,5 +10,5 @@ from .langtable import _write_files
 #  Deleting a module prevents one from import <pack>.somemodule1
 #  directly. You can only import from <pack> objects defined or
 #  imported in its __init__.py, and non-deleted submodules.
-del langtable
+del langtable # type: ignore
 

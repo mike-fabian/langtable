@@ -34,6 +34,14 @@
 #     languageId()
 #     territoryId()
 #     supports_ascii()
+#     list_all_languages()
+#     list_all_locales()
+#     list_all_keyboards()
+#     list_all_territories()
+#     list_all_timezones()
+#     list_all_scripts()
+#     list_all_input_methods()
+#     list_all_console_fonts()
 #
 # These are the functions which do not start with an “_” in their name.
 # All global functions and global variables whose name starts with an
@@ -97,6 +105,8 @@
 #
 ######################################################################
 
+from typing import List
+from typing import Dict
 import os
 import re
 import logging
@@ -110,7 +120,7 @@ Locale = collections.namedtuple(
     'Locale',
     ['language', 'script', 'territory', 'variant', 'encoding'])
 
-_INFO = {'data_files_read': []}
+_INFO: Dict[str, List[str]] = {'data_files_read': []}
 
 # will be replaced by “make install”:
 _DATADIR = '/usr/share/langtable'
@@ -2528,6 +2538,80 @@ def list_timezones(concise=True, show_weights=False, languageId = None, scriptId
     else:
         return _ranked_list_to_list(ranked_list)
 
+def list_all_languages() -> List[str]:
+    '''
+    List all language ids langtable knows something about
+    '''
+    return sorted(_languages_db.keys())
+
+def list_all_locales() -> List[str]:
+    '''
+    List all (glibc style) locales langtable knows something about
+    '''
+    all_locales = set()
+    for (_key, item) in _languages_db.items():
+        all_locales.update(item.locales)
+    for (_key, item) in _territories_db.items():
+        all_locales.update(item.locales)
+    return sorted(all_locales)
+
+def list_all_keyboards() -> List[str]:
+    '''
+    List all keyboards langtable knows something about
+    '''
+    return sorted(_keyboards_db.keys())
+
+def list_all_territories() -> List[str]:
+    '''
+    List all territory ids langtable knows something about
+    '''
+    return list(_territories_db.keys())
+
+def list_all_timezones() -> List[str]:
+    '''
+    List all timezone ids langtable knows something about
+    '''
+    all_timezones = set()
+    all_timezones.update(list(_timezones_db.keys()))
+    for (_key, item) in _languages_db.items():
+        all_timezones.update(item.timezones)
+    for (_key, item) in _territories_db.items():
+        all_timezones.update(item.timezones)
+    return sorted(all_timezones)
+
+def list_all_scripts() -> List[str]:
+    '''
+    List all script ids langtable knows something about
+    '''
+    all_scripts = set()
+    for (_key, item) in _languages_db.items():
+        all_scripts.update(item.scripts)
+    for (_key, item) in _territories_db.items():
+        all_scripts.update(item.scripts)
+    return sorted(all_scripts)
+
+def list_all_input_methods() -> List[str]:
+    '''
+    List all input methods langtable knows something about
+    '''
+    all_inputmethods = set()
+    for (_key, item) in _languages_db.items():
+        all_inputmethods.update(item.inputmethods)
+    for (_key, item) in _territories_db.items():
+        all_inputmethods.update(item.inputmethods)
+    return sorted(all_inputmethods)
+
+def list_all_console_fonts() -> List[str]:
+    '''
+    List all console fonts langtable knows something about
+    '''
+    all_consolefonts = set()
+    for (_key, item) in _languages_db.items():
+        all_consolefonts.update(item.consolefonts)
+    for (_key, item) in _territories_db.items():
+        all_consolefonts.update(item.consolefonts)
+    return sorted(all_consolefonts)
+
 def supports_ascii(keyboardId=None):
     '''Check whether a keyboard layout supports ASCII
 
@@ -2555,7 +2639,8 @@ def version():
     '''
     Return version of langtable
     '''
-    import pkg_resources  # part of setuptools
+    # pkg_resources is part of setuptools
+    import pkg_resources  # type: ignore
     return pkg_resources.require("langtable")[0].version
 
 def info():
