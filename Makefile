@@ -45,11 +45,11 @@ twine-upload: dist
 
 .PHONY: pip-install-test
 pip-install-test:
-	(cd /tmp; python3 -m pip install --user --ignore-installed --index-url https://test.pypi.org/simple/ --no-deps langtable)
+	(cd /tmp; python3 -m pip install --user --ignore-installed --no-cache-dir --index-url https://test.pypi.org/simple/ --no-deps langtable)
 
 .PHONY: pip-install
 pip-install:
-	(cd /tmp; python3 -m pip install --user --ignore-installed --no-deps langtable)
+	(cd /tmp; python3 -m pip install --user --ignore-installed --no-cache-dir --no-deps langtable)
 
 .PHONY: clean
 clean:
