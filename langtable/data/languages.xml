@@ -52541,6 +52541,43 @@
     </timezones>
   </language>
   <language>
+    <languageId>wuu</languageId>
+    <iso639-1>None</iso639-1>
+    <iso639-2-t>None</iso639-2-t>
+    <iso639-2-b>None</iso639-2-b>
+    <names>
+      <name><languageId>de</languageId><trName>Wu</trName></name>
+      <name><languageId>en</languageId><trName>Wu</trName></name>
+      <name><languageId>wuu</languageId><trName>吴语</trName></name>
+      <name><languageId>wuu_Hans</languageId><trName>吴语</trName></name>
+      <name><languageId>wuu_Hant</languageId><trName>吳語</trName></name>
+      <name><languageId>zh</languageId><trName>吴语</trName></name>
+      <name><languageId>zh_Hans</languageId><trName>吴语</trName></name>
+      <name><languageId>zh_Hant</languageId><trName>吳語</trName></name>
+    </names>
+    <scripts>
+      <script><scriptId>Hans</scriptId><rank>800</rank></script>
+      <script><scriptId>Hant</scriptId><rank>200</rank></script>
+    </scripts>
+    <locales>
+    </locales>
+    <territories>
+      <territory><territoryId>CN</territoryId><rank>1000</rank></territory>
+    </territories>
+    <keyboards>
+      <keyboard><keyboardId>cn</keyboardId><rank>1000</rank></keyboard>
+    </keyboards>
+    <inputmethods>
+      <inputmethod><inputmethodId>ibus/libpinyin</inputmethodId><rank>900</rank></inputmethod>
+    </inputmethods>
+    <consolefonts>
+      <consolefont><consolefontId>eurlatgr</consolefontId><rank>1000</rank></consolefont>
+    </consolefonts>
+    <timezones>
+      <timezone><timezoneId>Asia/Shanghai</timezoneId><rank>1000</rank></timezone>
+    </timezones>
+  </language>
+  <language>
     <languageId>xal</languageId>
     <iso639-1>None</iso639-1>
     <iso639-2-t>xal</iso639-2-t>
