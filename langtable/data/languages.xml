@@ -25427,6 +25427,7 @@
       <script><scriptId>Perm</scriptId><rank>1</rank></script>
     </scripts>
     <locales>
+      <locale><localeId>kv_RU.UTF-8</localeId><rank>1000</rank></locale>
     </locales>
     <territories>
       <territory><territoryId>RU</territoryId><rank>1000</rank></territory>
