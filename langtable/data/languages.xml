@@ -14909,6 +14909,37 @@
     </timezones>
   </language>
   <language>
+    <languageId>glk</languageId>
+    <iso639-1>None</iso639-1>
+    <iso639-2-t>None</iso639-2-t>
+    <iso639-2-b>None</iso639-2-b>
+    <names>
+      <name><languageId>de</languageId><trName>Gilaki</trName></name>
+      <name><languageId>en</languageId><trName>Gilaki</trName></name>
+      <name><languageId>glk</languageId><trName>گیلٚکی زٚوان</trName></name>
+    </names>
+    <scripts>
+      <script><scriptId>Arab</scriptId><rank>1000</rank></script>
+    </scripts>
+    <locales>
+      <locale><localeId>glk_IR.UTF-8</localeId><rank>1000</rank></locale>
+    </locales>
+    <territories>
+      <territory><territoryId>IR</territoryId><rank>1000</rank></territory>
+    </territories>
+    <keyboards>
+      <keyboard><keyboardId>ir</keyboardId><rank>1000</rank></keyboard>
+    </keyboards>
+    <inputmethods>
+    </inputmethods>
+    <consolefonts>
+      <consolefont><consolefontId>latarcyrheb-sun16</consolefontId><rank>1000</rank></consolefont>
+    </consolefonts>
+    <timezones>
+      <timezone><timezoneId>Asia/Tehran</timezoneId><rank>1000</rank></timezone>
+    </timezones>
+  </language>
+  <language>
     <languageId>gn</languageId>
     <iso639-1>gn</iso639-1>
     <iso639-2-t>grn</iso639-2-t>
