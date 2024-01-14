@@ -1675,6 +1675,7 @@
       <name><languageId>tk</languageId><trName>arap dili</trName></name>
       <name><languageId>tn</languageId><trName>Arabic</trName></name>
       <name><languageId>to</languageId><trName>lea fakaʻalepea</trName></name>
+      <name><languageId>tok</languageId><trName>toki Alapi</trName></name>
       <name><languageId>tr</languageId><trName>Arapça</trName></name>
       <name><languageId>tt</languageId><trName>гарәп</trName></name>
       <name><languageId>twq</languageId><trName>Laaraw senni</trName></name>
@@ -4960,6 +4961,7 @@
       <name><languageId>tk</languageId><trName>bengal dili</trName></name>
       <name><languageId>tn</languageId><trName>Bengali</trName></name>
       <name><languageId>to</languageId><trName>lea fakapāngilā</trName></name>
+      <name><languageId>tok</languageId><trName>toki Panla</trName></name>
       <name><languageId>tr</languageId><trName>Bengalce</trName></name>
       <name><languageId>tt</languageId><trName>бенгали</trName></name>
       <name><languageId>twq</languageId><trName>Bengali senni</trName></name>
@@ -9157,6 +9159,7 @@
       <name><languageId>tk</languageId><trName>nemes dili</trName></name>
       <name><languageId>tn</languageId><trName>German</trName></name>
       <name><languageId>to</languageId><trName>lea fakasiamane</trName></name>
+      <name><languageId>tok</languageId><trName>toki Tosi</trName></name>
       <name><languageId>tpi</languageId><trName>Jeman</trName></name>
       <name><languageId>tr</languageId><trName>Almanca</trName></name>
       <name><languageId>ts</languageId><trName>Xi Jarimani</trName></name>
@@ -11129,6 +11132,7 @@
       <name><languageId>tk</languageId><trName>iňlis dili</trName></name>
       <name><languageId>tn</languageId><trName>Sekgoa</trName></name>
       <name><languageId>to</languageId><trName>lea fakapālangi</trName></name>
+      <name><languageId>tok</languageId><trName>toki Inli</trName></name>
       <name><languageId>tpi</languageId><trName>Inglis</trName></name>
       <name><languageId>tr</languageId><trName>İngilizce</trName></name>
       <name><languageId>ts</languageId><trName>Xi Nghezi</trName></name>
@@ -11669,6 +11673,7 @@
       <name><languageId>tk</languageId><trName>ispan dili</trName></name>
       <name><languageId>tn</languageId><trName>Spanish</trName></name>
       <name><languageId>to</languageId><trName>lea fakasipēnisi</trName></name>
+      <name><languageId>tok</languageId><trName>toki Epanja</trName></name>
       <name><languageId>tpi</languageId><trName>Spenis</trName></name>
       <name><languageId>tr</languageId><trName>İspanyolca</trName></name>
       <name><languageId>ts</languageId><trName>Xi spain</trName></name>
@@ -13807,6 +13812,7 @@
       <name><languageId>tk</languageId><trName>fransuz dili</trName></name>
       <name><languageId>tn</languageId><trName>Se Fora</trName></name>
       <name><languageId>to</languageId><trName>lea fakafalanisē</trName></name>
+      <name><languageId>tok</languageId><trName>toki Kanse</trName></name>
       <name><languageId>tpi</languageId><trName>Frens</trName></name>
       <name><languageId>tr</languageId><trName>Fransızca</trName></name>
       <name><languageId>ts</languageId><trName>Xi Furwa</trName></name>
@@ -14914,9 +14920,36 @@
     <iso639-2-t>None</iso639-2-t>
     <iso639-2-b>None</iso639-2-b>
     <names>
+      <name><languageId>ast</languageId><trName>gilaki</trName></name>
+      <name><languageId>ca</languageId><trName>gilaki</trName></name>
+      <name><languageId>cs</languageId><trName>gilačtina</trName></name>
       <name><languageId>de</languageId><trName>Gilaki</trName></name>
       <name><languageId>en</languageId><trName>Gilaki</trName></name>
+      <name><languageId>et</languageId><trName>gilaki</trName></name>
+      <name><languageId>fa</languageId><trName>گیلکی</trName></name>
+      <name><languageId>fi</languageId><trName>gilaki</trName></name>
+      <name><languageId>fr</languageId><trName>gilaki</trName></name>
+      <name><languageId>gd</languageId><trName>Gilaki</trName></name>
       <name><languageId>glk</languageId><trName>گیلٚکی زٚوان</trName></name>
+      <name><languageId>id</languageId><trName>Gilaki</trName></name>
+      <name><languageId>it</languageId><trName>gilaki</trName></name>
+      <name><languageId>ja</languageId><trName>ギラキ語</trName></name>
+      <name><languageId>ko</languageId><trName>길라키어</trName></name>
+      <name><languageId>lb</languageId><trName>Gilaki</trName></name>
+      <name><languageId>lt</languageId><trName>gilaki</trName></name>
+      <name><languageId>mk</languageId><trName>гилански</trName></name>
+      <name><languageId>ms</languageId><trName>Gilaki</trName></name>
+      <name><languageId>ne</languageId><trName>गिलाकी</trName></name>
+      <name><languageId>nl</languageId><trName>Gilaki</trName></name>
+      <name><languageId>no</languageId><trName>gileki</trName></name>
+      <name><languageId>pl</languageId><trName>giliański</trName></name>
+      <name><languageId>sv</languageId><trName>gilaki</trName></name>
+      <name><languageId>th</languageId><trName>กิลากี</trName></name>
+      <name><languageId>to</languageId><trName>lea fakakilaki</trName></name>
+      <name><languageId>tr</languageId><trName>Gilanice</trName></name>
+      <name><languageId>vi</languageId><trName>Tiếng Gilaki</trName></name>
+      <name><languageId>yue</languageId><trName>吉拉基文</trName></name>
+      <name><languageId>zh_Hant</languageId><trName>吉拉基文</trName></name>
     </names>
     <scripts>
       <script><scriptId>Arab</scriptId><rank>1000</rank></script>
@@ -16779,6 +16812,7 @@
       <name><languageId>tk</languageId><trName>hindi dili</trName></name>
       <name><languageId>tn</languageId><trName>Hindi</trName></name>
       <name><languageId>to</languageId><trName>lea fakahinitī</trName></name>
+      <name><languageId>tok</languageId><trName>toki Insi</trName></name>
       <name><languageId>tr</languageId><trName>Hintçe</trName></name>
       <name><languageId>tt</languageId><trName>һинд</trName></name>
       <name><languageId>twq</languageId><trName>Induu senni</trName></name>
@@ -18648,6 +18682,7 @@
       <name><languageId>tk</languageId><trName>indonez dili</trName></name>
       <name><languageId>tn</languageId><trName>Indonesian</trName></name>
       <name><languageId>to</languageId><trName>lea fakaʻinitōnesia</trName></name>
+      <name><languageId>tok</languageId><trName>toki Intonesija</trName></name>
       <name><languageId>tr</languageId><trName>Endonezce</trName></name>
       <name><languageId>tt</languageId><trName>индонезия</trName></name>
       <name><languageId>twq</languageId><trName>Indoneesi senni</trName></name>
@@ -20024,6 +20059,7 @@
       <name><languageId>tk</languageId><trName>italýan dili</trName></name>
       <name><languageId>tn</languageId><trName>Se Italiano</trName></name>
       <name><languageId>to</languageId><trName>lea fakaʻītali</trName></name>
+      <name><languageId>tok</languageId><trName>toki Italija</trName></name>
       <name><languageId>tpi</languageId><trName>Italien</trName></name>
       <name><languageId>tr</languageId><trName>İtalyanca</trName></name>
       <name><languageId>ts</languageId><trName>Xi Ithali</trName></name>
@@ -20497,6 +20533,7 @@
       <name><languageId>tk</languageId><trName>ýapon dili</trName></name>
       <name><languageId>tn</languageId><trName>Se Japan</trName></name>
       <name><languageId>to</languageId><trName>lea fakasiapani</trName></name>
+      <name><languageId>tok</languageId><trName>toki Nijon</trName></name>
       <name><languageId>tpi</languageId><trName>Japanis</trName></name>
       <name><languageId>tr</languageId><trName>Japonca</trName></name>
       <name><languageId>ts</languageId><trName>Xi Japani</trName></name>
@@ -23902,6 +23939,7 @@
       <name><languageId>tk</languageId><trName>koreý dili</trName></name>
       <name><languageId>tn</languageId><trName>Se Korea</trName></name>
       <name><languageId>to</languageId><trName>lea fakakōlea</trName></name>
+      <name><languageId>tok</languageId><trName>toki Anku</trName></name>
       <name><languageId>tr</languageId><trName>Korece</trName></name>
       <name><languageId>ts</languageId><trName>Xikorea</trName></name>
       <name><languageId>tt</languageId><trName>корея</trName></name>
@@ -34137,6 +34175,7 @@
       <name><languageId>tk</languageId><trName>niderland dili</trName></name>
       <name><languageId>tn</languageId><trName>Se Dutch</trName></name>
       <name><languageId>to</languageId><trName>lea fakahōlani</trName></name>
+      <name><languageId>tok</languageId><trName>toki Netelan</trName></name>
       <name><languageId>tr</languageId><trName>Felemenkçe</trName></name>
       <name><languageId>ts</languageId><trName>Xi bunu</trName></name>
       <name><languageId>tt</languageId><trName>голланд</trName></name>
@@ -37425,6 +37464,7 @@
       <name><languageId>tk</languageId><trName>polýak dili</trName></name>
       <name><languageId>tn</languageId><trName>Se Poland</trName></name>
       <name><languageId>to</languageId><trName>lea fakapolani</trName></name>
+      <name><languageId>tok</languageId><trName>toki Posuka</trName></name>
       <name><languageId>tr</languageId><trName>Lehçe</trName></name>
       <name><languageId>ts</languageId><trName>Xi Polixi</trName></name>
       <name><languageId>tt</languageId><trName>поляк</trName></name>
@@ -38010,6 +38050,7 @@
       <name><languageId>tk</languageId><trName>portugal dili</trName></name>
       <name><languageId>tn</languageId><trName>Se Potoketsi</trName></name>
       <name><languageId>to</languageId><trName>lea fakapotukali</trName></name>
+      <name><languageId>tok</languageId><trName>toki Potuke</trName></name>
       <name><languageId>tpi</languageId><trName>Potigis</trName></name>
       <name><languageId>tr</languageId><trName>Portekizce</trName></name>
       <name><languageId>ts</languageId><trName>Putukezi</trName></name>
@@ -39457,6 +39498,7 @@
       <name><languageId>tk</languageId><trName>rus dili</trName></name>
       <name><languageId>tn</languageId><trName>Russian</trName></name>
       <name><languageId>to</languageId><trName>lea fakalūsia</trName></name>
+      <name><languageId>tok</languageId><trName>toki Lusi</trName></name>
       <name><languageId>tpi</languageId><trName>Rasien</trName></name>
       <name><languageId>tr</languageId><trName>Rusça</trName></name>
       <name><languageId>ts</languageId><trName>Xi Rhaxiya</trName></name>
@@ -47263,6 +47305,7 @@
       <name><languageId>tk</languageId><trName>taý dili</trName></name>
       <name><languageId>tn</languageId><trName>Thai</trName></name>
       <name><languageId>to</languageId><trName>lea fakatailani</trName></name>
+      <name><languageId>tok</languageId><trName>toki Tawi</trName></name>
       <name><languageId>tr</languageId><trName>Tayca</trName></name>
       <name><languageId>tt</languageId><trName>тай</trName></name>
       <name><languageId>twq</languageId><trName>Taailandu senni</trName></name>
@@ -48314,9 +48357,113 @@
     <iso639-2-t>None</iso639-2-t>
     <iso639-2-b>None</iso639-2-b>
     <names>
+      <name><languageId>af</languageId><trName>Toki Pona</trName></name>
+      <name><languageId>am</languageId><trName>ቶኪ ፖና</trName></name>
+      <name><languageId>ar</languageId><trName>التوكي-بونا</trName></name>
+      <name><languageId>as</languageId><trName>ট’কি প’না</trName></name>
+      <name><languageId>az</languageId><trName>tokipona</trName></name>
+      <name><languageId>be</languageId><trName>такіпона</trName></name>
+      <name><languageId>bg</languageId><trName>токи пона</trName></name>
+      <name><languageId>bn</languageId><trName>টোকি পোনা</trName></name>
+      <name><languageId>br</languageId><trName>toki pona</trName></name>
+      <name><languageId>brx</languageId><trName>टकि पना</trName></name>
+      <name><languageId>bs</languageId><trName>toki pona</trName></name>
+      <name><languageId>ca</languageId><trName>toki pona</trName></name>
+      <name><languageId>chr</languageId><trName>ᏙᎩ ᏉᎾ</trName></name>
+      <name><languageId>cs</languageId><trName>toki pona</trName></name>
+      <name><languageId>cy</languageId><trName>Toki Pona</trName></name>
+      <name><languageId>da</languageId><trName>toki pona</trName></name>
       <name><languageId>de</languageId><trName>Toki Pona</trName></name>
+      <name><languageId>dsb</languageId><trName>toki ponašćina</trName></name>
+      <name><languageId>el</languageId><trName>Τόκι Πόνα</trName></name>
       <name><languageId>en</languageId><trName>Toki Pona</trName></name>
+      <name><languageId>eo</languageId><trName>Tokipono</trName></name>
+      <name><languageId>es</languageId><trName>toki pona</trName></name>
+      <name><languageId>et</languageId><trName>toki pona</trName></name>
+      <name><languageId>eu</languageId><trName>toki pona</trName></name>
+      <name><languageId>fa</languageId><trName>توکی پونا</trName></name>
+      <name><languageId>fi</languageId><trName>toki pona</trName></name>
+      <name><languageId>fil</languageId><trName>Toki Pona</trName></name>
+      <name><languageId>fr</languageId><trName>toki pona</trName></name>
+      <name><languageId>ga</languageId><trName>Toki Pona</trName></name>
+      <name><languageId>gd</languageId><trName>Toki Pona</trName></name>
+      <name><languageId>gl</languageId><trName>toki pona</trName></name>
+      <name><languageId>gu</languageId><trName>ટોકી પોના</trName></name>
+      <name><languageId>ha</languageId><trName>Toki Pona</trName></name>
+      <name><languageId>he</languageId><trName>טוקי פונה</trName></name>
+      <name><languageId>hi</languageId><trName>टोकी पोना</trName></name>
+      <name><languageId>hr</languageId><trName>toki pona</trName></name>
+      <name><languageId>hsb</languageId><trName>toki ponašćina</trName></name>
+      <name><languageId>hu</languageId><trName>toki pona</trName></name>
+      <name><languageId>hy</languageId><trName>տոկիպոնա</trName></name>
+      <name><languageId>ia</languageId><trName>toki pona</trName></name>
+      <name><languageId>id</languageId><trName>Toki Pona</trName></name>
+      <name><languageId>ie</languageId><trName>Toki Pona</trName></name>
+      <name><languageId>ig</languageId><trName>Tokị pọna</trName></name>
+      <name><languageId>is</languageId><trName>toki pona</trName></name>
+      <name><languageId>it</languageId><trName>toki pona</trName></name>
+      <name><languageId>ja</languageId><trName>トキポナ語</trName></name>
+      <name><languageId>jv</languageId><trName>Toki Pona</trName></name>
+      <name><languageId>ka</languageId><trName>ტოკი-პონა</trName></name>
+      <name><languageId>kk</languageId><trName>токипона тілі</trName></name>
+      <name><languageId>km</languageId><trName>តូគីប៉ូណា</trName></name>
+      <name><languageId>kn</languageId><trName>ಟೋಕಿ ಪೋನಾ</trName></name>
+      <name><languageId>ko</languageId><trName>도기 보나</trName></name>
+      <name><languageId>kok</languageId><trName>तोकी पोना</trName></name>
+      <name><languageId>ku</languageId><trName>toki pona</trName></name>
+      <name><languageId>ky</languageId><trName>токипонача (эксперименталдык тил)</trName></name>
+      <name><languageId>lij</languageId><trName>toki pona</trName></name>
+      <name><languageId>lo</languageId><trName>ໂທກີໂພນາ</trName></name>
+      <name><languageId>lt</languageId><trName>Toki Pona</trName></name>
+      <name><languageId>lv</languageId><trName>tokiponu</trName></name>
+      <name><languageId>mai</languageId><trName>टोकी पोना</trName></name>
+      <name><languageId>mi</languageId><trName>Toki Pona</trName></name>
+      <name><languageId>mk</languageId><trName>токи пона</trName></name>
+      <name><languageId>ml</languageId><trName>ടോകി പോന</trName></name>
+      <name><languageId>mn</languageId><trName>токипона</trName></name>
+      <name><languageId>mr</languageId><trName>टोकि पोना</trName></name>
+      <name><languageId>ms</languageId><trName>Toki Pona</trName></name>
+      <name><languageId>my</languageId><trName>တိုကီပိုနာ</trName></name>
+      <name><languageId>ne</languageId><trName>टोकी पोना</trName></name>
+      <name><languageId>nl</languageId><trName>Toki Pona</trName></name>
+      <name><languageId>no</languageId><trName>toki pona</trName></name>
+      <name><languageId>or</languageId><trName>ଟୋକି ପୋନା</trName></name>
+      <name><languageId>pa</languageId><trName>ਤੋਕੀ ਪੋਨਾ</trName></name>
+      <name><languageId>pl</languageId><trName>toki pona</trName></name>
+      <name><languageId>ps</languageId><trName>توکی پونا</trName></name>
+      <name><languageId>pt</languageId><trName>toki pona</trName></name>
+      <name><languageId>qu</languageId><trName>Toki Pona Simi</trName></name>
+      <name><languageId>ro</languageId><trName>toki pona</trName></name>
+      <name><languageId>ru</languageId><trName>токипона</trName></name>
+      <name><languageId>sat</languageId><trName>ᱴᱚᱠᱤ ᱯᱚᱱᱟ</trName></name>
+      <name><languageId>sc</languageId><trName>toki pona</trName></name>
+      <name><languageId>sd</languageId><trName>توڪي پونا</trName></name>
+      <name><languageId>si</languageId><trName>ටෝකි පොනා</trName></name>
+      <name><languageId>sk</languageId><trName>toki pona</trName></name>
+      <name><languageId>sl</languageId><trName>toki pona</trName></name>
+      <name><languageId>so</languageId><trName>Toki Pona</trName></name>
+      <name><languageId>sq</languageId><trName>tokiponaisht</trName></name>
+      <name><languageId>sr</languageId><trName>токипона</trName></name>
+      <name><languageId>sr_Latn</languageId><trName>tokipona</trName></name>
+      <name><languageId>sv</languageId><trName>toki pona</trName></name>
+      <name><languageId>sw</languageId><trName>Kitoki Pona</trName></name>
+      <name><languageId>ta</languageId><trName>டோக்கி போனா</trName></name>
+      <name><languageId>te</languageId><trName>టోకి పోనా</trName></name>
+      <name><languageId>th</languageId><trName>โทคิโพนา</trName></name>
+      <name><languageId>ti</languageId><trName>ቶኪ ፖና</trName></name>
+      <name><languageId>tk</languageId><trName>toki pona dili</trName></name>
+      <name><languageId>to</languageId><trName>lea fakatoki-pona</trName></name>
       <name><languageId>tok</languageId><trName>toki pona</trName></name>
+      <name><languageId>tr</languageId><trName>Toki Pona</trName></name>
+      <name><languageId>uk</languageId><trName>токі-пона</trName></name>
+      <name><languageId>ur</languageId><trName>ٹوکی پونا</trName></name>
+      <name><languageId>uz</languageId><trName>tokipona</trName></name>
+      <name><languageId>vi</languageId><trName>Tiếng Toki Pona</trName></name>
+      <name><languageId>yo</languageId><trName>Èdè Toki Pona</trName></name>
+      <name><languageId>yue</languageId><trName>托基波納文</trName></name>
+      <name><languageId>zh</languageId><trName>道本语</trName></name>
+      <name><languageId>zh_Hant</languageId><trName>道本語</trName></name>
+      <name><languageId>zu</languageId><trName>Toki Pona</trName></name>
     </names>
     <scripts>
       <script><scriptId>Latn</scriptId><rank>1000</rank></script>
@@ -48692,6 +48839,7 @@
       <name><languageId>tk</languageId><trName>türk dili</trName></name>
       <name><languageId>tn</languageId><trName>Turkish</trName></name>
       <name><languageId>to</languageId><trName>lea fakatoake</trName></name>
+      <name><languageId>tok</languageId><trName>toki Tuki</trName></name>
       <name><languageId>tr</languageId><trName>Türkçe</trName></name>
       <name><languageId>tt</languageId><trName>төрек</trName></name>
       <name><languageId>twq</languageId><trName>Turku senni</trName></name>
@@ -50925,6 +51073,7 @@
       <name><languageId>tk</languageId><trName>özbek dili</trName></name>
       <name><languageId>tn</languageId><trName>Uzbek</trName></name>
       <name><languageId>to</languageId><trName>lea fakaʻusipeki</trName></name>
+      <name><languageId>tok</languageId><trName>toki Opeki</trName></name>
       <name><languageId>tr</languageId><trName>Özbekçe</trName></name>
       <name><languageId>tt</languageId><trName>үзбәк</trName></name>
       <name><languageId>ug</languageId><trName>ئۆزبېكچە</trName></name>
@@ -52607,14 +52756,120 @@
     <iso639-2-t>None</iso639-2-t>
     <iso639-2-b>None</iso639-2-b>
     <names>
+      <name><languageId>ab</languageId><trName>аву</trName></name>
+      <name><languageId>af</languageId><trName>Wu-Sjinees</trName></name>
+      <name><languageId>am</languageId><trName>ዉ ቻይንኛ</trName></name>
+      <name><languageId>ar</languageId><trName>الوو الصينية</trName></name>
+      <name><languageId>as</languageId><trName>ৱু চাইনিজ</trName></name>
+      <name><languageId>ast</languageId><trName>chinu wu</trName></name>
+      <name><languageId>az</languageId><trName>vu</trName></name>
+      <name><languageId>be</languageId><trName>ву</trName></name>
+      <name><languageId>bg</languageId><trName>ву китайски</trName></name>
+      <name><languageId>bn</languageId><trName>উ চীনা</trName></name>
+      <name><languageId>br</languageId><trName>sinaeg Wu</trName></name>
+      <name><languageId>brx</languageId><trName>वु चाइनीज</trName></name>
+      <name><languageId>bs</languageId><trName>Wu kineski</trName></name>
+      <name><languageId>ca</languageId><trName>xinès wu</trName></name>
+      <name><languageId>ccp</languageId><trName>𑄤𑄌𑄨𑄚</trName></name>
+      <name><languageId>chr</languageId><trName>Ꮽ ᏓᎶᏂᎨᏍᏛ</trName></name>
+      <name><languageId>cs</languageId><trName>čínština (dialekty Wu)</trName></name>
+      <name><languageId>cy</languageId><trName>Wu Tsieineaidd</trName></name>
+      <name><languageId>da</languageId><trName>wu-kinesisk</trName></name>
       <name><languageId>de</languageId><trName>Wu</trName></name>
+      <name><languageId>dsb</languageId><trName>wu chinšćina</trName></name>
+      <name><languageId>el</languageId><trName>Κινεζικά Γου</trName></name>
       <name><languageId>en</languageId><trName>Wu</trName></name>
+      <name><languageId>eo</languageId><trName>vua</trName></name>
+      <name><languageId>es</languageId><trName>chino wu</trName></name>
+      <name><languageId>et</languageId><trName>uu</trName></name>
+      <name><languageId>eu</languageId><trName>wu txinera</trName></name>
+      <name><languageId>fa</languageId><trName>وو چینی</trName></name>
+      <name><languageId>fi</languageId><trName>wu-kiina</trName></name>
+      <name><languageId>fil</languageId><trName>Wu Chinese</trName></name>
+      <name><languageId>fo</languageId><trName>wu kinesiskt</trName></name>
+      <name><languageId>fr</languageId><trName>wu</trName></name>
+      <name><languageId>ga</languageId><trName>Sínis Wu</trName></name>
+      <name><languageId>gd</languageId><trName>Wu</trName></name>
+      <name><languageId>gl</languageId><trName>chinés wu</trName></name>
+      <name><languageId>gu</languageId><trName>વુ ચાઈનીઝ</trName></name>
+      <name><languageId>ha</languageId><trName>Sinancin Wu</trName></name>
+      <name><languageId>he</languageId><trName>סינית וו</trName></name>
+      <name><languageId>hi</languageId><trName>वू चीनी</trName></name>
+      <name><languageId>hr</languageId><trName>wu kineski</trName></name>
+      <name><languageId>hsb</languageId><trName>wu chinšćina</trName></name>
+      <name><languageId>hu</languageId><trName>wu kínai</trName></name>
+      <name><languageId>hy</languageId><trName>վու չինարեն</trName></name>
+      <name><languageId>ia</languageId><trName>wu</trName></name>
+      <name><languageId>id</languageId><trName>Wu Tionghoa</trName></name>
+      <name><languageId>ig</languageId><trName>Wụ Chainisị</trName></name>
+      <name><languageId>is</languageId><trName>wu-kínverska</trName></name>
+      <name><languageId>it</languageId><trName>wu</trName></name>
+      <name><languageId>ja</languageId><trName>呉語</trName></name>
+      <name><languageId>jv</languageId><trName>Tyonghwa Wu</trName></name>
+      <name><languageId>ka</languageId><trName>ვუ</trName></name>
+      <name><languageId>kk</languageId><trName>қытай тілі (У)</trName></name>
+      <name><languageId>km</languageId><trName>អ៊ូចិន</trName></name>
+      <name><languageId>kn</languageId><trName>ವು ಚೈನೀಸ್</trName></name>
+      <name><languageId>ko</languageId><trName>우어</trName></name>
+      <name><languageId>kok</languageId><trName>व्हु चिनी</trName></name>
+      <name><languageId>ku</languageId><trName>çîniya wuyî</trName></name>
+      <name><languageId>ky</languageId><trName>"У" диалектинде (Кытай)</trName></name>
+      <name><languageId>lb</languageId><trName>Wu-Chinesesch</trName></name>
+      <name><languageId>lij</languageId><trName>cineise wu</trName></name>
+      <name><languageId>lo</languageId><trName>ຈີນອູ</trName></name>
+      <name><languageId>lt</languageId><trName>kinų kalbos vu tarmė</trName></name>
+      <name><languageId>lv</languageId><trName>vu ķīniešu</trName></name>
+      <name><languageId>mai</languageId><trName>ऊ चीनी</trName></name>
+      <name><languageId>mi</languageId><trName>Hainamana Wū</trName></name>
+      <name><languageId>mk</languageId><trName>ву</trName></name>
+      <name><languageId>ml</languageId><trName>വു ചൈനീസ്</trName></name>
+      <name><languageId>mn</languageId><trName>хятад, ву хэл</trName></name>
+      <name><languageId>mr</languageId><trName>व्हू चिनी</trName></name>
+      <name><languageId>ms</languageId><trName>Cina Wu</trName></name>
+      <name><languageId>my</languageId><trName>ဝူ တရုတ်</trName></name>
+      <name><languageId>ne</languageId><trName>ऊ चिनियाँ</trName></name>
+      <name><languageId>nl</languageId><trName>Wuyu</trName></name>
+      <name><languageId>no</languageId><trName>wu</trName></name>
+      <name><languageId>or</languageId><trName>ୱୁ ଚାଇନିଜ</trName></name>
+      <name><languageId>pa</languageId><trName>ਚੀਨੀ ਵੂ</trName></name>
+      <name><languageId>pl</languageId><trName>wu</trName></name>
+      <name><languageId>ps</languageId><trName>وو چینایی</trName></name>
+      <name><languageId>pt</languageId><trName>wu</trName></name>
+      <name><languageId>qu</languageId><trName>Wu Chino</trName></name>
+      <name><languageId>ro</languageId><trName>chineză wu</trName></name>
+      <name><languageId>ru</languageId><trName>у</trName></name>
+      <name><languageId>sat</languageId><trName>ᱣᱩ ᱪᱟᱭᱱᱤᱡᱽ</trName></name>
+      <name><languageId>sc</languageId><trName>wu</trName></name>
+      <name><languageId>sd</languageId><trName>وو چيني</trName></name>
+      <name><languageId>si</languageId><trName>වූ චයිනිස්</trName></name>
+      <name><languageId>sk</languageId><trName>čínština (wu)</trName></name>
+      <name><languageId>sl</languageId><trName>wu-kitajščina</trName></name>
+      <name><languageId>so</languageId><trName>Wu Chinese</trName></name>
+      <name><languageId>sq</languageId><trName>kinezishte vu</trName></name>
+      <name><languageId>sr</languageId><trName>ву кинески</trName></name>
+      <name><languageId>sr_Latn</languageId><trName>vu kineski</trName></name>
+      <name><languageId>sv</languageId><trName>wu</trName></name>
+      <name><languageId>sw</languageId><trName>Kichina cha Wu</trName></name>
+      <name><languageId>ta</languageId><trName>வூ சீனம்</trName></name>
+      <name><languageId>te</languageId><trName>వు చైనీస్</trName></name>
+      <name><languageId>th</languageId><trName>จีนอู๋</trName></name>
+      <name><languageId>ti</languageId><trName>ቻይናዊ ዉ</trName></name>
+      <name><languageId>tk</languageId><trName>u hytaý dili</trName></name>
+      <name><languageId>to</languageId><trName>lea fakasiaina-uū</trName></name>
+      <name><languageId>tr</languageId><trName>Wu Çincesi</trName></name>
+      <name><languageId>uk</languageId><trName>китайська уська</trName></name>
+      <name><languageId>ur</languageId><trName>وو چائینیز</trName></name>
+      <name><languageId>uz</languageId><trName>vu xitoy</trName></name>
+      <name><languageId>vi</languageId><trName>Tiếng Ngô</trName></name>
       <name><languageId>wuu</languageId><trName>吴语</trName></name>
       <name><languageId>wuu_Hans</languageId><trName>吴语</trName></name>
       <name><languageId>wuu_Hant</languageId><trName>吳語</trName></name>
+      <name><languageId>yo</languageId><trName>Èdè Wu ti Saina</trName></name>
+      <name><languageId>yue</languageId><trName>吳語</trName></name>
       <name><languageId>zh</languageId><trName>吴语</trName></name>
       <name><languageId>zh_Hans</languageId><trName>吴语</trName></name>
       <name><languageId>zh_Hant</languageId><trName>吳語</trName></name>
+      <name><languageId>zu</languageId><trName>isi-Wu Chinese</trName></name>
     </names>
     <scripts>
       <script><scriptId>Hans</scriptId><rank>800</rank></script>
@@ -54494,6 +54749,7 @@
       <name><languageId>tig</languageId><trName>ቻይንኛ</trName></name>
       <name><languageId>tk</languageId><trName>hytaý dili</trName></name>
       <name><languageId>to</languageId><trName>lea fakasiaina</trName></name>
+      <name><languageId>tok</languageId><trName>toki Sonko</trName></name>
       <name><languageId>tpi</languageId><trName>Sainis</trName></name>
       <name><languageId>tr</languageId><trName>Çince</trName></name>
       <name><languageId>tt</languageId><trName>кытай</trName></name>
