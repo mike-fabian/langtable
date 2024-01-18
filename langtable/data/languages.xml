@@ -7719,10 +7719,12 @@
       <script><scriptId>Cyrl</scriptId><rank>100</rank></script>
     </scripts>
     <locales>
-      <locale><localeId>crh_UA.UTF-8</localeId><rank>1000</rank></locale>
+      <locale><localeId>crh_UA.UTF-8</localeId><rank>900</rank></locale>
+      <locale><localeId>crh_RU.UTF-8</localeId><rank>100</rank></locale>
     </locales>
     <territories>
-      <territory><territoryId>UA</territoryId><rank>1000</rank></territory>
+      <territory><territoryId>UA</territoryId><rank>900</rank></territory>
+      <territory><territoryId>RU</territoryId><rank>100</rank></territory>
     </territories>
     <keyboards>
       <keyboard><keyboardId>tr(crh)</keyboardId><rank>1000</rank></keyboard>
