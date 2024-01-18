@@ -107,6 +107,7 @@
       <name><languageId>sq</languageId><trName>afarisht</trName></name>
       <name><languageId>sr</languageId><trName>афарски</trName></name>
       <name><languageId>sr_Latn</languageId><trName>afarski</trName></name>
+      <name><languageId>ssy</languageId><trName>Qafar</trName></name>
       <name><languageId>sv</languageId><trName>afar</trName></name>
       <name><languageId>sw</languageId><trName>Kiafar</trName></name>
       <name><languageId>ta</languageId><trName>அஃபார்</trName></name>
@@ -135,7 +136,6 @@
       <locale><localeId>aa_DJ.UTF-8</localeId><rank>400</rank></locale>
       <locale><localeId>aa_ER.UTF-8</localeId><rank>300</rank></locale>
       <locale><localeId>aa_ET.UTF-8</localeId><rank>200</rank></locale>
-      <locale><localeId>aa_ER.UTF-8@saaho</localeId><rank>2</rank></locale>
     </locales>
     <territories>
       <territory><territoryId>DJ</territoryId><rank>400</rank></territory>
@@ -45074,6 +45074,134 @@
     </consolefonts>
     <timezones>
       <timezone><timezoneId>Africa/Johannesburg</timezoneId><rank>1000</rank></timezone>
+    </timezones>
+  </language>
+  <language>
+    <languageId>ssy</languageId>
+    <iso639-1>None</iso639-1>
+    <iso639-2-t>None</iso639-2-t>
+    <iso639-2-b>None</iso639-2-b>
+    <names>
+      <name><languageId>af</languageId><trName>Saho</trName></name>
+      <name><languageId>am</languageId><trName>ሳሆኛ</trName></name>
+      <name><languageId>ar</languageId><trName>لغة الساهو</trName></name>
+      <name><languageId>as</languageId><trName>ছাহো</trName></name>
+      <name><languageId>ast</languageId><trName>saho</trName></name>
+      <name><languageId>az</languageId><trName>saho</trName></name>
+      <name><languageId>be</languageId><trName>саха</trName></name>
+      <name><languageId>bg</languageId><trName>сахо</trName></name>
+      <name><languageId>bn</languageId><trName>সাহো</trName></name>
+      <name><languageId>br</languageId><trName>sahoeg</trName></name>
+      <name><languageId>bs</languageId><trName>saho</trName></name>
+      <name><languageId>ca</languageId><trName>saho</trName></name>
+      <name><languageId>ccp</languageId><trName>𑄥𑄦𑄮</trName></name>
+      <name><languageId>ce</languageId><trName>сахо</trName></name>
+      <name><languageId>chr</languageId><trName>ᏌᎰ</trName></name>
+      <name><languageId>ckb</languageId><trName>ساهۆ</trName></name>
+      <name><languageId>cs</languageId><trName>saho</trName></name>
+      <name><languageId>cy</languageId><trName>Saho</trName></name>
+      <name><languageId>da</languageId><trName>saho</trName></name>
+      <name><languageId>de</languageId><trName>Saho</trName></name>
+      <name><languageId>el</languageId><trName>Σάχο</trName></name>
+      <name><languageId>en</languageId><trName>Saho</trName></name>
+      <name><languageId>es</languageId><trName>saho</trName></name>
+      <name><languageId>et</languageId><trName>saho</trName></name>
+      <name><languageId>eu</languageId><trName>sahoa</trName></name>
+      <name><languageId>fa</languageId><trName>ساهو</trName></name>
+      <name><languageId>fi</languageId><trName>saho</trName></name>
+      <name><languageId>fil</languageId><trName>Saho</trName></name>
+      <name><languageId>fo</languageId><trName>saho</trName></name>
+      <name><languageId>fr</languageId><trName>saho</trName></name>
+      <name><languageId>fy</languageId><trName>Saho</trName></name>
+      <name><languageId>gd</languageId><trName>Saho</trName></name>
+      <name><languageId>gl</languageId><trName>saho</trName></name>
+      <name><languageId>gu</languageId><trName>સાહો</trName></name>
+      <name><languageId>he</languageId><trName>סאהו</trName></name>
+      <name><languageId>hi</languageId><trName>साहो</trName></name>
+      <name><languageId>hr</languageId><trName>saho</trName></name>
+      <name><languageId>hu</languageId><trName>szahó</trName></name>
+      <name><languageId>hy</languageId><trName>սահոերեն</trName></name>
+      <name><languageId>ia</languageId><trName>saho</trName></name>
+      <name><languageId>id</languageId><trName>Saho</trName></name>
+      <name><languageId>is</languageId><trName>saho</trName></name>
+      <name><languageId>it</languageId><trName>saho</trName></name>
+      <name><languageId>ja</languageId><trName>サホ語</trName></name>
+      <name><languageId>ka</languageId><trName>საჰო</trName></name>
+      <name><languageId>kab</languageId><trName>Tasahut</trName></name>
+      <name><languageId>kk</languageId><trName>сахо тілі</trName></name>
+      <name><languageId>km</languageId><trName>សាហូ</trName></name>
+      <name><languageId>kn</languageId><trName>ಸಹೊ</trName></name>
+      <name><languageId>ko</languageId><trName>사호어</trName></name>
+      <name><languageId>kok</languageId><trName>साहो</trName></name>
+      <name><languageId>ku</languageId><trName>sahoyî</trName></name>
+      <name><languageId>ky</languageId><trName>сахочо</trName></name>
+      <name><languageId>lb</languageId><trName>Saho</trName></name>
+      <name><languageId>lo</languageId><trName>ຊາໂຮ</trName></name>
+      <name><languageId>lt</languageId><trName>saho</trName></name>
+      <name><languageId>lv</languageId><trName>saho</trName></name>
+      <name><languageId>mk</languageId><trName>сахо</trName></name>
+      <name><languageId>ml</languageId><trName>സാഹോ</trName></name>
+      <name><languageId>mn</languageId><trName>сахо</trName></name>
+      <name><languageId>mr</languageId><trName>साहो</trName></name>
+      <name><languageId>ms</languageId><trName>Saho</trName></name>
+      <name><languageId>mt</languageId><trName>Saho</trName></name>
+      <name><languageId>my</languageId><trName>ဆာဟို</trName></name>
+      <name><languageId>ne</languageId><trName>साहो</trName></name>
+      <name><languageId>nl</languageId><trName>Saho</trName></name>
+      <name><languageId>no</languageId><trName>saho</trName></name>
+      <name><languageId>or</languageId><trName>ସହୋ</trName></name>
+      <name><languageId>pa</languageId><trName>ਸਾਹੋ</trName></name>
+      <name><languageId>pl</languageId><trName>saho</trName></name>
+      <name><languageId>ps</languageId><trName>سهو</trName></name>
+      <name><languageId>pt</languageId><trName>saho</trName></name>
+      <name><languageId>ro</languageId><trName>saho</trName></name>
+      <name><languageId>ru</languageId><trName>сахо</trName></name>
+      <name><languageId>sd</languageId><trName>سهو</trName></name>
+      <name><languageId>si</languageId><trName>සහො</trName></name>
+      <name><languageId>sk</languageId><trName>saho</trName></name>
+      <name><languageId>sl</languageId><trName>saho</trName></name>
+      <name><languageId>smn</languageId><trName>saho</trName></name>
+      <name><languageId>sq</languageId><trName>sahoisht</trName></name>
+      <name><languageId>sr</languageId><trName>сахо</trName></name>
+      <name><languageId>sr_Latn</languageId><trName>saho</trName></name>
+      <name><languageId>ssy</languageId><trName>Saho</trName></name>
+      <name><languageId>sv</languageId><trName>saho</trName></name>
+      <name><languageId>sw</languageId><trName>Kisaho</trName></name>
+      <name><languageId>ta</languageId><trName>சஹோ</trName></name>
+      <name><languageId>te</languageId><trName>సాహో</trName></name>
+      <name><languageId>th</languageId><trName>ซาโฮ</trName></name>
+      <name><languageId>tk</languageId><trName>saho dili</trName></name>
+      <name><languageId>to</languageId><trName>lea fakasaho</trName></name>
+      <name><languageId>tr</languageId><trName>Saho</trName></name>
+      <name><languageId>ug</languageId><trName>ساخوچە</trName></name>
+      <name><languageId>uk</languageId><trName>сахо</trName></name>
+      <name><languageId>ur</languageId><trName>ساہو</trName></name>
+      <name><languageId>uz</languageId><trName>saho</trName></name>
+      <name><languageId>vi</languageId><trName>Tiếng Saho</trName></name>
+      <name><languageId>yue</languageId><trName>薩霍文</trName></name>
+      <name><languageId>zh</languageId><trName>萨霍语</trName></name>
+      <name><languageId>zh_Hant</languageId><trName>薩霍文</trName></name>
+      <name><languageId>zu</languageId><trName>isi-Saho</trName></name>
+    </names>
+    <scripts>
+      <script><scriptId>Latn</scriptId><rank>1000</rank></script>
+    </scripts>
+    <locales>
+      <locale><localeId>ssy_ER.UTF-8</localeId><rank>1000</rank></locale>
+    </locales>
+    <territories>
+      <territory><territoryId>ER</territoryId><rank>1000</rank></territory>
+    </territories>
+    <keyboards>
+      <keyboard><keyboardId>us</keyboardId><rank>1000</rank></keyboard>
+    </keyboards>
+    <inputmethods>
+    </inputmethods>
+    <consolefonts>
+      <consolefont><consolefontId>eurlatgr</consolefontId><rank>1000</rank></consolefont>
+    </consolefonts>
+    <timezones>
+      <timezone><timezoneId>Africa/Asmara</timezoneId><rank>1000</rank></timezone>
     </timezones>
   </language>
   <language>
