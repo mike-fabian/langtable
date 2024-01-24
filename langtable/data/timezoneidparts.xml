@@ -16082,6 +16082,69 @@
     </names>
   </timezoneIdPart>
   <timezoneIdPart>
+    <timezoneIdPartId>Famagusta</timezoneIdPartId>
+    <names>
+      <name><languageId>ab</languageId><trName>Фамагуста</trName></name>
+      <name><languageId>am</languageId><trName>ፋማጉስታ</trName></name>
+      <name><languageId>ar</languageId><trName>فاماغوستا</trName></name>
+      <name><languageId>as</languageId><trName>ফামাগুস্তা</trName></name>
+      <name><languageId>az</languageId><trName>Famaqusta</trName></name>
+      <name><languageId>be</languageId><trName>Фамагуста</trName></name>
+      <name><languageId>bg</languageId><trName>Фамагуста</trName></name>
+      <name><languageId>bn</languageId><trName>ফামাগাস্তা</trName></name>
+      <name><languageId>brx</languageId><trName>फामागुस्ता</trName></name>
+      <name><languageId>ce</languageId><trName>Фамагуста</trName></name>
+      <name><languageId>chr</languageId><trName>ᏆᎹᎫᏍᏔ</trName></name>
+      <name><languageId>cv</languageId><trName>Фамагуста</trName></name>
+      <name><languageId>el</languageId><trName>Αμμόχωστος</trName></name>
+      <name><languageId>en</languageId><trName>Famagusta</trName></name>
+      <name><languageId>fa</languageId><trName>فاماگوستا</trName></name>
+      <name><languageId>fr</languageId><trName>Famagouste</trName></name>
+      <name><languageId>gu</languageId><trName>ફામાગુસ્તા</trName></name>
+      <name><languageId>he</languageId><trName>פמגוסטה</trName></name>
+      <name><languageId>hi</languageId><trName>फ़ामागुस्ता</trName></name>
+      <name><languageId>hy</languageId><trName>Ֆամագուստա</trName></name>
+      <name><languageId>it</languageId><trName>Famagosta</trName></name>
+      <name><languageId>ja</languageId><trName>ファマグスタ</trName></name>
+      <name><languageId>ka</languageId><trName>ფამაგუსტა</trName></name>
+      <name><languageId>kk</languageId><trName>Фамагуста</trName></name>
+      <name><languageId>km</languageId><trName>ហ្វ៉ាម៉ាហ្គុស្តា</trName></name>
+      <name><languageId>kn</languageId><trName>ಫಮಾಗುಸ್ತಾ</trName></name>
+      <name><languageId>ko</languageId><trName>파마구스타</trName></name>
+      <name><languageId>kok</languageId><trName>फमागुस्ता</trName></name>
+      <name><languageId>ks</languageId><trName>فاما گوسٹا</trName></name>
+      <name><languageId>ky</languageId><trName>Фамагуста</trName></name>
+      <name><languageId>lo</languageId><trName>ຟາມາກັສທາ</trName></name>
+      <name><languageId>mai</languageId><trName>फामागुस्ता</trName></name>
+      <name><languageId>mk</languageId><trName>Фамагуста</trName></name>
+      <name><languageId>ml</languageId><trName>ഫാമഗുസ്‌റ്റ</trName></name>
+      <name><languageId>mn</languageId><trName>Фамагуста</trName></name>
+      <name><languageId>mr</languageId><trName>फॅमगुस्ता</trName></name>
+      <name><languageId>my</languageId><trName>ဖာမာဂူစတာ</trName></name>
+      <name><languageId>ne</languageId><trName>फामागुस्ता</trName></name>
+      <name><languageId>or</languageId><trName>ଫାମାଗୁଷ୍ଟା</trName></name>
+      <name><languageId>pa</languageId><trName>ਫਾਮਾਗੁਸਟਾ</trName></name>
+      <name><languageId>ps</languageId><trName>فاماګستا</trName></name>
+      <name><languageId>ru</languageId><trName>Фамагуста</trName></name>
+      <name><languageId>sd</languageId><trName>فاماگوستا</trName></name>
+      <name><languageId>si</languageId><trName>ෆැමගුස්ටා</trName></name>
+      <name><languageId>sq</languageId><trName>Famagustë</trName></name>
+      <name><languageId>sr</languageId><trName>Фамагуста</trName></name>
+      <name><languageId>sr_Latn</languageId><trName>Famagusta</trName></name>
+      <name><languageId>syr</languageId><trName>ܦܐܡܐܓܘܣܬܐ</trName></name>
+      <name><languageId>ta</languageId><trName>ஃபாமகுஸ்டா</trName></name>
+      <name><languageId>te</languageId><trName>ఫామగుస్టా</trName></name>
+      <name><languageId>th</languageId><trName>แฟมากุสตา</trName></name>
+      <name><languageId>ti</languageId><trName>ፋማጉስታ</trName></name>
+      <name><languageId>tr</languageId><trName>Gazimağusa</trName></name>
+      <name><languageId>uk</languageId><trName>Фамагуста</trName></name>
+      <name><languageId>ur</languageId><trName>فاماگوسٹا</trName></name>
+      <name><languageId>yue</languageId><trName>法馬古斯塔</trName></name>
+      <name><languageId>zh</languageId><trName>法马古斯塔</trName></name>
+      <name><languageId>zh_Hant</languageId><trName>法馬古斯塔</trName></name>
+    </names>
+  </timezoneIdPart>
+  <timezoneIdPart>
     <timezoneIdPartId>Faroe</timezoneIdPartId>
     <names>
       <name><languageId>ab</languageId><trName>Фарертәи ад-хақәа</trName></name>
