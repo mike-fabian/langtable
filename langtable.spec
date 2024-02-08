@@ -1,17 +1,18 @@
 Name:           langtable
-Version:        0.0.45
-Release:        1%{?dist}
+Version:        0.0.64
+Release:        3%{?dist}
 Summary:        Guessing reasonable defaults for locale, keyboard layout, territory, and language.
 # the translations in languages.xml and territories.xml are (mostly)
 # imported from CLDR and are thus under the Unicode license, the
 # short name for this license is "MIT", see:
 # https://fedoraproject.org/wiki/Licensing:MIT?rd=Licensing/MIT#Modern_Style_without_sublicense_.28Unicode.29
-License:        GPLv3+
+License:        GPL-3.0-or-later
 URL:            https://github.com/mike-fabian/langtable
 Source0:        https://github.com/mike-fabian/langtable/releases/download/%{version}/%{name}-%{version}.tar.gz
 BuildArch:      noarch
 BuildRequires:  perl-interpreter
 BuildRequires:  python3-devel
+BuildRequires:  python3-setuptools
 
 %description
 langtable is used to guess reasonable defaults for locale, keyboard layout,
@@ -22,9 +23,10 @@ already known.
 
 %package -n python3-langtable
 Summary:        Python module to query the langtable-data
-License:        GPLv3+
+License:        GPL-3.0-or-later
 Requires:       %{name} = %{version}-%{release}
 Obsoletes:      %{name}-data < %{version}-%{release}
+Provides:       %{name}-data = %{version}-%{release}
 %{?python_provide:%python_provide python3-%{name}}
 
 %description -n python3-langtable
@@ -73,6 +75,241 @@ xmllint --noout --relaxng \
 %{python3_sitelib}/langtable-*.egg-info/*
 
 %changelog
+* Thu Jan 25 2024 Fedora Release Engineering <releng@fedoraproject.org> - 0.0.64-3
+- Rebuilt for https://fedoraproject.org/wiki/Fedora_40_Mass_Rebuild
+
+* Sun Jan 21 2024 Fedora Release Engineering <releng@fedoraproject.org> - 0.0.64-2
+- Rebuilt for https://fedoraproject.org/wiki/Fedora_40_Mass_Rebuild
+
+* Tue Sep 19 2023 Mike FABIAN <mfabian@redhat.com> - 0.0.64-1
+- Update to 0.0.64
+- Add new public functions list_all_{languages,locales,keyboards,territories,timezones,scripts,input_methods,console_fonts}
+  (See also the discussion at: https://gitlab.gnome.org/GNOME/gnome-desktop/-/merge_requests/159)
+
+* Mon Aug 28 2023 Mike FABIAN <mfabian@redhat.com> - 0.0.63-1
+- Update to 0.0.63
+- Add more translations from CLDR
+- Get translation changes from CLDR
+- Japanese: prefer anthy over kkc
+  (Thanks to adam Williamson: https://github.com/mike-fabian/langtable/pull/17)
+- Use skipTerritory also in list_keyboards(), list_consolefonts(), and list_timezones()
+  (Resolves: https://github.com/mike-fabian/langtable/issues/18)
+
+* Thu Jul 20 2023 Fedora Release Engineering <releng@fedoraproject.org> - 0.0.62-3
+- Rebuilt for https://fedoraproject.org/wiki/Fedora_39_Mass_Rebuild
+
+* Tue Jun 13 2023 Python Maint <python-maint@redhat.com> - 0.0.62-2
+- Rebuilt for Python 3.12
+
+* Tue May 02 2023 Mike FABIAN <mfabian@redhat.com> - 0.0.62-1
+- Update to 0.0.62
+- Get translation changes from CLDR
+- Add more translations from CLDR
+- Add Norwegian keyboard layout to keyboards.xml
+  (Resolves: https://github.com/mike-fabian/langtable/issues/16)
+- Add Hang script to Southern Aymara
+
+* Thu Jan 19 2023 Fedora Release Engineering <releng@fedoraproject.org> - 0.0.61-3
+- Rebuilt for https://fedoraproject.org/wiki/Fedora_38_Mass_Rebuild
+
+* Mon Nov 28 2022 Mike FABIAN <mfabian@redhat.com> - 0.0.61-2
+- Migrate license tag of python3-langtable to SPDX as well
+
+* Thu Nov 24 2022 Mike FABIAN <mfabian@redhat.com> - 0.0.61-1
+- Update to 0.0.61
+- Add mnw_MM.UTF-8 and ckb_IQ.UTF-8
+- Do not run test cases using Python2 anymore
+- Add bih
+- Add more translations from CLDR
+- Migrate license tag to SPDX
+
+* Wed Sep 21 2022 Mike FABIAN <mfabian@redhat.com> - 0.0.60-1
+- Update to 0.0.60
+- Add list_common_locales() function
+  (Resolves: https://github.com/mike-fabian/langtable/issues/15)
+- For ar_IN locale, langtable should give the 'ara' keyboard layout as the first choice
+  (Resolves: Resolves: https://github.com/mike-fabian/langtable/issues/14)
+
+* Tue Sep 06 2022 Mike FABIAN <mfabian@redhat.com> - 0.0.59-1
+- Update to 0.0.59
+- Add ibus/m17n:ar:kbd as input method for Arabic and fix iso639-1 code for Arabic
+- Get translation changes from CLDR
+- Add more translations from CLDR
+
+* Thu Jul 21 2022 Fedora Release Engineering <releng@fedoraproject.org> - 0.0.58-3
+- Rebuilt for https://fedoraproject.org/wiki/Fedora_37_Mass_Rebuild
+
+* Mon Jun 13 2022 Python Maint <python-maint@redhat.com> - 0.0.58-2
+- Rebuilt for Python 3.11
+
+* Thu Apr 21 2022 Mike FABIAN <mfabian@redhat.com> - 0.0.58-1
+- Update to 0.0.58
+- Add syr locale
+- Get translation changes from CLDR
+- Add more translations from CLDR
+- Fix names for keyboard layouts which have changed
+- Add ab_GE locale
+- Add rif language
+
+* Tue Jan 25 2022 Mike FABIAN <mfabian@redhat.com> - 0.0.57-1
+- Update to 0.0.57
+- Get translation changes from CLDR
+- Add more translations from CLDR
+- Replace “ibus/cangjie” with “ibus/table:cangjie5”
+- Updates for Sami languages (from Marko Myllynen)
+- Updates for Finnish keyboard layouts (from Marko Myllynen)
+
+* Thu Jan 20 2022 Fedora Release Engineering <releng@fedoraproject.org> - 0.0.56-2
+- Rebuilt for https://fedoraproject.org/wiki/Fedora_36_Mass_Rebuild
+
+* Mon Aug 16 2021 Mike FABIAN <mfabian@redhat.com> - 0.0.56-1
+- Update to 0.0.56
+- Fallback to translations in “xx” from “xx_Zzzz”
+  only if “Zzzz” is the main script of “xx”
+  (Resolves: https://github.com/mike-fabian/langtable/issues/13)
+- Get translation changes for mt from CLDR
+
+* Wed Aug 11 2021 Mike FABIAN <mfabian@redhat.com> - 0.0.55-1
+- Update to 0.0.55
+- Get translation changes from CLDR
+- Add more translations from CLDR
+- Make inscript2 instead of inscript input methods the default
+  (See: https://fedoraproject.org/wiki/Changes/Enhanced_Inscript_as_default_Indic_IM)
+- Make ibus/m17n:vi:telex the default input method for Vietnamese
+
+* Thu Jul 22 2021 Fedora Release Engineering <releng@fedoraproject.org> - 0.0.54-4
+- Rebuilt for https://fedoraproject.org/wiki/Fedora_35_Mass_Rebuild
+
+* Fri Jun 04 2021 Python Maint <python-maint@redhat.com> - 0.0.54-3
+- Rebuilt for Python 3.10
+
+* Tue Jan 26 2021 Fedora Release Engineering <releng@fedoraproject.org> - 0.0.54-2
+- Rebuilt for https://fedoraproject.org/wiki/Fedora_34_Mass_Rebuild
+
+* Thu Oct 29 2020 Mike FABIAN <mfabian@redhat.com> - 0.0.54-1
+- Update to 0.0.54
+- add list_common_languages derived from gnome-control-center
+  by Sundeep ANAND <suanand@redhat.com>
+
+* Tue Sep 15 2020 Mike FABIAN <mfabian@redhat.com> - 0.0.53-1
+- Update to 0.0.53
+- Capitalize the return values of language_name() and territory_name()
+  (See: https://github.com/rhinstaller/anaconda/pull/2837).
+- Add more translations from CLDR
+- Get translation changes from CLDR
+
+* Tue Aug 18 2020 Mike FABIAN <mfabian@redhat.com> - 0.0.52-1
+- Update to 0.0.52
+- add list_common_keyboards() to public api by Sundeep ANAND <suanand@redhat.com>
+
+* Tue Jul 28 2020 Fedora Release Engineering <releng@fedoraproject.org> - 0.0.51-4
+- Rebuilt for https://fedoraproject.org/wiki/Fedora_33_Mass_Rebuild
+
+* Tue May 26 2020 Miro Hrončok <mhroncok@redhat.com> - 0.0.51-3
+- Rebuilt for Python 3.9
+
+* Wed Jan 29 2020 Fedora Release Engineering <releng@fedoraproject.org> - 0.0.51-2
+- Rebuilt for https://fedoraproject.org/wiki/Fedora_32_Mass_Rebuild
+
+* Tue Jan 14 2020 Mike FABIAN <mfabian@redhat.com> - 0.0.51-1
+- Parse stuff in glibc locale names after @ which is not a script as a variant
+- Add ckb_IQ.UTF-8 locale
+
+* Fri Dec 20 2019 Mike FABIAN <mfabian@redhat.com> - 0.0.50-1
+- Make parse_locale() return something reasonable for
+  C, POSIX, en_US_POSIX, and C.UTF-8
+- Fix exception in language_name() when called with languageId=''
+  (noticed by Marco Myllynen, thank you!)
+
+* Fri Dec 13 2019 Mike FABIAN <mfabian@redhat.com> - 0.0.49-1
+- Add new public function parse_locale()
+- Let info() print a bit more stuff
+
+* Tue Nov 05 2019 Mike FABIAN <mfabian@redhat.com> - 0.0.48-1
+- Fix typo in mo entry
+- Add mnw
+- Fix translation of IN in te
+
+* Sun Sep 29 2019 Mike FABIAN <mfabian@redhat.com> - 0.0.47-1
+- Three changed translations into sr_Latn from CLDR
+- Add translations of PL in csb and szl (from native speakers)
+- Add tools/compare_with_glib_source.py script to compare stuff with glibc
+- Add translation of DZ in ber
+- Add translation for MA in ber, ber_Tfng, ber_MA
+- Add translation of MX in nah and nhn
+- Add translation of NP in the
+- Add translation for PH in tl
+- Fix translation of IN in te
+- Add translation of MM in shn
+- Add translation of IN in sat
+- Add translation of IR in az_Arab, az_IR
+- Add translation for NU in niu
+- Add translation of PE in ayc (from glibc)
+- Add translation of PE in agr (from glibc)
+- Fix translation of RU into tt
+- Fix translation of ZA in xh
+- Add translation of IN in mni (from glibc)
+- Add translation of CA in iu (from glibc)
+- Add translation of ET in sid (from glibc)
+- Add translations of ER and ET in gez (from glibc)
+- Add translation of ZA in nr, nso, ss, st, tn, ts, ve (from glibc)
+- Add translation of MV in dv (from glibc)
+- Add translation of CA in ik (from glibc)
+- Add translation of IN in mjw (from glibc)
+- Add translations of TW in cmn, hak, nan, nan_Latn (from glibc)
+- Fix translation of BY in be_Latn to agree with glibc
+- Add translation of NP in bho
+- Add translation of IN in bhb, bho, doi, hif, hne, ks_Deva, mag, raj, sa, sd_Deva
+- Use "Crimean Tatar" instead of "Crimean Turkish" as English translation for crh
+- Use Shuswap instead of "Shuswap langauge" as the English translation of shs
+- Correct capitalization of endonym for ss
+- Fix translations of sr_Latn and sr_Cyrl into sr_Latn
+- Use standard translations of zh and yue from cldr, not the alt='menu' variant
+- Fix endonym of uz_Cyrl to agree with glibc and cldr
+- Change endonym for tcy to agree with glibc (cldr does not have tcy)
+- Change endonym for sid to agree with glibc (cldr does not have sid)
+- Change endonym for sgs to agree with glibc (cldr does not have sgs)
+- Give Olck higher priority than Deva for sat
+- Change endonym for lzh to agree with glibc
+- Change endonym for csb to agree with glibc
+- Change endonym for cmn_Hans from 官话 to 汉语官话 and for cmn_Hant from 官話 to 漢語官話
+- Add endonym for ber_MA
+- Add endonym for az_Arab, az_IR (from az_IR in glibc)
+- Add endonym for fy_NL
+- Fix endonym for nhn and add English name for nhn
+- Fix endonym for pa_Arab (agrees with CLDR now)
+
+* Wed Sep 04 2019 Mike FABIAN <mfabian@redhat.com> - 0.0.46-1
+- Add some documentation about the parsing of languageId
+- Adapt test cases to translation changes from CLDR
+- Get translation changes from CLDR
+- Add more translations from CLDR
+- More test cases
+- Add optional boolean parameter “fallback” in language_name() and territory_name()
+- Add translation of ES in an
+- Add dummy translation of IN in ks_Deva
+- Add endonyms for ik, iu, cv, csb, crh, an, ayc, ber, bho
+- Add translation of IT in lij
+- Add endonym for nan_Latn
+- Add endonym for oc and translation of FR in oc
+- Add translations of AW and CW in pap
+- Add endonyms for sat, sa, quz
+- Add translation of IT in sc
+- Add dummy translation of IN in sd_Deva
+- Add endonyms for sid, the
+- Add translations of “Tok Pisin” and “Papua New Guinea” in the Tok Pisin language
+- Add translations of “Walloon” and “Belgium” in the Walloon language
+- Some comments in Makefile
+
+* Mon Aug 19 2019 Miro Hrončok <mhroncok@redhat.com> - 0.0.45-4
+- Rebuilt for Python 3.8
+
+* Tue Jul 30 2019 Mike FABIAN <mfabian@redhat.com> - 0.0.45-3
+- Add “Provides: langtable-data”
+
+* Thu Jul 25 2019 Fedora Release Engineering <releng@fedoraproject.org> - 0.0.45-2
+- Rebuilt for https://fedoraproject.org/wiki/Fedora_31_Mass_Rebuild
+
 * Fri May 31 2019 Mike FABIAN <mfabian@redhat.com> - 0.0.45-1
 - Add python_provide macro to make the switch from Python 2 to
   Python 3 automatic (Resolves: rhbz#1717341)
