@@ -1,3 +1,13 @@
+2024-02-08  Mike FABIAN  <mfabian@redhat.com>
+
+	* Add wuu, tok, glk, gbm, ssy
+	* Remove aa_ER.UTF-8@saaho
+	* Add kv_RU.UTF-8, chr_RU.UTF-8
+	* Add EU, EZ
+	* Improve README and Makefile (Resolves: https://github.com/mike-fabian/langtable/issues/19)
+	* Add more translations from CLDR
+	* Get translation changes from CLDR
+
 2023-09-19  Mike FABIAN  <mfabian@redhat.com>
 
 	* Add new public functions list_all_{languages,locales,keyboards,territories,timezones,scripts,input_methods,console_fonts}
