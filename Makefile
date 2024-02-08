@@ -10,9 +10,7 @@ gzip:
 
 .PHONY: test
 test: gzip
-	#(cd langtable; python2 langtable.py)
 	(cd langtable; python3 langtable.py)
-	#python2 test_cases.py
 	python3 test_cases.py
 	(cd langtable; xmllint --noout --relaxng schemas/keyboards.rng data/keyboards.xml.gz)
 	(cd langtable; xmllint --noout --relaxng schemas/languages.rng data/languages.xml.gz)
