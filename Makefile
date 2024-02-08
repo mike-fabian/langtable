@@ -38,7 +38,7 @@ twine-upload-test: dist
 # check it here: https://pypi.org/manage/project/langtable/releases/
 .PHONY: twine-upload
 twine-upload: dist
-	python3 -m twine upload --verbose dist/*
+	python3 -m twine upload --verbose --repository pypi dist/*
 
 .PHONY: pip-install-test
 pip-install-test:
