@@ -18,7 +18,7 @@ test: gzip
 	(cd langtable; xmllint --noout --relaxng schemas/timezones.rng data/timezones.xml.gz)
 	(cd langtable; xmllint --noout --relaxng schemas/timezoneidparts.rng data/timezoneidparts.xml.gz)
 
-.PHONE: check
+.PHONY: check
 check: test
 
 .PHONY: dist
