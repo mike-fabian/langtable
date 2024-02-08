@@ -5,8 +5,7 @@ PWD := $(shell pwd)
 SRCDIR=$(PWD)
 
 .PHONY: gzip
-gzip:
-	gzip --keep --force --best langtable/data/*.xml
+gzip: langtable/data/keyboards.xml.gz langtable/data/languages.xml.gz langtable/data/territories.xml.gz langtable/data/timezones.xml.gz langtable/data/timezoneidparts.xml.gz
 
 .PHONY: test
 test: gzip
@@ -66,6 +65,9 @@ mockbuild: dist
 review: mockbuild
 	cp *.spec ./mockbuild-results/
 	(cd ./mockbuild-results/; fedora-review -n langtable -m $(MOCK_CONFIG) )
+
+%.xml.gz: %.xml
+	gzip --keep --force --best $< $@
 
 # .rnc files for editing with Emacs
 # https://fedoraproject.org/wiki/How_to_use_Emacs_for_XML_editing

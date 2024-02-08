@@ -36,12 +36,7 @@ To create a distribution tarball run
 
 To run the test cases in the source directory:
 
-     make test-local
-
-To run the test cases using the installed files:
-
-     make install DESTDIR=/usr
-     make test DESTDIR=/usr
+     make test
 
 How to use it
 =============
@@ -54,6 +49,7 @@ Functions in the public API:
      list_locales()
      list_keyboards()
      list_common_languages()
+     list_common_locales()
      list_common_keyboards()
      list_consolefonts()
      list_inputmethods()
@@ -65,6 +61,14 @@ Functions in the public API:
      languageId()
      territoryId()
      supports_ascii()
+     list_all_languages()
+     list_all_locales()
+     list_all_keyboards()
+     list_all_territories()
+     list_all_timezones()
+     list_all_scripts()
+     list_all_input_methods()
+     list_all_console_fonts()
 
 Some examples to show the usage are found in the documentation
 of the public functions in langtable.py.
