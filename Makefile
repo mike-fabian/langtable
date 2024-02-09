@@ -9,13 +9,13 @@ gzip: langtable/data/keyboards.xml.gz langtable/data/languages.xml.gz langtable/
 
 .PHONY: test
 test: gzip
-	(cd langtable; python3 langtable.py)
+	python3 langtable/langtable.py
 	python3 test_cases.py
-	(cd langtable; xmllint --noout --relaxng schemas/keyboards.rng data/keyboards.xml.gz)
-	(cd langtable; xmllint --noout --relaxng schemas/languages.rng data/languages.xml.gz)
-	(cd langtable; xmllint --noout --relaxng schemas/territories.rng data/territories.xml.gz)
-	(cd langtable; xmllint --noout --relaxng schemas/timezones.rng data/timezones.xml.gz)
-	(cd langtable; xmllint --noout --relaxng schemas/timezoneidparts.rng data/timezoneidparts.xml.gz)
+	xmllint --noout --relaxng langtable/schemas/keyboards.rng langtable/data/keyboards.xml.gz
+	xmllint --noout --relaxng langtable/schemas/languages.rng langtable/data/languages.xml.gz
+	xmllint --noout --relaxng langtable/schemas/territories.rng langtable/data/territories.xml.gz
+	xmllint --noout --relaxng langtable/schemas/timezones.rng langtable/data/timezones.xml.gz
+	xmllint --noout --relaxng langtable/schemas/timezoneidparts.rng langtable/data/timezoneidparts.xml.gz
 
 .PHONY: check
 check: test

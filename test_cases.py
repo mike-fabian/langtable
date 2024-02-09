@@ -2176,7 +2176,8 @@ def dummy():
 if __name__ == "__main__":
     import doctest
     (FAILED, ATTEMPTED) = doctest.testmod()
+    print(f'{ATTEMPTED} tests run. {ATTEMPTED - FAILED} passed and {FAILED} failed.')
     if FAILED:
-        # Return number of failed tests:
         sys.exit(FAILED)
+    print(f'All tests passed.')
     sys.exit(0)

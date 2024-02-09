@@ -2719,5 +2719,11 @@ __module_init = __ModuleInitializer()
 
 if __name__ == "__main__":
     import doctest
+    import sys
     _init()
-    doctest.testmod()
+    (FAILED, ATTEMPTED) = doctest.testmod()
+    print(f'{ATTEMPTED} tests run. {ATTEMPTED - FAILED} passed and {FAILED} failed.')
+    if FAILED:
+        sys.exit(FAILED)
+    print(f'All tests passed.')
+    sys.exit(0)
