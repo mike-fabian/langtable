@@ -9,8 +9,8 @@ gzip: langtable/data/keyboards.xml.gz langtable/data/languages.xml.gz langtable/
 
 .PHONY: test
 test: gzip
-	(cd langtable; python3 langtable.py)
-	python3 test_cases.py
+	(cd langtable; python3 langtable.py -v)
+	python3 test_cases.py -v
 	(cd langtable; xmllint --noout --relaxng schemas/keyboards.rng data/keyboards.xml.gz)
 	(cd langtable; xmllint --noout --relaxng schemas/languages.rng data/languages.xml.gz)
 	(cd langtable; xmllint --noout --relaxng schemas/territories.rng data/territories.xml.gz)
