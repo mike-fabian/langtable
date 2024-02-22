@@ -76,3 +76,9 @@ review: mockbuild
 
 rnc: schemas/keyboards.rnc schemas/languages.rnc schemas/territories.rnc schemas/timezones.rnc schemas/timezoneidparts.rnc
 	cp schemas/*.rnc data/
+
+README: README.html
+	w3m -cols 78 -o display_borders=1 -o display_link_number=1 $< > $@
+
+README.html: README.md
+	pandoc -f gfm -t html --standalone --self-contained --metadata pagetitle="langtable README" $< > $@
