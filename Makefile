@@ -30,6 +30,10 @@ install: dist
 	DISTUTILS_DEBUG=$(DEBUG) python3 ./setup.py install --prefix=$(DESTDIR)
 #	DISTUTILS_DEBUG=$(DEBUG) python3 ./setup.py install_data --install-dir=$(DATADIR)
 
+.PHONY: twine-check
+twine-check: dist
+	twine check dist/*
+
 # check it here: https://test.pypi.org/manage/project/langtable/releases/
 .PHONY: twine-upload-test
 twine-upload-test: dist
@@ -76,3 +80,9 @@ review: mockbuild
 
 rnc: schemas/keyboards.rnc schemas/languages.rnc schemas/territories.rnc schemas/timezones.rnc schemas/timezoneidparts.rnc
 	cp schemas/*.rnc data/
+
+README: README.html
+	w3m -cols 78 -o display_borders=1 -o display_link_number=1 $< > $@
+
+README.html: README.md
+	pandoc -f gfm -t html --standalone --self-contained --metadata pagetitle="langtable README" $< > $@

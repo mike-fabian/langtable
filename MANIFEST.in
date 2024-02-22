@@ -1,3 +1,6 @@
+include README.html
+include README.md
+include README
 include unicode-license.txt
 include COPYING
 include ChangeLog
