@@ -61,6 +61,10 @@ def parse_args():
                         type=str,
                         default='./langtable.log',
                         help='log file, default is %(default)s')
+    parser.add_argument('-c', '--include_changes',
+                        action='store_true',
+                        default=False,
+                        help='Also write changed translations, not only new translations, default is %(default)s.')
     parser.add_argument('-d', '--debug',
                         action='store_true',
                         help='print debugging output')
@@ -133,7 +137,7 @@ def read_translations_from_cldr_file(file = None):
             translations_timezone_cities[timezone_city_aliases[alias]] = translations_timezone_cities[alias]
     return
 
-def get_translations_from_cldr(main_cldr_dir = None):
+def get_translations_from_cldr(main_cldr_dir = None, include_changes=False):
     for target_language in sorted(langtable._languages_db):
         cldr_file = main_cldr_dir+'/'+target_language+'.xml'
         if not os.path.exists(cldr_file):
@@ -165,8 +169,8 @@ def get_translations_from_cldr(main_cldr_dir = None):
                         'language_to_translate': language_to_translate,
                         'target_language': target_language,
                         'tr': translations_languages[language_to_translate]})
-                    # Uncomment this to really make the change:
-                    #langtable._languages_db[language_to_translate].names[target_language] = translations_languages[language_to_translate]
+                    if include_changes:
+                        langtable._languages_db[language_to_translate].names[target_language] = translations_languages[language_to_translate]
             else:
                 if opts['debug']:
                     print("Not in langtable: %(language_to_translate)s" %{
@@ -194,8 +198,8 @@ def get_translations_from_cldr(main_cldr_dir = None):
                     print("+ %(territory_to_translate)s → %(target_language)s = %(tr)s" %{'territory_to_translate': territory_to_translate,
                                                                                            'target_language': target_language,
                                                                                            'tr': translations_territories[territory_to_translate]})
-                    # Uncomment this to really make the change:
-                    #langtable._territories_db[territory_to_translate].names[target_language] = translations_territories[territory_to_translate]
+                    if include_changes:
+                        langtable._territories_db[territory_to_translate].names[target_language] = translations_territories[territory_to_translate]
             else:
                 if opts['debug']:
                     print("Not in langtable: %(territory_to_translate)s" %{
@@ -228,8 +232,8 @@ def get_translations_from_cldr(main_cldr_dir = None):
                             'timezone_city_to_translate': timezone_city_to_translate,
                             'target_language': target_language,
                             'tr': translations_timezone_cities[timezone_city_to_translate]})
-                        # Uncomment this to really make the change:
-                        #langtable._timezoneIdParts_db[timezone_city_to_translate].names[target_language] = translations_timezone_cities[timezone_city_to_translate]
+                        if include_changes:
+                            langtable._timezoneIdParts_db[timezone_city_to_translate].names[target_language] = translations_timezone_cities[timezone_city_to_translate]
     return
 
 def _test_timezone_names():
@@ -251,7 +255,9 @@ def main():
     langtable._init(debug = True,
                     logfilename = args.logfilename)
 
-    get_translations_from_cldr(main_cldr_dir='/local/mfabian/src/cldr/common/main')
+    get_translations_from_cldr(
+        main_cldr_dir='/local/mfabian/src/cldr/common/main',
+        include_changes=args.include_changes)
 
     #_test_timezone_names()
 
@@ -260,7 +266,6 @@ def main():
                            keyboardsfilename = args.keyboardsoutputfile,
                            timezonesfilename = args.timezonesoutputfile,
                            timezoneidpartsfilename = args.timezoneidpartsoutputfile)
-
 
 if __name__ == '__main__':
     main()
