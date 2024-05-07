@@ -1,3 +1,18 @@
+2024-05-07  Mike FABIAN  <mfabian@redhat.com>
+
+	* Fix syntax error in a keyboard layout name for th
+	(Resolves: https://github.com/mike-fabian/langtable/issues/21xs)
+	* Add mdf
+	* Use “in(eng)” keyboard layout instead of “us” for BD to get AltGr enabled
+	* Get translation changes from CLDR
+	* Add option to include changed translations as well to the script getting translations from CLDR
+	* Add reference to the the PyPI package to the README.md.
+	And add a README.html and README generated from the README.md.
+	* Make test outputs somewhat more verbose, even when all tests pass
+	(Resolves: https://github.com/mike-fabian/langtable/pull/20).
+	Thanks to Sebastian <seb128@ubuntu.com> for the pull request.
+	* Fix Makefile twine-upload target for new authentification
+
 2024-02-08  Mike FABIAN  <mfabian@redhat.com>
 
 	* Add wuu, tok, glk, gbm, ssy
