@@ -9075,6 +9075,7 @@
       <name><languageId>lv</languageId><trName>vācu</trName></name>
       <name><languageId>mai</languageId><trName>जर्मन</trName></name>
       <name><languageId>mas</languageId><trName>nkʉtʉ́k ɔ́ɔ̄ ljerumani</trName></name>
+      <name><languageId>mdf</languageId><trName>Саксонь кяль</trName></name>
       <name><languageId>mer</languageId><trName>Kĩnjamanĩ</trName></name>
       <name><languageId>mfe</languageId><trName>alman</trName></name>
       <name><languageId>mg</languageId><trName>Alemanina</trName></name>
@@ -11047,6 +11048,7 @@
       <name><languageId>lv</languageId><trName>angļu</trName></name>
       <name><languageId>mai</languageId><trName>अंगरेजी</trName></name>
       <name><languageId>mas</languageId><trName>nkʉtʉ́k ɔ́ɔ̄ nkɨ́resa</trName></name>
+      <name><languageId>mdf</languageId><trName>Англань кяль</trName></name>
       <name><languageId>mer</languageId><trName>Kĩngeretha</trName></name>
       <name><languageId>mfe</languageId><trName>angle</trName></name>
       <name><languageId>mg</languageId><trName>Anglisy</trName></name>
@@ -11590,6 +11592,7 @@
       <name><languageId>lv</languageId><trName>spāņu</trName></name>
       <name><languageId>mai</languageId><trName>स्पेनिश</trName></name>
       <name><languageId>mas</languageId><trName>nkʉtʉ́k ɔ́ɔ̄ lspania</trName></name>
+      <name><languageId>mdf</languageId><trName>Испаниянь кяль</trName></name>
       <name><languageId>mer</languageId><trName>Kĩspĩni</trName></name>
       <name><languageId>mfe</languageId><trName>espagnol</trName></name>
       <name><languageId>mg</languageId><trName>Espaniola</trName></name>
@@ -13728,6 +13731,7 @@
       <name><languageId>lv</languageId><trName>franču</trName></name>
       <name><languageId>mai</languageId><trName>फ़्रेंच</trName></name>
       <name><languageId>mas</languageId><trName>nkʉtʉ́k ɔ́ɔ̄ faransa</trName></name>
+      <name><languageId>mdf</languageId><trName>Кранциянь кяль</trName></name>
       <name><languageId>mer</languageId><trName>Kĩfuransi</trName></name>
       <name><languageId>mfe</languageId><trName>franse</trName></name>
       <name><languageId>mg</languageId><trName>Frantsay</trName></name>
@@ -20008,6 +20012,7 @@
       <name><languageId>lv</languageId><trName>itāļu</trName></name>
       <name><languageId>mai</languageId><trName>इतालवी</trName></name>
       <name><languageId>mas</languageId><trName>nkʉtʉ́k ɔ́ɔ̄ ltalian</trName></name>
+      <name><languageId>mdf</languageId><trName>Италиянь кяль</trName></name>
       <name><languageId>mer</languageId><trName>Kĩitalĩ</trName></name>
       <name><languageId>mfe</languageId><trName>italien</trName></name>
       <name><languageId>mg</languageId><trName>Italianina</trName></name>
@@ -20482,6 +20487,7 @@
       <name><languageId>lv</languageId><trName>japāņu</trName></name>
       <name><languageId>mai</languageId><trName>जापानी</trName></name>
       <name><languageId>mas</languageId><trName>nkʉtʉ́k ɔ́ɔ̄ japani</trName></name>
+      <name><languageId>mdf</languageId><trName>Япононь кяль</trName></name>
       <name><languageId>mer</languageId><trName>Kĩjapani</trName></name>
       <name><languageId>mfe</languageId><trName>zapone</trName></name>
       <name><languageId>mg</languageId><trName>Japoney</trName></name>
@@ -29116,6 +29122,160 @@
     </timezones>
   </language>
   <language>
+    <languageId>mdf</languageId>
+    <iso639-1>None</iso639-1>
+    <iso639-2-t>mdf</iso639-2-t>
+    <iso639-2-b>mdf</iso639-2-b>
+    <names>
+      <name><languageId>ab</languageId><trName>амокшан</trName></name>
+      <name><languageId>af</languageId><trName>Moksha</trName></name>
+      <name><languageId>am</languageId><trName>ሞክሻ</trName></name>
+      <name><languageId>ar</languageId><trName>الموكشا</trName></name>
+      <name><languageId>as</languageId><trName>মোক্সা</trName></name>
+      <name><languageId>ast</languageId><trName>moksha</trName></name>
+      <name><languageId>az</languageId><trName>mokşa</trName></name>
+      <name><languageId>be</languageId><trName>макшанская</trName></name>
+      <name><languageId>bg</languageId><trName>мокша</trName></name>
+      <name><languageId>bn</languageId><trName>মোকশা</trName></name>
+      <name><languageId>br</languageId><trName>moksha</trName></name>
+      <name><languageId>brx</languageId><trName>मोक्षा</trName></name>
+      <name><languageId>bs</languageId><trName>mokša</trName></name>
+      <name><languageId>ca</languageId><trName>mordovià moksa</trName></name>
+      <name><languageId>ccp</languageId><trName>𑄟𑄮𑄇𑄴𑄥</trName></name>
+      <name><languageId>ce</languageId><trName>мокшанойн</trName></name>
+      <name><languageId>chr</languageId><trName>ᎼᎧᏌ</trName></name>
+      <name><languageId>ckb</languageId><trName>مۆکشا</trName></name>
+      <name><languageId>cs</languageId><trName>mokšanština</trName></name>
+      <name><languageId>cy</languageId><trName>Mocsia</trName></name>
+      <name><languageId>da</languageId><trName>moksha</trName></name>
+      <name><languageId>de</languageId><trName>Mokschanisch</trName></name>
+      <name><languageId>dsb</languageId><trName>mokshašćina</trName></name>
+      <name><languageId>ee</languageId><trName>moktsiagbe</trName></name>
+      <name><languageId>el</languageId><trName>Μόκσα</trName></name>
+      <name><languageId>en</languageId><trName>Moksha</trName></name>
+      <name><languageId>eo</languageId><trName>mokŝa</trName></name>
+      <name><languageId>es</languageId><trName>moksha</trName></name>
+      <name><languageId>et</languageId><trName>mokša</trName></name>
+      <name><languageId>eu</languageId><trName>mokxera</trName></name>
+      <name><languageId>fa</languageId><trName>مکشایی</trName></name>
+      <name><languageId>fi</languageId><trName>mokša</trName></name>
+      <name><languageId>fil</languageId><trName>Moksha</trName></name>
+      <name><languageId>fo</languageId><trName>moksha</trName></name>
+      <name><languageId>fr</languageId><trName>mokcha</trName></name>
+      <name><languageId>fy</languageId><trName>Moksha</trName></name>
+      <name><languageId>ga</languageId><trName>Mocsais</trName></name>
+      <name><languageId>gd</languageId><trName>Moksha</trName></name>
+      <name><languageId>gl</languageId><trName>moksha</trName></name>
+      <name><languageId>gsw</languageId><trName>Mokschamordwinisch</trName></name>
+      <name><languageId>gu</languageId><trName>મોક્ષ</trName></name>
+      <name><languageId>ha</languageId><trName>Moksha</trName></name>
+      <name><languageId>he</languageId><trName>מוקשה</trName></name>
+      <name><languageId>hi</languageId><trName>मोक्ष</trName></name>
+      <name><languageId>hr</languageId><trName>moksha</trName></name>
+      <name><languageId>hsb</languageId><trName>mokshašćina</trName></name>
+      <name><languageId>hu</languageId><trName>moksán</trName></name>
+      <name><languageId>hy</languageId><trName>մոկշայերեն</trName></name>
+      <name><languageId>ia</languageId><trName>moksha</trName></name>
+      <name><languageId>id</languageId><trName>Moksha</trName></name>
+      <name><languageId>ie</languageId><trName>mokshan</trName></name>
+      <name><languageId>ig</languageId><trName>Moksha</trName></name>
+      <name><languageId>is</languageId><trName>moksa</trName></name>
+      <name><languageId>it</languageId><trName>moksha</trName></name>
+      <name><languageId>ja</languageId><trName>モクシャ語</trName></name>
+      <name><languageId>jv</languageId><trName>Moksha</trName></name>
+      <name><languageId>ka</languageId><trName>მოქშა</trName></name>
+      <name><languageId>kab</languageId><trName>Tamuksat</trName></name>
+      <name><languageId>kk</languageId><trName>мокша тілі</trName></name>
+      <name><languageId>km</languageId><trName>មុខសា</trName></name>
+      <name><languageId>kn</languageId><trName>ಮೋಕ್ಷ</trName></name>
+      <name><languageId>ko</languageId><trName>모크샤어</trName></name>
+      <name><languageId>kok</languageId><trName>मोक्ष</trName></name>
+      <name><languageId>ks</languageId><trName>موکشا</trName></name>
+      <name><languageId>ksh</languageId><trName>Mokschah</trName></name>
+      <name><languageId>ku</languageId><trName>mokşayî</trName></name>
+      <name><languageId>ky</languageId><trName>мокшача</trName></name>
+      <name><languageId>lb</languageId><trName>Moksha</trName></name>
+      <name><languageId>lij</languageId><trName>moksha</trName></name>
+      <name><languageId>lo</languageId><trName>ມອກຊາ</trName></name>
+      <name><languageId>lt</languageId><trName>mokša</trName></name>
+      <name><languageId>lv</languageId><trName>mokšu</trName></name>
+      <name><languageId>mai</languageId><trName>मोकशा</trName></name>
+      <name><languageId>mdf</languageId><trName>мокшень кяль</trName></name>
+      <name><languageId>mi</languageId><trName>Mōkaha</trName></name>
+      <name><languageId>mk</languageId><trName>мокшански</trName></name>
+      <name><languageId>ml</languageId><trName>മോക്ഷ</trName></name>
+      <name><languageId>mn</languageId><trName>мокша</trName></name>
+      <name><languageId>mr</languageId><trName>मोक्ष</trName></name>
+      <name><languageId>ms</languageId><trName>Moksha</trName></name>
+      <name><languageId>mt</languageId><trName>Moksha</trName></name>
+      <name><languageId>my</languageId><trName>မို့ခ်ရှာ</trName></name>
+      <name><languageId>nds</languageId><trName>Mokscha</trName></name>
+      <name><languageId>ne</languageId><trName>मोक्ष</trName></name>
+      <name><languageId>nl</languageId><trName>Moksja</trName></name>
+      <name><languageId>no</languageId><trName>moksja</trName></name>
+      <name><languageId>or</languageId><trName>ମୋକ୍ଷ</trName></name>
+      <name><languageId>pa</languageId><trName>ਮੋਕਸ਼ਾ</trName></name>
+      <name><languageId>pl</languageId><trName>moksza</trName></name>
+      <name><languageId>ps</languageId><trName>موکشا</trName></name>
+      <name><languageId>pt</languageId><trName>mocsa</trName></name>
+      <name><languageId>qu</languageId><trName>Moksha Simi</trName></name>
+      <name><languageId>rm</languageId><trName>moksha</trName></name>
+      <name><languageId>ro</languageId><trName>moksha</trName></name>
+      <name><languageId>ru</languageId><trName>мокшанский</trName></name>
+      <name><languageId>sat</languageId><trName>ᱢᱚᱠᱥᱟ</trName></name>
+      <name><languageId>sc</languageId><trName>moksha</trName></name>
+      <name><languageId>sd</languageId><trName>موڪشا</trName></name>
+      <name><languageId>se</languageId><trName>mokšagiella</trName></name>
+      <name><languageId>si</languageId><trName>මොක්ශා</trName></name>
+      <name><languageId>sk</languageId><trName>mokšiančina</trName></name>
+      <name><languageId>sl</languageId><trName>mokšavščina</trName></name>
+      <name><languageId>smn</languageId><trName>mokšakielâ</trName></name>
+      <name><languageId>so</languageId><trName>Moksha</trName></name>
+      <name><languageId>sq</languageId><trName>mokshaisht</trName></name>
+      <name><languageId>sr</languageId><trName>мокша</trName></name>
+      <name><languageId>sr_Latn</languageId><trName>mokša</trName></name>
+      <name><languageId>sv</languageId><trName>moksja</trName></name>
+      <name><languageId>sw</languageId><trName>Lugha ya Moksha</trName></name>
+      <name><languageId>ta</languageId><trName>மோக்க்ஷா</trName></name>
+      <name><languageId>te</languageId><trName>మోక్ష</trName></name>
+      <name><languageId>th</languageId><trName>มอคชา</trName></name>
+      <name><languageId>ti</languageId><trName>ሞክሻ</trName></name>
+      <name><languageId>tk</languageId><trName>mokşa dili</trName></name>
+      <name><languageId>to</languageId><trName>lea fakamokisiā</trName></name>
+      <name><languageId>tr</languageId><trName>Mokşa dili</trName></name>
+      <name><languageId>ug</languageId><trName>موكشاچە</trName></name>
+      <name><languageId>uk</languageId><trName>мокша</trName></name>
+      <name><languageId>ur</languageId><trName>موکشا</trName></name>
+      <name><languageId>uz</languageId><trName>moksha</trName></name>
+      <name><languageId>vi</languageId><trName>Tiếng Moksha</trName></name>
+      <name><languageId>yo</languageId><trName>Èdè Mokisa</trName></name>
+      <name><languageId>yue</languageId><trName>莫克沙文</trName></name>
+      <name><languageId>zh</languageId><trName>莫克沙语</trName></name>
+      <name><languageId>zh_Hant</languageId><trName>莫克沙文</trName></name>
+      <name><languageId>zu</languageId><trName>isi-Moksha</trName></name>
+    </names>
+    <scripts>
+      <script><scriptId>Cyrl</scriptId><rank>1000</rank></script>
+    </scripts>
+    <locales>
+      <locale><localeId>mdf_RU.UTF-8</localeId><rank>1000</rank></locale>
+    </locales>
+    <territories>
+      <territory><territoryId>RU</territoryId><rank>1000</rank></territory>
+    </territories>
+    <keyboards>
+      <keyboard><keyboardId>ru</keyboardId><rank>1000</rank></keyboard>
+    </keyboards>
+    <inputmethods>
+    </inputmethods>
+    <consolefonts>
+      <consolefont><consolefontId>latarcyrheb-sun16</consolefontId><rank>1000</rank></consolefont>
+    </consolefonts>
+    <timezones>
+      <timezone><timezoneId>Europe/Moscow</timezoneId><rank>300</rank></timezone>
+    </timezones>
+  </language>
+  <language>
     <languageId>mer</languageId>
     <iso639-1>None</iso639-1>
     <iso639-2-t>None</iso639-2-t>
@@ -37418,6 +37578,7 @@
       <name><languageId>lv</languageId><trName>poļu</trName></name>
       <name><languageId>mai</languageId><trName>पोलिश</trName></name>
       <name><languageId>mas</languageId><trName>nkʉtʉ́k ɔ́ɔ̄ lpoland</trName></name>
+      <name><languageId>mdf</languageId><trName>Поляконь кяль</trName></name>
       <name><languageId>mer</languageId><trName>Kĩpolandi</trName></name>
       <name><languageId>mfe</languageId><trName>polone</trName></name>
       <name><languageId>mg</languageId><trName>Poloney</trName></name>
@@ -37999,6 +38160,7 @@
       <name><languageId>lv</languageId><trName>portugāļu</trName></name>
       <name><languageId>mai</languageId><trName>पुर्तगाली</trName></name>
       <name><languageId>mas</languageId><trName>nkʉtʉ́k ɔ́ɔ̄ lportuguese</trName></name>
+      <name><languageId>mdf</languageId><trName>Португалонь кяль</trName></name>
       <name><languageId>mer</languageId><trName>Kĩpochogo</trName></name>
       <name><languageId>mfe</languageId><trName>portige</trName></name>
       <name><languageId>mg</languageId><trName>Portiogey</trName></name>
@@ -39448,6 +39610,7 @@
       <name><languageId>lv</languageId><trName>krievu</trName></name>
       <name><languageId>mai</languageId><trName>रूसी</trName></name>
       <name><languageId>mas</languageId><trName>nkʉtʉ́k ɔ́ɔ̄ lrusi</trName></name>
+      <name><languageId>mdf</languageId><trName>Рузонь кяль</trName></name>
       <name><languageId>mer</languageId><trName>Kĩrashia</trName></name>
       <name><languageId>mfe</languageId><trName>ris</trName></name>
       <name><languageId>mg</languageId><trName>Rosianina</trName></name>
@@ -48923,6 +49086,7 @@
       <name><languageId>lv</languageId><trName>turku</trName></name>
       <name><languageId>mai</languageId><trName>टर्किश</trName></name>
       <name><languageId>mas</languageId><trName>nkʉtʉ́k ɔ́ɔ̄ lturuki</trName></name>
+      <name><languageId>mdf</languageId><trName>Туркань кяль</trName></name>
       <name><languageId>mer</languageId><trName>Kĩtakĩ</trName></name>
       <name><languageId>mfe</languageId><trName>tirk</trName></name>
       <name><languageId>mg</languageId><trName>Tiorka</trName></name>
