@@ -761,8 +761,8 @@ def dummy():
         BD: ['bn_BD.UTF-8']
          +: ['bn_BD.UTF-8']
         bn: ['in(eng)']
-        BD: ['us']
-         +: ['us', 'in(eng)']
+        BD: ['in(eng)']
+         +: ['in(eng)']
 
     >>> _test_language_territory(show_weights=False, languageId="bn", territoryId="IN") # doctest: +NORMALIZE_WHITESPACE
         bn: ['bn_BD.UTF-8', 'bn_IN.UTF-8']
