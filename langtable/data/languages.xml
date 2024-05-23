@@ -1608,12 +1608,12 @@
     <iso639-2-t>None</iso639-2-t>
     <iso639-2-b>None</iso639-2-b>
     <names>
-      <name><languageId>ar</languageId><trName>الهجات شامية</trName></name>
       <name><languageId>apc</languageId><trName>العامية</trName></name>
+      <name><languageId>ar</languageId><trName>الهجات شامية</trName></name>
       <name><languageId>de</languageId><trName>Levantinisches Arabisch</trName></name>
       <name><languageId>en</languageId><trName>Levantine Arabic</trName></name>
-      <name><languageId>et</languageId><trName>Levandi araabia</trName></name>
       <name><languageId>es</languageId><trName>Árabe levantino</trName></name>
+      <name><languageId>et</languageId><trName>Levandi araabia</trName></name>
       <name><languageId>fr</languageId><trName>Arabe levantin</trName></name>
       <name><languageId>gd</languageId><trName>Arabais Levantach</trName></name>
       <name><languageId>hu</languageId><trName>levantei arab</trName></name>
@@ -1970,6 +1970,162 @@
       <timezone><timezoneId>Asia/Qatar</timezoneId><rank>10</rank></timezone>
       <timezone><timezoneId>Asia/Bahrain</timezoneId><rank>9</rank></timezone>
       <timezone><timezoneId>Asia/Kolkata</timezoneId><rank>1</rank></timezone>
+    </timezones>
+  </language>
+  <language>
+    <languageId>arn</languageId>
+    <iso639-1>None</iso639-1>
+    <iso639-2-t>arn</iso639-2-t>
+    <iso639-2-b>arn</iso639-2-b>
+    <names>
+      <name><languageId>ab</languageId><trName>амапуче</trName></name>
+      <name><languageId>af</languageId><trName>Mapuche</trName></name>
+      <name><languageId>am</languageId><trName>ማፑቼ</trName></name>
+      <name><languageId>ar</languageId><trName>المابودونغونية</trName></name>
+      <name><languageId>arn</languageId><trName>Mapudungun</trName></name>
+      <name><languageId>as</languageId><trName>মাপুচে</trName></name>
+      <name><languageId>ast</languageId><trName>mapuche</trName></name>
+      <name><languageId>az</languageId><trName>mapuçe</trName></name>
+      <name><languageId>be</languageId><trName>мапудунгун</trName></name>
+      <name><languageId>bg</languageId><trName>мапуче</trName></name>
+      <name><languageId>bn</languageId><trName>মাপুচে</trName></name>
+      <name><languageId>br</languageId><trName>araoukaneg</trName></name>
+      <name><languageId>brx</languageId><trName>मापुचे</trName></name>
+      <name><languageId>bs</languageId><trName>mapuški</trName></name>
+      <name><languageId>ca</languageId><trName>mapudungu</trName></name>
+      <name><languageId>ccp</languageId><trName>𑄟𑄛𑄪𑄌𑄨</trName></name>
+      <name><languageId>ce</languageId><trName>арауканхойн</trName></name>
+      <name><languageId>chr</languageId><trName>ᎹᏊᏤ</trName></name>
+      <name><languageId>ckb</languageId><trName>ماپووچە</trName></name>
+      <name><languageId>cs</languageId><trName>mapudungun</trName></name>
+      <name><languageId>cy</languageId><trName>Arawcaneg</trName></name>
+      <name><languageId>da</languageId><trName>mapudungun</trName></name>
+      <name><languageId>de</languageId><trName>Mapudungun</trName></name>
+      <name><languageId>dsb</languageId><trName>arawkašćina</trName></name>
+      <name><languageId>el</languageId><trName>Αραουκανικά</trName></name>
+      <name><languageId>en</languageId><trName>Mapuche</trName></name>
+      <name><languageId>eo</languageId><trName>mapuĉa</trName></name>
+      <name><languageId>es</languageId><trName>mapuche</trName></name>
+      <name><languageId>et</languageId><trName>mapudunguni</trName></name>
+      <name><languageId>eu</languageId><trName>mapudunguna</trName></name>
+      <name><languageId>fa</languageId><trName>ماپوچه‌ای</trName></name>
+      <name><languageId>fi</languageId><trName>mapudungun</trName></name>
+      <name><languageId>fil</languageId><trName>Mapuche</trName></name>
+      <name><languageId>fo</languageId><trName>mapuche</trName></name>
+      <name><languageId>fr</languageId><trName>mapuche</trName></name>
+      <name><languageId>fy</languageId><trName>Araukaansk</trName></name>
+      <name><languageId>ga</languageId><trName>Mapúitsis</trName></name>
+      <name><languageId>gd</languageId><trName>Mapudungun</trName></name>
+      <name><languageId>gl</languageId><trName>mapuche</trName></name>
+      <name><languageId>gsw</languageId><trName>Araukanisch</trName></name>
+      <name><languageId>gu</languageId><trName>મેપુચે</trName></name>
+      <name><languageId>ha</languageId><trName>Mapuche</trName></name>
+      <name><languageId>he</languageId><trName>אראוקנית</trName></name>
+      <name><languageId>hi</languageId><trName>मापूचे</trName></name>
+      <name><languageId>hr</languageId><trName>mapuche</trName></name>
+      <name><languageId>hsb</languageId><trName>arawkanšćina</trName></name>
+      <name><languageId>hu</languageId><trName>mapucse</trName></name>
+      <name><languageId>hy</languageId><trName>մապուչի</trName></name>
+      <name><languageId>ia</languageId><trName>mapuche</trName></name>
+      <name><languageId>id</languageId><trName>Mapuche</trName></name>
+      <name><languageId>ie</languageId><trName>mapuche</trName></name>
+      <name><languageId>ig</languageId><trName>Mapuche</trName></name>
+      <name><languageId>is</languageId><trName>mapuche</trName></name>
+      <name><languageId>it</languageId><trName>mapudungun</trName></name>
+      <name><languageId>ja</languageId><trName>マプチェ語</trName></name>
+      <name><languageId>jv</languageId><trName>Mapushe</trName></name>
+      <name><languageId>ka</languageId><trName>მაპუდუნგუნი</trName></name>
+      <name><languageId>kab</languageId><trName>Tamapuct</trName></name>
+      <name><languageId>kea</languageId><trName>araukanu</trName></name>
+      <name><languageId>kk</languageId><trName>мапуче тілі</trName></name>
+      <name><languageId>km</languageId><trName>ម៉ាពូឈី</trName></name>
+      <name><languageId>kn</languageId><trName>ಮಪುಚೆ</trName></name>
+      <name><languageId>ko</languageId><trName>마푸둥군어</trName></name>
+      <name><languageId>kok</languageId><trName>मापुचे</trName></name>
+      <name><languageId>ks</languageId><trName>ایرو کونِیَن</trName></name>
+      <name><languageId>ku</languageId><trName>mapuçî</trName></name>
+      <name><languageId>ky</languageId><trName>мапучече</trName></name>
+      <name><languageId>lb</languageId><trName>Mapudungun</trName></name>
+      <name><languageId>lij</languageId><trName>mapuche</trName></name>
+      <name><languageId>lo</languageId><trName>ມາພຸດຊີ</trName></name>
+      <name><languageId>lrc</languageId><trName>ماپوٙچئ</trName></name>
+      <name><languageId>lt</languageId><trName>mapudungunų</trName></name>
+      <name><languageId>lv</languageId><trName>araukāņu</trName></name>
+      <name><languageId>mai</languageId><trName>मापुचे</trName></name>
+      <name><languageId>mi</languageId><trName>Mapūte</trName></name>
+      <name><languageId>mk</languageId><trName>мапучки</trName></name>
+      <name><languageId>ml</languageId><trName>മാപുചി</trName></name>
+      <name><languageId>mn</languageId><trName>мапүчи</trName></name>
+      <name><languageId>mr</languageId><trName>मापुची</trName></name>
+      <name><languageId>ms</languageId><trName>Mapuche</trName></name>
+      <name><languageId>mt</languageId><trName>Mapuche</trName></name>
+      <name><languageId>my</languageId><trName>မာပုချီ</trName></name>
+      <name><languageId>mzn</languageId><trName>ماپوچه</trName></name>
+      <name><languageId>nds</languageId><trName>Araukaansch</trName></name>
+      <name><languageId>ne</languageId><trName>मापुचे</trName></name>
+      <name><languageId>nl</languageId><trName>Mapudungun</trName></name>
+      <name><languageId>no</languageId><trName>mapudungun</trName></name>
+      <name><languageId>oc</languageId><trName>mapoche</trName></name>
+      <name><languageId>or</languageId><trName>ମାପୁଚେ</trName></name>
+      <name><languageId>pa</languageId><trName>ਮਾਪੁਚੇ</trName></name>
+      <name><languageId>pl</languageId><trName>mapudungun</trName></name>
+      <name><languageId>ps</languageId><trName>ماپوچه</trName></name>
+      <name><languageId>pt</languageId><trName>mapudungun</trName></name>
+      <name><languageId>qu</languageId><trName>Mapuche Simi</trName></name>
+      <name><languageId>rm</languageId><trName>araucanic</trName></name>
+      <name><languageId>ro</languageId><trName>mapuche</trName></name>
+      <name><languageId>ru</languageId><trName>мапуче</trName></name>
+      <name><languageId>sat</languageId><trName>ᱢᱟᱯᱩᱪᱷᱮ</trName></name>
+      <name><languageId>sc</languageId><trName>mapudungun</trName></name>
+      <name><languageId>sd</languageId><trName>ماپوچي</trName></name>
+      <name><languageId>si</languageId><trName>මපුචෙ</trName></name>
+      <name><languageId>sk</languageId><trName>mapudungun</trName></name>
+      <name><languageId>sl</languageId><trName>mapudungunščina</trName></name>
+      <name><languageId>smn</languageId><trName>mapudungun</trName></name>
+      <name><languageId>so</languageId><trName>Mapuche</trName></name>
+      <name><languageId>sq</languageId><trName>mapuçisht</trName></name>
+      <name><languageId>sr</languageId><trName>мапуче</trName></name>
+      <name><languageId>sr_Latn</languageId><trName>mapuče</trName></name>
+      <name><languageId>sv</languageId><trName>mapudungun</trName></name>
+      <name><languageId>sw</languageId><trName>Kimapuche</trName></name>
+      <name><languageId>ta</languageId><trName>மபுச்சே</trName></name>
+      <name><languageId>te</languageId><trName>మపుచే</trName></name>
+      <name><languageId>th</languageId><trName>มาปูเช</trName></name>
+      <name><languageId>ti</languageId><trName>ማፑቺ</trName></name>
+      <name><languageId>tk</languageId><trName>mapuçe dili</trName></name>
+      <name><languageId>to</languageId><trName>lea fakamapuse</trName></name>
+      <name><languageId>tr</languageId><trName>Mapuçe dili</trName></name>
+      <name><languageId>tt</languageId><trName>мапуче</trName></name>
+      <name><languageId>ug</languageId><trName>ماپۇدۇنگۇنچە</trName></name>
+      <name><languageId>uk</languageId><trName>арауканська</trName></name>
+      <name><languageId>ur</languageId><trName>ماپوچے</trName></name>
+      <name><languageId>uz</languageId><trName>mapuche</trName></name>
+      <name><languageId>vi</languageId><trName>Tiếng Mapuche</trName></name>
+      <name><languageId>yo</languageId><trName>Èdè Mapushe</trName></name>
+      <name><languageId>yue</languageId><trName>馬普切文</trName></name>
+      <name><languageId>zh</languageId><trName>马普切语</trName></name>
+      <name><languageId>zh_Hant</languageId><trName>馬普切文</trName></name>
+      <name><languageId>zu</languageId><trName>isi-Mapuche</trName></name>
+    </names>
+    <scripts>
+      <script><scriptId>Latn</scriptId><rank>1000</rank></script>
+    </scripts>
+    <locales>
+    </locales>
+    <territories>
+      <territory><territoryId>CL</territoryId><rank>1000</rank></territory>
+      <territory><territoryId>AR</territoryId><rank>10</rank></territory>
+    </territories>
+    <keyboards>
+      <keyboard><keyboardId>latam</keyboardId><rank>1000</rank></keyboard>
+    </keyboards>
+    <inputmethods>
+    </inputmethods>
+    <consolefonts>
+      <consolefont><consolefontId>eurlatgr</consolefontId><rank>1000</rank></consolefont>
+    </consolefonts>
+    <timezones>
+      <timezone><timezoneId>America/Santiago</timezoneId><rank>1000</rank></timezone>
     </timezones>
   </language>
   <language>
