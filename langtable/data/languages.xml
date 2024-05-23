@@ -5448,6 +5448,46 @@
     </timezones>
   </language>
   <language>
+    <languageId>blt</languageId>
+    <iso639-1>None</iso639-1>
+    <iso639-2-t>None</iso639-2-t>
+    <iso639-2-b>None</iso639-2-b>
+    <names>
+      <name><languageId>bew</languageId><trName>Tay Item</trName></name>
+      <name><languageId>blt</languageId><trName>ꪼꪕꪒꪾ</trName></name>
+      <name><languageId>en</languageId><trName>Tai Dam</trName></name>
+      <name><languageId>et</languageId><trName>tai-dami</trName></name>
+      <name><languageId>fi</languageId><trName>tai dam</trName></name>
+      <name><languageId>ku</languageId><trName>tay dam</trName></name>
+      <name><languageId>zh</languageId><trName>黑傣语</trName></name>
+    </names>
+    <scripts>
+      <script><scriptId>Tavt</scriptId><rank>1000</rank></script>
+    </scripts>
+    <locales>
+    </locales>
+    <territories>
+      <territory><territoryId>VN</territoryId><rank>400</rank></territory>
+      <territory><territoryId>LA</territoryId><rank>300</rank></territory>
+      <territory><territoryId>TH</territoryId><rank>200</rank></territory>
+      <territory><territoryId>CN</territoryId><rank>100</rank></territory>
+    </territories>
+    <keyboards>
+      <keyboard><keyboardId>us(altgr-intl)</keyboardId><rank>1000</rank></keyboard>
+    </keyboards>
+    <inputmethods>
+    </inputmethods>
+    <consolefonts>
+      <consolefont><consolefontId>eurlatgr</consolefontId><rank>1000</rank></consolefont>
+    </consolefonts>
+    <timezones>
+      <timezone><timezoneId>Asia/Bangkok</timezoneId><rank>1000</rank></timezone>
+      <timezone><timezoneId>Asia/Ho_Chi_Minh</timezoneId><rank>1000</rank></timezone>
+      <timezone><timezoneId>Asia/Shanghai</timezoneId><rank>1000</rank></timezone>
+      <timezone><timezoneId>Asia/Vientiane</timezoneId><rank>1000</rank></timezone>
+    </timezones>
+  </language>
+  <language>
     <languageId>bm</languageId>
     <iso639-1>None</iso639-1>
     <iso639-2-t>bam</iso639-2-t>
