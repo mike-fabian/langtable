@@ -1,0 +1,42 @@
+#! /usr/bin/python3
+
+from typing import Set
+import os
+import sys
+import re
+import glob
+
+# pylint: disable=wrong-import-order
+sys.path.insert(0, "/local/mfabian/src/langtable")
+# pylint: disable=import-error
+import langtable # type: ignore
+# pylint: enable=import-error
+sys.path.pop(0)
+# pylint: enable=wrong-import-order
+
+CLDR_SOURCE_DIR = '/local/mfabian/src/cldr'
+ALL_LANGUAGES = langtable.list_all_languages()
+ALL_SCRIPTS = langtable.list_all_scripts()
+ALL_TERRITORIES = langtable.list_all_territories()
+MISSING_LANGUAGES: Set[str] = set()
+MISSING_SCRIPTS: Set[str] = set()
+MISSING_TERRITORIES: Set[str] = set()
+
+for cldr_file in sorted(glob.glob(
+        os.path.join(CLDR_SOURCE_DIR, 'common/main', '*.xml'))):
+    cldr_locale_id = cldr_file.split('/')[-1].split('.')[0]
+    locale = langtable.parse_locale(cldr_locale_id)
+    #print(f'id={cldr_locale_id} language={locale.language} script={locale.script} territory={locale.territory} variant={locale.variant}')
+    if locale.language and locale.language not in ALL_LANGUAGES:
+        MISSING_LANGUAGES.add(locale.language)
+    if locale.script and locale.script not in ALL_SCRIPTS:
+        MISSING_SCRIPTS.add(locale.script)
+    if locale.territory and locale.territory not in ALL_TERRITORIES:
+        MISSING_TERRITORIES.add(locale.territory)
+
+print(f'{langtable.info()}')
+print(f'Missing languages: {sorted(MISSING_LANGUAGES)}')
+print(f'Missing scripts: {sorted(MISSING_SCRIPTS)}')
+print(f'Missing territories: {sorted(MISSING_TERRITORIES)}')
+
+
