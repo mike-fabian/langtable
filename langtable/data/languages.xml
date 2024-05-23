@@ -1603,6 +1603,61 @@
     </timezones>
   </language>
   <language>
+    <languageId>apc</languageId>
+    <iso639-1>None</iso639-1>
+    <iso639-2-t>None</iso639-2-t>
+    <iso639-2-b>None</iso639-2-b>
+    <names>
+      <name><languageId>ar</languageId><trName>الهجات شامية</trName></name>
+      <name><languageId>apc</languageId><trName>العامية</trName></name>
+      <name><languageId>de</languageId><trName>Levantinisches Arabisch</trName></name>
+      <name><languageId>en</languageId><trName>Levantine Arabic</trName></name>
+      <name><languageId>et</languageId><trName>Levandi araabia</trName></name>
+      <name><languageId>es</languageId><trName>Árabe levantino</trName></name>
+      <name><languageId>fr</languageId><trName>Arabe levantin</trName></name>
+      <name><languageId>gd</languageId><trName>Arabais Levantach</trName></name>
+      <name><languageId>hu</languageId><trName>levantei arab</trName></name>
+      <name><languageId>it</languageId><trName>arabe levantine</trName></name>
+      <name><languageId>ku</languageId><trName>erebiya bakurê şamê</trName></name>
+      <name><languageId>nl</languageId><trName>Levantijns-Arabisch</trName></name>
+      <name><languageId>pa</languageId><trName>ਸ਼ਾਮੀ ਅਰਬੀ</trName></name>
+      <name><languageId>sat</languageId><trName>ᱮᱯᱠ</trName></name>
+      <name><languageId>sc</languageId><trName>àrabu levantinu</trName></name>
+      <name><languageId>ti</languageId><trName>ሌቫንቲናዊ ዓረብ</trName></name>
+      <name><languageId>to</languageId><trName>lea fakaʻalepea-levaniti</trName></name>
+      <name><languageId>tr</languageId><trName>Levant Arapçası</trName></name>
+    </names>
+    <scripts>
+      <script><scriptId>Arab</scriptId><rank>1000</rank></script>
+    </scripts>
+    <locales>
+    </locales>
+    <territories>
+      <territory><territoryId>LB</territoryId><rank>300</rank></territory>
+      <territory><territoryId>SY</territoryId><rank>250</rank></territory>
+      <territory><territoryId>JO</territoryId><rank>200</rank></territory>
+      <territory><territoryId>IL</territoryId><rank>100</rank></territory>
+      <territory><territoryId>TR</territoryId><rank>50</rank></territory>
+    </territories>
+    <keyboards>
+      <keyboard><keyboardId>ara</keyboardId><rank>900</rank></keyboard>
+      <keyboard><keyboardId>ara(azerty)</keyboardId><rank>100</rank></keyboard>
+    </keyboards>
+    <inputmethods>
+      <inputmethod><inputmethodId>ibus/m17n:ar:kbd</inputmethodId><rank>1000</rank></inputmethod>
+    </inputmethods>
+    <consolefonts>
+      <consolefont><consolefontId>latarcyrheb-sun16</consolefontId><rank>1000</rank></consolefont>
+    </consolefonts>
+    <timezones>
+      <timezone><timezoneId>Asia/Beirut</timezoneId><rank>300</rank></timezone>
+      <timezone><timezoneId>Asia/Damascus</timezoneId><rank>250</rank></timezone>
+      <timezone><timezoneId>Asia/Amman</timezoneId><rank>200</rank></timezone>
+      <timezone><timezoneId>Asia/Jerusalem</timezoneId><rank>100</rank></timezone>
+      <timezone><timezoneId>Europe/Istanbul</timezoneId><rank>50</rank></timezone>
+    </timezones>
+  </language>
+  <language>
     <languageId>ar</languageId>
     <iso639-1>ar</iso639-1>
     <iso639-2-t>ara</iso639-2-t>
