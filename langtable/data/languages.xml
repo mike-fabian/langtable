@@ -1316,6 +1316,139 @@
     </timezones>
   </language>
   <language>
+    <languageId>ann</languageId>
+    <iso639-1>None</iso639-1>
+    <iso639-2-t>None</iso639-2-t>
+    <iso639-2-b>None</iso639-2-b>
+    <names>
+      <name><languageId>af</languageId><trName>Obolo</trName></name>
+      <name><languageId>am</languageId><trName>ኦቦሎ</trName></name>
+      <name><languageId>ann</languageId><trName>Obolo</trName></name>
+      <name><languageId>ar</languageId><trName>أوبلو</trName></name>
+      <name><languageId>as</languageId><trName>অ’ব’ল’</trName></name>
+      <name><languageId>az</languageId><trName>obolo</trName></name>
+      <name><languageId>be</languageId><trName>абола</trName></name>
+      <name><languageId>bg</languageId><trName>оболо</trName></name>
+      <name><languageId>bn</languageId><trName>ওবোলো</trName></name>
+      <name><languageId>br</languageId><trName>obolo</trName></name>
+      <name><languageId>brx</languageId><trName>अबल’</trName></name>
+      <name><languageId>bs</languageId><trName>obolo</trName></name>
+      <name><languageId>ca</languageId><trName>obolo</trName></name>
+      <name><languageId>chr</languageId><trName>ᎣᏉᎶ</trName></name>
+      <name><languageId>cs</languageId><trName>obolo</trName></name>
+      <name><languageId>cy</languageId><trName>Obolo</trName></name>
+      <name><languageId>da</languageId><trName>obolo</trName></name>
+      <name><languageId>de</languageId><trName>Obolo</trName></name>
+      <name><languageId>dsb</languageId><trName>obološćina</trName></name>
+      <name><languageId>el</languageId><trName>Ομπόλο</trName></name>
+      <name><languageId>en</languageId><trName>Obolo</trName></name>
+      <name><languageId>es</languageId><trName>obolo</trName></name>
+      <name><languageId>et</languageId><trName>obolo</trName></name>
+      <name><languageId>eu</languageId><trName>oboloera</trName></name>
+      <name><languageId>fa</languageId><trName>اوبولو</trName></name>
+      <name><languageId>fi</languageId><trName>obolo</trName></name>
+      <name><languageId>fil</languageId><trName>Obolo</trName></name>
+      <name><languageId>fr</languageId><trName>obolo</trName></name>
+      <name><languageId>ga</languageId><trName>Obolo</trName></name>
+      <name><languageId>gd</languageId><trName>Obolo</trName></name>
+      <name><languageId>gl</languageId><trName>obolo</trName></name>
+      <name><languageId>gu</languageId><trName>ઓબોલો</trName></name>
+      <name><languageId>ha</languageId><trName>Obolo</trName></name>
+      <name><languageId>he</languageId><trName>אובולו</trName></name>
+      <name><languageId>hi</languageId><trName>ओबोलो</trName></name>
+      <name><languageId>hr</languageId><trName>obolo</trName></name>
+      <name><languageId>hsb</languageId><trName>obološćina</trName></name>
+      <name><languageId>hu</languageId><trName>obolo</trName></name>
+      <name><languageId>hy</languageId><trName>օբոլո</trName></name>
+      <name><languageId>ia</languageId><trName>obolo</trName></name>
+      <name><languageId>id</languageId><trName>Obolo</trName></name>
+      <name><languageId>ig</languageId><trName>Obolọ</trName></name>
+      <name><languageId>is</languageId><trName>obolo</trName></name>
+      <name><languageId>it</languageId><trName>obolo</trName></name>
+      <name><languageId>ja</languageId><trName>オボロ語</trName></name>
+      <name><languageId>jv</languageId><trName>Obolo</trName></name>
+      <name><languageId>ka</languageId><trName>ობოლო</trName></name>
+      <name><languageId>kk</languageId><trName>оболо тілі</trName></name>
+      <name><languageId>km</languageId><trName>អូបូឡូ</trName></name>
+      <name><languageId>kn</languageId><trName>ಒಬೊಲೊ</trName></name>
+      <name><languageId>ko</languageId><trName>오볼로어</trName></name>
+      <name><languageId>kok</languageId><trName>ओबोलो</trName></name>
+      <name><languageId>ku</languageId><trName>obolo</trName></name>
+      <name><languageId>ky</languageId><trName>оболочо (Нигерия)</trName></name>
+      <name><languageId>lij</languageId><trName>obolo</trName></name>
+      <name><languageId>lo</languageId><trName>ໂອໂບໂລ</trName></name>
+      <name><languageId>lt</languageId><trName>obolų</trName></name>
+      <name><languageId>lv</languageId><trName>obolo</trName></name>
+      <name><languageId>mai</languageId><trName>ओबोलो</trName></name>
+      <name><languageId>mi</languageId><trName>Ōporo</trName></name>
+      <name><languageId>mk</languageId><trName>оболо</trName></name>
+      <name><languageId>ml</languageId><trName>ഒബോളോ</trName></name>
+      <name><languageId>mn</languageId><trName>оболо</trName></name>
+      <name><languageId>mr</languageId><trName>ओबोलो</trName></name>
+      <name><languageId>ms</languageId><trName>Obolo</trName></name>
+      <name><languageId>mt</languageId><trName>Obolo</trName></name>
+      <name><languageId>my</languageId><trName>အိုဘိုလို</trName></name>
+      <name><languageId>ne</languageId><trName>ओबोलो</trName></name>
+      <name><languageId>nl</languageId><trName>Obolo</trName></name>
+      <name><languageId>no</languageId><trName>obolo</trName></name>
+      <name><languageId>or</languageId><trName>ଅବୋଲା</trName></name>
+      <name><languageId>pa</languageId><trName>ਓਬੋਲੋ</trName></name>
+      <name><languageId>pl</languageId><trName>obolo</trName></name>
+      <name><languageId>ps</languageId><trName>Obo</trName></name>
+      <name><languageId>pt</languageId><trName>obolo</trName></name>
+      <name><languageId>qu</languageId><trName>Obolo Simi</trName></name>
+      <name><languageId>ro</languageId><trName>obolo</trName></name>
+      <name><languageId>ru</languageId><trName>оболо</trName></name>
+      <name><languageId>sat</languageId><trName>ᱳᱵᱚᱞᱳ</trName></name>
+      <name><languageId>sc</languageId><trName>obolo</trName></name>
+      <name><languageId>sd</languageId><trName>اوبولو</trName></name>
+      <name><languageId>si</languageId><trName>ඔබලෝ</trName></name>
+      <name><languageId>sk</languageId><trName>obolo</trName></name>
+      <name><languageId>sl</languageId><trName>obolo</trName></name>
+      <name><languageId>so</languageId><trName>Obolo</trName></name>
+      <name><languageId>sq</languageId><trName>oboloisht</trName></name>
+      <name><languageId>sr</languageId><trName>оболо</trName></name>
+      <name><languageId>sr_Latn</languageId><trName>obolo</trName></name>
+      <name><languageId>sv</languageId><trName>obolo</trName></name>
+      <name><languageId>sw</languageId><trName>Kiobolo</trName></name>
+      <name><languageId>ta</languageId><trName>ஒபோலோ</trName></name>
+      <name><languageId>te</languageId><trName>ఒబోలో</trName></name>
+      <name><languageId>th</languageId><trName>โอโบโล</trName></name>
+      <name><languageId>ti</languageId><trName>ኦቦሎ</trName></name>
+      <name><languageId>tk</languageId><trName>obolo dili</trName></name>
+      <name><languageId>to</languageId><trName>lea fakaʻopolo</trName></name>
+      <name><languageId>tr</languageId><trName>Obolo dili</trName></name>
+      <name><languageId>uk</languageId><trName>оболо</trName></name>
+      <name><languageId>ur</languageId><trName>اوبولو</trName></name>
+      <name><languageId>uz</languageId><trName>obolo</trName></name>
+      <name><languageId>vi</languageId><trName>Tiếng Obolo</trName></name>
+      <name><languageId>yo</languageId><trName>Èdè Obolo</trName></name>
+      <name><languageId>yue</languageId><trName>奧博洛文</trName></name>
+      <name><languageId>zh</languageId><trName>奥博洛语</trName></name>
+      <name><languageId>zh_Hant</languageId><trName>奧博洛語</trName></name>
+      <name><languageId>zu</languageId><trName>isi-Obolo</trName></name>
+    </names>
+    <scripts>
+      <script><scriptId>Latn</scriptId><rank>1000</rank></script>
+    </scripts>
+    <locales>
+    </locales>
+    <territories>
+      <territory><territoryId>NG</territoryId><rank>1000</rank></territory>
+    </territories>
+    <keyboards>
+      <keyboard><keyboardId>ng</keyboardId><rank>1000</rank></keyboard>
+    </keyboards>
+    <inputmethods>
+    </inputmethods>
+    <consolefonts>
+      <consolefont><consolefontId>eurlatgr</consolefontId><rank>1000</rank></consolefont>
+    </consolefonts>
+    <timezones>
+      <timezone><timezoneId>Africa/Lagos</timezoneId><rank>1000</rank></timezone>
+    </timezones>
+  </language>
+  <language>
     <languageId>anp</languageId>
     <iso639-1>bh</iso639-1>
     <iso639-2-t>anp</iso639-2-t>
