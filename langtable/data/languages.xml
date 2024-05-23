@@ -1699,6 +1699,7 @@
       <name><languageId>bez</languageId><trName>Hiharabu</trName></name>
       <name><languageId>bg</languageId><trName>арабски</trName></name>
       <name><languageId>bgn</languageId><trName>عربی</trName></name>
+      <name><languageId>blo</languageId><trName>gɩlaaribuja</trName></name>
       <name><languageId>bm</languageId><trName>larabukan</trName></name>
       <name><languageId>bn</languageId><trName>আরবি</trName></name>
       <name><languageId>br</languageId><trName>arabeg</trName></name>
@@ -5410,6 +5411,43 @@
     </timezones>
   </language>
   <language>
+    <languageId>blo</languageId>
+    <iso639-1>None</iso639-1>
+    <iso639-2-t>None</iso639-2-t>
+    <iso639-2-b>None</iso639-2-b>
+    <names>
+      <name><languageId>bew</languageId><trName>Ani</trName></name>
+      <name><languageId>blo</languageId><trName>anii kagɩja</trName></name>
+      <name><languageId>en</languageId><trName>Anii</trName></name>
+      <name><languageId>et</languageId><trName>anii</trName></name>
+      <name><languageId>fi</languageId><trName>anii</trName></name>
+      <name><languageId>ku</languageId><trName>bloyî</trName></name>
+    </names>
+    <scripts>
+      <script><scriptId>Latn</scriptId><rank>1000</rank></script>
+    </scripts>
+    <locales>
+    </locales>
+    <territories>
+      <territory><territoryId>GH</territoryId><rank>500</rank></territory>
+      <territory><territoryId>TG</territoryId><rank>300</rank></territory>
+      <territory><territoryId>BJ</territoryId><rank>200</rank></territory>
+    </territories>
+    <keyboards>
+      <keyboard><keyboardId>us(altgr-intl)</keyboardId><rank>1000</rank></keyboard>
+    </keyboards>
+    <inputmethods>
+    </inputmethods>
+    <consolefonts>
+      <consolefont><consolefontId>eurlatgr</consolefontId><rank>1000</rank></consolefont>
+    </consolefonts>
+    <timezones>
+      <timezone><timezoneId>Africa/Accra</timezoneId><rank>500</rank></timezone>
+      <timezone><timezoneId>Africa/Lome</timezoneId><rank>300</rank></timezone>
+      <timezone><timezoneId>Africa/Porto-Novo</timezoneId><rank>200</rank></timezone>
+    </timezones>
+  </language>
+  <language>
     <languageId>bm</languageId>
     <iso639-1>None</iso639-1>
     <iso639-2-t>bam</iso639-2-t>
@@ -5596,6 +5634,7 @@
       <name><languageId>bez</languageId><trName>Hibangla</trName></name>
       <name><languageId>bg</languageId><trName>бенгалски</trName></name>
       <name><languageId>bgn</languageId><trName>بنگالی</trName></name>
+      <name><languageId>blo</languageId><trName>baŋglaa kagɩja</trName></name>
       <name><languageId>bm</languageId><trName>bɛngalikan</trName></name>
       <name><languageId>bn</languageId><trName>বাংলা</trName></name>
       <name><languageId>bo</languageId><trName>བྷང་ག་ལའི་སྐད།</trName></name>
@@ -9831,6 +9870,7 @@
       <name><languageId>bez</languageId><trName>Hijerumani</trName></name>
       <name><languageId>bg</languageId><trName>немски</trName></name>
       <name><languageId>bgn</languageId><trName>جرمنی</trName></name>
+      <name><languageId>blo</languageId><trName>gɩjaamaja</trName></name>
       <name><languageId>bm</languageId><trName>alimaɲikan</trName></name>
       <name><languageId>bn</languageId><trName>জার্মান</trName></name>
       <name><languageId>bo</languageId><trName>འཇར་མན་གྱི།</trName></name>
@@ -11827,6 +11867,7 @@
       <name><languageId>bgc</languageId><trName>अंग्रेजी</trName></name>
       <name><languageId>bgn</languageId><trName>انگریزی</trName></name>
       <name><languageId>bho</languageId><trName>अंगरेजी</trName></name>
+      <name><languageId>blo</languageId><trName>gɛɛshɩ</trName></name>
       <name><languageId>bm</languageId><trName>angilɛkan</trName></name>
       <name><languageId>bn</languageId><trName>ইংরেজি</trName></name>
       <name><languageId>bo</languageId><trName>དབྱིན་ཇིའི་སྐད།</trName></name>
@@ -12384,6 +12425,7 @@
       <name><languageId>bez</languageId><trName>Hihispania</trName></name>
       <name><languageId>bg</languageId><trName>испански</trName></name>
       <name><languageId>bgn</languageId><trName>هسپانوی</trName></name>
+      <name><languageId>blo</languageId><trName>gɩspaŋja</trName></name>
       <name><languageId>bm</languageId><trName>esipaɲolkan</trName></name>
       <name><languageId>bn</languageId><trName>স্প্যানিশ</trName></name>
       <name><languageId>bo</languageId><trName>ཞི་པན་ཡའི།</trName></name>
@@ -14544,6 +14586,7 @@
       <name><languageId>bez</languageId><trName>Hifaransa</trName></name>
       <name><languageId>bg</languageId><trName>френски</trName></name>
       <name><languageId>bgn</languageId><trName>فرانسوی</trName></name>
+      <name><languageId>blo</languageId><trName>gɩfɔnɔ</trName></name>
       <name><languageId>bm</languageId><trName>tubabukan</trName></name>
       <name><languageId>bn</languageId><trName>ফরাসি</trName></name>
       <name><languageId>bo</languageId><trName>ཧྥ་རན་སིའི་།</trName></name>
@@ -19588,6 +19631,7 @@
       <name><languageId>bez</languageId><trName>Hiindonesia</trName></name>
       <name><languageId>bg</languageId><trName>индонезийски</trName></name>
       <name><languageId>bgn</languageId><trName>ایندونیزیایی</trName></name>
+      <name><languageId>blo</languageId><trName>Ɛnɖonosii kagɩja</trName></name>
       <name><languageId>bm</languageId><trName>Ɛndonezikan</trName></name>
       <name><languageId>bn</languageId><trName>ইন্দোনেশীয়</trName></name>
       <name><languageId>bo</languageId><trName>ཨིན་དོ་ནི་སི་སྐད།</trName></name>
@@ -20965,6 +21009,7 @@
       <name><languageId>bez</languageId><trName>Hiitaliano</trName></name>
       <name><languageId>bg</languageId><trName>италиански</trName></name>
       <name><languageId>bgn</languageId><trName>ایتالیایی</trName></name>
+      <name><languageId>blo</languageId><trName>gɩtaliija</trName></name>
       <name><languageId>bm</languageId><trName>italikan</trName></name>
       <name><languageId>bn</languageId><trName>ইতালিয়</trName></name>
       <name><languageId>bo</languageId><trName>དབྱི་ཏ་་ལའི་མི།</trName></name>
@@ -21445,6 +21490,7 @@
       <name><languageId>bez</languageId><trName>Hijapani</trName></name>
       <name><languageId>bg</languageId><trName>японски</trName></name>
       <name><languageId>bgn</languageId><trName>جاپانی</trName></name>
+      <name><languageId>blo</languageId><trName>gɩjapaŋja</trName></name>
       <name><languageId>bm</languageId><trName>zapɔnekan</trName></name>
       <name><languageId>bn</languageId><trName>জাপানি</trName></name>
       <name><languageId>bo</languageId><trName>ཉི་ཧོང་སྐད་</trName></name>
@@ -24900,6 +24946,7 @@
       <name><languageId>bez</languageId><trName>Hikorea</trName></name>
       <name><languageId>bg</languageId><trName>корейски</trName></name>
       <name><languageId>bgn</languageId><trName>کوریایی</trName></name>
+      <name><languageId>blo</languageId><trName>Koree kagɩja</trName></name>
       <name><languageId>bm</languageId><trName>korekan</trName></name>
       <name><languageId>bn</languageId><trName>কোরিয়ান</trName></name>
       <name><languageId>bo</languageId><trName>ཁོ་རེ་ཡའི་སྐད།</trName></name>
@@ -35413,6 +35460,7 @@
       <name><languageId>bez</languageId><trName>Hiholanzi</trName></name>
       <name><languageId>bg</languageId><trName>нидерландски</trName></name>
       <name><languageId>bgn</languageId><trName>هالنڈی</trName></name>
+      <name><languageId>blo</languageId><trName>Holanɖ kagɩja</trName></name>
       <name><languageId>bm</languageId><trName>olandekan</trName></name>
       <name><languageId>bn</languageId><trName>ওলন্দাজ</trName></name>
       <name><languageId>bo</languageId><trName>ཧའོ་ལན་སྐད།</trName></name>
@@ -38742,6 +38790,7 @@
       <name><languageId>bez</languageId><trName>Hipolandi</trName></name>
       <name><languageId>bg</languageId><trName>полски</trName></name>
       <name><languageId>bgn</languageId><trName>پولنڈی</trName></name>
+      <name><languageId>blo</languageId><trName>Polanɖ kagɩja</trName></name>
       <name><languageId>bm</languageId><trName>polonekan</trName></name>
       <name><languageId>bn</languageId><trName>পোলিশ</trName></name>
       <name><languageId>bo</languageId><trName>པོ་ལན་སྐད།</trName></name>
@@ -39327,6 +39376,7 @@
       <name><languageId>bez</languageId><trName>Hileno</trName></name>
       <name><languageId>bg</languageId><trName>португалски</trName></name>
       <name><languageId>bgn</languageId><trName>پورتگالی</trName></name>
+      <name><languageId>blo</languageId><trName>gɩpɔrtigalja</trName></name>
       <name><languageId>bm</languageId><trName>pɔritigalikan</trName></name>
       <name><languageId>bn</languageId><trName>পর্তুগীজ</trName></name>
       <name><languageId>bo</languageId><trName>ཕི་ཐོ་ཡའི།</trName></name>
@@ -40932,6 +40982,7 @@
       <name><languageId>bez</languageId><trName>Hilusi</trName></name>
       <name><languageId>bg</languageId><trName>руски</trName></name>
       <name><languageId>bgn</languageId><trName>اوروسی</trName></name>
+      <name><languageId>blo</languageId><trName>gɩrɔɔshɩyaja</trName></name>
       <name><languageId>bm</languageId><trName>irisikan</trName></name>
       <name><languageId>bn</languageId><trName>রুশ</trName></name>
       <name><languageId>bo</languageId><trName>ཨུ་རུ་སུ་སྐད་</trName></name>
@@ -49129,6 +49180,7 @@
       <name><languageId>bez</languageId><trName>Hitailand</trName></name>
       <name><languageId>bg</languageId><trName>тайски</trName></name>
       <name><languageId>bgn</languageId><trName>تایلندی</trName></name>
+      <name><languageId>blo</languageId><trName>taɩ kagɩja</trName></name>
       <name><languageId>bm</languageId><trName>tayikan</trName></name>
       <name><languageId>bn</languageId><trName>থাই</trName></name>
       <name><languageId>bo</languageId><trName>ཐའའི་ཡུལ་སྐད།</trName></name>
@@ -50679,6 +50731,7 @@
       <name><languageId>bez</languageId><trName>Hituluki</trName></name>
       <name><languageId>bg</languageId><trName>турски</trName></name>
       <name><languageId>bgn</languageId><trName>تورکی</trName></name>
+      <name><languageId>blo</languageId><trName>gɩturkiija</trName></name>
       <name><languageId>bm</languageId><trName>turikikan</trName></name>
       <name><languageId>bn</languageId><trName>তুর্কী</trName></name>
       <name><languageId>bo</languageId><trName>ཐུར་ཁེའི་སྐད།</trName></name>
@@ -56643,6 +56696,7 @@
       <name><languageId>bez</languageId><trName>Hichina</trName></name>
       <name><languageId>bg</languageId><trName>китайски</trName></name>
       <name><languageId>bgn</languageId><trName>چینایی</trName></name>
+      <name><languageId>blo</languageId><trName>gɩcaɩnaja manɖarɛŋ</trName></name>
       <name><languageId>bm</languageId><trName>siniwakan</trName></name>
       <name><languageId>bn</languageId><trName>চীনা</trName></name>
       <name><languageId>bo</languageId><trName>རྒྱ་སྐད་</trName></name>
@@ -56922,6 +56976,7 @@
       <name><languageId>bew</languageId><trName>Mandarin (Ringkes)</trName></name>
       <name><languageId>bg</languageId><trName>китайски, мандарин (опростен)</trName></name>
       <name><languageId>bgn</languageId><trName>ساده‌گین چینایی</trName></name>
+      <name><languageId>blo</languageId><trName>gɩcaɩnaja manɖarɛŋ gɩburoka</trName></name>
       <name><languageId>bn</languageId><trName>চীনা ম্যান্ডারিন সরলীকৃত</trName></name>
       <name><languageId>bo</languageId><trName>སྟབས་བརྡའི། ཀྲུང་གོའི།</trName></name>
       <name><languageId>br</languageId><trName>sinaeg mandarinek eeunaet</trName></name>
@@ -57182,6 +57237,7 @@
       <name><languageId>bew</languageId><trName>Mandarin (Terdisionil)</trName></name>
       <name><languageId>bg</languageId><trName>китайски, мандарин (традиционен)</trName></name>
       <name><languageId>bgn</languageId><trName>غدیمین چینایی</trName></name>
+      <name><languageId>blo</languageId><trName>gɩcaɩnaja manɖarɛŋ tututu</trName></name>
       <name><languageId>bn</languageId><trName>ম্যান্ডারিন চীনা (ঐতিহ্যবাহী)</trName></name>
       <name><languageId>bo</languageId><trName>སྲོལ་རྒྱུན་གྱི།</trName></name>
       <name><languageId>br</languageId><trName>sinaeg mandarinek hengounel</trName></name>
