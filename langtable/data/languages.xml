@@ -6610,6 +6610,92 @@
     </timezones>
   </language>
   <language>
+    <languageId>bss</languageId>
+    <iso639-1>None</iso639-1>
+    <iso639-2-t>None</iso639-2-t>
+    <iso639-2-b>None</iso639-2-b>
+    <names>
+      <name><languageId>am</languageId><trName>አኮስ</trName></name>
+      <name><languageId>ar</languageId><trName>أكوس</trName></name>
+      <name><languageId>ast</languageId><trName>akoose</trName></name>
+      <name><languageId>bew</languageId><trName>Akosé</trName></name>
+      <name><languageId>br</languageId><trName>akoose</trName></name>
+      <name><languageId>bs</languageId><trName>akoski</trName></name>
+      <name><languageId>bss</languageId><trName>Akoose</trName></name>
+      <name><languageId>ca</languageId><trName>akoose</trName></name>
+      <name><languageId>cs</languageId><trName>akoose</trName></name>
+      <name><languageId>cy</languageId><trName>Acwseg</trName></name>
+      <name><languageId>da</languageId><trName>bakossi</trName></name>
+      <name><languageId>de</languageId><trName>Akoose</trName></name>
+      <name><languageId>ee</languageId><trName>akoosiagbe</trName></name>
+      <name><languageId>el</languageId><trName>Ακόσι</trName></name>
+      <name><languageId>en</languageId><trName>Akoose</trName></name>
+      <name><languageId>es</languageId><trName>akoose</trName></name>
+      <name><languageId>et</languageId><trName>akoose</trName></name>
+      <name><languageId>fi</languageId><trName>koose</trName></name>
+      <name><languageId>fo</languageId><trName>bakossi</trName></name>
+      <name><languageId>fr</languageId><trName>akoose</trName></name>
+      <name><languageId>fy</languageId><trName>Akoose</trName></name>
+      <name><languageId>gd</languageId><trName>Akoose</trName></name>
+      <name><languageId>he</languageId><trName>אקוסה</trName></name>
+      <name><languageId>hr</languageId><trName>akoose</trName></name>
+      <name><languageId>hu</languageId><trName>koszi</trName></name>
+      <name><languageId>hy</languageId><trName>աքուզ</trName></name>
+      <name><languageId>id</languageId><trName>Akoose</trName></name>
+      <name><languageId>is</languageId><trName>bakossi</trName></name>
+      <name><languageId>it</languageId><trName>akoose</trName></name>
+      <name><languageId>ja</languageId><trName>アコース語</trName></name>
+      <name><languageId>ko</languageId><trName>아쿠즈어</trName></name>
+      <name><languageId>ku</languageId><trName>akooseyî</trName></name>
+      <name><languageId>lb</languageId><trName>Akoose</trName></name>
+      <name><languageId>lo</languageId><trName>ອາຄຸດ</trName></name>
+      <name><languageId>lt</languageId><trName>akūsų</trName></name>
+      <name><languageId>lv</languageId><trName>nkosi</trName></name>
+      <name><languageId>mk</languageId><trName>акосе</trName></name>
+      <name><languageId>ml</languageId><trName>അക്കൂസ്</trName></name>
+      <name><languageId>ms</languageId><trName>Akoose</trName></name>
+      <name><languageId>ne</languageId><trName>अकुज</trName></name>
+      <name><languageId>nl</languageId><trName>Akoose</trName></name>
+      <name><languageId>nn</languageId><trName>bakossi</trName></name>
+      <name><languageId>nnh</languageId><trName>Shwóŋò pakɔsi</trName></name>
+      <name><languageId>no</languageId><trName>akose</trName></name>
+      <name><languageId>pl</languageId><trName>akoose</trName></name>
+      <name><languageId>pt</languageId><trName>akoose</trName></name>
+      <name><languageId>ro</languageId><trName>akoose</trName></name>
+      <name><languageId>ru</languageId><trName>акоосе</trName></name>
+      <name><languageId>sk</languageId><trName>akoose</trName></name>
+      <name><languageId>sv</languageId><trName>bakossi</trName></name>
+      <name><languageId>th</languageId><trName>อาโคซี</trName></name>
+      <name><languageId>to</languageId><trName>lea fakaʻakōse</trName></name>
+      <name><languageId>tr</languageId><trName>Akoose</trName></name>
+      <name><languageId>ug</languageId><trName>ئاكۇسچە</trName></name>
+      <name><languageId>uk</languageId><trName>акус</trName></name>
+      <name><languageId>vi</languageId><trName>Tiếng Akoose</trName></name>
+      <name><languageId>yue</languageId><trName>阿庫色文</trName></name>
+      <name><languageId>zh</languageId><trName>阿库色语</trName></name>
+      <name><languageId>zh_Hant</languageId><trName>阿庫色文</trName></name>
+    </names>
+    <scripts>
+      <script><scriptId>Latn</scriptId><rank>1000</rank></script>
+    </scripts>
+    <locales>
+    </locales>
+    <territories>
+      <territory><territoryId>CM</territoryId><rank>400</rank></territory>
+    </territories>
+    <keyboards>
+      <keyboard><keyboardId>us(altgr-intl)</keyboardId><rank>1000</rank></keyboard>
+    </keyboards>
+    <inputmethods>
+    </inputmethods>
+    <consolefonts>
+      <consolefont><consolefontId>eurlatgr</consolefontId><rank>1000</rank></consolefont>
+    </consolefonts>
+    <timezones>
+      <timezone><timezoneId>Africa/Douala</timezoneId><rank>1000</rank></timezone>
+    </timezones>
+  </language>
+  <language>
     <languageId>bua</languageId>
     <iso639-1>None</iso639-1>
     <iso639-2-t>bua</iso639-2-t>
@@ -11914,6 +12000,7 @@
       <name><languageId>br</languageId><trName>saozneg</trName></name>
       <name><languageId>brx</languageId><trName>इंराजी</trName></name>
       <name><languageId>bs</languageId><trName>engleski</trName></name>
+      <name><languageId>bss</languageId><trName>Akáálé</trName></name>
       <name><languageId>byn</languageId><trName>እንግሊዝኛ</trName></name>
       <name><languageId>ca</languageId><trName>anglès</trName></name>
       <name><languageId>ca_ES_VALENCIA</languageId><trName>anglés</trName></name>
@@ -14633,6 +14720,7 @@
       <name><languageId>br</languageId><trName>galleg</trName></name>
       <name><languageId>brx</languageId><trName>फ्रेन्च</trName></name>
       <name><languageId>bs</languageId><trName>francuski</trName></name>
+      <name><languageId>bss</languageId><trName>Frɛnsé</trName></name>
       <name><languageId>byn</languageId><trName>ፈረንሳይኛ</trName></name>
       <name><languageId>ca</languageId><trName>francès</trName></name>
       <name><languageId>ca_ES_VALENCIA</languageId><trName>francés</trName></name>
