@@ -11756,6 +11756,8 @@
     </names>
     <scripts>
       <script><scriptId>Latn</scriptId><rank>1000</rank></script>
+      <script><scriptId>Shaw</scriptId><rank>2</rank></script>
+      <script><scriptId>Dsrt</scriptId><rank>1</rank></script>
     </scripts>
     <locales>
       <locale><localeId>en_US.UTF-8</localeId><rank>900</rank></locale>
