@@ -39531,6 +39531,143 @@
     </timezones>
   </language>
   <language>
+    <languageId>rhg</languageId>
+    <iso639-1>None</iso639-1>
+    <iso639-2-t>None</iso639-2-t>
+    <iso639-2-b>None</iso639-2-b>
+    <names>
+      <name><languageId>ab</languageId><trName>арохинџа</trName></name>
+      <name><languageId>af</languageId><trName>Rohingya</trName></name>
+      <name><languageId>am</languageId><trName>ሮሂንግያ</trName></name>
+      <name><languageId>ar</languageId><trName>الروهينغية</trName></name>
+      <name><languageId>as</languageId><trName>ৰোহিঙ্গিয়া</trName></name>
+      <name><languageId>az</languageId><trName>Rohinca</trName></name>
+      <name><languageId>be</languageId><trName>рахінджа</trName></name>
+      <name><languageId>bew</languageId><trName>Rohingya</trName></name>
+      <name><languageId>bg</languageId><trName>рохинга</trName></name>
+      <name><languageId>bn</languageId><trName>রোহিঙ্গা</trName></name>
+      <name><languageId>br</languageId><trName>rohingya</trName></name>
+      <name><languageId>brx</languageId><trName>रहिंगीया</trName></name>
+      <name><languageId>bs</languageId><trName>rohindža</trName></name>
+      <name><languageId>ca</languageId><trName>rohingya</trName></name>
+      <name><languageId>chr</languageId><trName>ᎶᎯᏂᏯ</trName></name>
+      <name><languageId>cs</languageId><trName>rohingština</trName></name>
+      <name><languageId>cy</languageId><trName>Rohingya</trName></name>
+      <name><languageId>da</languageId><trName>rohingya</trName></name>
+      <name><languageId>de</languageId><trName>Rohingyalisch</trName></name>
+      <name><languageId>dsb</languageId><trName>rohingyašćina</trName></name>
+      <name><languageId>el</languageId><trName>Ροχίνγκια</trName></name>
+      <name><languageId>en</languageId><trName>Rohingya</trName></name>
+      <name><languageId>eo</languageId><trName>rohinĝa</trName></name>
+      <name><languageId>es</languageId><trName>rohinyá</trName></name>
+      <name><languageId>et</languageId><trName>rohingja</trName></name>
+      <name><languageId>eu</languageId><trName>rohingyera</trName></name>
+      <name><languageId>fa</languageId><trName>روهینگیا</trName></name>
+      <name><languageId>fi</languageId><trName>rohinga</trName></name>
+      <name><languageId>fil</languageId><trName>Rohingya</trName></name>
+      <name><languageId>fr</languageId><trName>rohingya</trName></name>
+      <name><languageId>ga</languageId><trName>Róihinis</trName></name>
+      <name><languageId>gd</languageId><trName>Rohingya</trName></name>
+      <name><languageId>gl</languageId><trName>rohingya</trName></name>
+      <name><languageId>gu</languageId><trName>રોહિંગ્યા</trName></name>
+      <name><languageId>ha</languageId><trName>Harshen Rohingya</trName></name>
+      <name><languageId>he</languageId><trName>רוהינגיה</trName></name>
+      <name><languageId>hi</languageId><trName>रोहिंग्या</trName></name>
+      <name><languageId>hr</languageId><trName>rohindža</trName></name>
+      <name><languageId>hsb</languageId><trName>rohingyašćina</trName></name>
+      <name><languageId>hu</languageId><trName>rohingja</trName></name>
+      <name><languageId>hy</languageId><trName>ռոհինջա</trName></name>
+      <name><languageId>ia</languageId><trName>rohingya</trName></name>
+      <name><languageId>id</languageId><trName>Rohingya</trName></name>
+      <name><languageId>ig</languageId><trName>Rohinga</trName></name>
+      <name><languageId>is</languageId><trName>rohingja</trName></name>
+      <name><languageId>it</languageId><trName>rohingya</trName></name>
+      <name><languageId>ja</languageId><trName>ロヒンギャ語</trName></name>
+      <name><languageId>jv</languageId><trName>Rohingya</trName></name>
+      <name><languageId>ka</languageId><trName>როჰინგა</trName></name>
+      <name><languageId>kk</languageId><trName>рохинджа</trName></name>
+      <name><languageId>km</languageId><trName>រ៉ូហ៊ីងយ៉ា</trName></name>
+      <name><languageId>kn</languageId><trName>ರೋಹಿಂಗ್ಯಾ</trName></name>
+      <name><languageId>ko</languageId><trName>로힝야어</trName></name>
+      <name><languageId>kok</languageId><trName>रोहिंग्या</trName></name>
+      <name><languageId>ku</languageId><trName>rohingyayî</trName></name>
+      <name><languageId>ky</languageId><trName>рохинжача</trName></name>
+      <name><languageId>lij</languageId><trName>rohingya</trName></name>
+      <name><languageId>lo</languageId><trName>ໂຣຮິນຢາ</trName></name>
+      <name><languageId>lt</languageId><trName>rochindža</trName></name>
+      <name><languageId>lv</languageId><trName>rohindžu</trName></name>
+      <name><languageId>mai</languageId><trName>रोहिंग्या</trName></name>
+      <name><languageId>mi</languageId><trName>Rohingia</trName></name>
+      <name><languageId>mk</languageId><trName>рохиншки</trName></name>
+      <name><languageId>ml</languageId><trName>റോഹിംഗാ</trName></name>
+      <name><languageId>mn</languageId><trName>рохинжа</trName></name>
+      <name><languageId>mr</languageId><trName>रोहिंग्या</trName></name>
+      <name><languageId>ms</languageId><trName>Rohingya</trName></name>
+      <name><languageId>my</languageId><trName>ရိုဟင်ဂျာ</trName></name>
+      <name><languageId>ne</languageId><trName>रोहिङ्ग्या</trName></name>
+      <name><languageId>nl</languageId><trName>Rohingya</trName></name>
+      <name><languageId>no</languageId><trName>rohingya</trName></name>
+      <name><languageId>nqo</languageId><trName>ߙߏߤߌ߲ߜ߭ߊ</trName></name>
+      <name><languageId>or</languageId><trName>ରୋହିଙ୍ଗ୍ୟା</trName></name>
+      <name><languageId>pa</languageId><trName>ਰੋਹਿੰਗਿਆ</trName></name>
+      <name><languageId>pl</languageId><trName>rohingya</trName></name>
+      <name><languageId>ps</languageId><trName>روهینګیا</trName></name>
+      <name><languageId>pt</languageId><trName>ruainga</trName></name>
+      <name><languageId>qu</languageId><trName>Rohingya Simi</trName></name>
+      <name><languageId>rhg</languageId><trName>𐴌𐴗𐴥𐴝𐴙𐴚𐴒𐴙𐴝</trName></name>
+      <name><languageId>ro</languageId><trName>rohingya</trName></name>
+      <name><languageId>ru</languageId><trName>рохинджа</trName></name>
+      <name><languageId>sat</languageId><trName>ᱨᱚᱦᱤᱱᱭᱟ</trName></name>
+      <name><languageId>sc</languageId><trName>rohingya</trName></name>
+      <name><languageId>sd</languageId><trName>روھنگيا</trName></name>
+      <name><languageId>si</languageId><trName>රෝහින්ග්‍යා</trName></name>
+      <name><languageId>sk</languageId><trName>rohingčina</trName></name>
+      <name><languageId>sl</languageId><trName>rohinščina</trName></name>
+      <name><languageId>so</languageId><trName>Rohingya</trName></name>
+      <name><languageId>sq</languageId><trName>rohingiaisht</trName></name>
+      <name><languageId>sr</languageId><trName>рохингја</trName></name>
+      <name><languageId>sr_Latn</languageId><trName>rohingja</trName></name>
+      <name><languageId>sv</languageId><trName>ruáingga</trName></name>
+      <name><languageId>sw</languageId><trName>Kirohingya</trName></name>
+      <name><languageId>ta</languageId><trName>ரோகிஞ்சா</trName></name>
+      <name><languageId>te</languageId><trName>రోహింగ్యా</trName></name>
+      <name><languageId>th</languageId><trName>โรฮิงญา</trName></name>
+      <name><languageId>ti</languageId><trName>ሮሂንግያ</trName></name>
+      <name><languageId>tk</languageId><trName>rohinýa dili</trName></name>
+      <name><languageId>to</languageId><trName>lea fakalouhingia</trName></name>
+      <name><languageId>tr</languageId><trName>Rohingya dili</trName></name>
+      <name><languageId>uk</languageId><trName>рогінджа</trName></name>
+      <name><languageId>ur</languageId><trName>روہنگیا</trName></name>
+      <name><languageId>uz</languageId><trName>rohinja</trName></name>
+      <name><languageId>vi</languageId><trName>Tiếng Rohingya</trName></name>
+      <name><languageId>yo</languageId><trName>Èdè Rohinga</trName></name>
+      <name><languageId>yue</languageId><trName>羅興亞文</trName></name>
+      <name><languageId>zh</languageId><trName>罗兴亚语</trName></name>
+      <name><languageId>zh_Hant</languageId><trName>羅興亞文</trName></name>
+      <name><languageId>zu</languageId><trName>Rohingya</trName></name>
+    </names>
+    <scripts>
+      <script><scriptId>Rohg</scriptId><rank>900</rank></script>
+      <script><scriptId>Arab</scriptId><rank>100</rank></script>
+    </scripts>
+    <locales>
+    </locales>
+    <territories>
+      <territory><territoryId>MM</territoryId><rank>1000</rank></territory>
+    </territories>
+    <keyboards>
+      <keyboard><keyboardId>us</keyboardId><rank>1000</rank></keyboard>
+    </keyboards>
+    <inputmethods>
+    </inputmethods>
+    <consolefonts>
+      <consolefont><consolefontId>eurlatgr</consolefontId><rank>1000</rank></consolefont>
+    </consolefonts>
+    <timezones>
+      <timezone><timezoneId>Asia/Rangoon</timezoneId><rank>1000</rank></timezone>
+    </timezones>
+  </language>
+  <language>
     <languageId>rif</languageId>
     <iso639-1>None</iso639-1>
     <iso639-2-t>None</iso639-2-t>
