@@ -1742,6 +1742,7 @@
       <name><languageId>haw</languageId><trName>ʻAlapia</trName></name>
       <name><languageId>he</languageId><trName>ערבית</trName></name>
       <name><languageId>hi</languageId><trName>अरबी</trName></name>
+      <name><languageId>hnj</languageId><trName>𞄤𞄣</trName></name>
       <name><languageId>hr</languageId><trName>arapski</trName></name>
       <name><languageId>hsb</languageId><trName>arabšćina</trName></name>
       <name><languageId>hu</languageId><trName>arab</trName></name>
@@ -5376,6 +5377,7 @@
       <name><languageId>ha</languageId><trName>Bengali</trName></name>
       <name><languageId>he</languageId><trName>בנגלית</trName></name>
       <name><languageId>hi</languageId><trName>बंगाली</trName></name>
+      <name><languageId>hnj</languageId><trName>𞄜𞄤</trName></name>
       <name><languageId>hr</languageId><trName>bangla</trName></name>
       <name><languageId>hsb</languageId><trName>bengalšćina</trName></name>
       <name><languageId>hu</languageId><trName>bangla</trName></name>
@@ -11580,6 +11582,7 @@
       <name><languageId>haw</languageId><trName>Pelekānia</trName></name>
       <name><languageId>he</languageId><trName>אנגלית</trName></name>
       <name><languageId>hi</languageId><trName>अंग्रेज़ी</trName></name>
+      <name><languageId>hnj</languageId><trName>𞄥𞄴𞄅𞄇𞄉𞄦𞄱𞄊</trName></name>
       <name><languageId>hr</languageId><trName>engleski</trName></name>
       <name><languageId>hsb</languageId><trName>jendźelšćina</trName></name>
       <name><languageId>hu</languageId><trName>angol</trName></name>
@@ -14284,6 +14287,7 @@
       <name><languageId>haw</languageId><trName>Palani</trName></name>
       <name><languageId>he</languageId><trName>צרפתית</trName></name>
       <name><languageId>hi</languageId><trName>फ़्रेंच</trName></name>
+      <name><languageId>hnj</languageId><trName>𞄕𞄤𞄰𞄎𞄦𞄴</trName></name>
       <name><languageId>hr</languageId><trName>francuski</trName></name>
       <name><languageId>hsb</languageId><trName>francošćina</trName></name>
       <name><languageId>hu</languageId><trName>francia</trName></name>
@@ -17789,7 +17793,12 @@
     <iso639-2-t>None</iso639-2-t>
     <iso639-2-b>None</iso639-2-b>
     <names>
+      <name><languageId>bew</languageId><trName>Mong Njua</trName></name>
       <name><languageId>en</languageId><trName>Hmong Njua</trName></name>
+      <name><languageId>fi</languageId><trName>hmong njua</trName></name>
+      <name><languageId>hnj</languageId><trName>𞄀𞄄𞄰𞄩𞄍𞄜𞄰</trName></name>
+      <name><languageId>ku</languageId><trName>hmongiya njuayî</trName></name>
+      <name><languageId>zh</languageId><trName>青苗语</trName></name>
     </names>
     <scripts>
       <script><scriptId>Hmnp</scriptId><rank>1000</rank></script>
@@ -56029,6 +56038,7 @@
       <name><languageId>haw</languageId><trName>Pākē</trName></name>
       <name><languageId>he</languageId><trName>סינית</trName></name>
       <name><languageId>hi</languageId><trName>चीनी</trName></name>
+      <name><languageId>hnj</languageId><trName>𞄋𞄄</trName></name>
       <name><languageId>hr</languageId><trName>kineski</trName></name>
       <name><languageId>hsb</languageId><trName>chinšćina</trName></name>
       <name><languageId>hu</languageId><trName>kínai</trName></name>
