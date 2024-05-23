@@ -4613,6 +4613,135 @@
     </timezones>
   </language>
   <language>
+    <languageId>bgc</languageId>
+    <iso639-1>None</iso639-1>
+    <iso639-2-t>None</iso639-2-t>
+    <iso639-2-b>None</iso639-2-b>
+    <names>
+      <name><languageId>af</languageId><trName>Haryanvi</trName></name>
+      <name><languageId>am</languageId><trName>ሃርያንቪ</trName></name>
+      <name><languageId>ar</languageId><trName>الهارينفية</trName></name>
+      <name><languageId>as</languageId><trName>হাৰয়ানভি</trName></name>
+      <name><languageId>az</languageId><trName>Haryanvi</trName></name>
+      <name><languageId>be</languageId><trName>харыанві</trName></name>
+      <name><languageId>bew</languageId><trName>Haryanwi</trName></name>
+      <name><languageId>bg</languageId><trName>харианви</trName></name>
+      <name><languageId>bgc</languageId><trName>हरियाणवी</trName></name>
+      <name><languageId>bn</languageId><trName>হরিয়ানভি</trName></name>
+      <name><languageId>bs</languageId><trName>harianvi</trName></name>
+      <name><languageId>ca</languageId><trName>haryanvi</trName></name>
+      <name><languageId>chr</languageId><trName>ᎭᏯᏅᎢ</trName></name>
+      <name><languageId>cs</languageId><trName>harijánština</trName></name>
+      <name><languageId>cy</languageId><trName>Haryanvi</trName></name>
+      <name><languageId>da</languageId><trName>harianvi</trName></name>
+      <name><languageId>de</languageId><trName>Haryanvi</trName></name>
+      <name><languageId>dsb</languageId><trName>haryanvišćina</trName></name>
+      <name><languageId>el</languageId><trName>Χαργιάνβι</trName></name>
+      <name><languageId>en</languageId><trName>Haryanvi</trName></name>
+      <name><languageId>eo</languageId><trName>harjana</trName></name>
+      <name><languageId>es</languageId><trName>haryanvi</trName></name>
+      <name><languageId>et</languageId><trName>harjaanvi</trName></name>
+      <name><languageId>eu</languageId><trName>haryanera</trName></name>
+      <name><languageId>fa</languageId><trName>هارایاناوی</trName></name>
+      <name><languageId>fi</languageId><trName>haryanvi</trName></name>
+      <name><languageId>fil</languageId><trName>Haryanvi</trName></name>
+      <name><languageId>fr</languageId><trName>haryanvi</trName></name>
+      <name><languageId>ga</languageId><trName>Haryanvi</trName></name>
+      <name><languageId>gd</languageId><trName>Haryanvi</trName></name>
+      <name><languageId>gl</languageId><trName>hariani</trName></name>
+      <name><languageId>gu</languageId><trName>હરયાણવી</trName></name>
+      <name><languageId>ha</languageId><trName>Haryanvi</trName></name>
+      <name><languageId>he</languageId><trName>הריאנבי</trName></name>
+      <name><languageId>hi</languageId><trName>हरियाणवी</trName></name>
+      <name><languageId>hr</languageId><trName>haryanvi</trName></name>
+      <name><languageId>hsb</languageId><trName>haryanvi</trName></name>
+      <name><languageId>hu</languageId><trName>haryanvi</trName></name>
+      <name><languageId>hy</languageId><trName>հարյանվի</trName></name>
+      <name><languageId>id</languageId><trName>Haryanvi</trName></name>
+      <name><languageId>ig</languageId><trName>Haryanvi</trName></name>
+      <name><languageId>is</languageId><trName>haryanví</trName></name>
+      <name><languageId>it</languageId><trName>haryanvi</trName></name>
+      <name><languageId>ja</languageId><trName>ハリヤーンウィー語</trName></name>
+      <name><languageId>jv</languageId><trName>Haryanvi</trName></name>
+      <name><languageId>ka</languageId><trName>ჰარიანვი</trName></name>
+      <name><languageId>kk</languageId><trName>хариани тілі</trName></name>
+      <name><languageId>km</languageId><trName>ហារីយ៉ាន់វី</trName></name>
+      <name><languageId>kn</languageId><trName>ಹರ್ಯಾನ್ವಿ</trName></name>
+      <name><languageId>ko</languageId><trName>하리안비어</trName></name>
+      <name><languageId>kok</languageId><trName>हरयाणवी</trName></name>
+      <name><languageId>ku</languageId><trName>haryanviyî</trName></name>
+      <name><languageId>ky</languageId><trName>харьянвиче</trName></name>
+      <name><languageId>lo</languageId><trName>ຮາຢານວີ</trName></name>
+      <name><languageId>lt</languageId><trName>harijanvi</trName></name>
+      <name><languageId>lv</languageId><trName>harjanvi</trName></name>
+      <name><languageId>mi</languageId><trName>Herianawhi</trName></name>
+      <name><languageId>mk</languageId><trName>харијанви</trName></name>
+      <name><languageId>ml</languageId><trName>ഹർയാൻവി</trName></name>
+      <name><languageId>mn</languageId><trName>Харьянви</trName></name>
+      <name><languageId>mr</languageId><trName>हरियाणवी</trName></name>
+      <name><languageId>ms</languageId><trName>Haryanvi</trName></name>
+      <name><languageId>my</languageId><trName>ဟာယန်ဗီ</trName></name>
+      <name><languageId>ne</languageId><trName>हरयाणवी</trName></name>
+      <name><languageId>nl</languageId><trName>Haryanvi</trName></name>
+      <name><languageId>no</languageId><trName>haryanvi</trName></name>
+      <name><languageId>or</languageId><trName>ହରିୟାନଭି</trName></name>
+      <name><languageId>pa</languageId><trName>ਹਰਿਆਣਵੀ</trName></name>
+      <name><languageId>pl</languageId><trName>haryanvi</trName></name>
+      <name><languageId>ps</languageId><trName>هریانوی</trName></name>
+      <name><languageId>pt</languageId><trName>hariani</trName></name>
+      <name><languageId>qu</languageId><trName>Haryanvi</trName></name>
+      <name><languageId>ro</languageId><trName>haryanvi</trName></name>
+      <name><languageId>ru</languageId><trName>харианви</trName></name>
+      <name><languageId>sat</languageId><trName>ᱦᱟᱹᱨᱭᱟᱱᱣᱤ</trName></name>
+      <name><languageId>sc</languageId><trName>haryanvi</trName></name>
+      <name><languageId>sd</languageId><trName>ھريانوي</trName></name>
+      <name><languageId>si</languageId><trName>හර්යාන්වි</trName></name>
+      <name><languageId>sk</languageId><trName>haryanvi</trName></name>
+      <name><languageId>sl</languageId><trName>harjanščina</trName></name>
+      <name><languageId>so</languageId><trName>Haryanvi</trName></name>
+      <name><languageId>sq</languageId><trName>harjanvisht</trName></name>
+      <name><languageId>sr</languageId><trName>харијански</trName></name>
+      <name><languageId>sr_Latn</languageId><trName>harijanski</trName></name>
+      <name><languageId>sv</languageId><trName>hariyanvi</trName></name>
+      <name><languageId>sw</languageId><trName>Kiharyanvi</trName></name>
+      <name><languageId>ta</languageId><trName>ஹரியான்வி</trName></name>
+      <name><languageId>te</languageId><trName>హర్యాన్వి</trName></name>
+      <name><languageId>th</languageId><trName>หริยนวี</trName></name>
+      <name><languageId>ti</languageId><trName>ሃርያንቪ</trName></name>
+      <name><languageId>tk</languageId><trName>harýanwi dili</trName></name>
+      <name><languageId>to</languageId><trName>lea fakahalaiānivi</trName></name>
+      <name><languageId>tr</languageId><trName>Haryanvi dili</trName></name>
+      <name><languageId>uk</languageId><trName>харʼянві</trName></name>
+      <name><languageId>ur</languageId><trName>ہریانوی</trName></name>
+      <name><languageId>uz</languageId><trName>harianvi</trName></name>
+      <name><languageId>vi</languageId><trName>Tiếng Haryana</trName></name>
+      <name><languageId>yo</languageId><trName>Èdè Haryanvi</trName></name>
+      <name><languageId>yue</languageId><trName>哈里亞納文</trName></name>
+      <name><languageId>zh</languageId><trName>哈里亚纳语</trName></name>
+      <name><languageId>zh_Hant</languageId><trName>哈里亞納文</trName></name>
+      <name><languageId>zu</languageId><trName>isi-Haryanvi</trName></name>
+    </names>
+    <scripts>
+      <script><scriptId>Deva</scriptId><rank>1000</rank></script>
+    </scripts>
+    <locales>
+    </locales>
+    <territories>
+      <territory><territoryId>IN</territoryId><rank>1000</rank></territory>
+    </territories>
+    <keyboards>
+      <keyboard><keyboardId>in(eng)</keyboardId><rank>1000</rank></keyboard>
+    </keyboards>
+    <inputmethods>
+    </inputmethods>
+    <consolefonts>
+      <consolefont><consolefontId>eurlatgr</consolefontId><rank>1000</rank></consolefont>
+    </consolefonts>
+    <timezones>
+      <timezone><timezoneId>Asia/Kolkata</timezoneId><rank>1000</rank></timezone>
+    </timezones>
+  </language>
+  <language>
     <languageId>bhb</languageId>
     <iso639-1>None</iso639-1>
     <iso639-2-t>None</iso639-2-t>
@@ -11526,6 +11655,7 @@
       <name><languageId>bew</languageId><trName>Inggris</trName></name>
       <name><languageId>bez</languageId><trName>Hiingereza</trName></name>
       <name><languageId>bg</languageId><trName>английски</trName></name>
+      <name><languageId>bgc</languageId><trName>अंग्रेजी</trName></name>
       <name><languageId>bho</languageId><trName>अंगरेजी</trName></name>
       <name><languageId>bm</languageId><trName>angilɛkan</trName></name>
       <name><languageId>bn</languageId><trName>ইংরেজি</trName></name>
