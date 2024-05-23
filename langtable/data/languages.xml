@@ -17784,6 +17784,63 @@
     </timezones>
   </language>
   <language>
+    <languageId>hnj</languageId>
+    <iso639-1>None</iso639-1>
+    <iso639-2-t>None</iso639-2-t>
+    <iso639-2-b>None</iso639-2-b>
+    <names>
+      <name><languageId>en</languageId><trName>Hmong Njua</trName></name>
+    </names>
+    <scripts>
+      <script><scriptId>Hmnp</scriptId><rank>1000</rank></script>
+    </scripts>
+    <locales>
+    </locales>
+    <territories>
+      <territory><territoryId>US</territoryId><rank>1000</rank></territory>
+    </territories>
+    <keyboards>
+      <keyboard><keyboardId>us</keyboardId><rank>1000</rank></keyboard>
+    </keyboards>
+    <inputmethods>
+    </inputmethods>
+    <consolefonts>
+      <consolefont><consolefontId>eurlatgr</consolefontId><rank>1000</rank></consolefont>
+    </consolefonts>
+    <timezones>
+      <timezone><timezoneId>America/New_York</timezoneId><rank>900</rank></timezone>
+      <timezone><timezoneId>America/Chicago</timezoneId><rank>890</rank></timezone>
+      <timezone><timezoneId>America/Denver</timezoneId><rank>880</rank></timezone>
+      <timezone><timezoneId>America/Los_Angeles</timezoneId><rank>870</rank></timezone>
+      <timezone><timezoneId>Pacific/Honolulu</timezoneId><rank>860</rank></timezone>
+      <timezone><timezoneId>America/Anchorage</timezoneId><rank>850</rank></timezone>
+      <timezone><timezoneId>America/Phoenix</timezoneId><rank>840</rank></timezone>
+      <timezone><timezoneId>America/Adak</timezoneId><rank>1</rank></timezone>
+      <timezone><timezoneId>America/Boise</timezoneId><rank>1</rank></timezone>
+      <timezone><timezoneId>America/Detroit</timezoneId><rank>1</rank></timezone>
+      <timezone><timezoneId>America/Indiana/Indianapolis</timezoneId><rank>1</rank></timezone>
+      <timezone><timezoneId>America/Indiana/Knox</timezoneId><rank>1</rank></timezone>
+      <timezone><timezoneId>America/Indiana/Marengo</timezoneId><rank>1</rank></timezone>
+      <timezone><timezoneId>America/Indiana/Petersburg</timezoneId><rank>1</rank></timezone>
+      <timezone><timezoneId>America/Indiana/Tell_City</timezoneId><rank>1</rank></timezone>
+      <timezone><timezoneId>America/Indiana/Vevay</timezoneId><rank>1</rank></timezone>
+      <timezone><timezoneId>America/Indiana/Vincennes</timezoneId><rank>1</rank></timezone>
+      <timezone><timezoneId>America/Indiana/Winamac</timezoneId><rank>1</rank></timezone>
+      <timezone><timezoneId>America/Juneau</timezoneId><rank>1</rank></timezone>
+      <timezone><timezoneId>America/Kentucky/Louisville</timezoneId><rank>1</rank></timezone>
+      <timezone><timezoneId>America/Kentucky/Monticello</timezoneId><rank>1</rank></timezone>
+      <timezone><timezoneId>America/Menominee</timezoneId><rank>1</rank></timezone>
+      <timezone><timezoneId>America/Metlakatla</timezoneId><rank>1</rank></timezone>
+      <timezone><timezoneId>America/Nome</timezoneId><rank>1</rank></timezone>
+      <timezone><timezoneId>America/North_Dakota/Beulah</timezoneId><rank>1</rank></timezone>
+      <timezone><timezoneId>America/North_Dakota/Center</timezoneId><rank>1</rank></timezone>
+      <timezone><timezoneId>America/North_Dakota/New_Salem</timezoneId><rank>1</rank></timezone>
+      <timezone><timezoneId>America/Shiprock</timezoneId><rank>1</rank></timezone>
+      <timezone><timezoneId>America/Sitka</timezoneId><rank>1</rank></timezone>
+      <timezone><timezoneId>America/Yakutat</timezoneId><rank>1</rank></timezone>
+    </timezones>
+  </language>
+  <language>
     <languageId>ho</languageId>
     <iso639-1>ho</iso639-1>
     <iso639-2-t>hmo</iso639-2-t>
