@@ -7193,6 +7193,107 @@
     </timezones>
   </language>
   <language>
+    <languageId>cad</languageId>
+    <iso639-1>None</iso639-1>
+    <iso639-2-t>cad</iso639-2-t>
+    <iso639-2-b>cad</iso639-2-b>
+    <names>
+      <name><languageId>am</languageId><trName>ካዶ</trName></name>
+      <name><languageId>ar</languageId><trName>الكادو</trName></name>
+      <name><languageId>ast</languageId><trName>caddo</trName></name>
+      <name><languageId>az</languageId><trName>keddo</trName></name>
+      <name><languageId>bew</languageId><trName>Kado</trName></name>
+      <name><languageId>bg</languageId><trName>каддо</trName></name>
+      <name><languageId>bn</languageId><trName>ক্যাডো</trName></name>
+      <name><languageId>br</languageId><trName>caddo</trName></name>
+      <name><languageId>brx</languageId><trName>काद्दौ</trName></name>
+      <name><languageId>bs</languageId><trName>kado</trName></name>
+      <name><languageId>ca</languageId><trName>caddo</trName></name>
+      <name><languageId>cad</languageId><trName>Caddo</trName></name>
+      <name><languageId>ccp</languageId><trName>𑄇𑄳𑄠𑄓𑄮</trName></name>
+      <name><languageId>cs</languageId><trName>caddo</trName></name>
+      <name><languageId>cy</languageId><trName>Cado</trName></name>
+      <name><languageId>da</languageId><trName>caddo</trName></name>
+      <name><languageId>de</languageId><trName>Caddo</trName></name>
+      <name><languageId>el</languageId><trName>Κάντο</trName></name>
+      <name><languageId>en</languageId><trName>Caddo</trName></name>
+      <name><languageId>es</languageId><trName>caddo</trName></name>
+      <name><languageId>et</languageId><trName>kado</trName></name>
+      <name><languageId>fa</languageId><trName>کادویی</trName></name>
+      <name><languageId>fi</languageId><trName>caddo</trName></name>
+      <name><languageId>fr</languageId><trName>caddo</trName></name>
+      <name><languageId>fy</languageId><trName>Kaddo</trName></name>
+      <name><languageId>gd</languageId><trName>Caddo</trName></name>
+      <name><languageId>gsw</languageId><trName>Caddo</trName></name>
+      <name><languageId>gu</languageId><trName>કડ્ડો</trName></name>
+      <name><languageId>he</languageId><trName>קאדו</trName></name>
+      <name><languageId>hi</languageId><trName>कैड्डो</trName></name>
+      <name><languageId>hr</languageId><trName>caddo</trName></name>
+      <name><languageId>hu</languageId><trName>caddo</trName></name>
+      <name><languageId>id</languageId><trName>Kado</trName></name>
+      <name><languageId>is</languageId><trName>kaddó</trName></name>
+      <name><languageId>it</languageId><trName>caddo</trName></name>
+      <name><languageId>ja</languageId><trName>カドー語</trName></name>
+      <name><languageId>kn</languageId><trName>ಕ್ಯಾಡ್ಡೋ</trName></name>
+      <name><languageId>ko</languageId><trName>카도어</trName></name>
+      <name><languageId>ks</languageId><trName>کاڈو</trName></name>
+      <name><languageId>ku</languageId><trName>kadoyî</trName></name>
+      <name><languageId>lb</languageId><trName>Caddo</trName></name>
+      <name><languageId>lo</languageId><trName>ແຄດໂດ</trName></name>
+      <name><languageId>lt</languageId><trName>kado</trName></name>
+      <name><languageId>lv</languageId><trName>kadu</trName></name>
+      <name><languageId>mk</languageId><trName>кадо</trName></name>
+      <name><languageId>ml</languageId><trName>കാഡോ</trName></name>
+      <name><languageId>mr</languageId><trName>कॅड्डो</trName></name>
+      <name><languageId>mt</languageId><trName>Kaddo</trName></name>
+      <name><languageId>nds</languageId><trName>Caddo</trName></name>
+      <name><languageId>ne</languageId><trName>काड्डो</trName></name>
+      <name><languageId>nl</languageId><trName>Caddo</trName></name>
+      <name><languageId>no</languageId><trName>caddo</trName></name>
+      <name><languageId>or</languageId><trName>କାଡୋ</trName></name>
+      <name><languageId>pl</languageId><trName>kaddo</trName></name>
+      <name><languageId>pt</languageId><trName>caddo</trName></name>
+      <name><languageId>rm</languageId><trName>caddo</trName></name>
+      <name><languageId>ro</languageId><trName>caddo</trName></name>
+      <name><languageId>ru</languageId><trName>каддо</trName></name>
+      <name><languageId>sk</languageId><trName>kaddo</trName></name>
+      <name><languageId>sl</languageId><trName>kadoščina</trName></name>
+      <name><languageId>sr</languageId><trName>кадо</trName></name>
+      <name><languageId>sr_Latn</languageId><trName>kado</trName></name>
+      <name><languageId>sv</languageId><trName>caddo</trName></name>
+      <name><languageId>ta</languageId><trName>கேடோ</trName></name>
+      <name><languageId>te</languageId><trName>కేడ్డో</trName></name>
+      <name><languageId>th</languageId><trName>คัดโด</trName></name>
+      <name><languageId>to</languageId><trName>lea fakakato</trName></name>
+      <name><languageId>tr</languageId><trName>Kado dili</trName></name>
+      <name><languageId>ug</languageId><trName>كاددوچە</trName></name>
+      <name><languageId>uk</languageId><trName>каддо</trName></name>
+      <name><languageId>vi</languageId><trName>Tiếng Caddo</trName></name>
+      <name><languageId>yue</languageId><trName>卡多文</trName></name>
+      <name><languageId>zh</languageId><trName>卡多语</trName></name>
+      <name><languageId>zh_Hant</languageId><trName>卡多文</trName></name>
+    </names>
+    <scripts>
+      <script><scriptId>Latn</scriptId><rank>1000</rank></script>
+    </scripts>
+    <locales>
+    </locales>
+    <territories>
+      <territory><territoryId>US</territoryId><rank>1000</rank></territory>
+    </territories>
+    <keyboards>
+      <keyboard><keyboardId>us</keyboardId><rank>1000</rank></keyboard>
+    </keyboards>
+    <inputmethods>
+    </inputmethods>
+    <consolefonts>
+      <consolefont><consolefontId>eurlatgr</consolefontId><rank>1000</rank></consolefont>
+    </consolefonts>
+    <timezones>
+      <timezone><timezoneId>America/Chicago</timezoneId><rank>900</rank></timezone>
+    </timezones>
+  </language>
+  <language>
     <languageId>ccp</languageId>
     <iso639-1>None</iso639-1>
     <iso639-2-t>None</iso639-2-t>
