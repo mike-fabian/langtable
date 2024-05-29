@@ -8346,6 +8346,158 @@
     </timezones>
   </language>
   <language>
+    <languageId>cho</languageId>
+    <iso639-1>None</iso639-1>
+    <iso639-2-t>cho</iso639-2-t>
+    <iso639-2-b>cho</iso639-2-b>
+    <names>
+      <name><languageId>ab</languageId><trName>ачоктав</trName></name>
+      <name><languageId>af</languageId><trName>Choctaw</trName></name>
+      <name><languageId>am</languageId><trName>ቾክታዋ</trName></name>
+      <name><languageId>ar</languageId><trName>الشوكتو</trName></name>
+      <name><languageId>as</languageId><trName>চোক্টাউ</trName></name>
+      <name><languageId>ast</languageId><trName>choctaw</trName></name>
+      <name><languageId>az</languageId><trName>çoktau</trName></name>
+      <name><languageId>be</languageId><trName>чокта</trName></name>
+      <name><languageId>bew</languageId><trName>Cokto</trName></name>
+      <name><languageId>bg</languageId><trName>чокто</trName></name>
+      <name><languageId>bgn</languageId><trName>چاکتاوی</trName></name>
+      <name><languageId>bn</languageId><trName>চকটাও</trName></name>
+      <name><languageId>br</languageId><trName>choktaw</trName></name>
+      <name><languageId>brx</languageId><trName>चक्टाऊ</trName></name>
+      <name><languageId>bs</languageId><trName>čoktav</trName></name>
+      <name><languageId>ca</languageId><trName>choctaw</trName></name>
+      <name><languageId>ccp</languageId><trName>𑄌𑄧𑄇𑄴𑄑𑄳𑄅𑄧𑄠𑄧</trName></name>
+      <name><languageId>ce</languageId><trName>чоктавийн</trName></name>
+      <name><languageId>cho</languageId><trName>Chahta</trName></name>
+      <name><languageId>chr</languageId><trName>ᎠᏣᏓ</trName></name>
+      <name><languageId>ckb</languageId><trName>چۆکتاو</trName></name>
+      <name><languageId>cs</languageId><trName>čoktština</trName></name>
+      <name><languageId>cy</languageId><trName>Siocto</trName></name>
+      <name><languageId>da</languageId><trName>choctaw</trName></name>
+      <name><languageId>de</languageId><trName>Choctaw</trName></name>
+      <name><languageId>dsb</languageId><trName>choctawšćina</trName></name>
+      <name><languageId>el</languageId><trName>Τσόκτο</trName></name>
+      <name><languageId>en</languageId><trName>Choctaw</trName></name>
+      <name><languageId>eo</languageId><trName>ĉakta</trName></name>
+      <name><languageId>es</languageId><trName>choctaw</trName></name>
+      <name><languageId>et</languageId><trName>tšokto</trName></name>
+      <name><languageId>eu</languageId><trName>txoktawera</trName></name>
+      <name><languageId>fa</languageId><trName>چوکتویی</trName></name>
+      <name><languageId>fi</languageId><trName>choctaw</trName></name>
+      <name><languageId>fil</languageId><trName>Choctaw</trName></name>
+      <name><languageId>fo</languageId><trName>choctaw</trName></name>
+      <name><languageId>fr</languageId><trName>choctaw</trName></name>
+      <name><languageId>fy</languageId><trName>Choctaw</trName></name>
+      <name><languageId>ga</languageId><trName>Seactáis</trName></name>
+      <name><languageId>gd</languageId><trName>Choctaw</trName></name>
+      <name><languageId>gl</languageId><trName>choctaw</trName></name>
+      <name><languageId>gsw</languageId><trName>Choctaw</trName></name>
+      <name><languageId>gu</languageId><trName>ચોક્તૌ</trName></name>
+      <name><languageId>ha</languageId><trName>Choctaw</trName></name>
+      <name><languageId>he</languageId><trName>צ׳וקטאו</trName></name>
+      <name><languageId>hi</languageId><trName>चोक्तौ</trName></name>
+      <name><languageId>hr</languageId><trName>choctaw</trName></name>
+      <name><languageId>hsb</languageId><trName>choctawšćina</trName></name>
+      <name><languageId>hu</languageId><trName>csoktó</trName></name>
+      <name><languageId>hy</languageId><trName>չոկտո</trName></name>
+      <name><languageId>ia</languageId><trName>choctaw</trName></name>
+      <name><languageId>id</languageId><trName>Koktaw</trName></name>
+      <name><languageId>ig</languageId><trName>Choctawu</trName></name>
+      <name><languageId>is</languageId><trName>sjoktá</trName></name>
+      <name><languageId>it</languageId><trName>choctaw</trName></name>
+      <name><languageId>ja</languageId><trName>チョクトー語</trName></name>
+      <name><languageId>jv</languageId><trName>Choctaw</trName></name>
+      <name><languageId>ka</languageId><trName>ჩოკტო</trName></name>
+      <name><languageId>kab</languageId><trName>Tacuktawt</trName></name>
+      <name><languageId>kk</languageId><trName>чокто тілі</trName></name>
+      <name><languageId>km</languageId><trName>ឆុកតាវ</trName></name>
+      <name><languageId>kn</languageId><trName>ಚೋಕ್ಟಾವ್</trName></name>
+      <name><languageId>ko</languageId><trName>촉토어</trName></name>
+      <name><languageId>kok</languageId><trName>चाकता</trName></name>
+      <name><languageId>ks</languageId><trName>چوکتَو</trName></name>
+      <name><languageId>ksh</languageId><trName>Tschoktoh</trName></name>
+      <name><languageId>ku</languageId><trName>çoktavî</trName></name>
+      <name><languageId>ky</languageId><trName>чокточо</trName></name>
+      <name><languageId>lb</languageId><trName>Choctaw</trName></name>
+      <name><languageId>lij</languageId><trName>choctaw</trName></name>
+      <name><languageId>lo</languageId><trName>ຊອກຕິວ</trName></name>
+      <name><languageId>lt</languageId><trName>čoktau</trName></name>
+      <name><languageId>lv</languageId><trName>čoktavu</trName></name>
+      <name><languageId>mai</languageId><trName>चोकटाउ</trName></name>
+      <name><languageId>mi</languageId><trName>Tiokatō</trName></name>
+      <name><languageId>mk</languageId><trName>чоктавски</trName></name>
+      <name><languageId>ml</languageId><trName>ചോക്റ്റാവ്</trName></name>
+      <name><languageId>mn</languageId><trName>чоктау</trName></name>
+      <name><languageId>mr</languageId><trName>चोक्तौ</trName></name>
+      <name><languageId>ms</languageId><trName>Choctaw</trName></name>
+      <name><languageId>mt</languageId><trName>Choctaw</trName></name>
+      <name><languageId>my</languageId><trName>ချော့တို</trName></name>
+      <name><languageId>nds</languageId><trName>Choctaw</trName></name>
+      <name><languageId>ne</languageId><trName>चोक्टाव</trName></name>
+      <name><languageId>nl</languageId><trName>Choctaw</trName></name>
+      <name><languageId>no</languageId><trName>choctaw</trName></name>
+      <name><languageId>or</languageId><trName>ଚୋଟୱା</trName></name>
+      <name><languageId>pa</languageId><trName>ਚੌਕਟੋ</trName></name>
+      <name><languageId>pl</languageId><trName>czoktawski</trName></name>
+      <name><languageId>ps</languageId><trName>چوکټاوي</trName></name>
+      <name><languageId>pt</languageId><trName>choctaw</trName></name>
+      <name><languageId>qu</languageId><trName>Choctaw Simi</trName></name>
+      <name><languageId>rm</languageId><trName>choctaw</trName></name>
+      <name><languageId>ro</languageId><trName>choctaw</trName></name>
+      <name><languageId>ru</languageId><trName>чоктавский</trName></name>
+      <name><languageId>sat</languageId><trName>ᱪᱷᱚᱠᱴᱟᱣ</trName></name>
+      <name><languageId>sc</languageId><trName>choctaw</trName></name>
+      <name><languageId>sd</languageId><trName>چوڪ تو</trName></name>
+      <name><languageId>si</languageId><trName>චොක්ටොව්</trName></name>
+      <name><languageId>sk</languageId><trName>čoktčina</trName></name>
+      <name><languageId>sl</languageId><trName>čoktavščina</trName></name>
+      <name><languageId>smn</languageId><trName>choctawkielâ</trName></name>
+      <name><languageId>so</languageId><trName>Choctaw</trName></name>
+      <name><languageId>sq</languageId><trName>çoktauisht</trName></name>
+      <name><languageId>sr</languageId><trName>чоктавски</trName></name>
+      <name><languageId>sr_Latn</languageId><trName>čoktavski</trName></name>
+      <name><languageId>sv</languageId><trName>choctaw</trName></name>
+      <name><languageId>sw</languageId><trName>Kichoktao</trName></name>
+      <name><languageId>ta</languageId><trName>சோக்தௌ</trName></name>
+      <name><languageId>te</languageId><trName>చక్టా</trName></name>
+      <name><languageId>th</languageId><trName>ช็อกทอว์</trName></name>
+      <name><languageId>ti</languageId><trName>ቾክቶ</trName></name>
+      <name><languageId>tk</languageId><trName>çokto</trName></name>
+      <name><languageId>to</languageId><trName>lea fakasokitau</trName></name>
+      <name><languageId>tr</languageId><trName>Çoktav dili</trName></name>
+      <name><languageId>ug</languageId><trName>چوكتاۋچە</trName></name>
+      <name><languageId>uk</languageId><trName>чокто</trName></name>
+      <name><languageId>ur</languageId><trName>چاکٹاؤ</trName></name>
+      <name><languageId>uz</languageId><trName>choktav</trName></name>
+      <name><languageId>vi</languageId><trName>Tiếng Choctaw</trName></name>
+      <name><languageId>yo</languageId><trName>Èdè Shokita</trName></name>
+      <name><languageId>yue</languageId><trName>喬克托文</trName></name>
+      <name><languageId>zh</languageId><trName>乔克托语</trName></name>
+      <name><languageId>zh_Hant</languageId><trName>喬克托文</trName></name>
+      <name><languageId>zu</languageId><trName>isi-Choctaw</trName></name>
+    </names>
+    <scripts>
+      <script><scriptId>Latn</scriptId><rank>1000</rank></script>
+    </scripts>
+    <locales>
+    </locales>
+    <territories>
+      <territory><territoryId>US</territoryId><rank>1000</rank></territory>
+    </territories>
+    <keyboards>
+      <keyboard><keyboardId>us</keyboardId><rank>1000</rank></keyboard>
+    </keyboards>
+    <inputmethods>
+    </inputmethods>
+    <consolefonts>
+      <consolefont><consolefontId>eurlatgr</consolefontId><rank>1000</rank></consolefont>
+    </consolefonts>
+    <timezones>
+      <timezone><timezoneId>America/Chicago</timezoneId><rank>900</rank></timezone>
+    </timezones>
+  </language>
+  <language>
     <languageId>chr</languageId>
     <iso639-1>None</iso639-1>
     <iso639-2-t>chr</iso639-2-t>
@@ -12374,6 +12526,7 @@
       <name><languageId>ce</languageId><trName>ингалсан</trName></name>
       <name><languageId>ceb</languageId><trName>English</trName></name>
       <name><languageId>cgg</languageId><trName>Orungyereza</trName></name>
+      <name><languageId>cho</languageId><trName>English</trName></name>
       <name><languageId>chr</languageId><trName>ᎩᎵᏏ</trName></name>
       <name><languageId>ckb</languageId><trName>ئینگلیزی</trName></name>
       <name><languageId>co</languageId><trName>inglese</trName></name>
