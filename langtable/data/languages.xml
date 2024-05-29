@@ -7294,6 +7294,105 @@
     </timezones>
   </language>
   <language>
+    <languageId>cch</languageId>
+    <iso639-1>None</iso639-1>
+    <iso639-2-t>None</iso639-2-t>
+    <iso639-2-b>None</iso639-2-b>
+    <names>
+      <name><languageId>am</languageId><trName>አትሳም</trName></name>
+      <name><languageId>ar</languageId><trName>الأتسام</trName></name>
+      <name><languageId>ast</languageId><trName>atsam</trName></name>
+      <name><languageId>az</languageId><trName>atsam</trName></name>
+      <name><languageId>bew</languageId><trName>Atsam</trName></name>
+      <name><languageId>bg</languageId><trName>атсам</trName></name>
+      <name><languageId>bn</languageId><trName>আত্সাম</trName></name>
+      <name><languageId>br</languageId><trName>atsam</trName></name>
+      <name><languageId>brx</languageId><trName>आत्सम</trName></name>
+      <name><languageId>bs</languageId><trName>atsam</trName></name>
+      <name><languageId>ca</languageId><trName>atsam</trName></name>
+      <name><languageId>cch</languageId><trName>Atsam</trName></name>
+      <name><languageId>ccp</languageId><trName>𑄃𑄖𑄴𑄥𑄟𑄴</trName></name>
+      <name><languageId>cs</languageId><trName>atsam</trName></name>
+      <name><languageId>cy</languageId><trName>Atsameg</trName></name>
+      <name><languageId>da</languageId><trName>atsam</trName></name>
+      <name><languageId>de</languageId><trName>Atsam</trName></name>
+      <name><languageId>el</languageId><trName>Ατσάμ</trName></name>
+      <name><languageId>en</languageId><trName>Atsam</trName></name>
+      <name><languageId>es</languageId><trName>atsam</trName></name>
+      <name><languageId>et</languageId><trName>aitšami</trName></name>
+      <name><languageId>fi</languageId><trName>atsam</trName></name>
+      <name><languageId>fr</languageId><trName>atsam</trName></name>
+      <name><languageId>fy</languageId><trName>Atsam</trName></name>
+      <name><languageId>gd</languageId><trName>Atsam</trName></name>
+      <name><languageId>gsw</languageId><trName>Atsam</trName></name>
+      <name><languageId>gu</languageId><trName>અત્સમ</trName></name>
+      <name><languageId>he</languageId><trName>אטסם</trName></name>
+      <name><languageId>hi</languageId><trName>अत्सम</trName></name>
+      <name><languageId>hr</languageId><trName>atsam</trName></name>
+      <name><languageId>hu</languageId><trName>atszam</trName></name>
+      <name><languageId>id</languageId><trName>Atsam</trName></name>
+      <name><languageId>is</languageId><trName>atsam</trName></name>
+      <name><languageId>it</languageId><trName>atsam</trName></name>
+      <name><languageId>ja</languageId><trName>チャワイ語</trName></name>
+      <name><languageId>kn</languageId><trName>ಅಟ್ಸಮ್</trName></name>
+      <name><languageId>ko</languageId><trName>앗삼어</trName></name>
+      <name><languageId>ks</languageId><trName>اتسَم</trName></name>
+      <name><languageId>ku</languageId><trName>atsamî</trName></name>
+      <name><languageId>lb</languageId><trName>Atsam</trName></name>
+      <name><languageId>lo</languageId><trName>ອາດແຊມ</trName></name>
+      <name><languageId>lt</languageId><trName>atsamų</trName></name>
+      <name><languageId>lv</languageId><trName>atsamu</trName></name>
+      <name><languageId>mk</languageId><trName>ацам</trName></name>
+      <name><languageId>ml</languageId><trName>അറ്റ്സാം</trName></name>
+      <name><languageId>mr</languageId><trName>अत्सम</trName></name>
+      <name><languageId>mt</languageId><trName>Atsam</trName></name>
+      <name><languageId>nds</languageId><trName>Atsam</trName></name>
+      <name><languageId>ne</languageId><trName>अट्साम</trName></name>
+      <name><languageId>nl</languageId><trName>Atsam</trName></name>
+      <name><languageId>no</languageId><trName>atsam</trName></name>
+      <name><languageId>or</languageId><trName>ଆତ୍ସମ୍</trName></name>
+      <name><languageId>pl</languageId><trName>atsam</trName></name>
+      <name><languageId>pt</languageId><trName>atsam</trName></name>
+      <name><languageId>rm</languageId><trName>atsam</trName></name>
+      <name><languageId>ro</languageId><trName>atsam</trName></name>
+      <name><languageId>ru</languageId><trName>атсам</trName></name>
+      <name><languageId>sk</languageId><trName>atsam</trName></name>
+      <name><languageId>sr</languageId><trName>атсам</trName></name>
+      <name><languageId>sr_Latn</languageId><trName>atsam</trName></name>
+      <name><languageId>sv</languageId><trName>atsam</trName></name>
+      <name><languageId>ta</languageId><trName>ஆட்சம்</trName></name>
+      <name><languageId>te</languageId><trName>అట్సామ్</trName></name>
+      <name><languageId>th</languageId><trName>แอตแซม</trName></name>
+      <name><languageId>to</languageId><trName>lea fakaʻatisami</trName></name>
+      <name><languageId>tr</languageId><trName>Atsam</trName></name>
+      <name><languageId>ug</languageId><trName>ئاتسامچە</trName></name>
+      <name><languageId>uk</languageId><trName>атсам</trName></name>
+      <name><languageId>vi</languageId><trName>Tiếng Atsam</trName></name>
+      <name><languageId>yue</languageId><trName>阿燦文</trName></name>
+      <name><languageId>zh</languageId><trName>阿灿语</trName></name>
+      <name><languageId>zh_Hant</languageId><trName>阿燦文</trName></name>
+    </names>
+    <scripts>
+      <script><scriptId>Latn</scriptId><rank>1000</rank></script>
+    </scripts>
+    <locales>
+    </locales>
+    <territories>
+      <territory><territoryId>NG</territoryId><rank>1000</rank></territory>
+    </territories>
+    <keyboards>
+      <keyboard><keyboardId>ng</keyboardId><rank>1000</rank></keyboard>
+    </keyboards>
+    <inputmethods>
+    </inputmethods>
+    <consolefonts>
+      <consolefont><consolefontId>eurlatgr</consolefontId><rank>1000</rank></consolefont>
+    </consolefonts>
+    <timezones>
+      <timezone><timezoneId>Africa/Lagos</timezoneId><rank>1000</rank></timezone>
+    </timezones>
+  </language>
+  <language>
     <languageId>ccp</languageId>
     <iso639-1>None</iso639-1>
     <iso639-2-t>None</iso639-2-t>
