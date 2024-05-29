@@ -1709,6 +1709,7 @@
       <name><languageId>ca</languageId><trName>àrab</trName></name>
       <name><languageId>ccp</languageId><trName>𑄃𑄢𑄧𑄝𑄩</trName></name>
       <name><languageId>ce</languageId><trName>Ӏаьрбийн</trName></name>
+      <name><languageId>ceb</languageId><trName>Arabic</trName></name>
       <name><languageId>cgg</languageId><trName>Oruharabu</trName></name>
       <name><languageId>chr</languageId><trName>ᎡᎳᏈ</trName></name>
       <name><languageId>ckb</languageId><trName>عەرەبی</trName></name>
@@ -5685,6 +5686,7 @@
       <name><languageId>ca</languageId><trName>bengalí</trName></name>
       <name><languageId>ccp</languageId><trName>𑄝𑄁𑄣</trName></name>
       <name><languageId>ce</languageId><trName>бенгалийн</trName></name>
+      <name><languageId>ceb</languageId><trName>Bangla</trName></name>
       <name><languageId>cgg</languageId><trName>Orubengari</trName></name>
       <name><languageId>chr</languageId><trName>ᏇᏂᎦᎳ</trName></name>
       <name><languageId>ckb</languageId><trName>بەنگلادێشی</trName></name>
@@ -7701,6 +7703,169 @@
     </consolefonts>
     <timezones>
       <timezone><timezoneId>Europe/Moscow</timezoneId><rank>1000</rank></timezone>
+    </timezones>
+  </language>
+  <language>
+    <languageId>ceb</languageId>
+    <iso639-1>None</iso639-1>
+    <iso639-2-t>ceb</iso639-2-t>
+    <iso639-2-b>ceb</iso639-2-b>
+    <names>
+      <name><languageId>ab</languageId><trName>асебуано</trName></name>
+      <name><languageId>af</languageId><trName>Cebuano</trName></name>
+      <name><languageId>am</languageId><trName>ካቡዋኖ</trName></name>
+      <name><languageId>ar</languageId><trName>السيبيوانية</trName></name>
+      <name><languageId>as</languageId><trName>চিবুৱানো</trName></name>
+      <name><languageId>ast</languageId><trName>cebuanu</trName></name>
+      <name><languageId>az</languageId><trName>sebuan</trName></name>
+      <name><languageId>be</languageId><trName>себуана</trName></name>
+      <name><languageId>bew</languageId><trName>Sébu</trName></name>
+      <name><languageId>bg</languageId><trName>себуански</trName></name>
+      <name><languageId>bgn</languageId><trName>سینوگبانونی</trName></name>
+      <name><languageId>bn</languageId><trName>চেবুয়ানো</trName></name>
+      <name><languageId>br</languageId><trName>cebuano</trName></name>
+      <name><languageId>brx</languageId><trName>चेबुआनो</trName></name>
+      <name><languageId>bs</languageId><trName>cebuano</trName></name>
+      <name><languageId>ca</languageId><trName>cebuà</trName></name>
+      <name><languageId>ccp</languageId><trName>𑄌𑄬𑄝𑄪𑄠𑄚𑄮</trName></name>
+      <name><languageId>ce</languageId><trName>себуано</trName></name>
+      <name><languageId>ceb</languageId><trName>Cebuano</trName></name>
+      <name><languageId>chr</languageId><trName>ᏎᏆᏃ</trName></name>
+      <name><languageId>ckb</languageId><trName>سێبوانۆ</trName></name>
+      <name><languageId>cs</languageId><trName>cebuánština</trName></name>
+      <name><languageId>cy</languageId><trName>Cebuano</trName></name>
+      <name><languageId>da</languageId><trName>cebuano</trName></name>
+      <name><languageId>de</languageId><trName>Cebuano</trName></name>
+      <name><languageId>dsb</languageId><trName>cebuanšćina</trName></name>
+      <name><languageId>ee</languageId><trName>Sebuanogbe</trName></name>
+      <name><languageId>el</languageId><trName>Σεμπουάνο</trName></name>
+      <name><languageId>en</languageId><trName>Cebuano</trName></name>
+      <name><languageId>eo</languageId><trName>cebua</trName></name>
+      <name><languageId>es</languageId><trName>cebuano</trName></name>
+      <name><languageId>et</languageId><trName>sebu</trName></name>
+      <name><languageId>eu</languageId><trName>cebuanoera</trName></name>
+      <name><languageId>fa</languageId><trName>سبویی</trName></name>
+      <name><languageId>fi</languageId><trName>cebuano</trName></name>
+      <name><languageId>fil</languageId><trName>Cebuano</trName></name>
+      <name><languageId>fo</languageId><trName>cebuano</trName></name>
+      <name><languageId>fr</languageId><trName>cebuano</trName></name>
+      <name><languageId>fy</languageId><trName>Cebuano</trName></name>
+      <name><languageId>ga</languageId><trName>Seabúáinis</trName></name>
+      <name><languageId>gd</languageId><trName>Cebuano</trName></name>
+      <name><languageId>gl</languageId><trName>cebuano</trName></name>
+      <name><languageId>gsw</languageId><trName>Cebuano</trName></name>
+      <name><languageId>gu</languageId><trName>સિબુઆનો</trName></name>
+      <name><languageId>ha</languageId><trName>Cebuano</trName></name>
+      <name><languageId>he</languageId><trName>סבואנו</trName></name>
+      <name><languageId>hi</languageId><trName>सिबुआनो</trName></name>
+      <name><languageId>hr</languageId><trName>cebuano</trName></name>
+      <name><languageId>hsb</languageId><trName>cebuanšćina</trName></name>
+      <name><languageId>hu</languageId><trName>szebuano</trName></name>
+      <name><languageId>hy</languageId><trName>սեբուերեն</trName></name>
+      <name><languageId>ia</languageId><trName>cebuano</trName></name>
+      <name><languageId>id</languageId><trName>Cebuano</trName></name>
+      <name><languageId>ie</languageId><trName>cebuano</trName></name>
+      <name><languageId>ig</languageId><trName>Cebụanọ</trName></name>
+      <name><languageId>is</languageId><trName>kebúanó</trName></name>
+      <name><languageId>it</languageId><trName>cebuano</trName></name>
+      <name><languageId>ja</languageId><trName>セブアノ語</trName></name>
+      <name><languageId>jv</languageId><trName>Cebuano</trName></name>
+      <name><languageId>ka</languageId><trName>სებუანო</trName></name>
+      <name><languageId>kab</languageId><trName>Tacibwanit</trName></name>
+      <name><languageId>kea</languageId><trName>sebuanu</trName></name>
+      <name><languageId>kk</languageId><trName>себуано тілі</trName></name>
+      <name><languageId>km</languageId><trName>ស៊ីប៊ូអាណូ</trName></name>
+      <name><languageId>kn</languageId><trName>ಸೆಬುವಾನೊ</trName></name>
+      <name><languageId>ko</languageId><trName>세부아노어</trName></name>
+      <name><languageId>kok</languageId><trName>सेबुआनो</trName></name>
+      <name><languageId>ks</languageId><trName>سیباونو</trName></name>
+      <name><languageId>ksh</languageId><trName>Zebuwahnesch</trName></name>
+      <name><languageId>ku</languageId><trName>sebwanoyî</trName></name>
+      <name><languageId>ky</languageId><trName>себуанча</trName></name>
+      <name><languageId>lb</languageId><trName>Cebuano</trName></name>
+      <name><languageId>lij</languageId><trName>cebuano</trName></name>
+      <name><languageId>lo</languageId><trName>ຊີບູໂນ</trName></name>
+      <name><languageId>lt</languageId><trName>sebuanų</trName></name>
+      <name><languageId>lv</languageId><trName>sebuāņu</trName></name>
+      <name><languageId>mai</languageId><trName>सेबुयानो</trName></name>
+      <name><languageId>mi</languageId><trName>Hepuano</trName></name>
+      <name><languageId>mk</languageId><trName>себуански</trName></name>
+      <name><languageId>ml</languageId><trName>സെബുവാനോ</trName></name>
+      <name><languageId>mn</languageId><trName>себуано</trName></name>
+      <name><languageId>mr</languageId><trName>सिबुआनो</trName></name>
+      <name><languageId>ms</languageId><trName>Cebuano</trName></name>
+      <name><languageId>mt</languageId><trName>Cebuano</trName></name>
+      <name><languageId>my</languageId><trName>စီဗူအာနို</trName></name>
+      <name><languageId>nds</languageId><trName>Cebuano</trName></name>
+      <name><languageId>ne</languageId><trName>सेबुआनो</trName></name>
+      <name><languageId>nl</languageId><trName>Cebuano</trName></name>
+      <name><languageId>no</languageId><trName>cebuano</trName></name>
+      <name><languageId>nqo</languageId><trName>ߛߋߓߎߥߊߞߊ߲</trName></name>
+      <name><languageId>oc</languageId><trName>cebuan</trName></name>
+      <name><languageId>or</languageId><trName>ସୀବୁଆନୋ</trName></name>
+      <name><languageId>pa</languageId><trName>ਸੀਬੂਆਨੋ</trName></name>
+      <name><languageId>pl</languageId><trName>cebuański</trName></name>
+      <name><languageId>ps</languageId><trName>سیبوانوي</trName></name>
+      <name><languageId>pt</languageId><trName>cebuano</trName></name>
+      <name><languageId>qu</languageId><trName>Cebuano Simi</trName></name>
+      <name><languageId>rm</languageId><trName>cebuano</trName></name>
+      <name><languageId>ro</languageId><trName>cebuană</trName></name>
+      <name><languageId>ru</languageId><trName>себуано</trName></name>
+      <name><languageId>sat</languageId><trName>ᱥᱤᱵᱩᱣᱟᱱᱳ</trName></name>
+      <name><languageId>sc</languageId><trName>cebuanu</trName></name>
+      <name><languageId>sd</languageId><trName>سبوانو</trName></name>
+      <name><languageId>si</languageId><trName>සෙබුඅනො</trName></name>
+      <name><languageId>sk</languageId><trName>cebuánčina</trName></name>
+      <name><languageId>sl</languageId><trName>sebuanščina</trName></name>
+      <name><languageId>smn</languageId><trName>cebuanokielâ</trName></name>
+      <name><languageId>so</languageId><trName>Sebuano</trName></name>
+      <name><languageId>sq</languageId><trName>sebuanisht</trName></name>
+      <name><languageId>sr</languageId><trName>себуански</trName></name>
+      <name><languageId>sr_Latn</languageId><trName>sebuanski</trName></name>
+      <name><languageId>sv</languageId><trName>cebuano</trName></name>
+      <name><languageId>sw</languageId><trName>Kichebuano</trName></name>
+      <name><languageId>szl</languageId><trName>cebuano</trName></name>
+      <name><languageId>ta</languageId><trName>செபுவானோ</trName></name>
+      <name><languageId>te</languageId><trName>సెబువానో</trName></name>
+      <name><languageId>tg</languageId><trName>себуано</trName></name>
+      <name><languageId>th</languageId><trName>เซบู</trName></name>
+      <name><languageId>ti</languageId><trName>ሰብዋኖ</trName></name>
+      <name><languageId>tk</languageId><trName>sebuan dili</trName></name>
+      <name><languageId>to</languageId><trName>lea fakasepuano</trName></name>
+      <name><languageId>tr</languageId><trName>Sebuano dili</trName></name>
+      <name><languageId>tt</languageId><trName>себуано</trName></name>
+      <name><languageId>ug</languageId><trName>سېبۇچە</trName></name>
+      <name><languageId>uk</languageId><trName>себуанська</trName></name>
+      <name><languageId>ur</languageId><trName>سیبوآنو</trName></name>
+      <name><languageId>uz</languageId><trName>sebuan</trName></name>
+      <name><languageId>vi</languageId><trName>Tiếng Cebuano</trName></name>
+      <name><languageId>wo</languageId><trName>Sibiyanoo</trName></name>
+      <name><languageId>yi</languageId><trName>סעבואַניש</trName></name>
+      <name><languageId>yo</languageId><trName>Èdè Cebuano</trName></name>
+      <name><languageId>yue</languageId><trName>宿霧文</trName></name>
+      <name><languageId>zh</languageId><trName>宿务语</trName></name>
+      <name><languageId>zh_Hant</languageId><trName>宿霧文</trName></name>
+      <name><languageId>zu</languageId><trName>isi-Cebuano</trName></name>
+    </names>
+    <scripts>
+      <script><scriptId>Latn</scriptId><rank>999</rank></script>
+      <script><scriptId>Tglg</scriptId><rank>1</rank></script>
+    </scripts>
+    <locales>
+    </locales>
+    <territories>
+      <territory><territoryId>PH</territoryId><rank>1000</rank></territory>
+    </territories>
+    <keyboards>
+      <keyboard><keyboardId>ph</keyboardId><rank>1000</rank></keyboard>
+    </keyboards>
+    <inputmethods>
+    </inputmethods>
+    <consolefonts>
+      <consolefont><consolefontId>eurlatgr</consolefontId><rank>1000</rank></consolefont>
+    </consolefonts>
+    <timezones>
+      <timezone><timezoneId>Asia/Manila</timezoneId><rank>1000</rank></timezone>
     </timezones>
   </language>
   <language>
@@ -10207,6 +10372,7 @@
       <name><languageId>ca</languageId><trName>alemany</trName></name>
       <name><languageId>ccp</languageId><trName>𑄎𑄢𑄴𑄟𑄚𑄴</trName></name>
       <name><languageId>ce</languageId><trName>немцойн</trName></name>
+      <name><languageId>ceb</languageId><trName>German</trName></name>
       <name><languageId>cgg</languageId><trName>Orugirimaani</trName></name>
       <name><languageId>chr</languageId><trName>ᏙᎢᏥ</trName></name>
       <name><languageId>ckb</languageId><trName>ئەڵمانی</trName></name>
@@ -12206,6 +12372,7 @@
       <name><languageId>ca_ES_VALENCIA</languageId><trName>anglés</trName></name>
       <name><languageId>ccp</languageId><trName>𑄃𑄨𑄁𑄢𑄨𑄎𑄨</trName></name>
       <name><languageId>ce</languageId><trName>ингалсан</trName></name>
+      <name><languageId>ceb</languageId><trName>English</trName></name>
       <name><languageId>cgg</languageId><trName>Orungyereza</trName></name>
       <name><languageId>chr</languageId><trName>ᎩᎵᏏ</trName></name>
       <name><languageId>ckb</languageId><trName>ئینگلیزی</trName></name>
@@ -12763,6 +12930,7 @@
       <name><languageId>ca</languageId><trName>espanyol</trName></name>
       <name><languageId>ccp</languageId><trName>𑄥𑄳𑄛𑄳𑄠𑄚𑄨𑄌𑄴</trName></name>
       <name><languageId>ce</languageId><trName>испанхойн</trName></name>
+      <name><languageId>ceb</languageId><trName>Espanyol</trName></name>
       <name><languageId>cgg</languageId><trName>Orusupaani</trName></name>
       <name><languageId>chr</languageId><trName>ᏍᏆᏂ</trName></name>
       <name><languageId>ckb</languageId><trName>ئیسپانی</trName></name>
@@ -14926,6 +15094,7 @@
       <name><languageId>ca_ES_VALENCIA</languageId><trName>francés</trName></name>
       <name><languageId>ccp</languageId><trName>𑄜𑄧𑄢𑄥𑄨</trName></name>
       <name><languageId>ce</languageId><trName>французийн</trName></name>
+      <name><languageId>ceb</languageId><trName>Pranses</trName></name>
       <name><languageId>cgg</languageId><trName>Orufaransa</trName></name>
       <name><languageId>chr</languageId><trName>ᎦᎸᏥ</trName></name>
       <name><languageId>ckb</languageId><trName>فەرەنسی</trName></name>
@@ -18015,6 +18184,7 @@
       <name><languageId>ca</languageId><trName>hindi</trName></name>
       <name><languageId>ccp</languageId><trName>𑄦𑄨𑄚𑄴𑄓𑄨</trName></name>
       <name><languageId>ce</languageId><trName>хӀинди</trName></name>
+      <name><languageId>ceb</languageId><trName>Hindi</trName></name>
       <name><languageId>cgg</languageId><trName>Oruhindi</trName></name>
       <name><languageId>chr</languageId><trName>ᎯᏂᏗ</trName></name>
       <name><languageId>ckb</languageId><trName>هیندی</trName></name>
@@ -19970,6 +20140,7 @@
       <name><languageId>ca</languageId><trName>indonesi</trName></name>
       <name><languageId>ccp</languageId><trName>𑄃𑄨𑄚𑄴𑄘𑄮𑄚𑄬𑄥𑄨𑄠𑄧</trName></name>
       <name><languageId>ce</languageId><trName>индонезихойн</trName></name>
+      <name><languageId>ceb</languageId><trName>Indonesian</trName></name>
       <name><languageId>cgg</languageId><trName>Oruindonezia</trName></name>
       <name><languageId>chr</languageId><trName>ᎢᏂᏙᏂᏏᎠ</trName></name>
       <name><languageId>ckb</languageId><trName>ئیندۆنیزی</trName></name>
@@ -21348,6 +21519,7 @@
       <name><languageId>ca</languageId><trName>italià</trName></name>
       <name><languageId>ccp</languageId><trName>𑄃𑄨𑄖𑄣𑄩𑄠𑄧</trName></name>
       <name><languageId>ce</languageId><trName>итальянийн</trName></name>
+      <name><languageId>ceb</languageId><trName>Italiano</trName></name>
       <name><languageId>cgg</languageId><trName>Oruyitare</trName></name>
       <name><languageId>chr</languageId><trName>ᎬᏩᎵᏲᏥᎢ</trName></name>
       <name><languageId>ckb</languageId><trName>ئیتالی</trName></name>
@@ -21830,6 +22002,7 @@
       <name><languageId>ca_ES_VALENCIA</languageId><trName>japonés</trName></name>
       <name><languageId>ccp</languageId><trName>𑄎𑄛𑄚𑄨</trName></name>
       <name><languageId>ce</languageId><trName>японийн</trName></name>
+      <name><languageId>ceb</languageId><trName>Hinapon</trName></name>
       <name><languageId>cgg</languageId><trName>Orujapaani</trName></name>
       <name><languageId>chr</languageId><trName>ᏣᏩᏂᏏ</trName></name>
       <name><languageId>ckb</languageId><trName>ژاپۆنی</trName></name>
@@ -25285,6 +25458,7 @@
       <name><languageId>ca</languageId><trName>coreà</trName></name>
       <name><languageId>ccp</languageId><trName>𑄇𑄮𑄢𑄨𑄠𑄚𑄴</trName></name>
       <name><languageId>ce</languageId><trName>корейн</trName></name>
+      <name><languageId>ceb</languageId><trName>Korean</trName></name>
       <name><languageId>cgg</languageId><trName>Orukoreya</trName></name>
       <name><languageId>chr</languageId><trName>ᎪᎵᎠᏂ</trName></name>
       <name><languageId>ckb</languageId><trName>كۆری</trName></name>
@@ -35800,6 +35974,7 @@
       <name><languageId>ca_ES_VALENCIA</languageId><trName>neerlandés</trName></name>
       <name><languageId>ccp</languageId><trName>𑄓𑄌𑄴</trName></name>
       <name><languageId>ce</languageId><trName>голландхойн</trName></name>
+      <name><languageId>ceb</languageId><trName>Dutch</trName></name>
       <name><languageId>cgg</languageId><trName>Orudaaki</trName></name>
       <name><languageId>chr</languageId><trName>ᏛᏥ</trName></name>
       <name><languageId>ckb</languageId><trName>هۆڵەندی</trName></name>
@@ -39130,6 +39305,7 @@
       <name><languageId>ca_ES_VALENCIA</languageId><trName>polonés</trName></name>
       <name><languageId>ccp</languageId><trName>𑄛𑄮𑄣𑄨𑄌𑄴</trName></name>
       <name><languageId>ce</languageId><trName>полякийн</trName></name>
+      <name><languageId>ceb</languageId><trName>Polish</trName></name>
       <name><languageId>cgg</languageId><trName>Orupoori</trName></name>
       <name><languageId>chr</languageId><trName>ᏉᎵᏍ</trName></name>
       <name><languageId>ckb</languageId><trName>پۆڵەندی</trName></name>
@@ -39716,6 +39892,7 @@
       <name><languageId>ca_ES_VALENCIA</languageId><trName>portugués</trName></name>
       <name><languageId>ccp</languageId><trName>𑄛𑄧𑄢𑄴𑄖𑄪𑄉𑄨𑄎𑄴</trName></name>
       <name><languageId>ce</languageId><trName>португалихойн</trName></name>
+      <name><languageId>ceb</languageId><trName>Portuguese</trName></name>
       <name><languageId>cgg</languageId><trName>Orupocugo</trName></name>
       <name><languageId>chr</languageId><trName>ᏉᏧᎩᏍ</trName></name>
       <name><languageId>ckb</languageId><trName>پورتوگالی</trName></name>
@@ -41321,6 +41498,7 @@
       <name><languageId>ca</languageId><trName>rus</trName></name>
       <name><languageId>ccp</languageId><trName>𑄢𑄪𑄌𑄴</trName></name>
       <name><languageId>ce</languageId><trName>оьрсийн</trName></name>
+      <name><languageId>ceb</languageId><trName>Russian</trName></name>
       <name><languageId>cgg</languageId><trName>Orurrasha</trName></name>
       <name><languageId>chr</languageId><trName>ᏲᏅᎯ</trName></name>
       <name><languageId>ckb</languageId><trName>ڕووسی</trName></name>
@@ -49520,6 +49698,7 @@
       <name><languageId>ca_ES_VALENCIA</languageId><trName>tailandés</trName></name>
       <name><languageId>ccp</languageId><trName>𑄗𑄭</trName></name>
       <name><languageId>ce</languageId><trName>тайн</trName></name>
+      <name><languageId>ceb</languageId><trName>Thai</trName></name>
       <name><languageId>cgg</languageId><trName>Orutailandi</trName></name>
       <name><languageId>chr</languageId><trName>ᏔᏱ</trName></name>
       <name><languageId>ckb</languageId><trName>تایلەندی</trName></name>
@@ -51070,6 +51249,7 @@
       <name><languageId>ca</languageId><trName>turc</trName></name>
       <name><languageId>ccp</languageId><trName>𑄖𑄪𑄢𑄴𑄇𑄩</trName></name>
       <name><languageId>ce</languageId><trName>туркойн</trName></name>
+      <name><languageId>ceb</languageId><trName>Turkish</trName></name>
       <name><languageId>cgg</languageId><trName>Orukuruki</trName></name>
       <name><languageId>chr</languageId><trName>ᎠᎬᎾ</trName></name>
       <name><languageId>ckb</languageId><trName>تورکی</trName></name>
@@ -57036,6 +57216,7 @@
       <name><languageId>ca_ES_VALENCIA</languageId><trName>xinés</trName></name>
       <name><languageId>ccp</languageId><trName>𑄌𑄩𑄚</trName></name>
       <name><languageId>ce</languageId><trName>цийн</trName></name>
+      <name><languageId>ceb</languageId><trName>Inintsik</trName></name>
       <name><languageId>cgg</languageId><trName>Oruchaina</trName></name>
       <name><languageId>chr</languageId><trName>ᏓᎶᏂᎨ</trName></name>
       <name><languageId>ckb</languageId><trName>چینی</trName></name>
@@ -57313,6 +57494,7 @@
       <name><languageId>ca</languageId><trName>xinès mandarí (simplificat)</trName></name>
       <name><languageId>ccp</languageId><trName>𑄅𑄪𑄎𑄪𑄅𑄪𑄏𑄫 𑄌𑄩𑄚</trName></name>
       <name><languageId>ce</languageId><trName>атта цийн</trName></name>
+      <name><languageId>ceb</languageId><trName>Pinasimpleng Mandarin Chinese</trName></name>
       <name><languageId>chr</languageId><trName>ᎠᎯᏗᎨ ᎹᏓᏈᏂ ᏓᎶᏂᎨ</trName></name>
       <name><languageId>ckb</languageId><trName>چینی (چینیی ئاسانکراو)</trName></name>
       <name><languageId>co</languageId><trName>mandarinu simplificatu</trName></name>
@@ -57574,6 +57756,7 @@
       <name><languageId>ca</languageId><trName>xinès mandarí (tradicional)</trName></name>
       <name><languageId>ccp</languageId><trName>𑄢𑄨𑄘𑄨𑄥𑄪𑄘𑄮𑄟𑄴 𑄌𑄩𑄚</trName></name>
       <name><languageId>ce</languageId><trName>ламастан цийн</trName></name>
+      <name><languageId>ceb</languageId><trName>Tradisyonal nga Mandarin Chinese</trName></name>
       <name><languageId>chr</languageId><trName>ᎤᏦᏍᏗ ᎹᏓᏈᏂ ᏓᎶᏂᎨ</trName></name>
       <name><languageId>ckb</languageId><trName>چینی (چینیی دێرین)</trName></name>
       <name><languageId>co</languageId><trName>mandarinu tradiziunale</trName></name>
