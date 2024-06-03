@@ -8664,6 +8664,41 @@
     </timezones>
   </language>
   <language>
+    <languageId>cic</languageId>
+    <iso639-1>None</iso639-1>
+    <iso639-2-t>None</iso639-2-t>
+    <iso639-2-b>None</iso639-2-b>
+    <names>
+      <name><languageId>bew</languageId><trName>Cikaso</trName></name>
+      <name><languageId>cic</languageId><trName>Chikashshanompaʼ</trName></name>
+      <name><languageId>de</languageId><trName>Chickasaw</trName></name>
+      <name><languageId>en</languageId><trName>Chickasaw</trName></name>
+      <name><languageId>et</languageId><trName>tšikasoo</trName></name>
+      <name><languageId>fi</languageId><trName>chickasaw</trName></name>
+      <name><languageId>ku</languageId><trName>çîkasawî</trName></name>
+      <name><languageId>zh</languageId><trName>奇克索语</trName></name>
+    </names>
+    <scripts>
+      <script><scriptId>Latn</scriptId><rank>1000</rank></script>
+    </scripts>
+    <locales>
+    </locales>
+    <territories>
+      <territory><territoryId>US</territoryId><rank>1000</rank></territory>
+    </territories>
+    <keyboards>
+      <keyboard><keyboardId>us</keyboardId><rank>1000</rank></keyboard>
+    </keyboards>
+    <inputmethods>
+    </inputmethods>
+    <consolefonts>
+      <consolefont><consolefontId>eurlatgr</consolefontId><rank>1000</rank></consolefont>
+    </consolefonts>
+    <timezones>
+      <timezone><timezoneId>America/Chicago</timezoneId><rank>900</rank></timezone>
+    </timezones>
+  </language>
+  <language>
     <languageId>ckb</languageId>
     <iso639-1>None</iso639-1>
     <iso639-2-t>None</iso639-2-t>
