@@ -9654,6 +9654,143 @@
     </timezones>
   </language>
   <language>
+    <languageId>csw</languageId>
+    <iso639-1>None</iso639-1>
+    <iso639-2-t>None</iso639-2-t>
+    <iso639-2-b>None</iso639-2-b>
+    <names>
+      <name><languageId>af</languageId><trName>Swampy Cree</trName></name>
+      <name><languageId>am</languageId><trName>ስዋምፒ ክሪ</trName></name>
+      <name><languageId>ar</languageId><trName>السوامبي-كري</trName></name>
+      <name><languageId>as</languageId><trName>স্বাম্পী ক্ৰী</trName></name>
+      <name><languageId>az</languageId><trName>bataqlıq kricəsi</trName></name>
+      <name><languageId>be</languageId><trName>балотная кры</trName></name>
+      <name><languageId>bew</languageId><trName>Kri Rawa</trName></name>
+      <name><languageId>bg</languageId><trName>суампи крий</trName></name>
+      <name><languageId>bn</languageId><trName>সোয়াম্পি ক্রী</trName></name>
+      <name><languageId>br</languageId><trName>krieg ar gwernioù</trName></name>
+      <name><languageId>brx</languageId><trName>स्वाम्पी क्री</trName></name>
+      <name><languageId>bs</languageId><trName>močvarni kri</trName></name>
+      <name><languageId>ca</languageId><trName>swampy cree</trName></name>
+      <name><languageId>chr</languageId><trName>ᏌᎷᏱ Ꮯ</trName></name>
+      <name><languageId>cs</languageId><trName>kríjština (z bažin)</trName></name>
+      <name><languageId>csw</languageId><trName>ᓀᐦᐃᓇᐍᐏᐣ</trName></name>
+      <name><languageId>cy</languageId><trName>Swampy Cree</trName></name>
+      <name><languageId>da</languageId><trName>swampy cree</trName></name>
+      <name><languageId>de</languageId><trName>Swampy Cree</trName></name>
+      <name><languageId>dsb</languageId><trName>swampy creešćina</trName></name>
+      <name><languageId>el</languageId><trName>Κρι Βάλτου</trName></name>
+      <name><languageId>en</languageId><trName>Swampy Cree</trName></name>
+      <name><languageId>eo</languageId><trName>kria marĉa</trName></name>
+      <name><languageId>es</languageId><trName>cree de los pantanos</trName></name>
+      <name><languageId>et</languageId><trName>sookrii</trName></name>
+      <name><languageId>eu</languageId><trName>zingiretako creera</trName></name>
+      <name><languageId>fa</languageId><trName>کری سوامپی</trName></name>
+      <name><languageId>fi</languageId><trName>swampy cree</trName></name>
+      <name><languageId>fil</languageId><trName>Latian na Cree</trName></name>
+      <name><languageId>fr</languageId><trName>cri des marais</trName></name>
+      <name><languageId>ga</languageId><trName>Swampy Cree</trName></name>
+      <name><languageId>gd</languageId><trName>Omushkego</trName></name>
+      <name><languageId>gl</languageId><trName>cree dos pantanos</trName></name>
+      <name><languageId>gu</languageId><trName>સ્વેમ્પી ક્રી</trName></name>
+      <name><languageId>ha</languageId><trName>Swampy Cree</trName></name>
+      <name><languageId>he</languageId><trName>קרי של אזור הביצות</trName></name>
+      <name><languageId>hi</languageId><trName>स्वॉम्पी क्री</trName></name>
+      <name><languageId>hr</languageId><trName>močvarni cree</trName></name>
+      <name><languageId>hsb</languageId><trName>swampy creešćina</trName></name>
+      <name><languageId>hu</languageId><trName>mocsári krí</trName></name>
+      <name><languageId>hy</languageId><trName>ճահճի քրի</trName></name>
+      <name><languageId>ia</languageId><trName>cree del paludes</trName></name>
+      <name><languageId>id</languageId><trName>Cree Rawa</trName></name>
+      <name><languageId>ie</languageId><trName>paludan cree</trName></name>
+      <name><languageId>ig</languageId><trName>Swampi kree</trName></name>
+      <name><languageId>is</languageId><trName>maskekon</trName></name>
+      <name><languageId>it</languageId><trName>cree delle paludi</trName></name>
+      <name><languageId>ja</languageId><trName>湿原クリー語</trName></name>
+      <name><languageId>jv</languageId><trName>Kree Rawa</trName></name>
+      <name><languageId>ka</languageId><trName>ჭაობის კრი</trName></name>
+      <name><languageId>kk</languageId><trName>батпақты жердің кри тілі</trName></name>
+      <name><languageId>km</languageId><trName>គ្រីតំបន់ភក់ល្បាប់</trName></name>
+      <name><languageId>kn</languageId><trName>ಸ್ವಾಂಪಿ ಕ್ರೀ</trName></name>
+      <name><languageId>ko</languageId><trName>습지 크리어</trName></name>
+      <name><languageId>kok</languageId><trName>स्वॉम्पी क्री</trName></name>
+      <name><languageId>ku</languageId><trName>kriya swampî</trName></name>
+      <name><languageId>ky</languageId><trName>суампи криче (индей тили)</trName></name>
+      <name><languageId>lij</languageId><trName>cree de smeugge</trName></name>
+      <name><languageId>lo</languageId><trName>ຊວາມປີຄຣີ</trName></name>
+      <name><languageId>lt</languageId><trName>pelkynų kri</trName></name>
+      <name><languageId>lv</languageId><trName>purvu krī</trName></name>
+      <name><languageId>mai</languageId><trName>स्वम्पी क्री</trName></name>
+      <name><languageId>mi</languageId><trName>Wāpi Kirī</trName></name>
+      <name><languageId>mk</languageId><trName>мочуришен кријски</trName></name>
+      <name><languageId>ml</languageId><trName>സ്വാംപി ക്രീ</trName></name>
+      <name><languageId>mn</languageId><trName>свампи кри</trName></name>
+      <name><languageId>mr</languageId><trName>स्वॅम्पी क्री</trName></name>
+      <name><languageId>ms</languageId><trName>Swampy Cree</trName></name>
+      <name><languageId>my</languageId><trName>ဆွမ်ပီ ခရီ</trName></name>
+      <name><languageId>ne</languageId><trName>स्वाम्पी क्री</trName></name>
+      <name><languageId>nl</languageId><trName>Swampy Cree</trName></name>
+      <name><languageId>no</languageId><trName>myr-cree</trName></name>
+      <name><languageId>or</languageId><trName>ସ୍ୱାମ୍ପି କ୍ରି</trName></name>
+      <name><languageId>pa</languageId><trName>ਸਵੈਂਪੀ ਕ੍ਰੀ</trName></name>
+      <name><languageId>pl</languageId><trName>kri bagienny</trName></name>
+      <name><languageId>ps</languageId><trName>سومپی کری</trName></name>
+      <name><languageId>pt</languageId><trName>cree swampy</trName></name>
+      <name><languageId>qu</languageId><trName>Swampy Cree Simi</trName></name>
+      <name><languageId>ro</languageId><trName>cree (Mlaștini)</trName></name>
+      <name><languageId>ru</languageId><trName>болотный кри</trName></name>
+      <name><languageId>sat</languageId><trName>ᱥᱣᱟᱢᱯᱤ ᱠᱨᱤ</trName></name>
+      <name><languageId>sc</languageId><trName>cree de sas paludes</trName></name>
+      <name><languageId>sd</languageId><trName>سوامپي ڪري</trName></name>
+      <name><languageId>si</languageId><trName>මඩ වගුරු ක්‍රී</trName></name>
+      <name><languageId>sk</languageId><trName>swampy cree</trName></name>
+      <name><languageId>sl</languageId><trName>močvirska krijščina</trName></name>
+      <name><languageId>so</languageId><trName>Swampy Cree</trName></name>
+      <name><languageId>sq</languageId><trName>krijishte e moçaleve (Ontario)</trName></name>
+      <name><languageId>sr</languageId><trName>мочварни кри</trName></name>
+      <name><languageId>sr_Latn</languageId><trName>močvarni kri</trName></name>
+      <name><languageId>sv</languageId><trName>träskcree</trName></name>
+      <name><languageId>sw</languageId><trName>Kiomushkego</trName></name>
+      <name><languageId>ta</languageId><trName>சதுப்பு நில க்ரீ</trName></name>
+      <name><languageId>te</languageId><trName>స్వాంపీ క్రీ</trName></name>
+      <name><languageId>th</languageId><trName>สวอมปีครี</trName></name>
+      <name><languageId>ti</languageId><trName>ክሪ ረግረግ</trName></name>
+      <name><languageId>tk</languageId><trName>batgalyk kri dili</trName></name>
+      <name><languageId>to</languageId><trName>lea fakakilī-ano</trName></name>
+      <name><languageId>tr</languageId><trName>Bataklık Kricesi</trName></name>
+      <name><languageId>uk</languageId><trName>свампі-крі</trName></name>
+      <name><languageId>ur</languageId><trName>سوامپی کری</trName></name>
+      <name><languageId>uz</languageId><trName>botqoq kri</trName></name>
+      <name><languageId>vi</languageId><trName>Tiếng Swampy Cree</trName></name>
+      <name><languageId>yo</languageId><trName>Èdè Swampi Kri</trName></name>
+      <name><languageId>yue</languageId><trName>沼澤克里文</trName></name>
+      <name><languageId>zh</languageId><trName>沼泽克里语</trName></name>
+      <name><languageId>zh_Hant</languageId><trName>沼澤克里文</trName></name>
+      <name><languageId>zu</languageId><trName>Swampy Cree</trName></name>
+    </names>
+    <scripts>
+      <script><scriptId>Cans</scriptId><rank>900</rank></script>
+      <script><scriptId>Latn</scriptId><rank>100</rank></script>
+    </scripts>
+    <locales>
+    </locales>
+    <territories>
+      <territory><territoryId>CA</territoryId><rank>1000</rank></territory>
+    </territories>
+    <keyboards>
+      <keyboard><keyboardId>ca(eng)</keyboardId><rank>500</rank></keyboard>
+      <keyboard><keyboardId>ca</keyboardId><rank>250</rank></keyboard>
+    </keyboards>
+    <inputmethods>
+    </inputmethods>
+    <consolefonts>
+      <consolefont><consolefontId>eurlatgr</consolefontId><rank>1000</rank></consolefont>
+    </consolefonts>
+    <timezones>
+      <timezone><timezoneId>America/Winnipeg</timezoneId><rank>900</rank></timezone>
+    </timezones>
+  </language>
+  <language>
     <languageId>cu</languageId>
     <iso639-1>cu</iso639-1>
     <iso639-2-t>chu</iso639-2-t>
@@ -12566,6 +12703,7 @@
       <name><languageId>ckb</languageId><trName>ئینگلیزی</trName></name>
       <name><languageId>co</languageId><trName>inglese</trName></name>
       <name><languageId>cs</languageId><trName>angličtina</trName></name>
+      <name><languageId>csw</languageId><trName>ᐊᑲᓇᓯᒧᐏᐣ</trName></name>
       <name><languageId>cu</languageId><trName>а҆нглі́йскїй</trName></name>
       <name><languageId>cv</languageId><trName>акӑлчан</trName></name>
       <name><languageId>cy</languageId><trName>Saesneg</trName></name>
