@@ -13,96 +13,104 @@
 # You should have received a copy of the GNU General Public License
 # along with this program.  If not, see <http://www.gnu.org/licenses/>
 
-######################################################################
-# Public API:
-#
-#     parse_locale()
-#     list_locales()
-#     list_keyboards()
-#     list_common_languages()
-#     list_common_locales()
-#     list_common_keyboards()
-#     list_consolefonts()
-#     list_inputmethods()
-#     list_timezones()
-#     list_scripts()
-#     language_name()
-#     territory_name()
-#     timezone_name()
-#     languageId()
-#     territoryId()
-#     supports_ascii()
-#     list_all_languages()
-#     list_all_locales()
-#     list_all_keyboards()
-#     list_all_territories()
-#     list_all_timezones()
-#     list_all_scripts()
-#     list_all_input_methods()
-#     list_all_console_fonts()
-#
-# These are the functions which do not start with an “_” in their name.
-# All global functions and global variables whose name starts with an
-# “_” are internal and should not be used by a user of langtable.py.
-#
-# Many of the above public functions have named parameters like
-#
-#    languageId
-#    scriptId
-#    territoryId
-#
-# and
-#
-#    languageIdQuery
-#    scriptIdQuery
-#    territoryIdQuery
-#
-# languageId and languageIdQuery may contain a full locale name,
-# specifying the script and the territory as well.
-#
-# For example:
-#
-#     language_name(languageId="sr_Latn_RS")
-#
-# behaves the same as
-#
-#     language_name(languageId="sr", scriptId="Latn", territoryId="RS")
-#
-# If languageId contains a script or a territory, the values found there
-# are preferred over those given as extra parameters. For example:
-#
-#     language_name(languageId="sr_Latn_RS", scriptId="Cyrl", territoryId="ME")
-#
-# behaves the same as
-#
-#     language_name(languageId="sr", scriptId="Latn", territoryId="RS")
-#
-# scriptId="Cyrl" and territoryId="ME" are overridden by the values found
-# in languageId.
-#
-# It is also possible to put a full locale name in the spelling used by glibc
-# into languageId. For example:
-#
-#     language_name(languageId="sr_RS.utf8@latin")
-#
-# or
-#
-#     language_name(languageId="sr_RS.UTF-8@latin")
-#
-# also behave the same as:
-#
-#     language_name(languageId="sr_Latn_RS")
-#
-# which is the same as:
-#
-#     language_name(languageId="sr", scriptId="Latn", territoryId="RS")
-#
-# langtable always parses languageId, cuts out the encoding and translates
-# script names in glibc spelling like "latin" to the official
-# ISO 15924 script codes, see: https://en.wikipedia.org/wiki/ISO_15924
-#
-######################################################################
+'''
+Guessing reasonable defaults for locale, keyboard layout, territory, and language.
 
+langtable is used to guess reasonable defaults for locale, keyboard,
+territory, …, if part of that information is already known. For example,
+guess the territory and the keyboard layout if the language is known or guess
+the language and keyboard layout if the territory is already known.
+
+Public API:
+
+    parse_locale()
+    list_locales()
+    list_keyboards()
+    list_common_languages()
+    list_common_locales()
+    list_common_keyboards()
+    list_consolefonts()
+    list_inputmethods()
+    list_timezones()
+    list_scripts()
+    language_name()
+    territory_name()
+    timezone_name()
+    languageId()
+    territoryId()
+    supports_ascii()
+    list_all_languages()
+    list_all_locales()
+    list_all_keyboards()
+    list_all_territories()
+    list_all_timezones()
+    list_all_scripts()
+    list_all_input_methods()
+    list_all_console_fonts()
+
+These are the functions which do not start with an “_” in their name.
+All global functions and global variables whose name starts with an
+“_” are internal and should not be used by a user of langtable.py.
+
+Many of the above public functions have named parameters like
+
+   languageId
+   scriptId
+   territoryId
+
+and
+
+   languageIdQuery
+   scriptIdQuery
+   territoryIdQuery
+
+languageId and languageIdQuery may contain a full locale name,
+specifying the script and the territory as well.
+
+For example:
+
+    language_name(languageId="sr_Latn_RS")
+
+behaves the same as
+
+    language_name(languageId="sr", scriptId="Latn", territoryId="RS")
+
+If languageId contains a script or a territory, the values found there
+are preferred over those given as extra parameters. For example:
+
+    language_name(languageId="sr_Latn_RS", scriptId="Cyrl", territoryId="ME")
+
+behaves the same as
+
+    language_name(languageId="sr", scriptId="Latn", territoryId="RS")
+
+scriptId="Cyrl" and territoryId="ME" are overridden by the values found
+in languageId.
+
+It is also possible to put a full locale name in the spelling used by glibc
+into languageId. For example:
+
+    language_name(languageId="sr_RS.utf8@latin")
+
+or
+
+    language_name(languageId="sr_RS.UTF-8@latin")
+
+also behave the same as:
+
+    language_name(languageId="sr_Latn_RS")
+
+which is the same as:
+
+    language_name(languageId="sr", scriptId="Latn", territoryId="RS")
+
+langtable always parses languageId, cuts out the encoding and translates
+script names in glibc spelling like "latin" to the official
+ISO 15924 script codes, see: https://en.wikipedia.org/wiki/ISO_15924
+'''
+
+# pylint: disable=invalid-name
+# pylint: disable=redefined-outer-name
 from typing import List
 from typing import Dict
 import os
@@ -168,7 +176,8 @@ _keyboards_db = {}
 _timezones_db = {}
 _timezoneIdParts_db = {}
 
-class territory_db_item:
+class territory_db_item: # pylint: disable=too-few-public-methods
+    '''Holds information for one territory'''
     def __init__(self, names = None, scripts=None, locales=None, languages=None, keyboards=None, inputmethods=None, consolefonts=None, timezones=None):
         self.names = names
         self.scripts = scripts
@@ -179,7 +188,8 @@ class territory_db_item:
         self.consolefonts = consolefonts
         self.timezones = timezones
 
-class language_db_item:
+class language_db_item: # pylint: disable=too-few-public-methods
+    '''Holds information for one language'''
     def __init__(self, iso639_1=None, iso639_2_t=None, iso639_2_b=None, names=None, scripts=None, locales=None, territories=None, keyboards=None, inputmethods=None, consolefonts=None, timezones=None):
         self.iso639_1 = iso639_1
         self.iso639_2_t = iso639_2_t
@@ -193,7 +203,8 @@ class language_db_item:
         self.consolefonts = consolefonts
         self.timezones = timezones
 
-class keyboard_db_item:
+class keyboard_db_item: # pylint: disable=too-few-public-methods
+    '''Holds information for one keyboard layout'''
     def __init__(self, description=None, ascii=True, languages=None, territories = None, comment=None):
         self.description = description
         self.ascii  = ascii
@@ -201,11 +212,13 @@ class keyboard_db_item:
         self.languages = languages
         self.territories = territories
 
-class timezone_db_item:
+class timezone_db_item: # pylint: disable=too-few-public-methods
+    '''Holds information for one timezone'''
     def __init__(self, names=None):
         self.names = names
 
-class timezoneIdPart_db_item:
+class timezoneIdPart_db_item: # pylint: disable=too-few-public-methods
+    '''Holds information for one timezone part'''
     def __init__(self, names=None):
         self.names = names
 
@@ -220,6 +233,7 @@ class LangtableContentHandler(ContentHandler):
     """
 
     def __init__(self):
+        super().__init__()
         # internal attribute used to set where the upcoming text data should be
         # stored
         self._save_to = None
@@ -266,14 +280,14 @@ class TerritoriesContentHandler(LangtableContentHandler):
 
     def startElement(self, name, attrs):
         if name == "territory":
-            self._names = dict()
-            self._scripts = dict()
-            self._locales = dict()
-            self._languages = dict()
-            self._keyboards = dict()
-            self._inputmethods = dict()
-            self._consolefonts = dict()
-            self._timezones = dict()
+            self._names = {}
+            self._scripts = {}
+            self._locales = {}
+            self._languages = {}
+            self._keyboards = {}
+            self._inputmethods = {}
+            self._consolefonts = {}
+            self._timezones = {}
 
         # non-dict values
         elif name == "territoryId":
@@ -368,8 +382,8 @@ class KeyboardsContentHandler(LangtableContentHandler):
 
     def startElement(self, name, attrs):
         if name == "keyboard":
-            self._languages = dict()
-            self._territories = dict()
+            self._languages = {}
+            self._territories = {}
 
         # non-dict values
         elif name == "keyboardId":
@@ -452,14 +466,14 @@ class LanguagesContentHandler(LangtableContentHandler):
 
     def startElement(self, name, attrs):
         if name == "language":
-            self._names = dict()
-            self._scripts = dict()
-            self._locales = dict()
-            self._territories = dict()
-            self._keyboards = dict()
-            self._inputmethods = dict()
-            self._consolefonts = dict()
-            self._timezones = dict()
+            self._names = {}
+            self._scripts = {}
+            self._locales = {}
+            self._territories = {}
+            self._keyboards = {}
+            self._inputmethods = {}
+            self._consolefonts = {}
+            self._timezones = {}
 
         # non-dict values
         elif name == "languageId" and not self._in_names:
@@ -571,7 +585,7 @@ class TimezonesContentHandler(LangtableContentHandler):
 
     def startElement(self, name, attrs):
         if name == "timezone":
-            self._names = dict()
+            self._names = {}
 
         # non-dict values
         elif name == "timezoneId":
@@ -624,7 +638,7 @@ class TimezoneIdPartsContentHandler(LangtableContentHandler):
 
     def startElement(self, name, attrs):
         if name == "timezoneIdPart":
-            self._names = dict()
+            self._names = {}
 
         # non-dict values
         elif name == "timezoneIdPartId":
@@ -743,7 +757,6 @@ def _write_territories_file(file):
         file.write('    </timezones>\n')
         file.write('  </territory>\n')
     file.write('</territories>\n')
-    return
 
 def _write_languages_file(file):
     '''
@@ -831,7 +844,6 @@ def _write_languages_file(file):
         file.write('    </timezones>\n')
         file.write('  </language>\n')
     file.write('</languages>\n')
-    return
 
 def _write_keyboards_file(file):
     '''
@@ -866,7 +878,6 @@ def _write_keyboards_file(file):
         file.write('    </territories>\n')
         file.write('  </keyboard>\n')
     file.write('</keyboards>\n')
-    return
 
 def _write_timezones_file(file):
     '''
@@ -888,7 +899,6 @@ def _write_timezones_file(file):
         file.write('    </names>\n')
         file.write('  </timezone>\n')
     file.write('</timezones>\n')
-    return
 
 def _write_timezoneIdParts_file(file):
     '''
@@ -910,7 +920,6 @@ def _write_timezoneIdParts_file(file):
         file.write('    </names>\n')
         file.write('  </timezoneIdPart>\n')
     file.write('</timezoneIdParts>\n')
-    return
 
 def _expat_parse(file, sax_handler):
     """
@@ -928,20 +937,20 @@ def _read_file(filename, sax_handler):
     '''
     Only for internal use
     '''
-    for dir in (
+    for directory in (
             os.path.join(os.path.dirname(os.path.realpath(__file__)), 'data'),
             os.path.join(_DATADIR, 'data')):
-        path = os.path.join(dir, filename)
+        path = os.path.join(directory, filename)
         if os.path.isfile(path):
             with open(path, mode='rb') as file:
-                logging.info('reading file=%s' %file)
+                logging.info('reading file=%s', file)
                 _expat_parse(file, sax_handler)
                 _INFO['data_files_read'].append(path)
             return
-        path = os.path.join(dir, filename+'.gz')
+        path = os.path.join(directory, filename+'.gz')
         if os.path.isfile(path):
             with gzip.open(path, mode='rb') as file:
-                logging.info('reading file=%s' %file)
+                logging.info('reading file=%s', file)
                 _expat_parse(file, sax_handler)
                 _INFO['data_files_read'].append(path)
             return
@@ -951,31 +960,30 @@ def _write_files(territoriesfilename, languagesfilename, keyboardsfilename, time
     '''
     Only for internal use
     '''
-    with open(territoriesfilename, 'w') as territoriesfile:
-        logging.info("writing territories file=%s" %territoriesfile)
+    with open(territoriesfilename, 'w', encoding='UTF-8') as territoriesfile:
+        logging.info('writing territories file=%s', territoriesfile)
         _write_territories_file(territoriesfile)
-    with open(languagesfilename, 'w') as languagesfile:
-        logging.info("writing languages file=%s" %languagesfile)
+    with open(languagesfilename, 'w', encoding='UTF-8') as languagesfile:
+        logging.info('writing languages file=%s', languagesfile)
         _write_languages_file(languagesfile)
-    with open(keyboardsfilename, 'w') as keyboardsfile:
-        logging.info("writing keyboards file=%s" %keyboardsfile)
+    with open(keyboardsfilename, 'w', encoding='UTF-8') as keyboardsfile:
+        logging.info('writing keyboards file=%s', keyboardsfile)
         _write_keyboards_file(keyboardsfile)
-    with open(keyboardsfilename, 'w') as keyboardsfile:
-        logging.info("writing keyboards file=%s" %keyboardsfile)
+    with open(keyboardsfilename, 'w', encoding='UTF-8') as keyboardsfile:
+        logging.info('writing keyboards file=%s', keyboardsfile)
         _write_keyboards_file(keyboardsfile)
-    with open(timezonesfilename, 'w') as timezonesfile:
-        logging.info("writing timezones file=%s" %timezonesfile)
+    with open(timezonesfilename, 'w', encoding='UTF-8') as timezonesfile:
+        logging.info('writing timezones file=%s', timezonesfile)
         _write_timezones_file(timezonesfile)
-    with open(timezoneidpartsfilename, 'w') as timezoneidpartsfile:
-        logging.info("writing timezoneidparts file=%s" %timezoneidpartsfile)
+    with open(timezoneidpartsfilename, 'w', encoding='UTF-8') as timezoneidpartsfile:
+        logging.info('writing timezoneidparts file=%s', timezoneidpartsfile)
         _write_timezoneIdParts_file(timezoneidpartsfile)
-    return
 
-def _dictionary_to_ranked_list(dict, reverse=True):
+def _dictionary_to_ranked_list(dictionary, reverse=True):
     sorted_list = []
-    for item in sorted(dict, key=lambda x: (dict.get(x), x), reverse=reverse):
-        if dict[item] != 0:
-            sorted_list.append([item, dict[item]])
+    for item in sorted(dictionary, key=lambda x: (dictionary.get(x), x), reverse=reverse):
+        if dictionary[item] != 0:
+            sorted_list.append([item, dictionary[item]])
     return sorted_list
 
 def _ranked_list_to_list(ranked_list):
@@ -990,7 +998,7 @@ def _make_ranked_list_concise(ranked_list, cut_off_factor=1000):
             break
     return ranked_list
 
-def _capitalize_name(text, languageId='', scriptId='', territoryId='', languageIdQuery='', scriptIdQuery='', territoryIdQuery=''):
+def _capitalize_name(text, languageId='', scriptId='', territoryId='', languageIdQuery='', scriptIdQuery='', territoryIdQuery=''): # pylint: disable=unused-argument
     '''
     Title cases the first letter of “text”
 
@@ -1021,7 +1029,7 @@ def _capitalize_name(text, languageId='', scriptId='', territoryId='', languageI
     if not languageIdQuery:
         languageIdQuery = 'en'
     for lang in ('ka', 'nr', 'ss', 'xh', 'yo', 'zu'):
-        if re.match(r'^%s' % lang, languageIdQuery):
+        if re.match(rf'^{lang}', languageIdQuery):
             return text
     return text[0].capitalize() + text[1:]
 
@@ -1183,7 +1191,7 @@ def parse_locale(localeId):
             if match.group('territory'):
                 territory = match.group('territory')
         else:
-            logging.info("localeId contains invalid locale id=%s" %localeId)
+            logging.info("localeId contains invalid locale id=%s", localeId)
     return Locale(language=language,
                   script=script,
                   territory=territory,
@@ -1293,8 +1301,7 @@ def _parse_and_split_languageId(languageId='', scriptId='', territoryId=''):
                         variant=locale.variant,
                         encoding=locale.encoding)
     if not locale.script and scriptId:
-        if scriptId in _glibc_script_ids:
-            scriptId = _glibc_script_ids[scriptId]
+        scriptId = _glibc_script_ids.get(scriptId, scriptId)
         locale = Locale(language=locale.language,
                         script=scriptId,
                         territory=locale.territory,
@@ -1800,9 +1807,9 @@ def territoryId(territoryName = ''):
         return ''
     if not isinstance(territoryName, str):
         territoryName = territoryName.decode('UTF-8')
-    for territoryId in _territories_db:
-        for icuLocaleId in _territories_db[territoryId].names:
-            if territoryName == _territories_db[territoryId].names[icuLocaleId]:
+    for territoryId, territory_item in _territories_db.items():
+        for name in territory_item.names.values():
+            if territoryName == name:
                 return territoryId
     return ''
 
@@ -1835,9 +1842,9 @@ def languageId(languageName = ''):
         return ''
     if not isinstance(languageName, str):
         languageName = languageName.decode('UTF-8')
-    for languageId in _languages_db:
-        for icuLocaleId in _languages_db[languageId].names:
-            if languageName.lower() == _languages_db[languageId].names[icuLocaleId].lower():
+    for languageId, language_item in _languages_db.items():
+        for name in language_item.names.values():
+            if languageName.lower() == name.lower():
                 return languageId
     language_territory_pattern = re.compile(
         r'^(?P<language_name>[^()]+)[\s]+[(](?P<territory_name>[^()]+)[)]',
@@ -1846,12 +1853,12 @@ def languageId(languageName = ''):
     if match:
         language_name = match.group('language_name')
         territory_name = match.group('territory_name')
-        for languageId in _languages_db:
-            for icuLocaleId in _languages_db[languageId].names:
-                if language_name.lower() == _languages_db[languageId].names[icuLocaleId].lower():
-                    for territoryId in _territories_db:
-                        for icuLocaleId_territory in _territories_db[territoryId].names:
-                            if territory_name.lower() == _territories_db[territoryId].names[icuLocaleId_territory].lower():
+        for languageId, language_item in _languages_db.items():
+            for language_item_name in language_item.names.values():
+                if language_name.lower() == language_item_name.lower():
+                    for territoryId, territory_item in _territories_db.items():
+                        for territory_item_name in territory_item.names.values():
+                            if territory_name.lower() == territory_item_name.lower():
                                 return languageId+'_'+territoryId
 
     return ''
@@ -1938,8 +1945,7 @@ def list_locales(concise=True, show_weights=False, languageId = None, scriptId =
         ranked_list = _make_ranked_list_concise(ranked_list)
     if show_weights:
         return ranked_list
-    else:
-        return _ranked_list_to_list(ranked_list)
+    return _ranked_list_to_list(ranked_list)
 
 def list_common_languages():
     '''List common languages
@@ -1957,7 +1963,7 @@ def list_common_languages():
 
     '''
 
-    common_locales = list()
+    common_locales = []
     common_locales.append("ar_EG.UTF-8")
     common_locales.append("en_US.UTF-8")
     common_locales.append("fr_FR.UTF-8")
@@ -2065,8 +2071,7 @@ def list_scripts(concise=True, show_weights=False, languageId = None, scriptId =
         ranked_list = _make_ranked_list_concise(ranked_list)
     if show_weights:
         return ranked_list
-    else:
-        return _ranked_list_to_list(ranked_list)
+    return _ranked_list_to_list(ranked_list)
 
 def list_inputmethods(concise=True, show_weights=False, languageId = None, scriptId = None, territoryId = None):
     '''List suitable input methods
@@ -2141,8 +2146,7 @@ def list_inputmethods(concise=True, show_weights=False, languageId = None, scrip
         ranked_list = _make_ranked_list_concise(ranked_list)
     if show_weights:
         return ranked_list
-    else:
-        return _ranked_list_to_list(ranked_list)
+    return _ranked_list_to_list(ranked_list)
 
 def list_keyboards(concise=True, show_weights=False, languageId = None, scriptId = None, territoryId = None):
     '''List likely X11 keyboard layouts
@@ -2218,10 +2222,10 @@ def list_keyboards(concise=True, show_weights=False, languageId = None, scriptId
         ranked_list = _make_ranked_list_concise(ranked_list)
     if show_weights:
         return ranked_list
-    else:
-        return _ranked_list_to_list(ranked_list)
+    return _ranked_list_to_list(ranked_list)
 
 def list_common_keyboards(languageId = None, scriptId = None, territoryId = None):
+    # pylint: disable=line-too-long
     '''Returns highest ranked keyboard layout(s)
 2
     :param languageId: identifier for the language
@@ -2254,7 +2258,8 @@ def list_common_keyboards(languageId = None, scriptId = None, territoryId = None
     >>> list_common_keyboards(languageId='zh', scriptId='Hans', territoryId='TW')
     ['tw']
     '''
-    high_ranked_keyboards = list()
+    # pylint: enable=line-too-long
+    high_ranked_keyboards = []
     if not languageId and not scriptId and not territoryId:
         for _, language in _languages_db.items():
             keyboard_layouts = language.keyboards
@@ -2264,16 +2269,16 @@ def list_common_keyboards(languageId = None, scriptId = None, territoryId = None
                 high_ranked_keyboards.extend(selected_layouts)
         high_ranked_keyboards = list(set(high_ranked_keyboards))
 
-    kwargs = dict()
+    kwargs = {}
     locale = _parse_and_split_languageId(
         languageId=languageId, scriptId=scriptId, territoryId=territoryId
     )
     if locale.language:
-        kwargs.update(dict(languageId=locale.language))
+        kwargs.update({'languageId': locale.language})
     if locale.script:
-        kwargs.update(dict(scriptId=locale.script))
+        kwargs.update({'scriptId': locale.script})
     if locale.territory:
-        kwargs.update(dict(territoryId=locale.territory))
+        kwargs.update({'territoryId': locale.territory})
     common_layouts = list_keyboards(**kwargs)
     if common_layouts:
         # Picking up first layout from the list
@@ -2328,7 +2333,7 @@ def list_common_locales(languageId = None, scriptId = None, territoryId = None):
     >>> list_common_locales(languageId='zh', territoryId='TW')
     ['zh_TW.UTF-8']
     '''
-    high_ranked_locales = list()
+    high_ranked_locales = []
     if not languageId and not scriptId and not territoryId:
         for language in list_common_languages():
             locales = _languages_db[language].locales
@@ -2340,16 +2345,16 @@ def list_common_locales(languageId = None, scriptId = None, territoryId = None):
                 high_ranked_locales.extend(selected_locales)
         return high_ranked_locales
 
-    kwargs = dict()
+    kwargs = {}
     locale = _parse_and_split_languageId(
         languageId=languageId, scriptId=scriptId, territoryId=territoryId
     )
     if locale.language:
-        kwargs.update(dict(languageId=locale.language))
+        kwargs.update({'languageId': locale.language})
     if locale.script:
-        kwargs.update(dict(scriptId=locale.script))
+        kwargs.update({'scriptId': locale.script})
     if locale.territory:
-        kwargs.update(dict(territoryId=locale.territory))
+        kwargs.update({'territoryId': locale.territory})
     common_locales = list_locales(**kwargs)
     if common_locales:
         # Picking up first locale from the list
@@ -2452,8 +2457,7 @@ def list_consolefonts(concise=True, show_weights=False, languageId = None, scrip
         ranked_list = _make_ranked_list_concise(ranked_list)
     if show_weights:
         return ranked_list
-    else:
-        return _ranked_list_to_list(ranked_list)
+    return _ranked_list_to_list(ranked_list)
 
 def list_timezones(concise=True, show_weights=False, languageId = None, scriptId = None, territoryId = None):
     '''List likely timezones
@@ -2533,8 +2537,7 @@ def list_timezones(concise=True, show_weights=False, languageId = None, scriptId
         ranked_list = _make_ranked_list_concise(ranked_list)
     if show_weights:
         return ranked_list
-    else:
-        return _ranked_list_to_list(ranked_list)
+    return _ranked_list_to_list(ranked_list)
 
 def list_all_languages() -> List[str]:
     '''
@@ -2638,22 +2641,23 @@ def version():
     Return version of langtable
     '''
     # pkg_resources is part of setuptools
-    import pkg_resources  # type: ignore
+    import pkg_resources  # type: ignore pylint: disable=import-outside-toplevel
     return pkg_resources.require("langtable")[0].version
 
 def info():
     '''
     Print some info about langtable
     '''
-    import pkg_resources  # part of setuptools
+    # pkg_resources is part of setuptools
+    import pkg_resources  # type: ignore pylint: disable=import-outside-toplevel
     project_name = pkg_resources.require("langtable")[0].project_name
     version = pkg_resources.require("langtable")[0].version
     module_path = pkg_resources.require("langtable")[0].module_path
-    print('Project name: = %s' %project_name)
-    print('Version: = %s' %version)
-    print('Module path: = %s' %module_path)
-    print('Loaded from: %s' %os.path.realpath(__file__))
-    print('Data files read: %s' %_INFO['data_files_read'])
+    print(f'Project name: = {project_name}')
+    print(f'Version: = {version}')
+    print(f'Module path: = {module_path}')
+    print(f'Loaded from: {os.path.realpath(__file__)}')
+    print(f'Data files read: {_INFO["data_files_read"]}')
 
 def _test_cldr_locale_pattern(localeId):
     '''
@@ -2662,8 +2666,7 @@ def _test_cldr_locale_pattern(localeId):
     match = _cldr_locale_pattern.match(localeId)
     if match:
         return [('language', match.group('language')), ('script', match.group('script')), ('territory', match.group('territory'))]
-    else:
-        return  []
+    return []
 
 def _test_language_territory(show_weights=False, languageId=None, scriptId=None, territoryId=None):
     '''
@@ -2687,9 +2690,8 @@ def _test_language_territory(show_weights=False, languageId=None, scriptId=None,
           +" +: "
           +repr(list_keyboards(show_weights=show_weights,languageId=languageId,scriptId=scriptId,territoryId=territoryId))
           )
-    return
 
-def _init(debug=False, logfilename='/dev/null'):
+def _init(debug=False, logfilename='/dev/null') -> None:
 
     log_level = logging.INFO
     if debug:
@@ -2705,12 +2707,13 @@ def _init(debug=False, logfilename='/dev/null'):
     _read_file('timezones.xml', TimezonesContentHandler())
     _read_file('timezoneidparts.xml', TimezoneIdPartsContentHandler())
 
-class __ModuleInitializer:
-    def __init__(self):
-        _init()
-        return
+# pylint: enable=invalid-name
 
-    def __del__(self):
+class __ModuleInitializer: # pylint: disable=too-few-public-methods,invalid-name
+    def __init__(self) -> None:
+        _init()
+
+    def __del__(self) -> None:
         return
 
 __module_init = __ModuleInitializer()
