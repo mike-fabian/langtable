@@ -208,6 +208,7 @@
       <name><languageId>fur</languageId><trName>abcazian</trName></name>
       <name><languageId>fy</languageId><trName>Abchazysk</trName></name>
       <name><languageId>ga</languageId><trName>Abcáisis</trName></name>
+      <name><languageId>gaa</languageId><trName>Abkhazia</trName></name>
       <name><languageId>gd</languageId><trName>Abchasais</trName></name>
       <name><languageId>gez</languageId><trName>አብሐዚኛ</trName></name>
       <name><languageId>gl</languageId><trName>abkhazo</trName></name>
@@ -380,6 +381,7 @@
       <name><languageId>fur</languageId><trName>afrikaans</trName></name>
       <name><languageId>fy</languageId><trName>Afrikaansk</trName></name>
       <name><languageId>ga</languageId><trName>Afracáinis</trName></name>
+      <name><languageId>gaa</languageId><trName>Afrikaans</trName></name>
       <name><languageId>gd</languageId><trName>Afraganais</trName></name>
       <name><languageId>gez</languageId><trName>አፍሪቃንስኛ</trName></name>
       <name><languageId>gl</languageId><trName>afrikaans</trName></name>
@@ -563,6 +565,7 @@
       <name><languageId>frr</languageId><trName>Aghem</trName></name>
       <name><languageId>fy</languageId><trName>Aghem</trName></name>
       <name><languageId>ga</languageId><trName>Aigeimis</trName></name>
+      <name><languageId>gaa</languageId><trName>Aghem</trName></name>
       <name><languageId>gd</languageId><trName>Aghem</trName></name>
       <name><languageId>gl</languageId><trName>aghem</trName></name>
       <name><languageId>gu</languageId><trName>અઘેમ</trName></name>
@@ -766,6 +769,7 @@
       <name><languageId>frr</languageId><trName>Akan</trName></name>
       <name><languageId>fy</languageId><trName>Akan</trName></name>
       <name><languageId>ga</languageId><trName>Acáinis</trName></name>
+      <name><languageId>gaa</languageId><trName>Akan</trName></name>
       <name><languageId>gd</languageId><trName>Akan</trName></name>
       <name><languageId>gl</languageId><trName>akan</trName></name>
       <name><languageId>gsw</languageId><trName>Akan</trName></name>
@@ -989,6 +993,7 @@
       <name><languageId>fur</languageId><trName>amaric</trName></name>
       <name><languageId>fy</languageId><trName>Amhaarsk</trName></name>
       <name><languageId>ga</languageId><trName>Amáiris</trName></name>
+      <name><languageId>gaa</languageId><trName>Amharic</trName></name>
       <name><languageId>gd</languageId><trName>Amtharais</trName></name>
       <name><languageId>gez</languageId><trName>አምሐረኛ</trName></name>
       <name><languageId>gl</languageId><trName>amhárico</trName></name>
@@ -1218,6 +1223,7 @@
       <name><languageId>fur</languageId><trName>aragonês</trName></name>
       <name><languageId>fy</languageId><trName>Aragoneesk</trName></name>
       <name><languageId>ga</languageId><trName>Aragóinis</trName></name>
+      <name><languageId>gaa</languageId><trName>Aragonese</trName></name>
       <name><languageId>gd</languageId><trName>Aragonais</trName></name>
       <name><languageId>gl</languageId><trName>aragonés</trName></name>
       <name><languageId>gsw</languageId><trName>Aragonesisch</trName></name>
@@ -1516,6 +1522,7 @@
       <name><languageId>frr</languageId><trName>Angika</trName></name>
       <name><languageId>fy</languageId><trName>Angika</trName></name>
       <name><languageId>ga</languageId><trName>Aingícis</trName></name>
+      <name><languageId>gaa</languageId><trName>Angika</trName></name>
       <name><languageId>gd</languageId><trName>Angika</trName></name>
       <name><languageId>gl</languageId><trName>angika</trName></name>
       <name><languageId>gsw</languageId><trName>Angika</trName></name>
@@ -1752,6 +1759,7 @@
       <name><languageId>fur</languageId><trName>arap</trName></name>
       <name><languageId>fy</languageId><trName>Arabysk</trName></name>
       <name><languageId>ga</languageId><trName>Araibis</trName></name>
+      <name><languageId>gaa</languageId><trName>Arabik</trName></name>
       <name><languageId>gd</languageId><trName>Arabais</trName></name>
       <name><languageId>gez</languageId><trName>ዐርቢኛ</trName></name>
       <name><languageId>gl</languageId><trName>árabe</trName></name>
@@ -2213,6 +2221,7 @@
       <name><languageId>fur</languageId><trName>assamês</trName></name>
       <name><languageId>fy</languageId><trName>Assameesk</trName></name>
       <name><languageId>ga</languageId><trName>Asaimis</trName></name>
+      <name><languageId>gaa</languageId><trName>Assamese</trName></name>
       <name><languageId>gd</languageId><trName>Asamais</trName></name>
       <name><languageId>gez</languageId><trName>አሳሜዛዊ</trName></name>
       <name><languageId>gl</languageId><trName>assamés</trName></name>
@@ -2390,6 +2399,7 @@
       <name><languageId>frr</languageId><trName>Asu</trName></name>
       <name><languageId>fy</languageId><trName>Asu</trName></name>
       <name><languageId>ga</languageId><trName>Asúis</trName></name>
+      <name><languageId>gaa</languageId><trName>Asu</trName></name>
       <name><languageId>gd</languageId><trName>Asu</trName></name>
       <name><languageId>gl</languageId><trName>asu</trName></name>
       <name><languageId>gsw</languageId><trName>Asu (Tanzania)</trName></name>
@@ -2549,6 +2559,7 @@
       <name><languageId>fur</languageId><trName>asturian</trName></name>
       <name><languageId>fy</languageId><trName>Asturysk</trName></name>
       <name><languageId>ga</languageId><trName>Astúiris</trName></name>
+      <name><languageId>gaa</languageId><trName>Asturian</trName></name>
       <name><languageId>gd</languageId><trName>Astùrais</trName></name>
       <name><languageId>gl</languageId><trName>asturiano</trName></name>
       <name><languageId>gsw</languageId><trName>Aschturianisch</trName></name>
@@ -2715,6 +2726,7 @@
       <name><languageId>fur</languageId><trName>avar</trName></name>
       <name><languageId>fy</languageId><trName>Avarysk</trName></name>
       <name><languageId>ga</languageId><trName>Aváiris</trName></name>
+      <name><languageId>gaa</languageId><trName>Avaric</trName></name>
       <name><languageId>gd</languageId><trName>Avarais</trName></name>
       <name><languageId>gl</languageId><trName>avar</trName></name>
       <name><languageId>gsw</languageId><trName>Awarisch</trName></name>
@@ -2877,6 +2889,7 @@
       <name><languageId>fur</languageId><trName>aymarà</trName></name>
       <name><languageId>fy</languageId><trName>Aymara</trName></name>
       <name><languageId>ga</languageId><trName>Aidhmiris</trName></name>
+      <name><languageId>gaa</languageId><trName>Aymara</trName></name>
       <name><languageId>gd</languageId><trName>Aymara</trName></name>
       <name><languageId>gez</languageId><trName>አያማርኛ</trName></name>
       <name><languageId>gl</languageId><trName>aimará</trName></name>
@@ -3105,6 +3118,7 @@
       <name><languageId>fur</languageId><trName>azerbaijani</trName></name>
       <name><languageId>fy</languageId><trName>Azerbeidzjaansk</trName></name>
       <name><languageId>ga</languageId><trName>Asarbaiseáinis</trName></name>
+      <name><languageId>gaa</languageId><trName>Azerbaijani</trName></name>
       <name><languageId>gd</languageId><trName>Asarbaideànais</trName></name>
       <name><languageId>gez</languageId><trName>አዜርባይጃንኛ</trName></name>
       <name><languageId>gl</languageId><trName>acerbaixano</trName></name>
@@ -3296,6 +3310,7 @@
       <name><languageId>frr</languageId><trName>Baschkiirisk</trName></name>
       <name><languageId>fy</languageId><trName>Basjkiersk</trName></name>
       <name><languageId>ga</languageId><trName>Baiscíris</trName></name>
+      <name><languageId>gaa</languageId><trName>Bashkir</trName></name>
       <name><languageId>gd</languageId><trName>Bashkir</trName></name>
       <name><languageId>gez</languageId><trName>ባስኪርኛ</trName></name>
       <name><languageId>gl</languageId><trName>baxkir</trName></name>
@@ -3574,6 +3589,7 @@
       <name><languageId>frr</languageId><trName>Basaa</trName></name>
       <name><languageId>fy</languageId><trName>Basa</trName></name>
       <name><languageId>ga</languageId><trName>Basáis</trName></name>
+      <name><languageId>gaa</languageId><trName>Basaa</trName></name>
       <name><languageId>gd</languageId><trName>Basaa</trName></name>
       <name><languageId>gl</languageId><trName>basaa</trName></name>
       <name><languageId>gsw</languageId><trName>Basaa</trName></name>
@@ -3754,6 +3770,7 @@
       <name><languageId>fur</languageId><trName>bielorùs</trName></name>
       <name><languageId>fy</languageId><trName>Wyt-Russysk</trName></name>
       <name><languageId>ga</languageId><trName>Bealarúisis</trName></name>
+      <name><languageId>gaa</languageId><trName>Belarusian</trName></name>
       <name><languageId>gd</languageId><trName>Bealaruisis</trName></name>
       <name><languageId>gez</languageId><trName>ቤላራሻኛ</trName></name>
       <name><languageId>gl</languageId><trName>belaruso</trName></name>
@@ -3983,6 +4000,7 @@
       <name><languageId>frr</languageId><trName>Bemba</trName></name>
       <name><languageId>fy</languageId><trName>Bemba</trName></name>
       <name><languageId>ga</languageId><trName>Beimbis</trName></name>
+      <name><languageId>gaa</languageId><trName>Bemba</trName></name>
       <name><languageId>gd</languageId><trName>Bemba</trName></name>
       <name><languageId>gl</languageId><trName>bemba</trName></name>
       <name><languageId>gsw</languageId><trName>Bemba</trName></name>
@@ -4301,6 +4319,7 @@
       <name><languageId>frr</languageId><trName>Bena</trName></name>
       <name><languageId>fy</languageId><trName>Bena</trName></name>
       <name><languageId>ga</languageId><trName>Beinis</trName></name>
+      <name><languageId>gaa</languageId><trName>Bena</trName></name>
       <name><languageId>gd</languageId><trName>Bena</trName></name>
       <name><languageId>gl</languageId><trName>bena</trName></name>
       <name><languageId>gsw</languageId><trName>Bena (Tanzania)</trName></name>
@@ -4477,6 +4496,7 @@
       <name><languageId>fur</languageId><trName>bulgar</trName></name>
       <name><languageId>fy</languageId><trName>Bulgaarsk</trName></name>
       <name><languageId>ga</languageId><trName>Bulgáiris</trName></name>
+      <name><languageId>gaa</languageId><trName>Bulgarian</trName></name>
       <name><languageId>gd</languageId><trName>Bulgarais</trName></name>
       <name><languageId>gez</languageId><trName>ቡልጋሪኛ</trName></name>
       <name><languageId>gl</languageId><trName>búlgaro</trName></name>
@@ -4977,6 +4997,7 @@
       <name><languageId>frr</languageId><trName>Bhoipuurisk</trName></name>
       <name><languageId>fy</languageId><trName>Bhojpuri</trName></name>
       <name><languageId>ga</languageId><trName>Vóispiris</trName></name>
+      <name><languageId>gaa</languageId><trName>Bhojpuri</trName></name>
       <name><languageId>gd</languageId><trName>Bhojpuri</trName></name>
       <name><languageId>gl</languageId><trName>bhojpuri</trName></name>
       <name><languageId>gsw</languageId><trName>Bhodschpuri</trName></name>
@@ -5137,6 +5158,7 @@
       <name><languageId>frr</languageId><trName>Bislama</trName></name>
       <name><languageId>fy</languageId><trName>Bislama</trName></name>
       <name><languageId>ga</languageId><trName>Bioslaimis</trName></name>
+      <name><languageId>gaa</languageId><trName>Bislama</trName></name>
       <name><languageId>gd</languageId><trName>Bislama</trName></name>
       <name><languageId>gez</languageId><trName>ቢስላምኛ</trName></name>
       <name><languageId>gl</languageId><trName>bislama</trName></name>
@@ -5328,6 +5350,7 @@
       <name><languageId>frr</languageId><trName>Bini</trName></name>
       <name><languageId>fy</languageId><trName>Bini</trName></name>
       <name><languageId>ga</languageId><trName>Binis</trName></name>
+      <name><languageId>gaa</languageId><trName>Bini</trName></name>
       <name><languageId>gd</languageId><trName>Edo</trName></name>
       <name><languageId>gl</languageId><trName>bini</trName></name>
       <name><languageId>gsw</languageId><trName>Bini</trName></name>
@@ -5561,6 +5584,7 @@
       <name><languageId>frr</languageId><trName>Bambara</trName></name>
       <name><languageId>fy</languageId><trName>Bambara</trName></name>
       <name><languageId>ga</languageId><trName>Bambairis</trName></name>
+      <name><languageId>gaa</languageId><trName>Bambara</trName></name>
       <name><languageId>gd</languageId><trName>Bambara</trName></name>
       <name><languageId>gl</languageId><trName>bambara</trName></name>
       <name><languageId>gsw</languageId><trName>Bambara</trName></name>
@@ -5746,6 +5770,7 @@
       <name><languageId>fur</languageId><trName>bengalês</trName></name>
       <name><languageId>fy</languageId><trName>Bengaalsk</trName></name>
       <name><languageId>ga</languageId><trName>Beangáilis</trName></name>
+      <name><languageId>gaa</languageId><trName>Bangla</trName></name>
       <name><languageId>gd</languageId><trName>Bangla</trName></name>
       <name><languageId>gez</languageId><trName>በንጋሊኛ</trName></name>
       <name><languageId>gl</languageId><trName>bengalí</trName></name>
@@ -6167,6 +6192,7 @@
       <name><languageId>fur</languageId><trName>breton</trName></name>
       <name><languageId>fy</languageId><trName>Bretonsk</trName></name>
       <name><languageId>ga</languageId><trName>Briotáinis</trName></name>
+      <name><languageId>gaa</languageId><trName>Breton</trName></name>
       <name><languageId>gd</languageId><trName>Breatnais</trName></name>
       <name><languageId>gez</languageId><trName>ብሬቶንኛ</trName></name>
       <name><languageId>gl</languageId><trName>bretón</trName></name>
@@ -6344,6 +6370,7 @@
       <name><languageId>frr</languageId><trName>Bodo</trName></name>
       <name><languageId>fy</languageId><trName>Bodo</trName></name>
       <name><languageId>ga</languageId><trName>Bódóis</trName></name>
+      <name><languageId>gaa</languageId><trName>Bodo</trName></name>
       <name><languageId>gd</languageId><trName>Bodo</trName></name>
       <name><languageId>gl</languageId><trName>bodo</trName></name>
       <name><languageId>gu</languageId><trName>બોડો</trName></name>
@@ -6507,6 +6534,7 @@
       <name><languageId>fur</languageId><trName>bosniac</trName></name>
       <name><languageId>fy</languageId><trName>Bosnysk</trName></name>
       <name><languageId>ga</languageId><trName>Boisnis</trName></name>
+      <name><languageId>gaa</languageId><trName>Bosnian</trName></name>
       <name><languageId>gd</languageId><trName>Bosnais</trName></name>
       <name><languageId>gl</languageId><trName>bosníaco</trName></name>
       <name><languageId>gsw</languageId><trName>Bosnisch</trName></name>
@@ -6885,6 +6913,7 @@
       <name><languageId>frr</languageId><trName>Blin</trName></name>
       <name><languageId>fy</languageId><trName>Blin</trName></name>
       <name><languageId>ga</languageId><trName>Blinis</trName></name>
+      <name><languageId>gaa</languageId><trName>Blin</trName></name>
       <name><languageId>gd</languageId><trName>Blin</trName></name>
       <name><languageId>gez</languageId><trName>ብሊን</trName></name>
       <name><languageId>gl</languageId><trName>blin</trName></name>
@@ -7046,6 +7075,7 @@
       <name><languageId>fur</languageId><trName>catalan</trName></name>
       <name><languageId>fy</languageId><trName>Katalaansk</trName></name>
       <name><languageId>ga</languageId><trName>Catalóinis</trName></name>
+      <name><languageId>gaa</languageId><trName>Katalan</trName></name>
       <name><languageId>gd</languageId><trName>Catalanais</trName></name>
       <name><languageId>gez</languageId><trName>ካታላንኛ</trName></name>
       <name><languageId>gl</languageId><trName>catalán</trName></name>
@@ -7468,6 +7498,7 @@
       <name><languageId>fr</languageId><trName>changma kodha</trName></name>
       <name><languageId>frr</languageId><trName>Chakma</trName></name>
       <name><languageId>ga</languageId><trName>Seácmais</trName></name>
+      <name><languageId>gaa</languageId><trName>Tsakma</trName></name>
       <name><languageId>gd</languageId><trName>Chakma</trName></name>
       <name><languageId>gl</languageId><trName>chakma</trName></name>
       <name><languageId>gu</languageId><trName>ચકમા</trName></name>
@@ -7788,6 +7819,7 @@
       <name><languageId>frr</languageId><trName>Cebuano</trName></name>
       <name><languageId>fy</languageId><trName>Cebuano</trName></name>
       <name><languageId>ga</languageId><trName>Seabúáinis</trName></name>
+      <name><languageId>gaa</languageId><trName>Sebuano</trName></name>
       <name><languageId>gd</languageId><trName>Cebuano</trName></name>
       <name><languageId>gl</languageId><trName>cebuano</trName></name>
       <name><languageId>gsw</languageId><trName>Cebuano</trName></name>
@@ -10782,6 +10814,7 @@
       <name><languageId>fur</languageId><trName>todesc</trName></name>
       <name><languageId>fy</languageId><trName>Dútsk</trName></name>
       <name><languageId>ga</languageId><trName>Gearmáinis</trName></name>
+      <name><languageId>gaa</languageId><trName>German</trName></name>
       <name><languageId>gd</languageId><trName>Gearmailtis</trName></name>
       <name><languageId>gez</languageId><trName>ጀርመን</trName></name>
       <name><languageId>gl</languageId><trName>alemán</trName></name>
@@ -12795,6 +12828,7 @@
       <name><languageId>fur</languageId><trName>inglês</trName></name>
       <name><languageId>fy</languageId><trName>Ingelsk</trName></name>
       <name><languageId>ga</languageId><trName>Béarla</trName></name>
+      <name><languageId>gaa</languageId><trName>Blɔfo</trName></name>
       <name><languageId>gd</languageId><trName>Beurla</trName></name>
       <name><languageId>gez</languageId><trName>እንግሊዝኛ</trName></name>
       <name><languageId>gl</languageId><trName>inglés</trName></name>
@@ -13355,6 +13389,7 @@
       <name><languageId>fur</languageId><trName>spagnûl</trName></name>
       <name><languageId>fy</languageId><trName>Spaansk</trName></name>
       <name><languageId>ga</languageId><trName>Spáinnis</trName></name>
+      <name><languageId>gaa</languageId><trName>Spanish</trName></name>
       <name><languageId>gd</languageId><trName>Spàinntis</trName></name>
       <name><languageId>gez</languageId><trName>ስፓኒሽ</trName></name>
       <name><languageId>gl</languageId><trName>español</trName></name>
@@ -13911,6 +13946,7 @@
       <name><languageId>fur</languageId><trName>basc</trName></name>
       <name><languageId>fy</languageId><trName>Baskysk</trName></name>
       <name><languageId>ga</languageId><trName>Bascais</trName></name>
+      <name><languageId>gaa</languageId><trName>Baske</trName></name>
       <name><languageId>gd</languageId><trName>Basgais</trName></name>
       <name><languageId>gez</languageId><trName>ባስክኛ</trName></name>
       <name><languageId>gl</languageId><trName>éuscaro</trName></name>
@@ -15529,6 +15565,7 @@
       <name><languageId>fur</languageId><trName>francês</trName></name>
       <name><languageId>fy</languageId><trName>Frânsk</trName></name>
       <name><languageId>ga</languageId><trName>Fraincis</trName></name>
+      <name><languageId>gaa</languageId><trName>Frɛntsi</trName></name>
       <name><languageId>gd</languageId><trName>Fraingis</trName></name>
       <name><languageId>gez</languageId><trName>ፈረንሳይኛ</trName></name>
       <name><languageId>gl</languageId><trName>francés</trName></name>
@@ -16425,6 +16462,163 @@
     </consolefonts>
     <timezones>
       <timezone><timezoneId>Europe/Dublin</timezoneId><rank>1000</rank></timezone>
+    </timezones>
+  </language>
+  <language>
+    <languageId>gaa</languageId>
+    <iso639-1>None</iso639-1>
+    <iso639-2-t>gaa</iso639-2-t>
+    <iso639-2-b>gaa</iso639-2-b>
+    <names>
+      <name><languageId>ab</languageId><trName>ага</trName></name>
+      <name><languageId>af</languageId><trName>Gaa</trName></name>
+      <name><languageId>am</languageId><trName>ጋ</trName></name>
+      <name><languageId>ar</languageId><trName>الجا</trName></name>
+      <name><languageId>as</languageId><trName>গা</trName></name>
+      <name><languageId>ast</languageId><trName>ga</trName></name>
+      <name><languageId>az</languageId><trName>qa</trName></name>
+      <name><languageId>be</languageId><trName>га</trName></name>
+      <name><languageId>bew</languageId><trName>Gang</trName></name>
+      <name><languageId>bg</languageId><trName>га</trName></name>
+      <name><languageId>bgn</languageId><trName>گا</trName></name>
+      <name><languageId>bn</languageId><trName>গা</trName></name>
+      <name><languageId>bo</languageId><trName>གཱ་སྐད།</trName></name>
+      <name><languageId>br</languageId><trName>ga</trName></name>
+      <name><languageId>brx</languageId><trName>गा</trName></name>
+      <name><languageId>bs</languageId><trName>ga</trName></name>
+      <name><languageId>ca</languageId><trName>ga</trName></name>
+      <name><languageId>ccp</languageId><trName>𑄉𑄳𑄃</trName></name>
+      <name><languageId>ce</languageId><trName>га</trName></name>
+      <name><languageId>chr</languageId><trName>Ꭶ</trName></name>
+      <name><languageId>ckb</languageId><trName>گایی</trName></name>
+      <name><languageId>cs</languageId><trName>gaština</trName></name>
+      <name><languageId>cy</languageId><trName>Ga</trName></name>
+      <name><languageId>da</languageId><trName>ga</trName></name>
+      <name><languageId>de</languageId><trName>Ga</trName></name>
+      <name><languageId>dsb</languageId><trName>gašćina</trName></name>
+      <name><languageId>ee</languageId><trName>gɛgbe</trName></name>
+      <name><languageId>el</languageId><trName>Γκα</trName></name>
+      <name><languageId>en</languageId><trName>Ga</trName></name>
+      <name><languageId>eo</languageId><trName>gaa</trName></name>
+      <name><languageId>es</languageId><trName>ga</trName></name>
+      <name><languageId>et</languageId><trName>gaa</trName></name>
+      <name><languageId>eu</languageId><trName>gaera</trName></name>
+      <name><languageId>fa</languageId><trName>گایی</trName></name>
+      <name><languageId>fi</languageId><trName>ga</trName></name>
+      <name><languageId>fil</languageId><trName>Ga</trName></name>
+      <name><languageId>fo</languageId><trName>ga</trName></name>
+      <name><languageId>fr</languageId><trName>ga</trName></name>
+      <name><languageId>frr</languageId><trName>Ga</trName></name>
+      <name><languageId>fy</languageId><trName>Ga</trName></name>
+      <name><languageId>ga</languageId><trName>Geáis</trName></name>
+      <name><languageId>gaa</languageId><trName>Gã</trName></name>
+      <name><languageId>gaan</languageId><trName>Ga</trName></name>
+      <name><languageId>gd</languageId><trName>Ga</trName></name>
+      <name><languageId>gl</languageId><trName>ga</trName></name>
+      <name><languageId>gsw</languageId><trName>Ga</trName></name>
+      <name><languageId>gu</languageId><trName>ગા</trName></name>
+      <name><languageId>ha</languageId><trName>Ga</trName></name>
+      <name><languageId>he</languageId><trName>גא</trName></name>
+      <name><languageId>hi</languageId><trName>गा</trName></name>
+      <name><languageId>hr</languageId><trName>ga</trName></name>
+      <name><languageId>hsb</languageId><trName>gašćina</trName></name>
+      <name><languageId>hu</languageId><trName>ga</trName></name>
+      <name><languageId>hy</languageId><trName>գայերեն</trName></name>
+      <name><languageId>ia</languageId><trName>ga</trName></name>
+      <name><languageId>id</languageId><trName>Ga</trName></name>
+      <name><languageId>ig</languageId><trName>Ga</trName></name>
+      <name><languageId>is</languageId><trName>ga</trName></name>
+      <name><languageId>it</languageId><trName>ga</trName></name>
+      <name><languageId>ja</languageId><trName>ガ語</trName></name>
+      <name><languageId>jv</languageId><trName>Ga</trName></name>
+      <name><languageId>ka</languageId><trName>გა</trName></name>
+      <name><languageId>kab</languageId><trName>Tagat</trName></name>
+      <name><languageId>kk</languageId><trName>га тілі</trName></name>
+      <name><languageId>km</languageId><trName>ហ្គា</trName></name>
+      <name><languageId>kn</languageId><trName>ಗ</trName></name>
+      <name><languageId>ko</languageId><trName>가어</trName></name>
+      <name><languageId>kok</languageId><trName>गा</trName></name>
+      <name><languageId>ks</languageId><trName>گا</trName></name>
+      <name><languageId>ksh</languageId><trName>Jah</trName></name>
+      <name><languageId>ku</languageId><trName>gayî</trName></name>
+      <name><languageId>ky</languageId><trName>гача</trName></name>
+      <name><languageId>lb</languageId><trName>Ga-Sprooch</trName></name>
+      <name><languageId>lij</languageId><trName>ga</trName></name>
+      <name><languageId>lo</languageId><trName>ກາ</trName></name>
+      <name><languageId>lt</languageId><trName>ga</trName></name>
+      <name><languageId>lv</languageId><trName>ga</trName></name>
+      <name><languageId>mai</languageId><trName>गा</trName></name>
+      <name><languageId>mi</languageId><trName>Kā</trName></name>
+      <name><languageId>mk</languageId><trName>га</trName></name>
+      <name><languageId>ml</languageId><trName>ഗാ</trName></name>
+      <name><languageId>mn</languageId><trName>га</trName></name>
+      <name><languageId>mr</languageId><trName>गा</trName></name>
+      <name><languageId>ms</languageId><trName>Ga</trName></name>
+      <name><languageId>mt</languageId><trName>Ga</trName></name>
+      <name><languageId>my</languageId><trName>ဂါ</trName></name>
+      <name><languageId>nds</languageId><trName>Ga</trName></name>
+      <name><languageId>ne</languageId><trName>गा</trName></name>
+      <name><languageId>nl</languageId><trName>Ga</trName></name>
+      <name><languageId>no</languageId><trName>ga</trName></name>
+      <name><languageId>or</languageId><trName>ଗା</trName></name>
+      <name><languageId>pa</languageId><trName>ਗਾ</trName></name>
+      <name><languageId>pl</languageId><trName>ga</trName></name>
+      <name><languageId>ps</languageId><trName>Ga</trName></name>
+      <name><languageId>pt</languageId><trName>ga</trName></name>
+      <name><languageId>qu</languageId><trName>Ga Simi</trName></name>
+      <name><languageId>rm</languageId><trName>ga</trName></name>
+      <name><languageId>ro</languageId><trName>ga</trName></name>
+      <name><languageId>ru</languageId><trName>га</trName></name>
+      <name><languageId>sat</languageId><trName>ᱜᱟ</trName></name>
+      <name><languageId>sc</languageId><trName>ga</trName></name>
+      <name><languageId>sd</languageId><trName>گا</trName></name>
+      <name><languageId>si</languageId><trName>ගා</trName></name>
+      <name><languageId>sk</languageId><trName>ga</trName></name>
+      <name><languageId>sl</languageId><trName>ga</trName></name>
+      <name><languageId>smn</languageId><trName>gakielâ</trName></name>
+      <name><languageId>so</languageId><trName>Ga</trName></name>
+      <name><languageId>sq</languageId><trName>gaisht</trName></name>
+      <name><languageId>sr</languageId><trName>га</trName></name>
+      <name><languageId>sr_Latn</languageId><trName>ga</trName></name>
+      <name><languageId>sv</languageId><trName>gã</trName></name>
+      <name><languageId>sw</languageId><trName>Ga</trName></name>
+      <name><languageId>syr</languageId><trName>ܓܐܝܬ</trName></name>
+      <name><languageId>ta</languageId><trName>கா</trName></name>
+      <name><languageId>te</languageId><trName>గా</trName></name>
+      <name><languageId>th</languageId><trName>กา</trName></name>
+      <name><languageId>ti</languageId><trName>ጋ</trName></name>
+      <name><languageId>tk</languageId><trName>ga dili</trName></name>
+      <name><languageId>to</languageId><trName>lea fakakā</trName></name>
+      <name><languageId>tr</languageId><trName>Ga dili</trName></name>
+      <name><languageId>ug</languageId><trName>گاچە</trName></name>
+      <name><languageId>uk</languageId><trName>га</trName></name>
+      <name><languageId>ur</languageId><trName>گا</trName></name>
+      <name><languageId>uz</languageId><trName>ga</trName></name>
+      <name><languageId>vi</languageId><trName>Tiếng Ga</trName></name>
+      <name><languageId>yo</languageId><trName>Èdè Gaa</trName></name>
+      <name><languageId>yue</languageId><trName>加族文</trName></name>
+      <name><languageId>zh</languageId><trName>加族语</trName></name>
+      <name><languageId>zh_Hant</languageId><trName>加族文</trName></name>
+      <name><languageId>zu</languageId><trName>isi-Ga</trName></name>
+    </names>
+    <scripts>
+      <script><scriptId>Latn</scriptId><rank>1000</rank></script>
+    </scripts>
+    <locales>
+    </locales>
+    <territories>
+      <territory><territoryId>GH</territoryId><rank>1000</rank></territory>
+    </territories>
+    <keyboards>
+      <keyboard><keyboardId>us(altgr-intl)</keyboardId><rank>1000</rank></keyboard>
+    </keyboards>
+    <inputmethods>
+    </inputmethods>
+    <consolefonts>
+      <consolefont><consolefontId>eurlatgr</consolefontId><rank>1000</rank></consolefont>
+    </consolefonts>
+    <timezones>
+      <timezone><timezoneId>Africa/Accra</timezoneId><rank>1000</rank></timezone>
     </timezones>
   </language>
   <language>
@@ -18775,6 +18969,7 @@
       <name><languageId>fur</languageId><trName>hindi</trName></name>
       <name><languageId>fy</languageId><trName>Hindi</trName></name>
       <name><languageId>ga</languageId><trName>Hiondúis</trName></name>
+      <name><languageId>gaa</languageId><trName>Hindi</trName></name>
       <name><languageId>gd</languageId><trName>Hindis</trName></name>
       <name><languageId>gez</languageId><trName>ሐንድኛ</trName></name>
       <name><languageId>gl</languageId><trName>hindi</trName></name>
@@ -20205,6 +20400,7 @@
       <name><languageId>fur</languageId><trName>armen</trName></name>
       <name><languageId>fy</languageId><trName>Armeensk</trName></name>
       <name><languageId>ga</languageId><trName>Airméinis</trName></name>
+      <name><languageId>gaa</languageId><trName>Armenian</trName></name>
       <name><languageId>gd</languageId><trName>Airmeinis</trName></name>
       <name><languageId>gez</languageId><trName>አርመናዊ</trName></name>
       <name><languageId>gl</languageId><trName>armenio</trName></name>
@@ -20741,6 +20937,7 @@
       <name><languageId>fur</languageId><trName>indonesian</trName></name>
       <name><languageId>fy</languageId><trName>Yndonezysk</trName></name>
       <name><languageId>ga</languageId><trName>Indinéisis</trName></name>
+      <name><languageId>gaa</languageId><trName>Indonesian</trName></name>
       <name><languageId>gd</languageId><trName>Innd-Innsis</trName></name>
       <name><languageId>gez</languageId><trName>እንዶኒሲኛ</trName></name>
       <name><languageId>gl</languageId><trName>indonesio</trName></name>
@@ -22128,6 +22325,7 @@
       <name><languageId>fur</languageId><trName>talian</trName></name>
       <name><languageId>fy</languageId><trName>Italiaansk</trName></name>
       <name><languageId>ga</languageId><trName>Iodáilis</trName></name>
+      <name><languageId>gaa</languageId><trName>Italian</trName></name>
       <name><languageId>gd</languageId><trName>Eadailtis</trName></name>
       <name><languageId>gez</languageId><trName>ጣሊያንኛ</trName></name>
       <name><languageId>gl</languageId><trName>italiano</trName></name>
@@ -22613,6 +22811,7 @@
       <name><languageId>fur</languageId><trName>gjaponês</trName></name>
       <name><languageId>fy</languageId><trName>Japans</trName></name>
       <name><languageId>ga</languageId><trName>Seapáinis</trName></name>
+      <name><languageId>gaa</languageId><trName>Japanese</trName></name>
       <name><languageId>gd</languageId><trName>Seapanais</trName></name>
       <name><languageId>gez</languageId><trName>ጃፓንኛ</trName></name>
       <name><languageId>gl</languageId><trName>xaponés</trName></name>
@@ -26085,6 +26284,7 @@
       <name><languageId>fur</languageId><trName>corean</trName></name>
       <name><languageId>fy</languageId><trName>Koreaansk</trName></name>
       <name><languageId>ga</languageId><trName>Cóiréis</trName></name>
+      <name><languageId>gaa</languageId><trName>Korean</trName></name>
       <name><languageId>gd</languageId><trName>Coirèanais</trName></name>
       <name><languageId>gez</languageId><trName>ኮሪያኛ</trName></name>
       <name><languageId>gl</languageId><trName>coreano</trName></name>
@@ -27058,6 +27258,7 @@
       <name><languageId>frr</languageId><trName>Bafia</trName></name>
       <name><languageId>fy</languageId><trName>Bafia</trName></name>
       <name><languageId>ga</languageId><trName>Baifiais</trName></name>
+      <name><languageId>gaa</languageId><trName>Bafia</trName></name>
       <name><languageId>gd</languageId><trName>Bafia</trName></name>
       <name><languageId>gl</languageId><trName>bafia</trName></name>
       <name><languageId>gu</languageId><trName>બફિયા</trName></name>
@@ -34606,6 +34807,7 @@
       <name><languageId>frr</languageId><trName>Burmeesk</trName></name>
       <name><languageId>fy</languageId><trName>Birmees</trName></name>
       <name><languageId>ga</languageId><trName>Burmais</trName></name>
+      <name><languageId>gaa</languageId><trName>Burmese</trName></name>
       <name><languageId>gd</languageId><trName>Burmais</trName></name>
       <name><languageId>gez</languageId><trName>ቡርማኛ</trName></name>
       <name><languageId>gl</languageId><trName>birmano</trName></name>
@@ -36659,6 +36861,7 @@
       <name><languageId>fur</languageId><trName>olandês</trName></name>
       <name><languageId>fy</languageId><trName>Nederlânsk</trName></name>
       <name><languageId>ga</languageId><trName>Ollainnis</trName></name>
+      <name><languageId>gaa</languageId><trName>Daatsi</trName></name>
       <name><languageId>gd</languageId><trName>Duitsis</trName></name>
       <name><languageId>gez</languageId><trName>ደች</trName></name>
       <name><languageId>gl</languageId><trName>neerlandés</trName></name>
@@ -40008,6 +40211,7 @@
       <name><languageId>fur</languageId><trName>polac</trName></name>
       <name><languageId>fy</languageId><trName>Poalsk</trName></name>
       <name><languageId>ga</languageId><trName>Polainnis</trName></name>
+      <name><languageId>gaa</languageId><trName>Polish</trName></name>
       <name><languageId>gd</languageId><trName>Pòlainnis</trName></name>
       <name><languageId>gez</languageId><trName>ፖሊሽ</trName></name>
       <name><languageId>gl</languageId><trName>polaco</trName></name>
@@ -40599,6 +40803,7 @@
       <name><languageId>fur</languageId><trName>portughês</trName></name>
       <name><languageId>fy</languageId><trName>Portugeesk</trName></name>
       <name><languageId>ga</languageId><trName>Portaingéilis</trName></name>
+      <name><languageId>gaa</languageId><trName>Portuguese</trName></name>
       <name><languageId>gd</languageId><trName>Portagailis</trName></name>
       <name><languageId>gez</languageId><trName>ፖርቱጋሊኛ</trName></name>
       <name><languageId>gl</languageId><trName>portugués</trName></name>
@@ -42213,6 +42418,7 @@
       <name><languageId>fur</languageId><trName>rus</trName></name>
       <name><languageId>fy</languageId><trName>Russysk</trName></name>
       <name><languageId>ga</languageId><trName>Rúisis</trName></name>
+      <name><languageId>gaa</languageId><trName>Russian</trName></name>
       <name><languageId>gd</languageId><trName>Ruisis</trName></name>
       <name><languageId>gez</languageId><trName>ራሽኛ</trName></name>
       <name><languageId>gl</languageId><trName>ruso</trName></name>
@@ -47587,6 +47793,7 @@
       <name><languageId>fur</languageId><trName>albanês</trName></name>
       <name><languageId>fy</languageId><trName>Albaneesk</trName></name>
       <name><languageId>ga</languageId><trName>Albáinis</trName></name>
+      <name><languageId>gaa</languageId><trName>Albanian</trName></name>
       <name><languageId>gd</languageId><trName>Albàinis</trName></name>
       <name><languageId>gez</languageId><trName>ልቤኒኛ</trName></name>
       <name><languageId>gl</languageId><trName>albanés</trName></name>
@@ -50450,6 +50657,7 @@
       <name><languageId>fur</languageId><trName>thai</trName></name>
       <name><languageId>fy</languageId><trName>Thais</trName></name>
       <name><languageId>ga</languageId><trName>Téalainnis</trName></name>
+      <name><languageId>gaa</languageId><trName>Thai</trName></name>
       <name><languageId>gd</languageId><trName>Cànan nan Tàidh</trName></name>
       <name><languageId>gez</languageId><trName>ታይኛ</trName></name>
       <name><languageId>gl</languageId><trName>tailandés</trName></name>
@@ -52009,6 +52217,7 @@
       <name><languageId>fur</languageId><trName>turc</trName></name>
       <name><languageId>fy</languageId><trName>Turks</trName></name>
       <name><languageId>ga</languageId><trName>Tuircis</trName></name>
+      <name><languageId>gaa</languageId><trName>Turkish</trName></name>
       <name><languageId>gd</languageId><trName>Turcais</trName></name>
       <name><languageId>gez</languageId><trName>ቱርክኛ</trName></name>
       <name><languageId>gl</languageId><trName>turco</trName></name>
@@ -57513,6 +57722,7 @@
       <name><languageId>frr</languageId><trName>Kantoneesk</trName></name>
       <name><languageId>fy</languageId><trName>Kantoneesk</trName></name>
       <name><languageId>ga</languageId><trName>Cantainis</trName></name>
+      <name><languageId>gaa</languageId><trName>Kantonese</trName></name>
       <name><languageId>gd</languageId><trName>Cantonais</trName></name>
       <name><languageId>gl</languageId><trName>cantonés</trName></name>
       <name><languageId>gsw</languageId><trName>Kantonesisch</trName></name>
@@ -58007,6 +58217,7 @@
       <name><languageId>fur</languageId><trName>cinês</trName></name>
       <name><languageId>fy</languageId><trName>Sineesk</trName></name>
       <name><languageId>ga</languageId><trName>Sínis</trName></name>
+      <name><languageId>gaa</languageId><trName>Tsainese</trName></name>
       <name><languageId>gd</languageId><trName>Sìnis</trName></name>
       <name><languageId>gez</languageId><trName>ቻይንኛ</trName></name>
       <name><languageId>gl</languageId><trName>chinés</trName></name>
@@ -58279,6 +58490,7 @@
       <name><languageId>fur</languageId><trName>cinês semplificât</trName></name>
       <name><languageId>fy</languageId><trName>Ferienfâldich Sineesk</trName></name>
       <name><languageId>ga</languageId><trName>Mandairínis Shimplithe</trName></name>
+      <name><languageId>gaa</languageId><trName>Mandarin Tsainese Ni Waaa</trName></name>
       <name><languageId>gd</languageId><trName>Mandairinis Shimplichte</trName></name>
       <name><languageId>gl</languageId><trName>chinés mandarín simplificado</trName></name>
       <name><languageId>gsw</languageId><trName>Veräifachts Chineesisch</trName></name>
@@ -58542,6 +58754,7 @@
       <name><languageId>fur</languageId><trName>cinês tradizionâl</trName></name>
       <name><languageId>fy</languageId><trName>Tradisjoneel Sineesk</trName></name>
       <name><languageId>ga</languageId><trName>Mandairínis Thraidisiúnta</trName></name>
+      <name><languageId>gaa</languageId><trName>Blema Mandarin Tsainese</trName></name>
       <name><languageId>gd</languageId><trName>Mandairinis Thradaiseanta</trName></name>
       <name><languageId>gl</languageId><trName>chinés mandarín tradicional</trName></name>
       <name><languageId>gsw</languageId><trName>Tradizionells Chineesisch</trName></name>
