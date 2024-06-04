@@ -24488,6 +24488,157 @@
     </timezones>
   </language>
   <language>
+    <languageId>kcg</languageId>
+    <iso639-1>None</iso639-1>
+    <iso639-2-t>None</iso639-2-t>
+    <iso639-2-b>None</iso639-2-b>
+    <names>
+      <name><languageId>ab</languageId><trName>атиап</trName></name>
+      <name><languageId>af</languageId><trName>Tyap</trName></name>
+      <name><languageId>am</languageId><trName>ታያፕ</trName></name>
+      <name><languageId>ar</languageId><trName>التايابية</trName></name>
+      <name><languageId>as</languageId><trName>ত্যাপ</trName></name>
+      <name><languageId>ast</languageId><trName>tyap</trName></name>
+      <name><languageId>az</languageId><trName>tiyap</trName></name>
+      <name><languageId>be</languageId><trName>т’яп</trName></name>
+      <name><languageId>bew</languageId><trName>Tiap</trName></name>
+      <name><languageId>bg</languageId><trName>туап</trName></name>
+      <name><languageId>bgn</languageId><trName>تیاپی</trName></name>
+      <name><languageId>bn</languageId><trName>টিয়াপ</trName></name>
+      <name><languageId>br</languageId><trName>tyap</trName></name>
+      <name><languageId>brx</languageId><trName>त्याप</trName></name>
+      <name><languageId>bs</languageId><trName>tjap</trName></name>
+      <name><languageId>ca</languageId><trName>tyap</trName></name>
+      <name><languageId>ccp</languageId><trName>𑄑𑄃𑄨𑄠𑄛𑄴</trName></name>
+      <name><languageId>ce</languageId><trName>тьяп</trName></name>
+      <name><languageId>chr</languageId><trName>ᏔᏯᏆ</trName></name>
+      <name><languageId>ckb</languageId><trName>تیاپ</trName></name>
+      <name><languageId>cs</languageId><trName>tyap</trName></name>
+      <name><languageId>cy</languageId><trName>Tyapeg</trName></name>
+      <name><languageId>da</languageId><trName>tyap</trName></name>
+      <name><languageId>de</languageId><trName>Tyap</trName></name>
+      <name><languageId>dsb</languageId><trName>tyapšćina</trName></name>
+      <name><languageId>el</languageId><trName>Τιάπ</trName></name>
+      <name><languageId>en</languageId><trName>Tyap</trName></name>
+      <name><languageId>es</languageId><trName>tyap</trName></name>
+      <name><languageId>et</languageId><trName>tjapi</trName></name>
+      <name><languageId>eu</languageId><trName>tyapa</trName></name>
+      <name><languageId>fa</languageId><trName>تیاپی</trName></name>
+      <name><languageId>fi</languageId><trName>tyap</trName></name>
+      <name><languageId>fil</languageId><trName>Tyap</trName></name>
+      <name><languageId>fo</languageId><trName>tyap</trName></name>
+      <name><languageId>fr</languageId><trName>tyap</trName></name>
+      <name><languageId>frr</languageId><trName>Tyap</trName></name>
+      <name><languageId>fy</languageId><trName>Tyap</trName></name>
+      <name><languageId>ga</languageId><trName>Tyap</trName></name>
+      <name><languageId>gd</languageId><trName>Tyap</trName></name>
+      <name><languageId>gl</languageId><trName>tyap</trName></name>
+      <name><languageId>gsw</languageId><trName>Tyap</trName></name>
+      <name><languageId>gu</languageId><trName>ત્યાપ</trName></name>
+      <name><languageId>ha</languageId><trName>Tyap</trName></name>
+      <name><languageId>he</languageId><trName>טיאפ</trName></name>
+      <name><languageId>hi</languageId><trName>त्याप</trName></name>
+      <name><languageId>hr</languageId><trName>tyap</trName></name>
+      <name><languageId>hsb</languageId><trName>tyapšćina</trName></name>
+      <name><languageId>hu</languageId><trName>tyap</trName></name>
+      <name><languageId>hy</languageId><trName>տիապ</trName></name>
+      <name><languageId>ia</languageId><trName>tyap</trName></name>
+      <name><languageId>id</languageId><trName>Tyap</trName></name>
+      <name><languageId>ig</languageId><trName>Tịyap</trName></name>
+      <name><languageId>is</languageId><trName>tyap</trName></name>
+      <name><languageId>it</languageId><trName>tyap</trName></name>
+      <name><languageId>ja</languageId><trName>カタブ語</trName></name>
+      <name><languageId>jv</languageId><trName>Tyap</trName></name>
+      <name><languageId>ka</languageId><trName>ტიაპი</trName></name>
+      <name><languageId>kab</languageId><trName>Tatyapt</trName></name>
+      <name><languageId>kcg</languageId><trName>Katab</trName></name>
+      <name><languageId>kk</languageId><trName>тьяп тілі</trName></name>
+      <name><languageId>km</languageId><trName>យ៉ាប់</trName></name>
+      <name><languageId>kn</languageId><trName>ಟ್ಯಾಪ್</trName></name>
+      <name><languageId>ko</languageId><trName>티얍어</trName></name>
+      <name><languageId>kok</languageId><trName>त्याप</trName></name>
+      <name><languageId>ks</languageId><trName>تَیَپ</trName></name>
+      <name><languageId>ku</languageId><trName>tyap</trName></name>
+      <name><languageId>ky</languageId><trName>тяпча</trName></name>
+      <name><languageId>lb</languageId><trName>Tyap</trName></name>
+      <name><languageId>lij</languageId><trName>tyap</trName></name>
+      <name><languageId>lo</languageId><trName>ຕີບ</trName></name>
+      <name><languageId>lt</languageId><trName>tyap</trName></name>
+      <name><languageId>lv</languageId><trName>katabu</trName></name>
+      <name><languageId>mai</languageId><trName>टियाप</trName></name>
+      <name><languageId>mi</languageId><trName>Tiapa</trName></name>
+      <name><languageId>mk</languageId><trName>тјап</trName></name>
+      <name><languageId>ml</languageId><trName>ട്യാപ്</trName></name>
+      <name><languageId>mn</languageId><trName>тяп</trName></name>
+      <name><languageId>mr</languageId><trName>त्याप</trName></name>
+      <name><languageId>ms</languageId><trName>Tyap</trName></name>
+      <name><languageId>mt</languageId><trName>Tyap</trName></name>
+      <name><languageId>my</languageId><trName>တိုင်အပ်</trName></name>
+      <name><languageId>nds</languageId><trName>Tyap</trName></name>
+      <name><languageId>ne</languageId><trName>टुआप</trName></name>
+      <name><languageId>nl</languageId><trName>Tyap</trName></name>
+      <name><languageId>no</languageId><trName>tyap</trName></name>
+      <name><languageId>or</languageId><trName>ତ୍ୟାପ୍</trName></name>
+      <name><languageId>pa</languageId><trName>ਟਾਇਪ</trName></name>
+      <name><languageId>pl</languageId><trName>tyap</trName></name>
+      <name><languageId>ps</languageId><trName>تایپ</trName></name>
+      <name><languageId>pt</languageId><trName>tyap</trName></name>
+      <name><languageId>qu</languageId><trName>Tyap Simi</trName></name>
+      <name><languageId>rm</languageId><trName>tyap</trName></name>
+      <name><languageId>ro</languageId><trName>tyap</trName></name>
+      <name><languageId>ru</languageId><trName>тьяп</trName></name>
+      <name><languageId>sat</languageId><trName>ᱴᱭᱟᱯ</trName></name>
+      <name><languageId>sc</languageId><trName>tyap</trName></name>
+      <name><languageId>sd</languageId><trName>تياپ</trName></name>
+      <name><languageId>si</languageId><trName>ට්යප්</trName></name>
+      <name><languageId>sk</languageId><trName>tyap</trName></name>
+      <name><languageId>sl</languageId><trName>tjapska nigerijščina</trName></name>
+      <name><languageId>smn</languageId><trName>tyap</trName></name>
+      <name><languageId>so</languageId><trName>Tyap</trName></name>
+      <name><languageId>sq</languageId><trName>tjapisht</trName></name>
+      <name><languageId>sr</languageId><trName>тјап</trName></name>
+      <name><languageId>sr_Latn</languageId><trName>tjap</trName></name>
+      <name><languageId>sv</languageId><trName>tyap</trName></name>
+      <name><languageId>sw</languageId><trName>Kityap</trName></name>
+      <name><languageId>ta</languageId><trName>தையாப்</trName></name>
+      <name><languageId>te</languageId><trName>ట్యాప్</trName></name>
+      <name><languageId>th</languageId><trName>ทีแยป</trName></name>
+      <name><languageId>ti</languageId><trName>ታያፕ</trName></name>
+      <name><languageId>tk</languageId><trName>tiap dili</trName></name>
+      <name><languageId>to</languageId><trName>lea fakatiapi</trName></name>
+      <name><languageId>tr</languageId><trName>Tyap</trName></name>
+      <name><languageId>ug</languageId><trName>تياپچە</trName></name>
+      <name><languageId>uk</languageId><trName>тіап</trName></name>
+      <name><languageId>ur</languageId><trName>تیاپ</trName></name>
+      <name><languageId>uz</languageId><trName>tyap</trName></name>
+      <name><languageId>vi</languageId><trName>Tiếng Tyap</trName></name>
+      <name><languageId>yo</languageId><trName>Èdè Tiyapu</trName></name>
+      <name><languageId>yue</languageId><trName>卡塔布文</trName></name>
+      <name><languageId>zh</languageId><trName>卡塔布语</trName></name>
+      <name><languageId>zh_Hant</languageId><trName>卡塔布文</trName></name>
+      <name><languageId>zu</languageId><trName>isi-Tyap</trName></name>
+    </names>
+    <scripts>
+      <script><scriptId>Latn</scriptId><rank>1000</rank></script>
+    </scripts>
+    <locales>
+    </locales>
+    <territories>
+      <territory><territoryId>NG</territoryId><rank>1000</rank></territory>
+    </territories>
+    <keyboards>
+      <keyboard><keyboardId>ng</keyboardId><rank>1000</rank></keyboard>
+    </keyboards>
+    <inputmethods>
+    </inputmethods>
+    <consolefonts>
+      <consolefont><consolefontId>eurlatgr</consolefontId><rank>1000</rank></consolefont>
+    </consolefonts>
+    <timezones>
+      <timezone><timezoneId>Africa/Lagos</timezoneId><rank>1000</rank></timezone>
+    </timezones>
+  </language>
+  <language>
     <languageId>kde</languageId>
     <iso639-1>None</iso639-1>
     <iso639-2-t>None</iso639-2-t>
