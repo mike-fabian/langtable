@@ -954,6 +954,7 @@
       <name><languageId>fil</languageId><trName>Algiers</trName></name>
       <name><languageId>fo</languageId><trName>Algiers</trName></name>
       <name><languageId>fr</languageId><trName>Alger</trName></name>
+      <name><languageId>frr</languageId><trName>Algier</trName></name>
       <name><languageId>ga</languageId><trName>Cathair na hAilgéire</trName></name>
       <name><languageId>gd</languageId><trName>Algiers</trName></name>
       <name><languageId>gl</languageId><trName>Alxer</trName></name>
@@ -1785,6 +1786,7 @@
       <name><languageId>fil</languageId><trName>Andorra</trName></name>
       <name><languageId>fo</languageId><trName>Andorra</trName></name>
       <name><languageId>fr</languageId><trName>Andorre</trName></name>
+      <name><languageId>frr</languageId><trName>Andora</trName></name>
       <name><languageId>ga</languageId><trName>Andóra</trName></name>
       <name><languageId>gd</languageId><trName>Andorra</trName></name>
       <name><languageId>gl</languageId><trName>Andorra</trName></name>
@@ -2251,6 +2253,7 @@
       <name><languageId>fil</languageId><trName>Antigua</trName></name>
       <name><languageId>fo</languageId><trName>Antigua</trName></name>
       <name><languageId>fr</languageId><trName>Antigua</trName></name>
+      <name><languageId>frr</languageId><trName>Antiigua</trName></name>
       <name><languageId>ga</languageId><trName>Antigua</trName></name>
       <name><languageId>gd</languageId><trName>Aintìoga</trName></name>
       <name><languageId>gl</languageId><trName>Antiga</trName></name>
@@ -3114,6 +3117,7 @@
       <name><languageId>fil</languageId><trName>Aruba</trName></name>
       <name><languageId>fo</languageId><trName>Aruba</trName></name>
       <name><languageId>fr</languageId><trName>Aruba</trName></name>
+      <name><languageId>frr</languageId><trName>Aruuba</trName></name>
       <name><languageId>ga</languageId><trName>Arúba</trName></name>
       <name><languageId>gd</languageId><trName>Arùba</trName></name>
       <name><languageId>gl</languageId><trName>Aruba</trName></name>
@@ -3238,6 +3242,7 @@
       <name><languageId>fil</languageId><trName>Ashgabat</trName></name>
       <name><languageId>fo</languageId><trName>Ashgabat</trName></name>
       <name><languageId>fr</languageId><trName>Achgabat</trName></name>
+      <name><languageId>frr</languageId><trName>Aschgabat</trName></name>
       <name><languageId>fy</languageId><trName>Asjchabad</trName></name>
       <name><languageId>ga</languageId><trName>Ashgabat</trName></name>
       <name><languageId>gd</languageId><trName>Aşgabat</trName></name>
@@ -3711,6 +3716,7 @@
       <name><languageId>fil</languageId><trName>Athens</trName></name>
       <name><languageId>fo</languageId><trName>Aten</trName></name>
       <name><languageId>fr</languageId><trName>Athènes</trName></name>
+      <name><languageId>frr</languageId><trName>Atheen</trName></name>
       <name><languageId>fy</languageId><trName>Athene</trName></name>
       <name><languageId>ga</languageId><trName>an Aithin</trName></name>
       <name><languageId>gd</languageId><trName>An Àithne</trName></name>
@@ -4271,6 +4277,7 @@
       <name><languageId>fil</languageId><trName>Azores</trName></name>
       <name><languageId>fo</languageId><trName>Azorurnar</trName></name>
       <name><languageId>fr</languageId><trName>Açores</trName></name>
+      <name><languageId>frr</languageId><trName>Atsooren</trName></name>
       <name><languageId>fur</languageId><trName>Azoris</trName></name>
       <name><languageId>fy</languageId><trName>Azoren</trName></name>
       <name><languageId>ga</languageId><trName>na hAsóir</trName></name>
@@ -4402,6 +4409,7 @@
       <name><languageId>fil</languageId><trName>Baghdad</trName></name>
       <name><languageId>fo</languageId><trName>Baghdad</trName></name>
       <name><languageId>fr</languageId><trName>Bagdad</trName></name>
+      <name><languageId>frr</languageId><trName>Bagdad</trName></name>
       <name><languageId>fy</languageId><trName>Bagdad</trName></name>
       <name><languageId>ga</languageId><trName>Bagdad</trName></name>
       <name><languageId>gd</languageId><trName>Baghdād</trName></name>
@@ -4642,6 +4650,7 @@
       <name><languageId>fil</languageId><trName>Bahia Banderas</trName></name>
       <name><languageId>fo</languageId><trName>Bahia Banderas</trName></name>
       <name><languageId>fr</languageId><trName>Bahia de Banderas</trName></name>
+      <name><languageId>frr</languageId><trName>Bahia de Banderas</trName></name>
       <name><languageId>fy</languageId><trName>Bahía de Banderas</trName></name>
       <name><languageId>ga</languageId><trName>Bahia Banderas</trName></name>
       <name><languageId>gd</languageId><trName>Bahía de Banderas</trName></name>
@@ -4768,6 +4777,7 @@
       <name><languageId>fil</languageId><trName>Bahrain</trName></name>
       <name><languageId>fo</languageId><trName>Barein</trName></name>
       <name><languageId>fr</languageId><trName>Bahreïn</trName></name>
+      <name><languageId>frr</languageId><trName>Bachrain</trName></name>
       <name><languageId>fy</languageId><trName>Bahrein</trName></name>
       <name><languageId>ga</languageId><trName>Bairéin</trName></name>
       <name><languageId>gd</languageId><trName>Bachrain</trName></name>
@@ -5483,6 +5493,7 @@
       <name><languageId>fil</languageId><trName>Barbados</trName></name>
       <name><languageId>fo</languageId><trName>Barbados</trName></name>
       <name><languageId>fr</languageId><trName>La Barbade</trName></name>
+      <name><languageId>frr</languageId><trName>Brabaados</trName></name>
       <name><languageId>ga</languageId><trName>Barbadós</trName></name>
       <name><languageId>gd</languageId><trName>Barbados</trName></name>
       <name><languageId>gl</languageId><trName>Barbados</trName></name>
@@ -5843,6 +5854,7 @@
       <name><languageId>fil</languageId><trName>Belgrade</trName></name>
       <name><languageId>fo</languageId><trName>Beograd</trName></name>
       <name><languageId>fr</languageId><trName>Belgrade</trName></name>
+      <name><languageId>frr</languageId><trName>Belgrad</trName></name>
       <name><languageId>fur</languageId><trName>Belgrât</trName></name>
       <name><languageId>fy</languageId><trName>Belgrado</trName></name>
       <name><languageId>ga</languageId><trName>Béalgrád</trName></name>
@@ -6221,6 +6233,7 @@
       <name><languageId>fil</languageId><trName>Bermuda</trName></name>
       <name><languageId>fo</languageId><trName>Bermuda</trName></name>
       <name><languageId>fr</languageId><trName>Bermudes</trName></name>
+      <name><languageId>frr</languageId><trName>Bermuuda</trName></name>
       <name><languageId>ga</languageId><trName>Beirmiúda</trName></name>
       <name><languageId>gd</languageId><trName>Bearmùda</trName></name>
       <name><languageId>gl</languageId><trName>Illas Bermudas</trName></name>
@@ -6347,6 +6360,7 @@
       <name><languageId>fil</languageId><trName>Beulah</trName></name>
       <name><languageId>fo</languageId><trName>Beulah, North Dakota</trName></name>
       <name><languageId>fr</languageId><trName>Beulah</trName></name>
+      <name><languageId>frr</languageId><trName>Beulah, Nuurd Dakota</trName></name>
       <name><languageId>fy</languageId><trName>Beulah, Noard-Dakota</trName></name>
       <name><languageId>ga</languageId><trName>Beulah, North Dakota</trName></name>
       <name><languageId>gd</languageId><trName>Beulah, North Dakota</trName></name>
@@ -6479,6 +6493,7 @@
       <name><languageId>fil</languageId><trName>Bishkek</trName></name>
       <name><languageId>fo</languageId><trName>Bishkek</trName></name>
       <name><languageId>fr</languageId><trName>Bichkek</trName></name>
+      <name><languageId>frr</languageId><trName>Bischkek</trName></name>
       <name><languageId>fy</languageId><trName>Bisjkek</trName></name>
       <name><languageId>ga</languageId><trName>Bishkek</trName></name>
       <name><languageId>gd</languageId><trName>Biškek</trName></name>
@@ -7901,6 +7916,7 @@
       <name><languageId>fil</languageId><trName>Brussels</trName></name>
       <name><languageId>fo</languageId><trName>Bruxelles</trName></name>
       <name><languageId>fr</languageId><trName>Bruxelles</trName></name>
+      <name><languageId>frr</languageId><trName>Brüssel</trName></name>
       <name><languageId>fy</languageId><trName>Brussel</trName></name>
       <name><languageId>ga</languageId><trName>an Bhruiséil</trName></name>
       <name><languageId>gd</languageId><trName>A’ Bhruiseal</trName></name>
@@ -8033,6 +8049,7 @@
       <name><languageId>fil</languageId><trName>Bucharest</trName></name>
       <name><languageId>fo</languageId><trName>Bukarest</trName></name>
       <name><languageId>fr</languageId><trName>Bucarest</trName></name>
+      <name><languageId>frr</languageId><trName>Bukarest</trName></name>
       <name><languageId>fy</languageId><trName>Boekarest</trName></name>
       <name><languageId>ga</languageId><trName>Búcairist</trName></name>
       <name><languageId>gd</languageId><trName>Bucharest</trName></name>
@@ -8642,6 +8659,7 @@
       <name><languageId>fil</languageId><trName>Cairo</trName></name>
       <name><languageId>fo</languageId><trName>Cairo</trName></name>
       <name><languageId>fr</languageId><trName>Le Caire</trName></name>
+      <name><languageId>frr</languageId><trName>Kairo</trName></name>
       <name><languageId>fy</languageId><trName>Caïro</trName></name>
       <name><languageId>ga</languageId><trName>Caireo</trName></name>
       <name><languageId>gd</languageId><trName>Cairo</trName></name>
@@ -9006,6 +9024,7 @@
       <name><languageId>fil</languageId><trName>Canary</trName></name>
       <name><languageId>fo</languageId><trName>Canary</trName></name>
       <name><languageId>fr</languageId><trName>Îles Canaries</trName></name>
+      <name><languageId>frr</languageId><trName>Kanaaren</trName></name>
       <name><languageId>fur</languageId><trName>Canariis</trName></name>
       <name><languageId>fy</languageId><trName>Kanaryske Eilannen</trName></name>
       <name><languageId>ga</languageId><trName>na hOileáin Chanáracha</trName></name>
@@ -9260,6 +9279,7 @@
       <name><languageId>fil</languageId><trName>Cape Verde</trName></name>
       <name><languageId>fo</languageId><trName>Grønhøvdaoyggjar</trName></name>
       <name><languageId>fr</languageId><trName>Cap-Vert</trName></name>
+      <name><languageId>frr</languageId><trName>Kapwerden</trName></name>
       <name><languageId>fy</languageId><trName>Kaapverdië</trName></name>
       <name><languageId>ga</languageId><trName>Rinn Verde</trName></name>
       <name><languageId>gd</languageId><trName>An Ceap Uaine</trName></name>
@@ -10991,6 +11011,7 @@
       <name><languageId>fil</languageId><trName>Choibalsan</trName></name>
       <name><languageId>fo</languageId><trName>Choibalsan</trName></name>
       <name><languageId>fr</languageId><trName>Tchoïbalsan</trName></name>
+      <name><languageId>frr</languageId><trName>Tschoibalsan</trName></name>
       <name><languageId>ga</languageId><trName>Choibalsan</trName></name>
       <name><languageId>gd</languageId><trName>Choibalsan</trName></name>
       <name><languageId>gl</languageId><trName>Choibalsan</trName></name>
@@ -11195,6 +11216,7 @@
       <name><languageId>fil</languageId><trName>Christmas</trName></name>
       <name><languageId>fo</languageId><trName>Christmas</trName></name>
       <name><languageId>fr</languageId><trName>Christmas</trName></name>
+      <name><languageId>frr</languageId><trName>Jul Eilun</trName></name>
       <name><languageId>fy</languageId><trName>Krysteilân</trName></name>
       <name><languageId>ga</languageId><trName>Oileán na Nollag</trName></name>
       <name><languageId>gd</languageId><trName>Nollaig</trName></name>
@@ -11438,6 +11460,7 @@
       <name><languageId>fil</languageId><trName>Cocos</trName></name>
       <name><languageId>fo</languageId><trName>Cocos</trName></name>
       <name><languageId>fr</languageId><trName>Cocos</trName></name>
+      <name><languageId>frr</languageId><trName>Cocos Eilunen</trName></name>
       <name><languageId>fy</languageId><trName>Cocoseilannen</trName></name>
       <name><languageId>ga</languageId><trName>Oileán Cocos</trName></name>
       <name><languageId>gd</languageId><trName>Cocos</trName></name>
@@ -11929,6 +11952,7 @@
       <name><languageId>fil</languageId><trName>Copenhagen</trName></name>
       <name><languageId>fo</languageId><trName>Keypmannahavn</trName></name>
       <name><languageId>fr</languageId><trName>Copenhague</trName></name>
+      <name><languageId>frr</languageId><trName>Kopenhuuwen</trName></name>
       <name><languageId>fy</languageId><trName>Kopenhagen</trName></name>
       <name><languageId>ga</languageId><trName>Cóbanhávan</trName></name>
       <name><languageId>gd</languageId><trName>Beirbh</trName></name>
@@ -12901,6 +12925,7 @@
       <name><languageId>fil</languageId><trName>Damascus</trName></name>
       <name><languageId>fo</languageId><trName>Damascus</trName></name>
       <name><languageId>fr</languageId><trName>Damas</trName></name>
+      <name><languageId>frr</languageId><trName>Damaskus</trName></name>
       <name><languageId>ga</languageId><trName>an Damaisc</trName></name>
       <name><languageId>gd</languageId><trName>Damascus</trName></name>
       <name><languageId>gl</languageId><trName>Damasco</trName></name>
@@ -14344,6 +14369,7 @@
       <name><languageId>fil</languageId><trName>Dominica</trName></name>
       <name><languageId>fo</languageId><trName>Dominica</trName></name>
       <name><languageId>fr</languageId><trName>Dominique</trName></name>
+      <name><languageId>frr</languageId><trName>Domiinika</trName></name>
       <name><languageId>ga</languageId><trName>Doiminice</trName></name>
       <name><languageId>gd</languageId><trName>Doiminicea</trName></name>
       <name><languageId>gl</languageId><trName>Dominica</trName></name>
@@ -14956,6 +14982,7 @@
       <name><languageId>fil</languageId><trName>Dushanbe</trName></name>
       <name><languageId>fo</languageId><trName>Dushanbe</trName></name>
       <name><languageId>fr</languageId><trName>Douchanbé</trName></name>
+      <name><languageId>frr</languageId><trName>Duschanbe</trName></name>
       <name><languageId>fy</languageId><trName>Dusjanbe</trName></name>
       <name><languageId>ga</languageId><trName>Dushanbe</trName></name>
       <name><languageId>gd</languageId><trName>Dušanbe</trName></name>
@@ -15082,6 +15109,7 @@
       <name><languageId>fil</languageId><trName>Easter</trName></name>
       <name><languageId>fo</languageId><trName>Easter</trName></name>
       <name><languageId>fr</languageId><trName>Île de Pâques</trName></name>
+      <name><languageId>frr</languageId><trName>Puask Eilunen</trName></name>
       <name><languageId>fy</languageId><trName>Peaskeeilân</trName></name>
       <name><languageId>ga</languageId><trName>Oileán na Cásca</trName></name>
       <name><languageId>gd</languageId><trName>Rapa Nui</trName></name>
@@ -16396,6 +16424,7 @@
       <name><languageId>fil</languageId><trName>Faroe</trName></name>
       <name><languageId>fo</languageId><trName>Føroyar</trName></name>
       <name><languageId>fr</languageId><trName>Îles Féroé</trName></name>
+      <name><languageId>frr</languageId><trName>Färöern</trName></name>
       <name><languageId>fy</languageId><trName>Faeröer</trName></name>
       <name><languageId>ga</languageId><trName>Oileáin Fharó</trName></name>
       <name><languageId>gd</languageId><trName>Fàro</trName></name>
@@ -16521,6 +16550,7 @@
       <name><languageId>fil</languageId><trName>Fiji</trName></name>
       <name><languageId>fo</languageId><trName>Fiji</trName></name>
       <name><languageId>fr</languageId><trName>Fidji</trName></name>
+      <name><languageId>frr</languageId><trName>Fidschi</trName></name>
       <name><languageId>ga</languageId><trName>Fidsí</trName></name>
       <name><languageId>gd</languageId><trName>Fìdi</trName></name>
       <name><languageId>gl</languageId><trName>Fixi</trName></name>
@@ -17562,6 +17592,7 @@
       <name><languageId>fil</languageId><trName>Gibraltar</trName></name>
       <name><languageId>fo</languageId><trName>Gibraltar</trName></name>
       <name><languageId>fr</languageId><trName>Gibraltar</trName></name>
+      <name><languageId>frr</languageId><trName>Gibraltaar</trName></name>
       <name><languageId>ga</languageId><trName>Giobráltar</trName></name>
       <name><languageId>gd</languageId><trName>Diobraltar</trName></name>
       <name><languageId>gl</languageId><trName>Xibraltar</trName></name>
@@ -18165,6 +18196,7 @@
       <name><languageId>fil</languageId><trName>Grenada</trName></name>
       <name><languageId>fo</languageId><trName>Grenada</trName></name>
       <name><languageId>fr</languageId><trName>Grenade</trName></name>
+      <name><languageId>frr</languageId><trName>Grenaada</trName></name>
       <name><languageId>ga</languageId><trName>Greanáda</trName></name>
       <name><languageId>gd</languageId><trName>Greanàda</trName></name>
       <name><languageId>gl</languageId><trName>Granada</trName></name>
@@ -18645,6 +18677,7 @@
       <name><languageId>fil</languageId><trName>Guatemala</trName></name>
       <name><languageId>fo</languageId><trName>Guatemala</trName></name>
       <name><languageId>fr</languageId><trName>Guatemala</trName></name>
+      <name><languageId>frr</languageId><trName>Guatemaala</trName></name>
       <name><languageId>ga</languageId><trName>Guatamala</trName></name>
       <name><languageId>gd</languageId><trName>Guatamala</trName></name>
       <name><languageId>gl</languageId><trName>Guatemala</trName></name>
@@ -19003,6 +19036,7 @@
       <name><languageId>fil</languageId><trName>Guyana</trName></name>
       <name><languageId>fo</languageId><trName>Guyana</trName></name>
       <name><languageId>fr</languageId><trName>Guyana</trName></name>
+      <name><languageId>frr</languageId><trName>Guyaana</trName></name>
       <name><languageId>ga</languageId><trName>an Ghuáin</trName></name>
       <name><languageId>gd</languageId><trName>Guidheàna</trName></name>
       <name><languageId>gl</languageId><trName>Güiana</trName></name>
@@ -20005,6 +20039,7 @@
       <name><languageId>fil</languageId><trName>Lungsod ng Ho Chi Minh</trName></name>
       <name><languageId>fo</languageId><trName>Ho Chi Minh</trName></name>
       <name><languageId>fr</languageId><trName>Hô-Chi-Minh-Ville</trName></name>
+      <name><languageId>frr</languageId><trName>Ho Chi Minh Steed</trName></name>
       <name><languageId>fy</languageId><trName>Ho Chi Minhstad</trName></name>
       <name><languageId>ga</languageId><trName>Cathair Ho Chi Minh</trName></name>
       <name><languageId>gd</languageId><trName>Cathair Ho Chi Minh</trName></name>
@@ -20249,6 +20284,7 @@
       <name><languageId>fil</languageId><trName>Hong Kong</trName></name>
       <name><languageId>fo</languageId><trName>Hong Kong</trName></name>
       <name><languageId>fr</languageId><trName>Hong Kong</trName></name>
+      <name><languageId>frr</languageId><trName>Hongkong</trName></name>
       <name><languageId>fy</languageId><trName>Hongkong</trName></name>
       <name><languageId>ga</languageId><trName>Hong Cong</trName></name>
       <name><languageId>gd</languageId><trName>Hong Kong</trName></name>
@@ -20479,6 +20515,7 @@
       <name><languageId>fil</languageId><trName>Hovd</trName></name>
       <name><languageId>fo</languageId><trName>Hovd</trName></name>
       <name><languageId>fr</languageId><trName>Hovd</trName></name>
+      <name><languageId>frr</languageId><trName>Chowd</trName></name>
       <name><languageId>ga</languageId><trName>Hovd</trName></name>
       <name><languageId>gd</languageId><trName>Khovd</trName></name>
       <name><languageId>gl</languageId><trName>Hovd</trName></name>
@@ -21229,6 +21266,7 @@
       <name><languageId>fil</languageId><trName>Isle of Man</trName></name>
       <name><languageId>fo</languageId><trName>Isle of Man</trName></name>
       <name><languageId>fr</languageId><trName>Île de Man</trName></name>
+      <name><languageId>frr</languageId><trName>Eilun Man</trName></name>
       <name><languageId>ga</languageId><trName>Oileán Mhanann</trName></name>
       <name><languageId>gd</languageId><trName>Eilean Mhanainn</trName></name>
       <name><languageId>gl</languageId><trName>Illa de Man</trName></name>
@@ -22914,6 +22952,7 @@
       <name><languageId>fil</languageId><trName>Kamchatka</trName></name>
       <name><languageId>fo</languageId><trName>Kamchatka</trName></name>
       <name><languageId>fr</languageId><trName>Kamtchatka</trName></name>
+      <name><languageId>frr</languageId><trName>Kamtschatka</trName></name>
       <name><languageId>fy</languageId><trName>Kamtsjatka</trName></name>
       <name><languageId>ga</languageId><trName>Kamchatka</trName></name>
       <name><languageId>gd</languageId><trName>Kamchatka</trName></name>
@@ -23160,6 +23199,7 @@
       <name><languageId>fil</languageId><trName>Karachi</trName></name>
       <name><languageId>fo</languageId><trName>Karachi</trName></name>
       <name><languageId>fr</languageId><trName>Karachi</trName></name>
+      <name><languageId>frr</languageId><trName>Karatschi</trName></name>
       <name><languageId>ga</languageId><trName>Karachi</trName></name>
       <name><languageId>gd</languageId><trName>Karācī</trName></name>
       <name><languageId>gl</languageId><trName>Karachi</trName></name>
@@ -23940,6 +23980,7 @@
       <name><languageId>fil</languageId><trName>Kiev</trName></name>
       <name><languageId>fo</languageId><trName>Kiev</trName></name>
       <name><languageId>fr</languageId><trName>Kiev</trName></name>
+      <name><languageId>frr</languageId><trName>Kiew</trName></name>
       <name><languageId>ga</languageId><trName>Cív</trName></name>
       <name><languageId>gd</languageId><trName>Kiev</trName></name>
       <name><languageId>gl</languageId><trName>Kíiv</trName></name>
@@ -24541,6 +24582,7 @@
       <name><languageId>fil</languageId><trName>Kolkata</trName></name>
       <name><languageId>fo</languageId><trName>Kolkata</trName></name>
       <name><languageId>fr</languageId><trName>Calcutta</trName></name>
+      <name><languageId>frr</languageId><trName>Kalkuta</trName></name>
       <name><languageId>fy</languageId><trName>Calcutta</trName></name>
       <name><languageId>ga</languageId><trName>Calcúta</trName></name>
       <name><languageId>gd</languageId><trName>Kolkata</trName></name>
@@ -24897,6 +24939,7 @@
       <name><languageId>fil</languageId><trName>Krasnoyarsk</trName></name>
       <name><languageId>fo</languageId><trName>Krasnoyarsk</trName></name>
       <name><languageId>fr</languageId><trName>Krasnoïarsk</trName></name>
+      <name><languageId>frr</languageId><trName>Krasnojarsk</trName></name>
       <name><languageId>fy</languageId><trName>Krasnojarsk</trName></name>
       <name><languageId>ga</languageId><trName>Krasnoyarsk</trName></name>
       <name><languageId>gd</languageId><trName>Krasnoyarsk</trName></name>
@@ -25140,6 +25183,7 @@
       <name><languageId>fil</languageId><trName>Kuching</trName></name>
       <name><languageId>fo</languageId><trName>Kuching</trName></name>
       <name><languageId>fr</languageId><trName>Kuching</trName></name>
+      <name><languageId>frr</languageId><trName>Kutsching</trName></name>
       <name><languageId>ga</languageId><trName>Kuching</trName></name>
       <name><languageId>gd</languageId><trName>Kuching</trName></name>
       <name><languageId>gl</languageId><trName>Kuching</trName></name>
@@ -26195,6 +26239,7 @@
       <name><languageId>fil</languageId><trName>Lisbon</trName></name>
       <name><languageId>fo</languageId><trName>Lissabon</trName></name>
       <name><languageId>fr</languageId><trName>Lisbonne</trName></name>
+      <name><languageId>frr</languageId><trName>Lisabon</trName></name>
       <name><languageId>fur</languageId><trName>Lisbone</trName></name>
       <name><languageId>fy</languageId><trName>Lissabon</trName></name>
       <name><languageId>ga</languageId><trName>Liospóin</trName></name>
@@ -27644,6 +27689,7 @@
       <name><languageId>fil</languageId><trName>Luxembourg</trName></name>
       <name><languageId>fo</languageId><trName>Luksemborg</trName></name>
       <name><languageId>fr</languageId><trName>Luxembourg</trName></name>
+      <name><languageId>frr</languageId><trName>Luksemborig</trName></name>
       <name><languageId>fur</languageId><trName>Lussemburc</trName></name>
       <name><languageId>fy</languageId><trName>Luxemburg</trName></name>
       <name><languageId>ga</languageId><trName>Lucsamburg</trName></name>
@@ -28959,6 +29005,7 @@
       <name><languageId>fil</languageId><trName>Maldives</trName></name>
       <name><languageId>fo</languageId><trName>Maldivoyggjar</trName></name>
       <name><languageId>fr</languageId><trName>Maldives</trName></name>
+      <name><languageId>frr</languageId><trName>Malediiwen</trName></name>
       <name><languageId>fy</languageId><trName>Maldiven</trName></name>
       <name><languageId>ga</languageId><trName>Oileáin Mhaildíve</trName></name>
       <name><languageId>gd</languageId><trName>Na h-Eileanan Mhaladaibh</trName></name>
@@ -31815,6 +31862,7 @@
       <name><languageId>fil</languageId><trName>Lungsod ng Mexico</trName></name>
       <name><languageId>fo</languageId><trName>Mexico City</trName></name>
       <name><languageId>fr</languageId><trName>Mexico</trName></name>
+      <name><languageId>frr</languageId><trName>Meksiko Steed</trName></name>
       <name><languageId>fy</languageId><trName>Mexico-stad</trName></name>
       <name><languageId>ga</languageId><trName>Cathair Mheicsiceo</trName></name>
       <name><languageId>gd</languageId><trName>Cathair Mheagsago</trName></name>
@@ -32434,6 +32482,7 @@
       <name><languageId>fil</languageId><trName>Monaco</trName></name>
       <name><languageId>fo</languageId><trName>Monako</trName></name>
       <name><languageId>fr</languageId><trName>Monaco</trName></name>
+      <name><languageId>frr</languageId><trName>Monako</trName></name>
       <name><languageId>fy</languageId><trName>Monako</trName></name>
       <name><languageId>ga</languageId><trName>Monacó</trName></name>
       <name><languageId>gd</languageId><trName>Monaco</trName></name>
@@ -33363,6 +33412,7 @@
       <name><languageId>fil</languageId><trName>Moscow</trName></name>
       <name><languageId>fo</languageId><trName>Moskva</trName></name>
       <name><languageId>fr</languageId><trName>Moscou</trName></name>
+      <name><languageId>frr</languageId><trName>Moskau</trName></name>
       <name><languageId>fur</languageId><trName>Mosche</trName></name>
       <name><languageId>fy</languageId><trName>Moskou</trName></name>
       <name><languageId>ga</languageId><trName>Moscó</trName></name>
@@ -33581,6 +33631,7 @@
       <name><languageId>fil</languageId><trName>Muscat</trName></name>
       <name><languageId>fo</languageId><trName>Muscat</trName></name>
       <name><languageId>fr</languageId><trName>Mascate</trName></name>
+      <name><languageId>frr</languageId><trName>Maskat</trName></name>
       <name><languageId>ga</languageId><trName>Muscat</trName></name>
       <name><languageId>gd</languageId><trName>Muscat</trName></name>
       <name><languageId>gl</languageId><trName>Mascate</trName></name>
@@ -34181,6 +34232,7 @@
       <name><languageId>fil</languageId><trName>New Salem</trName></name>
       <name><languageId>fo</languageId><trName>New Salem, North Dakota</trName></name>
       <name><languageId>fr</languageId><trName>New Salem</trName></name>
+      <name><languageId>frr</languageId><trName>New Salem, Nuurd Dakota</trName></name>
       <name><languageId>fy</languageId><trName>New Salem, Noard-Dakota</trName></name>
       <name><languageId>ga</languageId><trName>New Salem, North Dakota</trName></name>
       <name><languageId>gd</languageId><trName>New Salem, North Dakota</trName></name>
@@ -34555,6 +34607,7 @@
       <name><languageId>fil</languageId><trName>Nicosia</trName></name>
       <name><languageId>fo</languageId><trName>Nicosia</trName></name>
       <name><languageId>fr</languageId><trName>Nicosie</trName></name>
+      <name><languageId>frr</languageId><trName>Nikosia</trName></name>
       <name><languageId>ga</languageId><trName>an Niocóis</trName></name>
       <name><languageId>gd</languageId><trName>Nicosia</trName></name>
       <name><languageId>gl</languageId><trName>Nicosia</trName></name>
@@ -35027,6 +35080,7 @@
       <name><languageId>fil</languageId><trName>Norfolk</trName></name>
       <name><languageId>fo</languageId><trName>Norfolk</trName></name>
       <name><languageId>fr</languageId><trName>Norfolk</trName></name>
+      <name><languageId>frr</languageId><trName>Norfolk Eilun</trName></name>
       <name><languageId>ga</languageId><trName>Norfolk</trName></name>
       <name><languageId>gd</languageId><trName>Norfolk</trName></name>
       <name><languageId>gl</languageId><trName>Norfolk</trName></name>
@@ -35578,6 +35632,7 @@
       <name><languageId>fil</languageId><trName>Novokuznetsk</trName></name>
       <name><languageId>fo</languageId><trName>Novokuznetsk</trName></name>
       <name><languageId>fr</languageId><trName>Novokuznetsk</trName></name>
+      <name><languageId>frr</languageId><trName>Nowokusnetsk</trName></name>
       <name><languageId>ga</languageId><trName>Novokuznetsk</trName></name>
       <name><languageId>gd</languageId><trName>Novokuznetsk</trName></name>
       <name><languageId>gl</languageId><trName>Novokuznetsk</trName></name>
@@ -35698,6 +35753,7 @@
       <name><languageId>fil</languageId><trName>Novosibirsk</trName></name>
       <name><languageId>fo</languageId><trName>Novosibirsk</trName></name>
       <name><languageId>fr</languageId><trName>Novossibirsk</trName></name>
+      <name><languageId>frr</languageId><trName>Nowosibirsk</trName></name>
       <name><languageId>ga</languageId><trName>Novosibirsk</trName></name>
       <name><languageId>gd</languageId><trName>Novosibirsk</trName></name>
       <name><languageId>gl</languageId><trName>Novosibirsk</trName></name>
@@ -37202,6 +37258,7 @@
       <name><languageId>fil</languageId><trName>Paris</trName></name>
       <name><languageId>fo</languageId><trName>Paris</trName></name>
       <name><languageId>fr</languageId><trName>Paris</trName></name>
+      <name><languageId>frr</languageId><trName>Pariis</trName></name>
       <name><languageId>fy</languageId><trName>Parys</trName></name>
       <name><languageId>ga</languageId><trName>Páras</trName></name>
       <name><languageId>gd</languageId><trName>Paras</trName></name>
@@ -38877,6 +38934,7 @@
       <name><languageId>fil</languageId><trName>Prague</trName></name>
       <name><languageId>fo</languageId><trName>Prag</trName></name>
       <name><languageId>fr</languageId><trName>Prague</trName></name>
+      <name><languageId>frr</languageId><trName>Praag</trName></name>
       <name><languageId>fur</languageId><trName>Praghe</trName></name>
       <name><languageId>fy</languageId><trName>Praach</trName></name>
       <name><languageId>ga</languageId><trName>Prág</trName></name>
@@ -39006,6 +39064,7 @@
       <name><languageId>fil</languageId><trName>Puerto Rico</trName></name>
       <name><languageId>fo</languageId><trName>Puerto Riko</trName></name>
       <name><languageId>fr</languageId><trName>Porto Rico</trName></name>
+      <name><languageId>frr</languageId><trName>Puerto Riko</trName></name>
       <name><languageId>ga</languageId><trName>Pórtó Ríce</trName></name>
       <name><languageId>gd</languageId><trName>Porto Rìceo</trName></name>
       <name><languageId>gl</languageId><trName>Porto Rico</trName></name>
@@ -39130,6 +39189,7 @@
       <name><languageId>fil</languageId><trName>Pyongyang</trName></name>
       <name><languageId>fo</languageId><trName>Pyongyang</trName></name>
       <name><languageId>fr</languageId><trName>Pyongyang</trName></name>
+      <name><languageId>frr</languageId><trName>Pjöngjang</trName></name>
       <name><languageId>ga</languageId><trName>Pyongyang</trName></name>
       <name><languageId>gd</languageId><trName>Pyeongyang</trName></name>
       <name><languageId>gl</languageId><trName>Pyongyang</trName></name>
@@ -39251,6 +39311,7 @@
       <name><languageId>fil</languageId><trName>Qatar</trName></name>
       <name><languageId>fo</languageId><trName>Qatar</trName></name>
       <name><languageId>fr</languageId><trName>Qatar</trName></name>
+      <name><languageId>frr</languageId><trName>Kataar</trName></name>
       <name><languageId>ga</languageId><trName>Catar</trName></name>
       <name><languageId>gd</languageId><trName>Catar</trName></name>
       <name><languageId>gl</languageId><trName>Qatar</trName></name>
@@ -39615,6 +39676,7 @@
       <name><languageId>fil</languageId><trName>Rangoon</trName></name>
       <name><languageId>fo</languageId><trName>Rangoon</trName></name>
       <name><languageId>fr</languageId><trName>Rangoun</trName></name>
+      <name><languageId>frr</languageId><trName>Ranguun</trName></name>
       <name><languageId>ga</languageId><trName>Rangún</trName></name>
       <name><languageId>gd</languageId><trName>Rangun</trName></name>
       <name><languageId>gl</languageId><trName>Yangon</trName></name>
@@ -40570,6 +40632,7 @@
       <name><languageId>fil</languageId><trName>Riga</trName></name>
       <name><languageId>fo</languageId><trName>Riga</trName></name>
       <name><languageId>fr</languageId><trName>Riga</trName></name>
+      <name><languageId>frr</languageId><trName>Riiga</trName></name>
       <name><languageId>ga</languageId><trName>Ríge</trName></name>
       <name><languageId>gd</languageId><trName>Rīga</trName></name>
       <name><languageId>gl</languageId><trName>Riga</trName></name>
@@ -40925,6 +40988,7 @@
       <name><languageId>fil</languageId><trName>Riyadh</trName></name>
       <name><languageId>fo</languageId><trName>Riyadh</trName></name>
       <name><languageId>fr</languageId><trName>Riyad</trName></name>
+      <name><languageId>frr</languageId><trName>Riad</trName></name>
       <name><languageId>fy</languageId><trName>Riyad</trName></name>
       <name><languageId>ga</languageId><trName>Riyadh</trName></name>
       <name><languageId>gd</languageId><trName>Riyadh</trName></name>
@@ -41052,6 +41116,7 @@
       <name><languageId>fil</languageId><trName>Rome</trName></name>
       <name><languageId>fo</languageId><trName>Rom</trName></name>
       <name><languageId>fr</languageId><trName>Rome</trName></name>
+      <name><languageId>frr</languageId><trName>Room</trName></name>
       <name><languageId>ga</languageId><trName>an Róimh</trName></name>
       <name><languageId>gd</languageId><trName>An Ròimh</trName></name>
       <name><languageId>gl</languageId><trName>Roma</trName></name>
@@ -41411,6 +41476,7 @@
       <name><languageId>fil</languageId><trName>Sakhalin</trName></name>
       <name><languageId>fo</languageId><trName>Sakhalin</trName></name>
       <name><languageId>fr</languageId><trName>Sakhaline</trName></name>
+      <name><languageId>frr</languageId><trName>Sachalin</trName></name>
       <name><languageId>fy</languageId><trName>Sachalin</trName></name>
       <name><languageId>ga</languageId><trName>Sakhalin</trName></name>
       <name><languageId>gd</languageId><trName>Sakhalin</trName></name>
@@ -43307,6 +43373,7 @@
       <name><languageId>fil</languageId><trName>Shanghai</trName></name>
       <name><languageId>fo</languageId><trName>Shanghai</trName></name>
       <name><languageId>fr</languageId><trName>Shanghai</trName></name>
+      <name><languageId>frr</languageId><trName>Schanghai</trName></name>
       <name><languageId>fy</languageId><trName>Sjanghai</trName></name>
       <name><languageId>ga</languageId><trName>Shang-hai</trName></name>
       <name><languageId>gd</languageId><trName>Shanghai</trName></name>
@@ -43625,6 +43692,7 @@
       <name><languageId>fil</languageId><trName>Singapore</trName></name>
       <name><languageId>fo</languageId><trName>Singapor</trName></name>
       <name><languageId>fr</languageId><trName>Singapour</trName></name>
+      <name><languageId>frr</languageId><trName>Singapuur</trName></name>
       <name><languageId>ga</languageId><trName>Singeapór</trName></name>
       <name><languageId>gd</languageId><trName>Singeapòr</trName></name>
       <name><languageId>gl</languageId><trName>Singapur</trName></name>
@@ -44111,6 +44179,7 @@
       <name><languageId>fil</languageId><trName>South Georgia</trName></name>
       <name><languageId>fo</languageId><trName>Suðurgeorgiaoyggjar</trName></name>
       <name><languageId>fr</languageId><trName>Géorgie du Sud</trName></name>
+      <name><languageId>frr</languageId><trName>Süüdgeorgien</trName></name>
       <name><languageId>fy</languageId><trName>Sûd-Georgia</trName></name>
       <name><languageId>ga</languageId><trName>an tSeoirsia Theas</trName></name>
       <name><languageId>gd</languageId><trName>Seòrsea a Deas</trName></name>
@@ -45949,6 +46018,7 @@
       <name><languageId>fil</languageId><trName>Taipei</trName></name>
       <name><languageId>fo</languageId><trName>Taipei</trName></name>
       <name><languageId>fr</languageId><trName>Taipei</trName></name>
+      <name><languageId>frr</languageId><trName>Taipee</trName></name>
       <name><languageId>ga</languageId><trName>Taipei</trName></name>
       <name><languageId>gd</languageId><trName>Taipei</trName></name>
       <name><languageId>gl</languageId><trName>Taipei</trName></name>
@@ -46304,6 +46374,7 @@
       <name><languageId>fil</languageId><trName>Tashkent</trName></name>
       <name><languageId>fo</languageId><trName>Tashkent</trName></name>
       <name><languageId>fr</languageId><trName>Tachkent</trName></name>
+      <name><languageId>frr</languageId><trName>Taschkent</trName></name>
       <name><languageId>fy</languageId><trName>Tasjkent</trName></name>
       <name><languageId>ga</languageId><trName>Tashkent</trName></name>
       <name><languageId>gd</languageId><trName>Toškent</trName></name>
@@ -46429,6 +46500,7 @@
       <name><languageId>fil</languageId><trName>Tbilisi</trName></name>
       <name><languageId>fo</languageId><trName>Tbilisi</trName></name>
       <name><languageId>fr</languageId><trName>Tbilissi</trName></name>
+      <name><languageId>frr</languageId><trName>Tiflis</trName></name>
       <name><languageId>ga</languageId><trName>Tbilisi</trName></name>
       <name><languageId>gd</languageId><trName>T’bilisi</trName></name>
       <name><languageId>gl</languageId><trName>Tbilisi</trName></name>
@@ -46673,6 +46745,7 @@
       <name><languageId>fil</languageId><trName>Tehran</trName></name>
       <name><languageId>fo</languageId><trName>Teheran</trName></name>
       <name><languageId>fr</languageId><trName>Téhéran</trName></name>
+      <name><languageId>frr</languageId><trName>Teheran</trName></name>
       <name><languageId>fy</languageId><trName>Teheran</trName></name>
       <name><languageId>ga</languageId><trName>Tehran</trName></name>
       <name><languageId>gd</languageId><trName>Tehrān</trName></name>
@@ -47400,6 +47473,7 @@
       <name><languageId>fil</languageId><trName>Tirane</trName></name>
       <name><languageId>fo</languageId><trName>Tirane</trName></name>
       <name><languageId>fr</languageId><trName>Tirana</trName></name>
+      <name><languageId>frr</languageId><trName>Tirana</trName></name>
       <name><languageId>fy</languageId><trName>Tirana</trName></name>
       <name><languageId>ga</languageId><trName>Tiorána</trName></name>
       <name><languageId>gd</languageId><trName>Tiranë</trName></name>
@@ -47530,6 +47604,7 @@
       <name><languageId>fil</languageId><trName>Tokyo</trName></name>
       <name><languageId>fo</languageId><trName>Tokyo</trName></name>
       <name><languageId>fr</languageId><trName>Tokyo</trName></name>
+      <name><languageId>frr</languageId><trName>Tokio</trName></name>
       <name><languageId>fy</languageId><trName>Tokio</trName></name>
       <name><languageId>ga</languageId><trName>Tóiceo</trName></name>
       <name><languageId>gd</languageId><trName>Tōkyō</trName></name>
@@ -48009,6 +48084,7 @@
       <name><languageId>fil</languageId><trName>Tripoli</trName></name>
       <name><languageId>fo</languageId><trName>Tripoli</trName></name>
       <name><languageId>fr</languageId><trName>Tripoli (Libye)</trName></name>
+      <name><languageId>frr</languageId><trName>Tripolis</trName></name>
       <name><languageId>ga</languageId><trName>Tripilí</trName></name>
       <name><languageId>gd</languageId><trName>Tripoli</trName></name>
       <name><languageId>gl</languageId><trName>Trípoli</trName></name>
@@ -48685,6 +48761,7 @@
       <name><languageId>fil</languageId><trName>Urumqi</trName></name>
       <name><languageId>fo</languageId><trName>Urumqi</trName></name>
       <name><languageId>fr</languageId><trName>Ürümqi</trName></name>
+      <name><languageId>frr</languageId><trName>Urumtschi</trName></name>
       <name><languageId>ga</languageId><trName>Urumqi</trName></name>
       <name><languageId>gd</languageId><trName>Ürümqi</trName></name>
       <name><languageId>gl</languageId><trName>Ürümqi</trName></name>
@@ -49405,6 +49482,7 @@
       <name><languageId>fil</languageId><trName>Vatican</trName></name>
       <name><languageId>fo</languageId><trName>Vatikanið</trName></name>
       <name><languageId>fr</languageId><trName>Le Vatican</trName></name>
+      <name><languageId>frr</languageId><trName>Watikaanstääd</trName></name>
       <name><languageId>fy</languageId><trName>Fatikaanstêd</trName></name>
       <name><languageId>ga</languageId><trName>an Vatacáin</trName></name>
       <name><languageId>gd</languageId><trName>A’ Bhatacan</trName></name>
@@ -49614,6 +49692,7 @@
       <name><languageId>fil</languageId><trName>Vienna</trName></name>
       <name><languageId>fo</languageId><trName>Wien</trName></name>
       <name><languageId>fr</languageId><trName>Vienne</trName></name>
+      <name><languageId>frr</languageId><trName>Wiin</trName></name>
       <name><languageId>fur</languageId><trName>Viene</trName></name>
       <name><languageId>fy</languageId><trName>Wenen</trName></name>
       <name><languageId>ga</languageId><trName>Vín</trName></name>
@@ -49742,6 +49821,7 @@
       <name><languageId>fil</languageId><trName>Vientiane</trName></name>
       <name><languageId>fo</languageId><trName>Vientiane</trName></name>
       <name><languageId>fr</languageId><trName>Vientiane</trName></name>
+      <name><languageId>frr</languageId><trName>Wjentiane</trName></name>
       <name><languageId>ga</languageId><trName>Vientiane</trName></name>
       <name><languageId>gd</languageId><trName>Viang Chan</trName></name>
       <name><languageId>gl</languageId><trName>Vientiane</trName></name>
@@ -50108,6 +50188,7 @@
       <name><languageId>fil</languageId><trName>Vladivostok</trName></name>
       <name><languageId>fo</languageId><trName>Vladivostok</trName></name>
       <name><languageId>fr</languageId><trName>Vladivostok</trName></name>
+      <name><languageId>frr</languageId><trName>Wladiwostok</trName></name>
       <name><languageId>ga</languageId><trName>Vladivostok</trName></name>
       <name><languageId>gd</languageId><trName>Vladivostok</trName></name>
       <name><languageId>gl</languageId><trName>Vladivostok</trName></name>
@@ -50232,6 +50313,7 @@
       <name><languageId>fil</languageId><trName>Volgograd</trName></name>
       <name><languageId>fo</languageId><trName>Volgograd</trName></name>
       <name><languageId>fr</languageId><trName>Volgograd</trName></name>
+      <name><languageId>frr</languageId><trName>Wolgograd</trName></name>
       <name><languageId>fy</languageId><trName>Wolgograd</trName></name>
       <name><languageId>ga</languageId><trName>Volgograd</trName></name>
       <name><languageId>gd</languageId><trName>Volgograd</trName></name>
@@ -50355,6 +50437,7 @@
       <name><languageId>fil</languageId><trName>Vostok</trName></name>
       <name><languageId>fo</languageId><trName>Vostok</trName></name>
       <name><languageId>fr</languageId><trName>Vostok</trName></name>
+      <name><languageId>frr</languageId><trName>Wostok</trName></name>
       <name><languageId>ga</languageId><trName>Vostok</trName></name>
       <name><languageId>gd</languageId><trName>Vostok</trName></name>
       <name><languageId>gl</languageId><trName>Vostok</trName></name>
@@ -50709,6 +50792,7 @@
       <name><languageId>fil</languageId><trName>Warsaw</trName></name>
       <name><languageId>fo</languageId><trName>Varsjava</trName></name>
       <name><languageId>fr</languageId><trName>Varsovie</trName></name>
+      <name><languageId>frr</languageId><trName>Warschau</trName></name>
       <name><languageId>fy</languageId><trName>Warschau</trName></name>
       <name><languageId>ga</languageId><trName>Vársá</trName></name>
       <name><languageId>gd</languageId><trName>Warsaw</trName></name>
@@ -51442,6 +51526,7 @@
       <name><languageId>fil</languageId><trName>Yakutsk</trName></name>
       <name><languageId>fo</languageId><trName>Yakutsk</trName></name>
       <name><languageId>fr</languageId><trName>Iakoutsk</trName></name>
+      <name><languageId>frr</languageId><trName>Jakutsk</trName></name>
       <name><languageId>fy</languageId><trName>Jakoetsk</trName></name>
       <name><languageId>ga</languageId><trName>Iacútsc</trName></name>
       <name><languageId>gd</languageId><trName>Yakutsk</trName></name>
@@ -51570,6 +51655,7 @@
       <name><languageId>fil</languageId><trName>Yekaterinburg</trName></name>
       <name><languageId>fo</languageId><trName>Yekaterinburg</trName></name>
       <name><languageId>fr</languageId><trName>Ekaterinbourg</trName></name>
+      <name><languageId>frr</languageId><trName>Jekaterinburg</trName></name>
       <name><languageId>fy</languageId><trName>Jekaterinenburg</trName></name>
       <name><languageId>ga</languageId><trName>Yekaterinburg</trName></name>
       <name><languageId>gd</languageId><trName>Yekaterinburg</trName></name>
@@ -51816,6 +51902,7 @@
       <name><languageId>fil</languageId><trName>Yerevan</trName></name>
       <name><languageId>fo</languageId><trName>Yerevan</trName></name>
       <name><languageId>fr</languageId><trName>Erevan</trName></name>
+      <name><languageId>frr</languageId><trName>Jerewan</trName></name>
       <name><languageId>fy</languageId><trName>Jerevan</trName></name>
       <name><languageId>ga</languageId><trName>Eireaván</trName></name>
       <name><languageId>gd</languageId><trName>Yerevan</trName></name>
@@ -52188,6 +52275,7 @@
       <name><languageId>fil</languageId><trName>Zurich</trName></name>
       <name><languageId>fo</languageId><trName>Zürich</trName></name>
       <name><languageId>fr</languageId><trName>Zurich</trName></name>
+      <name><languageId>frr</languageId><trName>Zürich</trName></name>
       <name><languageId>fy</languageId><trName>Zürich</trName></name>
       <name><languageId>ga</languageId><trName>Zürich</trName></name>
       <name><languageId>gd</languageId><trName>Zürich</trName></name>
