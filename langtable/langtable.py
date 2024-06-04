@@ -844,7 +844,7 @@ def _write_keyboards_file(file):
         file.write('    <keyboardId>'+keyboardId+'</keyboardId>\n')
         file.write('    <description>'+_keyboards_db[keyboardId].description+'</description>\n')
         file.write('    <ascii>'+str(_keyboards_db[keyboardId].ascii)+'</ascii>\n')
-        if _keyboards_db[keyboardId].comment != None:
+        if _keyboards_db[keyboardId].comment is not None:
             file.write('    <comment>'+_keyboards_db[keyboardId].comment+'</comment>\n')
         languages = _keyboards_db[keyboardId].languages
         file.write('    <languages>\n')
@@ -1625,7 +1625,7 @@ def _language_name(languageId = None, scriptId = None, territoryId = None, langu
                 icuLocaleIdQuery = languageIdQuery
                 if icuLocaleIdQuery in _languages_db[icuLocaleId].names:
                     return _languages_db[icuLocaleId].names[icuLocaleIdQuery]
-        if not locale.variant in ('VALENCIA',):
+        if locale.variant not in ('VALENCIA',):
             # Don’t do this if locale variant is VALENCIA
             # because then this will run into endless recursion:
             lname = language_name(languageId=languageId,
@@ -1798,7 +1798,7 @@ def territoryId(territoryName = ''):
     '''
     if not territoryName:
         return ''
-    if type(territoryName) != str:
+    if not isinstance(territoryName, str):
         territoryName = territoryName.decode('UTF-8')
     for territoryId in _territories_db:
         for icuLocaleId in _territories_db[territoryId].names:
@@ -1833,7 +1833,7 @@ def languageId(languageName = ''):
     '''
     if not languageName:
         return ''
-    if type(languageName) != str:
+    if not isinstance(languageName, str):
         languageName = languageName.decode('UTF-8')
     for languageId in _languages_db:
         for icuLocaleId in _languages_db[languageId].names:
@@ -2723,5 +2723,5 @@ if __name__ == "__main__":
     print(f'{ATTEMPTED} tests run. {ATTEMPTED - FAILED} passed and {FAILED} failed.')
     if FAILED:
         sys.exit(FAILED)
-    print(f'All tests passed.')
+    print('All tests passed.')
     sys.exit(0)
