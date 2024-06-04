@@ -1,5 +1,3 @@
-# vim:fileencoding=utf-8:sw=4:et -*- coding: utf-8 -*-
-
 # Copyright (c) 2013 Mike FABIAN <mfabian@redhat.com>
 #
 # This program is free software: you can redistribute it and/or modify
@@ -213,7 +211,7 @@ class timezoneIdPart_db_item:
 
 # xml.sax.handler.ContentHandler is not inherited from the 'object' class,
 # 'super' keyword wouldn't work, we need to inherit it on our own
-class LangtableContentHandler(ContentHandler, object):
+class LangtableContentHandler(ContentHandler):
     """
     A base class inherited from the xml.sax.handler.ContentHandler class
     providing handling for SAX events produced when parsing the langtable data
@@ -246,7 +244,7 @@ class TerritoriesContentHandler(LangtableContentHandler):
     """Handler for SAX events produced when parsing the territories.xml file."""
 
     def __init__(self):
-        super(TerritoriesContentHandler, self).__init__()
+        super().__init__()
 
         # simple values
         self._territoryId = None
@@ -267,7 +265,7 @@ class TerritoriesContentHandler(LangtableContentHandler):
         self._timezones = None
 
     def startElement(self, name, attrs):
-        if name == u"territory":
+        if name == "territory":
             self._names = dict()
             self._scripts = dict()
             self._locales = dict()
@@ -278,16 +276,16 @@ class TerritoriesContentHandler(LangtableContentHandler):
             self._timezones = dict()
 
         # non-dict values
-        elif name == u"territoryId":
+        elif name == "territoryId":
             self._save_to = "_territoryId"
 
         # dict items
-        elif name in (u"languageId", u"scriptId", u"localeId", u"keyboardId", u"inputmethodId",
-                      u"consolefontId", u"timezoneId"):
+        elif name in ("languageId", "scriptId", "localeId", "keyboardId", "inputmethodId",
+                      "consolefontId", "timezoneId"):
             self._save_to = "_item_id"
-        elif name == u"trName":
+        elif name == "trName":
             self._save_to = "_item_name"
-        elif name == u"rank":
+        elif name == "rank":
             self._save_to = "_item_rank"
 
     def endElement(self, name):
@@ -295,7 +293,7 @@ class TerritoriesContentHandler(LangtableContentHandler):
         # of an element no text should appear
         self._save_to = None
 
-        if name == u"territory":
+        if name == "territory":
             _territories_db[str(self._territoryId)] = territory_db_item(
                 names = self._names,
                 scripts = self._scripts,
@@ -318,28 +316,28 @@ class TerritoriesContentHandler(LangtableContentHandler):
             self._timezones = None
 
         # populating dictionaries
-        elif name == u"name":
+        elif name == "name":
             self._names[str(self._item_id)] = self._item_name
             self._clear_item()
-        elif name == u"script":
+        elif name == "script":
             self._scripts[str(self._item_id)] = int(self._item_rank)
             self._clear_item()
-        elif name == u"locale":
+        elif name == "locale":
             self._locales[str(self._item_id)] = int(self._item_rank)
             self._clear_item()
-        elif name == u"language":
+        elif name == "language":
             self._languages[str(self._item_id)] = int(self._item_rank)
             self._clear_item()
-        elif name == u"keyboard":
+        elif name == "keyboard":
             self._keyboards[str(self._item_id)] = int(self._item_rank)
             self._clear_item()
-        elif name == u"inputmethod":
+        elif name == "inputmethod":
             self._inputmethods[str(self._item_id)] = int(self._item_rank)
             self._clear_item()
-        elif name == u"consolefont":
+        elif name == "consolefont":
             self._consolefonts[str(self._item_id)] = int(self._item_rank)
             self._clear_item()
-        elif name == u"timezone":
+        elif name == "timezone":
             self._timezones[str(self._item_id)] = int(self._item_rank)
             self._clear_item()
 
@@ -352,7 +350,7 @@ class KeyboardsContentHandler(LangtableContentHandler):
     """Handler for SAX events produced when parsing the keyboards.xml file."""
 
     def __init__(self):
-        super(KeyboardsContentHandler, self).__init__()
+        super().__init__()
 
         # simple values
         self._keyboardId = None
@@ -369,24 +367,24 @@ class KeyboardsContentHandler(LangtableContentHandler):
         self._territories = None
 
     def startElement(self, name, attrs):
-        if name == u"keyboard":
+        if name == "keyboard":
             self._languages = dict()
             self._territories = dict()
 
         # non-dict values
-        elif name == u"keyboardId":
+        elif name == "keyboardId":
             self._save_to = "_keyboardId"
-        elif name == u"description":
+        elif name == "description":
             self._save_to = "_description"
-        elif name == u"ascii":
+        elif name == "ascii":
             self._save_to = "_ascii"
-        elif name == u"comment":
+        elif name == "comment":
             self._save_to = "_comment"
 
         # dict items
-        elif name in (u"languageId", u"territoryId"):
+        elif name in ("languageId", "territoryId"):
             self._save_to = "_item_id"
-        elif name == u"rank":
+        elif name == "rank":
             self._save_to = "_item_rank"
 
     def endElement(self, name):
@@ -394,10 +392,10 @@ class KeyboardsContentHandler(LangtableContentHandler):
         # of an element no text should appear
         self._save_to = None
 
-        if name == u"keyboard":
+        if name == "keyboard":
             _keyboards_db[str(self._keyboardId)] = keyboard_db_item(
                 description = self._description,
-                ascii = self._ascii == u"True",
+                ascii = self._ascii == "True",
                 comment = self._comment,
                 languages = self._languages,
                 territories = self._territories)
@@ -411,10 +409,10 @@ class KeyboardsContentHandler(LangtableContentHandler):
             self._territories = None
 
         # populating dictionaries
-        elif name == u"language":
+        elif name == "language":
             self._languages[str(self._item_id)] = int(self._item_rank)
             self._clear_item()
-        elif name == u"territory":
+        elif name == "territory":
             self._territories[str(self._item_id)] = int(self._item_rank)
             self._clear_item()
 
@@ -426,7 +424,7 @@ class LanguagesContentHandler(LangtableContentHandler):
     """Handler for SAX events produced when parsing the languages.xml file."""
 
     def __init__(self):
-        super(LanguagesContentHandler, self).__init__()
+        super().__init__()
         # simple values
         self._languageId = None
         self._iso639_1 = None
@@ -453,7 +451,7 @@ class LanguagesContentHandler(LangtableContentHandler):
         self._timezones = None
 
     def startElement(self, name, attrs):
-        if name == u"language":
+        if name == "language":
             self._names = dict()
             self._scripts = dict()
             self._locales = dict()
@@ -464,28 +462,28 @@ class LanguagesContentHandler(LangtableContentHandler):
             self._timezones = dict()
 
         # non-dict values
-        elif name == u"languageId" and not self._in_names:
+        elif name == "languageId" and not self._in_names:
             # ID of the language
             self._save_to = "_languageId"
-        elif name == u"iso639-1":
+        elif name == "iso639-1":
             self._save_to = "_iso639_1"
-        elif name == u"iso639-2-t":
+        elif name == "iso639-2-t":
             self._save_to = "_iso639_2_t"
-        elif name == u"iso639-2-b":
+        elif name == "iso639-2-b":
             self._save_to = "_iso639_2_b"
-        elif name == u"names":
+        elif name == "names":
             self._in_names = True
 
         # dict items
-        elif name in (u"scriptId", u"localeId", u"territoryId", u"keyboardId", u"inputmethodId",
-                      u"consolefontId", u"timezoneId"):
+        elif name in ("scriptId", "localeId", "territoryId", "keyboardId", "inputmethodId",
+                      "consolefontId", "timezoneId"):
             self._save_to = "_item_id"
-        elif name == u"languageId" and self._in_names:
+        elif name == "languageId" and self._in_names:
             # ID of the translated name's language
             self._save_to = "_item_id"
-        elif name == u"trName":
+        elif name == "trName":
             self._save_to = "_item_name"
-        elif name == u"rank":
+        elif name == "rank":
             self._save_to = "_item_rank"
 
     def endElement(self, name):
@@ -493,7 +491,7 @@ class LanguagesContentHandler(LangtableContentHandler):
         # of an element no text should appear
         self._save_to = None
 
-        if name == u"language":
+        if name == "language":
             _languages_db[str(self._languageId)] = language_db_item(
                 iso639_1 = self._iso639_1,
                 iso639_2_t = self._iso639_2_t,
@@ -522,32 +520,32 @@ class LanguagesContentHandler(LangtableContentHandler):
             self._timezones = None
 
         # leaving the "names" element
-        elif name == u"names":
+        elif name == "names":
             self._in_names = False
 
         # populating dictionaries
-        elif name == u"name":
+        elif name == "name":
             self._names[str(self._item_id)] = self._item_name
             self._clear_item()
-        elif name == u"script":
+        elif name == "script":
             self._scripts[str(self._item_id)] = int(self._item_rank)
             self._clear_item()
-        elif name == u"locale":
+        elif name == "locale":
             self._locales[str(self._item_id)] = int(self._item_rank)
             self._clear_item()
-        elif name == u"territory":
+        elif name == "territory":
             self._territories[str(self._item_id)] = int(self._item_rank)
             self._clear_item()
-        elif name == u"keyboard":
+        elif name == "keyboard":
             self._keyboards[str(self._item_id)] = int(self._item_rank)
             self._clear_item()
-        elif name == u"inputmethod":
+        elif name == "inputmethod":
             self._inputmethods[str(self._item_id)] = int(self._item_rank)
             self._clear_item()
-        elif name == u"consolefont":
+        elif name == "consolefont":
             self._consolefonts[str(self._item_id)] = int(self._item_rank)
             self._clear_item()
-        elif name == u"timezone":
+        elif name == "timezone":
             self._timezones[str(self._item_id)] = int(self._item_rank)
             self._clear_item()
 
@@ -560,7 +558,7 @@ class TimezonesContentHandler(LangtableContentHandler):
     """Handler for SAX events produced when parsing the timezones.xml file."""
 
     def __init__(self):
-        super(TimezonesContentHandler, self).__init__()
+        super().__init__()
         # simple values
         self._timezoneId = None
 
@@ -572,19 +570,19 @@ class TimezonesContentHandler(LangtableContentHandler):
         self._names = None
 
     def startElement(self, name, attrs):
-        if name == u"timezone":
+        if name == "timezone":
             self._names = dict()
 
         # non-dict values
-        elif name == u"timezoneId":
+        elif name == "timezoneId":
             # ID of the timezone
             self._save_to = "_timezoneId"
 
         # dict items
-        elif name == u"languageId":
+        elif name == "languageId":
             # ID of the translated timezone's language
             self._save_to = "_item_id"
-        elif name == u"trName":
+        elif name == "trName":
             self._save_to = "_item_name"
 
     def endElement(self, name):
@@ -592,7 +590,7 @@ class TimezonesContentHandler(LangtableContentHandler):
         # of an element no text should appear
         self._save_to = None
 
-        if name == u"timezone":
+        if name == "timezone":
             _timezones_db[str(self._timezoneId)] = timezone_db_item(
                 names = self._names)
 
@@ -601,7 +599,7 @@ class TimezonesContentHandler(LangtableContentHandler):
             self._names = None
 
         # populating dictionaries
-        elif name == u"name":
+        elif name == "name":
             self._names[str(self._item_id)] = self._item_name
             self._clear_item()
 
@@ -613,7 +611,7 @@ class TimezoneIdPartsContentHandler(LangtableContentHandler):
     """Handler for SAX events produced when parsing the timezoneidparts.xml file."""
 
     def __init__(self):
-        super(TimezoneIdPartsContentHandler, self).__init__()
+        super().__init__()
         # simple values
         self._timezoneIdPartId = None
 
@@ -625,19 +623,19 @@ class TimezoneIdPartsContentHandler(LangtableContentHandler):
         self._names = None
 
     def startElement(self, name, attrs):
-        if name == u"timezoneIdPart":
+        if name == "timezoneIdPart":
             self._names = dict()
 
         # non-dict values
-        elif name == u"timezoneIdPartId":
+        elif name == "timezoneIdPartId":
             # partial timezone ID
             self._save_to = "_timezoneIdPartId"
 
         # dict items
-        elif name == u"languageId":
+        elif name == "languageId":
             # ID of the translated partial timezone ID's language
             self._save_to = "_item_id"
-        elif name == u"trName":
+        elif name == "trName":
             self._save_to = "_item_name"
 
     def endElement(self, name):
@@ -645,7 +643,7 @@ class TimezoneIdPartsContentHandler(LangtableContentHandler):
         # of an element no text should appear
         self._save_to = None
 
-        if name == u"timezoneIdPart":
+        if name == "timezoneIdPart":
             _timezoneIdParts_db[str(self._timezoneIdPartId)] = timezoneIdPart_db_item(
                 names = self._names)
 
@@ -654,7 +652,7 @@ class TimezoneIdPartsContentHandler(LangtableContentHandler):
             self._names = None
 
         # populating dictionaries
-        elif name == u"name":
+        elif name == "name":
             self._names[str(self._item_id)] = self._item_name
             self._clear_item()
 
@@ -1326,7 +1324,7 @@ def _parse_and_split_languageId(languageId='', scriptId='', territoryId=''):
     return locale
 
 def territory_name(territoryId = None, languageIdQuery = None, scriptIdQuery = None, territoryIdQuery = None, fallback=True):
-    u'''Query translations of territory names
+    '''Query translations of territory names
 
     :param territoryId: identifier for the territory
     :type territoryId: string
@@ -1370,7 +1368,7 @@ def territory_name(territoryId = None, languageIdQuery = None, scriptIdQuery = N
         territoryIdQuery=territoryIdQuery)
 
 def _territory_name(territoryId = None, languageIdQuery = None, scriptIdQuery = None, territoryIdQuery = None, fallback=True):
-    u'''Internal function to query translations of territory names
+    '''Internal function to query translations of territory names
 
     :param territoryId: identifier for the territory
     :type territoryId: string
@@ -1421,7 +1419,7 @@ def _territory_name(territoryId = None, languageIdQuery = None, scriptIdQuery = 
     return ''
 
 def language_name(languageId = None, scriptId = None, territoryId = None, languageIdQuery = None, scriptIdQuery = None, territoryIdQuery = None, fallback=True):
-    u'''Query translations of language names
+    '''Query translations of language names
 
     :param languageId: identifier for the language
     :type languageId: string
@@ -1515,7 +1513,7 @@ def language_name(languageId = None, scriptId = None, territoryId = None, langua
         territoryIdQuery=territoryIdQuery)
 
 def _language_name(languageId = None, scriptId = None, territoryId = None, languageIdQuery = None, scriptIdQuery = None, territoryIdQuery = None, fallback=True):
-    u'''Internal function to query translations of language names
+    '''Internal function to query translations of language names
 
     :param languageId: identifier for the language
     :type languageId: string
@@ -1693,7 +1691,7 @@ def _timezone_name_from_id_parts(timezoneId = None, icuLocaleIdQuery = None):
             name = timezoneId_part.replace('_', ' ')
             part_names.append(name)
     if len(part_names) == len(timezoneId_parts):
-        return u'/'.join(part_names)
+        return '/'.join(part_names)
     return ''
 
 def _timezone_name(timezoneId = None, icuLocaleIdQuery = None):
@@ -1712,7 +1710,7 @@ def _timezone_name(timezoneId = None, icuLocaleIdQuery = None):
     return ''
 
 def timezone_name(timezoneId = None, languageIdQuery = None, scriptIdQuery = None, territoryIdQuery = None):
-    u'''Query translations of timezone IDs
+    '''Query translations of timezone IDs
 
     :param timezoneId: identifier for the time zone
     :type timezoneId: string
@@ -1767,7 +1765,7 @@ def timezone_name(timezoneId = None, languageIdQuery = None, scriptIdQuery = Non
             return name
     return timezoneId
 
-def territoryId(territoryName = u''):
+def territoryId(territoryName = ''):
     '''Query the territoryId from a translated name of a territory.
 
     :param territoryName: the translated name of a language
@@ -1800,7 +1798,7 @@ def territoryId(territoryName = u''):
     '''
     if not territoryName:
         return ''
-    if type(territoryName) != type(u''):
+    if type(territoryName) != str:
         territoryName = territoryName.decode('UTF-8')
     for territoryId in _territories_db:
         for icuLocaleId in _territories_db[territoryId].names:
@@ -1808,7 +1806,7 @@ def territoryId(territoryName = u''):
                 return territoryId
     return ''
 
-def languageId(languageName = u''):
+def languageId(languageName = ''):
     '''Query the languageId from a translated name of a language.
 
     :param languageName: the translated name of a language
@@ -1835,7 +1833,7 @@ def languageId(languageName = u''):
     '''
     if not languageName:
         return ''
-    if type(languageName) != type(u''):
+    if type(languageName) != str:
         languageName = languageName.decode('UTF-8')
     for languageId in _languages_db:
         for icuLocaleId in _languages_db[languageId].names:
@@ -2359,7 +2357,7 @@ def list_common_locales(languageId = None, scriptId = None, territoryId = None):
     return high_ranked_locales
 
 def list_consolefonts(concise=True, show_weights=False, languageId = None, scriptId = None, territoryId = None):
-    u'''List likely Linux Console fonts
+    '''List likely Linux Console fonts
 
     :param concise: if True, return only to highly ranked results
     :type concise: boolean
