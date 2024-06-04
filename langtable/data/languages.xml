@@ -24177,6 +24177,157 @@
     </timezones>
   </language>
   <language>
+    <languageId>kaj</languageId>
+    <iso639-1>None</iso639-1>
+    <iso639-2-t>None</iso639-2-t>
+    <iso639-2-b>None</iso639-2-b>
+    <names>
+      <name><languageId>ab</languageId><trName>акаџи</trName></name>
+      <name><languageId>af</languageId><trName>Jju</trName></name>
+      <name><languageId>am</languageId><trName>ጅጁ</trName></name>
+      <name><languageId>ar</languageId><trName>الجو</trName></name>
+      <name><languageId>as</languageId><trName>জজু</trName></name>
+      <name><languageId>ast</languageId><trName>jju</trName></name>
+      <name><languageId>az</languageId><trName>ju</trName></name>
+      <name><languageId>be</languageId><trName>дджу</trName></name>
+      <name><languageId>bew</languageId><trName>Kajé</trName></name>
+      <name><languageId>bg</languageId><trName>жжу</trName></name>
+      <name><languageId>bgn</languageId><trName>جیجو</trName></name>
+      <name><languageId>bn</languageId><trName>জজু</trName></name>
+      <name><languageId>br</languageId><trName>jju</trName></name>
+      <name><languageId>brx</languageId><trName>झु</trName></name>
+      <name><languageId>bs</languageId><trName>kaju</trName></name>
+      <name><languageId>ca</languageId><trName>jju</trName></name>
+      <name><languageId>ccp</languageId><trName>𑄃𑄧𑄌𑄴𑄎𑄪</trName></name>
+      <name><languageId>ce</languageId><trName>каджи</trName></name>
+      <name><languageId>chr</languageId><trName>ᏥᏧ</trName></name>
+      <name><languageId>ckb</languageId><trName>کیجوو</trName></name>
+      <name><languageId>cs</languageId><trName>jju</trName></name>
+      <name><languageId>cy</languageId><trName>Jju</trName></name>
+      <name><languageId>da</languageId><trName>jju</trName></name>
+      <name><languageId>de</languageId><trName>Jju</trName></name>
+      <name><languageId>dsb</languageId><trName>jjušćina</trName></name>
+      <name><languageId>el</languageId><trName>Τζου</trName></name>
+      <name><languageId>en</languageId><trName>Jju</trName></name>
+      <name><languageId>es</languageId><trName>jju</trName></name>
+      <name><languageId>et</languageId><trName>jju</trName></name>
+      <name><languageId>eu</languageId><trName>jjua</trName></name>
+      <name><languageId>fa</languageId><trName>جو</trName></name>
+      <name><languageId>fi</languageId><trName>jju</trName></name>
+      <name><languageId>fil</languageId><trName>Jju</trName></name>
+      <name><languageId>fo</languageId><trName>jju</trName></name>
+      <name><languageId>fr</languageId><trName>jju</trName></name>
+      <name><languageId>frr</languageId><trName>Kaje</trName></name>
+      <name><languageId>fy</languageId><trName>Jju</trName></name>
+      <name><languageId>ga</languageId><trName>Jju</trName></name>
+      <name><languageId>gd</languageId><trName>Jju</trName></name>
+      <name><languageId>gl</languageId><trName>jju</trName></name>
+      <name><languageId>gsw</languageId><trName>Jju</trName></name>
+      <name><languageId>gu</languageId><trName>જ્જુ</trName></name>
+      <name><languageId>ha</languageId><trName>Jju</trName></name>
+      <name><languageId>he</languageId><trName>ג׳ו</trName></name>
+      <name><languageId>hi</languageId><trName>ज्जु</trName></name>
+      <name><languageId>hr</languageId><trName>kaje</trName></name>
+      <name><languageId>hsb</languageId><trName>jjušćina</trName></name>
+      <name><languageId>hu</languageId><trName>jju</trName></name>
+      <name><languageId>hy</languageId><trName>ջյու</trName></name>
+      <name><languageId>ia</languageId><trName>jju</trName></name>
+      <name><languageId>id</languageId><trName>Jju</trName></name>
+      <name><languageId>ig</languageId><trName>Ju</trName></name>
+      <name><languageId>is</languageId><trName>jju</trName></name>
+      <name><languageId>it</languageId><trName>jju</trName></name>
+      <name><languageId>ja</languageId><trName>カジェ語</trName></name>
+      <name><languageId>jv</languageId><trName>Jju</trName></name>
+      <name><languageId>ka</languageId><trName>კაჯი</trName></name>
+      <name><languageId>kab</languageId><trName>Tajjut</trName></name>
+      <name><languageId>kaj</languageId><trName>Kaje</trName></name>
+      <name><languageId>kk</languageId><trName>каджи тілі</trName></name>
+      <name><languageId>km</languageId><trName>ជូ</trName></name>
+      <name><languageId>kn</languageId><trName>ಜ್ಜು</trName></name>
+      <name><languageId>ko</languageId><trName>까꼬토끄어</trName></name>
+      <name><languageId>kok</languageId><trName>जु</trName></name>
+      <name><languageId>ks</languageId><trName>جُوٗ</trName></name>
+      <name><languageId>ku</languageId><trName>jju</trName></name>
+      <name><languageId>ky</languageId><trName>джуча</trName></name>
+      <name><languageId>lb</languageId><trName>Jju</trName></name>
+      <name><languageId>lij</languageId><trName>jju</trName></name>
+      <name><languageId>lo</languageId><trName>ຈຣູ</trName></name>
+      <name><languageId>lt</languageId><trName>ju</trName></name>
+      <name><languageId>lv</languageId><trName>kadži</trName></name>
+      <name><languageId>mai</languageId><trName>जू</trName></name>
+      <name><languageId>mi</languageId><trName>Heiho</trName></name>
+      <name><languageId>mk</languageId><trName>каџе</trName></name>
+      <name><languageId>ml</languageId><trName>ജ്യൂ</trName></name>
+      <name><languageId>mn</languageId><trName>жжу</trName></name>
+      <name><languageId>mr</languageId><trName>ज्जु</trName></name>
+      <name><languageId>ms</languageId><trName>Jju</trName></name>
+      <name><languageId>mt</languageId><trName>Jju</trName></name>
+      <name><languageId>my</languageId><trName>ဂျူအူ</trName></name>
+      <name><languageId>nds</languageId><trName>Jju</trName></name>
+      <name><languageId>ne</languageId><trName>ज्जु</trName></name>
+      <name><languageId>nl</languageId><trName>Jju</trName></name>
+      <name><languageId>no</languageId><trName>jju</trName></name>
+      <name><languageId>or</languageId><trName>ଜଜୁ</trName></name>
+      <name><languageId>pa</languageId><trName>ਜਜੂ</trName></name>
+      <name><languageId>pl</languageId><trName>jju</trName></name>
+      <name><languageId>ps</languageId><trName>ججو</trName></name>
+      <name><languageId>pt</languageId><trName>jju</trName></name>
+      <name><languageId>qu</languageId><trName>Jju Simi</trName></name>
+      <name><languageId>rm</languageId><trName>jju</trName></name>
+      <name><languageId>ro</languageId><trName>jju</trName></name>
+      <name><languageId>ru</languageId><trName>каджи</trName></name>
+      <name><languageId>sat</languageId><trName>ᱡᱩ</trName></name>
+      <name><languageId>sc</languageId><trName>jju</trName></name>
+      <name><languageId>sd</languageId><trName>پوڪيپسي</trName></name>
+      <name><languageId>si</languageId><trName>ජ්ජු</trName></name>
+      <name><languageId>sk</languageId><trName>jju</trName></name>
+      <name><languageId>sl</languageId><trName>jju</trName></name>
+      <name><languageId>smn</languageId><trName>jju</trName></name>
+      <name><languageId>so</languageId><trName>Jju</trName></name>
+      <name><languageId>sq</languageId><trName>kajeisht</trName></name>
+      <name><languageId>sr</languageId><trName>џу</trName></name>
+      <name><languageId>sr_Latn</languageId><trName>džu</trName></name>
+      <name><languageId>sv</languageId><trName>jju</trName></name>
+      <name><languageId>sw</languageId><trName>Kijju</trName></name>
+      <name><languageId>ta</languageId><trName>ஜ்ஜூ</trName></name>
+      <name><languageId>te</languageId><trName>జ్యూ</trName></name>
+      <name><languageId>th</languageId><trName>คจู</trName></name>
+      <name><languageId>ti</languageId><trName>ጅጁ</trName></name>
+      <name><languageId>tk</languageId><trName>ju dili</trName></name>
+      <name><languageId>to</languageId><trName>lea fakasisū</trName></name>
+      <name><languageId>tr</languageId><trName>Jju</trName></name>
+      <name><languageId>ug</languageId><trName>جۇچە</trName></name>
+      <name><languageId>uk</languageId><trName>йю</trName></name>
+      <name><languageId>ur</languageId><trName>جے جو</trName></name>
+      <name><languageId>uz</languageId><trName>kaji</trName></name>
+      <name><languageId>vi</languageId><trName>Tiếng Jju</trName></name>
+      <name><languageId>yo</languageId><trName>Èdè Ju</trName></name>
+      <name><languageId>yue</languageId><trName>卡捷文</trName></name>
+      <name><languageId>zh</languageId><trName>卡捷语</trName></name>
+      <name><languageId>zh_Hant</languageId><trName>卡捷文</trName></name>
+      <name><languageId>zu</languageId><trName>isi-Jju</trName></name>
+    </names>
+    <scripts>
+      <script><scriptId>Latn</scriptId><rank>1000</rank></script>
+    </scripts>
+    <locales>
+    </locales>
+    <territories>
+      <territory><territoryId>NG</territoryId><rank>1000</rank></territory>
+    </territories>
+    <keyboards>
+      <keyboard><keyboardId>ng</keyboardId><rank>1000</rank></keyboard>
+    </keyboards>
+    <inputmethods>
+    </inputmethods>
+    <consolefonts>
+      <consolefont><consolefontId>eurlatgr</consolefontId><rank>1000</rank></consolefont>
+    </consolefonts>
+    <timezones>
+      <timezone><timezoneId>Africa/Lagos</timezoneId><rank>1000</rank></timezone>
+    </timezones>
+  </language>
+  <language>
     <languageId>kam</languageId>
     <iso639-1>None</iso639-1>
     <iso639-2-t>None</iso639-2-t>
