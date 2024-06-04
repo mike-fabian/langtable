@@ -24954,6 +24954,59 @@
     </timezones>
   </language>
   <language>
+    <languageId>ken</languageId>
+    <iso639-1>None</iso639-1>
+    <iso639-2-t>ken</iso639-2-t>
+    <iso639-2-b>ken</iso639-2-b>
+    <names>
+      <name><languageId>ast</languageId><trName>kenyang</trName></name>
+      <name><languageId>bew</languageId><trName>Kènyang</trName></name>
+      <name><languageId>ca</languageId><trName>kenyang</trName></name>
+      <name><languageId>cs</languageId><trName>kenyang</trName></name>
+      <name><languageId>de</languageId><trName>Kenyang</trName></name>
+      <name><languageId>en</languageId><trName>Kenyang</trName></name>
+      <name><languageId>fi</languageId><trName>kenyang</trName></name>
+      <name><languageId>fr</languageId><trName>kényang</trName></name>
+      <name><languageId>gd</languageId><trName>Kenyang</trName></name>
+      <name><languageId>id</languageId><trName>Kenyang</trName></name>
+      <name><languageId>ja</languageId><trName>ニャン語</trName></name>
+      <name><languageId>ken</languageId><trName>Kɛnyaŋ</trName></name>
+      <name><languageId>ku</languageId><trName>kenyang</trName></name>
+      <name><languageId>lb</languageId><trName>Kenyang</trName></name>
+      <name><languageId>lt</languageId><trName>kenyang</trName></name>
+      <name><languageId>mk</languageId><trName>кењанг</trName></name>
+      <name><languageId>ne</languageId><trName>केनयाङ</trName></name>
+      <name><languageId>nl</languageId><trName>Kenyang</trName></name>
+      <name><languageId>no</languageId><trName>kenyang</trName></name>
+      <name><languageId>pl</languageId><trName>kenyang</trName></name>
+      <name><languageId>sv</languageId><trName>kenjang</trName></name>
+      <name><languageId>th</languageId><trName>เกินยาง</trName></name>
+      <name><languageId>to</languageId><trName>lea fakakeniangi</trName></name>
+      <name><languageId>tr</languageId><trName>Kenyang</trName></name>
+      <name><languageId>yue</languageId><trName>肯揚文</trName></name>
+      <name><languageId>zh_Hant</languageId><trName>肯揚文</trName></name>
+    </names>
+    <scripts>
+      <script><scriptId>Latn</scriptId><rank>1000</rank></script>
+    </scripts>
+    <locales>
+    </locales>
+    <territories>
+      <territory><territoryId>CM</territoryId><rank>1000</rank></territory>
+    </territories>
+    <keyboards>
+      <keyboard><keyboardId>us</keyboardId><rank>1000</rank></keyboard>
+    </keyboards>
+    <inputmethods>
+    </inputmethods>
+    <consolefonts>
+      <consolefont><consolefontId>eurlatgr</consolefontId><rank>1000</rank></consolefont>
+    </consolefonts>
+    <timezones>
+      <timezone><timezoneId>Africa/Douala</timezoneId><rank>1000</rank></timezone>
+    </timezones>
+  </language>
+  <language>
     <languageId>kg</languageId>
     <iso639-1>kg</iso639-1>
     <iso639-2-t>kon</iso639-2-t>
