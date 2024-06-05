@@ -31701,6 +31701,56 @@
     </timezones>
   </language>
   <language>
+    <languageId>ltg</languageId>
+    <iso639-1>None</iso639-1>
+    <iso639-2-t>None</iso639-2-t>
+    <iso639-2-b>None</iso639-2-b>
+    <names>
+      <name><languageId>ast</languageId><trName>latgalianu</trName></name>
+      <name><languageId>cs</languageId><trName>latgalština</trName></name>
+      <name><languageId>cy</languageId><trName>Latgaleg</trName></name>
+      <name><languageId>de</languageId><trName>Lettgallisch</trName></name>
+      <name><languageId>en</languageId><trName>Latgalian</trName></name>
+      <name><languageId>et</languageId><trName>latgali</trName></name>
+      <name><languageId>fi</languageId><trName>latgalli</trName></name>
+      <name><languageId>fr</languageId><trName>latgalien</trName></name>
+      <name><languageId>it</languageId><trName>letgallo</trName></name>
+      <name><languageId>ja</languageId><trName>ラトガリア語</trName></name>
+      <name><languageId>lb</languageId><trName>Lettgallesch</trName></name>
+      <name><languageId>lt</languageId><trName>latgalių</trName></name>
+      <name><languageId>mk</languageId><trName>латгалски</trName></name>
+      <name><languageId>ne</languageId><trName>लाट्गाली</trName></name>
+      <name><languageId>nl</languageId><trName>Letgaals</trName></name>
+      <name><languageId>no</languageId><trName>latgallisk</trName></name>
+      <name><languageId>pl</languageId><trName>łatgalski</trName></name>
+      <name><languageId>sv</languageId><trName>lettgalliska</trName></name>
+      <name><languageId>th</languageId><trName>ลัตเกล</trName></name>
+      <name><languageId>to</languageId><trName>lea fakalatakale</trName></name>
+      <name><languageId>tr</languageId><trName>Latgalian</trName></name>
+      <name><languageId>yue</languageId><trName>拉特加萊文</trName></name>
+      <name><languageId>zh_Hant</languageId><trName>拉特加萊文</trName></name>
+    </names>
+    <scripts>
+      <script><scriptId>Latn</scriptId><rank>1000</rank></script>
+    </scripts>
+    <locales>
+    </locales>
+    <territories>
+      <territory><territoryId>LV</territoryId><rank>1000</rank></territory>
+    </territories>
+    <keyboards>
+      <keyboard><keyboardId>lv</keyboardId><rank>1000</rank></keyboard>
+    </keyboards>
+    <inputmethods>
+    </inputmethods>
+    <consolefonts>
+      <consolefont><consolefontId>eurlatgr</consolefontId><rank>1000</rank></consolefont>
+    </consolefonts>
+    <timezones>
+      <timezone><timezoneId>Europe/Riga</timezoneId><rank>1000</rank></timezone>
+    </timezones>
+  </language>
+  <language>
     <languageId>lu</languageId>
     <iso639-1>lu</iso639-1>
     <iso639-2-t>lub</iso639-2-t>
