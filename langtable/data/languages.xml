@@ -30891,6 +30891,37 @@
     </timezones>
   </language>
   <language>
+    <languageId>lld</languageId>
+    <iso639-1>None</iso639-1>
+    <iso639-2-t>None</iso639-2-t>
+    <iso639-2-b>None</iso639-2-b>
+    <names>
+      <name><languageId>de</languageId><trName>Ladinisch</trName></name>
+      <name><languageId>en</languageId><trName>Ladin</trName></name>
+      <name><languageId>it</languageId><trName>ladino</trName></name>
+      <name><languageId>lld</languageId><trName>ladin</trName></name>
+    </names>
+    <scripts>
+      <script><scriptId>Latn</scriptId><rank>1000</rank></script>
+    </scripts>
+    <locales>
+    </locales>
+    <territories>
+      <territory><territoryId>IT</territoryId><rank>1000</rank></territory>
+    </territories>
+    <keyboards>
+      <keyboard><keyboardId>it</keyboardId><rank>1000</rank></keyboard>
+    </keyboards>
+    <inputmethods>
+    </inputmethods>
+    <consolefonts>
+      <consolefont><consolefontId>eurlatgr</consolefontId><rank>1000</rank></consolefont>
+    </consolefonts>
+    <timezones>
+      <timezone><timezoneId>Europe/Rome</timezoneId><rank>1000</rank></timezone>
+    </timezones>
+  </language>
+  <language>
     <languageId>ln</languageId>
     <iso639-1>ln</iso639-1>
     <iso639-2-t>lin</iso639-2-t>
