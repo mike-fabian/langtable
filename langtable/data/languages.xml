@@ -1814,6 +1814,7 @@
       <name><languageId>ksh</languageId><trName>Arahbesch</trName></name>
       <name><languageId>ku</languageId><trName>erebî</trName></name>
       <name><languageId>kw</languageId><trName>Arabek</trName></name>
+      <name><languageId>kxv</languageId><trName>arabic</trName></name>
       <name><languageId>ky</languageId><trName>арабча</trName></name>
       <name><languageId>la</languageId><trName>Arabica</trName></name>
       <name><languageId>lag</languageId><trName>Kɨaráabu</trName></name>
@@ -5842,6 +5843,7 @@
       <name><languageId>ksf</languageId><trName>ribɛngáli</trName></name>
       <name><languageId>ksh</languageId><trName>Bängjahlesch</trName></name>
       <name><languageId>ku</languageId><trName>bengalî</trName></name>
+      <name><languageId>kxv</languageId><trName>bangali</trName></name>
       <name><languageId>ky</languageId><trName>бангладешче</trName></name>
       <name><languageId>la</languageId><trName>Bengalica</trName></name>
       <name><languageId>lag</languageId><trName>Kɨbangála</trName></name>
@@ -10920,6 +10922,7 @@
       <name><languageId>ksh</languageId><trName>Deutsch</trName></name>
       <name><languageId>ku</languageId><trName>almanî</trName></name>
       <name><languageId>kw</languageId><trName>Almaynek</trName></name>
+      <name><languageId>kxv</languageId><trName>jerman</trName></name>
       <name><languageId>ky</languageId><trName>немисче</trName></name>
       <name><languageId>la</languageId><trName>Germanica</trName></name>
       <name><languageId>lag</languageId><trName>Kɨjerʉmáani</trName></name>
@@ -12947,6 +12950,10 @@
       <name><languageId>ksh</languageId><trName>Änglesch</trName></name>
       <name><languageId>ku</languageId><trName>îngilîzî</trName></name>
       <name><languageId>kw</languageId><trName>Sowsnek</trName></name>
+      <name><languageId>kxv</languageId><trName>ingrajī</trName></name>
+      <name><languageId>kxv_Deva</languageId><trName>इंराजी</trName></name>
+      <name><languageId>kxv_Orya</languageId><trName>ଇଂରାଜୀ</trName></name>
+      <name><languageId>kxv_Telu</languageId><trName>ఇంగ్లిస్</trName></name>
       <name><languageId>ky</languageId><trName>англисче</trName></name>
       <name><languageId>la</languageId><trName>Anglica</trName></name>
       <name><languageId>lag</languageId><trName>Kɨɨngeréesa</trName></name>
@@ -13507,6 +13514,7 @@
       <name><languageId>ksh</languageId><trName>Schpahnesch</trName></name>
       <name><languageId>ku</languageId><trName>spanî</trName></name>
       <name><languageId>kw</languageId><trName>Spaynek</trName></name>
+      <name><languageId>kxv</languageId><trName>spenis</trName></name>
       <name><languageId>ky</languageId><trName>испанча</trName></name>
       <name><languageId>la</languageId><trName>Hispanica</trName></name>
       <name><languageId>lag</languageId><trName>Kɨhispánia</trName></name>
@@ -15698,6 +15706,7 @@
       <name><languageId>ksh</languageId><trName>Franzühsesch</trName></name>
       <name><languageId>ku</languageId><trName>fransî</trName></name>
       <name><languageId>kw</languageId><trName>Frenkek</trName></name>
+      <name><languageId>kxv</languageId><trName>prenc</trName></name>
       <name><languageId>ky</languageId><trName>французча</trName></name>
       <name><languageId>la</languageId><trName>Francogallica</trName></name>
       <name><languageId>lag</languageId><trName>Kɨfaráansa</trName></name>
@@ -21091,6 +21100,7 @@
       <name><languageId>ksf</languageId><trName>riindonɛsí</trName></name>
       <name><languageId>ksh</languageId><trName>Indonehsesch</trName></name>
       <name><languageId>ku</languageId><trName>endonezî</trName></name>
+      <name><languageId>kxv</languageId><trName>inḍonesiyati</trName></name>
       <name><languageId>ky</languageId><trName>индонезияча</trName></name>
       <name><languageId>lag</languageId><trName>Kɨɨndonésia</trName></name>
       <name><languageId>lb</languageId><trName>Indonesesch</trName></name>
@@ -22491,6 +22501,7 @@
       <name><languageId>ksh</languageId><trName>Etalljähnesch</trName></name>
       <name><languageId>ku</languageId><trName>îtalî</trName></name>
       <name><languageId>kw</languageId><trName>Italek</trName></name>
+      <name><languageId>kxv</languageId><trName>iṭaliti</trName></name>
       <name><languageId>ky</languageId><trName>италиянча</trName></name>
       <name><languageId>la</languageId><trName>Italiana</trName></name>
       <name><languageId>lag</languageId><trName>Kɨtaliáano</trName></name>
@@ -22979,6 +22990,7 @@
       <name><languageId>ksh</languageId><trName>Japahnesch</trName></name>
       <name><languageId>ku</languageId><trName>japonî</trName></name>
       <name><languageId>kw</languageId><trName>Japanek</trName></name>
+      <name><languageId>kxv</languageId><trName>japanij</trName></name>
       <name><languageId>ky</languageId><trName>жапончо</trName></name>
       <name><languageId>la</languageId><trName>Iaponica</trName></name>
       <name><languageId>lag</languageId><trName>Kɨjapáani</trName></name>
@@ -27119,6 +27131,7 @@
       <name><languageId>ksf</languageId><trName>rikɔrɛɛ́</trName></name>
       <name><languageId>ksh</languageId><trName>Korrejaanesch</trName></name>
       <name><languageId>ku</languageId><trName>koreyî</trName></name>
+      <name><languageId>kxv</languageId><trName>koriati</trName></name>
       <name><languageId>ky</languageId><trName>корейче</trName></name>
       <name><languageId>la</languageId><trName>Coreana</trName></name>
       <name><languageId>lag</languageId><trName>Kɨkoréa</trName></name>
@@ -29183,6 +29196,153 @@
     <timezones>
       <timezone><timezoneId>Africa/Windhoek</timezoneId><rank>600</rank></timezone>
       <timezone><timezoneId>Africa/Luanda</timezoneId><rank>400</rank></timezone>
+    </timezones>
+  </language>
+  <language>
+    <languageId>kxv</languageId>
+    <iso639-1>None</iso639-1>
+    <iso639-2-t>None</iso639-2-t>
+    <iso639-2-b>None</iso639-2-b>
+    <names>
+      <name><languageId>bew</languageId><trName>Kuwi</trName></name>
+      <name><languageId>en</languageId><trName>Kuvi</trName></name>
+      <name><languageId>et</languageId><trName>kuvi</trName></name>
+      <name><languageId>fi</languageId><trName>kuvi</trName></name>
+      <name><languageId>ku</languageId><trName>kuvî</trName></name>
+      <name><languageId>kxv</languageId><trName>kuvi</trName></name>
+      <name><languageId>kxv_Deva</languageId><trName>कुवि</trName></name>
+      <name><languageId>kxv_Orya</languageId><trName>କୁୱି</trName></name>
+      <name><languageId>kxv_Telu</languageId><trName>కువి</trName></name>
+    </names>
+    <scripts>
+      <script><scriptId>Latn</scriptId><rank>400</rank></script>
+      <script><scriptId>Orya</scriptId><rank>300</rank></script>
+      <script><scriptId>Deva</scriptId><rank>200</rank></script>
+      <script><scriptId>Telu</scriptId><rank>100</rank></script>
+    </scripts>
+    <locales>
+    </locales>
+    <territories>
+      <territory><territoryId>IN</territoryId><rank>1000</rank></territory>
+    </territories>
+    <keyboards>
+      <keyboard><keyboardId>in(eng)</keyboardId><rank>1000</rank></keyboard>
+    </keyboards>
+    <inputmethods>
+    </inputmethods>
+    <consolefonts>
+      <consolefont><consolefontId>eurlatgr</consolefontId><rank>1000</rank></consolefont>
+    </consolefonts>
+    <timezones>
+      <timezone><timezoneId>Asia/Kolkata</timezoneId><rank>1000</rank></timezone>
+    </timezones>
+  </language>
+  <language>
+    <languageId>kxv_Deva</languageId>
+    <iso639-1>None</iso639-1>
+    <iso639-2-t>None</iso639-2-t>
+    <iso639-2-b>None</iso639-2-b>
+    <names>
+      <name><languageId>bew</languageId><trName>Kuwi</trName></name>
+      <name><languageId>en</languageId><trName>Kuvi</trName></name>
+      <name><languageId>et</languageId><trName>kuvi</trName></name>
+      <name><languageId>fi</languageId><trName>kuvi</trName></name>
+      <name><languageId>ku</languageId><trName>kuvî</trName></name>
+      <name><languageId>kxv</languageId><trName>kuvi</trName></name>
+      <name><languageId>kxv_Deva</languageId><trName>कुवि</trName></name>
+      <name><languageId>kxv_Orya</languageId><trName>କୁୱି</trName></name>
+      <name><languageId>kxv_Telu</languageId><trName>కువి</trName></name>
+    </names>
+    <scripts>
+      <script><scriptId>Deva</scriptId><rank>1000</rank></script>
+    </scripts>
+    <locales>
+    </locales>
+    <territories>
+      <territory><territoryId>IN</territoryId><rank>1000</rank></territory>
+    </territories>
+    <keyboards>
+      <keyboard><keyboardId>in(eng)</keyboardId><rank>1000</rank></keyboard>
+    </keyboards>
+    <inputmethods>
+    </inputmethods>
+    <consolefonts>
+      <consolefont><consolefontId>eurlatgr</consolefontId><rank>1000</rank></consolefont>
+    </consolefonts>
+    <timezones>
+      <timezone><timezoneId>Asia/Kolkata</timezoneId><rank>1000</rank></timezone>
+    </timezones>
+  </language>
+  <language>
+    <languageId>kxv_Orya</languageId>
+    <iso639-1>None</iso639-1>
+    <iso639-2-t>None</iso639-2-t>
+    <iso639-2-b>None</iso639-2-b>
+    <names>
+      <name><languageId>bew</languageId><trName>Kuwi</trName></name>
+      <name><languageId>en</languageId><trName>Kuvi</trName></name>
+      <name><languageId>et</languageId><trName>kuvi</trName></name>
+      <name><languageId>fi</languageId><trName>kuvi</trName></name>
+      <name><languageId>ku</languageId><trName>kuvî</trName></name>
+      <name><languageId>kxv</languageId><trName>kuvi</trName></name>
+      <name><languageId>kxv_Deva</languageId><trName>कुवि</trName></name>
+      <name><languageId>kxv_Orya</languageId><trName>କୁୱି</trName></name>
+      <name><languageId>kxv_Telu</languageId><trName>కువి</trName></name>
+    </names>
+    <scripts>
+      <script><scriptId>Orya</scriptId><rank>1000</rank></script>
+    </scripts>
+    <locales>
+    </locales>
+    <territories>
+      <territory><territoryId>IN</territoryId><rank>1000</rank></territory>
+    </territories>
+    <keyboards>
+      <keyboard><keyboardId>in(eng)</keyboardId><rank>1000</rank></keyboard>
+    </keyboards>
+    <inputmethods>
+    </inputmethods>
+    <consolefonts>
+      <consolefont><consolefontId>eurlatgr</consolefontId><rank>1000</rank></consolefont>
+    </consolefonts>
+    <timezones>
+      <timezone><timezoneId>Asia/Kolkata</timezoneId><rank>1000</rank></timezone>
+    </timezones>
+  </language>
+  <language>
+    <languageId>kxv_Telu</languageId>
+    <iso639-1>None</iso639-1>
+    <iso639-2-t>None</iso639-2-t>
+    <iso639-2-b>None</iso639-2-b>
+    <names>
+      <name><languageId>bew</languageId><trName>Kuwi</trName></name>
+      <name><languageId>en</languageId><trName>Kuvi</trName></name>
+      <name><languageId>et</languageId><trName>kuvi</trName></name>
+      <name><languageId>fi</languageId><trName>kuvi</trName></name>
+      <name><languageId>ku</languageId><trName>kuvî</trName></name>
+      <name><languageId>kxv</languageId><trName>kuvi</trName></name>
+      <name><languageId>kxv_Deva</languageId><trName>कुवि</trName></name>
+      <name><languageId>kxv_Orya</languageId><trName>କୁୱି</trName></name>
+      <name><languageId>kxv_Telu</languageId><trName>కువి</trName></name>
+    </names>
+    <scripts>
+      <script><scriptId>Telu</scriptId><rank>1000</rank></script>
+    </scripts>
+    <locales>
+    </locales>
+    <territories>
+      <territory><territoryId>IN</territoryId><rank>1000</rank></territory>
+    </territories>
+    <keyboards>
+      <keyboard><keyboardId>in(eng)</keyboardId><rank>1000</rank></keyboard>
+    </keyboards>
+    <inputmethods>
+    </inputmethods>
+    <consolefonts>
+      <consolefont><consolefontId>eurlatgr</consolefontId><rank>1000</rank></consolefont>
+    </consolefonts>
+    <timezones>
+      <timezone><timezoneId>Asia/Kolkata</timezoneId><rank>1000</rank></timezone>
     </timezones>
   </language>
   <language>
@@ -37913,6 +38073,7 @@
       <name><languageId>ksh</languageId><trName>Holländesch</trName></name>
       <name><languageId>ku</languageId><trName>holendî</trName></name>
       <name><languageId>kw</languageId><trName>Iseldiryek</trName></name>
+      <name><languageId>kxv</languageId><trName>ḍc</trName></name>
       <name><languageId>ky</languageId><trName>голландча</trName></name>
       <name><languageId>la</languageId><trName>Batava</trName></name>
       <name><languageId>lag</languageId><trName>Kɨholáanzi</trName></name>
@@ -41281,6 +41442,7 @@
       <name><languageId>ksf</languageId><trName>ripɔlɔ́n</trName></name>
       <name><languageId>ksh</languageId><trName>Pollnesch</trName></name>
       <name><languageId>ku</languageId><trName>polonî</trName></name>
+      <name><languageId>kxv</languageId><trName>polis</trName></name>
       <name><languageId>ky</languageId><trName>полякча</trName></name>
       <name><languageId>la</languageId><trName>Polonica</trName></name>
       <name><languageId>lag</languageId><trName>Kɨpólandi</trName></name>
@@ -41880,6 +42042,7 @@
       <name><languageId>ksh</languageId><trName>Pochtojesesch</trName></name>
       <name><languageId>ku</languageId><trName>portugalî</trName></name>
       <name><languageId>kw</languageId><trName>Portyngalek</trName></name>
+      <name><languageId>kxv</languageId><trName>portugīj</trName></name>
       <name><languageId>ky</languageId><trName>португалча</trName></name>
       <name><languageId>la</languageId><trName>Lusitana</trName></name>
       <name><languageId>lag</languageId><trName>Kɨréeno</trName></name>
@@ -43502,6 +43665,7 @@
       <name><languageId>ksh</languageId><trName>Rußßesch</trName></name>
       <name><languageId>ku</languageId><trName>rûsî</trName></name>
       <name><languageId>kw</languageId><trName>Russek</trName></name>
+      <name><languageId>kxv</languageId><trName>rusiyati</trName></name>
       <name><languageId>ky</languageId><trName>орусча</trName></name>
       <name><languageId>la</languageId><trName>Russica</trName></name>
       <name><languageId>lag</languageId><trName>Kɨrúusi</trName></name>
@@ -51783,6 +51947,7 @@
       <name><languageId>ksf</languageId><trName>ritaí</trName></name>
       <name><languageId>ksh</languageId><trName>Tailändesch</trName></name>
       <name><languageId>ku</languageId><trName>tayî</trName></name>
+      <name><languageId>kxv</languageId><trName>tae</trName></name>
       <name><languageId>ky</languageId><trName>тайча</trName></name>
       <name><languageId>la</languageId><trName>Thai</trName></name>
       <name><languageId>lag</languageId><trName>Kɨtáilandi</trName></name>
@@ -53351,6 +53516,7 @@
       <name><languageId>ksf</languageId><trName>riturk</trName></name>
       <name><languageId>ksh</languageId><trName>Törkesch</trName></name>
       <name><languageId>ku</languageId><trName>tirkî</trName></name>
+      <name><languageId>kxv</languageId><trName>turkis</trName></name>
       <name><languageId>ky</languageId><trName>түркчө</trName></name>
       <name><languageId>la</languageId><trName>Turcica</trName></name>
       <name><languageId>lag</languageId><trName>Kɨturúuki</trName></name>
@@ -59391,6 +59557,7 @@
       <name><languageId>ksh</languageId><trName>Schinehsesch (Mandarin)</trName></name>
       <name><languageId>ku</languageId><trName>çînî</trName></name>
       <name><languageId>kw</languageId><trName>Chinek</trName></name>
+      <name><languageId>kxv</languageId><trName>cainati</trName></name>
       <name><languageId>ky</languageId><trName>кытайча</trName></name>
       <name><languageId>la</languageId><trName>Sinica</trName></name>
       <name><languageId>lag</languageId><trName>Kɨchíina</trName></name>
@@ -59651,6 +59818,7 @@
       <name><languageId>ksh</languageId><trName>Schinehsesch (eijfache Schreff)</trName></name>
       <name><languageId>ku</languageId><trName>çîniya mandarînî ya sadekirî</trName></name>
       <name><languageId>kw</languageId><trName>Chinek sempelhes</trName></name>
+      <name><languageId>kxv</languageId><trName>sahaj manḍarin cainati</trName></name>
       <name><languageId>ky</languageId><trName>кытайча (жөнөкөйлөштүрүлгөн)</trName></name>
       <name><languageId>lb</languageId><trName>Chineesesch, Mandarinn (vereinfacht)</trName></name>
       <name><languageId>lij</languageId><trName>cineise mandarin semplificou</trName></name>
@@ -59916,6 +60084,7 @@
       <name><languageId>ksh</languageId><trName>Schinehsesch (tradizjonälle Schreff)</trName></name>
       <name><languageId>ku</languageId><trName>çîniya mandarînî ya kevneşopî</trName></name>
       <name><languageId>kw</languageId><trName>Chinek hengovek</trName></name>
+      <name><languageId>kxv</languageId><trName>hirudlu manḍarin cainati</trName></name>
       <name><languageId>ky</languageId><trName>кытайча (салттуу)</trName></name>
       <name><languageId>lb</languageId><trName>Chineesesch (Mandarinn)</trName></name>
       <name><languageId>lij</languageId><trName>cineise mandarin tradiçionale</trName></name>
