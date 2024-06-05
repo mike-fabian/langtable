@@ -12961,6 +12961,7 @@
       <name><languageId>lg</languageId><trName>Lungereza</trName></name>
       <name><languageId>lij</languageId><trName>ingleise</trName></name>
       <name><languageId>lkt</languageId><trName>Wašíčuiyapi</trName></name>
+      <name><languageId>lmo</languageId><trName>ingles</trName></name>
       <name><languageId>ln</languageId><trName>lingɛlɛ́sa</trName></name>
       <name><languageId>lo</languageId><trName>ອັງກິດ</trName></name>
       <name><languageId>lrc</languageId><trName>ئینگیلیسی</trName></name>
@@ -30900,6 +30901,90 @@
       <name><languageId>en</languageId><trName>Ladin</trName></name>
       <name><languageId>it</languageId><trName>ladino</trName></name>
       <name><languageId>lld</languageId><trName>ladin</trName></name>
+    </names>
+    <scripts>
+      <script><scriptId>Latn</scriptId><rank>1000</rank></script>
+    </scripts>
+    <locales>
+    </locales>
+    <territories>
+      <territory><territoryId>IT</territoryId><rank>1000</rank></territory>
+    </territories>
+    <keyboards>
+      <keyboard><keyboardId>it</keyboardId><rank>1000</rank></keyboard>
+    </keyboards>
+    <inputmethods>
+    </inputmethods>
+    <consolefonts>
+      <consolefont><consolefontId>eurlatgr</consolefontId><rank>1000</rank></consolefont>
+    </consolefonts>
+    <timezones>
+      <timezone><timezoneId>Europe/Rome</timezoneId><rank>1000</rank></timezone>
+    </timezones>
+  </language>
+  <language>
+    <languageId>lmo</languageId>
+    <iso639-1>None</iso639-1>
+    <iso639-2-t>None</iso639-2-t>
+    <iso639-2-b>None</iso639-2-b>
+    <names>
+      <name><languageId>ar</languageId><trName>اللومبردية</trName></name>
+      <name><languageId>as</languageId><trName>ল’ম্বাৰ্ড</trName></name>
+      <name><languageId>ast</languageId><trName>lombardu</trName></name>
+      <name><languageId>bew</languageId><trName>Lombardi</trName></name>
+      <name><languageId>bg</languageId><trName>ломбардски</trName></name>
+      <name><languageId>bn</languageId><trName>লম্বার্ড</trName></name>
+      <name><languageId>bs</languageId><trName>lombardski</trName></name>
+      <name><languageId>ca</languageId><trName>llombard</trName></name>
+      <name><languageId>cs</languageId><trName>lombardština</trName></name>
+      <name><languageId>cy</languageId><trName>Lombardeg</trName></name>
+      <name><languageId>de</languageId><trName>Lombardisch</trName></name>
+      <name><languageId>en</languageId><trName>Lombard</trName></name>
+      <name><languageId>es</languageId><trName>lombardo</trName></name>
+      <name><languageId>et</languageId><trName>lombardi</trName></name>
+      <name><languageId>fa</languageId><trName>لومبارد</trName></name>
+      <name><languageId>fi</languageId><trName>lombardi</trName></name>
+      <name><languageId>fil</languageId><trName>Lombard</trName></name>
+      <name><languageId>fr</languageId><trName>lombard</trName></name>
+      <name><languageId>ga</languageId><trName>Lombairdis</trName></name>
+      <name><languageId>gd</languageId><trName>Lombardais</trName></name>
+      <name><languageId>hi</languageId><trName>लॉमबर्ड</trName></name>
+      <name><languageId>hu</languageId><trName>lombard</trName></name>
+      <name><languageId>id</languageId><trName>Lombard</trName></name>
+      <name><languageId>it</languageId><trName>lombardo</trName></name>
+      <name><languageId>ja</languageId><trName>ロンバルド語</trName></name>
+      <name><languageId>jv</languageId><trName>Lombard</trName></name>
+      <name><languageId>kk</languageId><trName>Ломбард</trName></name>
+      <name><languageId>kok</languageId><trName>लोमबार्ड</trName></name>
+      <name><languageId>ku</languageId><trName>lombardî</trName></name>
+      <name><languageId>lb</languageId><trName>Lombardesch</trName></name>
+      <name><languageId>lmo</languageId><trName>Lombard</trName></name>
+      <name><languageId>lt</languageId><trName>lombardų</trName></name>
+      <name><languageId>mk</languageId><trName>ломбардиски</trName></name>
+      <name><languageId>ml</languageId><trName>ലൊംബാർഡ്</trName></name>
+      <name><languageId>ne</languageId><trName>लोम्बार्ड</trName></name>
+      <name><languageId>nl</languageId><trName>Lombardisch</trName></name>
+      <name><languageId>no</languageId><trName>lombardisk</trName></name>
+      <name><languageId>pa</languageId><trName>ਲੰਬਾਰਡ</trName></name>
+      <name><languageId>pl</languageId><trName>lombardzki</trName></name>
+      <name><languageId>ps</languageId><trName>لومبارډ</trName></name>
+      <name><languageId>pt</languageId><trName>lombardo</trName></name>
+      <name><languageId>sat</languageId><trName>ᱞᱚᱢᱵᱟᱨᱰ</trName></name>
+      <name><languageId>sc</languageId><trName>lombardu</trName></name>
+      <name><languageId>sq</languageId><trName>lombardisht</trName></name>
+      <name><languageId>sr</languageId><trName>ломбард</trName></name>
+      <name><languageId>sr_Latn</languageId><trName>lombard</trName></name>
+      <name><languageId>sv</languageId><trName>lombardiska</trName></name>
+      <name><languageId>ta</languageId><trName>லொம்பார்டு</trName></name>
+      <name><languageId>th</languageId><trName>ลอมบาร์ด</trName></name>
+      <name><languageId>ti</languageId><trName>ሎምባርድኛ</trName></name>
+      <name><languageId>to</languageId><trName>lea fakalomipāti</trName></name>
+      <name><languageId>tr</languageId><trName>Lombardça</trName></name>
+      <name><languageId>uk</languageId><trName>ломбардська</trName></name>
+      <name><languageId>ur</languageId><trName>لومبارڈ</trName></name>
+      <name><languageId>vi</languageId><trName>Tiếng Lombard</trName></name>
+      <name><languageId>yue</languageId><trName>倫巴底文</trName></name>
+      <name><languageId>zh_Hant</languageId><trName>倫巴底文</trName></name>
     </names>
     <scripts>
       <script><scriptId>Latn</scriptId><rank>1000</rank></script>
