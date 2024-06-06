@@ -1479,6 +1479,7 @@
       <name><languageId>mr</languageId><trName>अ‍ॅमस्टरडॅम</trName></name>
       <name><languageId>ms</languageId><trName>Amsterdam</trName></name>
       <name><languageId>my</languageId><trName>အမ်စတာဒမ်</trName></name>
+      <name><languageId>myv</languageId><trName>Амстердам</trName></name>
       <name><languageId>nb</languageId><trName>Amsterdam</trName></name>
       <name><languageId>ne</languageId><trName>एम्स्ट्र्डम</trName></name>
       <name><languageId>nl</languageId><trName>Amsterdam</trName></name>
@@ -1852,6 +1853,7 @@
       <name><languageId>mr</languageId><trName>अँडोरा</trName></name>
       <name><languageId>ms</languageId><trName>Andorra</trName></name>
       <name><languageId>my</languageId><trName>အန်ဒိုရာ</trName></name>
+      <name><languageId>myv</languageId><trName>Андорра</trName></name>
       <name><languageId>nb</languageId><trName>Andorra</trName></name>
       <name><languageId>ne</languageId><trName>आन्डोर्रा</trName></name>
       <name><languageId>nl</languageId><trName>Andorra</trName></name>
@@ -3815,6 +3817,7 @@
       <name><languageId>ms</languageId><trName>Athens</trName></name>
       <name><languageId>mt</languageId><trName>Ateni</trName></name>
       <name><languageId>my</languageId><trName>အေသင်</trName></name>
+      <name><languageId>myv</languageId><trName>Афины</trName></name>
       <name><languageId>nb</languageId><trName>Athen</trName></name>
       <name><languageId>ne</languageId><trName>एथेन्स</trName></name>
       <name><languageId>nl</languageId><trName>Athene</trName></name>
@@ -4515,6 +4518,7 @@
       <name><languageId>ms</languageId><trName>Baghdad</trName></name>
       <name><languageId>mt</languageId><trName>Baghdad</trName></name>
       <name><languageId>my</languageId><trName>ဘဂ္ဂဒက်</trName></name>
+      <name><languageId>myv</languageId><trName>Багдад</trName></name>
       <name><languageId>nb</languageId><trName>Bagdad</trName></name>
       <name><languageId>ne</languageId><trName>बगदाद</trName></name>
       <name><languageId>nl</languageId><trName>Bagdad</trName></name>
@@ -5009,6 +5013,7 @@
       <name><languageId>ms</languageId><trName>Baku</trName></name>
       <name><languageId>mt</languageId><trName>Baku</trName></name>
       <name><languageId>my</languageId><trName>ဘာကူ</trName></name>
+      <name><languageId>myv</languageId><trName>Баку</trName></name>
       <name><languageId>nb</languageId><trName>Baku</trName></name>
       <name><languageId>ne</languageId><trName>बाकु</trName></name>
       <name><languageId>nl</languageId><trName>Bakoe</trName></name>
@@ -5985,6 +5990,7 @@
       <name><languageId>ms</languageId><trName>Belgrade</trName></name>
       <name><languageId>mt</languageId><trName>Belgrad</trName></name>
       <name><languageId>my</languageId><trName>ဘဲလ်ဂရိတ်</trName></name>
+      <name><languageId>myv</languageId><trName>Белград</trName></name>
       <name><languageId>nb</languageId><trName>Beograd</trName></name>
       <name><languageId>ne</languageId><trName>बेलग्रेड</trName></name>
       <name><languageId>nl</languageId><trName>Belgrado</trName></name>
@@ -6239,6 +6245,7 @@
       <name><languageId>ms</languageId><trName>Berlin</trName></name>
       <name><languageId>mt</languageId><trName>Berlin</trName></name>
       <name><languageId>my</languageId><trName>ဘာလင်</trName></name>
+      <name><languageId>myv</languageId><trName>Берлин</trName></name>
       <name><languageId>nb</languageId><trName>Berlin</trName></name>
       <name><languageId>ne</languageId><trName>बर्लिन</trName></name>
       <name><languageId>nl</languageId><trName>Berlijn</trName></name>
@@ -6368,6 +6375,7 @@
       <name><languageId>ms</languageId><trName>Bermuda</trName></name>
       <name><languageId>mt</languageId><trName>Bermuda</trName></name>
       <name><languageId>my</languageId><trName>ဘာမြူဒါ</trName></name>
+      <name><languageId>myv</languageId><trName>Бермуда</trName></name>
       <name><languageId>nb</languageId><trName>Bermuda</trName></name>
       <name><languageId>ne</languageId><trName>बर्मुडा</trName></name>
       <name><languageId>nl</languageId><trName>Bermuda</trName></name>
@@ -7350,6 +7358,7 @@
       <name><languageId>ms</languageId><trName>Boise</trName></name>
       <name><languageId>mt</languageId><trName>Boise</trName></name>
       <name><languageId>my</languageId><trName>ဗွိုက်စီ</trName></name>
+      <name><languageId>myv</languageId><trName>Бойси</trName></name>
       <name><languageId>nb</languageId><trName>Boise</trName></name>
       <name><languageId>ne</languageId><trName>बोइज</trName></name>
       <name><languageId>nl</languageId><trName>Boise</trName></name>
@@ -7472,6 +7481,7 @@
       <name><languageId>ms</languageId><trName>Bratislava</trName></name>
       <name><languageId>mt</languageId><trName>Bratislava</trName></name>
       <name><languageId>my</languageId><trName>ဘရာတီးစ်လားဗာ</trName></name>
+      <name><languageId>myv</languageId><trName>Братислава</trName></name>
       <name><languageId>nb</languageId><trName>Bratislava</trName></name>
       <name><languageId>ne</languageId><trName>ब्राटिस्लाभा</trName></name>
       <name><languageId>nl</languageId><trName>Bratislava</trName></name>
@@ -8084,6 +8094,7 @@
       <name><languageId>ms</languageId><trName>Brussels</trName></name>
       <name><languageId>mt</languageId><trName>Brussell</trName></name>
       <name><languageId>my</languageId><trName>ဘရပ်ဆဲလ်</trName></name>
+      <name><languageId>myv</languageId><trName>Брюссель</trName></name>
       <name><languageId>nb</languageId><trName>Brussel</trName></name>
       <name><languageId>ne</languageId><trName>ब्रसेल्स</trName></name>
       <name><languageId>nl</languageId><trName>Brussel</trName></name>
@@ -8217,6 +8228,7 @@
       <name><languageId>ms</languageId><trName>Bucharest</trName></name>
       <name><languageId>mt</languageId><trName>Bucharest</trName></name>
       <name><languageId>my</languageId><trName>ဘူခါရက်စ်</trName></name>
+      <name><languageId>myv</languageId><trName>Бухарест</trName></name>
       <name><languageId>nb</languageId><trName>București</trName></name>
       <name><languageId>ne</languageId><trName>वुचारेस्ट</trName></name>
       <name><languageId>nl</languageId><trName>Boekarest</trName></name>
@@ -8344,6 +8356,7 @@
       <name><languageId>ms</languageId><trName>Budapest</trName></name>
       <name><languageId>mt</languageId><trName>Budapest</trName></name>
       <name><languageId>my</languageId><trName>ဘူဒါပက်စ်</trName></name>
+      <name><languageId>myv</languageId><trName>Будапешт</trName></name>
       <name><languageId>nb</languageId><trName>Budapest</trName></name>
       <name><languageId>ne</languageId><trName>बुडापेस्ट</trName></name>
       <name><languageId>nl</languageId><trName>Boedapest</trName></name>
@@ -10858,6 +10871,7 @@
       <name><languageId>ms</languageId><trName>Chicago</trName></name>
       <name><languageId>mt</languageId><trName>Chicago</trName></name>
       <name><languageId>my</languageId><trName>ချီကာကို</trName></name>
+      <name><languageId>myv</languageId><trName>Шикаго</trName></name>
       <name><languageId>nb</languageId><trName>Chicago</trName></name>
       <name><languageId>ne</languageId><trName>शिकागो</trName></name>
       <name><languageId>nl</languageId><trName>Chicago</trName></name>
@@ -12198,6 +12212,7 @@
       <name><languageId>ms</languageId><trName>Copenhagen</trName></name>
       <name><languageId>mt</languageId><trName>Copenhagen</trName></name>
       <name><languageId>my</languageId><trName>ကိုပင်ဟေဂင်</trName></name>
+      <name><languageId>myv</languageId><trName>Копенгаген</trName></name>
       <name><languageId>nb</languageId><trName>København</trName></name>
       <name><languageId>ne</languageId><trName>कोपेनह्यागन</trName></name>
       <name><languageId>nl</languageId><trName>Kopenhagen</trName></name>
@@ -14036,6 +14051,7 @@
       <name><languageId>ms</languageId><trName>Denver</trName></name>
       <name><languageId>mt</languageId><trName>Denver</trName></name>
       <name><languageId>my</languageId><trName>ဒင်န်ဗာ</trName></name>
+      <name><languageId>myv</languageId><trName>Денвер</trName></name>
       <name><languageId>nb</languageId><trName>Denver</trName></name>
       <name><languageId>ne</languageId><trName>डेन्भर</trName></name>
       <name><languageId>nl</languageId><trName>Denver</trName></name>
@@ -15022,6 +15038,7 @@
       <name><languageId>ms</languageId><trName>Dublin</trName></name>
       <name><languageId>mt</languageId><trName>Dublin</trName></name>
       <name><languageId>my</languageId><trName>ဒတ်ဘလင်</trName></name>
+      <name><languageId>myv</languageId><trName>Дублин</trName></name>
       <name><languageId>nb</languageId><trName>Dublin</trName></name>
       <name><languageId>ne</languageId><trName>डब्लिन</trName></name>
       <name><languageId>nl</languageId><trName>Dublin</trName></name>
@@ -18541,6 +18558,7 @@
       <name><languageId>ms</languageId><trName>Grenada</trName></name>
       <name><languageId>mt</languageId><trName>Grenada</trName></name>
       <name><languageId>my</languageId><trName>ဂရီနေဒါ</trName></name>
+      <name><languageId>myv</languageId><trName>Гренада</trName></name>
       <name><languageId>nb</languageId><trName>Grenada</trName></name>
       <name><languageId>ne</languageId><trName>ग्रेनाडा</trName></name>
       <name><languageId>nl</languageId><trName>Grenada</trName></name>
@@ -20169,6 +20187,7 @@
       <name><languageId>ms</languageId><trName>Helsinki</trName></name>
       <name><languageId>mt</languageId><trName>Helsinki</trName></name>
       <name><languageId>my</languageId><trName>ဟဲလ်စင်ကီ</trName></name>
+      <name><languageId>myv</languageId><trName>Хельсинки</trName></name>
       <name><languageId>nb</languageId><trName>Helsingfors</trName></name>
       <name><languageId>ne</languageId><trName>हेल्सिन्की</trName></name>
       <name><languageId>nl</languageId><trName>Helsinki</trName></name>
@@ -20667,6 +20686,7 @@
       <name><languageId>ms</languageId><trName>Hong Kong</trName></name>
       <name><languageId>mt</languageId><trName>Hong Kong</trName></name>
       <name><languageId>my</languageId><trName>ဟောင်ကောင်</trName></name>
+      <name><languageId>myv</languageId><trName>Гонконг</trName></name>
       <name><languageId>nb</languageId><trName>Hongkong</trName></name>
       <name><languageId>ne</languageId><trName>हङकङ</trName></name>
       <name><languageId>nl</languageId><trName>Hongkong</trName></name>
@@ -24417,6 +24437,7 @@
       <name><languageId>ms</languageId><trName>Kiev</trName></name>
       <name><languageId>mt</languageId><trName>Kiev</trName></name>
       <name><languageId>my</languageId><trName>ခီးအက်ဖ်</trName></name>
+      <name><languageId>myv</languageId><trName>Киев</trName></name>
       <name><languageId>nb</languageId><trName>Kiev</trName></name>
       <name><languageId>ne</languageId><trName>किभ</trName></name>
       <name><languageId>nl</languageId><trName>Kiev</trName></name>
@@ -26721,6 +26742,7 @@
       <name><languageId>ms</languageId><trName>Lisbon</trName></name>
       <name><languageId>mt</languageId><trName>Liżbona</trName></name>
       <name><languageId>my</languageId><trName>လစ္စဘွန်း</trName></name>
+      <name><languageId>myv</languageId><trName>Лиссабон</trName></name>
       <name><languageId>nb</languageId><trName>Lisboa</trName></name>
       <name><languageId>ne</languageId><trName>लिस्बोन</trName></name>
       <name><languageId>nl</languageId><trName>Lissabon</trName></name>
@@ -26845,6 +26867,7 @@
       <name><languageId>ms</languageId><trName>Ljubljana</trName></name>
       <name><languageId>mt</languageId><trName>Ljubljana</trName></name>
       <name><languageId>my</languageId><trName>လူဘလီအားနား</trName></name>
+      <name><languageId>myv</languageId><trName>Любляна</trName></name>
       <name><languageId>nb</languageId><trName>Ljubljana</trName></name>
       <name><languageId>ne</languageId><trName>लजुबिजाना</trName></name>
       <name><languageId>nl</languageId><trName>Ljubljana</trName></name>
@@ -27096,6 +27119,7 @@
       <name><languageId>ms</languageId><trName>London</trName></name>
       <name><languageId>mt</languageId><trName>Londra</trName></name>
       <name><languageId>my</languageId><trName>လန်ဒန်</trName></name>
+      <name><languageId>myv</languageId><trName>Лондон</trName></name>
       <name><languageId>nb</languageId><trName>London</trName></name>
       <name><languageId>ne</languageId><trName>लण्डन</trName></name>
       <name><languageId>nl</languageId><trName>Londen</trName></name>
@@ -27218,6 +27242,7 @@
       <name><languageId>ms</languageId><trName>Longyearbyen</trName></name>
       <name><languageId>mt</languageId><trName>Longyearbyen</trName></name>
       <name><languageId>my</languageId><trName>လောင်ရီယားဘရံ</trName></name>
+      <name><languageId>myv</languageId><trName>Лонгйирбюен</trName></name>
       <name><languageId>nb</languageId><trName>Longyearbyen</trName></name>
       <name><languageId>ne</languageId><trName>लङयिअरबाइएन</trName></name>
       <name><languageId>nl</languageId><trName>Longyearbyen</trName></name>
@@ -28197,6 +28222,7 @@
       <name><languageId>ms</languageId><trName>Luxembourg</trName></name>
       <name><languageId>mt</languageId><trName>il-Lussemburgu</trName></name>
       <name><languageId>my</languageId><trName>လူဇင်ဘတ်</trName></name>
+      <name><languageId>myv</languageId><trName>Люксембург</trName></name>
       <name><languageId>nb</languageId><trName>Luxemburg</trName></name>
       <name><languageId>ne</languageId><trName>लक्जेम्वर्ग</trName></name>
       <name><languageId>nl</languageId><trName>Luxemburg</trName></name>
@@ -28685,6 +28711,7 @@
       <name><languageId>ms</languageId><trName>Madeira</trName></name>
       <name><languageId>mt</languageId><trName>Madeira</trName></name>
       <name><languageId>my</languageId><trName>မဒီးရာ</trName></name>
+      <name><languageId>myv</languageId><trName>Мадейра</trName></name>
       <name><languageId>nb</languageId><trName>Madeira</trName></name>
       <name><languageId>ne</languageId><trName>माडेइरा</trName></name>
       <name><languageId>nl</languageId><trName>Madeira</trName></name>
@@ -28808,6 +28835,7 @@
       <name><languageId>ms</languageId><trName>Madrid</trName></name>
       <name><languageId>mt</languageId><trName>Madrid</trName></name>
       <name><languageId>my</languageId><trName>မဒရစ်</trName></name>
+      <name><languageId>myv</languageId><trName>Мадрид</trName></name>
       <name><languageId>nb</languageId><trName>Madrid</trName></name>
       <name><languageId>ne</languageId><trName>म्याड्रिड</trName></name>
       <name><languageId>nl</languageId><trName>Madrid</trName></name>
@@ -29657,6 +29685,7 @@
       <name><languageId>ms</languageId><trName>Malta</trName></name>
       <name><languageId>mt</languageId><trName>Valletta</trName></name>
       <name><languageId>my</languageId><trName>မော်လ်တာ</trName></name>
+      <name><languageId>myv</languageId><trName>Мальта</trName></name>
       <name><languageId>nb</languageId><trName>Malta</trName></name>
       <name><languageId>ne</languageId><trName>माल्टा</trName></name>
       <name><languageId>nl</languageId><trName>Malta</trName></name>
@@ -32689,6 +32718,7 @@
       <name><languageId>ms</languageId><trName>Minsk</trName></name>
       <name><languageId>mt</languageId><trName>Minsk</trName></name>
       <name><languageId>my</languageId><trName>မင်းစခ်</trName></name>
+      <name><languageId>myv</languageId><trName>Минской</trName></name>
       <name><languageId>nb</languageId><trName>Minsk</trName></name>
       <name><languageId>ne</languageId><trName>मिन्स्क</trName></name>
       <name><languageId>nl</languageId><trName>Minsk</trName></name>
@@ -33071,6 +33101,7 @@
       <name><languageId>ms</languageId><trName>Monaco</trName></name>
       <name><languageId>mt</languageId><trName>Monaco</trName></name>
       <name><languageId>my</languageId><trName>မိုနာကို</trName></name>
+      <name><languageId>myv</languageId><trName>Монако</trName></name>
       <name><languageId>nb</languageId><trName>Monaco</trName></name>
       <name><languageId>ne</languageId><trName>मोनाको</trName></name>
       <name><languageId>nl</languageId><trName>Monaco</trName></name>
@@ -34022,6 +34053,7 @@
       <name><languageId>ms</languageId><trName>Moscow</trName></name>
       <name><languageId>mt</languageId><trName>Moska</trName></name>
       <name><languageId>my</languageId><trName>မော်စကို</trName></name>
+      <name><languageId>myv</languageId><trName>Москов</trName></name>
       <name><languageId>nb</languageId><trName>Moskva</trName></name>
       <name><languageId>nds</languageId><trName>Moskau</trName></name>
       <name><languageId>ne</languageId><trName>मस्को</trName></name>
@@ -36634,6 +36666,7 @@
       <name><languageId>ms</languageId><trName>Omsk</trName></name>
       <name><languageId>mt</languageId><trName>Omsk</trName></name>
       <name><languageId>my</languageId><trName>အွမ်းစ်ခ်</trName></name>
+      <name><languageId>myv</languageId><trName>Омской</trName></name>
       <name><languageId>nb</languageId><trName>Omsk</trName></name>
       <name><languageId>ne</languageId><trName>ओम्स्क</trName></name>
       <name><languageId>nl</languageId><trName>Omsk</trName></name>
@@ -36874,6 +36907,7 @@
       <name><languageId>ms</languageId><trName>Oslo</trName></name>
       <name><languageId>mt</languageId><trName>Oslo</trName></name>
       <name><languageId>my</languageId><trName>အော်စလို</trName></name>
+      <name><languageId>myv</languageId><trName>Осло</trName></name>
       <name><languageId>nb</languageId><trName>Oslo</trName></name>
       <name><languageId>ne</languageId><trName>ओस्लो</trName></name>
       <name><languageId>nl</languageId><trName>Oslo</trName></name>
@@ -37553,6 +37587,7 @@
       <name><languageId>ms</languageId><trName>Panama</trName></name>
       <name><languageId>mt</languageId><trName>Panama</trName></name>
       <name><languageId>my</languageId><trName>ပနားမား</trName></name>
+      <name><languageId>myv</languageId><trName>Панама</trName></name>
       <name><languageId>nb</languageId><trName>Panama</trName></name>
       <name><languageId>ne</languageId><trName>पानामा</trName></name>
       <name><languageId>nl</languageId><trName>Panama</trName></name>
@@ -37920,6 +37955,7 @@
       <name><languageId>ms</languageId><trName>Paris</trName></name>
       <name><languageId>mt</languageId><trName>Pariġi</trName></name>
       <name><languageId>my</languageId><trName>ပဲရစ်</trName></name>
+      <name><languageId>myv</languageId><trName>Париж</trName></name>
       <name><languageId>nb</languageId><trName>Paris</trName></name>
       <name><languageId>ne</languageId><trName>पेरिस</trName></name>
       <name><languageId>nl</languageId><trName>Parijs</trName></name>
@@ -38653,6 +38689,7 @@
       <name><languageId>ms</languageId><trName>Podgorica</trName></name>
       <name><languageId>mt</languageId><trName>Podgorica</trName></name>
       <name><languageId>my</languageId><trName>ပေါ့ဂိုရီကာ</trName></name>
+      <name><languageId>myv</languageId><trName>Подгорица</trName></name>
       <name><languageId>nb</languageId><trName>Podgorica</trName></name>
       <name><languageId>ne</languageId><trName>पड्गोरिका</trName></name>
       <name><languageId>nl</languageId><trName>Podgorica</trName></name>
@@ -39631,6 +39668,7 @@
       <name><languageId>ms</languageId><trName>Prague</trName></name>
       <name><languageId>mt</languageId><trName>Praga</trName></name>
       <name><languageId>my</languageId><trName>ပရက်ဂ်</trName></name>
+      <name><languageId>myv</languageId><trName>Прага</trName></name>
       <name><languageId>nb</languageId><trName>Praha</trName></name>
       <name><languageId>ne</languageId><trName>प्राग</trName></name>
       <name><languageId>nl</languageId><trName>Praag</trName></name>
@@ -41228,6 +41266,7 @@
       <name><languageId>ms</languageId><trName>Reykjavik</trName></name>
       <name><languageId>mt</languageId><trName>Reykjavik</trName></name>
       <name><languageId>my</languageId><trName>ရေးကီဗစ်ခ်</trName></name>
+      <name><languageId>myv</languageId><trName>Рейкьявик</trName></name>
       <name><languageId>nb</languageId><trName>Reykjavík</trName></name>
       <name><languageId>ne</languageId><trName>रेक्जाभिक</trName></name>
       <name><languageId>nl</languageId><trName>Reykjavik</trName></name>
@@ -41351,6 +41390,7 @@
       <name><languageId>ms</languageId><trName>Riga</trName></name>
       <name><languageId>mt</languageId><trName>Riga</trName></name>
       <name><languageId>my</languageId><trName>ရီဂါ</trName></name>
+      <name><languageId>myv</languageId><trName>Рига</trName></name>
       <name><languageId>nb</languageId><trName>Riga</trName></name>
       <name><languageId>ne</languageId><trName>रिगा</trName></name>
       <name><languageId>nl</languageId><trName>Riga</trName></name>
@@ -41849,6 +41889,7 @@
       <name><languageId>ms</languageId><trName>Rome</trName></name>
       <name><languageId>mt</languageId><trName>Ruma</trName></name>
       <name><languageId>my</languageId><trName>ရောမ</trName></name>
+      <name><languageId>myv</languageId><trName>Рим</trName></name>
       <name><languageId>nb</languageId><trName>Roma</trName></name>
       <name><languageId>ne</languageId><trName>रोम</trName></name>
       <name><languageId>nl</languageId><trName>Rome</trName></name>
@@ -42212,6 +42253,7 @@
       <name><languageId>ms</languageId><trName>Sakhalin</trName></name>
       <name><languageId>mt</languageId><trName>Sakhalin</trName></name>
       <name><languageId>my</languageId><trName>ဆာခါလင်</trName></name>
+      <name><languageId>myv</languageId><trName>Сахалин</trName></name>
       <name><languageId>nb</languageId><trName>Sakhalin</trName></name>
       <name><languageId>nds</languageId><trName>Sachalin</trName></name>
       <name><languageId>ne</languageId><trName>साखालिन</trName></name>
@@ -42450,6 +42492,7 @@
       <name><languageId>ms</languageId><trName>Samara</trName></name>
       <name><languageId>mt</languageId><trName>Samara</trName></name>
       <name><languageId>my</languageId><trName>ဆာမားရာ</trName></name>
+      <name><languageId>myv</languageId><trName>Самара</trName></name>
       <name><languageId>nb</languageId><trName>Samara</trName></name>
       <name><languageId>ne</languageId><trName>सामारा</trName></name>
       <name><languageId>nl</languageId><trName>Samara</trName></name>
@@ -42571,6 +42614,7 @@
       <name><languageId>ms</languageId><trName>Samarkand</trName></name>
       <name><languageId>mt</languageId><trName>Samarkand</trName></name>
       <name><languageId>my</languageId><trName>ဆမ်းမာခန်းဒ်</trName></name>
+      <name><languageId>myv</languageId><trName>Самарканд</trName></name>
       <name><languageId>nb</languageId><trName>Samarkand</trName></name>
       <name><languageId>ne</languageId><trName>समारकण्ड</trName></name>
       <name><languageId>nl</languageId><trName>Samarkand</trName></name>
@@ -42933,6 +42977,7 @@
       <name><languageId>ms</languageId><trName>San Marino</trName></name>
       <name><languageId>mt</languageId><trName>San Marino</trName></name>
       <name><languageId>my</languageId><trName>ဆန်မရီးနို</trName></name>
+      <name><languageId>myv</languageId><trName>Сан-Марино</trName></name>
       <name><languageId>nb</languageId><trName>San Marino</trName></name>
       <name><languageId>ne</languageId><trName>सान मारिनो</trName></name>
       <name><languageId>nl</languageId><trName>San Marino</trName></name>
@@ -43765,6 +43810,7 @@
       <name><languageId>ms</languageId><trName>Sarajevo</trName></name>
       <name><languageId>mt</languageId><trName>Sarajevo</trName></name>
       <name><languageId>my</languageId><trName>ဆာရာယေဗို</trName></name>
+      <name><languageId>myv</languageId><trName>Сараево</trName></name>
       <name><languageId>nb</languageId><trName>Sarajevo</trName></name>
       <name><languageId>ne</languageId><trName>साराजेभो</trName></name>
       <name><languageId>nl</languageId><trName>Sarajevo</trName></name>
@@ -44013,6 +44059,7 @@
       <name><languageId>ms</languageId><trName>Seoul</trName></name>
       <name><languageId>mt</languageId><trName>Seoul</trName></name>
       <name><languageId>my</languageId><trName>ဆိုးလ်</trName></name>
+      <name><languageId>myv</languageId><trName>Сеул</trName></name>
       <name><languageId>nb</languageId><trName>Seoul</trName></name>
       <name><languageId>ne</languageId><trName>सिओल</trName></name>
       <name><languageId>nl</languageId><trName>Seoul</trName></name>
@@ -44138,6 +44185,7 @@
       <name><languageId>ms</languageId><trName>Shanghai</trName></name>
       <name><languageId>mt</languageId><trName>Shanghai</trName></name>
       <name><languageId>my</languageId><trName>ရှန်ဟိုင်း</trName></name>
+      <name><languageId>myv</languageId><trName>Шанхай</trName></name>
       <name><languageId>nb</languageId><trName>Shanghai</trName></name>
       <name><languageId>ne</languageId><trName>सान्घाई</trName></name>
       <name><languageId>nl</languageId><trName>Sjanghai</trName></name>
@@ -44336,6 +44384,7 @@
       <name><languageId>ms</languageId><trName>Simferopol</trName></name>
       <name><languageId>mt</languageId><trName>Simferopol</trName></name>
       <name><languageId>my</languageId><trName>စင်ဖာရိုးဖို</trName></name>
+      <name><languageId>myv</languageId><trName>Симферополь</trName></name>
       <name><languageId>nb</languageId><trName>Simferopol</trName></name>
       <name><languageId>ne</languageId><trName>सिम्फेरोपोल</trName></name>
       <name><languageId>nl</languageId><trName>Simferopol</trName></name>
@@ -44708,6 +44757,7 @@
       <name><languageId>ms</languageId><trName>Skopje</trName></name>
       <name><languageId>mt</languageId><trName>Skopje</trName></name>
       <name><languageId>my</languageId><trName>စကော့ပ်ရာ</trName></name>
+      <name><languageId>myv</languageId><trName>Скопье</trName></name>
       <name><languageId>nb</languageId><trName>Skopje</trName></name>
       <name><languageId>ne</languageId><trName>स्कोपजे</trName></name>
       <name><languageId>nl</languageId><trName>Skopje</trName></name>
@@ -44830,6 +44880,7 @@
       <name><languageId>ms</languageId><trName>Sofia</trName></name>
       <name><languageId>mt</languageId><trName>Sofija</trName></name>
       <name><languageId>my</languageId><trName>ဆိုဖီအာ</trName></name>
+      <name><languageId>myv</languageId><trName>София</trName></name>
       <name><languageId>nb</languageId><trName>Sofia</trName></name>
       <name><languageId>ne</languageId><trName>सोफिया</trName></name>
       <name><languageId>nl</languageId><trName>Sofia</trName></name>
@@ -46223,6 +46274,7 @@
       <name><languageId>ms</languageId><trName>Stockholm</trName></name>
       <name><languageId>mt</languageId><trName>Stokkolma</trName></name>
       <name><languageId>my</languageId><trName>စတော့ဟုမ်း</trName></name>
+      <name><languageId>myv</languageId><trName>Стокгольм</trName></name>
       <name><languageId>nb</languageId><trName>Stockholm</trName></name>
       <name><languageId>ne</languageId><trName>स्टकहोल्म</trName></name>
       <name><languageId>nl</languageId><trName>Stockholm</trName></name>
@@ -46827,6 +46879,7 @@
       <name><languageId>ms</languageId><trName>Taipei</trName></name>
       <name><languageId>mt</languageId><trName>Taipei</trName></name>
       <name><languageId>my</languageId><trName>တိုင်ပေ</trName></name>
+      <name><languageId>myv</languageId><trName>Тайпей</trName></name>
       <name><languageId>nb</languageId><trName>Taipei</trName></name>
       <name><languageId>ne</languageId><trName>ताईपे</trName></name>
       <name><languageId>nl</languageId><trName>Taipei</trName></name>
@@ -46948,6 +47001,7 @@
       <name><languageId>ms</languageId><trName>Tallinn</trName></name>
       <name><languageId>mt</languageId><trName>Tallinn</trName></name>
       <name><languageId>my</languageId><trName>ထားလင်</trName></name>
+      <name><languageId>myv</languageId><trName>Таллин</trName></name>
       <name><languageId>nb</languageId><trName>Tallinn</trName></name>
       <name><languageId>ne</languageId><trName>ताल्लिन</trName></name>
       <name><languageId>nl</languageId><trName>Tallinn</trName></name>
@@ -47191,6 +47245,7 @@
       <name><languageId>ms</languageId><trName>Tashkent</trName></name>
       <name><languageId>mt</languageId><trName>Tashkent</trName></name>
       <name><languageId>my</languageId><trName>တာရှ်ကဲန့်</trName></name>
+      <name><languageId>myv</languageId><trName>Ташкент</trName></name>
       <name><languageId>nb</languageId><trName>Tasjkent</trName></name>
       <name><languageId>ne</languageId><trName>तास्केन्ट</trName></name>
       <name><languageId>nl</languageId><trName>Tasjkent</trName></name>
@@ -48311,6 +48366,7 @@
       <name><languageId>ms</languageId><trName>Tirane</trName></name>
       <name><languageId>mt</languageId><trName>Tirana</trName></name>
       <name><languageId>my</languageId><trName>တီရာနီ</trName></name>
+      <name><languageId>myv</languageId><trName>Тирана</trName></name>
       <name><languageId>nb</languageId><trName>Tirana</trName></name>
       <name><languageId>ne</languageId><trName>टिराने</trName></name>
       <name><languageId>nl</languageId><trName>Tirana</trName></name>
@@ -48441,6 +48497,7 @@
       <name><languageId>ms</languageId><trName>Tokyo</trName></name>
       <name><languageId>mt</languageId><trName>Tokyo</trName></name>
       <name><languageId>my</languageId><trName>တိုကျို</trName></name>
+      <name><languageId>myv</languageId><trName>Токио</trName></name>
       <name><languageId>nb</languageId><trName>Tokyo</trName></name>
       <name><languageId>ne</languageId><trName>टोकियो</trName></name>
       <name><languageId>nl</languageId><trName>Tokio</trName></name>
@@ -49484,6 +49541,7 @@
       <name><languageId>ms</languageId><trName>Ulaanbaatar</trName></name>
       <name><languageId>mt</languageId><trName>Ulaanbaatar</trName></name>
       <name><languageId>my</languageId><trName>ဥလန်ဘာတော</trName></name>
+      <name><languageId>myv</languageId><trName>Улан-батор</trName></name>
       <name><languageId>nb</languageId><trName>Ulan Bator</trName></name>
       <name><languageId>nds</languageId><trName>Ulanbator</trName></name>
       <name><languageId>ne</languageId><trName>उलानबटार</trName></name>
@@ -50096,6 +50154,7 @@
       <name><languageId>ms</languageId><trName>Vaduz</trName></name>
       <name><languageId>mt</languageId><trName>Vaduz</trName></name>
       <name><languageId>my</languageId><trName>ဗာဒူးစ်</trName></name>
+      <name><languageId>myv</languageId><trName>Вадуц</trName></name>
       <name><languageId>nb</languageId><trName>Vaduz</trName></name>
       <name><languageId>ne</languageId><trName>भाडुज</trName></name>
       <name><languageId>nl</languageId><trName>Vaduz</trName></name>
@@ -50349,6 +50408,7 @@
       <name><languageId>ms</languageId><trName>Vatican</trName></name>
       <name><languageId>mt</languageId><trName>il-Belt tal-Vatikan</trName></name>
       <name><languageId>my</languageId><trName>ဗာတီကန်</trName></name>
+      <name><languageId>myv</languageId><trName>Ватикан</trName></name>
       <name><languageId>nb</languageId><trName>Vatikanstaten</trName></name>
       <name><languageId>ne</languageId><trName>भ्याटिकन</trName></name>
       <name><languageId>nl</languageId><trName>Vaticaanstad</trName></name>
@@ -50563,6 +50623,7 @@
       <name><languageId>ms</languageId><trName>Vienna</trName></name>
       <name><languageId>mt</languageId><trName>Vjenna</trName></name>
       <name><languageId>my</languageId><trName>ဗီယင်နာ</trName></name>
+      <name><languageId>myv</languageId><trName>Вена</trName></name>
       <name><languageId>nb</languageId><trName>Wien</trName></name>
       <name><languageId>ne</languageId><trName>भियना</trName></name>
       <name><languageId>nl</languageId><trName>Wenen</trName></name>
@@ -50809,6 +50870,7 @@
       <name><languageId>ms</languageId><trName>Vilnius</trName></name>
       <name><languageId>mt</languageId><trName>Vilnius</trName></name>
       <name><languageId>my</languageId><trName>ဗီးလ်နီအိုးစ်</trName></name>
+      <name><languageId>myv</languageId><trName>Вильнюс</trName></name>
       <name><languageId>nb</languageId><trName>Vilnius</trName></name>
       <name><languageId>ne</languageId><trName>भिल्निअस</trName></name>
       <name><languageId>nl</languageId><trName>Vilnius</trName></name>
@@ -51681,6 +51743,7 @@
       <name><languageId>ms</languageId><trName>Warsaw</trName></name>
       <name><languageId>mt</languageId><trName>Varsavja</trName></name>
       <name><languageId>my</languageId><trName>ဝါဆော</trName></name>
+      <name><languageId>myv</languageId><trName>Варшава</trName></name>
       <name><languageId>nb</languageId><trName>Warszawa</trName></name>
       <name><languageId>ne</languageId><trName>वारसअ</trName></name>
       <name><languageId>nl</languageId><trName>Warschau</trName></name>
@@ -52930,6 +52993,7 @@
       <name><languageId>ms</languageId><trName>Zagreb</trName></name>
       <name><languageId>mt</languageId><trName>Zagreb</trName></name>
       <name><languageId>my</languageId><trName>ဇာဂ်ဂရက်ဘ်</trName></name>
+      <name><languageId>myv</languageId><trName>Загреб</trName></name>
       <name><languageId>nb</languageId><trName>Zagreb</trName></name>
       <name><languageId>ne</languageId><trName>जाग्रेब</trName></name>
       <name><languageId>nl</languageId><trName>Zagreb</trName></name>
@@ -53187,6 +53251,7 @@
       <name><languageId>ms</languageId><trName>Zurich</trName></name>
       <name><languageId>mt</languageId><trName>Zurich</trName></name>
       <name><languageId>my</languageId><trName>ဇူးရစ်ချ်</trName></name>
+      <name><languageId>myv</languageId><trName>Цюрих</trName></name>
       <name><languageId>nb</languageId><trName>Zürich</trName></name>
       <name><languageId>ne</languageId><trName>जुरिक</trName></name>
       <name><languageId>nl</languageId><trName>Zürich</trName></name>
