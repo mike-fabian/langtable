@@ -34333,6 +34333,162 @@
     </timezones>
   </language>
   <language>
+    <languageId>mic</languageId>
+    <iso639-1>None</iso639-1>
+    <iso639-2-t>mic</iso639-2-t>
+    <iso639-2-b>mic</iso639-2-b>
+    <names>
+      <name><languageId>ab</languageId><trName>амикмак</trName></name>
+      <name><languageId>af</languageId><trName>Micmac</trName></name>
+      <name><languageId>am</languageId><trName>ሚክማው</trName></name>
+      <name><languageId>ar</languageId><trName>الميكماكيونية</trName></name>
+      <name><languageId>as</languageId><trName>মিকমেক</trName></name>
+      <name><languageId>ast</languageId><trName>micmac</trName></name>
+      <name><languageId>az</languageId><trName>mikmak</trName></name>
+      <name><languageId>be</languageId><trName>мікмак</trName></name>
+      <name><languageId>bew</languageId><trName>Mikmak</trName></name>
+      <name><languageId>bg</languageId><trName>микмак</trName></name>
+      <name><languageId>bgn</languageId><trName>میکماکی</trName></name>
+      <name><languageId>bn</languageId><trName>মিকম্যাক</trName></name>
+      <name><languageId>br</languageId><trName>mikmakeg</trName></name>
+      <name><languageId>brx</languageId><trName>मिईकमाक</trName></name>
+      <name><languageId>bs</languageId><trName>mikmak</trName></name>
+      <name><languageId>ca</languageId><trName>micmac</trName></name>
+      <name><languageId>ccp</languageId><trName>𑄟𑄨𑄇𑄟𑄳𑄠𑄇𑄴</trName></name>
+      <name><languageId>ce</languageId><trName>микмак</trName></name>
+      <name><languageId>chr</languageId><trName>ᎻᎧᎹᎩ</trName></name>
+      <name><languageId>ckb</languageId><trName>میکماک</trName></name>
+      <name><languageId>cs</languageId><trName>micmac</trName></name>
+      <name><languageId>cy</languageId><trName>Micmaceg</trName></name>
+      <name><languageId>da</languageId><trName>micmac</trName></name>
+      <name><languageId>de</languageId><trName>Micmac</trName></name>
+      <name><languageId>dsb</languageId><trName>mi'kmaqšćina</trName></name>
+      <name><languageId>el</languageId><trName>Μικμάκ</trName></name>
+      <name><languageId>en</languageId><trName>Mi'kmaw</trName></name>
+      <name><languageId>eo</languageId><trName>mikmaka</trName></name>
+      <name><languageId>es</languageId><trName>micmac</trName></name>
+      <name><languageId>et</languageId><trName>mikmaki</trName></name>
+      <name><languageId>eu</languageId><trName>mikmakera</trName></name>
+      <name><languageId>fa</languageId><trName>میکماکی</trName></name>
+      <name><languageId>fi</languageId><trName>micmac</trName></name>
+      <name><languageId>fil</languageId><trName>Micmac</trName></name>
+      <name><languageId>fo</languageId><trName>micmac</trName></name>
+      <name><languageId>fr</languageId><trName>micmac</trName></name>
+      <name><languageId>frr</languageId><trName>Mi'kmaw</trName></name>
+      <name><languageId>fy</languageId><trName>Mi’kmaq</trName></name>
+      <name><languageId>ga</languageId><trName>Micmeaicis</trName></name>
+      <name><languageId>gd</languageId><trName>Mi’kmaq</trName></name>
+      <name><languageId>gl</languageId><trName>micmac</trName></name>
+      <name><languageId>gsw</languageId><trName>Micmac-Schpraach</trName></name>
+      <name><languageId>gu</languageId><trName>મિકમેક</trName></name>
+      <name><languageId>ha</languageId><trName>Mi'kmaq</trName></name>
+      <name><languageId>he</languageId><trName>מיקמק</trName></name>
+      <name><languageId>hi</languageId><trName>मिकमैक</trName></name>
+      <name><languageId>hr</languageId><trName>micmac</trName></name>
+      <name><languageId>hsb</languageId><trName>mi'kmaqšćina</trName></name>
+      <name><languageId>hu</languageId><trName>mikmak</trName></name>
+      <name><languageId>hy</languageId><trName>միկմակ</trName></name>
+      <name><languageId>ia</languageId><trName>micmac</trName></name>
+      <name><languageId>id</languageId><trName>Mikmak</trName></name>
+      <name><languageId>ig</languageId><trName>Mịkmak</trName></name>
+      <name><languageId>is</languageId><trName>mikmak</trName></name>
+      <name><languageId>it</languageId><trName>micmac</trName></name>
+      <name><languageId>ja</languageId><trName>ミクマク語</trName></name>
+      <name><languageId>jv</languageId><trName>Mi'kmak</trName></name>
+      <name><languageId>ka</languageId><trName>მიკმაკი</trName></name>
+      <name><languageId>kab</languageId><trName>Tamikmakt</trName></name>
+      <name><languageId>kgp</languageId><trName>mĩkemỹke</trName></name>
+      <name><languageId>kk</languageId><trName>микмак тілі</trName></name>
+      <name><languageId>km</languageId><trName>មិកមេក</trName></name>
+      <name><languageId>kn</languageId><trName>ಮಿಕ್‌ಮ್ಯಾಕ್</trName></name>
+      <name><languageId>ko</languageId><trName>미크맥어</trName></name>
+      <name><languageId>kok</languageId><trName>मिक्माक</trName></name>
+      <name><languageId>ks</languageId><trName>مِکمیک</trName></name>
+      <name><languageId>ku</languageId><trName>mîkmakî</trName></name>
+      <name><languageId>ky</languageId><trName>микмакча</trName></name>
+      <name><languageId>lb</languageId><trName>Micmac-Sprooch</trName></name>
+      <name><languageId>lij</languageId><trName>mi'kmaq</trName></name>
+      <name><languageId>lo</languageId><trName>ມິກແມກ</trName></name>
+      <name><languageId>lt</languageId><trName>mikmakų</trName></name>
+      <name><languageId>lv</languageId><trName>mikmaku</trName></name>
+      <name><languageId>mai</languageId><trName>मिकमक</trName></name>
+      <name><languageId>mi</languageId><trName>Mīkamā</trName></name>
+      <name><languageId>mic</languageId><trName>Lʼnuiʼsuti</trName></name>
+      <name><languageId>mk</languageId><trName>микмак</trName></name>
+      <name><languageId>ml</languageId><trName>മിക്മാക്</trName></name>
+      <name><languageId>mn</languageId><trName>микмак</trName></name>
+      <name><languageId>mr</languageId><trName>मिकमॅक</trName></name>
+      <name><languageId>ms</languageId><trName>Micmac</trName></name>
+      <name><languageId>mt</languageId><trName>Micmac</trName></name>
+      <name><languageId>my</languageId><trName>မစ်ခ်မက်ခ်</trName></name>
+      <name><languageId>nds</languageId><trName>Micmac</trName></name>
+      <name><languageId>ne</languageId><trName>मिकमाक</trName></name>
+      <name><languageId>nl</languageId><trName>Mi’kmaq</trName></name>
+      <name><languageId>no</languageId><trName>micmac</trName></name>
+      <name><languageId>or</languageId><trName>ମିକମୌକ୍</trName></name>
+      <name><languageId>pa</languageId><trName>ਮਾਇਮੈਕ</trName></name>
+      <name><languageId>pl</languageId><trName>mikmak</trName></name>
+      <name><languageId>ps</languageId><trName>ممکق</trName></name>
+      <name><languageId>pt</languageId><trName>miquemaque</trName></name>
+      <name><languageId>qu</languageId><trName>Mi'kmaq Simi</trName></name>
+      <name><languageId>rm</languageId><trName>micmac</trName></name>
+      <name><languageId>ro</languageId><trName>micmac</trName></name>
+      <name><languageId>ru</languageId><trName>микмак</trName></name>
+      <name><languageId>sat</languageId><trName>ᱢᱤᱠᱢᱟᱠ</trName></name>
+      <name><languageId>sc</languageId><trName>micmac</trName></name>
+      <name><languageId>sd</languageId><trName>ميڪ مڪ</trName></name>
+      <name><languageId>si</languageId><trName>මික්මැක්</trName></name>
+      <name><languageId>sk</languageId><trName>mikmakčina</trName></name>
+      <name><languageId>sl</languageId><trName>mikmaščina</trName></name>
+      <name><languageId>smn</languageId><trName>micmac</trName></name>
+      <name><languageId>so</languageId><trName>Mi'kmaq</trName></name>
+      <name><languageId>sq</languageId><trName>mikmakisht</trName></name>
+      <name><languageId>sr</languageId><trName>микмак</trName></name>
+      <name><languageId>sr_Latn</languageId><trName>mikmak</trName></name>
+      <name><languageId>sv</languageId><trName>mi’kmaq</trName></name>
+      <name><languageId>sw</languageId><trName>Mi’kmaq</trName></name>
+      <name><languageId>ta</languageId><trName>மிக்மாக்</trName></name>
+      <name><languageId>te</languageId><trName>మికమాక్</trName></name>
+      <name><languageId>th</languageId><trName>มิกแมก</trName></name>
+      <name><languageId>ti</languageId><trName>ሚክማክ</trName></name>
+      <name><languageId>tk</languageId><trName>mikmak dili</trName></name>
+      <name><languageId>to</languageId><trName>lea fakamikemaki</trName></name>
+      <name><languageId>tr</languageId><trName>Micmac</trName></name>
+      <name><languageId>ug</languageId><trName>مىكماكچە</trName></name>
+      <name><languageId>uk</languageId><trName>мікмак</trName></name>
+      <name><languageId>ur</languageId><trName>مکمیک</trName></name>
+      <name><languageId>uz</languageId><trName>mikmak</trName></name>
+      <name><languageId>vi</languageId><trName>Tiếng Micmac</trName></name>
+      <name><languageId>yo</languageId><trName>Èdè Mikmaki</trName></name>
+      <name><languageId>yue</languageId><trName>米克馬克文</trName></name>
+      <name><languageId>zh</languageId><trName>密克马克语</trName></name>
+      <name><languageId>zh_Hant</languageId><trName>米克馬克文</trName></name>
+      <name><languageId>zu</languageId><trName>isi-Micmac</trName></name>
+    </names>
+    <scripts>
+      <script><scriptId>Latn</scriptId><rank>1000</rank></script>
+    </scripts>
+    <locales>
+    </locales>
+    <territories>
+      <territory><territoryId>CA</territoryId><rank>600</rank></territory>
+      <territory><territoryId>US</territoryId><rank>400</rank></territory>
+    </territories>
+    <keyboards>
+      <keyboard><keyboardId>ca(eng)</keyboardId><rank>600</rank></keyboard>
+      <keyboard><keyboardId>us</keyboardId><rank>400</rank></keyboard>
+    </keyboards>
+    <inputmethods>
+    </inputmethods>
+    <consolefonts>
+      <consolefont><consolefontId>eurlatgr</consolefontId><rank>1000</rank></consolefont>
+    </consolefonts>
+    <timezones>
+      <timezone><timezoneId>America/Moncton</timezoneId><rank>600</rank></timezone>
+      <timezone><timezoneId>America/New_York</timezoneId><rank>400</rank></timezone>
+    </timezones>
+  </language>
+  <language>
     <languageId>miq</languageId>
     <iso639-1>None</iso639-1>
     <iso639-2-t>miq</iso639-2-t>
