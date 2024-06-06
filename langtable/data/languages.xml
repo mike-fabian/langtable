@@ -34088,6 +34088,40 @@
     </timezones>
   </language>
   <language>
+    <languageId>mhn</languageId>
+    <iso639-1>None</iso639-1>
+    <iso639-2-t>None</iso639-2-t>
+    <iso639-2-b>None</iso639-2-b>
+    <names>
+      <name><languageId>de</languageId><trName>Fersentalerisch</trName></name>
+      <name><languageId>en</languageId><trName>Mòcheno</trName></name>
+      <name><languageId>es</languageId><trName>Mócheno</trName></name>
+      <name><languageId>fr</languageId><trName>Mochène</trName></name>
+      <name><languageId>it</languageId><trName>Mocheno</trName></name>
+      <name><languageId>ja</languageId><trName>モケーニ語</trName></name>
+      <name><languageId>mhn</languageId><trName>Bersntolerisch</trName></name>
+    </names>
+    <scripts>
+      <script><scriptId>Latn</scriptId><rank>1000</rank></script>
+    </scripts>
+    <locales>
+    </locales>
+    <territories>
+      <territory><territoryId>IT</territoryId><rank>1000</rank></territory>
+    </territories>
+    <keyboards>
+      <keyboard><keyboardId>it</keyboardId><rank>1000</rank></keyboard>
+    </keyboards>
+    <inputmethods>
+    </inputmethods>
+    <consolefonts>
+      <consolefont><consolefontId>eurlatgr</consolefontId><rank>1000</rank></consolefont>
+    </consolefonts>
+    <timezones>
+      <timezone><timezoneId>Europe/Rome</timezoneId><rank>1000</rank></timezone>
+    </timezones>
+  </language>
+  <language>
     <languageId>mhr</languageId>
     <iso639-1>None</iso639-1>
     <iso639-2-t>chm</iso639-2-t>
