@@ -1,3 +1,10 @@
+2024-06-11  Mike FABIAN  <mfabian@redhat.com>
+
+	* Add tool to check which languages, scripts, and territories available in CLDR are missing in langtable
+	* Add all missing scripts and languages: yrl, xnr, wbp, vmw, vec, trw, trv, skr, sdh, quc, pis, pcm, myv, mus, moh, mic, mhn, ltg, lmo, lld, kxv, kpe, kgp, ken, kcg, kaj, jbo, gaa, frr, csw, cic, cho, ceb, cch, cad, bss, blt, Tavt blo, bgn, bgc, rhg, Rohg hnj, Hmnp Shaw, Dsrt bew, bal, arn, apc, ann, scn
+	* Drop Python < 3 support (using pyupgrade --py3-plus langtable.py)
+	* Fix some ruff and pylint warnings
+
 2024-05-07  Mike FABIAN  <mfabian@redhat.com>
 
 	* Fix syntax error in a keyboard layout name for th
