@@ -52,6 +52,10 @@ pip-install-test:
 pip-install:
 	(cd /tmp; python3 -m pip install --user --ignore-installed --no-cache-dir --no-deps langtable)
 
+.PHONY: pip-uninstall
+pip-uninstall:
+	pip uninstall langtable
+
 .PHONY: clean
 clean:
 	git clean -dxf
