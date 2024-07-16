@@ -1,3 +1,10 @@
+2024-07-16  Mike FABIAN  <mfabian@redhat.com>
+
+	* Reorder ibus/chewing as the default inputmethod for TW or Hant.
+	Resolves: https://github.com/mike-fabian/langtable/pull/22
+	See: https://fedoraproject.org/wiki/Changes/IBusChewingForZhTW
+	* Add ltg_LV.UTF-8
+
 2024-06-11  Mike FABIAN  <mfabian@redhat.com>
 
 	* Add tool to check which languages, scripts, and territories available in CLDR are missing in langtable
