@@ -2169,7 +2169,7 @@ def dummy():
     >>> print(list_all_input_methods())    # doctest: +NORMALIZE_WHITESPACE
     ['ibus/anthy', 'ibus/chewing', 'ibus/hangul', 'ibus/kkc', 'ibus/libpinyin', 'ibus/libzhuyin', 'ibus/m17n:ar:kbd', 'ibus/m17n:as:inscript2', 'ibus/m17n:bn:inscript2', 'ibus/m17n:brx:inscript2-deva', 'ibus/m17n:doi:inscript2-deva', 'ibus/m17n:gu:inscript2', 'ibus/m17n:hi:inscript2', 'ibus/m17n:kn:inscript2', 'ibus/m17n:kok:inscript2-deva', 'ibus/m17n:ks:inscript2-deva', 'ibus/m17n:ks:kbd', 'ibus/m17n:mai:inscript2', 'ibus/m17n:ml:inscript2', 'ibus/m17n:mni:inscript2-beng', 'ibus/m17n:mr:inscript2', 'ibus/m17n:ne:inscript2-deva', 'ibus/m17n:or:inscript2', 'ibus/m17n:pa:inscript2-guru', 'ibus/m17n:sa:inscript2', 'ibus/m17n:sat:inscript2-deva', 'ibus/m17n:sd:inscript2-deva', 'ibus/m17n:ta:inscript2', 'ibus/m17n:te:inscript2', 'ibus/m17n:ur:phonetic', 'ibus/m17n:vi:telex', 'ibus/table:cangjie5']
     >>> print(list_all_console_fonts())    # doctest: +NORMALIZE_WHITESPACE
-    ['LatGrkCyr-8x16', 'eurlatgr', 'iso07u-16', 'latarcyrheb-sun16']
+    ['LatCyrHebKa-16_GIA', 'LatGrkCyr-8x16', 'eurlatgr', 'georgian16', 'iso07u-16', 'latarcyrheb-sun16']
     '''
 
 
