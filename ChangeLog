@@ -1,3 +1,13 @@
+2025-07-17  Mike FABIAN  <mfabian@redhat.com>
+
+	* Georgian: add georgian console fonts (by Adam Williamson)
+	* Add Gara script and add Adlm script to SN
+	* Add dra and Tutg
+	* Add ath
+	* Add cmc, Cham
+	* Add tai
+	* Change license tag to SPDX license expression
+
 2024-07-16  Mike FABIAN  <mfabian@redhat.com>
 
 	* Reorder ibus/chewing as the default inputmethod for TW or Hant.
