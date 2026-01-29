@@ -1403,7 +1403,7 @@ def dummy():
     >>> print(language_name(languageId="csb_PL.utf8")) # doctest: +NORMALIZE_WHITESPACE
     Kaszëbsczi jãzëk (Pòlskô)
     >>> print(language_name(languageId="cv_RU.utf8")) # doctest: +NORMALIZE_WHITESPACE
-    Чӑваш (Раҫҫей)
+    Чӑваш чӗлхи (Раҫҫей)
     >>> print(language_name(languageId="cy_GB.utf8")) # doctest: +NORMALIZE_WHITESPACE
     Cymraeg (Y Deyrnas Unedig)
     >>> print(language_name(languageId="da_DK.utf8")) # doctest: +NORMALIZE_WHITESPACE
@@ -1581,7 +1581,7 @@ def dummy():
     >>> print(language_name(languageId="hsb_DE.utf8")) # doctest: +NORMALIZE_WHITESPACE
     Hornjoserbšćina (Němska)
     >>> print(language_name(languageId="ht_HT.utf8")) # doctest: +NORMALIZE_WHITESPACE
-    Kreyòl ayisyen (Ayiti)
+    Kreyòl Ayisyen (Ayiti)
     >>> print(language_name(languageId="hu_HU.utf8")) # doctest: +NORMALIZE_WHITESPACE
     Magyar (Magyarország)
     >>> print(language_name(languageId="hy_AM.utf8")) # doctest: +NORMALIZE_WHITESPACE
@@ -1625,7 +1625,7 @@ def dummy():
     >>> print(language_name(languageId="ks_IN.utf8@devanagari")) # doctest: +NORMALIZE_WHITESPACE
     कॉशुर (हिंदोस्तान)
     >>> print(language_name(languageId="ku_TR.utf8")) # doctest: +NORMALIZE_WHITESPACE
-    Kurdî (kurmancî) (Tirkiye)
+    Kurmancî (Türkiye)
     >>> print(language_name(languageId="kw_GB.utf8")) # doctest: +NORMALIZE_WHITESPACE
     Kernewek (Rywvaneth Unys)
     >>> print(language_name(languageId="ky_KG.utf8")) # doctest: +NORMALIZE_WHITESPACE
@@ -1753,7 +1753,7 @@ def dummy():
     >>> print(language_name(languageId="ru_UA.utf8")) # doctest: +NORMALIZE_WHITESPACE
     Русский (Украина)
     >>> print(language_name(languageId="rw_RW.utf8")) # doctest: +NORMALIZE_WHITESPACE
-    Kinyarwanda (U Rwanda)
+    Ikinyarwanda (U Rwanda)
     >>> print(language_name(languageId="sa_IN.utf8")) # doctest: +NORMALIZE_WHITESPACE
     संस्कृत भाषा (भारतः)
     >>> print(language_name(languageId="sah_RU.utf8")) # doctest: +NORMALIZE_WHITESPACE
@@ -1891,7 +1891,7 @@ def dummy():
     >>> print(language_name(languageId="yo_NG.utf8")) # doctest: +NORMALIZE_WHITESPACE
     Èdè Yorùbá (Nàìjíríà)
     >>> print(language_name(languageId="yue_HK.utf8")) # doctest: +NORMALIZE_WHITESPACE
-    粵語 (中華人民共和國香港特別行政區)
+    粵語 (中國香港特別行政區)
     >>> print(language_name(languageId="yuw_PG.utf8")) # doctest: +NORMALIZE_WHITESPACE
     Uruwa (Papua New Guinea)
     >>> print(language_name(languageId="zh_CN.utf8")) # doctest: +NORMALIZE_WHITESPACE
