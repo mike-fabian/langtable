@@ -37,17 +37,6 @@
     </territories>
   </keyboard>
   <keyboard>
-    <keyboardId>af(ps-olpc)</keyboardId>
-    <description>Pashto (Afghanistan, OLPC)</description>
-    <ascii>False</ascii>
-    <languages>
-      <language><languageId>ps</languageId><rank>0</rank></language>
-    </languages>
-    <territories>
-      <territory><territoryId>AF</territoryId><rank>0</rank></territory>
-    </territories>
-  </keyboard>
-  <keyboard>
     <keyboardId>af(ps)</keyboardId>
     <description>Pashto</description>
     <ascii>False</ascii>
@@ -56,6 +45,17 @@
     </languages>
     <territories>
       <territory><territoryId>AF</territoryId><rank>1000</rank></territory>
+    </territories>
+  </keyboard>
+  <keyboard>
+    <keyboardId>af(ps-olpc)</keyboardId>
+    <description>Pashto (Afghanistan, OLPC)</description>
+    <ascii>False</ascii>
+    <languages>
+      <language><languageId>ps</languageId><rank>0</rank></language>
+    </languages>
+    <territories>
+      <territory><territoryId>AF</territoryId><rank>0</rank></territory>
     </territories>
   </keyboard>
   <keyboard>
@@ -701,11 +701,11 @@
     </territories>
   </keyboard>
   <keyboard>
-    <keyboardId>dz(azerty-oss)</keyboardId>
-    <description>Berber (Algeria, Latin)</description>
-    <ascii>True</ascii>
+    <keyboardId>dz(ar)</keyboardId>
+    <description>Arabic (Algeria)</description>
+    <ascii>False</ascii>
     <languages>
-      <language><languageId>ber</languageId><rank>1000</rank></language>
+      <language><languageId>ar</languageId><rank>1000</rank></language>
     </languages>
     <territories>
       <territory><territoryId>DZ</territoryId><rank>1000</rank></territory>
@@ -723,9 +723,9 @@
     </territories>
   </keyboard>
   <keyboard>
-    <keyboardId>dz(ber)</keyboardId>
-    <description>Berber (Algeria, Tifinagh)</description>
-    <ascii>False</ascii>
+    <keyboardId>dz(azerty-oss)</keyboardId>
+    <description>Berber (Algeria, Latin)</description>
+    <ascii>True</ascii>
     <languages>
       <language><languageId>ber</languageId><rank>1000</rank></language>
     </languages>
@@ -734,11 +734,11 @@
     </territories>
   </keyboard>
   <keyboard>
-    <keyboardId>dz(ar)</keyboardId>
-    <description>Arabic (Algeria)</description>
+    <keyboardId>dz(ber)</keyboardId>
+    <description>Berber (Algeria, Tifinagh)</description>
     <ascii>False</ascii>
     <languages>
-      <language><languageId>ar</languageId><rank>1000</rank></language>
+      <language><languageId>ber</languageId><rank>1000</rank></language>
     </languages>
     <territories>
       <territory><territoryId>DZ</territoryId><rank>1000</rank></territory>
@@ -1358,6 +1358,17 @@
     </territories>
   </keyboard>
   <keyboard>
+    <keyboardId>in(tam_tamilnet)</keyboardId>
+    <description>Tamil (TamilNet '99)</description>
+    <ascii>False</ascii>
+    <languages>
+      <language><languageId>ta</languageId><rank>0</rank></language>
+    </languages>
+    <territories>
+      <territory><territoryId>IN</territoryId><rank>0</rank></territory>
+    </territories>
+  </keyboard>
+  <keyboard>
     <keyboardId>in(tam_tamilnet_TAB)</keyboardId>
     <description>Tamil (TamilNet '99, TAB encoding)</description>
     <ascii>False</ascii>
@@ -1383,17 +1394,6 @@
   <keyboard>
     <keyboardId>in(tam_tamilnet_with_tam_nums)</keyboardId>
     <description>Tamil (TamilNet '99 with Tamil numerals)</description>
-    <ascii>False</ascii>
-    <languages>
-      <language><languageId>ta</languageId><rank>0</rank></language>
-    </languages>
-    <territories>
-      <territory><territoryId>IN</territoryId><rank>0</rank></territory>
-    </territories>
-  </keyboard>
-  <keyboard>
-    <keyboardId>in(tam_tamilnet)</keyboardId>
-    <description>Tamil (TamilNet '99)</description>
     <ascii>False</ascii>
     <languages>
       <language><languageId>ta</languageId><rank>0</rank></language>
