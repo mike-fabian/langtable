@@ -701,6 +701,50 @@
     </territories>
   </keyboard>
   <keyboard>
+    <keyboardId>dz(azerty-oss)</keyboardId>
+    <description>Berber (Algeria, Latin)</description>
+    <ascii>True</ascii>
+    <languages>
+      <language><languageId>ber</languageId><rank>1000</rank></language>
+    </languages>
+    <territories>
+      <territory><territoryId>DZ</territoryId><rank>1000</rank></territory>
+    </territories>
+  </keyboard>
+  <keyboard>
+    <keyboardId>dz(azerty-deadkeys)</keyboardId>
+    <description>Kabyle (AZERTY, with dead keys)</description>
+    <ascii>True</ascii>
+    <languages>
+      <language><languageId>kab</languageId><rank>1000</rank></language>
+    </languages>
+    <territories>
+      <territory><territoryId>DZ</territoryId><rank>1000</rank></territory>
+    </territories>
+  </keyboard>
+  <keyboard>
+    <keyboardId>dz(ber)</keyboardId>
+    <description>Berber (Algeria, Tifinagh)</description>
+    <ascii>False</ascii>
+    <languages>
+      <language><languageId>ber</languageId><rank>1000</rank></language>
+    </languages>
+    <territories>
+      <territory><territoryId>DZ</territoryId><rank>1000</rank></territory>
+    </territories>
+  </keyboard>
+  <keyboard>
+    <keyboardId>dz(ar)</keyboardId>
+    <description>Arabic (Algeria)</description>
+    <ascii>False</ascii>
+    <languages>
+      <language><languageId>ar</languageId><rank>1000</rank></language>
+    </languages>
+    <territories>
+      <territory><territoryId>DZ</territoryId><rank>1000</rank></territory>
+    </territories>
+  </keyboard>
+  <keyboard>
     <keyboardId>ee</keyboardId>
     <description>Estonian</description>
     <ascii>True</ascii>
