@@ -910,7 +910,7 @@ def dummy():
 
     >>> _test_language_territory(show_weights=False, languageId="tt", territoryId="RU") # doctest: +NORMALIZE_WHITESPACE
         tt: ['tt_RU.UTF-8', 'tt_RU.UTF-8@iqtelif']
-        RU: ['ru_RU.UTF-8', 'ce_RU.UTF-8', 'cv_RU.UTF-8', 'mhr_RU.UTF-8', 'os_RU.UTF-8', 'tt_RU.UTF-8', 'tt_RU.UTF-8@iqtelif', 'sah_RU.UTF-8', 'kv_RU.UTF-8', 'crh_RU.UTF-8']
+        RU: ['ru_RU.UTF-8', 'ce_RU.UTF-8', 'cv_RU.UTF-8', 'mhr_RU.UTF-8', 'os_RU.UTF-8', 'tt_RU.UTF-8', 'tt_RU.UTF-8@iqtelif', 'sah_RU.UTF-8', 'kv_RU.UTF-8', 'crh_RU.UTF-8', 'mdf_RU.UTF-8']
          +: ['tt_RU.UTF-8']
         tt: ['ru(tt)', 'us(altgr-intl)']
         RU: ['ru', 'ru(tt)', 'us(altgr-intl)']
@@ -918,7 +918,7 @@ def dummy():
 
     >>> _test_language_territory(show_weights=False, languageId="tt", scriptId="Latn", territoryId="RU") # doctest: +NORMALIZE_WHITESPACE
         tt: ['tt_RU.UTF-8', 'tt_RU.UTF-8@iqtelif']
-        RU: ['ru_RU.UTF-8', 'ce_RU.UTF-8', 'cv_RU.UTF-8', 'mhr_RU.UTF-8', 'os_RU.UTF-8', 'tt_RU.UTF-8', 'tt_RU.UTF-8@iqtelif', 'sah_RU.UTF-8', 'kv_RU.UTF-8', 'crh_RU.UTF-8']
+        RU: ['ru_RU.UTF-8', 'ce_RU.UTF-8', 'cv_RU.UTF-8', 'mhr_RU.UTF-8', 'os_RU.UTF-8', 'tt_RU.UTF-8', 'tt_RU.UTF-8@iqtelif', 'sah_RU.UTF-8', 'kv_RU.UTF-8', 'crh_RU.UTF-8', 'mdf_RU.UTF-8']
          +: ['tt_RU.UTF-8@iqtelif']
         tt: ['ru(tt)', 'us(altgr-intl)']
         RU: ['ru', 'ru(tt)', 'us(altgr-intl)']
