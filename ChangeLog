@@ -1,3 +1,11 @@
+2026-02-02  Mike FABIAN  <mfabian@redhat.com>
+
+	* Add a few dz keyboards (Resolves: https://github.com/mike-fabian/langtable/issues/25)
+	* Add more translations from CLDR
+	* Get translation changes from CLDR
+	* Add GS, ady, bqi, isv, kbd, kek, lzz, mww, oka, pi, pms, suz, Suni, si_ID.UTF-8 zgh_MA.UTF-8
+	* Add mdf_RU.UTF-8 to RU
+
 2025-07-17  Mike FABIAN  <mfabian@redhat.com>
 
 	* Georgian: add georgian console fonts (by Adam Williamson)
