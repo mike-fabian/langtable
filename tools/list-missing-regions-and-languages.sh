@@ -6,7 +6,7 @@ echo "----------------------------------------------------------------------"
 echo "Missing territories:"
 MISSING_TERRITORIES=
 MISSING_TERRITORIES_COUNT=0
-for i in $(locale -a | grep -a _ | perl -pe 's/.*_([A-Z]{2,2}).*/\1/g' | sort | uniq  ); do grep -q $i territories.xml; if [ $? -eq 1 ]; then MISSING_TERRITORIES="$MISSING_TERRITORIES $i"; MISSING_TERRITORIES_COUNT=$(expr $MISSING_TERRITORIES_COUNT + 1); fi; done
+for i in $(locale -a | grep -a _ | perl -pe 's/[a-z]{2,3}_([A-Z]{2,2}).*/\1/g' | sort | uniq  ); do grep -q "<territoryId>$i</territoryId>" territories.xml; if [ $? -eq 1 ]; then MISSING_TERRITORIES="$MISSING_TERRITORIES $i"; MISSING_TERRITORIES_COUNT=$(expr $MISSING_TERRITORIES_COUNT + 1); fi; done
 echo $MISSING_TERRITORIES
 echo count=$MISSING_TERRITORIES_COUNT
 
@@ -30,7 +30,7 @@ echo "----------------------------------------------------------------------"
 echo "Missing locales in territories.xml:"
 MISSING_LOCALES_IN_TERRITORIES=
 MISSING_LOCALES_IN_TERRITORIES_COUNT=0
-for i in $(locale -a | grep -a utf8 | perl -pe 's/utf8/UTF-8/g' | grep -v '\(C\|eo\|ia_FR\).UTF-8' | sort | uniq  ); do grep -q "<localeId>$i</localeId>" territories.xml; if [ $? -eq 1 ]; then MISSING_LOCALES_IN_TERRITORIES="$MISSING_LOCALES_IN_TERRITORIES $i"; MISSING_LOCALES_IN_TERRITORIES_COUNT=$(expr $MISSING_LOCALES_IN_TERRITORIES_COUNT + 1); fi; done
+for i in $(locale -a | grep -a utf8 | perl -pe 's/utf8/UTF-8/g' | grep -v '\(C\|eo\|tok\|ia_FR\).UTF-8' | sort | uniq  ); do grep -q "<localeId>$i</localeId>" territories.xml; if [ $? -eq 1 ]; then MISSING_LOCALES_IN_TERRITORIES="$MISSING_LOCALES_IN_TERRITORIES $i"; MISSING_LOCALES_IN_TERRITORIES_COUNT=$(expr $MISSING_LOCALES_IN_TERRITORIES_COUNT + 1); fi; done
 echo $MISSING_LOCALES_IN_TERRITORIES
 echo count=$MISSING_LOCALES_IN_TERRITORIES_COUNT
 
