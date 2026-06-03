@@ -12,7 +12,7 @@ setuptools.setup(
     # within the egg directory easily:
     zip_safe=False,
     name='langtable',
-    version='0.0.70',
+    version='0.0.71',
     python_requires='>=3.8',
     packages=setuptools.find_packages(),
     description='guess reasonable defaults for locale, keyboard, territory, ...',

@@ -1,3 +1,13 @@
+2026-06-03  Mike FABIAN  <mfabian@redhat.com>
+
+	* langtable.py: Fix deprecation warning: `langtable.py:2652: UserWarning: pkg_resources is deprecated as an API`
+	* Add xdq, sus, mrh, hrx, brh, ary, en_SE.UTF-8
+	* Get new translations and translation changes from CLDR
+	* setup.py: use open() instead of deprecated codecs.open(), declare minimum Python version >= 3.8
+	* Add Yangon timezone id part
+	* languages.xml: Rename Asia/Rangoon to Asia/Yangon
+	* territories.xml: Rename Asia/Rangoon to Asia/Yangon
+
 2026-02-02  Mike FABIAN  <mfabian@redhat.com>
 
 	* Add a few dz keyboards (Resolves: https://github.com/mike-fabian/langtable/issues/25)
