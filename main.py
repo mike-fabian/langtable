@@ -82,6 +82,7 @@ timezone_city_aliases = {
     'Saigon': 'Ho_Chi_Minh',
     'Katmandu': 'Kathmandu',
     'Ponape': 'Pohnpei',
+    'Rangoon': 'Yangon',
 }
 
 def read_translations_from_cldr_file(file = None):
