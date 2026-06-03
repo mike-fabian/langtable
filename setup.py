@@ -1,7 +1,11 @@
 #!/usr/bin/python3
-
+'''Setup script for langtable.'''
+import os
 import setuptools
-import codecs
+
+here = os.path.abspath(os.path.dirname(__file__))
+with open(os.path.join(here, 'README.md'), encoding='UTF-8') as readme:
+    long_description = readme.read()
 
 setuptools.setup(
     # do not zip the egg file to be able to access the *.xml.gz files
@@ -11,7 +15,7 @@ setuptools.setup(
     version='0.0.70',
     packages=setuptools.find_packages(),
     description='guess reasonable defaults for locale, keyboard, territory, ...',
-    long_description=codecs.open('README.md', encoding='UTF-8').read(),
+    long_description=long_description,
     long_description_content_type='text/markdown',
     license="GPL-3.0-or-later",
     author='Mike FABIAN',
@@ -21,23 +25,6 @@ setuptools.setup(
     package_data={
         'langtable': ['data/*.xml.gz', 'schemas/*.rng'],
     },
-    # data_files is for installing the data files outside of the package with:
-    #
-    #     ./setup.py install_data --install-dir=dirname
-    #
-    #    data_files = [
-    #        ('data',
-    #         ['langtable/data/keyboards.xml.gz',
-    #          'langtable/data/languages.xml.gz',
-    #          'langtable/data/territories.xml.gz',
-    #          'langtable/data/timezones.xml.gz',
-    #          'langtable/data/timezoneidparts.xml.gz']),
-    #        ('schemas',
-    #         ['langtable/schemas/keyboards.rng',
-    #          'langtable/schemas/languages.rng',
-    #          'langtable/schemas/territories.rng',
-    #          'langtable/schemas/timezones.rng',
-    #          'langtable/schemas/timezoneidparts.rng'])],
     classifiers=[
         'Development Status :: 2 - Pre-Alpha',
         'Environment :: Console',

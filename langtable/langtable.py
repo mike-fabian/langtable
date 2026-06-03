@@ -205,7 +205,7 @@ class language_db_item: # pylint: disable=too-few-public-methods
 
 class keyboard_db_item: # pylint: disable=too-few-public-methods
     '''Holds information for one keyboard layout'''
-    def __init__(self, description=None, ascii=True, languages=None, territories = None, comment=None):
+    def __init__(self, description=None, ascii=True, languages=None, territories=None, comment=None):  # pylint: disable=redefined-builtin
         self.description = description
         self.ascii  = ascii
         self.comment = comment
