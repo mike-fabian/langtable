@@ -2640,19 +2640,18 @@ def version():
     '''
     Return version of langtable
     '''
-    # pkg_resources is part of setuptools
-    import pkg_resources  # type: ignore pylint: disable=import-outside-toplevel
-    return pkg_resources.require("langtable")[0].version
+    from importlib import metadata  # pylint: disable=import-outside-toplevel
+    return metadata.distribution('langtable').version
 
 def info():
     '''
     Print some info about langtable
     '''
-    # pkg_resources is part of setuptools
-    import pkg_resources  # type: ignore pylint: disable=import-outside-toplevel
-    project_name = pkg_resources.require("langtable")[0].project_name
-    version = pkg_resources.require("langtable")[0].version
-    module_path = pkg_resources.require("langtable")[0].module_path
+    from importlib import metadata  # pylint: disable=import-outside-toplevel
+    dist = metadata.distribution('langtable')
+    project_name = dist.metadata['Name']
+    version = dist.version
+    module_path = os.path.dirname(os.path.realpath(__file__))
     print(f'Project name: = {project_name}')
     print(f'Version: = {version}')
     print(f'Module path: = {module_path}')
