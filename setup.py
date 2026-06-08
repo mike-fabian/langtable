@@ -13,6 +13,7 @@ setuptools.setup(
     zip_safe=False,
     name='langtable',
     version='0.0.70',
+    python_requires='>=3.8',
     packages=setuptools.find_packages(),
     description='guess reasonable defaults for locale, keyboard, territory, ...',
     long_description=long_description,
